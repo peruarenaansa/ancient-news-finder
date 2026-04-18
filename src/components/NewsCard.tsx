@@ -49,11 +49,15 @@ export function NewsCard({ item, saved, read, onToggleSave, onMarkRead }: Props)
           rel="noopener noreferrer"
           onClick={onMarkRead}
           className="hidden shrink-0 overflow-hidden rounded-md bg-muted sm:block"
+          aria-label={`Irakurri jatorrian: ${item.title}`}
         >
           <img
             src={item.image}
             alt=""
             loading="lazy"
+            decoding="async"
+            width={112}
+            height={112}
             className="h-28 w-28 object-cover transition-transform group-hover:scale-105"
             onError={(e) => {
               (e.currentTarget.parentElement as HTMLElement).style.display = 'none';
@@ -61,7 +65,10 @@ export function NewsCard({ item, saved, read, onToggleSave, onMarkRead }: Props)
           />
         </a>
       ) : (
-        <div className="hidden h-28 w-28 shrink-0 items-center justify-center rounded-md bg-secondary text-3xl sm:flex">
+        <div
+          aria-hidden="true"
+          className="hidden h-28 w-28 shrink-0 items-center justify-center rounded-md bg-secondary text-3xl sm:flex"
+        >
           📜
         </div>
       )}
