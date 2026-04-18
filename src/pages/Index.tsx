@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react';
-import { Search, Loader2, RefreshCw, Bookmark } from 'lucide-react';
+import { Search, Loader2, RefreshCw, Bookmark, CheckCheck } from 'lucide-react';
 import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
@@ -16,7 +16,6 @@ import { useLocalStorageSet } from '@/hooks/use-local-storage-set';
 import {
   LANG_LABELS,
   REGION_LABELS,
-  TOPIC_LABELS,
   type NewsFeed,
   type NewsItem,
   type NewsLang,
@@ -33,12 +32,11 @@ const Index = () => {
   const [query, setQuery] = useState('');
   const [region, setRegion] = useState<NewsRegion | 'all'>('all');
   const [lang, setLang] = useState<NewsLang | 'all'>('all');
-  const [topic, setTopic] = useState<string>('all');
   const [showSavedOnly, setShowSavedOnly] = useState(false);
   const [page, setPage] = useState(1);
 
   const { set: saved, toggle: toggleSaved } = useLocalStorageSet('archaeo:saved');
-  const { set: read, add: markRead } = useLocalStorageSet('archaeo:read');
+  const { set: read, add: markRead, addMany: markManyRead } = useLocalStorageSet('archaeo:read');
 
   useEffect(() => {
     let active = true;
@@ -67,18 +65,18 @@ const Index = () => {
       if (showSavedOnly && !saved.has(it.id)) return false;
       if (region !== 'all' && it.region !== region) return false;
       if (lang !== 'all' && it.lang !== lang) return false;
-      if (topic !== 'all' && !it.topics.includes(topic)) return false;
+      // (gai-iragazkia kenduta)
       if (q) {
         const hay = `${it.title} ${it.summary} ${it.source.name}`.toLowerCase();
         if (!hay.includes(q)) return false;
       }
       return true;
     });
-  }, [feed, query, region, lang, topic, showSavedOnly, saved]);
+  }, [feed, query, region, lang, showSavedOnly, saved]);
 
   // Euskal Herriko albisteak gainean lehenetsi (iragazkirik gabe denean)
   const sorted = useMemo(() => {
-    if (region !== 'all' || query || topic !== 'all' || lang !== 'all' || showSavedOnly) {
+    if (region !== 'all' || query || lang !== 'all' || showSavedOnly) {
       return filtered;
     }
     return [...filtered].sort((a, b) => {
@@ -86,7 +84,7 @@ const Index = () => {
       if (b.region === 'basque' && a.region !== 'basque') return 1;
       return new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime();
     });
-  }, [filtered, region, query, topic, lang, showSavedOnly]);
+  }, [filtered, region, query, lang, showSavedOnly]);
 
   const visible = sorted.slice(0, page * PAGE_SIZE);
   const hasMore = visible.length < sorted.length;
@@ -102,7 +100,6 @@ const Index = () => {
     setQuery('');
     setRegion('all');
     setLang('all');
-    setTopic('all');
     setShowSavedOnly(false);
     setPage(1);
   };
@@ -173,16 +170,6 @@ const Index = () => {
                 </SelectContent>
               </Select>
 
-              <Select value={topic} onValueChange={(v) => { setTopic(v); setPage(1); }}>
-                <SelectTrigger className="w-[160px]"><SelectValue placeholder="Gaia" /></SelectTrigger>
-                <SelectContent>
-                  <SelectItem value="all">Gai guztiak</SelectItem>
-                  {Object.entries(TOPIC_LABELS).map(([k, v]) => (
-                    <SelectItem key={k} value={k}>{v}</SelectItem>
-                  ))}
-                </SelectContent>
-              </Select>
-
               <Button
                 variant={showSavedOnly ? 'default' : 'outline'}
                 size="sm"
@@ -190,6 +177,17 @@ const Index = () => {
               >
                 <Bookmark className="mr-1 h-4 w-4" />
                 Gogokoak {saved.size > 0 && <Badge variant="secondary" className="ml-2">{saved.size}</Badge>}
+              </Button>
+
+              <Button
+                variant="outline"
+                size="sm"
+                onClick={() => markManyRead(sorted.map((it) => it.id))}
+                disabled={sorted.length === 0 || sorted.every((it) => read.has(it.id))}
+                title="Markatu iragazitako albiste guztiak irakurritzat"
+              >
+                <CheckCheck className="mr-1 h-4 w-4" />
+                Denak irakurrita
               </Button>
             </div>
           </div>
@@ -233,7 +231,7 @@ const Index = () => {
           <>
             <div className="mb-3 flex items-center justify-between text-xs text-muted-foreground">
               <span>{sorted.length} albiste {showSavedOnly ? 'gordeta' : 'iragazi ondoren'}</span>
-              {(query || region !== 'all' || lang !== 'all' || topic !== 'all' || showSavedOnly) && (
+              {(query || region !== 'all' || lang !== 'all' || showSavedOnly) && (
                 <Button variant="ghost" size="sm" onClick={resetFilters}>
                   <RefreshCw className="mr-1 h-3 w-3" /> Garbitu iragazkiak
                 </Button>
