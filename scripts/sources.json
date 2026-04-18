@@ -1,8 +1,16 @@
 [
   { "id": "berria", "name": "Berria — Kultura", "url": "https://www.berria.eus/rss/kultura.xml", "lang": "eu", "region": "basque" },
+  { "id": "berria-azala", "name": "Berria — Azala", "url": "https://www.berria.eus/rss/azala.xml", "lang": "eu", "region": "basque" },
   { "id": "argia", "name": "Argia", "url": "https://www.argia.eus/feed", "lang": "eu", "region": "basque" },
   { "id": "eitb-kultura", "name": "EITB Kultura", "url": "https://www.eitb.eus/eu/kultura/rss/", "lang": "eu", "region": "basque" },
+  { "id": "eitb-albisteak", "name": "EITB Albisteak", "url": "https://www.eitb.eus/eu/albisteak/rss/", "lang": "eu", "region": "basque" },
   { "id": "aranzadi", "name": "Aranzadi Zientzia Elkartea", "url": "https://www.aranzadi.eus/feed", "lang": "eu", "region": "basque" },
+  { "id": "naiz-kultura", "name": "Naiz — Kultura", "url": "https://www.naiz.eus/eu/kultura/rss", "lang": "eu", "region": "basque" },
+  { "id": "diariovasco-cultura", "name": "El Diario Vasco — Cultura", "url": "https://www.diariovasco.com/rss/atom/?section=culturas", "lang": "es", "region": "basque" },
+  { "id": "noticiasdegipuzkoa-cultura", "name": "Noticias de Gipuzkoa — Cultura", "url": "https://www.noticiasdegipuzkoa.eus/rss/cultura.xml", "lang": "es", "region": "basque" },
+  { "id": "deia-cultura", "name": "Deia — Cultura", "url": "https://www.deia.eus/rss/cultura.xml", "lang": "es", "region": "basque" },
+  { "id": "noticiasdenavarra-cultura", "name": "Noticias de Navarra — Cultura", "url": "https://www.noticiasdenavarra.com/rss/cultura.xml", "lang": "es", "region": "basque" },
+  { "id": "mediabask", "name": "Mediabask", "url": "https://www.mediabask.eus/eu/rss", "lang": "eu", "region": "basque" },
 
   { "id": "labrujulaverde", "name": "La Brújula Verde", "url": "https://www.labrujulaverde.com/feed", "lang": "es", "region": "world" },
   { "id": "desperta-ferro", "name": "Desperta Ferro Ediciones", "url": "https://www.despertaferro-ediciones.com/feed/", "lang": "es", "region": "iberia" },
@@ -14,6 +22,14 @@
   { "id": "inrap", "name": "Inrap — Archéologie préventive", "url": "https://www.inrap.fr/rss.xml", "lang": "fr", "region": "europe" },
   { "id": "lefigaro-histoire", "name": "Le Figaro — Histoire", "url": "https://www.lefigaro.fr/rss/figaro_histoire.xml", "lang": "fr", "region": "europe" },
   { "id": "lemonde-sciences", "name": "Le Monde — Sciences", "url": "https://www.lemonde.fr/sciences/rss_full.xml", "lang": "fr", "region": "europe" },
+  { "id": "lemonde-archeo", "name": "Le Monde — Archéologie", "url": "https://www.lemonde.fr/archeologie/rss_full.xml", "lang": "fr", "region": "europe" },
+  { "id": "francetvinfo-archeo", "name": "France Info — Archéologie", "url": "https://www.francetvinfo.fr/sciences/archeologie.rss", "lang": "fr", "region": "europe" },
+  { "id": "futura-archeo", "name": "Futura Sciences — Archéologie", "url": "https://www.futura-sciences.com/rss/sciences/actualites.xml", "lang": "fr", "region": "europe" },
+  { "id": "sciencesetavenir-archeo", "name": "Sciences et Avenir — Archéo & Paléo", "url": "https://www.sciencesetavenir.fr/archeo-paleo/rss.xml", "lang": "fr", "region": "europe" },
+  { "id": "geo-histoire", "name": "GEO — Histoire", "url": "https://www.geo.fr/histoire/rss", "lang": "fr", "region": "europe" },
+  { "id": "nationalgeographic-fr", "name": "National Geographic France — Histoire", "url": "https://www.nationalgeographic.fr/rss/histoire", "lang": "fr", "region": "europe" },
+  { "id": "sudouest-culture", "name": "Sud Ouest — Culture", "url": "https://www.sudouest.fr/culture/rss.xml", "lang": "fr", "region": "basque" },
+  { "id": "francebleu-paysbasque", "name": "France Bleu Pays Basque", "url": "https://www.francebleu.fr/rss/pays-basque/info.xml", "lang": "fr", "region": "basque" },
 
   { "id": "spiegel-wissenschaft", "name": "Der Spiegel — Wissenschaft", "url": "https://www.spiegel.de/wissenschaft/index.rss", "lang": "de", "region": "europe" },
 
