@@ -1,77 +1,7 @@
 {
-  "generatedAt": "2026-04-18T09:19:51.340Z",
-  "count": 312,
+  "generatedAt": "2026-04-18T09:23:33.197Z",
+  "count": 311,
   "sources": [
-    {
-      "id": "berria",
-      "name": "Berria — Kultura",
-      "lang": "eu",
-      "region": "basque",
-      "kind": "news",
-      "ok": false,
-      "error": "Status code 404",
-      "elapsedMs": 531
-    },
-    {
-      "id": "berria-azala",
-      "name": "Berria — Azala",
-      "lang": "eu",
-      "region": "basque",
-      "kind": "news",
-      "ok": false,
-      "error": "Status code 404",
-      "elapsedMs": 442
-    },
-    {
-      "id": "argia",
-      "name": "Argia",
-      "lang": "eu",
-      "region": "basque",
-      "kind": "news",
-      "ok": false,
-      "error": "Status code 404",
-      "elapsedMs": 170
-    },
-    {
-      "id": "eitb-kultura",
-      "name": "EITB Kultura",
-      "lang": "eu",
-      "region": "basque",
-      "kind": "news",
-      "ok": false,
-      "error": "Status code 404",
-      "elapsedMs": 5982
-    },
-    {
-      "id": "eitb-albisteak",
-      "name": "EITB Albisteak",
-      "lang": "eu",
-      "region": "basque",
-      "kind": "news",
-      "ok": false,
-      "error": "Status code 404",
-      "elapsedMs": 5856
-    },
-    {
-      "id": "aranzadi",
-      "name": "Aranzadi Zientzia Elkartea",
-      "lang": "eu",
-      "region": "basque",
-      "kind": "news",
-      "ok": false,
-      "error": "certificate has expired",
-      "elapsedMs": 136
-    },
-    {
-      "id": "naiz-kultura",
-      "name": "Naiz — Kultura",
-      "lang": "eu",
-      "region": "basque",
-      "kind": "news",
-      "ok": false,
-      "error": "Status code 404",
-      "elapsedMs": 102
-    },
     {
       "id": "diariovasco-cultura",
       "name": "El Diario Vasco — Cultura",
@@ -83,46 +13,6 @@
       "kept": 4,
       "droppedOffTopic": 26,
       "droppedModern": 0,
-      "elapsedMs": 132
-    },
-    {
-      "id": "noticiasdegipuzkoa-cultura",
-      "name": "Noticias de Gipuzkoa — Cultura",
-      "lang": "es",
-      "region": "basque",
-      "kind": "news",
-      "ok": false,
-      "error": "Status code 406",
-      "elapsedMs": 161
-    },
-    {
-      "id": "deia-cultura",
-      "name": "Deia — Cultura",
-      "lang": "es",
-      "region": "basque",
-      "kind": "news",
-      "ok": false,
-      "error": "Status code 404",
-      "elapsedMs": 263
-    },
-    {
-      "id": "noticiasdenavarra-cultura",
-      "name": "Noticias de Navarra — Cultura",
-      "lang": "es",
-      "region": "basque",
-      "kind": "news",
-      "ok": false,
-      "error": "Status code 404",
-      "elapsedMs": 266
-    },
-    {
-      "id": "mediabask",
-      "name": "Mediabask",
-      "lang": "eu",
-      "region": "basque",
-      "kind": "news",
-      "ok": false,
-      "error": "Status code 404",
       "elapsedMs": 158
     },
     {
@@ -136,7 +26,7 @@
       "kept": 18,
       "droppedOffTopic": 0,
       "droppedModern": 2,
-      "elapsedMs": 1428
+      "elapsedMs": 1254
     },
     {
       "id": "desperta-ferro",
@@ -149,7 +39,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 2,
-      "elapsedMs": 343
+      "elapsedMs": 348
     },
     {
       "id": "elpais-cultura",
@@ -162,7 +52,7 @@
       "kept": 5,
       "droppedOffTopic": 23,
       "droppedModern": 2,
-      "elapsedMs": 258
+      "elapsedMs": 288
     },
     {
       "id": "abc-cultura",
@@ -175,27 +65,7 @@
       "kept": 5,
       "droppedOffTopic": 14,
       "droppedModern": 1,
-      "elapsedMs": 225
-    },
-    {
-      "id": "eldiario-cultura",
-      "name": "elDiario.es — Cultura",
-      "lang": "es",
-      "region": "iberia",
-      "kind": "news",
-      "ok": false,
-      "error": "Status code 404",
-      "elapsedMs": 639
-    },
-    {
-      "id": "ngeo-historia-es",
-      "name": "National Geographic Historia (ES)",
-      "lang": "es",
-      "region": "iberia",
-      "kind": "news",
-      "ok": false,
-      "error": "Status code 403",
-      "elapsedMs": 279
+      "elapsedMs": 143
     },
     {
       "id": "inrap",
@@ -208,7 +78,7 @@
       "kept": 27,
       "droppedOffTopic": 0,
       "droppedModern": 3,
-      "elapsedMs": 398
+      "elapsedMs": 185
     },
     {
       "id": "lefigaro-histoire",
@@ -221,7 +91,7 @@
       "kept": 10,
       "droppedOffTopic": 8,
       "droppedModern": 2,
-      "elapsedMs": 322
+      "elapsedMs": 217
     },
     {
       "id": "lemonde-sciences",
@@ -234,7 +104,7 @@
       "kept": 1,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 305
+      "elapsedMs": 154
     },
     {
       "id": "lemonde-archeo",
@@ -247,7 +117,7 @@
       "kept": 20,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 316
+      "elapsedMs": 559
     },
     {
       "id": "francetvinfo-archeo",
@@ -260,17 +130,7 @@
       "kept": 0,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 846
-    },
-    {
-      "id": "futura-archeo",
-      "name": "Futura Sciences — Archéologie",
-      "lang": "fr",
-      "region": "europe",
-      "kind": "news",
-      "ok": false,
-      "error": "Status code 404",
-      "elapsedMs": 463
+      "elapsedMs": 439
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -283,27 +143,7 @@
       "kept": 22,
       "droppedOffTopic": 0,
       "droppedModern": 1,
-      "elapsedMs": 285
-    },
-    {
-      "id": "geo-histoire",
-      "name": "GEO — Histoire",
-      "lang": "fr",
-      "region": "europe",
-      "kind": "news",
-      "ok": false,
-      "error": "Status code 404",
-      "elapsedMs": 399
-    },
-    {
-      "id": "nationalgeographic-fr",
-      "name": "National Geographic France — Histoire",
-      "lang": "fr",
-      "region": "europe",
-      "kind": "news",
-      "ok": false,
-      "error": "Status code 404",
-      "elapsedMs": 3715
+      "elapsedMs": 201
     },
     {
       "id": "sudouest-culture",
@@ -316,87 +156,7 @@
       "kept": 2,
       "droppedOffTopic": 18,
       "droppedModern": 0,
-      "elapsedMs": 320
-    },
-    {
-      "id": "francebleu-paysbasque",
-      "name": "France Bleu Pays Basque",
-      "lang": "fr",
-      "region": "basque",
-      "kind": "news",
-      "ok": false,
-      "error": "Status code 404",
-      "elapsedMs": 889
-    },
-    {
-      "id": "praza-cultura",
-      "name": "Praza Pública — Cultura",
-      "lang": "gl",
-      "region": "iberia",
-      "kind": "news",
-      "ok": false,
-      "error": "Status code 404",
-      "elapsedMs": 468
-    },
-    {
-      "id": "nosdiario-cultura",
-      "name": "Nós Diario — Cultura",
-      "lang": "gl",
-      "region": "iberia",
-      "kind": "news",
-      "ok": false,
-      "error": "Status code 404",
-      "elapsedMs": 1058
-    },
-    {
-      "id": "galiciaconfidencial-cultura",
-      "name": "Galicia Confidencial — Cultura",
-      "lang": "gl",
-      "region": "iberia",
-      "kind": "news",
-      "ok": false,
-      "error": "Status code 404",
-      "elapsedMs": 423
-    },
-    {
-      "id": "vilaweb-cultura",
-      "name": "VilaWeb — Cultura",
-      "lang": "ca",
-      "region": "iberia",
-      "kind": "news",
-      "ok": false,
-      "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: �",
-      "elapsedMs": 864
-    },
-    {
-      "id": "ara-cultura",
-      "name": "Ara — Cultura",
-      "lang": "ca",
-      "region": "iberia",
-      "kind": "news",
-      "ok": false,
-      "error": "Status code 404",
-      "elapsedMs": 439
-    },
-    {
-      "id": "elnacional-cultura-cat",
-      "name": "El Nacional — Cultura (CA)",
-      "lang": "ca",
-      "region": "iberia",
-      "kind": "news",
-      "ok": false,
-      "error": "No whitespace between attributes\nLine: 23\nColumn: 31\nChar: c",
-      "elapsedMs": 1103
-    },
-    {
-      "id": "publico-cultura-pt",
-      "name": "Público — Cultura (PT)",
-      "lang": "pt",
-      "region": "iberia",
-      "kind": "news",
-      "ok": false,
-      "error": "Status code 404",
-      "elapsedMs": 885
+      "elapsedMs": 341
     },
     {
       "id": "observador-cultura",
@@ -409,20 +169,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 821
-    },
-    {
-      "id": "rtp-cultura",
-      "name": "RTP — Cultura",
-      "lang": "pt",
-      "region": "iberia",
-      "kind": "news",
-      "ok": true,
-      "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
-      "droppedModern": 0,
-      "elapsedMs": 461
+      "elapsedMs": 638
     },
     {
       "id": "ansa-cultura",
@@ -435,7 +182,7 @@
       "kept": 0,
       "droppedOffTopic": 28,
       "droppedModern": 0,
-      "elapsedMs": 444
+      "elapsedMs": 327
     },
     {
       "id": "repubblica-cultura",
@@ -448,7 +195,7 @@
       "kept": 2,
       "droppedOffTopic": 23,
       "droppedModern": 0,
-      "elapsedMs": 469
+      "elapsedMs": 287
     },
     {
       "id": "corriere-cultura",
@@ -461,7 +208,7 @@
       "kept": 6,
       "droppedOffTopic": 24,
       "droppedModern": 0,
-      "elapsedMs": 527
+      "elapsedMs": 308
     },
     {
       "id": "archeologiaviva",
@@ -474,7 +221,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 668
+      "elapsedMs": 455
     },
     {
       "id": "stilearte",
@@ -487,27 +234,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 769
-    },
-    {
-      "id": "heritage-daily",
-      "name": "Heritage Daily",
-      "lang": "en",
-      "region": "world",
-      "kind": "news",
-      "ok": false,
-      "error": "Attribute without value\nLine: 86\nColumn: 120\nChar: >",
-      "elapsedMs": 1864
-    },
-    {
-      "id": "archaeology-mag",
-      "name": "Archaeology Magazine",
-      "lang": "en",
-      "region": "world",
-      "kind": "news",
-      "ok": false,
-      "error": "Unable to parse XML.",
-      "elapsedMs": 875
+      "elapsedMs": 533
     },
     {
       "id": "live-science-arch",
@@ -520,17 +247,7 @@
       "kept": 12,
       "droppedOffTopic": 18,
       "droppedModern": 0,
-      "elapsedMs": 1038
-    },
-    {
-      "id": "smithsonian",
-      "name": "Smithsonian Magazine",
-      "lang": "en",
-      "region": "world",
-      "kind": "news",
-      "ok": false,
-      "error": "Status code 404",
-      "elapsedMs": 546
+      "elapsedMs": 449
     },
     {
       "id": "bbc-history",
@@ -543,17 +260,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 1,
-      "elapsedMs": 537
-    },
-    {
-      "id": "phys-arch",
-      "name": "Phys.org — Archaeology",
-      "lang": "en",
-      "region": "world",
-      "kind": "news",
-      "ok": false,
-      "error": "Status code 404",
-      "elapsedMs": 745
+      "elapsedMs": 319
     },
     {
       "id": "sciencedaily-arch",
@@ -566,7 +273,7 @@
       "kept": 27,
       "droppedOffTopic": 3,
       "droppedModern": 0,
-      "elapsedMs": 908
+      "elapsedMs": 801
     },
     {
       "id": "ancient-origins",
@@ -579,17 +286,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 1,
-      "elapsedMs": 681
-    },
-    {
-      "id": "nature-arch",
-      "name": "Nature — Archaeology",
-      "lang": "en",
-      "region": "world",
-      "kind": "news",
-      "ok": false,
-      "error": "Status code 406",
-      "elapsedMs": 1129
+      "elapsedMs": 495
     },
     {
       "id": "guardian-arch",
@@ -602,7 +299,7 @@
       "kept": 18,
       "droppedOffTopic": 0,
       "droppedModern": 2,
-      "elapsedMs": 781
+      "elapsedMs": 482
     },
     {
       "id": "current-archaeology",
@@ -615,27 +312,7 @@
       "kept": 29,
       "droppedOffTopic": 0,
       "droppedModern": 1,
-      "elapsedMs": 564
-    },
-    {
-      "id": "historic-england",
-      "name": "Historic England",
-      "lang": "en",
-      "region": "europe",
-      "kind": "news",
-      "ok": false,
-      "error": "Status code 403",
-      "elapsedMs": 582
-    },
-    {
-      "id": "irish-archaeology",
-      "name": "Irish Archaeology",
-      "lang": "en",
-      "region": "europe",
-      "kind": "news",
-      "ok": false,
-      "error": "Request timed out after 15000ms",
-      "elapsedMs": 15002
+      "elapsedMs": 376
     },
     {
       "id": "medievalists",
@@ -648,47 +325,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 2,
-      "elapsedMs": 607
-    },
-    {
-      "id": "thehistoryblog",
-      "name": "The History Blog",
-      "lang": "en",
-      "region": "world",
-      "kind": "news",
-      "ok": false,
-      "error": "unable to verify the first certificate",
-      "elapsedMs": 794
-    },
-    {
-      "id": "internet-archaeology",
-      "name": "Internet Archaeology (peer-reviewed)",
-      "lang": "en",
-      "region": "europe",
-      "kind": "research",
-      "ok": false,
-      "error": "Status code 404",
-      "elapsedMs": 660
-    },
-    {
-      "id": "open-archaeology",
-      "name": "Open Archaeology (De Gruyter)",
-      "lang": "en",
-      "region": "europe",
-      "kind": "research",
-      "ok": false,
-      "error": "Status code 500",
-      "elapsedMs": 1249
-    },
-    {
-      "id": "ejpch",
-      "name": "European Journal of Post-Classical Archaeologies",
-      "lang": "en",
-      "region": "europe",
-      "kind": "research",
-      "ok": false,
-      "error": "Status code 404",
-      "elapsedMs": 953
+      "elapsedMs": 379
     },
     {
       "id": "jas-reports",
@@ -701,17 +338,7 @@
       "kept": 30,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 637
-    },
-    {
-      "id": "antiquity-journal",
-      "name": "Antiquity (Cambridge)",
-      "lang": "en",
-      "region": "europe",
-      "kind": "research",
-      "ok": false,
-      "error": "Unable to parse XML.",
-      "elapsedMs": 673
+      "elapsedMs": 394
     },
     {
       "id": "plos-one-arch",
@@ -724,17 +351,7 @@
       "kept": 30,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 933
-    },
-    {
-      "id": "aespa-csic",
-      "name": "Archivo Español de Arqueología (CSIC)",
-      "lang": "es",
-      "region": "iberia",
-      "kind": "research",
-      "ok": false,
-      "error": "unable to verify the first certificate",
-      "elapsedMs": 634
+      "elapsedMs": 697
     },
     {
       "id": "rampas",
@@ -747,7 +364,7 @@
       "kept": 23,
       "droppedOffTopic": 0,
       "droppedModern": 2,
-      "elapsedMs": 1410
+      "elapsedMs": 912
     },
     {
       "id": "spal-us",
@@ -760,7 +377,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 1024
+      "elapsedMs": 615
     },
     {
       "id": "complutum-ucm",
@@ -773,107 +390,7 @@
       "kept": 14,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 1111
-    },
-    {
-      "id": "trabajos-prehistoria",
-      "name": "Trabajos de Prehistoria (CSIC)",
-      "lang": "es",
-      "region": "iberia",
-      "kind": "research",
-      "ok": false,
-      "error": "unable to verify the first certificate",
-      "elapsedMs": 695
-    },
-    {
-      "id": "munibe-aranzadi",
-      "name": "Munibe Antropologia-Arkeologia (Aranzadi)",
-      "lang": "es",
-      "region": "basque",
-      "kind": "research",
-      "ok": false,
-      "error": "certificate has expired",
-      "elapsedMs": 665
-    },
-    {
-      "id": "rae-ouest",
-      "name": "Revue Archéologique de l'Ouest",
-      "lang": "fr",
-      "region": "europe",
-      "kind": "research",
-      "ok": false,
-      "error": "Status code 400",
-      "elapsedMs": 723
-    },
-    {
-      "id": "rae-est",
-      "name": "Revue Archéologique de l'Est",
-      "lang": "fr",
-      "region": "europe",
-      "kind": "research",
-      "ok": false,
-      "error": "Status code 400",
-      "elapsedMs": 722
-    },
-    {
-      "id": "archeo-medievale-fr",
-      "name": "Archéologie Médiévale",
-      "lang": "fr",
-      "region": "europe",
-      "kind": "research",
-      "ok": false,
-      "error": "Status code 400",
-      "elapsedMs": 725
-    },
-    {
-      "id": "archeopages",
-      "name": "Archéopages (Inrap)",
-      "lang": "fr",
-      "region": "europe",
-      "kind": "research",
-      "ok": false,
-      "error": "Status code 400",
-      "elapsedMs": 761
-    },
-    {
-      "id": "gallia",
-      "name": "Gallia — Archéologie de la France antique (CNRS)",
-      "lang": "fr",
-      "region": "europe",
-      "kind": "research",
-      "ok": false,
-      "error": "Status code 400",
-      "elapsedMs": 772
-    },
-    {
-      "id": "nda-cnrs",
-      "name": "Les Nouvelles de l'Archéologie (CNRS)",
-      "lang": "fr",
-      "region": "europe",
-      "kind": "research",
-      "ok": false,
-      "error": "Status code 400",
       "elapsedMs": 765
-    },
-    {
-      "id": "archeologia-calcolatori",
-      "name": "Archeologia e Calcolatori (CNR)",
-      "lang": "it",
-      "region": "europe",
-      "kind": "research",
-      "ok": false,
-      "error": "Status code 404",
-      "elapsedMs": 847
-    },
-    {
-      "id": "fasti-online",
-      "name": "FastiOnline — Excavations",
-      "lang": "it",
-      "region": "europe",
-      "kind": "research",
-      "ok": false,
-      "error": "Status code 404",
-      "elapsedMs": 856
     },
     {
       "id": "archeoarte",
@@ -886,17 +403,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 935
-    },
-    {
-      "id": "gallaecia",
-      "name": "Gallaecia — Arqueoloxía (USC)",
-      "lang": "gl",
-      "region": "iberia",
-      "kind": "research",
-      "ok": false,
-      "error": "Status code 500",
-      "elapsedMs": 938
+      "elapsedMs": 457
     },
     {
       "id": "cypsela",
@@ -909,17 +416,32 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 936
+      "elapsedMs": 415
     }
   ],
   "items": [
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001409?dgcid=rss_sd_all",
+      "title": "Erratum to “Identifying buried Byzantine-early Islamic agricultural soils in the Yavne Hinterlands, Israel: a multi-proxy approach” [J. Archaeol. Sci.: Rep. 70 (2026) 105597]",
+      "summary": "Publication date: May 2026 Source: Journal of Archaeological Science: Reports, Volume 71 Author(s): Jenny Marcus, Nimrod Wieler, Shulamit Terem, Noam Greenbaum, Tami Zilberman, Gal Yasur, Yotam Asscher, Pablo Betzer, Daniel Varga, Oren Ackermann",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001409?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-04-18T09:23:32.360Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
     {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001471?dgcid=rss_sd_all",
       "title": "Corrigendum to “The mural paintings of the cloister in the Certosa di Calci, Pisa” [J. Archaeol. Sci. Rep. 43 (2022) 103461]",
       "summary": "Publication date: May 2026 Source: Journal of Archaeological Science: Reports, Volume 71 Author(s): Elena Marrocchino, Chiara Telloli, Maria Grazia Paletta, Marilena Leis, Carmela Vaccaro",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001471?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:19:36.977Z",
+      "publishedAt": "2026-04-18T09:23:32.360Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -934,7 +456,7 @@
       "summary": "Publication date: May 2026 Source: Journal of Archaeological Science: Reports, Volume 71 Author(s): Sara Mandera, Maciej J. Bojanowski, Arleta Kowalewska, Michael Eisenberg",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001422?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:19:36.977Z",
+      "publishedAt": "2026-04-18T09:23:32.360Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -944,29 +466,12 @@
       "topics": []
     },
     {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001811?dgcid=rss_sd_all",
-      "title": "A possible case of bone metastasis in a human skeleton from Iași city (Romania) of the 17th-19th centuries",
-      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Ozana-Maria Ciorpac-Petraru, Vasilica-Monica Groza, Mariana Popovici, George Bilavschi, Ludmila Bacumenco-Pîrnău, Luminița Bejenaru",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001811?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-04-18T09:19:36.976Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001707?dgcid=rss_sd_all",
       "title": "Petrographic and geochemical characterization of Eocene limestones from Thugga / Dougga (Tunisia): Implications for the provenance of stones used in construction and sculpture in the ancient town",
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): François Fournier, Philippe Bromblet, Alexandre Da Cruz, Yvan Maligorne, Chloé Damay, Nathalie Gandolfo, Haythem Abidi",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001707?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:19:36.976Z",
+      "publishedAt": "2026-04-18T09:23:32.359Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -981,7 +486,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Mark E. Davis, Aude Mongiatti, St John Simpson, Marcos Martinón-Torres",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26000933?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:19:36.976Z",
+      "publishedAt": "2026-04-18T09:23:32.359Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -999,7 +504,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Ladislav Stančo, Jan Kysela, Tomáš Tencer, Peter Milo, Shapulat Shaydullaev",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X2600177X?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:19:36.976Z",
+      "publishedAt": "2026-04-18T09:23:32.359Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1014,7 +519,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Claude Monnet, Zsolt Mester, Agnès Lamotte",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001586?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:19:36.976Z",
+      "publishedAt": "2026-04-18T09:23:32.359Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1029,7 +534,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Jiajie Sun, Fangyi Wei, Yi Liu, Ruijuan Liang, Yanbo Song",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001604?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:19:36.976Z",
+      "publishedAt": "2026-04-18T09:23:32.359Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1044,7 +549,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Zhe Dong, Sheng-Yan Guo, Shi-Jia Zhan, Shuang-Wen Yi, Shu-Wen Pei, Jian-Ping Yue, Si-Qi Lu, Yu-Xiu Zhang, Fa-Xiang Huan, Shi-Xia Yang",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002014?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:19:36.976Z",
+      "publishedAt": "2026-04-18T09:23:32.359Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1056,12 +561,12 @@
       ]
     },
     {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001409?dgcid=rss_sd_all",
-      "title": "Erratum to “Identifying buried Byzantine-early Islamic agricultural soils in the Yavne Hinterlands, Israel: a multi-proxy approach” [J. Archaeol. Sci.: Rep. 70 (2026) 105597]",
-      "summary": "Publication date: May 2026 Source: Journal of Archaeological Science: Reports, Volume 71 Author(s): Jenny Marcus, Nimrod Wieler, Shulamit Terem, Noam Greenbaum, Tami Zilberman, Gal Yasur, Yotam Asscher, Pablo Betzer, Daniel Varga, Oren Ackermann",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001409?dgcid=rss_sd_all",
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001690?dgcid=rss_sd_all",
+      "title": "Semi-automated detection of Holocene archaeological structures along the southern edge of the Nefud desert",
+      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Amy Hatton, Amina Jambajantsan, Paul S. Breeze, Maria Guagnin, Michael T. Fisher, Faisal al-Jibreen, Abdullah M. Alsharekh, Michael D. Petraglia, Huw S. Groucutt",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001690?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:19:36.976Z",
+      "publishedAt": "2026-04-18T09:23:32.358Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1071,12 +576,29 @@
       "topics": []
     },
     {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001756?dgcid=rss_sd_all",
+      "title": "Diet, mobility and gendered violence: Integrating multi-isotope analysis with proteomic sex identification at the bi-ritual Early Iron Age cemetery of Statzendorf, lower Austria",
+      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Katharina Rebay-Salisbury, Lukas Waltenberger, Michaela Fritzl, Hannah Skerjanz, Domnika Verdianu, Leslie Quade, Michaela Spannagl-Steiner, Michael Wolf, Fabian Kanz, Anneminne…",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001756?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-04-18T09:23:32.358Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001847?dgcid=rss_sd_all",
       "title": "ZooMS as a tool for identifying animal remains from Early Medieval Pohansko: A case study",
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Weronika Karolina Cieszynska, Ondrej Šedo, Petr Dresler, Gabriela Dreslerová, Jiří Macháček, Renáta Přichystalová, Zuzana Hofmanová",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001847?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:19:36.975Z",
+      "publishedAt": "2026-04-18T09:23:32.358Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1093,7 +615,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Denise Lima e Silva, Miguel Carrero-Pazos, Francisco Lara-Piñera, João Fonte, Benito Vilas-Estévez",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001653?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:19:36.975Z",
+      "publishedAt": "2026-04-18T09:23:32.358Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1110,7 +632,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Estuardo Mata-Castillo, Andrea Cucina, Marco Ramírez-Salomón, María Beatriz Monsreal-Peniche, Camilo Luin, Elma Vega-Lizama",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001665?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:19:36.975Z",
+      "publishedAt": "2026-04-18T09:23:32.358Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1128,7 +650,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Roman Balvanović, Milica Marić Stojanović, Riccardo Avanzinelli, Eleonora Braschi, Igor Silachyov, Žiga Šmit, Kruglyak Anastasiya, Dragana Spasić-Đurić, Teodora Branković",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001884?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:19:36.975Z",
+      "publishedAt": "2026-04-18T09:23:32.358Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1145,7 +667,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Alejandra Sánchez-Polo, Angélica Santa Cruz del Barrio, Javier Velasco Vázquez, Miguel del Nogal Sánchez, Ana María Casas-Ferreira, José Luis Pérez Pavón, Carmen Patino Alonso,…",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001641?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:19:36.975Z",
+      "publishedAt": "2026-04-18T09:23:32.358Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1163,7 +685,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Touria Mouhsine, Abdeslam Mikdad",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001835?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:19:36.975Z",
+      "publishedAt": "2026-04-18T09:23:32.358Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1178,7 +700,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Alan Nagaya, Oscar G. de Lucio, Carlos Peraza Lope, Dalia Mayarí Paz Rivera, Ángel Góngora Salas, Soledad Ortiz Ruiz",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001781?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:19:36.975Z",
+      "publishedAt": "2026-04-18T09:23:32.358Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1195,7 +717,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Carlos López-Puértolas, Claudia María López-Pérez, Linda R. Manzanilla-Naim, José Luis Ruvalcaba-Sil",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001823?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:19:36.975Z",
+      "publishedAt": "2026-04-18T09:23:32.358Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1212,7 +734,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Samantha R. Nadel, Agustín Ortiz Butrón, Luis Barba Pingarrón, Everardo Tapia Mendoza",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001719?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:19:36.975Z",
+      "publishedAt": "2026-04-18T09:23:32.358Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1222,12 +744,12 @@
       "topics": []
     },
     {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X2600163X?dgcid=rss_sd_all",
-      "title": "Tracing prehistoric pastoral occupation in Dhofar: New Chronological, archaeological and faunal insights from Laheem, southern Oman",
-      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Yamandú H. Hilbert, Jeanne Marie Geiling, Gabriele Russo, Roman Garba, Lee J. Arnold, Dominik Chlachula, Scott Mclin, Marya Soubra, Ash Parton, Nicholas Sutton, David Alsop, Dana…",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X2600163X?dgcid=rss_sd_all",
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001811?dgcid=rss_sd_all",
+      "title": "A possible case of bone metastasis in a human skeleton from Iași city (Romania) of the 17th-19th centuries",
+      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Ozana-Maria Ciorpac-Petraru, Vasilica-Monica Groza, Mariana Popovici, George Bilavschi, Ludmila Bacumenco-Pîrnău, Luminița Bejenaru",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001811?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:19:36.974Z",
+      "publishedAt": "2026-04-18T09:23:32.358Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1235,7 +757,6 @@
       "lang": "en",
       "region": "world",
       "topics": [
-        "prehistoria",
         "erromatarrak"
       ]
     },
@@ -1245,7 +766,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Floriane Peudon, Agnès Lamotte",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001902?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:19:36.974Z",
+      "publishedAt": "2026-04-18T09:23:32.357Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1260,7 +781,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): A. Babbi, A. Celant, G. Germinario, J. Hertzog, M. Lamonaca, F. Michelangeli, P. Schmitt-Kopplin, R. Schwab",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001859?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:19:36.974Z",
+      "publishedAt": "2026-04-18T09:23:32.357Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1277,7 +798,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Lina Li, Chunyang Liu, Yanpeng Cao, Shuzheng Zhu, Jiyin Wei, Chunguang Gu, Li Liu",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001987?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:19:36.974Z",
+      "publishedAt": "2026-04-18T09:23:32.357Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1295,7 +816,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Adrián Nemergut, Michal Cheben, Ludmila Kaňáková Hladíková, Jan Petřík, Jun Takakura, Antonín Přichystal, Lubomír Prokeš, Monika Gabulová",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001525?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:19:36.974Z",
+      "publishedAt": "2026-04-18T09:23:32.357Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1312,7 +833,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Ge Yu, Zhengyao Jin, Pin Chen, Xiaotong Wu, Zhitao Chen, Zelin Yang",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001598?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:19:36.974Z",
+      "publishedAt": "2026-04-18T09:23:32.357Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1327,7 +848,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Olga Zagorodnia, Harriet White",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001860?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:19:36.974Z",
+      "publishedAt": "2026-04-18T09:23:32.357Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1344,7 +865,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Yulun Wu, Fan Yang, Zekun Li, Yi Yang, Feiyang Wang, Yiheng Xian, Kunlong Chen",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001793?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:19:36.974Z",
+      "publishedAt": "2026-04-18T09:23:32.357Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1352,38 +873,6 @@
       "lang": "en",
       "region": "world",
       "topics": []
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001690?dgcid=rss_sd_all",
-      "title": "Semi-automated detection of Holocene archaeological structures along the southern edge of the Nefud desert",
-      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Amy Hatton, Amina Jambajantsan, Paul S. Breeze, Maria Guagnin, Michael T. Fisher, Faisal al-Jibreen, Abdullah M. Alsharekh, Michael D. Petraglia, Huw S. Groucutt",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001690?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-04-18T09:19:36.974Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001756?dgcid=rss_sd_all",
-      "title": "Diet, mobility and gendered violence: Integrating multi-isotope analysis with proteomic sex identification at the bi-ritual Early Iron Age cemetery of Statzendorf, lower Austria",
-      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Katharina Rebay-Salisbury, Lukas Waltenberger, Michaela Fritzl, Hannah Skerjanz, Domnika Verdianu, Leslie Quade, Michaela Spannagl-Steiner, Michael Wolf, Fabian Kanz, Anneminne…",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001756?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-04-18T09:19:36.974Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
     },
     {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X2600180X?dgcid=rss_sd_all",
@@ -1391,7 +880,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): M.Eugenia Mosca Torres, Salomón Hocsman, Pilar Babot",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X2600180X?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:19:36.973Z",
+      "publishedAt": "2026-04-18T09:23:32.356Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1399,6 +888,41 @@
       "lang": "en",
       "region": "world",
       "topics": []
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X2600163X?dgcid=rss_sd_all",
+      "title": "Tracing prehistoric pastoral occupation in Dhofar: New Chronological, archaeological and faunal insights from Laheem, southern Oman",
+      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Yamandú H. Hilbert, Jeanne Marie Geiling, Gabriele Russo, Roman Garba, Lee J. Arnold, Dominik Chlachula, Scott Mclin, Marya Soubra, Ash Parton, Nicholas Sutton, David Alsop, Dana…",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X2600163X?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-04-18T09:23:32.356Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/calderoni-bronzo-vestland-schaalby-scoperta-germania/",
+      "title": "Camminano per i campi. Bip-bip. Un segnale. Scavano. Mio Dio, cosa sono! Sono di manifattura romana provinciale. A che servivano? Perchè uno dentro l’altro? C’è l’ombra di Asterix?",
+      "summary": "Una bella passeggiata. Un po’ d’aria aperta, il fresco del mattino, la zona che sembra offrire spunti interessanti. I paesaggi potenzialmente archeologici si rivelano per una serie di dati. Esposizione al sole, vicinanza a corsi d’acqua, elementi in rilievo e bellezza. Ciò che…",
+      "url": "https://www.stilearte.it/calderoni-bronzo-vestland-schaalby-scoperta-germania/",
+      "image": null,
+      "publishedAt": "2026-04-18T09:22:26.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
     },
     {
       "id": "observador-cultura:https://observador.pt/2026/04/18/observatorio-do-alqueva-celebra-10-anos-de-astroturismo-e-prepara-novos-voos/",
@@ -2562,21 +2086,6 @@
       ]
     },
     {
-      "id": "rtp-cultura:https://www.rtp.pt/noticias/cultura/mar-motto-a-sensibilizacao-ambiental-atraves-da-arte_n1734436",
-      "title": "Mar Motto, a sensibilização ambiental através da arte",
-      "summary": "O Mar Motto está de regresso a Faro entre os dias 17 de abril e 1 de maio de 2026, na Antiga Fábrica da Cerveja, com entrada gratuita. Orgnizado pela Sciaena, uma ONG dedicada à proteção dos oceanos, o festival tem este ano como tema #ProtectedMeansProtected, proteger significa…",
-      "url": "https://www.rtp.pt/noticias/cultura/mar-motto-a-sensibilizacao-ambiental-atraves-da-arte_n1734436",
-      "image": "https://cdn-images.rtp.pt/icm/noticias/images/14/1449bffe701710a6fe4af97dd9138d2e?w=350&amp;q=50&amp;rect=0,103,1096,601&amp;auto=format",
-      "publishedAt": "2026-04-16T16:19:06.000Z",
-      "source": {
-        "id": "rtp-cultura",
-        "name": "RTP — Cultura"
-      },
-      "lang": "pt",
-      "region": "iberia",
-      "topics": []
-    },
-    {
       "id": "inrap:https://www.inrap.fr/rencontre-l-occasion-de-l-exposition-vestiges-archeologiques-de-l-oise-autour-20675",
       "title": "Rencontre à l'occasion de l'exposition « Vestiges archéologiques de l’Oise : autour des chantiers du canal Seine-Nord Europe »",
       "summary": "Vendredi 3 avril, à Compiègne (Oise), Pascal Perrault, directeur général délégué de l’Inrap, s’est rendu à la Maison du Canal à l’occasion de l’exposition « Vestiges archéologiques de l’Oise autour des chantiers du Canal » et d'une rencontre institutionnelle réunissant les…",
@@ -3261,21 +2770,6 @@
       },
       "lang": "es",
       "region": "world",
-      "topics": []
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/bisenzio-tomba-etrusca-argento-iberico-bevanda-medicinale/",
-      "title": "Sciolto il mistero del proto-etrusco morto 2750 anni fa presso il lago di Bolsena. Argento spagnolo, armi e una fiaschetta di zucca contenente una bevanda strana. Chi era? Veniva da lontano o era del luogo? I nuovi studi",
-      "summary": "Nel paesaggio ondulato dell’Etruria meridionale, presso il lago di Bolsena, una sepoltura restituisce una narrazione sorprendentemente ampia rispetto a un uomo che qui morì 2750 anni fa circa. Era un aristocratico. Aperto al mondo. Grazie agli studi avanzati e alle nuove…",
-      "url": "https://www.stilearte.it/bisenzio-tomba-etrusca-argento-iberico-bevanda-medicinale/",
-      "image": null,
-      "publishedAt": "2026-04-15T09:53:51.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
       "topics": []
     },
     {
