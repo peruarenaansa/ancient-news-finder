@@ -259,7 +259,11 @@ const Index = () => {
                 onClick={() => { setShowRead((s) => !s); setPage(1); }}
                 disabled={showSavedOnly}
                 aria-pressed={showRead}
-                className={showRead && !showSavedOnly ? 'border-primary text-primary' : ''}
+                className={
+                  showRead && !showSavedOnly
+                    ? 'border-primary bg-primary/10 text-primary hover:bg-primary/15 hover:text-primary'
+                    : 'hover:bg-muted hover:text-foreground'
+                }
                 title={showSavedOnly ? 'Gogokoetan irakurritakoak ere beti agertzen dira' : (showRead ? 'Ezkutatu irakurritakoak' : 'Erakutsi irakurritakoak ere')}
               >
                 {showRead ? <EyeOff className="mr-1 h-4 w-4" /> : <Eye className="mr-1 h-4 w-4" />}
