@@ -51,37 +51,102 @@ function detectRegion(text, sourceRegion) {
   return sourceRegion || 'world';
 }
 
-// Iragazi arkeologia/historia ez direnak (iturri orokorretarako)
+// Arkeologia/aurrehistoria/antzinaroarekin lotura ZUZENA duten gako-hitzak.
+// Iturri orokorretarako: hauetako bat aipatzen ez badu, baztertu.
 const ARCHAEOLOGY_KEYWORDS = [
-  'arche', 'arch', 'arqueol', 'arkeolo', 'archéo', 'archäo',
-  'history', 'historia', 'histoire', 'geschichte',
-  'ancient', 'antig', 'antik', 'antique',
-  'excav', 'dig ', 'yacimien', 'aztarna', 'site arché', 'fundstätte',
-  'museo', 'museum', 'musée',
-  'prehistor', 'paleolit', 'neolit', 'roman', 'medieval', 'edad media', 'moyen âge', 'mittelalter',
-  'erromatar', 'erdi aro', 'aurkikuntza', 'descubrimiento', 'discovery', 'découverte',
-  'fossil', 'fósil', 'tumba', 'tomb', 'tombe', 'burial', 'enterr',
-  'ruins', 'ruinas', 'ruines', 'hondakin',
+  // Diziplina
+  'arqueolog', 'arkeolog', 'archéolog', 'archaeolog', 'archeolog', 'archäolog',
+  'paleontolog', 'paleoantropolog', 'paleolingüís',
+  // Indusketak eta aztarnategiak
+  'excavac', 'excavación', 'excavation', 'fouille', 'ausgrabung',
+  'yacimien', 'aztarnategi', 'site archéo', 'fundstätte', 'archaeological site',
+  // Aurrehistoria/Antzinaroa
+  'prehistor', 'préhistoire', 'preistoria', 'urzaharra',
+  'paleolít', 'paleolithic', 'paléolithique', 'paleolitico',
+  'mesolít', 'mesolithic', 'mésolithique',
+  'neolít', 'neolithic', 'néolithique', 'neolitico',
+  'calcolít', 'chalcolithic', 'calcolitico',
+  'edad de bronce', 'bronze age', 'âge du bronze', 'età del bronzo', 'brontzearo',
+  'edad de hierro', 'iron age', 'âge du fer', 'età del ferro', 'burdin aro',
+  'megalit', 'dolmen', 'menhir', 'tumul', 'túmul', 'cromlech',
+  'arte rupestre', 'rock art', 'art rupestre', 'pintura rupestre', 'cave painting',
+  // Antzinaroa
+  'antigüedad clásica', 'classical antiquity', 'antiquité classique', 'antichità',
+  'romano', 'romain', 'römisch', 'erromatar', 'imperio romano', 'empire romain', 'roman empire', 'roman period',
+  'griego antiguo', 'ancient greek', 'grèce antique', 'antico greco',
+  'egipto antiguo', 'ancient egypt', 'égypte ancienne', 'antico egitto',
+  'mesopotam', 'sumer', 'babilon', 'asiri', 'asyri', 'fenici', 'phoenic',
+  'íbero', 'ibero', 'celta', 'celtic', 'celtíbero', 'celtibero', 'tartess', 'visigod', 'visigoth',
+  'pompei', 'pompey', 'herculan', 'troya', 'troy', 'cartago', 'carthag', 'micena', 'mycen', 'minoa', 'minoan',
+  'pharaoh', 'faraón', 'pyramid', 'pirámide', 'pyramide', 'piramide',
+  // Goi Erdi Aroa (500-1000)
+  'alta edad media', 'early medieval', 'haut moyen âge', 'frühmittelalter', 'altomedieva',
+  'merovingi', 'carolingi', 'visigod', 'anglosajón', 'anglo-saxon', 'angelsachsen',
+  'viking', 'vikingo', 'wikinger',
+  // Aurkikuntza arkeologikoak
+  'hallazgo arqueológic', 'descubrimiento arqueológic', 'archaeological discovery', 'découverte archéologique',
+  'tumba antigua', 'ancient tomb', 'tombe antique', 'sepultura antigua',
+  'fósil', 'fossil', 'fossile', 'fosil',
+  'osamenta', 'restos humanos antiguos', 'ancient human remains', 'restes humains',
+  'aztarna arkeolog',
 ];
 
 // Iturri orokorrak: gaiagatik iragazi behar direnak (ez dira espezializatuak)
 const GENERAL_SOURCES = new Set([
-  'elpais-cultura', 'abc-cultura', 'eldiario-cultura', 'lemonde-sciences',
-  'live-science-arch', 'phys-arch', 'sciencedaily-arch', 'nature-arch',
-  'eitb-kultura', 'eitb-albisteak', 'berria', 'berria-azala', 'argia', 'naiz-kultura',
-  'diariovasco-cultura', 'noticiasdegipuzkoa-cultura', 'deia-cultura',
-  'noticiasdenavarra-cultura', 'mediabask',
-  'lefigaro-histoire', 'geo-histoire', 'sudouest-culture', 'francebleu-paysbasque',
-  'futura-archeo',
-  'praza-cultura', 'nosdiario-cultura', 'galiciaconfidencial-cultura',
-  'vilaweb-cultura', 'ara-cultura', 'elnacional-cultura-cat',
-  'publico-cultura-pt', 'observador-cultura', 'rtp-cultura',
+  // Hedabide orokorrak (kultura sailak)
+  'elpais-cultura', 'abc-cultura', 'eldiario-cultura',
+  'diariovasco-cultura',
+  'lemonde-sciences', 'lemonde-archeo', 'lefigaro-histoire',
+  'francetvinfo-archeo', 'sciencesetavenir-archeo', 'sudouest-culture',
+  'observador-cultura',
   'ansa-cultura', 'repubblica-cultura', 'corriere-cultura',
+  // Zientzia orokorra
+  'live-science-arch', 'sciencedaily-arch',
+  // Arkeologia espezializatua baina batzuetan zabalegia
+  'labrujulaverde', 'ancient-origins', 'bbc-history',
+  // Indusketa-agentzia: monumentu modernoetan ere lan egiten du
+  'inrap',
+  // Aldizkari orokorrak (gaiagatik iragazi)
+  'plos-one-arch', 'jas-reports',
 ]);
 
 function isArchaeologyRelated(text) {
   const lower = text.toLowerCase();
   return ARCHAEOLOGY_KEYWORDS.some((k) => lower.includes(k));
+}
+
+// Argi ez-arkeologikoak diren gaiak: aurkitzen badira, beti baztertu
+const OFF_TOPIC_KEYWORDS = [
+  // Zinema eta telesailak
+  'película', 'film', 'cine ', 'cinema', 'movie', 'tráiler', 'trailer', 'estreno', 'box office',
+  'serie de televisión', 'tv series', 'telesail', 'netflix', 'hbo', 'amazon prime', 'disney+',
+  'temporada ', 'episode', 'episodio', 'capítulo de la serie',
+  'festival de cine', 'film festival', 'festival du film', 'festival cinema',
+  'oscar', 'goya award', 'premios goya', 'cannes', 'berlinale', 'san sebastián',
+  'director de cine', 'filmmaker', 'cinéaste', 'actor', 'actriz', 'actress',
+  // Zezenketak
+  'toros', 'toreo', 'torero', 'corrida', 'tauromaquia', 'matador', 'plaza de toros',
+  // Musika garaikidea
+  'concierto', 'concert', 'gira ', 'tour musical', 'álbum', 'single ', 'spotify',
+  'pop ', 'rock ', 'rap ', 'reggaeton', 'eurovisión', 'eurovision',
+  // Literatura garaikidea
+  'novela ', 'novel ', 'roman ', 'romanzo', 'eleberri',
+  'best seller', 'bestseller', 'feria del libro', 'book fair', 'sant jordi',
+  'premio nobel', 'nobel prize', 'premio planeta', 'premio cervantes', 'booker prize',
+  'escritor contemporáneo', 'contemporary writer',
+  // Arte garaikidea
+  'arte contemporáneo', 'contemporary art', 'art contemporain',
+  'goya pintor', 'picasso', 'dalí', 'miró', 'kandinsky', 'warhol',
+  // Crossword/jolasak
+  'crossword', 'crucigrama', 'mots croisés', 'puzzle', 'quiz',
+  // Politika/kirola
+  'fútbol', 'football', 'soccer', 'baloncesto', 'basketball',
+  'elecciones', 'election', 'gobierno', 'parlamento',
+];
+
+function isOffTopic(text) {
+  const lower = text.toLowerCase();
+  return OFF_TOPIC_KEYWORDS.some((k) => lower.includes(k));
 }
 
 // 1000. urtetik aurrerako (XI. mendetik aurrera) gaiak baztertzeko gako-hitzak
@@ -95,8 +160,8 @@ const MODERN_KEYWORDS = [
   '16th century', '17th century', '18th century', '19th century', '20th century', '21st century',
   'xie siècle', 'xiie siècle', 'xiiie siècle', 'xive siècle', 'xve siècle',
   'xvie siècle', 'xviie siècle', 'xviiie siècle', 'xixe siècle', 'xxe siècle', 'xxie siècle',
-  '11. jahrhundert', '12. jahrhundert', '13. jahrhundert', '14. jahrhundert', '15. jahrhundert',
-  '16. jahrhundert', '17. jahrhundert', '18. jahrhundert', '19. jahrhundert', '20. jahrhundert',
+  'xi secolo', 'xii secolo', 'xiii secolo', 'xiv secolo', 'xv secolo',
+  'xvi secolo', 'xvii secolo', 'xviii secolo', 'xix secolo', 'xx secolo', 'xxi secolo',
   // Erdi Aro beranduagoko eta ondorengo aroak
   'late medieval', 'high medieval', 'baja edad media', 'plena edad media', 'bas moyen âge', 'spätmittelalter',
   'edad moderna', 'edad contemporánea', 'aro modernoa', 'aro garaikidea',
@@ -111,6 +176,8 @@ const MODERN_KEYWORDS = [
   'cathar', 'cátaro', 'inquisition', 'inquisición',
   'black death', 'peste negra', 'peste noire', 'schwarzer tod',
   'hundred years', 'guerra de los cien años', 'guerre de cent ans',
+  'illuminati', 'iluminados de baviera',
+  'notre-dame de paris', 'notre dame de paris', 'catedral de notre',
   // Gertaera modernoak
   'world war', 'segunda guerra mundial', 'primera guerra mundial', 'guerra civil',
   'guerre mondiale', 'weltkrieg', 'cold war', 'guerra fría',
@@ -119,24 +186,34 @@ const MODERN_KEYWORDS = [
   'ilustración', 'enlightenment', 'lumières', 'aufklärung',
   'revolución francesa', 'french revolution', 'révolution française',
   'renacimiento', 'renaissance', 'wiedergeburt',
+  'goya ', 'velázquez', 'el greco', 'rembrandt', 'caravaggio',
+  'reina regente', 'crucero ', 'acorazado', 'fragata del siglo',
 ];
+
+// Aro modernoetako urteen patroia (1500-2099)
+// Albiste gehienetan urte zehatzak agertzen dira (1789, 1895, 2026...)
+const MODERN_YEAR_REGEX = /\b(1[5-9]\d{2}|20\d{2})\b/;
 
 // 1000. urtea arteko gai garbiak: iragazkia gainditzen dute beti
 const PRE_MODERN_STRONG = [
-  'prehistor', 'paleolit', 'neolit', 'mesolit', 'calcolít', 'edad de bronce', 'edad de hierro',
+  'prehistor', 'paleolit', 'neolit', 'mesolit', 'calcolít', 'calcolithic',
+  'edad de bronce', 'edad de hierro',
   'bronze age', 'iron age', 'âge du bronze', 'âge du fer', 'bronzezeit', 'eisenzeit',
-  'roman', 'romano', 'romain', 'römisch', 'erromatar', 'imperio romano', 'empire romain',
-  'antigüedad', 'antiquity', 'antiquité', 'antike',
-  'egypt', 'egipto', 'égypte', 'pharaoh', 'faraón', 'pyramid', 'pirámide',
-  'greek', 'griego', 'grec', 'griechisch', 'mycen', 'minoan',
-  'mesopotam', 'sumer', 'babilon', 'asyri', 'hittite', 'hitita',
-  'celta', 'celtic', 'celtibero', 'íbero', 'ibero', 'tartess', 'visigod', 'visigoth',
+  'romano', 'romain', 'römisch', 'erromatar', 'imperio romano', 'empire romain', 'roman empire', 'roman period',
+  'antigüedad clásica', 'classical antiquity', 'antiquité classique',
+  'egipto antiguo', 'ancient egypt', 'égypte ancienne',
+  'pharaoh', 'faraón', 'pyramid of', 'pirámide de', 'pyramide de',
+  'ancient greek', 'griego antiguo', 'grèce antique', 'mycen', 'minoan', 'minoic', 'minoica',
+  'mesopotam', 'sumer', 'babilon', 'asyri', 'asiri', 'hittite', 'hitita', 'fenici', 'phoenic',
+  'celta', 'celtic', 'celtibero', 'celtíbero', 'íbero', 'ibero', 'tartess', 'visigod', 'visigoth',
   'merov', 'caroling', 'carolingian', 'carolingio', 'carolingien',
   // Erdi Aro goiztiarra (500-1000): onartzen dira
   'early medieval', 'alta edad media', 'haut moyen âge', 'frühmittelalter',
   'anglo-saxon', 'anglosajón', 'anglo-sajón', 'angelsachsen',
   // Bikingoak: gehienbat 793-1066, mugan, baina onartzen ditugu
   'viking', 'vikingo', 'wikinger',
+  // Aurrehistoriako urteak (a.C., BC, av. J.-C.)
+  'a.c.', 'a. c.', 'a.n.e', 'antes de cristo', 'avant j.-c', 'av. j.-c', ' bc ', ' bce ', 'b.c.e',
 ];
 
 function isModernEra(text) {
@@ -144,7 +221,10 @@ function isModernEra(text) {
   // Erdi Aroko gai garbi bat aipatzen badu, onartu (modernoa ere aipa lezake testuinguruan)
   if (PRE_MODERN_STRONG.some((k) => lower.includes(k))) return false;
   // Modernotasun-marka argia badu, baztertu
-  return MODERN_KEYWORDS.some((k) => lower.includes(k));
+  if (MODERN_KEYWORDS.some((k) => lower.includes(k))) return true;
+  // Aro modernoko urte bat (1500-2099) eta antzinatasun-markarik ez → baztertu
+  if (MODERN_YEAR_REGEX.test(lower)) return true;
+  return false;
 }
 
 function extractImage(item) {
@@ -202,13 +282,19 @@ async function fetchSource(source) {
         const description = stripHtml(item.contentSnippet || item.content || item.summary || '');
         const text = `${title} ${description}`;
 
-        // 1) Iturri orokorretarako: arkeologia/historiarekin lotuta egon behar du
+        // 1) Argi off-topic direnak (zinema, zezenak, crossword...) beti baztertu
+        if (isOffTopic(text)) {
+          droppedOffTopic++;
+          return null;
+        }
+
+        // 2) Iturri orokorretarako: arkeologiarekin lotura zuzena izan behar du
         if (GENERAL_SOURCES.has(source.id) && !isArchaeologyRelated(text)) {
           droppedOffTopic++;
           return null;
         }
 
-        // 2) Erdi Aro ondorengo gaiak baztertu (denentzat)
+        // 3) Erdi Aro ondorengo gaiak baztertu (denentzat)
         if (isModernEra(text)) {
           droppedModern++;
           return null;
