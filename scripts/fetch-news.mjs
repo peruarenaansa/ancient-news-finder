@@ -282,13 +282,19 @@ async function fetchSource(source) {
         const description = stripHtml(item.contentSnippet || item.content || item.summary || '');
         const text = `${title} ${description}`;
 
-        // 1) Iturri orokorretarako: arkeologia/historiarekin lotuta egon behar du
+        // 1) Argi off-topic direnak (zinema, zezenak, crossword...) beti baztertu
+        if (isOffTopic(text)) {
+          droppedOffTopic++;
+          return null;
+        }
+
+        // 2) Iturri orokorretarako: arkeologiarekin lotura zuzena izan behar du
         if (GENERAL_SOURCES.has(source.id) && !isArchaeologyRelated(text)) {
           droppedOffTopic++;
           return null;
         }
 
-        // 2) Erdi Aro ondorengo gaiak baztertu (denentzat)
+        // 3) Erdi Aro ondorengo gaiak baztertu (denentzat)
         if (isModernEra(text)) {
           droppedModern++;
           return null;
