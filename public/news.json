@@ -1,120 +1,324 @@
 {
-  "generatedAt": "2026-04-18T08:08:39.739Z",
-  "count": 68,
+  "generatedAt": "2026-04-18T08:27:42.256Z",
+  "count": 163,
   "sources": [
     {
       "id": "berria",
-      "name": "Berria",
+      "name": "Berria — Kultura",
       "lang": "eu",
-      "region": "basque"
+      "region": "basque",
+      "kind": "news",
+      "ok": false,
+      "error": "Status code 404",
+      "elapsedMs": 445
     },
     {
       "id": "argia",
       "name": "Argia",
       "lang": "eu",
-      "region": "basque"
+      "region": "basque",
+      "kind": "news",
+      "ok": false,
+      "error": "Status code 404",
+      "elapsedMs": 109
     },
     {
       "id": "eitb-kultura",
       "name": "EITB Kultura",
       "lang": "eu",
-      "region": "basque"
+      "region": "basque",
+      "kind": "news",
+      "ok": false,
+      "error": "Status code 404",
+      "elapsedMs": 5993
     },
     {
       "id": "aranzadi",
       "name": "Aranzadi Zientzia Elkartea",
       "lang": "eu",
-      "region": "basque"
+      "region": "basque",
+      "kind": "news",
+      "ok": false,
+      "error": "certificate has expired",
+      "elapsedMs": 67
+    },
+    {
+      "id": "labrujulaverde",
+      "name": "La Brújula Verde",
+      "lang": "es",
+      "region": "world",
+      "kind": "news",
+      "ok": true,
+      "fetched": 20,
+      "kept": 19,
+      "droppedOffTopic": 0,
+      "droppedModern": 1,
+      "elapsedMs": 1329
+    },
+    {
+      "id": "desperta-ferro",
+      "name": "Desperta Ferro Ediciones",
+      "lang": "es",
+      "region": "iberia",
+      "kind": "news",
+      "ok": true,
+      "fetched": 12,
+      "kept": 10,
+      "droppedOffTopic": 0,
+      "droppedModern": 2,
+      "elapsedMs": 280
     },
     {
       "id": "elpais-cultura",
       "name": "El País — Cultura",
       "lang": "es",
-      "region": "iberia"
+      "region": "iberia",
+      "kind": "news",
+      "ok": true,
+      "fetched": 30,
+      "kept": 5,
+      "droppedOffTopic": 23,
+      "droppedModern": 2,
+      "elapsedMs": 264
     },
     {
       "id": "abc-cultura",
       "name": "ABC Cultura",
       "lang": "es",
-      "region": "iberia"
+      "region": "iberia",
+      "kind": "news",
+      "ok": true,
+      "fetched": 20,
+      "kept": 5,
+      "droppedOffTopic": 14,
+      "droppedModern": 1,
+      "elapsedMs": 135
     },
     {
       "id": "eldiario-cultura",
       "name": "elDiario.es — Cultura",
       "lang": "es",
-      "region": "iberia"
+      "region": "iberia",
+      "kind": "news",
+      "ok": false,
+      "error": "Status code 404",
+      "elapsedMs": 366
     },
     {
       "id": "ngeo-historia-es",
       "name": "National Geographic Historia (ES)",
       "lang": "es",
-      "region": "iberia"
+      "region": "iberia",
+      "kind": "news",
+      "ok": false,
+      "error": "Status code 403",
+      "elapsedMs": 100
     },
     {
-      "id": "heritage-daily",
-      "name": "Heritage Daily",
-      "lang": "en",
-      "region": "world"
-    },
-    {
-      "id": "archaeology-mag",
-      "name": "Archaeology Magazine",
-      "lang": "en",
-      "region": "world"
-    },
-    {
-      "id": "live-science-arch",
-      "name": "Live Science — Archaeology",
-      "lang": "en",
-      "region": "world"
-    },
-    {
-      "id": "smithsonian",
-      "name": "Smithsonian Magazine",
-      "lang": "en",
-      "region": "world"
-    },
-    {
-      "id": "bbc-history",
-      "name": "BBC History Extra",
-      "lang": "en",
-      "region": "europe"
-    },
-    {
-      "id": "phys-arch",
-      "name": "Phys.org — Archaeology",
-      "lang": "en",
-      "region": "world"
-    },
-    {
-      "id": "sciencedaily-arch",
-      "name": "ScienceDaily — Archaeology",
-      "lang": "en",
-      "region": "world"
-    },
-    {
-      "id": "ancient-origins",
-      "name": "Ancient Origins",
-      "lang": "en",
-      "region": "world"
+      "id": "inrap",
+      "name": "Inrap — Archéologie préventive",
+      "lang": "fr",
+      "region": "europe",
+      "kind": "news",
+      "ok": true,
+      "fetched": 30,
+      "kept": 27,
+      "droppedOffTopic": 0,
+      "droppedModern": 3,
+      "elapsedMs": 222
     },
     {
       "id": "lefigaro-histoire",
       "name": "Le Figaro — Histoire",
       "lang": "fr",
-      "region": "europe"
+      "region": "europe",
+      "kind": "news",
+      "ok": true,
+      "fetched": 20,
+      "kept": 18,
+      "droppedOffTopic": 0,
+      "droppedModern": 2,
+      "elapsedMs": 166
     },
     {
       "id": "lemonde-sciences",
       "name": "Le Monde — Sciences",
       "lang": "fr",
-      "region": "europe"
+      "region": "europe",
+      "kind": "news",
+      "ok": true,
+      "fetched": 20,
+      "kept": 1,
+      "droppedOffTopic": 19,
+      "droppedModern": 0,
+      "elapsedMs": 143
     },
     {
       "id": "spiegel-wissenschaft",
       "name": "Der Spiegel — Wissenschaft",
       "lang": "de",
-      "region": "europe"
+      "region": "europe",
+      "kind": "news",
+      "ok": true,
+      "fetched": 20,
+      "kept": 2,
+      "droppedOffTopic": 18,
+      "droppedModern": 0,
+      "elapsedMs": 153
+    },
+    {
+      "id": "heritage-daily",
+      "name": "Heritage Daily",
+      "lang": "en",
+      "region": "world",
+      "kind": "news",
+      "ok": false,
+      "error": "Attribute without value\nLine: 86\nColumn: 120\nChar: >",
+      "elapsedMs": 1707
+    },
+    {
+      "id": "archaeology-mag",
+      "name": "Archaeology Magazine",
+      "lang": "en",
+      "region": "world",
+      "kind": "news",
+      "ok": false,
+      "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f",
+      "elapsedMs": 338
+    },
+    {
+      "id": "live-science-arch",
+      "name": "Live Science",
+      "lang": "en",
+      "region": "world",
+      "kind": "news",
+      "ok": true,
+      "fetched": 30,
+      "kept": 12,
+      "droppedOffTopic": 18,
+      "droppedModern": 0,
+      "elapsedMs": 334
+    },
+    {
+      "id": "smithsonian",
+      "name": "Smithsonian Magazine",
+      "lang": "en",
+      "region": "world",
+      "kind": "news",
+      "ok": false,
+      "error": "Status code 404",
+      "elapsedMs": 338
+    },
+    {
+      "id": "bbc-history",
+      "name": "BBC History Extra",
+      "lang": "en",
+      "region": "europe",
+      "kind": "news",
+      "ok": true,
+      "fetched": 10,
+      "kept": 9,
+      "droppedOffTopic": 0,
+      "droppedModern": 1,
+      "elapsedMs": 232
+    },
+    {
+      "id": "phys-arch",
+      "name": "Phys.org — Archaeology",
+      "lang": "en",
+      "region": "world",
+      "kind": "news",
+      "ok": false,
+      "error": "Status code 404",
+      "elapsedMs": 442
+    },
+    {
+      "id": "sciencedaily-arch",
+      "name": "ScienceDaily — Archaeology",
+      "lang": "en",
+      "region": "world",
+      "kind": "news",
+      "ok": true,
+      "fetched": 30,
+      "kept": 27,
+      "droppedOffTopic": 3,
+      "droppedModern": 0,
+      "elapsedMs": 793
+    },
+    {
+      "id": "ancient-origins",
+      "name": "Ancient Origins",
+      "lang": "en",
+      "region": "world",
+      "kind": "news",
+      "ok": true,
+      "fetched": 10,
+      "kept": 10,
+      "droppedOffTopic": 0,
+      "droppedModern": 0,
+      "elapsedMs": 550
+    },
+    {
+      "id": "nature-arch",
+      "name": "Nature — Archaeology",
+      "lang": "en",
+      "region": "world",
+      "kind": "news",
+      "ok": false,
+      "error": "Status code 406",
+      "elapsedMs": 448
+    },
+    {
+      "id": "guardian-arch",
+      "name": "The Guardian — Archaeology",
+      "lang": "en",
+      "region": "europe",
+      "kind": "news",
+      "ok": true,
+      "fetched": 20,
+      "kept": 18,
+      "droppedOffTopic": 0,
+      "droppedModern": 2,
+      "elapsedMs": 438
+    },
+    {
+      "id": "bsky-despertaferro",
+      "name": "Bluesky · @despertaferroed",
+      "lang": "es",
+      "region": "iberia",
+      "kind": "social",
+      "ok": true,
+      "fetched": 30,
+      "kept": 18,
+      "droppedOffTopic": 12,
+      "droppedModern": 0,
+      "elapsedMs": 979
+    },
+    {
+      "id": "bsky-labrujulaverde",
+      "name": "Bluesky · @labrujulaverde",
+      "lang": "es",
+      "region": "world",
+      "kind": "social",
+      "ok": true,
+      "fetched": 30,
+      "kept": 12,
+      "droppedOffTopic": 18,
+      "droppedModern": 0,
+      "elapsedMs": 961
+    },
+    {
+      "id": "yt-despertaferro",
+      "name": "YouTube · Desperta Ferro",
+      "lang": "es",
+      "region": "iberia",
+      "kind": "social",
+      "ok": true,
+      "fetched": 15,
+      "kept": 2,
+      "droppedOffTopic": 13,
+      "droppedModern": 0,
+      "elapsedMs": 189
     }
   ],
   "items": [
@@ -127,7 +331,7 @@
       "publishedAt": "2026-04-18T06:00:00.000Z",
       "source": {
         "id": "live-science-arch",
-        "name": "Live Science — Archaeology"
+        "name": "Live Science"
       },
       "lang": "en",
       "region": "world",
@@ -164,59 +368,6 @@
       "topics": []
     },
     {
-      "id": "elpais-cultura:https://elpais.com/cultura/2026-04-18/la-apertura-del-circulo-de-bellas-artes-una-explosion-de-irreverencia-y-creatividad.html",
-      "title": "La apertura del Círculo de Bellas Artes, una explosión de irreverencia y creatividad",
-      "summary": "La exposición ‘Eclosión’ recorre la historia de la institución en los últimos años del siglo XX tras décadas de censura",
-      "url": "https://elpais.com/cultura/2026-04-18/la-apertura-del-circulo-de-bellas-artes-una-explosion-de-irreverencia-y-creatividad.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/L6RGHZHYIFFTLJE7NNZESSP2IU.jpg?auth=30165cccdadc573d689edfdcaed2b15b04d6de279da095a529a64a2d473a448f",
-      "publishedAt": "2026-04-18T03:30:01.000Z",
-      "source": {
-        "id": "elpais-cultura",
-        "name": "El País — Cultura"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "museoak"
-      ]
-    },
-    {
-      "id": "elpais-cultura:https://elpais.com/cultura/2026-04-18/una-reflexion-sobre-el-colonialismo-y-sus-secuelas-hasta-hoy-en-el-corazon-de-europa.html",
-      "title": "Una reflexión sobre el colonialismo y sus secuelas hasta hoy en el corazón de Europa",
-      "summary": "La Casa de la Historia Europea en Bruselas inaugura ‘¿Poscolonial?’, una exposición que recorre el pasado colonial de Europa y su influencia y peso en el mundo contemporáneo, dentro y fuera de las fronteras del Viejo Continente",
-      "url": "https://elpais.com/cultura/2026-04-18/una-reflexion-sobre-el-colonialismo-y-sus-secuelas-hasta-hoy-en-el-corazon-de-europa.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/EQLXR4R7MVH7XOWONKRSZYTA6Y.jpg?auth=b6f20445be957b4f41aeaff9764b517985961d5bd9d3cabc640c074009bb742d",
-      "publishedAt": "2026-04-18T03:30:01.000Z",
-      "source": {
-        "id": "elpais-cultura",
-        "name": "El País — Cultura"
-      },
-      "lang": "es",
-      "region": "europe",
-      "topics": [
-        "museoak"
-      ]
-    },
-    {
-      "id": "abc-cultura:https://www.abc.es/cultura/arte/calder-gran-funambulista-arte-regresa-paris-cien-20260418041325-nt.html",
-      "title": "Calder, el funambulista del arte, regresa a París un siglo después",
-      "summary": "Llevaba el arte en el ADN: su madre era pintora, su padre y su abuelo, escultores. «No me criaron, me enmarcaron», decía. Sin embargo, se graduó en ingeniería mecánica. Pero como los genes tiran mucho era inevitable su vocación artística. Se formó en la Arts Students League de…",
-      "url": "https://www.abc.es/cultura/arte/calder-gran-funambulista-arte-regresa-paris-cien-20260418041325-nt.html",
-      "image": null,
-      "publishedAt": "2026-04-18T02:13:25.000Z",
-      "source": {
-        "id": "abc-cultura",
-        "name": "ABC Cultura"
-      },
-      "lang": "es",
-      "region": "europe",
-      "topics": [
-        "amerika",
-        "museoak",
-        "aurkikuntza"
-      ]
-    },
-    {
       "id": "live-science-arch:https://www.livescience.com/archaeology/ancient-egyptians/archaeologists-discover-perfectly-circular-ancient-egyptian-temple-that-may-have-been-used-for-sacred-water-rituals",
       "title": "Archaeologists discover perfectly circular ancient Egyptian temple that may have been used for sacred water rituals",
       "summary": "The temple included a network of water infrastructure, revealing the importance of the ancient city and the Nile.",
@@ -225,7 +376,7 @@
       "publishedAt": "2026-04-17T20:59:20.000Z",
       "source": {
         "id": "live-science-arch",
-        "name": "Live Science — Archaeology"
+        "name": "Live Science"
       },
       "lang": "en",
       "region": "world",
@@ -284,6 +435,21 @@
       "topics": []
     },
     {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/fortificaciones-milenarias-un-disco-solar-de-bronce-y-enigmaticas-placas-decoradas-de-arcilla-descubiertas-en-las-montanas-del-sur-de-georgia",
+      "title": "Fortificaciones milenarias, un disco solar de bronce y enigmáticas placas decoradas de arcilla, descubiertas en las montañas del sur de Georgia",
+      "summary": "Durante siglos, la meseta de Javakheti, en las tierras altas del sur de Georgia, ha permanecido como una de las regiones arqueológicamente menos exploradas del Cáucaso Sur. Esta situación ha comenzado a cambiar de forma drástica desde 2017, cuando un equipo conjunto de…",
+      "url": "https://www.labrujulaverde.com/2026/04/fortificaciones-milenarias-un-disco-solar-de-bronce-y-enigmaticas-placas-decoradas-de-arcilla-descubiertas-en-las-montanas-del-sur-de-georgia",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/urn-cambridge.org-id-binary-alt-20260401101422-31782-optimisedImage-png-S0003598X26103317_fig2.jpg.webp",
+      "publishedAt": "2026-04-17T15:50:47.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": []
+    },
+    {
       "id": "abc-cultura:https://www.abc.es/cultura/toros/sevilla/toros-sevilla-directo-sigue-corrida-viernes-abril-20260417143618-dis.html",
       "title": "Toros en Sevilla, en directo: sigue la corrida del viernes 17 de abril con Talavante, Roca Rey y Pablo Aguado",
       "summary": "Se estrenan en la Feria de Abril los diestros Talavante y Pablo Aguado, y cumple Roca Rey con su segunda tarde en el coso maestrante. Un cartel, en suma, de poderío, con toros de Domingo Hernández, ganadería charra que ya es historia de la Maestranza por 'Ligerito', el toro al…",
@@ -316,6 +482,53 @@
       ]
     },
     {
+      "id": "bsky-labrujulaverde:https://bsky.app/profile/labrujulaverde.bsky.social/post/3mjp6kti3oc2c",
+      "title": "",
+      "summary": "Historians Reveal the Illuminati Didn’t Vanish in 1785—They Survived in Hiding in Thuringia https://www.labrujulaverde.com/en/2026/04/historians-reveal-the-illuminati-didnt-vanish-in-1785they-survived-in-hiding-in-thuringia/",
+      "url": "https://bsky.app/profile/labrujulaverde.bsky.social/post/3mjp6kti3oc2c",
+      "image": null,
+      "publishedAt": "2026-04-17T14:54:00.000Z",
+      "source": {
+        "id": "bsky-labrujulaverde",
+        "name": "Bluesky · @labrujulaverde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "inrap:https://www.inrap.fr/de-l-enregistrement-de-terrain-aux-systemes-d-information-archeologiques-enjeux-20692",
+      "title": "De l’enregistrement de terrain aux systèmes d’information archéologiques : enjeux, pratiques et durabilité",
+      "summary": "Appel à contribution pour le 10e séminaire scientifique et technique de l’Inrap organisé en partenariat avec le service archéologique de Nantes Métropole, les jeudi 12 et vendredi 13 novembre 2026.",
+      "url": "https://www.inrap.fr/de-l-enregistrement-de-terrain-aux-systemes-d-information-archeologiques-enjeux-20692",
+      "image": null,
+      "publishedAt": "2026-04-17T14:52:26.000Z",
+      "source": {
+        "id": "inrap",
+        "name": "Inrap — Archéologie préventive"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/descubren-que-la-sociedad-secreta-de-los-illuminati-sobrevivio-en-turingia-despues-de-la-prohibicion-de-1785",
+      "title": "Descubren que la sociedad secreta de los Illuminati sobrevivió en Turingia después de la prohibición de 1785",
+      "summary": "El próximo 1 de mayo se cumplen exactamente 250 años de la fundación de los Illuminati, la Orden de los Iluminados, una sociedad secreta que, pese a su brevísima existencia histórica de apenas una década larga, ha demostrado una persistencia tenaz en la imaginación colectiva…",
+      "url": "https://www.labrujulaverde.com/2026/04/descubren-que-la-sociedad-secreta-de-los-illuminati-sobrevivio-en-turingia-despues-de-la-prohibicion-de-1785",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/sociedad-illuminati-labrujulaverde-com.webp",
+      "publishedAt": "2026-04-17T14:45:16.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
       "id": "abc-cultura:https://www.abc.es/cultura/cultural/especial-sant-jordi-2026-sobre-gran-fiesta-20260417164841-nt.html",
       "title": "Especial Sant Jordi 2026. Todo sobre la gran fiesta del libro y la lectura",
       "summary": "El 23 de abril es el Día del Libro, la fiesta grande de la literatura y la lectura. Sobre todo se celebra en Cataluña, donde es una asentada tradición regalar libros y rosas. ABC Cultural ofrece un imperdible número extraordinario sobre Sant Jordi para conocer mejor y disfrutar…",
@@ -334,6 +547,38 @@
       ]
     },
     {
+      "id": "inrap:https://www.inrap.fr/les-cryptes-de-l-eglise-de-sant-rafeu-9414",
+      "title": "Les cryptes de l'église de Sant Rafèu",
+      "summary": "Visite du site avec Anne Joncheray, directrice du Musée archéologique de Saint-Raphaël, Aurélie Dumont et Nathalie Molina, archéologues responsables d'opération de l'Inrap.",
+      "url": "https://www.inrap.fr/les-cryptes-de-l-eglise-de-sant-rafeu-9414",
+      "image": null,
+      "publishedAt": "2026-04-17T13:49:17.000Z",
+      "source": {
+        "id": "inrap",
+        "name": "Inrap — Archéologie préventive"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": [
+        "museoak"
+      ]
+    },
+    {
+      "id": "inrap:https://www.inrap.fr/les-cryptes-de-l-eglise-de-sant-rafeu-4903",
+      "title": "Les cryptes de l'église de Sant Rafèu",
+      "summary": "Depuis 1994, plusieurs campagnes de fouilles archéologiques ont accompagné la restauration de l'église Sant Raféu, édifice à l'origine de l'existence de la commune de Saint-Raphaël (Var).",
+      "url": "https://www.inrap.fr/les-cryptes-de-l-eglise-de-sant-rafeu-4903",
+      "image": null,
+      "publishedAt": "2026-04-17T13:18:11.000Z",
+      "source": {
+        "id": "inrap",
+        "name": "Inrap — Archéologie préventive"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
       "id": "bbc-history:https://www.historyextra.com/membership/40000-years-ago-ancestors-strange-symbols-what-do-they-mean/",
       "title": "40,000 years ago, our ancestors left these strange symbols behind. What do they really mean?",
       "summary": "Research has unveiled a 43,000-year-old system of symbols – but is it evidence of a forerunner of writing systems, or something altogether different?",
@@ -345,6 +590,21 @@
         "name": "BBC History Extra"
       },
       "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "inrap:https://www.inrap.fr/notre-dame-de-paris-fouille-preventive-la-croisee-du-transept-vlsf-17729",
+      "title": "Notre-Dame de Paris : fouille préventive à la croisée du transept (vlsf)",
+      "summary": "Dès le lendemain de l’incendie du 15 avril 2019, les archéologues ont été appelés au chevet de la cathédrale Notre-Dame de Paris. Trois ans après, une fouille conduite par l'Inrap livre d’importantes données sur la construction et l’évolution de la cathédrale, des sépultures…",
+      "url": "https://www.inrap.fr/notre-dame-de-paris-fouille-preventive-la-croisee-du-transept-vlsf-17729",
+      "image": null,
+      "publishedAt": "2026-04-17T12:40:48.000Z",
+      "source": {
+        "id": "inrap",
+        "name": "Inrap — Archéologie préventive"
+      },
+      "lang": "fr",
       "region": "europe",
       "topics": []
     },
@@ -377,6 +637,40 @@
       "lang": "en",
       "region": "europe",
       "topics": []
+    },
+    {
+      "id": "bsky-labrujulaverde:https://bsky.app/profile/labrujulaverde.bsky.social/post/3mjont6u2p22c",
+      "title": "",
+      "summary": "Grandes calderos de bronce de finales de la Antigüedad cuyo contenido todavía no ha sido identificado, encontrados en Alemania…",
+      "url": "https://bsky.app/profile/labrujulaverde.bsky.social/post/3mjont6u2p22c",
+      "image": null,
+      "publishedAt": "2026-04-17T09:55:00.000Z",
+      "source": {
+        "id": "bsky-labrujulaverde",
+        "name": "Bluesky · @labrujulaverde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "amerika"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/grandes-calderos-de-bronce-de-finales-de-la-antiguedad-cuyo-contenido-todavia-no-ha-sido-identificado-encontrados-en-alemania",
+      "title": "Grandes calderos de bronce de finales de la Antigüedad cuyo contenido todavía no ha sido identificado, encontrados en Alemania",
+      "summary": "En Schaalby, una pequeña localidad en el norte de Schleswig-Holstein en Alemania, un equipo de arqueólogos y voluntarios ha sacado a la luz un hallazgo de una rareza excepcional para la región: un depósito compuesto por varios calderos de bronce cuya cronología se sitúa entre…",
+      "url": "https://www.labrujulaverde.com/2026/04/grandes-calderos-de-bronce-de-finales-de-la-antiguedad-cuyo-contenido-todavia-no-ha-sido-identificado-encontrados-en-alemania",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/kessel_aufsicht.webp",
+      "publishedAt": "2026-04-17T09:52:43.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "amerika"
+      ]
     },
     {
       "id": "bbc-history:https://www.historyextra.com/membership/would-you-eat-a-mummy-video/",
@@ -454,27 +748,47 @@
       "topics": []
     },
     {
+      "id": "inrap:https://www.inrap.fr/decouvertes-de-vestiges-du-neolithique-l-antiquite-sarzeau-morbihan-20683",
+      "title": "Découvertes de vestiges du Néolithique à l’Antiquité à Sarzeau (Morbihan)",
+      "summary": "De septembre 2025 à février 2026, dans le cadre d’un projet d’aménagement porté par la commune, l'Inrap a mené une fouille d’environ 3 ha et mis en évidence de nombreuses traces d’occupations datées du Néolithique, de l’âge du Bronze ancien et final, du Ier âge du Fer et de…",
+      "url": "https://www.inrap.fr/decouvertes-de-vestiges-du-neolithique-l-antiquite-sarzeau-morbihan-20683",
+      "image": null,
+      "publishedAt": "2026-04-17T08:22:43.000Z",
+      "source": {
+        "id": "inrap",
+        "name": "Inrap — Archéologie préventive"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": [
+        "prehistoria",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/las-mascaras-de-sanxingdui-la-cultura-que-desaparecio-hace-mas-de-2000-anos-bajo-una-gran-inundacion-en-china",
+      "title": "Las máscaras de Sanxingdui, la cultura que desapareció hace más de 2000 años bajo una gran inundación en China",
+      "summary": "Junto a las tranquilas riberas del río Yazi, a solo 40 kilómetros de la bulliciosa Chengdu, la tierra escondió durante más de tres milenios el secreto de una civilización que no figuraba en los anales oficiales de la dinastía Shang. No fue hasta que la hoja de un arado primero,…",
+      "url": "https://www.labrujulaverde.com/2026/04/las-mascaras-de-sanxingdui-la-cultura-que-desaparecio-hace-mas-de-2000-anos-bajo-una-gran-inundacion-en-china",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/Gold_Mask_sanxingdui-labrujulaverde-com.webp",
+      "publishedAt": "2026-04-17T08:16:51.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "asia"
+      ]
+    },
+    {
       "id": "bbc-history:https://www.historyextra.com/membership/how-to-find-billion-dollar-shipwreck-podcast/",
       "title": "How to find a billion-dollar shipwreck",
       "summary": "Julian Sancton tells the extraordinary story of Roger Dooley – a maverick maritime archaeologist who embarked on a decades-long search for a sunken Spanish galleon",
       "url": "https://www.historyextra.com/membership/how-to-find-billion-dollar-shipwreck-podcast/",
       "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/04/Julian-Sancton-Neptunes-FortuneWL-AN-e12d0b7.jpg",
       "publishedAt": "2026-04-17T07:49:54.000Z",
-      "source": {
-        "id": "bbc-history",
-        "name": "BBC History Extra"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "bbc-history:https://www.historyextra.com/period/cold-war/what-was-bay-of-pigs-invasion-cia-fidel-castro-jfk-impact/",
-      "title": "The Bay of Pigs Invasion: was this CIA fiasco JFK's worst embarrassment?",
-      "summary": "The botched Bay of Pigs invasion stands as one of several US failings in the 1960s as the Cold War rolled on. Why was it such a disaster?",
-      "url": "https://www.historyextra.com/period/cold-war/what-was-bay-of-pigs-invasion-cia-fidel-castro-jfk-impact/",
-      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/01/Bay-of-Pigs-WL-AN011500-x-1000-62bb34b.jpg",
-      "publishedAt": "2026-04-17T07:38:38.000Z",
       "source": {
         "id": "bbc-history",
         "name": "BBC History Extra"
@@ -510,7 +824,7 @@
       "publishedAt": "2026-04-16T20:42:58.000Z",
       "source": {
         "id": "live-science-arch",
-        "name": "Live Science — Archaeology"
+        "name": "Live Science"
       },
       "lang": "en",
       "region": "world",
@@ -525,11 +839,171 @@
       "publishedAt": "2026-04-16T18:00:00.000Z",
       "source": {
         "id": "live-science-arch",
-        "name": "Live Science — Archaeology"
+        "name": "Live Science"
       },
       "lang": "en",
       "region": "world",
       "topics": []
+    },
+    {
+      "id": "inrap:https://www.inrap.fr/rencontre-l-occasion-de-l-exposition-vestiges-archeologiques-de-l-oise-autour-20675",
+      "title": "Rencontre à l'occasion de l'exposition « Vestiges archéologiques de l’Oise : autour des chantiers du canal Seine-Nord Europe »",
+      "summary": "Vendredi 3 avril, à Compiègne (Oise), Pascal Perrault, directeur général délégué de l’Inrap, s’est rendu à la Maison du Canal à l’occasion de l’exposition « Vestiges archéologiques de l’Oise autour des chantiers du Canal » et d'une rencontre institutionnelle réunissant les…",
+      "url": "https://www.inrap.fr/rencontre-l-occasion-de-l-exposition-vestiges-archeologiques-de-l-oise-autour-20675",
+      "image": null,
+      "publishedAt": "2026-04-16T15:17:07.000Z",
+      "source": {
+        "id": "inrap",
+        "name": "Inrap — Archéologie préventive"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/descubren-por-que-los-propietarios-decidieron-plantar-vinedos-y-huertos-en-lugar-de-reconstruir-sus-edificios-tras-el-terremoto-del-62-dc-en-pompeya",
+      "title": "Descubren por qué los propietarios decidieron plantar viñedos y huertos en lugar de reconstruir sus edificios tras el terremoto del 62 d.C. en Pompeya",
+      "summary": "Pompeya no murió de repente. Antes de que el Vesubio la sepultara en el año 79 d.C., la ciudad ya había sobrevivido a otra catástrofe: un terremoto devastador en el año 62 que derribó edificios, agrietó calles y dejó barrios enteros en ruinas. Durante años, la arqueología ha…",
+      "url": "https://www.labrujulaverde.com/2026/04/descubren-por-que-los-propietarios-decidieron-plantar-vinedos-y-huertos-en-lugar-de-reconstruir-sus-edificios-tras-el-terremoto-del-62-dc-en-pompeya",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/urn-cambridge.org-id-binary-alt-20260413031631-76893-optimisedImage-png-S1047759425100573_fig10.jpg.webp",
+      "publishedAt": "2026-04-16T15:03:16.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "inrap:https://www.inrap.fr/le-camp-de-la-legio-viii-augusta-strasbourg-9394",
+      "title": "Le camp de la Legio VIII Augusta à Strasbourg",
+      "summary": "Visite du site avec Gertrud Kuhnle, archéologue responsable d'opération, et Heidi Cicutta, archéologue, Inrap",
+      "url": "https://www.inrap.fr/le-camp-de-la-legio-viii-augusta-strasbourg-9394",
+      "image": null,
+      "publishedAt": "2026-04-16T14:39:29.000Z",
+      "source": {
+        "id": "inrap",
+        "name": "Inrap — Archéologie préventive"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "inrap:https://www.inrap.fr/le-camp-d-entrainement-des-troupes-de-louis-xiv-9529",
+      "title": "Le camp d'entraînement des troupes de Louis XIV",
+      "summary": "Une équipe d’archéologues de l’Inrap fouille, dans la plaine d’Achères (Yvelines), le fort Saint-Sébastien, camp d’entrainement des troupes de Louis XIV en vue de la prise de Maastricht. Ces fouilles sont réalisées par l’Inrap préalablement à la modernisation des installations…",
+      "url": "https://www.inrap.fr/le-camp-d-entrainement-des-troupes-de-louis-xiv-9529",
+      "image": null,
+      "publishedAt": "2026-04-16T14:30:47.000Z",
+      "source": {
+        "id": "inrap",
+        "name": "Inrap — Archéologie préventive"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "inrap:https://www.inrap.fr/une-saison-gauloise-20602",
+      "title": "Une saison gauloise",
+      "summary": "L’Inrap consacre sa dixième saison scientifique et culturelle à l'âge du Fer et aux Gaulois. La civilisation celtique et gauloise (âge du Fer) est probablement celle qui a le plus bénéficié, ces vingt dernières années, du développement de l'archéologie préventive. À découvrir…",
+      "url": "https://www.inrap.fr/une-saison-gauloise-20602",
+      "image": null,
+      "publishedAt": "2026-04-16T13:50:01.000Z",
+      "source": {
+        "id": "inrap",
+        "name": "Inrap — Archéologie préventive"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "inrap:https://www.inrap.fr/une-saison-gauloise-20499",
+      "title": "Une saison gauloise",
+      "summary": "L’Inrap consacre sa dixième saison scientifique et culturelle à l'âge du Fer et aux Gaulois. Grâce au nombre et à la surface des sites étudiés depuis une trentaine d’années, l’archéologie préventive a produit une vision renouvelée de cette mosaïque de peuples celtes et de…",
+      "url": "https://www.inrap.fr/une-saison-gauloise-20499",
+      "image": null,
+      "publishedAt": "2026-04-16T13:09:08.000Z",
+      "source": {
+        "id": "inrap",
+        "name": "Inrap — Archéologie préventive"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "bsky-labrujulaverde:https://bsky.app/profile/labrujulaverde.bsky.social/post/3mjme63x3dc2t",
+      "title": "",
+      "summary": "4,000-Year-Old Cuneiform Tablets Suggest Gilgamesh May Have Really Existed, Researchers Say https://www.labrujulaverde.com/en/2026/04/4000-year-old-cuneiform-tablets-suggest-gilgamesh-may-have-really-existed-researchers-say/",
+      "url": "https://bsky.app/profile/labrujulaverde.bsky.social/post/3mjme63x3dc2t",
+      "image": null,
+      "publishedAt": "2026-04-16T11:57:00.000Z",
+      "source": {
+        "id": "bsky-labrujulaverde",
+        "name": "Bluesky · @labrujulaverde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "bsky-despertaferro:https://bsky.app/profile/despertaferroed.bsky.social/post/3mjmc6uj3dc2o",
+      "title": "",
+      "summary": "\"Esta publicación es un viaje al pasado en toda regla pero también una manera de reivindicar una cultura que durante mucho tiempo se consideró inferior\".…",
+      "url": "https://bsky.app/profile/despertaferroed.bsky.social/post/3mjmc6uj3dc2o",
+      "image": null,
+      "publishedAt": "2026-04-16T11:21:00.000Z",
+      "source": {
+        "id": "bsky-despertaferro",
+        "name": "Bluesky · @despertaferroed"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "iberiarrak"
+      ]
+    },
+    {
+      "id": "bsky-labrujulaverde:https://bsky.app/profile/labrujulaverde.bsky.social/post/3mjmbhdekjs2y",
+      "title": "",
+      "summary": "A 350-square-meter megastructure discovered in Romania challenges theories about early egalitarian societies in Europe https://www.labrujulaverde.com/en/2026/04/a-350-square-meter-megastructure-discovered-in-romania-challenges-theories-about-early-egalitarian-societies-in-europe/",
+      "url": "https://bsky.app/profile/labrujulaverde.bsky.social/post/3mjmbhdekjs2y",
+      "image": null,
+      "publishedAt": "2026-04-16T11:08:00.000Z",
+      "source": {
+        "id": "bsky-labrujulaverde",
+        "name": "Bluesky · @labrujulaverde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "erromatarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/descubren-en-rumania-una-megaestructura-de-350-metros-cuadrados-que-desafia-las-teorias-sobre-las-primeras-sociedades-igualitarias-de-europa",
+      "title": "Descubren en Rumanía una megaestructura de 350 metros cuadrados que desafía las teorías sobre las primeras sociedades igualitarias de Europa",
+      "summary": "Entre 2020 y 2024, un equipo de investigadores de la Universidad Friedrich-Alexander de Erlangen-Núremberg y del Museo del Condado de Botoșani ha sacado a la luz uno de los hallazgos más singulares de la arqueología prehistórica europea reciente. En el yacimiento de…",
+      "url": "https://www.labrujulaverde.com/2026/04/descubren-en-rumania-una-megaestructura-de-350-metros-cuadrados-que-desafia-las-teorias-sobre-las-primeras-sociedades-igualitarias-de-europa",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/journal.pone_.0343603.g005.webp",
+      "publishedAt": "2026-04-16T10:56:38.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "museoak",
+        "aurkikuntza"
+      ]
     },
     {
       "id": "bbc-history:https://www.historyextra.com/period/medieval/bayeux-tapestry-politics-british-museum-loan/",
@@ -549,6 +1023,136 @@
       ]
     },
     {
+      "id": "inrap:https://www.inrap.fr/gaulois-la-vie-la-mort-20689",
+      "title": "Gaulois : à la vie, à la mort !",
+      "summary": "",
+      "url": "https://www.inrap.fr/gaulois-la-vie-la-mort-20689",
+      "image": null,
+      "publishedAt": "2026-04-16T10:16:27.000Z",
+      "source": {
+        "id": "inrap",
+        "name": "Inrap — Archéologie préventive"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "inrap:https://www.inrap.fr/site-archeologique-de-bibracte-20688",
+      "title": "Site archéologique de Bibracte",
+      "summary": "",
+      "url": "https://www.inrap.fr/site-archeologique-de-bibracte-20688",
+      "image": null,
+      "publishedAt": "2026-04-16T10:05:53.000Z",
+      "source": {
+        "id": "inrap",
+        "name": "Inrap — Archéologie préventive"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "inrap:https://www.inrap.fr/musee-d-art-moderne-troyes-lavau-un-prince-celte-en-bord-de-seine-20687",
+      "title": "Musée d’Art moderne (Troyes) : Lavau, un prince celte en bord de Seine",
+      "summary": "",
+      "url": "https://www.inrap.fr/musee-d-art-moderne-troyes-lavau-un-prince-celte-en-bord-de-seine-20687",
+      "image": null,
+      "publishedAt": "2026-04-16T09:56:42.000Z",
+      "source": {
+        "id": "inrap",
+        "name": "Inrap — Archéologie préventive"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": [
+        "museoak"
+      ]
+    },
+    {
+      "id": "inrap:https://www.inrap.fr/musee-de-gergovie-l-etoffe-d-un-gaulois-costume-et-parure-en-gaule-20685",
+      "title": "Musée de Gergovie : L’étoffe d’un Gaulois. Costume et parure en Gaule",
+      "summary": "",
+      "url": "https://www.inrap.fr/musee-de-gergovie-l-etoffe-d-un-gaulois-costume-et-parure-en-gaule-20685",
+      "image": null,
+      "publishedAt": "2026-04-16T09:29:04.000Z",
+      "source": {
+        "id": "inrap",
+        "name": "Inrap — Archéologie préventive"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": [
+        "museoak"
+      ]
+    },
+    {
+      "id": "inrap:https://www.inrap.fr/les-celtes-au-latenium-20684",
+      "title": "Les Celtes au Laténium",
+      "summary": "",
+      "url": "https://www.inrap.fr/les-celtes-au-latenium-20684",
+      "image": null,
+      "publishedAt": "2026-04-16T09:22:21.000Z",
+      "source": {
+        "id": "inrap",
+        "name": "Inrap — Archéologie préventive"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "bsky-despertaferro:https://bsky.app/profile/despertaferroed.bsky.social/post/3mjlzzajtz22w",
+      "title": "",
+      "summary": "Fue en esos años cuando el Mediterráneo ardió, cuando Troya cayó ante el inmisericorde bronce y el poderío hitita se derrumbó como un castillo de naipes, cuando los mismos aqueos que se habían regocijado en las ruinas de Ilión vieron destruidos sus palacios y cuando Egipto…",
+      "url": "https://bsky.app/profile/despertaferroed.bsky.social/post/3mjlzzajtz22w",
+      "image": null,
+      "publishedAt": "2026-04-16T08:55:00.000Z",
+      "source": {
+        "id": "bsky-despertaferro",
+        "name": "Bluesky · @despertaferroed"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "erdi-aroa",
+        "egiptoarrak",
+        "ekialde-hurbila"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/descifran-tablillas-cuneiformes-de-hace-4000-anos-que-sugieren-que-gilgamesh-pudo-haber-existido-realmente",
+      "title": "Descifran tablillas cuneiformes de hace 4000 años que sugieren que Gilgamesh pudo haber existido realmente",
+      "summary": "Más de un siglo después de que el Museo Nacional de Dinamarca comenzara a acumular una vasta colección de tablillas de arcilla inscritas procedentes de las civilizaciones más antiguas de Oriente Próximo, un equipo de investigadores ha logrado finalmente analizar, identificar y…",
+      "url": "https://www.labrujulaverde.com/2026/04/descifran-tablillas-cuneiformes-de-hace-4000-anos-que-sugieren-que-gilgamesh-pudo-haber-existido-realmente",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/kilecollage1100x600.webp",
+      "publishedAt": "2026-04-16T08:41:54.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "museoak"
+      ]
+    },
+    {
+      "id": "desperta-ferro:https://www.despertaferro-ediciones.com/2026/vida-y-muerte-en-camino-del-molino/",
+      "title": "Vida y muerte en Camino del Molino",
+      "summary": "En Camino del Molino, un extraordinario enterramiento colectivo del III milenio a.C., la arqueología ha logrado reconstruir con una precisión inédita la vida, la muerte y los cuidados de una comunidad calcolítica. Descubierto de forma accidental en Caravaca de la Cruz, este…",
+      "url": "https://www.despertaferro-ediciones.com/2026/vida-y-muerte-en-camino-del-molino/",
+      "image": null,
+      "publishedAt": "2026-04-16T07:47:28.000Z",
+      "source": {
+        "id": "desperta-ferro",
+        "name": "Desperta Ferro Ediciones"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": []
+    },
+    {
       "id": "bbc-history:https://www.historyextra.com/membership/bayeux-tapestry-loan-podcast-lord-peter-ricketts/",
       "title": "Is the Bayeux Tapestry coming to Britain or not?",
       "summary": "Lord Peter Ricketts gives the lowdown on how the Bayeux Tapestry loan is progressing",
@@ -564,6 +1168,23 @@
       "topics": []
     },
     {
+      "id": "bsky-despertaferro:https://bsky.app/profile/despertaferroed.bsky.social/post/3mjltb5ov6k2b",
+      "title": "",
+      "summary": "Camino del Molino: el mayor enterramiento prehistórico de Europa que revela cómo vivían, enfermaban y se cuidaban las comunidades del III milenio a.C. Estudio apoyado por Fundación Palarq. 👇 https://www.despertaferro-ediciones.com/2026/vida-y-muerte-en-camino-del-molino/",
+      "url": "https://bsky.app/profile/despertaferroed.bsky.social/post/3mjltb5ov6k2b",
+      "image": null,
+      "publishedAt": "2026-04-16T06:54:00.000Z",
+      "source": {
+        "id": "bsky-despertaferro",
+        "name": "Bluesky · @despertaferroed"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
       "id": "live-science-arch:https://www.livescience.com/space/somethings-missing-most-thorough-ever-study-of-the-cosmos-proves-we-still-cant-explain-how-the-universe-is-expanding",
       "title": "'Something's missing': Most thorough-ever study of the cosmos proves we still can't explain how the universe is expanding",
       "summary": "A comprehensive new study combines decades of research to reveal that we're missing an essential component in our understanding of how the universe works.",
@@ -572,11 +1193,30 @@
       "publishedAt": "2026-04-15T17:45:00.000Z",
       "source": {
         "id": "live-science-arch",
-        "name": "Live Science — Archaeology"
+        "name": "Live Science"
       },
       "lang": "en",
       "region": "world",
       "topics": []
+    },
+    {
+      "id": "bsky-labrujulaverde:https://bsky.app/profile/labrujulaverde.bsky.social/post/3mjkchgwtoc24",
+      "title": "",
+      "summary": "A triple bone comb of the Late Roman Germanic elite and a necklace of 156 Baltic amber beads from the Bronze Age, discovered in Germany…",
+      "url": "https://bsky.app/profile/labrujulaverde.bsky.social/post/3mjkchgwtoc24",
+      "image": null,
+      "publishedAt": "2026-04-15T16:21:00.000Z",
+      "source": {
+        "id": "bsky-labrujulaverde",
+        "name": "Bluesky · @labrujulaverde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "prehistoria",
+        "erromatarrak",
+        "aurkikuntza"
+      ]
     },
     {
       "id": "live-science-arch:https://www.livescience.com/planet-earth/geology/ancient-process-that-created-rare-earth-elements-discovered-and-it-could-help-us-locate-desperately-needed-deposits",
@@ -587,7 +1227,7 @@
       "publishedAt": "2026-04-15T16:18:57.000Z",
       "source": {
         "id": "live-science-arch",
-        "name": "Live Science — Archaeology"
+        "name": "Live Science"
       },
       "lang": "en",
       "region": "world",
@@ -604,11 +1244,98 @@
       "publishedAt": "2026-04-15T16:15:56.000Z",
       "source": {
         "id": "live-science-arch",
-        "name": "Live Science — Archaeology"
+        "name": "Live Science"
       },
       "lang": "en",
       "region": "world",
       "topics": []
+    },
+    {
+      "id": "bsky-labrujulaverde:https://bsky.app/profile/labrujulaverde.bsky.social/post/3mjkc2wgfp224",
+      "title": "",
+      "summary": "Un peine triple de hueso de la élite germánica tardorromana y un collar de 156 cuentas de ámbar báltico de la Edad del Bronce, encontrados en Alemania…",
+      "url": "https://bsky.app/profile/labrujulaverde.bsky.social/post/3mjkc2wgfp224",
+      "image": null,
+      "publishedAt": "2026-04-15T16:14:00.000Z",
+      "source": {
+        "id": "bsky-labrujulaverde",
+        "name": "Bluesky · @labrujulaverde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/un-peine-triple-de-hueso-de-la-elite-germanica-tardorromana-y-un-collar-de-156-cuentas-de-ambar-baltico-de-la-edad-del-bronce-encontrados-en-alemania",
+      "title": "Un peine triple de hueso de la élite germánica tardorromana y un collar de 156 cuentas de ámbar báltico de la Edad del Bronce, encontrados en Alemania",
+      "summary": "La construcción de un nuevo parque eólico en las inmediaciones de las pedanías alemanas de Ahlum y Dettum, un proyecto impulsado por la empresa SAB WindTeam GmbH que contempla la instalación de diecinueve aerogeneradores, ha destapado un capítulo insospechado de la prehistoria…",
+      "url": "https://www.labrujulaverde.com/2026/04/un-peine-triple-de-hueso-de-la-elite-germanica-tardorromana-y-un-collar-de-156-cuentas-de-ambar-baltico-de-la-edad-del-bronce-encontrados-en-alemania",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/274081.webp",
+      "publishedAt": "2026-04-15T16:11:57.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "prehistoria",
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "inrap:https://www.inrap.fr/prehistoire-entre-utopie-et-realite-20679",
+      "title": "Préhistoire : entre utopie et réalité",
+      "summary": "La nouvelle exposition du Collège de France, en partenariat avec l'Inrap, invite à un voyage dans la science préhistorique, ses inventeurs, ses débats, les résistances qui l'ont façonnée. Photographies de fouilles archéologiques, ouvrages imprimés, arbres de l’évolution humaine,…",
+      "url": "https://www.inrap.fr/prehistoire-entre-utopie-et-realite-20679",
+      "image": null,
+      "publishedAt": "2026-04-15T16:04:47.000Z",
+      "source": {
+        "id": "inrap",
+        "name": "Inrap — Archéologie préventive"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "bsky-despertaferro:https://bsky.app/profile/despertaferroed.bsky.social/post/3mjk62uwmos26",
+      "title": "",
+      "summary": "¿Qué papel juegan las damas en el mundo ibérico? Nos lo cuenta desde el Museo Arqueológico Nacional Dr. en Estudios del Mundo Antiguo Jesús Robles, autor del libro ‘Damas, torres y leones. Los íberos a través de su escultura’. Ya en librerías 🔗…",
+      "url": "https://bsky.app/profile/despertaferroed.bsky.social/post/3mjk62uwmos26",
+      "image": null,
+      "publishedAt": "2026-04-15T15:02:00.000Z",
+      "source": {
+        "id": "bsky-despertaferro",
+        "name": "Bluesky · @despertaferroed"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "iberiarrak",
+        "museoak"
+      ]
+    },
+    {
+      "id": "inrap:https://www.inrap.fr/feminin-masculin-20681",
+      "title": "Féminin – Masculin",
+      "summary": "Découvrez librement l’exposition « Féminin – Masculin » au Musée départemental de la Céramique avec une Archéocapsule (exposition légère) sur l'archéologie des sexes conçue par l’Inrap.",
+      "url": "https://www.inrap.fr/feminin-masculin-20681",
+      "image": null,
+      "publishedAt": "2026-04-15T14:46:13.000Z",
+      "source": {
+        "id": "inrap",
+        "name": "Inrap — Archéologie préventive"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": [
+        "museoak"
+      ]
     },
     {
       "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/04/260415043623.htm",
@@ -626,6 +1353,166 @@
       "topics": [
         "museoak"
       ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/los-cazadores-recolectores-de-hace-800000-anos-seleccionaban-sus-asentamientos-segun-cuanta-madera-podian-conseguir-sin-esfuerzo-para-el-fuego",
+      "title": "Los cazadores-recolectores de hace 800.000 años seleccionaban sus asentamientos según cuánta madera podían conseguir sin esfuerzo para el fuego",
+      "summary": "Un nuevo análisis de los restos vegetales carbonizados recuperados en el yacimiento achelense de Gesher Benot Ya’aqov, ubicado en lo que hoy es el norte de Israel, ha demostrado que los primeros humanos que habitaron las orillas del paleo-Lago Hula hace aproximadamente 780.000…",
+      "url": "https://www.labrujulaverde.com/2026/04/los-cazadores-recolectores-de-hace-800000-anos-seleccionaban-sus-asentamientos-segun-cuanta-madera-podian-conseguir-sin-esfuerzo-para-el-fuego",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/A-general-view-of-the-excavation-of-Gesher-Benot-Ya‘aqov-Acheulian-site.-Note-that-the-original-occupation-surfaces-are-tilted-due-to-tectonics.-Credit_-GBY-Expedition.webp",
+      "publishedAt": "2026-04-15T10:52:01.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "bsky-labrujulaverde:https://bsky.app/profile/labrujulaverde.bsky.social/post/3mjjly6oo6224",
+      "title": "",
+      "summary": "The Chronograph of 354 Is the First Illustrated Book in History and the Oldest to Fix Christmas and the Feast of Sol Invictus on the Same Day…",
+      "url": "https://bsky.app/profile/labrujulaverde.bsky.social/post/3mjjly6oo6224",
+      "image": null,
+      "publishedAt": "2026-04-15T09:39:00.000Z",
+      "source": {
+        "id": "bsky-labrujulaverde",
+        "name": "Bluesky · @labrujulaverde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "bsky-labrujulaverde:https://bsky.app/profile/labrujulaverde.bsky.social/post/3mjjld6i3cc24",
+      "title": "",
+      "summary": "El Cronógrafo del año 354 es el primer libro ilustrado de la Historia y el más antiguo que fija la Navidad y la fiesta del Sol Invicto el mismo día…",
+      "url": "https://bsky.app/profile/labrujulaverde.bsky.social/post/3mjjld6i3cc24",
+      "image": null,
+      "publishedAt": "2026-04-15T09:27:00.000Z",
+      "source": {
+        "id": "bsky-labrujulaverde",
+        "name": "Bluesky · @labrujulaverde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/el-cronografo-del-ano-354-es-el-primer-libro-ilustrado-de-la-historia-y-el-mas-antiguo-que-fija-la-navidad-y-la-fiesta-del-sol-invicto-el-mismo-dia",
+      "title": "El Cronógrafo del año 354 es el primer libro ilustrado de la Historia y el más antiguo que fija la Navidad y la fiesta del Sol Invicto el mismo día",
+      "summary": "Roma, siglo IV. El emperador Constancio II gobierna un imperio que ya no es el de Augusto. Las viejas divinidades del Capitolio pierden fieles cada día mientras los cristianos se multiplican en los barrios populares. En este mundo de transición, un rico cristiano llamado…",
+      "url": "https://www.labrujulaverde.com/2026/04/el-cronografo-del-ano-354-es-el-primer-libro-ilustrado-de-la-historia-y-el-mas-antiguo-que-fija-la-navidad-y-la-fiesta-del-sol-invicto-el-mismo-dia",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/Pallade_col_Centauro_Sandro_Botticelli_1482.webp",
+      "publishedAt": "2026-04-15T09:24:46.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/science/2026/apr/15/hidden-treasures-spanish-archaeologists-discover-trove-of-ancient-shipwrecks-in-bay-of-gibraltar",
+      "title": "Hidden treasures: Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar",
+      "summary": "Researchers identify wrecks at the bottom of the sea from as far back as fifth century BC, from Europe and beyond Spanish archaeologists exploring the bay that curves between the southern port of Algeciras and the Rock of Gibraltar have documented the wrecks of more than 30…",
+      "url": "https://www.theguardian.com/science/2026/apr/15/hidden-treasures-spanish-archaeologists-discover-trove-of-ancient-shipwrecks-in-bay-of-gibraltar",
+      "image": "https://i.guim.co.uk/img/media/e6061b1b8fb08d4492a358f75035d4a4727ebe7d/6_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=2d7c28a8e8df76c8ee7b88c310945dbe",
+      "publishedAt": "2026-04-15T08:00:03.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "erromatarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "bsky-despertaferro:https://bsky.app/profile/despertaferroed.bsky.social/post/3mjjgdv5hdc2a",
+      "title": "",
+      "summary": "\"Un microcosmos de toda la experiencia americana: con sus contradicciones, su grandeza y sus pecados fundacionales. Sobre todo esos: Deadwood fue construida sobre tierras robadas a los lakotas, y ninguna leyenda puede borrar ese hecho\".…",
+      "url": "https://bsky.app/profile/despertaferroed.bsky.social/post/3mjjgdv5hdc2a",
+      "image": null,
+      "publishedAt": "2026-04-15T07:58:00.000Z",
+      "source": {
+        "id": "bsky-despertaferro",
+        "name": "Bluesky · @despertaferroed"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "bsky-labrujulaverde:https://bsky.app/profile/labrujulaverde.bsky.social/post/3mjjfy57na224",
+      "title": "",
+      "summary": "The tomb of an Iron Age warrior in Italy contained a silver wire from the Iberian Peninsula and remains of a medicinal drink…",
+      "url": "https://bsky.app/profile/labrujulaverde.bsky.social/post/3mjjfy57na224",
+      "image": null,
+      "publishedAt": "2026-04-15T07:51:00.000Z",
+      "source": {
+        "id": "bsky-labrujulaverde",
+        "name": "Bluesky · @labrujulaverde"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "prehistoria",
+        "iberiarrak"
+      ]
+    },
+    {
+      "id": "bsky-labrujulaverde:https://bsky.app/profile/labrujulaverde.bsky.social/post/3mjjfjtmh7224",
+      "title": "",
+      "summary": "La tumba de un guerrero de la Edad del Hierro en Italia contenía un alambre de plata de la península ibérica y restos de una bebida medicinal…",
+      "url": "https://bsky.app/profile/labrujulaverde.bsky.social/post/3mjjfjtmh7224",
+      "image": null,
+      "publishedAt": "2026-04-15T07:43:00.000Z",
+      "source": {
+        "id": "bsky-labrujulaverde",
+        "name": "Bluesky · @labrujulaverde"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/la-tumba-de-un-guerrero-de-la-edad-del-hierro-en-italia-contenia-un-alambre-de-plata-de-la-peninsula-iberica-y-restos-de-una-bebida-medicinal",
+      "title": "La tumba de un guerrero de la Edad del Hierro en Italia contenía un alambre de plata de la península ibérica y restos de una bebida medicinal",
+      "summary": "El yacimiento de Bisenzio, situado junto al lago Bolsena, a unos 90 kilómetros al noroeste de Roma, ha sido tradicionalmente considerado un centro secundario y dependiente de las grandes ciudades costeras etruscas como Vulci, Tarquinia o Cerveteri. Sin embargo, un estudio…",
+      "url": "https://www.labrujulaverde.com/2026/04/la-tumba-de-un-guerrero-de-la-edad-del-hierro-en-italia-contenia-un-alambre-de-plata-de-la-peninsula-iberica-y-restos-de-una-bebida-medicinal",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/1-s2.0-S2352409X26001859-gr18_lrg.webp",
+      "publishedAt": "2026-04-15T07:41:07.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "amerika"
+      ]
+    },
+    {
+      "id": "inrap:https://www.inrap.fr/du-marais-la-ville-autour-du-site-des-halles-de-chambery-savoie-20674",
+      "title": "Du marais à la ville : autour du site des halles de Chambéry (Savoie)",
+      "summary": "Première synthèse archéologique sur le centre de Chambéry, publiée sous la direction de Sylvie Bocquet, dans la collection des \"Documents d'archéologie en Rhônes-Alpes et en Auvergne\" (DARA).",
+      "url": "https://www.inrap.fr/du-marais-la-ville-autour-du-site-des-halles-de-chambery-savoie-20674",
+      "image": null,
+      "publishedAt": "2026-04-15T06:03:28.000Z",
+      "source": {
+        "id": "inrap",
+        "name": "Inrap — Archéologie préventive"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
     },
     {
       "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/04/260415011643.htm",
@@ -653,12 +1540,89 @@
       "publishedAt": "2026-04-14T23:01:00.000Z",
       "source": {
         "id": "live-science-arch",
-        "name": "Live Science — Archaeology"
+        "name": "Live Science"
       },
       "lang": "en",
       "region": "world",
       "topics": [
         "museoak"
+      ]
+    },
+    {
+      "id": "inrap:https://www.inrap.fr/l-entree-d-une-agglomeration-antique-mise-au-jour-gemenos-20678",
+      "title": "L’entrée d’une agglomération antique mise au jour à Gémenos",
+      "summary": "",
+      "url": "https://www.inrap.fr/l-entree-d-une-agglomeration-antique-mise-au-jour-gemenos-20678",
+      "image": null,
+      "publishedAt": "2026-04-14T15:02:13.000Z",
+      "source": {
+        "id": "inrap",
+        "name": "Inrap — Archéologie préventive"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "inrap:https://www.inrap.fr/parution-raconte-moi-l-archeologie-20677",
+      "title": "Parution : Raconte-moi l'archéologie",
+      "summary": "",
+      "url": "https://www.inrap.fr/parution-raconte-moi-l-archeologie-20677",
+      "image": null,
+      "publishedAt": "2026-04-14T14:56:54.000Z",
+      "source": {
+        "id": "inrap",
+        "name": "Inrap — Archéologie préventive"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "inrap:https://www.inrap.fr/10-000-ans-d-inegalites-alimentaires-20655",
+      "title": "10 000 ans d’inégalités alimentaires",
+      "summary": "Une équipe internationale de chercheuses et chercheurs (Inrap, CNRS, Simon Fraser University) publie un article dans la revue PNAS Nexus intitulé Dietary Inequality Marker Reveals 10,000 Years of Gender and Cultural Disparity in Europe. En croisant anthropobiologie, biochimie et…",
+      "url": "https://www.inrap.fr/10-000-ans-d-inegalites-alimentaires-20655",
+      "image": null,
+      "publishedAt": "2026-04-14T14:46:48.000Z",
+      "source": {
+        "id": "inrap",
+        "name": "Inrap — Archéologie préventive"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "inrap:https://www.inrap.fr/10-000-ans-d-inegalites-alimentaires-20676",
+      "title": "10 000 ans d’inégalités alimentaires",
+      "summary": "",
+      "url": "https://www.inrap.fr/10-000-ans-d-inegalites-alimentaires-20676",
+      "image": null,
+      "publishedAt": "2026-04-14T14:44:28.000Z",
+      "source": {
+        "id": "inrap",
+        "name": "Inrap — Archéologie préventive"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "inrap:https://www.inrap.fr/breves-gauloises-le-vase-de-martigne-ferchaud-ille-et-vilaine-20673",
+      "title": "Brèves gauloises : le vase de Martigné-Ferchaud (Ille-et-Vilaine)",
+      "summary": "À l'occasion de la saison scientifique et culturelle gauloise de l'Inrap, des archéologues racontent des fouilles et des objets de l'âge du Fer qui les ont marqués. Aujourd'hui, un vase au décor remarquable découvert à Martigné-Ferchaud.",
+      "url": "https://www.inrap.fr/breves-gauloises-le-vase-de-martigne-ferchaud-ille-et-vilaine-20673",
+      "image": null,
+      "publishedAt": "2026-04-14T14:29:32.000Z",
+      "source": {
+        "id": "inrap",
+        "name": "Inrap — Archéologie préventive"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": [
+        "aurkikuntza"
       ]
     },
     {
@@ -679,6 +1643,23 @@
       ]
     },
     {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/el-oro-encontrado-en-el-barco-del-pirata-samuel-bellamy-revela-la-verdad-sobre-la-pureza-del-metal-africano-la-ciencia-desmiente-siglos-de-acusaciones",
+      "title": "El oro encontrado en el barco del pirata Samuel Bellamy revela la verdad sobre la pureza del metal africano: la ciencia desmiente siglos de acusaciones",
+      "summary": "Durante más de mil años, el oro de África Occidental fue uno de los productos más codiciados del mundo. Primero alimentó las rutas comerciales que cruzaban el Sahara y, a partir del siglo XV, se convirtió en el motor del comercio marítimo europeo en la costa atlántica.…",
+      "url": "https://www.labrujulaverde.com/2026/04/el-oro-encontrado-en-el-barco-del-pirata-samuel-bellamy-revela-la-verdad-sobre-la-pureza-del-metal-africano-la-ciencia-desmiente-siglos-de-acusaciones",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/40494_2026_2441_Fig2_HTML.png.webp",
+      "publishedAt": "2026-04-14T14:12:24.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "amerika"
+      ]
+    },
+    {
       "id": "live-science-arch:https://www.livescience.com/physics-mathematics/particle-physics/physicists-just-witnessed-pinpricks-of-darkness-moving-faster-than-the-speed-of-light-without-breaking-the-laws-of-relativity",
       "title": "Physicists just witnessed pinpricks of darkness moving faster than the speed of light ‪—‬ without breaking the laws of relativity",
       "summary": "For the first time, researchers measured singularities in combined light and sound waves moving faster than the speed of light. The findings have implications in fluid dynamics, optics and many other fields.",
@@ -687,10 +1668,128 @@
       "publishedAt": "2026-04-14T10:00:00.000Z",
       "source": {
         "id": "live-science-arch",
-        "name": "Live Science — Archaeology"
+        "name": "Live Science"
       },
       "lang": "en",
       "region": "world",
+      "topics": []
+    },
+    {
+      "id": "bsky-labrujulaverde:https://bsky.app/profile/labrujulaverde.bsky.social/post/3mjgxdmrzsk24",
+      "title": "",
+      "summary": "Large Megalithic Tombs in Neolithic Scotland Were Built to Safeguard the Paternal Line for Centuries https://www.labrujulaverde.com/en/2026/04/large-megalithic-tombs-in-neolithic-scotland-were-built-to-safeguard-the-paternal-line-for-centuries/",
+      "url": "https://bsky.app/profile/labrujulaverde.bsky.social/post/3mjgxdmrzsk24",
+      "image": null,
+      "publishedAt": "2026-04-14T08:24:00.000Z",
+      "source": {
+        "id": "bsky-labrujulaverde",
+        "name": "Bluesky · @labrujulaverde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "bsky-labrujulaverde:https://bsky.app/profile/labrujulaverde.bsky.social/post/3mjgwyjpdec24",
+      "title": "",
+      "summary": "Las grandes tumbas megalíticas en la Escocia neolítica se construyeron para custodiar la línea paterna durante siglos https://www.labrujulaverde.com/2026/04/las-grandes-tumbas-megaliticas-en-la-escocia-neolitica-se-construyeron-para-custodiar-la-linea-paterna-durante-siglos",
+      "url": "https://bsky.app/profile/labrujulaverde.bsky.social/post/3mjgwyjpdec24",
+      "image": null,
+      "publishedAt": "2026-04-14T08:18:00.000Z",
+      "source": {
+        "id": "bsky-labrujulaverde",
+        "name": "Bluesky · @labrujulaverde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "amerika"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/las-grandes-tumbas-megaliticas-en-la-escocia-neolitica-se-construyeron-para-custodiar-la-linea-paterna-durante-siglos",
+      "title": "Las grandes tumbas megalíticas en la Escocia neolítica se construyeron para custodiar la línea paterna durante siglos",
+      "summary": "Un equipo de arqueólogos ha logrado establecer las relaciones genéticas entre individuos enterrados en tumbas de cámara del Neolítico en el norte de Escocia, concretamente en Caithness y las islas Orcadas, con una cronología que abarca desde el 3800 al 3200 años antes de nuestra…",
+      "url": "https://www.labrujulaverde.com/2026/04/las-grandes-tumbas-megaliticas-en-la-escocia-neolitica-se-construyeron-para-custodiar-la-linea-paterna-durante-siglos",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/One-of-the-timbs-at-Lock-Calder-credit-Vicki-Cummings_0.webp",
+      "publishedAt": "2026-04-14T08:16:08.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "amerika"
+      ]
+    },
+    {
+      "id": "inrap:https://www.inrap.fr/dernieres-nouvelles-de-la-prehistoire-14063",
+      "title": "Dernières nouvelles de la Préhistoire",
+      "summary": "L’archéologie de la Préhistoire a bénéficié, au cours de ces dix dernières années, d’approches croisées et nouvelles rendues possibles par le développement de disciplines connexes, l’élargissement des champs de la recherche et l’expertise toujours plus pointue des scientifiques.…",
+      "url": "https://www.inrap.fr/dernieres-nouvelles-de-la-prehistoire-14063",
+      "image": null,
+      "publishedAt": "2026-04-14T08:01:22.000Z",
+      "source": {
+        "id": "inrap",
+        "name": "Inrap — Archéologie préventive"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": [
+        "prehistoria",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "inrap:https://www.inrap.fr/la-decouverte-de-la-prehistoire-20627",
+      "title": "À la découverte de la Préhistoire",
+      "summary": "Partenaire de l’exposition « Préhistoire : entre utopie et réalité », conçue et produite par le Collège de France, l’Inrap propose ici une sélection de ressources concernant les époques les plus anciennes évoquées dans l’exposition : le Paléolithique et le Mésolithique. Des…",
+      "url": "https://www.inrap.fr/la-decouverte-de-la-prehistoire-20627",
+      "image": null,
+      "publishedAt": "2026-04-14T07:44:14.000Z",
+      "source": {
+        "id": "inrap",
+        "name": "Inrap — Archéologie préventive"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": [
+        "prehistoria",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/jiajing-el-sadico-emperador-chino-que-buscaba-la-inmortalidad-y-mataba-a-sus-concubinas-a-bastonazos",
+      "title": "Jiajing, el sádico emperador chino que buscaba la inmortalidad y mataba a sus concubinas a bastonazos",
+      "summary": "Jiajing, duodécimo emperador chino de la dinastía Ming, subió al trono de forma insólita: por elección del gobierno, al fallecer su predecesor -y primo- sin dejar descendencia. Tuvo que superar un enfrentamiento con algunos funcionarios por la forma de darle a ello una pátina de…",
+      "url": "https://www.labrujulaverde.com/2026/04/jiajing-el-sadico-emperador-chino-que-buscaba-la-inmortalidad-y-mataba-a-sus-concubinas-a-bastonazos",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/Jiajing_Emperor_on_his_state_barge.webp",
+      "publishedAt": "2026-04-14T07:18:42.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "inrap:https://www.inrap.fr/5e-journees-d-actualite-de-la-recherche-de-l-association-ateg-20670",
+      "title": "5e journées d’actualité de la recherche de l’association ATEG",
+      "summary": "Journées de l'association ATEG (Antiquité tardive en Gaule) qui auront lieu les vendredi 11 et samedi 12 décembre 2026.",
+      "url": "https://www.inrap.fr/5e-journees-d-actualite-de-la-recherche-de-l-association-ateg-20670",
+      "image": null,
+      "publishedAt": "2026-04-14T07:06:22.000Z",
+      "source": {
+        "id": "inrap",
+        "name": "Inrap — Archéologie préventive"
+      },
+      "lang": "fr",
+      "region": "europe",
       "topics": []
     },
     {
@@ -702,7 +1801,7 @@
       "publishedAt": "2026-04-14T07:00:00.000Z",
       "source": {
         "id": "live-science-arch",
-        "name": "Live Science — Archaeology"
+        "name": "Live Science"
       },
       "lang": "en",
       "region": "world",
@@ -732,7 +1831,7 @@
       "publishedAt": "2026-04-13T23:01:00.000Z",
       "source": {
         "id": "live-science-arch",
-        "name": "Live Science — Archaeology"
+        "name": "Live Science"
       },
       "lang": "en",
       "region": "world",
@@ -764,10 +1863,25 @@
       "publishedAt": "2026-04-13T18:55:41.000Z",
       "source": {
         "id": "live-science-arch",
-        "name": "Live Science — Archaeology"
+        "name": "Live Science"
       },
       "lang": "en",
       "region": "world",
+      "topics": []
+    },
+    {
+      "id": "inrap:https://www.inrap.fr/tombes-gauloises-de-dijon-assis-soient-ils-20664",
+      "title": "Tombes gauloises de Dijon : assis soient-ils",
+      "summary": "Avec Annamaria Latron, archéo-anthropologue, responsable d’opérations à l’Inrap.",
+      "url": "https://www.inrap.fr/tombes-gauloises-de-dijon-assis-soient-ils-20664",
+      "image": null,
+      "publishedAt": "2026-04-13T16:35:46.000Z",
+      "source": {
+        "id": "inrap",
+        "name": "Inrap — Archéologie préventive"
+      },
+      "lang": "fr",
+      "region": "europe",
       "topics": []
     },
     {
@@ -783,6 +1897,135 @@
       },
       "lang": "fr",
       "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/encuentran-el-primer-empaste-dental-conocido-realizado-con-piedras-preciosas-en-una-muela-por-los-mayas",
+      "title": "Encuentran el primer empaste dental conocido realizado con piedras preciosas en una muela por los mayas",
+      "summary": "Un equipo de investigadores de Guatemala y México ha documentado un hallazgo excepcional en la arqueología dental maya: un primer molar inferior izquierdo que presenta una incrustación de color verdoso, identificada como jadeíta o un material similar, alojada en el centro de su…",
+      "url": "https://www.labrujulaverde.com/2026/04/encuentran-el-primer-empaste-dental-conocido-realizado-con-piedras-preciosas-en-una-muela-por-los-mayas",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/1-s2.0-S2352409X26001665-gr1_lrg.webp",
+      "publishedAt": "2026-04-13T15:04:56.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "amerika"
+      ]
+    },
+    {
+      "id": "bsky-despertaferro:https://bsky.app/profile/despertaferroed.bsky.social/post/3mjf3y267r22l",
+      "title": "",
+      "summary": "🗓️AGENDA DE LA SEMANA Este miércoles te tenemos preparado un PLA-NA-ZO en el Museo Arqueológico Nacional de España, la espectacular mesa redonda 'Revivir a los íberos a partir de su escultura'. ✅Entrada libre hasta completar aforo +info 🔗…",
+      "url": "https://bsky.app/profile/despertaferroed.bsky.social/post/3mjf3y267r22l",
+      "image": null,
+      "publishedAt": "2026-04-13T14:41:00.000Z",
+      "source": {
+        "id": "bsky-despertaferro",
+        "name": "Bluesky · @despertaferroed"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "iberiarrak",
+        "museoak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/la-desaparicion-de-una-cantidad-colosal-de-plomo-antiguo-hace-que-la-tierra-parezca-mucho-mas-joven-de-lo-que-indican-los-meteoritos-primordiales",
+      "title": "La desaparición de una cantidad colosal de plomo antiguo hace que la Tierra parezca mucho más joven de lo que indican los meteoritos primordiales",
+      "summary": "Durante décadas, los geoquímicos han utilizado las diferentes variedades de plomo como una suerte de reloj geológico infalible para datar la formación de rocas y comprender los procesos de acreción planetaria que dieron forma a la Tierra hace más de 4.500 millones de años. Sin…",
+      "url": "https://www.labrujulaverde.com/2026/04/la-desaparicion-de-una-cantidad-colosal-de-plomo-antiguo-hace-que-la-tierra-parezca-mucho-mas-joven-de-lo-que-indican-los-meteoritos-primordiales",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/pexels-david-zherdenovsky-1464601365-27564080.webp",
+      "publishedAt": "2026-04-13T11:43:23.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "bsky-despertaferro:https://bsky.app/profile/despertaferroed.bsky.social/post/3mjelbabumk2i",
+      "title": "",
+      "summary": "'Álvaro de Bazán. El Invicto' de Guillermo Nicieza 6 de mayo en librerías 📬Ya en preventa con gastos de envío gratis en nuestra tienda online 🔗 https://www.despertaferro-ediciones.com/revistas/numero/libro-ilustrado-historia-guillermo-nicieza-alvaro-de-bazan-el-invicto/",
+      "url": "https://bsky.app/profile/despertaferroed.bsky.social/post/3mjelbabumk2i",
+      "image": null,
+      "publishedAt": "2026-04-13T09:42:00.000Z",
+      "source": {
+        "id": "bsky-despertaferro",
+        "name": "Bluesky · @despertaferroed"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/como-el-sonido-de-los-animales-dio-origen-a-los-jeroglificos-egipcios-los-signos-foneticos-surgieron-como-imitacion",
+      "title": "Cómo el sonido de los animales dio origen a los jeroglíficos egipcios: los signos fonéticos surgieron como imitación",
+      "summary": "En una época donde los mensajes de voz y los vídeos efímeros compiten por la atención, la escritura sigue siendo, desde hace milenios, el soporte fundamental de la memoria cultural. Almacena conocimiento, narra historias y transforma trazos elementales en universos mentales…",
+      "url": "https://www.labrujulaverde.com/2026/04/como-el-sonido-de-los-animales-dio-origen-a-los-jeroglificos-egipcios-los-signos-foneticos-surgieron-como-imitacion",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/Thebes_Medinet_Habu_Egypt_Temple_of_Ramesses_III_Egyptian_hieroglyphs_Ancient_Egypt.webp",
+      "publishedAt": "2026-04-13T08:42:12.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/el-espectacular-camuflaje-de-una-arana-vietnamita-adopta-la-forma-de-una-hoja-seca-durante-el-dia-y-se-come-su-propia-tela",
+      "title": "El espectacular camuflaje de una araña vietnamita: adopta la forma de una hoja seca durante el día y se come su propia tela",
+      "summary": "En las selvas de Vietnam existe una criatura que parece diseñada por un artista de efectos especiales de Hollywood. No es un extraterrestre ni un experimento de laboratorio. Es una araña. Se llama Poltys mouhoti, y su aspecto es tan extraordinario que quienes la ven por primera…",
+      "url": "https://www.labrujulaverde.com/2026/04/el-espectacular-camuflaje-de-una-arana-vietnamita-adopta-la-forma-de-una-hoja-seca-durante-el-dia-y-se-come-su-propia-tela",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/Tailed_Spider_Poltys_mouhoti_8757946956.webp",
+      "publishedAt": "2026-04-13T07:42:07.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "bsky-despertaferro:https://bsky.app/profile/despertaferroed.bsky.social/post/3mjecbimayy2d",
+      "title": "",
+      "summary": "⚠️OFERTA ESPECIAL #EBOOK, ¡SOLO HOY!⚠️ '¿Por qué caen los imperios?' de Peter Heather. ¿Caerá Occidente como cayó Roma? Un agudo análisis sobre los paralelismos entre el declive romano y la crisis que vivimos en la actualidad. 👉https://bwlnk.com/9788412716672",
+      "url": "https://bsky.app/profile/despertaferroed.bsky.social/post/3mjecbimayy2d",
+      "image": null,
+      "publishedAt": "2026-04-13T07:01:00.000Z",
+      "source": {
+        "id": "bsky-despertaferro",
+        "name": "Bluesky · @despertaferroed"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "bsky-despertaferro:https://bsky.app/profile/despertaferroed.bsky.social/post/3mjcql6qtl22j",
+      "title": "",
+      "summary": "La Guerra del Opio es uno de los episodios más infames de la historia de Gran Bretaña, arrastrada por los intereses de empresarios de dudosa reputación, corporaciones privadas, lobistas sin escrúpulos y halcones del imperialismo a un conflicto inmoral por un negocio que generaba…",
+      "url": "https://bsky.app/profile/despertaferroed.bsky.social/post/3mjcql6qtl22j",
+      "image": null,
+      "publishedAt": "2026-04-12T16:12:00.000Z",
+      "source": {
+        "id": "bsky-despertaferro",
+        "name": "Bluesky · @despertaferroed"
+      },
+      "lang": "es",
+      "region": "iberia",
       "topics": []
     },
     {
@@ -805,6 +2048,55 @@
       ]
     },
     {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/como-una-jirafa-con-la-que-lorenzo-de-medici-quiso-emular-a-julio-cesar-termino-salvando-a-la-familia",
+      "title": "Cómo una jirafa con la que Lorenzo de Médici quiso emular a Julio César terminó salvando a la familia",
+      "summary": "Es casi seguro que ningún lector sabrá qué animal es un camelopardo. En sentido estricto, ninguno; pero, si lo decimos en latín, se trata de la denominación científica de una especie: Giraffa camelopardalis, que así llamaron los romanos a la jirafa, al considerarla un híbrido de…",
+      "url": "https://www.labrujulaverde.com/2026/04/como-una-jirafa-con-la-que-lorenzo-de-medici-quiso-emular-a-julio-cesar-termino-salvando-a-la-familia",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/Giorgio_Vasari_-_Lorenzo_the_Magnificent_receives_the_tribute_of_the_ambassadors_-_Google_Art_Project.webp",
+      "publishedAt": "2026-04-12T09:11:02.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "bsky-despertaferro:https://bsky.app/profile/despertaferroed.bsky.social/post/3mj7wr6yfdk2d",
+      "title": "",
+      "summary": "'Urraca. Una reina en el trono de un rey' de Sonia Vital Fernández 2.ª edición ya en librerías ⬇️ Capítulo de descarga disponible en nuestra web 🔗…",
+      "url": "https://bsky.app/profile/despertaferroed.bsky.social/post/3mj7wr6yfdk2d",
+      "image": null,
+      "publishedAt": "2026-04-11T13:25:00.000Z",
+      "source": {
+        "id": "bsky-despertaferro",
+        "name": "Bluesky · @despertaferroed"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "erdi-aroa"
+      ]
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/science/2026/apr/11/dice-discovery-start-of-gambling-native-americans-archaeology",
+      "title": "Native Americans were gambling with dice 6,000 years earlier than anyone else, study says",
+      "summary": "Archaeological record suggests hunter gatherers were playing games of chance at the end of the last ice age Native American hunter gatherers were using dice for gaming and gambling more than 6,000 years before the practice appeared anywhere else, a new study argues. It says dice…",
+      "url": "https://www.theguardian.com/science/2026/apr/11/dice-discovery-start-of-gambling-native-americans-archaeology",
+      "image": "https://i.guim.co.uk/img/media/8a9e793b98cf9b2f8cd27a7ef90a81e8f4615623/0_27_1446_1157/master/1446.jpg?width=140&quality=85&auto=format&fit=max&s=09fe5cf7565668404a62172abbb41d99",
+      "publishedAt": "2026-04-11T11:00:47.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
       "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/04/260411022044.htm",
       "title": "Neanderthals may have hunted and eaten outsiders, chilling cannibalism study finds",
       "summary": "A cave in Belgium has revealed unsettling evidence that Neanderthals selectively cannibalized outsiders, focusing on women and children. The victims weren’t from the local group and appear to have been treated like prey, with bones butchered for meat and marrow. This suggests…",
@@ -819,6 +2111,58 @@
       "region": "world",
       "topics": [
         "aurkikuntza"
+      ]
+    },
+    {
+      "id": "bsky-despertaferro:https://bsky.app/profile/despertaferroed.bsky.social/post/3mj33uz24hk2a",
+      "title": "",
+      "summary": "🗓️AGENDA SEMANA QUE VIENE Este próximo miércoles 15 te tenemos preparado un 😍PLA-NA-ZO en el Museo Arqueológico Nacional, la espectacular mesa redonda 'Revivir a los íberos a partir de su escultura'. ✅Entrada libre hasta completar aforo +info 🔗…",
+      "url": "https://bsky.app/profile/despertaferroed.bsky.social/post/3mj33uz24hk2a",
+      "image": null,
+      "publishedAt": "2026-04-09T15:13:00.000Z",
+      "source": {
+        "id": "bsky-despertaferro",
+        "name": "Bluesky · @despertaferroed"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "iberiarrak",
+        "museoak"
+      ]
+    },
+    {
+      "id": "bsky-despertaferro:https://bsky.app/profile/despertaferroed.bsky.social/post/3mj2tiztplc2v",
+      "title": "",
+      "summary": "\"Gobernó en un trono diseñado para hombres, la ningunearon durante siglos y ahora, 900 años después de su muerte, la historia le hace justicia. La historiadora Sonia Vital recupera a Urraca de León en una magnífica biografía\".…",
+      "url": "https://bsky.app/profile/despertaferroed.bsky.social/post/3mj2tiztplc2v",
+      "image": null,
+      "publishedAt": "2026-04-09T12:43:00.000Z",
+      "source": {
+        "id": "bsky-despertaferro",
+        "name": "Bluesky · @despertaferroed"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "erdi-aroa"
+      ]
+    },
+    {
+      "id": "bsky-despertaferro:https://bsky.app/profile/despertaferroed.bsky.social/post/3mj2nlcmc6c2y",
+      "title": "",
+      "summary": "De las Guerras Indias al salvaje Oeste en cinco libros de historia 👇👇👇",
+      "url": "https://bsky.app/profile/despertaferroed.bsky.social/post/3mj2nlcmc6c2y",
+      "image": null,
+      "publishedAt": "2026-04-09T10:57:00.000Z",
+      "source": {
+        "id": "bsky-despertaferro",
+        "name": "Bluesky · @despertaferroed"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "asia"
       ]
     },
     {
@@ -837,6 +2181,53 @@
       "topics": [
         "aurkikuntza"
       ]
+    },
+    {
+      "id": "bsky-despertaferro:https://bsky.app/profile/despertaferroed.bsky.social/post/3miwhx5i7gc23",
+      "title": "",
+      "summary": "París, una cálida noche de finales de agosto de 1911, la Gioconda ha desaparecido del Museo del Louvre… ¿qué tiene esto que ver con Picasso, Apollinaire y la escultura ibérica?",
+      "url": "https://bsky.app/profile/despertaferroed.bsky.social/post/3miwhx5i7gc23",
+      "image": null,
+      "publishedAt": "2026-04-07T19:06:00.000Z",
+      "source": {
+        "id": "bsky-despertaferro",
+        "name": "Bluesky · @despertaferroed"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "museoak"
+      ]
+    },
+    {
+      "id": "bsky-despertaferro:https://bsky.app/profile/despertaferroed.bsky.social/post/3mivljtf5a22u",
+      "title": "",
+      "summary": "'Deadwood. Oro, revólveres y whisky en el salvaje Oeste' de Peter Cozzens Ya en librerías ⬇️Capítulo de descarga en nuestra web 🔗 https://despertaferro-ediciones.com/revistas/numero/libro-historia-peter-cozzens-deadwood-oro-revolveres-whisky-salvaje-oeste/",
+      "url": "https://bsky.app/profile/despertaferroed.bsky.social/post/3mivljtf5a22u",
+      "image": null,
+      "publishedAt": "2026-04-07T10:37:00.000Z",
+      "source": {
+        "id": "bsky-despertaferro",
+        "name": "Bluesky · @despertaferroed"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": []
+    },
+    {
+      "id": "bsky-despertaferro:https://bsky.app/profile/despertaferroed.bsky.social/post/3mitarrevvk2d",
+      "title": "",
+      "summary": "\"Este libro surge de una frustración [...] Soy historiadora de profesión, llevo veinticinco años leyendo y analizando obras muy especializadas que hablan de la antigua Roma, pero no encontraba lo que buscaba\". https://www.zendalibros.com/rescatando-voces-de-hace-mas-de-2000-anos/",
+      "url": "https://bsky.app/profile/despertaferroed.bsky.social/post/3mitarrevvk2d",
+      "image": null,
+      "publishedAt": "2026-04-06T12:19:00.000Z",
+      "source": {
+        "id": "bsky-despertaferro",
+        "name": "Bluesky · @despertaferroed"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": []
     },
     {
       "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/04/260405003937.htm",
@@ -872,6 +2263,21 @@
       "topics": []
     },
     {
+      "id": "bsky-despertaferro:https://bsky.app/profile/despertaferroed.bsky.social/post/3miler4bwwc2z",
+      "title": "",
+      "summary": "⚠️OFERTA ESPECIAL #EBOOK, ¡SOLO HOY!⚠️ 'Reyes del corso. Historia de los corsarios españoles' de Vera Moya Ya disponible en tus plataformas favoritas 🔗 bwlnk.com/9788412984668",
+      "url": "https://bsky.app/profile/despertaferroed.bsky.social/post/3miler4bwwc2z",
+      "image": null,
+      "publishedAt": "2026-04-03T09:09:00.000Z",
+      "source": {
+        "id": "bsky-despertaferro",
+        "name": "Bluesky · @despertaferroed"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": []
+    },
+    {
       "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/04/260402042748.htm",
       "title": "Ancient bees found nesting inside fossil bones in rare cave discovery",
       "summary": "Thousands of years ago in a cave on Hispaniola, an unusual chain of events left behind a rare scientific treasure: bees nesting inside fossilized bones. After giant barn owls repeatedly brought prey like hutias into the cave, their remains accumulated in silt-rich…",
@@ -901,6 +2307,23 @@
       },
       "lang": "en",
       "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/science/2026/apr/02/archaeologists-discover-wreck-danish-warship-sunk-admiral-nelson",
+      "title": "Archaeologists discover wreck of Danish warship sunk by Nelson 225 years ago",
+      "summary": "Divers in race against time to unearth wreck of the Dannebroge before seabed becomes construction site More than 200 years after being sunk by Adm Horatio Nelson and the British fleet, a Danish warship has been discovered on the seabed of Copenhagen harbour by marine…",
+      "url": "https://www.theguardian.com/science/2026/apr/02/archaeologists-discover-wreck-danish-warship-sunk-admiral-nelson",
+      "image": "https://i.guim.co.uk/img/media/aac3c077ba59be59d61708d9fb105c28c2bf17d7/115_0_3871_3097/master/3871.jpg?width=140&quality=85&auto=format&fit=max&s=cbb691c83e10bb1a68d6b0f179d0d359",
+      "publishedAt": "2026-04-02T10:42:22.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
       "topics": [
         "aurkikuntza"
       ]
@@ -957,6 +2380,21 @@
       ]
     },
     {
+      "id": "desperta-ferro:https://www.despertaferro-ediciones.com/2026/calendario-de-presentaciones-abril-mayo/",
+      "title": "Calendario de presentaciones abril-mayo",
+      "summary": "En abril y mayo, nos multiplicamos con presentaciones, ferias, conferencias, firmas, mesas redondas... ¡Toma nota! La entrada Calendario de presentaciones abril-mayo aparece primero en Desperta Ferro Ediciones.",
+      "url": "https://www.despertaferro-ediciones.com/2026/calendario-de-presentaciones-abril-mayo/",
+      "image": null,
+      "publishedAt": "2026-03-28T08:45:39.000Z",
+      "source": {
+        "id": "desperta-ferro",
+        "name": "Desperta Ferro Ediciones"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": []
+    },
+    {
       "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/03/260327230113.htm",
       "title": "Scientists say we’ve been looking in the wrong place for human origins",
       "summary": "A fossil ape discovered in northern Egypt is reshaping the story of human evolution. The species, Masripithecus, lived about 17 to 18 million years ago and may sit very close to the ancestor of all modern apes. This finding challenges the long-standing focus on East Africa.…",
@@ -971,6 +2409,55 @@
       "region": "world",
       "topics": [
         "egiptoarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "desperta-ferro:https://www.despertaferro-ediciones.com/2026/el-simbolismo-de-la-muerte-en-la-semana-santa-espanola/",
+      "title": "El simbolismo de la muerte en la Semana Santa española",
+      "summary": "Con la llegada de la Semana Santa, los mecanismos que mueven la estética macabra salen a la calle, activando unas pasiones que se tornan colectivas. La muerte ocupará un lugar central en estos días, pero su presencia puede ser analizada desde ópticas muy distintas. La entrada El…",
+      "url": "https://www.despertaferro-ediciones.com/2026/el-simbolismo-de-la-muerte-en-la-semana-santa-espanola/",
+      "image": null,
+      "publishedAt": "2026-03-27T17:53:52.000Z",
+      "source": {
+        "id": "desperta-ferro",
+        "name": "Desperta Ferro Ediciones"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": []
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/world/video/2026/mar/25/skeleton-dutch-church-musketeer-dartagnan-video",
+      "title": "Skeleton found in Dutch church may be famous musketeer D'Artagnan – video",
+      "summary": "Remains of the famed French musketeer Charles de Batz-Castelmore, known as d'Artagnan, may have been found in front of a church altar in the Dutch city of Maastricht, church officials and an archaeologist said. Workers discovered a grave containing human bones after parts of the…",
+      "url": "https://www.theguardian.com/world/video/2026/mar/25/skeleton-dutch-church-musketeer-dartagnan-video",
+      "image": "https://i.guim.co.uk/img/media/17bf6cc0d44e925a728a1103c9a804ab1342a2be/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=9623a9da92acd7a2eec86be8a7cd015c",
+      "publishedAt": "2026-03-25T19:40:48.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/world/2026/mar/25/skeleton-three-musketeers-dartagnan-alexandre-dumas",
+      "title": "Skeleton of Three Musketeers hero d’Artagnan may have been found",
+      "summary": "Archaeologists believe remains found in Maastricht, Netherlands, may be of soldier who inspired novel character More than three-and-a-half centuries after a musket ball to the throat put an end to decades of exemplary swashbuckling, the French soldier who inspired Alexandre…",
+      "url": "https://www.theguardian.com/world/2026/mar/25/skeleton-three-musketeers-dartagnan-alexandre-dumas",
+      "image": "https://i.guim.co.uk/img/media/595db7c488e62ded77ab5a73f1bcb63bd9265854/39_0_2661_2129/master/2661.jpg?width=140&quality=85&auto=format&fit=max&s=e31b25b6611b3b36a40806ce82d7d722",
+      "publishedAt": "2026-03-25T15:51:51.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
         "aurkikuntza"
       ]
     },
@@ -1036,6 +2523,41 @@
       "region": "world",
       "topics": [
         "prehistoria",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/science/2026/mar/19/archaeological-site-in-chile-upends-theory-of-how-humans-populated-the-americas-again",
+      "title": "Archaeological site in Chile upends theory of how humans populated the Americas … again",
+      "summary": "Discovery at Monte Verde puts north-to-south expansion theory back at centre of heated debate on continent’s human history A groundbreaking new study may have once again upended our understanding of human prehistory in the Americas. For years, the predominant theory of how…",
+      "url": "https://www.theguardian.com/science/2026/mar/19/archaeological-site-in-chile-upends-theory-of-how-humans-populated-the-americas-again",
+      "image": "https://i.guim.co.uk/img/media/f7efc7c29f53f9fa4f9bca59d241d79ad7a8d07f/207_0_2815_2252/master/2815.jpg?width=140&quality=85&auto=format&fit=max&s=ad9de227238b7ad318b647c2df7d3b49",
+      "publishedAt": "2026-03-19T18:00:23.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/world/2026/mar/18/ancient-skeleton-discovered-sitting-upright-in-france",
+      "title": "Ancient skeleton unearthed in France is latest to be found sitting upright",
+      "summary": "Scientists trying to work out why Gauls chose to bury some of their dead in seated position facing west Children at a primary school in eastern France found a strange attraction next to their playground this week: a skeleton sitting upright, peeking out of a circular pit. It is…",
+      "url": "https://www.theguardian.com/world/2026/mar/18/ancient-skeleton-discovered-sitting-upright-in-france",
+      "image": "https://i.guim.co.uk/img/media/fd76593b24dfc68774814a965a8398c458b4a0b1/388_0_3864_3093/master/3864.jpg?width=140&quality=85&auto=format&fit=max&s=482c7d7a0937be9046353bd4d613769f",
+      "publishedAt": "2026-03-18T13:58:15.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
         "aurkikuntza"
       ]
     },
@@ -1172,6 +2694,111 @@
       "topics": []
     },
     {
+      "id": "guardian-arch:https://www.theguardian.com/world/2026/mar/07/what-human-remains-are-held-in-uk-museums-and-where",
+      "title": "Which human remains are held in UK museums – and where?",
+      "summary": "Institutions including the Natural History Museum and Cambridge University hold more than 263,000 human remains, Guardian investigation finds Vast scale of overseas human remains held in UK museums decried by MPs and experts Descendants of Zimbabwe resistance heroes urge UK to…",
+      "url": "https://www.theguardian.com/world/2026/mar/07/what-human-remains-are-held-in-uk-museums-and-where",
+      "image": "https://i.guim.co.uk/img/media/3b9c29e3367cc549e5f22d0aeb183f1eced1ed79/288_148_3360_2687/master/3360.jpg?width=140&quality=85&auto=format&fit=max&s=6247247b937c19e3b4c768a15db869ea",
+      "publishedAt": "2026-03-07T19:59:30.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "museoak"
+      ]
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/world/2026/mar/07/vast-scale-of-overseas-human-remains-held-in-uk-museums-decried-by-mps-and-experts",
+      "title": "Vast scale of overseas human remains held in UK museums decried by MPs and experts",
+      "summary": "Exclusive: Guardian study finds UK museums hold more than 260,000 items of remains, often in sacrilegious ways • Which human remains are held in UK museums – and where? The vast number of overseas human remains held by UK museums is a shameful legacy of colonialism, with many…",
+      "url": "https://www.theguardian.com/world/2026/mar/07/vast-scale-of-overseas-human-remains-held-in-uk-museums-decried-by-mps-and-experts",
+      "image": "https://i.guim.co.uk/img/media/3b18c3bc8da4987d39bc7d7ad50efadbd49f2526/931_58_2894_2314/master/2894.jpg?width=140&quality=85&auto=format&fit=max&s=b8f21d33b69d81e735dfee293a1c80b2",
+      "publishedAt": "2026-03-07T17:00:55.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak",
+        "museoak"
+      ]
+    },
+    {
+      "id": "desperta-ferro:https://www.despertaferro-ediciones.com/2026/la-muerte-de-urraca-i-de-leon-y-castilla-900-anos-despues/",
+      "title": "La muerte de Urraca I de León y Castilla, nueve siglos después",
+      "summary": "El 8 de marzo de 1126, hace hoy 900 años, fallecía en el castillo de Saldaña la primera reina titular y soberana por derecho propio de la península ibérica y del Occidente medieval: Urraca I de León y Castilla. La historiadora Sonia Vital, autora del libro Urraca. Una reina en…",
+      "url": "https://www.despertaferro-ediciones.com/2026/la-muerte-de-urraca-i-de-leon-y-castilla-900-anos-despues/",
+      "image": null,
+      "publishedAt": "2026-03-07T09:35:45.000Z",
+      "source": {
+        "id": "desperta-ferro",
+        "name": "Desperta Ferro Ediciones"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "erdi-aroa"
+      ]
+    },
+    {
+      "id": "desperta-ferro:https://www.despertaferro-ediciones.com/2026/singular-deposito-de-lingotes-de-cobre-en-el-yacimiento-arqueologico-de-la-celada-tafalla-navarra-fundacion-palarq-edad-del-bronce/",
+      "title": "Un singular depósito de lingotes de cobre en La Celada (Tafalla, Navarra)",
+      "summary": "Un excepcional hallazgo en el yacimiento de La Celada ha sacado a la luz un singular depósito de lingotes de cobre del Bronce Medio, único en la península ibérica. Más allá de su carácter inédito, el conjunto ofrece nuevas claves sobre cómo se producía, almacenaba y redistribuía…",
+      "url": "https://www.despertaferro-ediciones.com/2026/singular-deposito-de-lingotes-de-cobre-en-el-yacimiento-arqueologico-de-la-celada-tafalla-navarra-fundacion-palarq-edad-del-bronce/",
+      "image": null,
+      "publishedAt": "2026-03-06T07:00:48.000Z",
+      "source": {
+        "id": "desperta-ferro",
+        "name": "Desperta Ferro Ediciones"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "iberiarrak"
+      ]
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/artanddesign/2026/mar/02/ancient-egypt-ramses-and-the-pharaohs-gold-exhibition-battersea-power-station",
+      "title": "‘The Donald Trump of ancient Egypt’: Ramses II’s ego is on full display in new exhibition",
+      "summary": "A collection of 3,000-year-old artefacts at Battersea power station gives Egypt’s most ambitious, self-aggrandising pharaoh a chance to emerge from Tutankhamun’s shadow The mummy of Egypt’s most ambitious pharaoh, Ramses II (often spelt Ramesses), is a masterpiece of the…",
+      "url": "https://www.theguardian.com/artanddesign/2026/mar/02/ancient-egypt-ramses-and-the-pharaohs-gold-exhibition-battersea-power-station",
+      "image": "https://i.guim.co.uk/img/media/dc85412cdf2dbf62dc701abb4a6b53bd10e136ed/0_109_2250_1800/master/2250.jpg?width=140&quality=85&auto=format&fit=max&s=130ab4d7be4e9a47a7501d064974d013",
+      "publishedAt": "2026-03-02T15:13:59.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak",
+        "museoak"
+      ]
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/science/2026/feb/28/archaeology-of-smell-time-machine-for-the-nose-museums",
+      "title": "T rex breath and Queen Elizabeth’s car: scientists creating ‘time machine for the nose’",
+      "summary": "Researchers are recreating ancient odours for museumgoers as interest in the archaeology of smell grows From the interior of Queen Elizabeth II’s car to the scent of ancient Egyptian funerary practices, museumgoers are getting a whiff of the past like never before. Experts say…",
+      "url": "https://www.theguardian.com/science/2026/feb/28/archaeology-of-smell-time-machine-for-the-nose-museums",
+      "image": "https://i.guim.co.uk/img/media/e7a146a4018edbd27f79d79703590fe243340b8a/49_140_3579_2863/master/3579.jpg?width=140&quality=85&auto=format&fit=max&s=d138ba401a36fe6a00f9b6692db0e6ee",
+      "publishedAt": "2026-02-28T10:00:09.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak",
+        "museoak"
+      ]
+    },
+    {
       "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/02/260227071918.htm",
       "title": "MIT study finds Earth’s first animals were likely ancient sea sponges",
       "summary": "Scientists at MIT have found compelling chemical evidence that Earth’s earliest animals were likely ancient sea sponges. Hidden inside rocks over 541 million years old are rare molecular “fingerprints” that match compounds made by modern demosponges. After testing rocks, living…",
@@ -1206,6 +2833,21 @@
       ]
     },
     {
+      "id": "desperta-ferro:https://www.despertaferro-ediciones.com/2026/urraca-i-de-leon-y-castilla-la-primera-reina-de-europa/",
+      "title": "Urraca I de León y Castilla ¿la primera reina de Europa?",
+      "summary": "La afirmación de que Urraca fue «la primera reina de Europa» se ha repetido con frecuencia, con mayor o menor acierto, por todo tipo de autores que en los últimos años se han acercado a su figura para escribir sobre ella. Sin duda, se trata de un enunciado potente y atractivo,…",
+      "url": "https://www.despertaferro-ediciones.com/2026/urraca-i-de-leon-y-castilla-la-primera-reina-de-europa/",
+      "image": null,
+      "publishedAt": "2026-02-20T12:43:13.000Z",
+      "source": {
+        "id": "desperta-ferro",
+        "name": "Desperta Ferro Ediciones"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": []
+    },
+    {
       "id": "ancient-origins:https://www.ancient-origins.net/news-history-archaeology/sumerian-bitumen-00102535",
       "title": "Black Gold: Sumerian Bitumen Recipes Worked Like Asphalt, 4,000 Years Ago",
       "summary": "Black Gold: Sumerian Bitumen Recipes Worked Like Asphalt, 4,000 Years Ago Sumerian craftspeople in Mesopotamia didn’t simply scoop up natural bitumen and slap it on boats or bricks. A new materials study suggests they followed repeatable “recipes” that controlled strength,…",
@@ -1221,6 +2863,128 @@
       "topics": [
         "ekialde-hurbila",
         "aurkikuntza"
+      ]
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/australia-news/2026/feb/15/alleged-cat-burglar-arrested-after-priceless-egyptian-artefacts-taken-in-queensland-museum-heist",
+      "title": "Alleged cat burglar arrested after priceless Egyptian artefacts taken in Queensland museum heist",
+      "summary": "Man charged after 2,600-year-old cat sculpture, mummy mask and necklace stolen from Caboolture museum Get our breaking news email, free app or daily news podcast Queensland police have arrested a man accused of staging a brazen cat burglary of priceless Egyptian artefacts from a…",
+      "url": "https://www.theguardian.com/australia-news/2026/feb/15/alleged-cat-burglar-arrested-after-priceless-egyptian-artefacts-taken-in-queensland-museum-heist",
+      "image": "https://i.guim.co.uk/img/media/2d92dba50956f8c56f537e6c681d3a8288c71c4f/15_24_1266_1013/master/1266.jpg?width=140&quality=85&auto=format&fit=max&s=1d23d9fc3c9d061c1b51dae60584396f",
+      "publishedAt": "2026-02-15T06:12:42.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak",
+        "museoak"
+      ]
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/australia-news/2026/feb/09/archaeology-salvage-fragments-of-early-brisbane",
+      "title": "Archaeology against the clock: the race to salvage fragments of early Brisbane",
+      "summary": "Tens of thousands of artefacts were unearthed not by careful excavation but by the 2011 floods. Now, students are piecing together Queensland’s history Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast In a white…",
+      "url": "https://www.theguardian.com/australia-news/2026/feb/09/archaeology-salvage-fragments-of-early-brisbane",
+      "image": "https://i.guim.co.uk/img/media/a9053e92e00890b1bb16b34d56f47452056b251b/241_0_2953_2363/master/2953.jpg?width=140&quality=85&auto=format&fit=max&s=677b4f9708dd31c1fe0ae6ec8b001f92",
+      "publishedAt": "2026-02-08T14:00:33.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "asia",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/culture/2026/feb/03/cerne-giant-dorset-global-appeal",
+      "title": "From Dorset to the world: wave of donations helps to secure Cerne giant’s home",
+      "summary": "Support from more than 20 countries propels National Trust to its target to protect chalk figure and local wildlife It feels like a very British monument: a huge chalk figure carved into a steep Dorset hillside that for centuries has intrigued lovers of English folklore and…",
+      "url": "https://www.theguardian.com/culture/2026/feb/03/cerne-giant-dorset-global-appeal",
+      "image": "https://i.guim.co.uk/img/media/cac6e0d82fa723485d9c5d3245e054327a8276a3/292_0_2917_2334/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=58626ad098ca3bf7d30f5a5fd240406c",
+      "publishedAt": "2026-02-03T00:01:23.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "asia",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/world/2026/feb/02/palestinian-uproar-israel-plan-seize-historic-site-sebastia-west-bank",
+      "title": "‘A violation of our history’: Palestinian uproar over Israel’s plan to seize historic West Bank site",
+      "summary": "Residents of Sebastia say heritage project is pretext for massive land grab and expansion of Jewish settlements The Byzantine-era church lies half hidden in the shade. Roman columns rise from among the olive trees, even older ruins linked to Israelite kings are overgrown. To the…",
+      "url": "https://www.theguardian.com/world/2026/feb/02/palestinian-uproar-israel-plan-seize-historic-site-sebastia-west-bank",
+      "image": "https://i.guim.co.uk/img/media/e0757ca74edd0a2a9e0361abe0e68666d0813312/252_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=8ef25aef75400fdad7435ad0a46bd2f2",
+      "publishedAt": "2026-02-02T11:52:57.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/science/2026/jan/31/plague-of-justinian-pandemic",
+      "title": "Mass grave in Jordan sheds new light on world’s earliest recorded pandemic",
+      "summary": "Researchers tell ‘human story’ about crisis during plague of Justinian, which killed millions in Byzantine empire A US-led research team has verified the first Mediterranean mass grave of the world’s earliest recorded pandemic, providing stark new details about the plague of…",
+      "url": "https://www.theguardian.com/science/2026/jan/31/plague-of-justinian-pandemic",
+      "image": "https://i.guim.co.uk/img/media/a9547d91f3dc38dba0494aae7fad6596c0b6a124/1409_609_1688_1351/master/1688.jpg?width=140&quality=85&auto=format&fit=max&s=dd660fe564eeb7d8726edab33080b320",
+      "publishedAt": "2026-01-31T11:00:57.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/science/2026/jan/26/barbara-hurman-obituary",
+      "title": "Barbara Hurman obituary",
+      "summary": "My mother, Barbara Hurman, who has died aged 100, was an archaeologist specialising in the identification and illustration of finds – the items disinterred during the course of excavations. She worked on a number of sites for the Bucks Museum, in Aylesbury, Buckinghamshire, the…",
+      "url": "https://www.theguardian.com/science/2026/jan/26/barbara-hurman-obituary",
+      "image": "https://i.guim.co.uk/img/media/04c3cc5ecabbf28f960db6cc2a02684d3f6d9798/646_462_1882_1506/master/1882.jpg?width=140&quality=85&auto=format&fit=max&s=a8300129eab17b3835f3add645bd8178",
+      "publishedAt": "2026-01-26T11:51:04.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "erromatarrak",
+        "museoak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/environment/2026/jan/23/country-diary-mammoth-and-bear-replaced-by-mattress-and-beer-can",
+      "title": "Country diary: Mammoth and bear, replaced by mattress and beer can | Michael J Warren",
+      "summary": "Grays, Essex: I visit an unassuming gorge where a wealth of ice age fossils was once found, telling us about Britain’s megafauna – and Neanderthals You wouldn’t know the Lion Pit was there. This overgrown gorge exists quietly, without the sensation its name implies, below a…",
+      "url": "https://www.theguardian.com/environment/2026/jan/23/country-diary-mammoth-and-bear-replaced-by-mattress-and-beer-can",
+      "image": "https://i.guim.co.uk/img/media/fe2561fd11a742dba366edc9c82dd9eaa9995615/0_334_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=b522aabd5c010c53091b96f367357015",
+      "publishedAt": "2026-01-23T05:30:05.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "asia"
       ]
     }
   ]
