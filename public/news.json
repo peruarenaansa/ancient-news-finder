@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T08:27:42.256Z",
+  "generatedAt": "2026-04-18T08:34:09.467Z",
   "count": 163,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 445
+      "elapsedMs": 1050
     },
     {
       "id": "argia",
@@ -20,7 +20,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 109
+      "elapsedMs": 737
     },
     {
       "id": "eitb-kultura",
@@ -30,7 +30,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 5993
+      "elapsedMs": 6544
     },
     {
       "id": "aranzadi",
@@ -40,7 +40,7 @@
       "kind": "news",
       "ok": false,
       "error": "certificate has expired",
-      "elapsedMs": 67
+      "elapsedMs": 358
     },
     {
       "id": "labrujulaverde",
@@ -53,7 +53,7 @@
       "kept": 19,
       "droppedOffTopic": 0,
       "droppedModern": 1,
-      "elapsedMs": 1329
+      "elapsedMs": 1091
     },
     {
       "id": "desperta-ferro",
@@ -66,7 +66,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 2,
-      "elapsedMs": 280
+      "elapsedMs": 768
     },
     {
       "id": "elpais-cultura",
@@ -79,7 +79,7 @@
       "kept": 5,
       "droppedOffTopic": 23,
       "droppedModern": 2,
-      "elapsedMs": 264
+      "elapsedMs": 1080
     },
     {
       "id": "abc-cultura",
@@ -92,7 +92,7 @@
       "kept": 5,
       "droppedOffTopic": 14,
       "droppedModern": 1,
-      "elapsedMs": 135
+      "elapsedMs": 460
     },
     {
       "id": "eldiario-cultura",
@@ -102,7 +102,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 366
+      "elapsedMs": 427
     },
     {
       "id": "ngeo-historia-es",
@@ -112,7 +112,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 100
+      "elapsedMs": 232
     },
     {
       "id": "inrap",
@@ -125,7 +125,7 @@
       "kept": 27,
       "droppedOffTopic": 0,
       "droppedModern": 3,
-      "elapsedMs": 222
+      "elapsedMs": 1788
     },
     {
       "id": "lefigaro-histoire",
@@ -138,7 +138,7 @@
       "kept": 18,
       "droppedOffTopic": 0,
       "droppedModern": 2,
-      "elapsedMs": 166
+      "elapsedMs": 407
     },
     {
       "id": "lemonde-sciences",
@@ -151,7 +151,7 @@
       "kept": 1,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 143
+      "elapsedMs": 391
     },
     {
       "id": "spiegel-wissenschaft",
@@ -164,7 +164,7 @@
       "kept": 2,
       "droppedOffTopic": 18,
       "droppedModern": 0,
-      "elapsedMs": 153
+      "elapsedMs": 1389
     },
     {
       "id": "heritage-daily",
@@ -174,7 +174,7 @@
       "kind": "news",
       "ok": false,
       "error": "Attribute without value\nLine: 86\nColumn: 120\nChar: >",
-      "elapsedMs": 1707
+      "elapsedMs": 4052
     },
     {
       "id": "archaeology-mag",
@@ -184,7 +184,7 @@
       "kind": "news",
       "ok": false,
       "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f",
-      "elapsedMs": 338
+      "elapsedMs": 1213
     },
     {
       "id": "live-science-arch",
@@ -197,7 +197,7 @@
       "kept": 12,
       "droppedOffTopic": 18,
       "droppedModern": 0,
-      "elapsedMs": 334
+      "elapsedMs": 1374
     },
     {
       "id": "smithsonian",
@@ -207,7 +207,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 338
+      "elapsedMs": 966
     },
     {
       "id": "bbc-history",
@@ -220,7 +220,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 1,
-      "elapsedMs": 232
+      "elapsedMs": 965
     },
     {
       "id": "phys-arch",
@@ -230,7 +230,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 442
+      "elapsedMs": 1042
     },
     {
       "id": "sciencedaily-arch",
@@ -243,7 +243,7 @@
       "kept": 27,
       "droppedOffTopic": 3,
       "droppedModern": 0,
-      "elapsedMs": 793
+      "elapsedMs": 1137
     },
     {
       "id": "ancient-origins",
@@ -256,7 +256,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 550
+      "elapsedMs": 1177
     },
     {
       "id": "nature-arch",
@@ -266,7 +266,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 448
+      "elapsedMs": 1953
     },
     {
       "id": "guardian-arch",
@@ -279,7 +279,7 @@
       "kept": 18,
       "droppedOffTopic": 0,
       "droppedModern": 2,
-      "elapsedMs": 438
+      "elapsedMs": 1527
     },
     {
       "id": "bsky-despertaferro",
@@ -292,7 +292,7 @@
       "kept": 18,
       "droppedOffTopic": 12,
       "droppedModern": 0,
-      "elapsedMs": 979
+      "elapsedMs": 1761
     },
     {
       "id": "bsky-labrujulaverde",
@@ -305,7 +305,7 @@
       "kept": 12,
       "droppedOffTopic": 18,
       "droppedModern": 0,
-      "elapsedMs": 961
+      "elapsedMs": 1767
     },
     {
       "id": "yt-despertaferro",
@@ -318,7 +318,7 @@
       "kept": 2,
       "droppedOffTopic": 13,
       "droppedModern": 0,
-      "elapsedMs": 189
+      "elapsedMs": 1482
     }
   ],
   "items": [
