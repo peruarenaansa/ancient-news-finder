@@ -166,17 +166,27 @@ const parser = new Parser({
 });
 
 async function fetchSource(source) {
+  const startedAt = Date.now();
   try {
     const feed = await parser.parseURL(source.url);
     const items = (feed.items || []).slice(0, 30);
+    let droppedOffTopic = 0;
+    let droppedModern = 0;
     const filtered = items
       .map((item) => {
         const title = item.title || '';
         const description = stripHtml(item.contentSnippet || item.content || item.summary || '');
         const text = `${title} ${description}`;
 
-        // Iturri orokorretarako iragazkia aplikatu
+        // 1) Iturri orokorretarako: arkeologia/historiarekin lotuta egon behar du
         if (GENERAL_SOURCES.has(source.id) && !isArchaeologyRelated(text)) {
+          droppedOffTopic++;
+          return null;
+        }
+
+        // 2) Erdi Aro ondorengo gaiak baztertu (denentzat)
+        if (isModernEra(text)) {
+          droppedModern++;
           return null;
         }
 
@@ -197,11 +207,19 @@ async function fetchSource(source) {
         };
       })
       .filter(Boolean);
-    console.log(`✓ ${source.name}: ${filtered.length} albiste`);
-    return filtered;
+    const elapsed = Date.now() - startedAt;
+    console.log(`✓ ${source.name}: ${filtered.length}/${items.length} albiste (off-topic: ${droppedOffTopic}, modern: ${droppedModern}, ${elapsed}ms)`);
+    return {
+      items: filtered,
+      status: { id: source.id, ok: true, fetched: items.length, kept: filtered.length, droppedOffTopic, droppedModern, elapsedMs: elapsed },
+    };
   } catch (err) {
+    const elapsed = Date.now() - startedAt;
     console.warn(`✗ ${source.name} (${source.url}): ${err.message}`);
-    return [];
+    return {
+      items: [],
+      status: { id: source.id, ok: false, error: err.message, elapsedMs: elapsed },
+    };
   }
 }
 
@@ -209,7 +227,8 @@ async function main() {
   console.log(`\n📜 Bilketa hasten... ${SOURCES.length} iturri\n`);
 
   const results = await Promise.all(SOURCES.map(fetchSource));
-  const all = results.flat();
+  const all = results.flatMap((r) => r.items);
+  const statusById = Object.fromEntries(results.map((r) => [r.status.id, r.status]));
 
   // Deduplikazioa URLaren bidez
   const seen = new Map();
@@ -230,7 +249,14 @@ async function main() {
   const out = {
     generatedAt: new Date().toISOString(),
     count: recent.length,
-    sources: SOURCES.map((s) => ({ id: s.id, name: s.name, lang: s.lang, region: s.region })),
+    sources: SOURCES.map((s) => ({
+      id: s.id,
+      name: s.name,
+      lang: s.lang,
+      region: s.region,
+      kind: s.kind || 'news',
+      ...statusById[s.id],
+    })),
     items: recent,
   };
 
@@ -238,10 +264,13 @@ async function main() {
   await fs.mkdir(path.dirname(outPath), { recursive: true });
   await fs.writeFile(outPath, JSON.stringify(out, null, 2), 'utf8');
 
+  const failed = results.filter((r) => !r.status.ok).length;
   console.log(`\n✅ ${recent.length} albiste idatzi dira: public/news.json`);
+  console.log(`   ${SOURCES.length - failed}/${SOURCES.length} iturri ondo${failed ? ` — ${failed} hutsegite` : ''}`);
 }
 
 main().catch((err) => {
   console.error('Errore larria:', err);
   process.exit(1);
 });
+
