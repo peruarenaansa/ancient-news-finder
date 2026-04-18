@@ -170,16 +170,6 @@ const Index = () => {
                 </SelectContent>
               </Select>
 
-              <Select value={topic} onValueChange={(v) => { setTopic(v); setPage(1); }}>
-                <SelectTrigger className="w-[160px]"><SelectValue placeholder="Gaia" /></SelectTrigger>
-                <SelectContent>
-                  <SelectItem value="all">Gai guztiak</SelectItem>
-                  {Object.entries(TOPIC_LABELS).map(([k, v]) => (
-                    <SelectItem key={k} value={k}>{v}</SelectItem>
-                  ))}
-                </SelectContent>
-              </Select>
-
               <Button
                 variant={showSavedOnly ? 'default' : 'outline'}
                 size="sm"
@@ -187,6 +177,17 @@ const Index = () => {
               >
                 <Bookmark className="mr-1 h-4 w-4" />
                 Gogokoak {saved.size > 0 && <Badge variant="secondary" className="ml-2">{saved.size}</Badge>}
+              </Button>
+
+              <Button
+                variant="outline"
+                size="sm"
+                onClick={() => markManyRead(sorted.map((it) => it.id))}
+                disabled={sorted.length === 0 || sorted.every((it) => read.has(it.id))}
+                title="Markatu iragazitako albiste guztiak irakurritzat"
+              >
+                <CheckCheck className="mr-1 h-4 w-4" />
+                Denak irakurrita
               </Button>
             </div>
           </div>
