@@ -65,7 +65,7 @@ const Index = () => {
       if (showSavedOnly && !saved.has(it.id)) return false;
       if (region !== 'all' && it.region !== region) return false;
       if (lang !== 'all' && it.lang !== lang) return false;
-      if (topic !== 'all' && !it.topics.includes(topic)) return false;
+      // (gai-iragazkia kenduta)
       if (q) {
         const hay = `${it.title} ${it.summary} ${it.source.name}`.toLowerCase();
         if (!hay.includes(q)) return false;
