@@ -1,5 +1,5 @@
-export type NewsLang = 'eu' | 'es' | 'en' | 'fr' | 'de' | 'it';
-export type NewsRegion = 'basque' | 'iberia' | 'europe' | 'world';
+export type NewsLang = 'eu' | 'es' | 'en' | 'fr' | 'it' | 'ca' | 'gl' | 'pt';
+export type NewsRegion = 'basque' | 'iberia' | 'europe' | 'near-east' | 'america' | 'asia' | 'world';
 
 export interface NewsSource {
   id: string;
@@ -46,6 +46,9 @@ export const REGION_LABELS: Record<NewsRegion, string> = {
   basque: 'Euskal Herria',
   iberia: 'Iberiar penintsula',
   europe: 'Europa',
+  'near-east': 'Ekialde Hurbila',
+  america: 'Amerika prekolonbiarra',
+  asia: 'Asia',
   world: 'Mundua',
 };
 
@@ -54,8 +57,10 @@ export const LANG_LABELS: Record<NewsLang, string> = {
   es: 'Español',
   en: 'English',
   fr: 'Français',
-  de: 'Deutsch',
   it: 'Italiano',
+  ca: 'Català',
+  gl: 'Galego',
+  pt: 'Português',
 };
 
 export const LANG_FLAGS: Record<NewsLang, string> = {
@@ -63,6 +68,8 @@ export const LANG_FLAGS: Record<NewsLang, string> = {
   es: '🇪🇸',
   en: '🇬🇧',
   fr: '🇫🇷',
-  de: '🇩🇪',
   it: '🇮🇹',
+  ca: '🟡',
+  gl: '🔵',
+  pt: '🇵🇹',
 };
