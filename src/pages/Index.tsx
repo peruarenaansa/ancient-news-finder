@@ -171,7 +171,7 @@ const Index = () => {
                 Arkeologia · Antzinako historia
               </p>
               <h1 className="font-display text-3xl font-semibold tracking-tight text-balance sm:text-4xl md:text-5xl">
-                Aztarna
+                Aztarnak
               </h1>
               <p className="mt-3 max-w-2xl text-sm text-muted-foreground sm:text-base">
                 Mundu osoko arkeologia eta antzinako historiako albisteak, Euskal Herria eta
@@ -227,20 +227,24 @@ const Index = () => {
               </Select>
 
               <Button
-                variant={showSavedOnly ? 'default' : 'outline'}
+                variant="outline"
                 size="sm"
                 onClick={() => { setShowSavedOnly((s) => !s); setPage(1); }}
+                aria-pressed={showSavedOnly}
+                className={showSavedOnly ? 'border-primary text-primary' : ''}
               >
-                <Bookmark className="mr-1 h-4 w-4" />
+                <Bookmark className={`mr-1 h-4 w-4 ${showSavedOnly ? 'fill-current' : ''}`} />
                 Gogokoak {savedSize > 0 && <Badge variant="secondary" className="ml-2">{savedSize}</Badge>}
               </Button>
 
               <Button
-                variant={showRead ? 'default' : 'outline'}
+                variant="outline"
                 size="sm"
                 onClick={() => { setShowRead((s) => !s); setPage(1); }}
                 disabled={showSavedOnly}
-                title={showRead ? 'Ezkutatu irakurritakoak' : 'Erakutsi irakurritakoak ere'}
+                aria-pressed={showRead}
+                className={showRead && !showSavedOnly ? 'border-primary text-primary' : ''}
+                title={showSavedOnly ? 'Gogokoetan irakurritakoak ere beti agertzen dira' : (showRead ? 'Ezkutatu irakurritakoak' : 'Erakutsi irakurritakoak ere')}
               >
                 {showRead ? <EyeOff className="mr-1 h-4 w-4" /> : <Eye className="mr-1 h-4 w-4" />}
                 {showRead ? 'Ezkutatu irakurriak' : 'Erakutsi irakurriak'}
