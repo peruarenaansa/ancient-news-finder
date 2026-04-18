@@ -64,15 +64,63 @@ const ARCHAEOLOGY_KEYWORDS = [
   'ruins', 'ruinas', 'ruines', 'hondakin',
 ];
 
+// Iturri orokorrak: gaiagatik iragazi behar direnak (ez dira espezializatuak)
 const GENERAL_SOURCES = new Set([
   'elpais-cultura', 'abc-cultura', 'eldiario-cultura', 'lemonde-sciences',
   'spiegel-wissenschaft', 'live-science-arch', 'phys-arch', 'sciencedaily-arch',
-  'eitb-kultura', 'berria', 'argia',
+  'eitb-kultura', 'berria', 'argia', 'nature-arch',
+  // Sare sozialak: kontuek gauza orotaz idatz dezakete, iragazi
+  'bsky-despertaferro', 'bsky-labrujulaverde', 'yt-despertaferro',
 ]);
 
 function isArchaeologyRelated(text) {
   const lower = text.toLowerCase();
   return ARCHAEOLOGY_KEYWORDS.some((k) => lower.includes(k));
+}
+
+// Erdi Aroaren ondorengoa (~1500etik aurrera) baztertzeko gako-hitzak
+const MODERN_KEYWORDS = [
+  // Mendeak (modernoak)
+  'siglo xvi', 'siglo xvii', 'siglo xviii', 'siglo xix', 'siglo xx', 'siglo xxi',
+  'xvi mendea', 'xvii mendea', 'xviii mendea', 'xix mendea', 'xx mendea', 'xxi mendea',
+  '16th century', '17th century', '18th century', '19th century', '20th century', '21st century',
+  'xvie siècle', 'xviie siècle', 'xviiie siècle', 'xixe siècle', 'xxe siècle', 'xxie siècle',
+  '16. jahrhundert', '17. jahrhundert', '18. jahrhundert', '19. jahrhundert', '20. jahrhundert',
+  // Aro modernoak
+  'edad moderna', 'edad contemporánea', 'aro modernoa', 'aro garaikidea',
+  'modern era', 'early modern', 'contemporary history', 'industrial revolution',
+  'temps modernes', 'époque moderne', 'époque contemporaine', 'révolution industrielle',
+  'neuzeit', 'frühe neuzeit', 'industrielle revolution',
+  // Gertaera modernoak
+  'world war', 'segunda guerra mundial', 'primera guerra mundial', 'guerra civil',
+  'guerre mondiale', 'weltkrieg', 'cold war', 'guerra fría',
+  'napoleon', 'napoleón', 'franco', 'hitler', 'stalin', 'mussolini',
+  'colonial', 'colonización', 'colonization', 'colonisation', 'kolonial',
+  'ilustración', 'enlightenment', 'lumières', 'aufklärung',
+  'revolución francesa', 'french revolution', 'révolution française',
+  'renacimiento', 'renaissance', 'wiedergeburt',
+];
+
+// Erdi Aro arteko (~1500 arte) gai garbiak: iragazkia gainditzen dute beti
+const PRE_MODERN_STRONG = [
+  'prehistor', 'paleolit', 'neolit', 'mesolit', 'calcolít', 'edad de bronce', 'edad de hierro',
+  'bronze age', 'iron age', 'âge du bronze', 'âge du fer', 'bronzezeit', 'eisenzeit',
+  'roman', 'romano', 'romain', 'römisch', 'erromatar', 'imperio romano', 'empire romain',
+  'medieval', 'middle ages', 'edad media', 'moyen âge', 'mittelalter', 'erdi aro',
+  'antigüedad', 'antiquity', 'antiquité', 'antike',
+  'egypt', 'egipto', 'égypte', 'pharaoh', 'faraón', 'pyramid', 'pirámide',
+  'greek', 'griego', 'grec', 'griechisch', 'mycen', 'minoan',
+  'mesopotam', 'sumer', 'babilon', 'asyri', 'hittite', 'hitita',
+  'celta', 'celtic', 'celtibero', 'íbero', 'ibero', 'tartess', 'visigod', 'visigoth',
+  'viking', 'sajón', 'saxon', 'merov', 'caroling',
+];
+
+function isModernEra(text) {
+  const lower = text.toLowerCase();
+  // Erdi Aroko gai garbi bat aipatzen badu, onartu (modernoa ere aipa lezake testuinguruan)
+  if (PRE_MODERN_STRONG.some((k) => lower.includes(k))) return false;
+  // Modernotasun-marka argia badu, baztertu
+  return MODERN_KEYWORDS.some((k) => lower.includes(k));
 }
 
 function extractImage(item) {
