@@ -1,105 +1,39 @@
-import { useEffect, useMemo, useState } from 'react';
-import { Search, Loader2, RefreshCw, Bookmark, CheckCheck, Eye, EyeOff } from 'lucide-react';
-import { Input } from '@/components/ui/input';
+import { useMemo } from 'react';
+import { Loader2, RefreshCw } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import { Badge } from '@/components/ui/badge';
-import {
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-} from '@/components/ui/select';
-import {
-  AlertDialog,
-  AlertDialogAction,
-  AlertDialogCancel,
-  AlertDialogContent,
-  AlertDialogDescription,
-  AlertDialogFooter,
-  AlertDialogHeader,
-  AlertDialogTitle,
-  AlertDialogTrigger,
-} from '@/components/ui/alert-dialog';
-import { ThemeToggle } from '@/components/ThemeToggle';
+import { NewsHeader } from '@/components/NewsHeader';
+import { NewsFilters } from '@/components/NewsFilters';
 import { NewsCard } from '@/components/NewsCard';
+import { useNewsFeed } from '@/hooks/use-news-feed';
+import { useNewsFilters } from '@/hooks/use-news-filters';
 import { useLocalStorageSet } from '@/hooks/use-local-storage-set';
 import { useSavedItems } from '@/hooks/use-saved-items';
-import {
-  LANG_LABELS,
-  REGION_LABELS,
-  type NewsFeed,
-  type NewsItem,
-  type NewsLang,
-  type NewsRegion,
-} from '@/lib/news-types';
+import { useState } from 'react';
+import type { NewsItem, NewsLang, NewsRegion } from '@/lib/news-types';
 
 const PAGE_SIZE = 25;
 
 const Index = () => {
-  const [feed, setFeed] = useState<NewsFeed | null>(null);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
-
-  const [query, setQuery] = useState('');
-  const [region, setRegion] = useState<NewsRegion | 'all'>('all');
-  const [lang, setLang] = useState<NewsLang | 'all'>('all');
-  const [showSavedOnly, setShowSavedOnly] = useState(false);
-  const [showRead, setShowRead] = useState(false);
+  const { feed, loading, error } = useNewsFeed();
+  const { filters, update, reset, isFiltered } = useNewsFilters();
+  const { query, region, lang, showSavedOnly, showRead } = filters;
   const [page, setPage] = useState(1);
 
   const { isSaved, toggle: toggleSaved, savedList, size: savedSize } = useSavedItems();
   const { set: read, add: markRead, addMany: markManyRead } = useLocalStorageSet('archaeo:read');
 
-  useEffect(() => {
-    let active = true;
-    setLoading(true);
-    fetch(`/news.json?ts=${Date.now()}`)
-      .then((r) => {
-        if (!r.ok) throw new Error('Ezin izan da news.json kargatu');
-        return r.json();
-      })
-      .then((data: NewsFeed) => {
-        if (!active) return;
-        setFeed(data);
-        setError(null);
+  // Edozein iragazki aldatzean orrialdea berrabiarazi.
+  const setFilter = <K extends keyof typeof filters>(key: K, value: (typeof filters)[K]) => {
+    update({ [key]: value } as Partial<typeof filters>);
+    setPage(1);
+  };
 
-        // Migrazioa: lehengo `archaeo:saved` (ID-en Set) → `archaeo:saved-items` (item osoak).
-        // Behin egiten da; ondoren gako zaharra ezabatzen da.
-        try {
-          const legacy = localStorage.getItem('archaeo:saved');
-          if (legacy) {
-            const ids: string[] = JSON.parse(legacy);
-            const stored = JSON.parse(localStorage.getItem('archaeo:saved-items') || '{}');
-            const map = new Map<string, NewsItem>(Object.entries(stored));
-            for (const it of data.items) {
-              if (ids.includes(it.id) && !map.has(it.id)) map.set(it.id, it);
-            }
-            localStorage.setItem('archaeo:saved-items', JSON.stringify(Object.fromEntries(map)));
-            localStorage.removeItem('archaeo:saved');
-            // Behartu hook-a berrirakurtzera orria freskatuz
-            window.location.reload();
-          }
-        } catch {
-          // ignore
-        }
-      })
-      .catch((e) => active && setError(e.message))
-      .finally(() => active && setLoading(false));
-    return () => {
-      active = false;
-    };
-  }, []);
-
-  // Oinarrizko zerrenda: gogokoak/irakurritakoak iragazkiak aplikatu (baina ez region/lang/query),
-  // hortik aukera-kontagailuak (region, lang) kalkulatzeko.
   const baseScope = useMemo(() => {
     if (!feed) return [] as NewsItem[];
     if (showSavedOnly) {
       const stored = savedList();
       const byId = new Map<string, NewsItem>();
       for (const it of stored) byId.set(it.id, it);
-      // Feed-eko bertsio freskoa lehenetsi
       for (const it of feed.items) if (byId.has(it.id)) byId.set(it.id, it);
       return [...byId.values()].filter((it) => isSaved(it.id));
     }
@@ -122,7 +56,6 @@ const Index = () => {
     });
   }, [baseScope, query, region, lang]);
 
-  // Euskal Herriko albisteak gainean lehenetsi (iragazkirik gabe denean)
   const sorted = useMemo(() => {
     if (region !== 'all' || query || lang !== 'all' || showSavedOnly) {
       return filtered;
@@ -142,7 +75,6 @@ const Index = () => {
     return feed.items.filter((it) => read.has(it.id)).length;
   }, [feed, read, showRead, showSavedOnly]);
 
-  // Hizkuntzen kontagailua: gogokoak/irakurriak iragazkiak aplikatuta, baina region/lang/query gabe.
   const langCounts = useMemo(() => {
     const counts = new Map<NewsLang, number>();
     for (const it of baseScope) {
@@ -152,13 +84,14 @@ const Index = () => {
     return counts;
   }, [baseScope, region]);
 
-  const availableLangs = useMemo(() => {
-    return [...langCounts.entries()]
-      .map(([code, count]) => ({ code, count }))
-      .sort((a, b) => b.count - a.count);
-  }, [langCounts]);
+  const availableLangs = useMemo(
+    () =>
+      [...langCounts.entries()]
+        .map(([code, count]) => ({ code, count }))
+        .sort((a, b) => b.count - a.count),
+    [langCounts],
+  );
 
-  // Eskualdeen kontagailua: gogokoak/irakurriak iragazkiak aplikatuta, baina region/lang/query gabe.
   const regionCounts = useMemo(() => {
     const counts = new Map<NewsRegion, number>();
     for (const it of baseScope) {
@@ -176,11 +109,7 @@ const Index = () => {
     : null;
 
   const resetFilters = () => {
-    setQuery('');
-    setRegion('all');
-    setLang('all');
-    setShowSavedOnly(false);
-    setShowRead(false);
+    reset();
     setPage(1);
   };
 
@@ -188,160 +117,41 @@ const Index = () => {
 
   return (
     <div className="min-h-screen bg-background">
-      {/* Goiburua */}
-      <header className="border-b bg-gradient-to-b from-sand to-background">
-        <div className="container max-w-5xl py-8 sm:py-12">
-          <div className="flex items-start justify-between gap-4">
-            <div>
-              <p className="mb-2 font-mono text-xs uppercase tracking-widest text-primary">
-                Arkeologia · Antzinako historia
-              </p>
-              <h1 className="font-display text-3xl font-semibold tracking-tight text-balance sm:text-4xl md:text-5xl">
-                Aztarnak
-              </h1>
-              <p className="mt-3 max-w-2xl text-sm text-muted-foreground sm:text-base">
-                Mundu osoko arkeologia eta antzinako historiako albisteak, Euskal Herria eta
-                Europa lehenetsita. Iturri publikoetatik bildua.
-              </p>
-            </div>
-            <ThemeToggle />
-          </div>
+      <NewsHeader generatedAt={generatedDate} count={feed?.count} />
 
-          {generatedDate && (
-            <p className="mt-4 text-xs text-muted-foreground">
-              Azken eguneraketa: {generatedDate} · {feed?.count ?? 0} albiste
-            </p>
-          )}
-        </div>
-      </header>
+      <NewsFilters
+        query={query}
+        region={region}
+        lang={lang}
+        showSavedOnly={showSavedOnly}
+        showRead={showRead}
+        savedSize={savedSize}
+        hiddenReadCount={hiddenReadCount}
+        regionCounts={regionCounts}
+        availableLangs={availableLangs}
+        totalSorted={sorted.length}
+        allVisibleAlreadyRead={allVisibleAlreadyRead}
+        onChangeQuery={(v) => setFilter('query', v)}
+        onChangeRegion={(v) => setFilter('region', v)}
+        onChangeLang={(v) => setFilter('lang', v)}
+        onToggleSaved={() => setFilter('showSavedOnly', !showSavedOnly)}
+        onToggleShowRead={() => setFilter('showRead', !showRead)}
+        onMarkAllRead={() => markManyRead(sorted.map((it) => it.id))}
+      />
 
-      {/* Iragazki-barra */}
-      <div className="sticky top-0 z-10 border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/80">
-        <div className="container max-w-5xl py-3">
-          <div className="flex flex-col gap-2 sm:flex-row sm:items-center">
-            <div className="relative flex-1">
-              <Search className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
-              <Input
-                value={query}
-                onChange={(e) => {
-                  setQuery(e.target.value);
-                  setPage(1);
-                }}
-                placeholder="Bilatu albisteak..."
-                className="pl-9"
-              />
-            </div>
-            <div className="flex flex-wrap gap-2">
-              <Select value={region} onValueChange={(v) => { setRegion(v as never); setPage(1); }}>
-                <SelectTrigger className="w-[170px]"><SelectValue placeholder="Eskualdea" /></SelectTrigger>
-                <SelectContent>
-                  <SelectItem value="all">Eskualde guztiak</SelectItem>
-                  {(Object.keys(REGION_LABELS) as NewsRegion[]).map((r) => {
-                    const count = regionCounts.get(r) ?? 0;
-                    return (
-                      <SelectItem key={r} value={r} disabled={count === 0}>
-                        {REGION_LABELS[r]} ({count})
-                      </SelectItem>
-                    );
-                  })}
-                </SelectContent>
-              </Select>
-
-              <Select value={lang} onValueChange={(v) => { setLang(v as never); setPage(1); }}>
-                <SelectTrigger className="w-[140px]"><SelectValue placeholder="Hizkuntza" /></SelectTrigger>
-                <SelectContent>
-                  <SelectItem value="all">Hizkuntza guztiak</SelectItem>
-                  {availableLangs.map(({ code, count }) => (
-                    <SelectItem key={code} value={code}>
-                      {LANG_LABELS[code]} ({count})
-                    </SelectItem>
-                  ))}
-                </SelectContent>
-              </Select>
-
-              <Button
-                variant="outline"
-                size="sm"
-                onClick={() => { setShowSavedOnly((s) => !s); setPage(1); }}
-                aria-pressed={showSavedOnly}
-                className={
-                  showSavedOnly
-                    ? 'border-primary bg-primary/10 text-primary hover:bg-primary/15 hover:text-primary'
-                    : 'hover:bg-muted hover:text-foreground'
-                }
-              >
-                <Bookmark className={`mr-1 h-4 w-4 ${showSavedOnly ? 'fill-current' : ''}`} />
-                Gogokoak {savedSize > 0 && <Badge variant="secondary" className="ml-2">{savedSize}</Badge>}
-              </Button>
-
-              <Button
-                variant="outline"
-                size="sm"
-                onClick={() => { setShowRead((s) => !s); setPage(1); }}
-                disabled={showSavedOnly}
-                aria-pressed={showRead}
-                className={
-                  showRead && !showSavedOnly
-                    ? 'border-primary bg-primary/10 text-primary hover:bg-primary/15 hover:text-primary'
-                    : 'hover:bg-muted hover:text-foreground'
-                }
-                title={showSavedOnly ? 'Gogokoetan irakurritakoak ere beti agertzen dira' : (showRead ? 'Ezkutatu irakurritakoak' : 'Erakutsi irakurritakoak ere')}
-              >
-                {showRead ? <EyeOff className="mr-1 h-4 w-4" /> : <Eye className="mr-1 h-4 w-4" />}
-                {showRead ? 'Ezkutatu irakurriak' : 'Erakutsi irakurriak'}
-                {!showRead && hiddenReadCount > 0 && (
-                  <Badge variant="secondary" className="ml-2">{hiddenReadCount}</Badge>
-                )}
-              </Button>
-
-              <AlertDialog>
-                <AlertDialogTrigger asChild>
-                  <Button
-                    variant="outline"
-                    size="sm"
-                    disabled={sorted.length === 0 || allVisibleAlreadyRead}
-                    title="Markatu zerrendako albiste guztiak irakurritzat"
-                  >
-                    <CheckCheck className="mr-1 h-4 w-4" />
-                    Denak irakurrita
-                  </Button>
-                </AlertDialogTrigger>
-                <AlertDialogContent>
-                  <AlertDialogHeader>
-                    <AlertDialogTitle>Markatu denak irakurritzat?</AlertDialogTitle>
-                    <AlertDialogDescription>
-                      Une honetan zerrendan ageri diren {sorted.length} albisteak irakurritzat
-                      markatuko dira. Aurrerantzean ez dira agertuko, "Erakutsi irakurriak"
-                      botoia sakatzen ez baduzu.
-                    </AlertDialogDescription>
-                  </AlertDialogHeader>
-                  <AlertDialogFooter>
-                    <AlertDialogCancel>Utzi</AlertDialogCancel>
-                    <AlertDialogAction onClick={() => markManyRead(sorted.map((it) => it.id))}>
-                      Bai, markatu denak
-                    </AlertDialogAction>
-                  </AlertDialogFooter>
-                </AlertDialogContent>
-              </AlertDialog>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      {/* Edukia */}
       <main className="container max-w-5xl py-6">
         {loading && (
-          <div className="flex items-center justify-center py-20 text-muted-foreground">
-            <Loader2 className="mr-2 h-5 w-5 animate-spin" />
+          <div className="flex items-center justify-center py-20 text-muted-foreground" role="status">
+            <Loader2 className="mr-2 h-5 w-5 animate-spin" aria-hidden="true" />
             Albisteak kargatzen...
           </div>
         )}
 
         {!loading && error && (
-          <div className="rounded-lg border border-destructive/30 bg-destructive/5 p-6 text-center">
+          <div className="rounded-lg border border-destructive/30 bg-destructive/5 p-6 text-center" role="alert">
             <p className="font-medium text-destructive">Errorea: {error}</p>
             <p className="mt-1 text-sm text-muted-foreground">
-              GitHub Actions workflow-a oraindik ez da exekutatu agian. Begiratu konfigurazio-pausoak.
+              Saiatu berriro geroago. Iturrien jario automatikoak agian eguneratzen ari dira.
             </p>
           </div>
         )}
@@ -350,45 +160,44 @@ const Index = () => {
           <div className="rounded-lg border border-dashed bg-card p-10 text-center">
             <h2 className="font-display text-xl font-semibold">Oraindik ez dago albisterik</h2>
             <p className="mt-2 text-sm text-muted-foreground">
-              GitHub Actions workflow-a aktibatu eta exekutatu behar duzu lehen aldiz.
-              Ondoren, orduro automatikoki eguneratuko da.
+              Iturri-jarioak ez dira oraindik bildu. Saiatu berriro minutu batzuk barru.
             </p>
-            <ol className="mx-auto mt-4 max-w-md space-y-1 text-left text-sm text-muted-foreground">
-              <li>1. Lovable-en <strong>Connectors → GitHub</strong> bidez sortu repo-a</li>
-              <li>2. GitHub-en <strong>Settings → Actions → Workflow permissions</strong>: "Read and write"</li>
-              <li>3. <strong>Actions</strong> fitxan: "Fetch archaeology news" → "Run workflow"</li>
-            </ol>
           </div>
         )}
 
         {!loading && !error && visible.length > 0 && (
           <>
-            <div className="mb-3 flex items-center justify-between text-xs text-muted-foreground">
+            <div
+              className="mb-3 flex items-center justify-between text-xs text-muted-foreground"
+              aria-live="polite"
+              aria-atomic="true"
+            >
               <span>
                 {sorted.length} albiste {showSavedOnly ? 'gordeta' : 'iragazi ondoren'}
                 {!showRead && !showSavedOnly && hiddenReadCount > 0 && (
                   <> · {hiddenReadCount} irakurri ezkutatuta</>
                 )}
               </span>
-              {(query || region !== 'all' || lang !== 'all' || showSavedOnly || showRead) && (
+              {isFiltered && (
                 <Button variant="ghost" size="sm" onClick={resetFilters}>
-                  <RefreshCw className="mr-1 h-3 w-3" /> Garbitu iragazkiak
+                  <RefreshCw className="mr-1 h-3 w-3" aria-hidden="true" /> Garbitu iragazkiak
                 </Button>
               )}
             </div>
 
-            <div className="space-y-3">
+            <ul className="space-y-3" role="list">
               {visible.map((item) => (
-                <NewsCard
-                  key={item.id}
-                  item={item}
-                  saved={isSaved(item.id)}
-                  read={read.has(item.id)}
-                  onToggleSave={() => toggleSaved(item)}
-                  onMarkRead={() => markRead(item.id)}
-                />
+                <li key={item.id}>
+                  <NewsCard
+                    item={item}
+                    saved={isSaved(item.id)}
+                    read={read.has(item.id)}
+                    onToggleSave={() => toggleSaved(item)}
+                    onMarkRead={() => markRead(item.id)}
+                  />
+                </li>
               ))}
-            </div>
+            </ul>
 
             {hasMore && (
               <div className="mt-6 flex justify-center">
