@@ -16,7 +16,6 @@ import { useLocalStorageSet } from '@/hooks/use-local-storage-set';
 import {
   LANG_LABELS,
   REGION_LABELS,
-  TOPIC_LABELS,
   type NewsFeed,
   type NewsItem,
   type NewsLang,
