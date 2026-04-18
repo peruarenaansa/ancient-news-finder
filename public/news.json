@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-18T10:37:43.965Z",
-  "count": 134,
+  "generatedAt": "2026-04-18T16:46:56.914Z",
+  "count": 135,
   "sources": [
     {
       "id": "diariovasco-cultura",
@@ -13,7 +13,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 722
+      "elapsedMs": 807
     },
     {
       "id": "labrujulaverde",
@@ -26,7 +26,7 @@
       "kept": 7,
       "droppedOffTopic": 12,
       "droppedModern": 1,
-      "elapsedMs": 972
+      "elapsedMs": 1062
     },
     {
       "id": "desperta-ferro",
@@ -39,7 +39,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 4,
-      "elapsedMs": 646
+      "elapsedMs": 1279
     },
     {
       "id": "elpais-cultura",
@@ -52,7 +52,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1060
+      "elapsedMs": 1234
     },
     {
       "id": "abc-cultura",
@@ -65,7 +65,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 658
+      "elapsedMs": 453
     },
     {
       "id": "inrap",
@@ -78,7 +78,7 @@
       "kept": 11,
       "droppedOffTopic": 15,
       "droppedModern": 4,
-      "elapsedMs": 1319
+      "elapsedMs": 982
     },
     {
       "id": "lefigaro-histoire",
@@ -91,7 +91,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1452
+      "elapsedMs": 552
     },
     {
       "id": "lemonde-sciences",
@@ -104,7 +104,7 @@
       "kept": 1,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1353
+      "elapsedMs": 611
     },
     {
       "id": "lemonde-archeo",
@@ -117,7 +117,7 @@
       "kept": 10,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 1387
+      "elapsedMs": 1080
     },
     {
       "id": "francetvinfo-archeo",
@@ -130,7 +130,7 @@
       "kept": 0,
       "droppedOffTopic": 1,
       "droppedModern": 0,
-      "elapsedMs": 4817
+      "elapsedMs": 3982
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -143,7 +143,7 @@
       "kept": 10,
       "droppedOffTopic": 12,
       "droppedModern": 1,
-      "elapsedMs": 1885
+      "elapsedMs": 1183
     },
     {
       "id": "sudouest-culture",
@@ -156,7 +156,7 @@
       "kept": 1,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 2286
+      "elapsedMs": 1431
     },
     {
       "id": "observador-cultura",
@@ -169,7 +169,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2636
+      "elapsedMs": 1806
     },
     {
       "id": "ansa-cultura",
@@ -182,7 +182,7 @@
       "kept": 0,
       "droppedOffTopic": 28,
       "droppedModern": 0,
-      "elapsedMs": 2967
+      "elapsedMs": 2217
     },
     {
       "id": "repubblica-cultura",
@@ -190,9 +190,12 @@
       "lang": "it",
       "region": "europe",
       "kind": "news",
-      "ok": false,
-      "error": "Status code 403",
-      "elapsedMs": 2624
+      "ok": true,
+      "fetched": 25,
+      "kept": 2,
+      "droppedOffTopic": 23,
+      "droppedModern": 0,
+      "elapsedMs": 1877
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +208,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 3447
+      "elapsedMs": 2423
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +221,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 6,
-      "elapsedMs": 3743
+      "elapsedMs": 2693
     },
     {
       "id": "stilearte",
@@ -231,7 +234,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3704
+      "elapsedMs": 2865
     },
     {
       "id": "live-science-arch",
@@ -241,10 +244,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 5,
-      "droppedOffTopic": 25,
+      "kept": 4,
+      "droppedOffTopic": 26,
       "droppedModern": 0,
-      "elapsedMs": 4391
+      "elapsedMs": 3441
     },
     {
       "id": "bbc-history",
@@ -257,7 +260,7 @@
       "kept": 1,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 3300
+      "elapsedMs": 2259
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +273,7 @@
       "kept": 13,
       "droppedOffTopic": 17,
       "droppedModern": 0,
-      "elapsedMs": 3211
+      "elapsedMs": 2278
     },
     {
       "id": "ancient-origins",
@@ -283,7 +286,7 @@
       "kept": 4,
       "droppedOffTopic": 5,
       "droppedModern": 1,
-      "elapsedMs": 3322
+      "elapsedMs": 2340
     },
     {
       "id": "guardian-arch",
@@ -296,7 +299,7 @@
       "kept": 12,
       "droppedOffTopic": 5,
       "droppedModern": 3,
-      "elapsedMs": 3617
+      "elapsedMs": 2800
     },
     {
       "id": "current-archaeology",
@@ -309,7 +312,7 @@
       "kept": 23,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 3329
+      "elapsedMs": 2359
     },
     {
       "id": "medievalists",
@@ -322,7 +325,7 @@
       "kept": 6,
       "droppedOffTopic": 0,
       "droppedModern": 4,
-      "elapsedMs": 3303
+      "elapsedMs": 2386
     },
     {
       "id": "jas-reports",
@@ -335,7 +338,7 @@
       "kept": 7,
       "droppedOffTopic": 4,
       "droppedModern": 19,
-      "elapsedMs": 3344
+      "elapsedMs": 2553
     },
     {
       "id": "plos-one-arch",
@@ -348,7 +351,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3437
+      "elapsedMs": 2604
     },
     {
       "id": "rampas",
@@ -361,7 +364,7 @@
       "kept": 12,
       "droppedOffTopic": 3,
       "droppedModern": 10,
-      "elapsedMs": 4658
+      "elapsedMs": 4033
     },
     {
       "id": "spal-us",
@@ -374,7 +377,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 4561
+      "elapsedMs": 3508
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +390,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 4637
+      "elapsedMs": 3902
     },
     {
       "id": "archeoarte",
@@ -400,7 +403,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 4583
+      "elapsedMs": 3810
     },
     {
       "id": "cypsela",
@@ -413,25 +416,26 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 5448
+      "elapsedMs": 4586
     }
   ],
   "items": [
     {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001859?dgcid=rss_sd_all",
-      "title": "Networks and transcultural evidence in late iron age Bisenzio (Capodimonte, VT, Italy, 750–730 BCE)",
-      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): A. Babbi, A. Celant, G. Germinario, J. Hertzog, M. Lamonaca, F. Michelangeli, P. Schmitt-Kopplin, R. Schwab",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001859?dgcid=rss_sd_all",
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001641?dgcid=rss_sd_all",
+      "title": "Materializing gender in Iberian prehistory: sex, age and decubitus in Bronze age burials",
+      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Alejandra Sánchez-Polo, Angélica Santa Cruz del Barrio, Javier Velasco Vázquez, Miguel del Nogal Sánchez, Ana María Casas-Ferreira, José Luis Pérez Pavón, Carmen Patino Alonso,…",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001641?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T10:37:41.857Z",
+      "publishedAt": "2026-04-18T16:46:54.877Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
       },
       "lang": "en",
-      "region": "europe",
+      "region": "iberia",
       "topics": [
-        "prehistoria"
+        "prehistoria",
+        "iberiarrak"
       ]
     },
     {
@@ -440,7 +444,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Lina Li, Chunyang Liu, Yanpeng Cao, Shuzheng Zhu, Jiyin Wei, Chunguang Gu, Li Liu",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001987?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T10:37:41.857Z",
+      "publishedAt": "2026-04-18T16:46:54.876Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -458,7 +462,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Adrián Nemergut, Michal Cheben, Ludmila Kaňáková Hladíková, Jan Petřík, Jun Takakura, Antonín Přichystal, Lubomír Prokeš, Monika Gabulová",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001525?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T10:37:41.857Z",
+      "publishedAt": "2026-04-18T16:46:54.876Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -475,7 +479,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Olga Zagorodnia, Harriet White",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001860?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T10:37:41.857Z",
+      "publishedAt": "2026-04-18T16:46:54.876Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -492,7 +496,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Katharina Rebay-Salisbury, Lukas Waltenberger, Michaela Fritzl, Hannah Skerjanz, Domnika Verdianu, Leslie Quade, Michaela Spannagl-Steiner, Michael Wolf, Fabian Kanz, Anneminne…",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001756?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T10:37:41.857Z",
+      "publishedAt": "2026-04-18T16:46:54.876Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -509,7 +513,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Weronika Karolina Cieszynska, Ondrej Šedo, Petr Dresler, Gabriela Dreslerová, Jiří Macháček, Renáta Přichystalová, Zuzana Hofmanová",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001847?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T10:37:41.857Z",
+      "publishedAt": "2026-04-18T16:46:54.876Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -521,21 +525,20 @@
       ]
     },
     {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001641?dgcid=rss_sd_all",
-      "title": "Materializing gender in Iberian prehistory: sex, age and decubitus in Bronze age burials",
-      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Alejandra Sánchez-Polo, Angélica Santa Cruz del Barrio, Javier Velasco Vázquez, Miguel del Nogal Sánchez, Ana María Casas-Ferreira, José Luis Pérez Pavón, Carmen Patino Alonso,…",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001641?dgcid=rss_sd_all",
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001859?dgcid=rss_sd_all",
+      "title": "Networks and transcultural evidence in late iron age Bisenzio (Capodimonte, VT, Italy, 750–730 BCE)",
+      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): A. Babbi, A. Celant, G. Germinario, J. Hertzog, M. Lamonaca, F. Michelangeli, P. Schmitt-Kopplin, R. Schwab",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001859?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T10:37:41.857Z",
+      "publishedAt": "2026-04-18T16:46:54.875Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
       },
       "lang": "en",
-      "region": "iberia",
+      "region": "europe",
       "topics": [
-        "prehistoria",
-        "iberiarrak"
+        "prehistoria"
       ]
     },
     {
@@ -1545,21 +1548,6 @@
       ]
     },
     {
-      "id": "live-science-arch:https://www.livescience.com/archaeology/human-evolution/homo-erectus-tools-include-stunning-geodes-and-fossils-possibly-as-a-way-to-connect-with-the-cosmos-study-finds",
-      "title": "Homo erectus' tools include stunning geodes and fossils, possibly as a way to connect with the cosmos, study finds",
-      "summary": "Homo erectus may have deliberately selected rocks embedded with fossils and crystals to craft their hand axes — possibly to serve as mediators between humans and the cosmos.",
-      "url": "https://www.livescience.com/archaeology/human-evolution/homo-erectus-tools-include-stunning-geodes-and-fossils-possibly-as-a-way-to-connect-with-the-cosmos-study-finds",
-      "image": "https://cdn.mos.cms.futurecdn.net/5tLR5r9t8RSNKwFZjhGo2h-1280-80.jpg",
-      "publishedAt": "2026-04-13T18:55:41.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
       "id": "medievalists:https://www.medievalists.net/2026/04/new-online-course-william-marshal-the-greatest-knight-of-all-the-world/",
       "title": "New Online Course: William Marshal: ‘The Greatest Knight of all the World’",
       "summary": "This six-week course begins on April 15th, with live sessions each Wednesday from 1:00 to 3:00 pm EST.",
@@ -1660,6 +1648,21 @@
       ]
     },
     {
+      "id": "repubblica-cultura:https://www.repubblica.it/robinson/2026/04/12/news/aurelio_picca_mario_schifano_quadro_ritrovato_dipinto_in_prigione_madonna-425277614/?rss",
+      "title": "La Regina dei carcerati: come ho ritrovato la Madonna dipinta da Mario Schifano in prigione",
+      "summary": "Una grande tela conservata per decenni in un penitenziario del frusinate, dedicata dal pittore ai compagni reclusi. Qui lo scrittore racconta come ne ha seguito le tracce. E ricostruisce la vita tumultuosa del grande artista",
+      "url": "https://www.repubblica.it/robinson/2026/04/12/news/aurelio_picca_mario_schifano_quadro_ritrovato_dipinto_in_prigione_madonna-425277614/?rss",
+      "image": "https://www.repstatic.it/content/nazionale/img/2026/04/11/195313891-bed186d5-25e4-49a9-827a-50778613acc2.jpg",
+      "publishedAt": "2026-04-12T04:00:00.000Z",
+      "source": {
+        "id": "repubblica-cultura",
+        "name": "La Repubblica — Cultura"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
       "id": "guardian-arch:https://www.theguardian.com/science/2026/apr/11/dice-discovery-start-of-gambling-native-americans-archaeology",
       "title": "Native Americans were gambling with dice 6,000 years earlier than anyone else, study says",
       "summary": "Archaeological record suggests hunter gatherers were playing games of chance at the end of the last ice age Native American hunter gatherers were using dice for gaming and gambling more than 6,000 years before the practice appeared anywhere else, a new study argues. It says dice…",
@@ -1673,6 +1676,23 @@
       "lang": "en",
       "region": "europe",
       "topics": []
+    },
+    {
+      "id": "repubblica-cultura:https://www.repubblica.it/robinson/2026/04/11/news/robinson_mario_schifano_dipinto_madonna_ritrovato-425275801/?rss",
+      "title": "Su Robinson lo Schifano mai visto",
+      "summary": "Una sua Madonna nascosta e scovata da uno scrittore. Mentre Roma celebra il pittore, Aurelio Picca ci racconta l’opera ritrovata e la vita tumultuosa di un protagonista dell’arte italiana. In edicola da domenica 12 aprile",
+      "url": "https://www.repubblica.it/robinson/2026/04/11/news/robinson_mario_schifano_dipinto_madonna_ritrovato-425275801/?rss",
+      "image": "https://www.repstatic.it/content/nazionale/img/2026/04/10/193300185-7fa4e560-cbbe-457b-ad6f-b7981b3c0a8a.jpg",
+      "publishedAt": "2026-04-11T05:00:00.000Z",
+      "source": {
+        "id": "repubblica-cultura",
+        "name": "La Repubblica — Cultura"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
     },
     {
       "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/paleontologie/les-ancetres-des-mammiferes-pondaient-bien-des-oeufs_191913?xtor=RSS-4",
