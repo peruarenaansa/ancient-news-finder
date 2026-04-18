@@ -22,10 +22,8 @@ const Index = () => {
   const { isSaved, toggle: toggleSaved, savedList, size: savedSize } = useSavedItems();
   const { set: read, add: markRead, addMany: markManyRead } = useLocalStorageSet('archaeo:read');
 
-  // Edozein iragazki aldatzean orrialdea berrabiarazi.
   const setFilter = <K extends keyof typeof filters>(key: K, value: (typeof filters)[K]) => {
     update({ [key]: value } as Partial<typeof filters>);
-    setPage(1);
   };
 
   const baseScope = useMemo(() => {
@@ -44,12 +42,12 @@ const Index = () => {
   }, [feed, showSavedOnly, showRead, isSaved, savedList, read]);
 
   const filtered = useMemo(() => {
-    const q = query.trim().toLowerCase();
+    const q = normalizeText(query.trim());
     return baseScope.filter((it) => {
       if (region !== 'all' && it.region !== region) return false;
       if (lang !== 'all' && it.lang !== lang) return false;
       if (q) {
-        const hay = `${it.title} ${it.summary} ${it.source.name}`.toLowerCase();
+        const hay = normalizeText(`${it.title} ${it.summary} ${it.source.name}`);
         if (!hay.includes(q)) return false;
       }
       return true;
@@ -67,8 +65,6 @@ const Index = () => {
     });
   }, [filtered, region, query, lang, showSavedOnly]);
 
-  const visible = sorted.slice(0, page * PAGE_SIZE);
-  const hasMore = visible.length < sorted.length;
 
   const hiddenReadCount = useMemo(() => {
     if (!feed || showRead || showSavedOnly) return 0;
