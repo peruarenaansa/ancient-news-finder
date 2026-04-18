@@ -36,10 +36,21 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if [ -n "$(git status --porcelain public/news.json)" ]; then
-            git add public/news.json
-            git commit -m "chore(news): update news.json [skip ci]"
-            git push
-          else
+          if [ -z "$(git status --porcelain public/news.json)" ]; then
             echo "No changes to commit."
+            exit 0
           fi
+          git add public/news.json
+          git commit -m "chore(news): update news.json [skip ci]"
+          # Saiakera anitz: beste commit batek aurreratu badu repo-a, rebase eta birsaiatu.
+          for i in 1 2 3 4 5; do
+            if git push; then
+              echo "Push OK saiakeran #$i"
+              exit 0
+            fi
+            echo "Push errefusatu da (#$i). Rebase-arekin saiatzen..."
+            git pull --rebase --autostash origin main || true
+            sleep $((i * 2))
+          done
+          echo "Push-ak huts egin du 5 saiakeren ondoren."
+          exit 1
