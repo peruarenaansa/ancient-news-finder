@@ -72,11 +72,11 @@ const Index = () => {
       }
       return true;
     });
-  }, [feed, query, region, lang, topic, showSavedOnly, saved]);
+  }, [feed, query, region, lang, showSavedOnly, saved]);
 
   // Euskal Herriko albisteak gainean lehenetsi (iragazkirik gabe denean)
   const sorted = useMemo(() => {
-    if (region !== 'all' || query || topic !== 'all' || lang !== 'all' || showSavedOnly) {
+    if (region !== 'all' || query || lang !== 'all' || showSavedOnly) {
       return filtered;
     }
     return [...filtered].sort((a, b) => {
@@ -84,7 +84,7 @@ const Index = () => {
       if (b.region === 'basque' && a.region !== 'basque') return 1;
       return new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime();
     });
-  }, [filtered, region, query, topic, lang, showSavedOnly]);
+  }, [filtered, region, query, lang, showSavedOnly]);
 
   const visible = sorted.slice(0, page * PAGE_SIZE);
   const hasMore = visible.length < sorted.length;
