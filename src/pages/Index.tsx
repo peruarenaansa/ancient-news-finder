@@ -231,7 +231,7 @@ const Index = () => {
           <>
             <div className="mb-3 flex items-center justify-between text-xs text-muted-foreground">
               <span>{sorted.length} albiste {showSavedOnly ? 'gordeta' : 'iragazi ondoren'}</span>
-              {(query || region !== 'all' || lang !== 'all' || topic !== 'all' || showSavedOnly) && (
+              {(query || region !== 'all' || lang !== 'all' || showSavedOnly) && (
                 <Button variant="ghost" size="sm" onClick={resetFilters}>
                   <RefreshCw className="mr-1 h-3 w-3" /> Garbitu iragazkiak
                 </Button>
