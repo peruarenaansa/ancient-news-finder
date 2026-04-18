@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-18T09:14:51.434Z",
-  "count": 309,
+  "generatedAt": "2026-04-18T09:19:51.340Z",
+  "count": 312,
   "sources": [
     {
       "id": "berria",
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 491
+      "elapsedMs": 531
     },
     {
       "id": "berria-azala",
@@ -20,7 +20,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 449
+      "elapsedMs": 442
     },
     {
       "id": "argia",
@@ -30,7 +30,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 133
+      "elapsedMs": 170
     },
     {
       "id": "eitb-kultura",
@@ -40,7 +40,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 5743
+      "elapsedMs": 5982
     },
     {
       "id": "eitb-albisteak",
@@ -50,7 +50,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 5943
+      "elapsedMs": 5856
     },
     {
       "id": "aranzadi",
@@ -60,7 +60,7 @@
       "kind": "news",
       "ok": false,
       "error": "certificate has expired",
-      "elapsedMs": 97
+      "elapsedMs": 136
     },
     {
       "id": "naiz-kultura",
@@ -70,7 +70,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 92
+      "elapsedMs": 102
     },
     {
       "id": "diariovasco-cultura",
@@ -83,7 +83,7 @@
       "kept": 4,
       "droppedOffTopic": 26,
       "droppedModern": 0,
-      "elapsedMs": 617
+      "elapsedMs": 132
     },
     {
       "id": "noticiasdegipuzkoa-cultura",
@@ -93,7 +93,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 88
+      "elapsedMs": 161
     },
     {
       "id": "deia-cultura",
@@ -103,7 +103,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 276
+      "elapsedMs": 263
     },
     {
       "id": "noticiasdenavarra-cultura",
@@ -113,7 +113,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 227
+      "elapsedMs": 266
     },
     {
       "id": "mediabask",
@@ -123,7 +123,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 187
+      "elapsedMs": 158
     },
     {
       "id": "labrujulaverde",
@@ -136,7 +136,7 @@
       "kept": 18,
       "droppedOffTopic": 0,
       "droppedModern": 2,
-      "elapsedMs": 1297
+      "elapsedMs": 1428
     },
     {
       "id": "desperta-ferro",
@@ -149,7 +149,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 2,
-      "elapsedMs": 433
+      "elapsedMs": 343
     },
     {
       "id": "elpais-cultura",
@@ -162,7 +162,7 @@
       "kept": 5,
       "droppedOffTopic": 23,
       "droppedModern": 2,
-      "elapsedMs": 404
+      "elapsedMs": 258
     },
     {
       "id": "abc-cultura",
@@ -175,7 +175,7 @@
       "kept": 5,
       "droppedOffTopic": 14,
       "droppedModern": 1,
-      "elapsedMs": 265
+      "elapsedMs": 225
     },
     {
       "id": "eldiario-cultura",
@@ -185,7 +185,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 318
+      "elapsedMs": 639
     },
     {
       "id": "ngeo-historia-es",
@@ -195,7 +195,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 269
+      "elapsedMs": 279
     },
     {
       "id": "inrap",
@@ -208,7 +208,7 @@
       "kept": 27,
       "droppedOffTopic": 0,
       "droppedModern": 3,
-      "elapsedMs": 374
+      "elapsedMs": 398
     },
     {
       "id": "lefigaro-histoire",
@@ -221,7 +221,7 @@
       "kept": 10,
       "droppedOffTopic": 8,
       "droppedModern": 2,
-      "elapsedMs": 307
+      "elapsedMs": 322
     },
     {
       "id": "lemonde-sciences",
@@ -234,7 +234,7 @@
       "kept": 1,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 294
+      "elapsedMs": 305
     },
     {
       "id": "lemonde-archeo",
@@ -247,7 +247,7 @@
       "kept": 20,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 785
+      "elapsedMs": 316
     },
     {
       "id": "francetvinfo-archeo",
@@ -260,7 +260,7 @@
       "kept": 0,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 1202
+      "elapsedMs": 846
     },
     {
       "id": "futura-archeo",
@@ -270,7 +270,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 441
+      "elapsedMs": 463
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -283,7 +283,7 @@
       "kept": 22,
       "droppedOffTopic": 0,
       "droppedModern": 1,
-      "elapsedMs": 438
+      "elapsedMs": 285
     },
     {
       "id": "geo-histoire",
@@ -293,7 +293,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 427
+      "elapsedMs": 399
     },
     {
       "id": "nationalgeographic-fr",
@@ -303,7 +303,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 447
+      "elapsedMs": 3715
     },
     {
       "id": "sudouest-culture",
@@ -316,7 +316,7 @@
       "kept": 2,
       "droppedOffTopic": 18,
       "droppedModern": 0,
-      "elapsedMs": 400
+      "elapsedMs": 320
     },
     {
       "id": "francebleu-paysbasque",
@@ -326,7 +326,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 967
+      "elapsedMs": 889
     },
     {
       "id": "praza-cultura",
@@ -336,7 +336,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 1276
+      "elapsedMs": 468
     },
     {
       "id": "nosdiario-cultura",
@@ -346,7 +346,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 1084
+      "elapsedMs": 1058
     },
     {
       "id": "galiciaconfidencial-cultura",
@@ -356,7 +356,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 600
+      "elapsedMs": 423
     },
     {
       "id": "vilaweb-cultura",
@@ -365,8 +365,8 @@
       "region": "iberia",
       "kind": "news",
       "ok": false,
-      "error": "Feed not recognized as RSS 1 or 2.",
-      "elapsedMs": 1191
+      "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: �",
+      "elapsedMs": 864
     },
     {
       "id": "ara-cultura",
@@ -376,7 +376,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 537
+      "elapsedMs": 439
     },
     {
       "id": "elnacional-cultura-cat",
@@ -386,7 +386,7 @@
       "kind": "news",
       "ok": false,
       "error": "No whitespace between attributes\nLine: 23\nColumn: 31\nChar: c",
-      "elapsedMs": 1154
+      "elapsedMs": 1103
     },
     {
       "id": "publico-cultura-pt",
@@ -396,7 +396,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 846
+      "elapsedMs": 885
     },
     {
       "id": "observador-cultura",
@@ -409,7 +409,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 488
+      "elapsedMs": 821
     },
     {
       "id": "rtp-cultura",
@@ -422,7 +422,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 532
+      "elapsedMs": 461
     },
     {
       "id": "ansa-cultura",
@@ -435,7 +435,7 @@
       "kept": 0,
       "droppedOffTopic": 28,
       "droppedModern": 0,
-      "elapsedMs": 474
+      "elapsedMs": 444
     },
     {
       "id": "repubblica-cultura",
@@ -448,7 +448,7 @@
       "kept": 2,
       "droppedOffTopic": 23,
       "droppedModern": 0,
-      "elapsedMs": 522
+      "elapsedMs": 469
     },
     {
       "id": "corriere-cultura",
@@ -461,7 +461,7 @@
       "kept": 6,
       "droppedOffTopic": 24,
       "droppedModern": 0,
-      "elapsedMs": 508
+      "elapsedMs": 527
     },
     {
       "id": "archeologiaviva",
@@ -474,7 +474,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 736
+      "elapsedMs": 668
     },
     {
       "id": "stilearte",
@@ -487,7 +487,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 764
+      "elapsedMs": 769
     },
     {
       "id": "heritage-daily",
@@ -497,7 +497,7 @@
       "kind": "news",
       "ok": false,
       "error": "Attribute without value\nLine: 86\nColumn: 120\nChar: >",
-      "elapsedMs": 1961
+      "elapsedMs": 1864
     },
     {
       "id": "archaeology-mag",
@@ -506,8 +506,8 @@
       "region": "world",
       "kind": "news",
       "ok": false,
-      "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f",
-      "elapsedMs": 956
+      "error": "Unable to parse XML.",
+      "elapsedMs": 875
     },
     {
       "id": "live-science-arch",
@@ -520,7 +520,7 @@
       "kept": 12,
       "droppedOffTopic": 18,
       "droppedModern": 0,
-      "elapsedMs": 1020
+      "elapsedMs": 1038
     },
     {
       "id": "smithsonian",
@@ -530,7 +530,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 659
+      "elapsedMs": 546
     },
     {
       "id": "bbc-history",
@@ -543,7 +543,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 1,
-      "elapsedMs": 561
+      "elapsedMs": 537
     },
     {
       "id": "phys-arch",
@@ -553,7 +553,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 742
+      "elapsedMs": 745
     },
     {
       "id": "sciencedaily-arch",
@@ -566,7 +566,7 @@
       "kept": 27,
       "droppedOffTopic": 3,
       "droppedModern": 0,
-      "elapsedMs": 1115
+      "elapsedMs": 908
     },
     {
       "id": "ancient-origins",
@@ -574,9 +574,12 @@
       "lang": "en",
       "region": "world",
       "kind": "news",
-      "ok": false,
-      "error": "Unable to parse XML.",
-      "elapsedMs": 665
+      "ok": true,
+      "fetched": 10,
+      "kept": 9,
+      "droppedOffTopic": 0,
+      "droppedModern": 1,
+      "elapsedMs": 681
     },
     {
       "id": "nature-arch",
@@ -586,7 +589,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 1161
+      "elapsedMs": 1129
     },
     {
       "id": "guardian-arch",
@@ -599,7 +602,7 @@
       "kept": 18,
       "droppedOffTopic": 0,
       "droppedModern": 2,
-      "elapsedMs": 785
+      "elapsedMs": 781
     },
     {
       "id": "current-archaeology",
@@ -612,7 +615,7 @@
       "kept": 29,
       "droppedOffTopic": 0,
       "droppedModern": 1,
-      "elapsedMs": 2989
+      "elapsedMs": 564
     },
     {
       "id": "historic-england",
@@ -622,7 +625,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 560
+      "elapsedMs": 582
     },
     {
       "id": "irish-archaeology",
@@ -645,7 +648,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 2,
-      "elapsedMs": 566
+      "elapsedMs": 607
     },
     {
       "id": "thehistoryblog",
@@ -655,7 +658,7 @@
       "kind": "news",
       "ok": false,
       "error": "unable to verify the first certificate",
-      "elapsedMs": 871
+      "elapsedMs": 794
     },
     {
       "id": "internet-archaeology",
@@ -665,7 +668,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 680
+      "elapsedMs": 660
     },
     {
       "id": "open-archaeology",
@@ -674,8 +677,8 @@
       "region": "europe",
       "kind": "research",
       "ok": false,
-      "error": "Unexpected close tag\nLine: 114\nColumn: 11\nChar: >",
-      "elapsedMs": 1283
+      "error": "Status code 500",
+      "elapsedMs": 1249
     },
     {
       "id": "ejpch",
@@ -685,7 +688,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 1021
+      "elapsedMs": 953
     },
     {
       "id": "jas-reports",
@@ -698,7 +701,7 @@
       "kept": 30,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 672
+      "elapsedMs": 637
     },
     {
       "id": "antiquity-journal",
@@ -708,7 +711,7 @@
       "kind": "research",
       "ok": false,
       "error": "Unable to parse XML.",
-      "elapsedMs": 808
+      "elapsedMs": 673
     },
     {
       "id": "plos-one-arch",
@@ -721,7 +724,7 @@
       "kept": 30,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 990
+      "elapsedMs": 933
     },
     {
       "id": "aespa-csic",
@@ -731,7 +734,7 @@
       "kind": "research",
       "ok": false,
       "error": "unable to verify the first certificate",
-      "elapsedMs": 704
+      "elapsedMs": 634
     },
     {
       "id": "rampas",
@@ -744,7 +747,7 @@
       "kept": 23,
       "droppedOffTopic": 0,
       "droppedModern": 2,
-      "elapsedMs": 1359
+      "elapsedMs": 1410
     },
     {
       "id": "spal-us",
@@ -757,7 +760,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 1105
+      "elapsedMs": 1024
     },
     {
       "id": "complutum-ucm",
@@ -770,7 +773,7 @@
       "kept": 14,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 1125
+      "elapsedMs": 1111
     },
     {
       "id": "trabajos-prehistoria",
@@ -780,7 +783,7 @@
       "kind": "research",
       "ok": false,
       "error": "unable to verify the first certificate",
-      "elapsedMs": 745
+      "elapsedMs": 695
     },
     {
       "id": "munibe-aranzadi",
@@ -790,7 +793,7 @@
       "kind": "research",
       "ok": false,
       "error": "certificate has expired",
-      "elapsedMs": 708
+      "elapsedMs": 665
     },
     {
       "id": "rae-ouest",
@@ -800,7 +803,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 400",
-      "elapsedMs": 794
+      "elapsedMs": 723
     },
     {
       "id": "rae-est",
@@ -810,7 +813,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 400",
-      "elapsedMs": 814
+      "elapsedMs": 722
     },
     {
       "id": "archeo-medievale-fr",
@@ -820,7 +823,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 400",
-      "elapsedMs": 838
+      "elapsedMs": 725
     },
     {
       "id": "archeopages",
@@ -830,7 +833,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 400",
-      "elapsedMs": 849
+      "elapsedMs": 761
     },
     {
       "id": "gallia",
@@ -840,7 +843,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 400",
-      "elapsedMs": 865
+      "elapsedMs": 772
     },
     {
       "id": "nda-cnrs",
@@ -850,7 +853,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 400",
-      "elapsedMs": 871
+      "elapsedMs": 765
     },
     {
       "id": "archeologia-calcolatori",
@@ -860,7 +863,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 1000
+      "elapsedMs": 847
     },
     {
       "id": "fasti-online",
@@ -870,7 +873,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 1001
+      "elapsedMs": 856
     },
     {
       "id": "archeoarte",
@@ -883,7 +886,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 1010
+      "elapsedMs": 935
     },
     {
       "id": "gallaecia",
@@ -893,7 +896,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 500",
-      "elapsedMs": 1047
+      "elapsedMs": 938
     },
     {
       "id": "cypsela",
@@ -906,49 +909,17 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 1082
+      "elapsedMs": 936
     }
   ],
   "items": [
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002014?dgcid=rss_sd_all",
-      "title": "Lithic technological transition in MIS3 revealed by the lithic assemblages of Liujia Locality 2, Central China",
-      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Zhe Dong, Sheng-Yan Guo, Shi-Jia Zhan, Shuang-Wen Yi, Shu-Wen Pei, Jian-Ping Yue, Si-Qi Lu, Yu-Xiu Zhang, Fa-Xiang Huan, Shi-Xia Yang",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002014?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-04-18T09:14:37.106Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "asia"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001409?dgcid=rss_sd_all",
-      "title": "Erratum to “Identifying buried Byzantine-early Islamic agricultural soils in the Yavne Hinterlands, Israel: a multi-proxy approach” [J. Archaeol. Sci.: Rep. 70 (2026) 105597]",
-      "summary": "Publication date: May 2026 Source: Journal of Archaeological Science: Reports, Volume 71 Author(s): Jenny Marcus, Nimrod Wieler, Shulamit Terem, Noam Greenbaum, Tami Zilberman, Gal Yasur, Yotam Asscher, Pablo Betzer, Daniel Varga, Oren Ackermann",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001409?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-04-18T09:14:37.106Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
     {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001471?dgcid=rss_sd_all",
       "title": "Corrigendum to “The mural paintings of the cloister in the Certosa di Calci, Pisa” [J. Archaeol. Sci. Rep. 43 (2022) 103461]",
       "summary": "Publication date: May 2026 Source: Journal of Archaeological Science: Reports, Volume 71 Author(s): Elena Marrocchino, Chiara Telloli, Maria Grazia Paletta, Marilena Leis, Carmela Vaccaro",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001471?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:14:37.106Z",
+      "publishedAt": "2026-04-18T09:19:36.977Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -963,71 +934,7 @@
       "summary": "Publication date: May 2026 Source: Journal of Archaeological Science: Reports, Volume 71 Author(s): Sara Mandera, Maciej J. Bojanowski, Arleta Kowalewska, Michael Eisenberg",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001422?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:14:37.106Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001835?dgcid=rss_sd_all",
-      "title": "Archaeozoological evidence for the exploitation of the ostrich ( Struthio camelus ) at Ifri n’Ammar (Later Stone Age, Northeastern Morocco)",
-      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Touria Mouhsine, Abdeslam Mikdad",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001835?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-04-18T09:14:37.105Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001781?dgcid=rss_sd_all",
-      "title": "Identification of heat treatment in lithic artifacts using non-invasive and non-destructive methods",
-      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Alan Nagaya, Oscar G. de Lucio, Carlos Peraza Lope, Dalia Mayarí Paz Rivera, Ángel Góngora Salas, Soledad Ortiz Ruiz",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001781?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-04-18T09:14:37.105Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "amerika"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001823?dgcid=rss_sd_all",
-      "title": "Pigments and craftsmanship: Color technology on Teotihuacan stucco-painted vessels and theater-type censers",
-      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Carlos López-Puértolas, Claudia María López-Pérez, Linda R. Manzanilla-Naim, José Luis Ruvalcaba-Sil",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001823?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-04-18T09:14:37.105Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "amerika"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001719?dgcid=rss_sd_all",
-      "title": "The chemical identification of cochineal production tools in archaeological environments: Preservation, degradation, and contamination",
-      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Samantha R. Nadel, Agustín Ortiz Butrón, Luis Barba Pingarrón, Everardo Tapia Mendoza",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001719?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-04-18T09:14:37.105Z",
+      "publishedAt": "2026-04-18T09:19:36.977Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1042,7 +949,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Ozana-Maria Ciorpac-Petraru, Vasilica-Monica Groza, Mariana Popovici, George Bilavschi, Ludmila Bacumenco-Pîrnău, Luminița Bejenaru",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001811?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:14:37.105Z",
+      "publishedAt": "2026-04-18T09:19:36.976Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1059,7 +966,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): François Fournier, Philippe Bromblet, Alexandre Da Cruz, Yvan Maligorne, Chloé Damay, Nathalie Gandolfo, Haythem Abidi",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001707?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:14:37.105Z",
+      "publishedAt": "2026-04-18T09:19:36.976Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1074,7 +981,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Mark E. Davis, Aude Mongiatti, St John Simpson, Marcos Martinón-Torres",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26000933?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:14:37.105Z",
+      "publishedAt": "2026-04-18T09:19:36.976Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1092,7 +999,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Ladislav Stančo, Jan Kysela, Tomáš Tencer, Peter Milo, Shapulat Shaydullaev",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X2600177X?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:14:37.105Z",
+      "publishedAt": "2026-04-18T09:19:36.976Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1107,7 +1014,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Claude Monnet, Zsolt Mester, Agnès Lamotte",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001586?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:14:37.105Z",
+      "publishedAt": "2026-04-18T09:19:36.976Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1122,7 +1029,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Jiajie Sun, Fangyi Wei, Yi Liu, Ruijuan Liang, Yanbo Song",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001604?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:14:37.105Z",
+      "publishedAt": "2026-04-18T09:19:36.976Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1132,27 +1039,12 @@
       "topics": []
     },
     {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001598?dgcid=rss_sd_all",
-      "title": "Production and provenance of the Anping Jar: Evidence from kiln sites and underwater sites",
-      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Ge Yu, Zhengyao Jin, Pin Chen, Xiaotong Wu, Zhitao Chen, Zelin Yang",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001598?dgcid=rss_sd_all",
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002014?dgcid=rss_sd_all",
+      "title": "Lithic technological transition in MIS3 revealed by the lithic assemblages of Liujia Locality 2, Central China",
+      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Zhe Dong, Sheng-Yan Guo, Shi-Jia Zhan, Shuang-Wen Yi, Shu-Wen Pei, Jian-Ping Yue, Si-Qi Lu, Yu-Xiu Zhang, Fa-Xiang Huan, Shi-Xia Yang",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002014?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:14:37.104Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001860?dgcid=rss_sd_all",
-      "title": "Bone tool functionality in the Bronze Age copper mines of Great Orme (UK): Preliminary results",
-      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Olga Zagorodnia, Harriet White",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001860?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-04-18T09:14:37.104Z",
+      "publishedAt": "2026-04-18T09:19:36.976Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1160,16 +1052,16 @@
       "lang": "en",
       "region": "world",
       "topics": [
-        "prehistoria"
+        "asia"
       ]
     },
     {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001793?dgcid=rss_sd_all",
-      "title": "Unveiling the metallurgical landscape of the eastern Qinling: First archaeometric insights from the Danjiang Basin",
-      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Yulun Wu, Fan Yang, Zekun Li, Yi Yang, Feiyang Wang, Yiheng Xian, Kunlong Chen",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001793?dgcid=rss_sd_all",
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001409?dgcid=rss_sd_all",
+      "title": "Erratum to “Identifying buried Byzantine-early Islamic agricultural soils in the Yavne Hinterlands, Israel: a multi-proxy approach” [J. Archaeol. Sci.: Rep. 70 (2026) 105597]",
+      "summary": "Publication date: May 2026 Source: Journal of Archaeological Science: Reports, Volume 71 Author(s): Jenny Marcus, Nimrod Wieler, Shulamit Terem, Noam Greenbaum, Tami Zilberman, Gal Yasur, Yotam Asscher, Pablo Betzer, Daniel Varga, Oren Ackermann",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001409?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:14:37.104Z",
+      "publishedAt": "2026-04-18T09:19:36.976Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1177,38 +1069,6 @@
       "lang": "en",
       "region": "world",
       "topics": []
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001690?dgcid=rss_sd_all",
-      "title": "Semi-automated detection of Holocene archaeological structures along the southern edge of the Nefud desert",
-      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Amy Hatton, Amina Jambajantsan, Paul S. Breeze, Maria Guagnin, Michael T. Fisher, Faisal al-Jibreen, Abdullah M. Alsharekh, Michael D. Petraglia, Huw S. Groucutt",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001690?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-04-18T09:14:37.104Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001756?dgcid=rss_sd_all",
-      "title": "Diet, mobility and gendered violence: Integrating multi-isotope analysis with proteomic sex identification at the bi-ritual Early Iron Age cemetery of Statzendorf, lower Austria",
-      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Katharina Rebay-Salisbury, Lukas Waltenberger, Michaela Fritzl, Hannah Skerjanz, Domnika Verdianu, Leslie Quade, Michaela Spannagl-Steiner, Michael Wolf, Fabian Kanz, Anneminne…",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001756?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-04-18T09:14:37.104Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
     },
     {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001847?dgcid=rss_sd_all",
@@ -1216,7 +1076,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Weronika Karolina Cieszynska, Ondrej Šedo, Petr Dresler, Gabriela Dreslerová, Jiří Macháček, Renáta Přichystalová, Zuzana Hofmanová",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001847?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:14:37.104Z",
+      "publishedAt": "2026-04-18T09:19:36.975Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1233,7 +1093,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Denise Lima e Silva, Miguel Carrero-Pazos, Francisco Lara-Piñera, João Fonte, Benito Vilas-Estévez",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001653?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:14:37.104Z",
+      "publishedAt": "2026-04-18T09:19:36.975Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1250,7 +1110,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Estuardo Mata-Castillo, Andrea Cucina, Marco Ramírez-Salomón, María Beatriz Monsreal-Peniche, Camilo Luin, Elma Vega-Lizama",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001665?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:14:37.104Z",
+      "publishedAt": "2026-04-18T09:19:36.975Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1268,7 +1128,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Roman Balvanović, Milica Marić Stojanović, Riccardo Avanzinelli, Eleonora Braschi, Igor Silachyov, Žiga Šmit, Kruglyak Anastasiya, Dragana Spasić-Đurić, Teodora Branković",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001884?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:14:37.104Z",
+      "publishedAt": "2026-04-18T09:19:36.975Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1285,7 +1145,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Alejandra Sánchez-Polo, Angélica Santa Cruz del Barrio, Javier Velasco Vázquez, Miguel del Nogal Sánchez, Ana María Casas-Ferreira, José Luis Pérez Pavón, Carmen Patino Alonso,…",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001641?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:14:37.104Z",
+      "publishedAt": "2026-04-18T09:19:36.975Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1298,12 +1158,61 @@
       ]
     },
     {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X2600180X?dgcid=rss_sd_all",
-      "title": "Llama herding and landscape management during the second millennium BP in the Southern Argentine Puna: A microhistological analysis of camelid dung from Punta de la Peña 9",
-      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): M.Eugenia Mosca Torres, Salomón Hocsman, Pilar Babot",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X2600180X?dgcid=rss_sd_all",
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001835?dgcid=rss_sd_all",
+      "title": "Archaeozoological evidence for the exploitation of the ostrich ( Struthio camelus ) at Ifri n’Ammar (Later Stone Age, Northeastern Morocco)",
+      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Touria Mouhsine, Abdeslam Mikdad",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001835?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:14:37.103Z",
+      "publishedAt": "2026-04-18T09:19:36.975Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001781?dgcid=rss_sd_all",
+      "title": "Identification of heat treatment in lithic artifacts using non-invasive and non-destructive methods",
+      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Alan Nagaya, Oscar G. de Lucio, Carlos Peraza Lope, Dalia Mayarí Paz Rivera, Ángel Góngora Salas, Soledad Ortiz Ruiz",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001781?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-04-18T09:19:36.975Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "amerika"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001823?dgcid=rss_sd_all",
+      "title": "Pigments and craftsmanship: Color technology on Teotihuacan stucco-painted vessels and theater-type censers",
+      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Carlos López-Puértolas, Claudia María López-Pérez, Linda R. Manzanilla-Naim, José Luis Ruvalcaba-Sil",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001823?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-04-18T09:19:36.975Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "amerika"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001719?dgcid=rss_sd_all",
+      "title": "The chemical identification of cochineal production tools in archaeological environments: Preservation, degradation, and contamination",
+      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Samantha R. Nadel, Agustín Ortiz Butrón, Luis Barba Pingarrón, Everardo Tapia Mendoza",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001719?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-04-18T09:19:36.975Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1318,7 +1227,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Yamandú H. Hilbert, Jeanne Marie Geiling, Gabriele Russo, Roman Garba, Lee J. Arnold, Dominik Chlachula, Scott Mclin, Marya Soubra, Ash Parton, Nicholas Sutton, David Alsop, Dana…",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X2600163X?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:14:37.103Z",
+      "publishedAt": "2026-04-18T09:19:36.974Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1336,7 +1245,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Floriane Peudon, Agnès Lamotte",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001902?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:14:37.103Z",
+      "publishedAt": "2026-04-18T09:19:36.974Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1351,7 +1260,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): A. Babbi, A. Celant, G. Germinario, J. Hertzog, M. Lamonaca, F. Michelangeli, P. Schmitt-Kopplin, R. Schwab",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001859?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:14:37.103Z",
+      "publishedAt": "2026-04-18T09:19:36.974Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1368,7 +1277,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Lina Li, Chunyang Liu, Yanpeng Cao, Shuzheng Zhu, Jiyin Wei, Chunguang Gu, Li Liu",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001987?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:14:37.103Z",
+      "publishedAt": "2026-04-18T09:19:36.974Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1386,7 +1295,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Adrián Nemergut, Michal Cheben, Ludmila Kaňáková Hladíková, Jan Petřík, Jun Takakura, Antonín Přichystal, Lubomír Prokeš, Monika Gabulová",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001525?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T09:14:37.103Z",
+      "publishedAt": "2026-04-18T09:19:36.974Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -1396,6 +1305,100 @@
       "topics": [
         "prehistoria"
       ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001598?dgcid=rss_sd_all",
+      "title": "Production and provenance of the Anping Jar: Evidence from kiln sites and underwater sites",
+      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Ge Yu, Zhengyao Jin, Pin Chen, Xiaotong Wu, Zhitao Chen, Zelin Yang",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001598?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-04-18T09:19:36.974Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001860?dgcid=rss_sd_all",
+      "title": "Bone tool functionality in the Bronze Age copper mines of Great Orme (UK): Preliminary results",
+      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Olga Zagorodnia, Harriet White",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001860?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-04-18T09:19:36.974Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001793?dgcid=rss_sd_all",
+      "title": "Unveiling the metallurgical landscape of the eastern Qinling: First archaeometric insights from the Danjiang Basin",
+      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Yulun Wu, Fan Yang, Zekun Li, Yi Yang, Feiyang Wang, Yiheng Xian, Kunlong Chen",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001793?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-04-18T09:19:36.974Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001690?dgcid=rss_sd_all",
+      "title": "Semi-automated detection of Holocene archaeological structures along the southern edge of the Nefud desert",
+      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Amy Hatton, Amina Jambajantsan, Paul S. Breeze, Maria Guagnin, Michael T. Fisher, Faisal al-Jibreen, Abdullah M. Alsharekh, Michael D. Petraglia, Huw S. Groucutt",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001690?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-04-18T09:19:36.974Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001756?dgcid=rss_sd_all",
+      "title": "Diet, mobility and gendered violence: Integrating multi-isotope analysis with proteomic sex identification at the bi-ritual Early Iron Age cemetery of Statzendorf, lower Austria",
+      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Katharina Rebay-Salisbury, Lukas Waltenberger, Michaela Fritzl, Hannah Skerjanz, Domnika Verdianu, Leslie Quade, Michaela Spannagl-Steiner, Michael Wolf, Fabian Kanz, Anneminne…",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001756?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-04-18T09:19:36.974Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X2600180X?dgcid=rss_sd_all",
+      "title": "Llama herding and landscape management during the second millennium BP in the Southern Argentine Puna: A microhistological analysis of camelid dung from Punta de la Peña 9",
+      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): M.Eugenia Mosca Torres, Salomón Hocsman, Pilar Babot",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X2600180X?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-04-18T09:19:36.973Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
     },
     {
       "id": "observador-cultura:https://observador.pt/2026/04/18/observatorio-do-alqueva-celebra-10-anos-de-astroturismo-e-prepara-novos-voos/",
@@ -3860,6 +3863,23 @@
       ]
     },
     {
+      "id": "ancient-origins:https://www.ancient-origins.net/news-history-archaeology/ghost-columbus-00102667",
+      "title": "The Ghost of Columbus and the Impossible Geometry of the Piri Reis Map",
+      "summary": "The Ghost of Columbus and the Impossible Geometry of the Piri Reis Map In 1929, while renovating the Topkapi Palace in Istanbul, a theologian discovered a fragment of gazelle skin that would rewrite the history of cartography. This was the Piri Reis map, a world chart compiled…",
+      "url": "https://www.ancient-origins.net/news-history-archaeology/ghost-columbus-00102667",
+      "image": "https://www.ancient-origins.net/sites/default/files/styles/large/public/field/image/Piri%20Reis%20%281%29.jpg?itok=b7j35Pzh",
+      "publishedAt": "2026-04-13T19:44:16.000Z",
+      "source": {
+        "id": "ancient-origins",
+        "name": "Ancient Origins"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
       "id": "live-science-arch:https://www.livescience.com/archaeology/human-evolution/homo-erectus-tools-include-stunning-geodes-and-fossils-possibly-as-a-way-to-connect-with-the-cosmos-study-finds",
       "title": "Homo erectus' tools include stunning geodes and fossils, possibly as a way to connect with the cosmos, study finds",
       "summary": "Homo erectus may have deliberately selected rocks embedded with fossils and crystals to craft their hand axes — possibly to serve as mediators between humans and the cosmos.",
@@ -5339,6 +5359,25 @@
       ]
     },
     {
+      "id": "ancient-origins:https://www.ancient-origins.net/news-history-archaeology/roman-forum-barcelona-00102582",
+      "title": "Roman Forum Found Beneath Barcelona Hotel Rewrites Barcino",
+      "summary": "Roman Forum Found Beneath Barcelona Hotel Rewrites Barcino What started as a routine elevator shaft installation in a Barcelona hotel basement has turned into one of the most significant Roman archaeology discoveries in Spain in decades. Excavations beneath the Gran Hotel…",
+      "url": "https://www.ancient-origins.net/news-history-archaeology/roman-forum-barcelona-00102582",
+      "image": "https://www.ancient-origins.net/sites/default/files/styles/large/public/field/image/ForumBarca.jpg?itok=AlyXAO8W",
+      "publishedAt": "2026-03-10T12:00:00.000Z",
+      "source": {
+        "id": "ancient-origins",
+        "name": "Ancient Origins"
+      },
+      "lang": "en",
+      "region": "iberia",
+      "topics": [
+        "erromatarrak",
+        "museoak",
+        "aurkikuntza"
+      ]
+    },
+    {
       "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/03/260309225231.htm",
       "title": "This 2-pound dinosaur is rewriting what scientists know about evolution",
       "summary": "A nearly complete dinosaur skeleton discovered in Patagonia is helping scientists crack the mystery of alvarezsaurs, a bizarre group of bird-like dinosaurs. The fossil of Alnashetri cerropoliciensis reveals that these animals became tiny before developing their later specialized…",
@@ -5636,6 +5675,24 @@
       "lang": "es",
       "region": "europe",
       "topics": []
+    },
+    {
+      "id": "ancient-origins:https://www.ancient-origins.net/news-history-archaeology/sumerian-bitumen-00102535",
+      "title": "Black Gold: Sumerian Bitumen Recipes Worked Like Asphalt, 4,000 Years Ago",
+      "summary": "Black Gold: Sumerian Bitumen Recipes Worked Like Asphalt, 4,000 Years Ago Sumerian craftspeople in Mesopotamia didn’t simply scoop up natural bitumen and slap it on boats or bricks. A new materials study suggests they followed repeatable “recipes” that controlled strength,…",
+      "url": "https://www.ancient-origins.net/news-history-archaeology/sumerian-bitumen-00102535",
+      "image": "https://www.ancient-origins.net/sites/default/files/styles/large/public/field/image/SumerianBuilding.jpg?itok=Rpl6mR1O",
+      "publishedAt": "2026-02-19T23:47:26.000Z",
+      "source": {
+        "id": "ancient-origins",
+        "name": "Ancient Origins"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "ekialde-hurbila",
+        "aurkikuntza"
+      ]
     },
     {
       "id": "lemonde-archeo:https://www.lemonde.fr/sciences/article/2026/02/19/la-regle-d-un-jeu-romain-debloquee-par-l-ia_6667331_1650684.html",
