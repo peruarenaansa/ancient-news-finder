@@ -1,7 +1,14 @@
-import { ExternalLink, Bookmark, BookmarkCheck, Check } from 'lucide-react';
+import { ExternalLink, Bookmark, BookmarkCheck, Check, FilePlus, StickyNote } from 'lucide-react';
+import {
+  DropdownMenu,
+  DropdownMenuContent,
+  DropdownMenuItem,
+  DropdownMenuTrigger,
+} from '@/components/ui/dropdown-menu';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import { cn } from '@/lib/utils';
+import { buildCreateOnGithubUrl } from '@/lib/create-article-url';
 import {
   LANG_FLAGS,
   LANG_LABELS,
@@ -77,19 +84,46 @@ export function NewsCard({ item, saved, read, onToggleSave, onMarkRead }: Props)
           >
             {item.title}
           </a>
-          <Button
-            variant="ghost"
-            size="icon"
-            className="-mr-2 -mt-1 h-8 w-8 shrink-0"
-            onClick={onToggleSave}
-            aria-label={saved ? 'Kendu gogokoetatik' : 'Gehitu gogokoetan'}
-          >
-            {saved ? (
-              <BookmarkCheck className="h-4 w-4 text-primary" />
-            ) : (
-              <Bookmark className="h-4 w-4" />
-            )}
-          </Button>
+          <div className="-mr-2 -mt-1 flex shrink-0 items-center">
+            <DropdownMenu>
+              <DropdownMenuTrigger asChild>
+                <Button
+                  variant="ghost"
+                  size="icon"
+                  className="h-8 w-8"
+                  aria-label="Artikulua sortu honetatik"
+                  title="Artikulua sortu kanpoko albiste honetatik"
+                >
+                  <FilePlus className="h-4 w-4" />
+                </Button>
+              </DropdownMenuTrigger>
+              <DropdownMenuContent align="end">
+                <DropdownMenuItem
+                  onClick={() => window.open(buildCreateOnGithubUrl(item, 'article'), '_blank', 'noopener')}
+                >
+                  <FilePlus className="mr-2 h-4 w-4" /> Albiste landu gisa
+                </DropdownMenuItem>
+                <DropdownMenuItem
+                  onClick={() => window.open(buildCreateOnGithubUrl(item, 'note'), '_blank', 'noopener')}
+                >
+                  <StickyNote className="mr-2 h-4 w-4" /> Ohar labur gisa
+                </DropdownMenuItem>
+              </DropdownMenuContent>
+            </DropdownMenu>
+            <Button
+              variant="ghost"
+              size="icon"
+              className="h-8 w-8"
+              onClick={onToggleSave}
+              aria-label={saved ? 'Kendu gogokoetatik' : 'Gehitu gogokoetan'}
+            >
+              {saved ? (
+                <BookmarkCheck className="h-4 w-4 text-primary" />
+              ) : (
+                <Bookmark className="h-4 w-4" />
+              )}
+            </Button>
+          </div>
         </div>
 
         {item.summary && (
