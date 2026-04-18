@@ -63,6 +63,26 @@ const Index = () => {
         if (!active) return;
         setFeed(data);
         setError(null);
+
+        // Migrazioa: lehengo `archaeo:saved` (ID-en Set) → `archaeo:saved-items` (item osoak).
+        // Behin egiten da; ondoren gako zaharra ezabatzen da.
+        try {
+          const legacy = localStorage.getItem('archaeo:saved');
+          if (legacy) {
+            const ids: string[] = JSON.parse(legacy);
+            const stored = JSON.parse(localStorage.getItem('archaeo:saved-items') || '{}');
+            const map = new Map<string, NewsItem>(Object.entries(stored));
+            for (const it of data.items) {
+              if (ids.includes(it.id) && !map.has(it.id)) map.set(it.id, it);
+            }
+            localStorage.setItem('archaeo:saved-items', JSON.stringify(Object.fromEntries(map)));
+            localStorage.removeItem('archaeo:saved');
+            // Behartu hook-a berrirakurtzera orria freskatuz
+            window.location.reload();
+          }
+        } catch {
+          // ignore
+        }
       })
       .catch((e) => active && setError(e.message))
       .finally(() => active && setLoading(false));
