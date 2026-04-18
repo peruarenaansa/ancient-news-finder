@@ -35,5 +35,18 @@ export function useLocalStorageSet(key: string) {
       return next;
     });
 
-  return { set, toggle, add };
+  const addMany = (ids: string[]) =>
+    setSet((prev) => {
+      const next = new Set(prev);
+      let changed = false;
+      for (const id of ids) {
+        if (!next.has(id)) {
+          next.add(id);
+          changed = true;
+        }
+      }
+      return changed ? next : prev;
+    });
+
+  return { set, toggle, add, addMany };
 }
