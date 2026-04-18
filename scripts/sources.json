@@ -1,8 +1,16 @@
 [
   { "id": "berria", "name": "Berria — Kultura", "url": "https://www.berria.eus/rss/kultura.xml", "lang": "eu", "region": "basque" },
+  { "id": "berria-azala", "name": "Berria — Azala", "url": "https://www.berria.eus/rss/azala.xml", "lang": "eu", "region": "basque" },
   { "id": "argia", "name": "Argia", "url": "https://www.argia.eus/feed", "lang": "eu", "region": "basque" },
   { "id": "eitb-kultura", "name": "EITB Kultura", "url": "https://www.eitb.eus/eu/kultura/rss/", "lang": "eu", "region": "basque" },
+  { "id": "eitb-albisteak", "name": "EITB Albisteak", "url": "https://www.eitb.eus/eu/albisteak/rss/", "lang": "eu", "region": "basque" },
   { "id": "aranzadi", "name": "Aranzadi Zientzia Elkartea", "url": "https://www.aranzadi.eus/feed", "lang": "eu", "region": "basque" },
+  { "id": "naiz-kultura", "name": "Naiz — Kultura", "url": "https://www.naiz.eus/eu/kultura/rss", "lang": "eu", "region": "basque" },
+  { "id": "diariovasco-cultura", "name": "El Diario Vasco — Cultura", "url": "https://www.diariovasco.com/rss/atom/?section=culturas", "lang": "es", "region": "basque" },
+  { "id": "noticiasdegipuzkoa-cultura", "name": "Noticias de Gipuzkoa — Cultura", "url": "https://www.noticiasdegipuzkoa.eus/rss/cultura.xml", "lang": "es", "region": "basque" },
+  { "id": "deia-cultura", "name": "Deia — Cultura", "url": "https://www.deia.eus/rss/cultura.xml", "lang": "es", "region": "basque" },
+  { "id": "noticiasdenavarra-cultura", "name": "Noticias de Navarra — Cultura", "url": "https://www.noticiasdenavarra.com/rss/cultura.xml", "lang": "es", "region": "basque" },
+  { "id": "mediabask", "name": "Mediabask", "url": "https://www.mediabask.eus/eu/rss", "lang": "eu", "region": "basque" },
 
   { "id": "labrujulaverde", "name": "La Brújula Verde", "url": "https://www.labrujulaverde.com/feed", "lang": "es", "region": "world" },
   { "id": "desperta-ferro", "name": "Desperta Ferro Ediciones", "url": "https://www.despertaferro-ediciones.com/feed/", "lang": "es", "region": "iberia" },
