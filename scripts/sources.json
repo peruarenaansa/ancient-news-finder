@@ -63,5 +63,33 @@
   { "id": "historic-england", "name": "Historic England", "url": "https://historicengland.org.uk/whats-new/news/rss/", "lang": "en", "region": "europe" },
   { "id": "irish-archaeology", "name": "Irish Archaeology", "url": "https://irisharchaeology.ie/feed/", "lang": "en", "region": "europe" },
   { "id": "medievalists", "name": "Medievalists.net", "url": "https://www.medievalists.net/feed/", "lang": "en", "region": "europe" },
-  { "id": "thehistoryblog", "name": "The History Blog", "url": "https://www.thehistoryblog.com/feed", "lang": "en", "region": "world" }
+  { "id": "thehistoryblog", "name": "The History Blog", "url": "https://www.thehistoryblog.com/feed", "lang": "en", "region": "world" },
+
+  { "id": "internet-archaeology", "name": "Internet Archaeology (peer-reviewed)", "url": "https://intarch.ac.uk/news/rss.xml", "lang": "en", "region": "europe", "kind": "research" },
+  { "id": "open-archaeology", "name": "Open Archaeology (De Gruyter)", "url": "https://www.degruyter.com/journal/key/opar/html?lang=en&format=rss", "lang": "en", "region": "europe", "kind": "research" },
+  { "id": "ejpch", "name": "European Journal of Post-Classical Archaeologies", "url": "http://www.postclassical.it/feed/", "lang": "en", "region": "europe", "kind": "research" },
+  { "id": "jas-reports", "name": "Journal of Archaeological Science: Reports", "url": "https://rss.sciencedirect.com/publication/science/2352409X", "lang": "en", "region": "world", "kind": "research" },
+  { "id": "antiquity-journal", "name": "Antiquity (Cambridge)", "url": "https://www.cambridge.org/core/rss/product/id/4B16ECC0CA1FB3F66BBD93D5B6C7F58D", "lang": "en", "region": "europe", "kind": "research" },
+  { "id": "plos-one-arch", "name": "PLOS ONE — Archaeology", "url": "https://journals.plos.org/plosone/feed/atom?filterJournals=PLoSONE&q=subject%3A%22Archaeology%22", "lang": "en", "region": "world", "kind": "research" },
+
+  { "id": "aespa-csic", "name": "Archivo Español de Arqueología (CSIC)", "url": "https://aespa.revistas.csic.es/index.php/aespa/gateway/plugin/WebFeedGatewayPlugin/rss2", "lang": "es", "region": "iberia", "kind": "research" },
+  { "id": "rampas", "name": "RAMPAS — Prehistoria y Arqueología Social (UCA)", "url": "https://revistas.uca.es/index.php/rampas/gateway/plugin/WebFeedGatewayPlugin/rss2", "lang": "es", "region": "iberia", "kind": "research" },
+  { "id": "spal-us", "name": "SPAL — Prehistoria y Arqueología (US)", "url": "https://revistascientificas.us.es/index.php/spal/gateway/plugin/WebFeedGatewayPlugin/rss2", "lang": "es", "region": "iberia", "kind": "research" },
+  { "id": "complutum-ucm", "name": "Complutum (UCM)", "url": "https://revistas.ucm.es/index.php/CMPL/gateway/plugin/WebFeedGatewayPlugin/rss2", "lang": "es", "region": "iberia", "kind": "research" },
+  { "id": "trabajos-prehistoria", "name": "Trabajos de Prehistoria (CSIC)", "url": "https://tp.revistas.csic.es/index.php/tp/gateway/plugin/WebFeedGatewayPlugin/rss2", "lang": "es", "region": "iberia", "kind": "research" },
+  { "id": "munibe-aranzadi", "name": "Munibe Antropologia-Arkeologia (Aranzadi)", "url": "https://www.aranzadi.eus/munibe-antropologia-arkeologia/feed", "lang": "es", "region": "basque", "kind": "research" },
+
+  { "id": "rae-ouest", "name": "Revue Archéologique de l'Ouest", "url": "https://journals.openedition.org/rao/backend?format=rssarticles", "lang": "fr", "region": "europe", "kind": "research" },
+  { "id": "rae-est", "name": "Revue Archéologique de l'Est", "url": "https://journals.openedition.org/rae/backend?format=rssarticles", "lang": "fr", "region": "europe", "kind": "research" },
+  { "id": "archeo-medievale-fr", "name": "Archéologie Médiévale", "url": "https://journals.openedition.org/archeomed/backend?format=rssarticles", "lang": "fr", "region": "europe", "kind": "research" },
+  { "id": "archeopages", "name": "Archéopages (Inrap)", "url": "https://journals.openedition.org/archeopages/backend?format=rssarticles", "lang": "fr", "region": "europe", "kind": "research" },
+  { "id": "gallia", "name": "Gallia — Archéologie de la France antique (CNRS)", "url": "https://journals.openedition.org/gallia/backend?format=rssarticles", "lang": "fr", "region": "europe", "kind": "research" },
+  { "id": "nda-cnrs", "name": "Les Nouvelles de l'Archéologie (CNRS)", "url": "https://journals.openedition.org/nda/backend?format=rssarticles", "lang": "fr", "region": "europe", "kind": "research" },
+
+  { "id": "archeologia-calcolatori", "name": "Archeologia e Calcolatori (CNR)", "url": "https://www.archcalc.cnr.it/rss.xml", "lang": "it", "region": "europe", "kind": "research" },
+  { "id": "fasti-online", "name": "FastiOnline — Excavations", "url": "https://www.fastionline.org/rss.php", "lang": "it", "region": "europe", "kind": "research" },
+  { "id": "archeoarte", "name": "ArcheoArte (UniCa)", "url": "https://ojs.unica.it/index.php/archeoarte/gateway/plugin/WebFeedGatewayPlugin/rss2", "lang": "it", "region": "europe", "kind": "research" },
+
+  { "id": "gallaecia", "name": "Gallaecia — Arqueoloxía (USC)", "url": "https://revistas.usc.gal/index.php/gallaecia/gateway/plugin/WebFeedGatewayPlugin/rss2", "lang": "gl", "region": "iberia", "kind": "research" },
+  { "id": "cypsela", "name": "Cypsela (RACO, Catalunya)", "url": "https://raco.cat/index.php/Cypsela/gateway/plugin/WebFeedGatewayPlugin/rss2", "lang": "ca", "region": "iberia", "kind": "research" }
 ]
