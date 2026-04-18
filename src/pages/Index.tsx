@@ -24,6 +24,7 @@ import {
 import { ThemeToggle } from '@/components/ThemeToggle';
 import { NewsCard } from '@/components/NewsCard';
 import { useLocalStorageSet } from '@/hooks/use-local-storage-set';
+import { useSavedItems } from '@/hooks/use-saved-items';
 import {
   LANG_LABELS,
   REGION_LABELS,
@@ -47,7 +48,7 @@ const Index = () => {
   const [showRead, setShowRead] = useState(false);
   const [page, setPage] = useState(1);
 
-  const { set: saved, toggle: toggleSaved } = useLocalStorageSet('archaeo:saved');
+  const { isSaved, toggle: toggleSaved, savedList, size: savedSize } = useSavedItems();
   const { set: read, add: markRead, addMany: markManyRead } = useLocalStorageSet('archaeo:read');
 
   useEffect(() => {
@@ -62,6 +63,26 @@ const Index = () => {
         if (!active) return;
         setFeed(data);
         setError(null);
+
+        // Migrazioa: lehengo `archaeo:saved` (ID-en Set) → `archaeo:saved-items` (item osoak).
+        // Behin egiten da; ondoren gako zaharra ezabatzen da.
+        try {
+          const legacy = localStorage.getItem('archaeo:saved');
+          if (legacy) {
+            const ids: string[] = JSON.parse(legacy);
+            const stored = JSON.parse(localStorage.getItem('archaeo:saved-items') || '{}');
+            const map = new Map<string, NewsItem>(Object.entries(stored));
+            for (const it of data.items) {
+              if (ids.includes(it.id) && !map.has(it.id)) map.set(it.id, it);
+            }
+            localStorage.setItem('archaeo:saved-items', JSON.stringify(Object.fromEntries(map)));
+            localStorage.removeItem('archaeo:saved');
+            // Behartu hook-a berrirakurtzera orria freskatuz
+            window.location.reload();
+          }
+        } catch {
+          // ignore
+        }
       })
       .catch((e) => active && setError(e.message))
       .finally(() => active && setLoading(false));
@@ -73,8 +94,23 @@ const Index = () => {
   const filtered = useMemo(() => {
     if (!feed) return [] as NewsItem[];
     const q = query.trim().toLowerCase();
-    return feed.items.filter((it) => {
-      if (showSavedOnly && !saved.has(it.id)) return false;
+
+    // Gogokoak ikustean: localStorage-eko snapshot-a erabili (feed-eko items + galdutakoak).
+    // Horrela news.json-en jada ez dauden gogokoak ere agertuko dira.
+    let base: NewsItem[];
+    if (showSavedOnly) {
+      const stored = savedList();
+      const byId = new Map<string, NewsItem>();
+      for (const it of stored) byId.set(it.id, it);
+      // Feed-eko bertsio freskoa lehenetsi (irudia/laburpena eguneratuta egon liteke)
+      for (const it of feed.items) if (byId.has(it.id)) byId.set(it.id, it);
+      base = [...byId.values()];
+    } else {
+      base = feed.items;
+    }
+
+    return base.filter((it) => {
+      if (showSavedOnly && !isSaved(it.id)) return false;
       if (!showRead && !showSavedOnly && read.has(it.id)) return false;
       if (region !== 'all' && it.region !== region) return false;
       if (lang !== 'all' && it.lang !== lang) return false;
@@ -84,7 +120,7 @@ const Index = () => {
       }
       return true;
     });
-  }, [feed, query, region, lang, showSavedOnly, showRead, saved, read]);
+  }, [feed, query, region, lang, showSavedOnly, showRead, isSaved, savedList, read]);
 
   // Euskal Herriko albisteak gainean lehenetsi (iragazkirik gabe denean)
   const sorted = useMemo(() => {
@@ -196,7 +232,7 @@ const Index = () => {
                 onClick={() => { setShowSavedOnly((s) => !s); setPage(1); }}
               >
                 <Bookmark className="mr-1 h-4 w-4" />
-                Gogokoak {saved.size > 0 && <Badge variant="secondary" className="ml-2">{saved.size}</Badge>}
+                Gogokoak {savedSize > 0 && <Badge variant="secondary" className="ml-2">{savedSize}</Badge>}
               </Button>
 
               <Button
@@ -301,9 +337,9 @@ const Index = () => {
                 <NewsCard
                   key={item.id}
                   item={item}
-                  saved={saved.has(item.id)}
+                  saved={isSaved(item.id)}
                   read={read.has(item.id)}
-                  onToggleSave={() => toggleSaved(item.id)}
+                  onToggleSave={() => toggleSaved(item)}
                   onMarkRead={() => markRead(item.id)}
                 />
               ))}
