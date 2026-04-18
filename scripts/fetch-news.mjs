@@ -67,10 +67,16 @@ const ARCHAEOLOGY_KEYWORDS = [
 // Iturri orokorrak: gaiagatik iragazi behar direnak (ez dira espezializatuak)
 const GENERAL_SOURCES = new Set([
   'elpais-cultura', 'abc-cultura', 'eldiario-cultura', 'lemonde-sciences',
-  'spiegel-wissenschaft', 'live-science-arch', 'phys-arch', 'sciencedaily-arch',
-  'eitb-kultura', 'berria', 'argia', 'nature-arch',
-  // Sare sozialak: kontuek gauza orotaz idatz dezakete, iragazi
-  'bsky-despertaferro', 'bsky-labrujulaverde', 'yt-despertaferro',
+  'live-science-arch', 'phys-arch', 'sciencedaily-arch', 'nature-arch',
+  'eitb-kultura', 'eitb-albisteak', 'berria', 'berria-azala', 'argia', 'naiz-kultura',
+  'diariovasco-cultura', 'noticiasdegipuzkoa-cultura', 'deia-cultura',
+  'noticiasdenavarra-cultura', 'mediabask',
+  'lefigaro-histoire', 'geo-histoire', 'sudouest-culture', 'francebleu-paysbasque',
+  'futura-archeo',
+  'praza-cultura', 'nosdiario-cultura', 'galiciaconfidencial-cultura',
+  'vilaweb-cultura', 'ara-cultura', 'elnacional-cultura-cat',
+  'publico-cultura-pt', 'observador-cultura', 'rtp-cultura',
+  'ansa-cultura', 'repubblica-cultura', 'corriere-cultura',
 ]);
 
 function isArchaeologyRelated(text) {

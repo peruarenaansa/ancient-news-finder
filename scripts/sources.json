@@ -31,7 +31,23 @@
   { "id": "sudouest-culture", "name": "Sud Ouest — Culture", "url": "https://www.sudouest.fr/culture/rss.xml", "lang": "fr", "region": "basque" },
   { "id": "francebleu-paysbasque", "name": "France Bleu Pays Basque", "url": "https://www.francebleu.fr/rss/pays-basque/info.xml", "lang": "fr", "region": "basque" },
 
-  { "id": "spiegel-wissenschaft", "name": "Der Spiegel — Wissenschaft", "url": "https://www.spiegel.de/wissenschaft/index.rss", "lang": "de", "region": "europe" },
+  { "id": "praza-cultura", "name": "Praza Pública — Cultura", "url": "https://praza.gal/cultura/feed", "lang": "gl", "region": "iberia" },
+  { "id": "nosdiario-cultura", "name": "Nós Diario — Cultura", "url": "https://www.nosdiario.gal/rss/cultura.xml", "lang": "gl", "region": "iberia" },
+  { "id": "galiciaconfidencial-cultura", "name": "Galicia Confidencial — Cultura", "url": "https://www.galiciaconfidencial.com/rss/cultura", "lang": "gl", "region": "iberia" },
+
+  { "id": "vilaweb-cultura", "name": "VilaWeb — Cultura", "url": "https://www.vilaweb.cat/rss/cultura/", "lang": "ca", "region": "iberia" },
+  { "id": "ara-cultura", "name": "Ara — Cultura", "url": "https://www.ara.cat/rss/cultura.xml", "lang": "ca", "region": "iberia" },
+  { "id": "elnacional-cultura-cat", "name": "El Nacional — Cultura (CA)", "url": "https://www.elnacional.cat/ca/rss/cultura", "lang": "ca", "region": "iberia" },
+
+  { "id": "publico-cultura-pt", "name": "Público — Cultura (PT)", "url": "https://www.publico.pt/rss/cultura", "lang": "pt", "region": "iberia" },
+  { "id": "observador-cultura", "name": "Observador — Cultura", "url": "https://observador.pt/seccao/cultura/feed/", "lang": "pt", "region": "iberia" },
+  { "id": "rtp-cultura", "name": "RTP — Cultura", "url": "https://www.rtp.pt/noticias/rss/cultura", "lang": "pt", "region": "iberia" },
+
+  { "id": "ansa-cultura", "name": "ANSA — Cultura", "url": "https://www.ansa.it/sito/ansait_rss.xml", "lang": "it", "region": "europe" },
+  { "id": "repubblica-cultura", "name": "La Repubblica — Cultura", "url": "https://www.repubblica.it/rss/cultura/rss2.0.xml", "lang": "it", "region": "europe" },
+  { "id": "corriere-cultura", "name": "Corriere della Sera — Cultura", "url": "https://xml2.corriereobjects.it/rss/cultura.xml", "lang": "it", "region": "europe" },
+  { "id": "archeologiaviva", "name": "Archeologia Viva", "url": "https://www.archeologiaviva.it/feed/", "lang": "it", "region": "europe" },
+  { "id": "stilearte", "name": "Stile Arte — Archeologia", "url": "https://www.stilearte.it/category/archeologia/feed/", "lang": "it", "region": "europe" },
 
   { "id": "heritage-daily", "name": "Heritage Daily", "url": "https://www.heritagedaily.com/feed", "lang": "en", "region": "world" },
   { "id": "archaeology-mag", "name": "Archaeology Magazine", "url": "https://www.archaeology.org/feed/", "lang": "en", "region": "world" },
@@ -43,8 +59,9 @@
   { "id": "ancient-origins", "name": "Ancient Origins", "url": "https://www.ancient-origins.net/rss.xml", "lang": "en", "region": "world" },
   { "id": "nature-arch", "name": "Nature — Archaeology", "url": "https://www.nature.com/subjects/archaeology.rss", "lang": "en", "region": "world" },
   { "id": "guardian-arch", "name": "The Guardian — Archaeology", "url": "https://www.theguardian.com/science/archaeology/rss", "lang": "en", "region": "europe" },
-
-  { "id": "bsky-despertaferro", "name": "Bluesky · @despertaferroed", "url": "https://bsky.app/profile/despertaferroed.bsky.social/rss", "lang": "es", "region": "iberia", "kind": "social" },
-  { "id": "bsky-labrujulaverde", "name": "Bluesky · @labrujulaverde", "url": "https://bsky.app/profile/labrujulaverde.bsky.social/rss", "lang": "es", "region": "world", "kind": "social" },
-  { "id": "yt-despertaferro", "name": "YouTube · Desperta Ferro", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoZBV0tIA0HR6caBhwOjljg", "lang": "es", "region": "iberia", "kind": "social" }
+  { "id": "current-archaeology", "name": "Current Archaeology (UK)", "url": "https://the-past.com/feed/", "lang": "en", "region": "europe" },
+  { "id": "historic-england", "name": "Historic England", "url": "https://historicengland.org.uk/whats-new/news/rss/", "lang": "en", "region": "europe" },
+  { "id": "irish-archaeology", "name": "Irish Archaeology", "url": "https://irisharchaeology.ie/feed/", "lang": "en", "region": "europe" },
+  { "id": "medievalists", "name": "Medievalists.net", "url": "https://www.medievalists.net/feed/", "lang": "en", "region": "europe" },
+  { "id": "thehistoryblog", "name": "The History Blog", "url": "https://www.thehistoryblog.com/feed", "lang": "en", "region": "world" }
 ]
