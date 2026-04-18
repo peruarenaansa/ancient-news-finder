@@ -3,21 +3,18 @@ import { Loader2, RefreshCw } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { NewsHeader } from '@/components/NewsHeader';
 import { NewsFilters } from '@/components/NewsFilters';
-import { NewsCard } from '@/components/NewsCard';
+import { NewsList } from '@/components/NewsList';
 import { useNewsFeed } from '@/hooks/use-news-feed';
 import { useNewsFilters } from '@/hooks/use-news-filters';
 import { useLocalStorageSet } from '@/hooks/use-local-storage-set';
 import { useSavedItems } from '@/hooks/use-saved-items';
-import { useState } from 'react';
+import { normalizeText } from '@/lib/normalize-text';
 import type { NewsItem, NewsLang, NewsRegion } from '@/lib/news-types';
-
-const PAGE_SIZE = 25;
 
 const Index = () => {
   const { feed, loading, error } = useNewsFeed();
   const { filters, update, reset, isFiltered } = useNewsFilters();
   const { query, region, lang, showSavedOnly, showRead } = filters;
-  const [page, setPage] = useState(1);
 
   const { isSaved, toggle: toggleSaved, savedList, size: savedSize } = useSavedItems();
   const { set: read, add: markRead, addMany: markManyRead } = useLocalStorageSet('archaeo:read');
@@ -65,7 +62,6 @@ const Index = () => {
     });
   }, [filtered, region, query, lang, showSavedOnly]);
 
-
   const hiddenReadCount = useMemo(() => {
     if (!feed || showRead || showSavedOnly) return 0;
     return feed.items.filter((it) => read.has(it.id)).length;
@@ -104,10 +100,7 @@ const Index = () => {
       })
     : null;
 
-  const resetFilters = () => {
-    reset();
-    setPage(1);
-  };
+  const resetFilters = () => reset();
 
   const allVisibleAlreadyRead = sorted.length > 0 && sorted.every((it) => read.has(it.id));
 
@@ -161,7 +154,7 @@ const Index = () => {
           </div>
         )}
 
-        {!loading && !error && visible.length > 0 && (
+        {!loading && !error && sorted.length > 0 && (
           <>
             <div
               className="mb-3 flex items-center justify-between text-xs text-muted-foreground"
@@ -181,31 +174,17 @@ const Index = () => {
               )}
             </div>
 
-            <ul className="space-y-3" role="list">
-              {visible.map((item) => (
-                <li key={item.id}>
-                  <NewsCard
-                    item={item}
-                    saved={isSaved(item.id)}
-                    read={read.has(item.id)}
-                    onToggleSave={() => toggleSaved(item)}
-                    onMarkRead={() => markRead(item.id)}
-                  />
-                </li>
-              ))}
-            </ul>
-
-            {hasMore && (
-              <div className="mt-6 flex justify-center">
-                <Button variant="outline" onClick={() => setPage((p) => p + 1)}>
-                  Gehiago kargatu
-                </Button>
-              </div>
-            )}
+            <NewsList
+              items={sorted}
+              isSaved={isSaved}
+              isRead={(id) => read.has(id)}
+              onToggleSave={toggleSaved}
+              onMarkRead={markRead}
+            />
           </>
         )}
 
-        {!loading && !error && feed && feed.items.length > 0 && visible.length === 0 && (
+        {!loading && !error && feed && feed.items.length > 0 && sorted.length === 0 && (
           <div className="rounded-lg border border-dashed p-10 text-center">
             <p className="text-muted-foreground">
               Ez dago bat datorren albisterik.
