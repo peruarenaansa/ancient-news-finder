@@ -1,7 +1,14 @@
-import { ExternalLink, Bookmark, BookmarkCheck, Check } from 'lucide-react';
+import { ExternalLink, Bookmark, BookmarkCheck, Check, FilePlus, StickyNote } from 'lucide-react';
+import {
+  DropdownMenu,
+  DropdownMenuContent,
+  DropdownMenuItem,
+  DropdownMenuTrigger,
+} from '@/components/ui/dropdown-menu';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import { cn } from '@/lib/utils';
+import { buildCreateOnGithubUrl } from '@/lib/create-article-url';
 import {
   LANG_FLAGS,
   LANG_LABELS,
