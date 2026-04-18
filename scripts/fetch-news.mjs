@@ -269,7 +269,82 @@ const parser = new Parser({
   },
 });
 
+// OpenAlex API: aldizkari akademikoetarako (RSSrik ez dutenak)
+// kind:'openalex' + issn edo openalexId zehaztu sources.json-en
+async function fetchOpenAlexSource(source) {
+  const startedAt = Date.now();
+  try {
+    let filter;
+    if (source.issn) {
+      filter = `primary_location.source.issn:${source.issn}`;
+    } else if (source.openalexId) {
+      filter = `primary_location.source.id:${source.openalexId}`;
+    } else {
+      throw new Error('OpenAlex iturriak issn edo openalexId behar du');
+    }
+    const url = `https://api.openalex.org/works?filter=${filter}&sort=publication_date:desc&per-page=30&mailto=archaeo-news-bot@example.com`;
+    const res = await fetch(url, {
+      headers: { 'User-Agent': 'ArchaeoNewsBot/1.0 (mailto:archaeo-news-bot@example.com)' },
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    const works = data.results || [];
+    let droppedOffTopic = 0;
+    let droppedModern = 0;
+    const filtered = works
+      .map((w) => {
+        const title = w.title || w.display_name || '';
+        // Abstract OpenAlex-en inverted index gisa dator → berreraiki
+        let abstract = '';
+        if (w.abstract_inverted_index) {
+          const positions = [];
+          for (const [word, idxs] of Object.entries(w.abstract_inverted_index)) {
+            for (const i of idxs) positions[i] = word;
+          }
+          abstract = positions.filter(Boolean).join(' ');
+        }
+        const text = `${title} ${abstract}`;
+
+        if (isOffTopic(text)) { droppedOffTopic++; return null; }
+        if (isModernEra(text)) { droppedModern++; return null; }
+
+        const link = w.primary_location?.landing_page_url || w.doi || w.id;
+        if (!link) return null;
+
+        return {
+          id: `${source.id}:${w.id}`,
+          title: stripHtml(title),
+          summary: summarize(abstract || title, 280),
+          url: link,
+          image: null,
+          publishedAt: w.publication_date
+            ? new Date(w.publication_date).toISOString()
+            : new Date().toISOString(),
+          source: { id: source.id, name: source.name },
+          lang: source.lang,
+          region: detectRegion(text, source.region),
+          topics: detectTopics(text),
+        };
+      })
+      .filter(Boolean);
+    const elapsed = Date.now() - startedAt;
+    console.log(`✓ ${source.name} [openalex]: ${filtered.length}/${works.length} albiste (off-topic: ${droppedOffTopic}, modern: ${droppedModern}, ${elapsed}ms)`);
+    return {
+      items: filtered,
+      status: { id: source.id, ok: true, fetched: works.length, kept: filtered.length, droppedOffTopic, droppedModern, elapsedMs: elapsed },
+    };
+  } catch (err) {
+    const elapsed = Date.now() - startedAt;
+    console.warn(`✗ ${source.name} [openalex]: ${err.message}`);
+    return {
+      items: [],
+      status: { id: source.id, ok: false, error: err.message, elapsedMs: elapsed },
+    };
+  }
+}
+
 async function fetchSource(source) {
+  if (source.kind === 'openalex') return fetchOpenAlexSource(source);
   const startedAt = Date.now();
   try {
     const feed = await parser.parseURL(source.url);
