@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react';
-import { Search, Loader2, RefreshCw, Bookmark, CheckCheck } from 'lucide-react';
+import { Search, Loader2, RefreshCw, Bookmark, CheckCheck, Eye, EyeOff } from 'lucide-react';
 import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
@@ -10,6 +10,17 @@ import {
   SelectTrigger,
   SelectValue,
 } from '@/components/ui/select';
+import {
+  AlertDialog,
+  AlertDialogAction,
+  AlertDialogCancel,
+  AlertDialogContent,
+  AlertDialogDescription,
+  AlertDialogFooter,
+  AlertDialogHeader,
+  AlertDialogTitle,
+  AlertDialogTrigger,
+} from '@/components/ui/alert-dialog';
 import { ThemeToggle } from '@/components/ThemeToggle';
 import { NewsCard } from '@/components/NewsCard';
 import { useLocalStorageSet } from '@/hooks/use-local-storage-set';
@@ -33,6 +44,7 @@ const Index = () => {
   const [region, setRegion] = useState<NewsRegion | 'all'>('all');
   const [lang, setLang] = useState<NewsLang | 'all'>('all');
   const [showSavedOnly, setShowSavedOnly] = useState(false);
+  const [showRead, setShowRead] = useState(false);
   const [page, setPage] = useState(1);
 
   const { set: saved, toggle: toggleSaved } = useLocalStorageSet('archaeo:saved');
@@ -63,16 +75,16 @@ const Index = () => {
     const q = query.trim().toLowerCase();
     return feed.items.filter((it) => {
       if (showSavedOnly && !saved.has(it.id)) return false;
+      if (!showRead && !showSavedOnly && read.has(it.id)) return false;
       if (region !== 'all' && it.region !== region) return false;
       if (lang !== 'all' && it.lang !== lang) return false;
-      // (gai-iragazkia kenduta)
       if (q) {
         const hay = `${it.title} ${it.summary} ${it.source.name}`.toLowerCase();
         if (!hay.includes(q)) return false;
       }
       return true;
     });
-  }, [feed, query, region, lang, showSavedOnly, saved]);
+  }, [feed, query, region, lang, showSavedOnly, showRead, saved, read]);
 
   // Euskal Herriko albisteak gainean lehenetsi (iragazkirik gabe denean)
   const sorted = useMemo(() => {
@@ -89,6 +101,11 @@ const Index = () => {
   const visible = sorted.slice(0, page * PAGE_SIZE);
   const hasMore = visible.length < sorted.length;
 
+  const hiddenReadCount = useMemo(() => {
+    if (!feed || showRead || showSavedOnly) return 0;
+    return feed.items.filter((it) => read.has(it.id)).length;
+  }, [feed, read, showRead, showSavedOnly]);
+
   const generatedDate = feed
     ? new Date(feed.generatedAt).toLocaleString('eu-ES', {
         dateStyle: 'medium',
@@ -101,8 +118,11 @@ const Index = () => {
     setRegion('all');
     setLang('all');
     setShowSavedOnly(false);
+    setShowRead(false);
     setPage(1);
   };
+
+  const allVisibleAlreadyRead = sorted.length > 0 && sorted.every((it) => read.has(it.id));
 
   return (
     <div className="min-h-screen bg-background">
@@ -180,15 +200,48 @@ const Index = () => {
               </Button>
 
               <Button
-                variant="outline"
+                variant={showRead ? 'default' : 'outline'}
                 size="sm"
-                onClick={() => markManyRead(sorted.map((it) => it.id))}
-                disabled={sorted.length === 0 || sorted.every((it) => read.has(it.id))}
-                title="Markatu iragazitako albiste guztiak irakurritzat"
+                onClick={() => { setShowRead((s) => !s); setPage(1); }}
+                disabled={showSavedOnly}
+                title={showRead ? 'Ezkutatu irakurritakoak' : 'Erakutsi irakurritakoak ere'}
               >
-                <CheckCheck className="mr-1 h-4 w-4" />
-                Denak irakurrita
+                {showRead ? <EyeOff className="mr-1 h-4 w-4" /> : <Eye className="mr-1 h-4 w-4" />}
+                {showRead ? 'Ezkutatu irakurriak' : 'Erakutsi irakurriak'}
+                {!showRead && hiddenReadCount > 0 && (
+                  <Badge variant="secondary" className="ml-2">{hiddenReadCount}</Badge>
+                )}
               </Button>
+
+              <AlertDialog>
+                <AlertDialogTrigger asChild>
+                  <Button
+                    variant="outline"
+                    size="sm"
+                    disabled={sorted.length === 0 || allVisibleAlreadyRead}
+                    title="Markatu zerrendako albiste guztiak irakurritzat"
+                  >
+                    <CheckCheck className="mr-1 h-4 w-4" />
+                    Denak irakurrita
+                  </Button>
+                </AlertDialogTrigger>
+                <AlertDialogContent>
+                  <AlertDialogHeader>
+                    <AlertDialogTitle>Markatu denak irakurritzat?</AlertDialogTitle>
+                    <AlertDialogDescription>
+                      Une honetan zerrendan ageri diren {sorted.length} albisteak irakurritzat
+                      markatuko dira. Aurrerantzean ez dira agertuko, "Erakutsi irakurriak"
+                      botoia sakatzen ez baduzu.
+                    </AlertDialogDescription>
+                  </AlertDialogHeader>
+                  <AlertDialogFooter>
+                    <AlertDialogCancel>Utzi</AlertDialogCancel>
+                    <AlertDialogAction onClick={() => markManyRead(sorted.map((it) => it.id))}>
+                      Bai, markatu denak
+                    </AlertDialogAction>
+                  </AlertDialogFooter>
+                </AlertDialogContent>
+              </AlertDialog>
             </div>
           </div>
         </div>
@@ -230,8 +283,13 @@ const Index = () => {
         {!loading && !error && visible.length > 0 && (
           <>
             <div className="mb-3 flex items-center justify-between text-xs text-muted-foreground">
-              <span>{sorted.length} albiste {showSavedOnly ? 'gordeta' : 'iragazi ondoren'}</span>
-              {(query || region !== 'all' || lang !== 'all' || showSavedOnly) && (
+              <span>
+                {sorted.length} albiste {showSavedOnly ? 'gordeta' : 'iragazi ondoren'}
+                {!showRead && !showSavedOnly && hiddenReadCount > 0 && (
+                  <> · {hiddenReadCount} irakurri ezkutatuta</>
+                )}
+              </span>
+              {(query || region !== 'all' || lang !== 'all' || showSavedOnly || showRead) && (
                 <Button variant="ghost" size="sm" onClick={resetFilters}>
                   <RefreshCw className="mr-1 h-3 w-3" /> Garbitu iragazkiak
                 </Button>
@@ -263,7 +321,12 @@ const Index = () => {
 
         {!loading && !error && feed && feed.items.length > 0 && visible.length === 0 && (
           <div className="rounded-lg border border-dashed p-10 text-center">
-            <p className="text-muted-foreground">Ez dago bat datorren albisterik.</p>
+            <p className="text-muted-foreground">
+              Ez dago bat datorren albisterik.
+              {!showRead && !showSavedOnly && hiddenReadCount > 0 && (
+                <> Agian denak irakurrita daude — sakatu "Erakutsi irakurriak".</>
+              )}
+            </p>
             <Button variant="ghost" size="sm" className="mt-2" onClick={resetFilters}>
               Garbitu iragazkiak
             </Button>
