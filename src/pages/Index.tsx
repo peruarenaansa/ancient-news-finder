@@ -142,6 +142,16 @@ const Index = () => {
     return feed.items.filter((it) => read.has(it.id)).length;
   }, [feed, read, showRead, showSavedOnly]);
 
+  // Feed-eko hizkuntzak bakarrik agertu iragazkian, kopuruarekin batera.
+  const availableLangs = useMemo(() => {
+    if (!feed) return [] as Array<{ code: NewsLang; count: number }>;
+    const counts = new Map<NewsLang, number>();
+    for (const it of feed.items) counts.set(it.lang, (counts.get(it.lang) ?? 0) + 1);
+    return [...counts.entries()]
+      .map(([code, count]) => ({ code, count }))
+      .sort((a, b) => b.count - a.count);
+  }, [feed]);
+
   const generatedDate = feed
     ? new Date(feed.generatedAt).toLocaleString('eu-ES', {
         dateStyle: 'medium',
@@ -220,8 +230,10 @@ const Index = () => {
                 <SelectTrigger className="w-[140px]"><SelectValue placeholder="Hizkuntza" /></SelectTrigger>
                 <SelectContent>
                   <SelectItem value="all">Hizkuntza guztiak</SelectItem>
-                  {(Object.keys(LANG_LABELS) as NewsLang[]).map((l) => (
-                    <SelectItem key={l} value={l}>{LANG_LABELS[l]}</SelectItem>
+                  {availableLangs.map(({ code, count }) => (
+                    <SelectItem key={code} value={code}>
+                      {LANG_LABELS[code]} ({count})
+                    </SelectItem>
                   ))}
                 </SelectContent>
               </Select>
@@ -231,7 +243,11 @@ const Index = () => {
                 size="sm"
                 onClick={() => { setShowSavedOnly((s) => !s); setPage(1); }}
                 aria-pressed={showSavedOnly}
-                className={showSavedOnly ? 'border-primary text-primary' : ''}
+                className={
+                  showSavedOnly
+                    ? 'border-primary bg-primary/10 text-primary hover:bg-primary/15 hover:text-primary'
+                    : 'hover:bg-muted hover:text-foreground'
+                }
               >
                 <Bookmark className={`mr-1 h-4 w-4 ${showSavedOnly ? 'fill-current' : ''}`} />
                 Gogokoak {savedSize > 0 && <Badge variant="secondary" className="ml-2">{savedSize}</Badge>}
