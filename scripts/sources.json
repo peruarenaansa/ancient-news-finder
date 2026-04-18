@@ -60,5 +60,13 @@
 
   { "id": "tan-navarra", "name": "Trabajos de Arqueología Navarra", "url": "https://revistas.navarra.es/index.php/TAN/gateway/plugin/WebFeedGatewayPlugin/rss2", "lang": "es", "region": "basque", "kind": "research" },
 
-  { "id": "habis-us", "name": "Habis — Filología clásica e Historia Antigua (US)", "url": "https://revistascientificas.us.es/index.php/Habis/gateway/plugin/WebFeedGatewayPlugin/rss2", "lang": "es", "region": "iberia", "kind": "research" }
+  { "id": "habis-us", "name": "Habis — Filología clásica e Historia Antigua (US)", "url": "https://revistascientificas.us.es/index.php/Habis/gateway/plugin/WebFeedGatewayPlugin/rss2", "lang": "es", "region": "iberia", "kind": "research" },
+
+  { "id": "munibe-aa", "name": "Munibe Antropologia-Arkeologia (Aranzadi)", "kind": "openalex", "issn": "1132-2217", "lang": "es", "region": "basque" },
+  { "id": "kobie-paleo", "name": "Kobie — Paleoantropología (BFA)", "kind": "openalex", "openalexId": "S4306517496", "lang": "es", "region": "basque" },
+  { "id": "kobie-antropo", "name": "Kobie — Antropología Cultural (BFA)", "kind": "openalex", "openalexId": "S4306517494", "lang": "es", "region": "basque" },
+  { "id": "arkeoikuska", "name": "Arkeoikuska — Eusko Jaurlaritza", "kind": "openalex", "openalexId": "S4306503046", "lang": "es", "region": "basque" },
+  { "id": "isturitz", "name": "Isturitz — Cuadernos de Prehistoria-Arqueología (EI-SEV)", "kind": "openalex", "openalexId": "S4306514581", "lang": "es", "region": "basque" },
+  { "id": "zephyrus-usal", "name": "Zephyrus — Prehistoria y Arqueología (Salamanca)", "kind": "openalex", "openalexId": "S4306535689", "lang": "es", "region": "iberia" },
+  { "id": "trabajos-prehistoria", "name": "Trabajos de Prehistoria (CSIC)", "kind": "openalex", "issn": "0082-5638", "lang": "es", "region": "iberia" }
 ]
