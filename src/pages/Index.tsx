@@ -233,12 +233,17 @@ const Index = () => {
             </div>
             <div className="flex flex-wrap gap-2">
               <Select value={region} onValueChange={(v) => { setRegion(v as never); setPage(1); }}>
-                <SelectTrigger className="w-[150px]"><SelectValue placeholder="Eskualdea" /></SelectTrigger>
+                <SelectTrigger className="w-[170px]"><SelectValue placeholder="Eskualdea" /></SelectTrigger>
                 <SelectContent>
                   <SelectItem value="all">Eskualde guztiak</SelectItem>
-                  {(Object.keys(REGION_LABELS) as NewsRegion[]).map((r) => (
-                    <SelectItem key={r} value={r}>{REGION_LABELS[r]}</SelectItem>
-                  ))}
+                  {(Object.keys(REGION_LABELS) as NewsRegion[]).map((r) => {
+                    const count = regionCounts.get(r) ?? 0;
+                    return (
+                      <SelectItem key={r} value={r} disabled={count === 0}>
+                        {REGION_LABELS[r]} ({count})
+                      </SelectItem>
+                    );
+                  })}
                 </SelectContent>
               </Select>
 
