@@ -1,6 +1,1227 @@
 {
-  "generatedAt": "2025-01-01T00:00:00.000Z",
-  "count": 0,
-  "sources": [],
-  "items": []
+  "generatedAt": "2026-04-18T08:08:39.739Z",
+  "count": 68,
+  "sources": [
+    {
+      "id": "berria",
+      "name": "Berria",
+      "lang": "eu",
+      "region": "basque"
+    },
+    {
+      "id": "argia",
+      "name": "Argia",
+      "lang": "eu",
+      "region": "basque"
+    },
+    {
+      "id": "eitb-kultura",
+      "name": "EITB Kultura",
+      "lang": "eu",
+      "region": "basque"
+    },
+    {
+      "id": "aranzadi",
+      "name": "Aranzadi Zientzia Elkartea",
+      "lang": "eu",
+      "region": "basque"
+    },
+    {
+      "id": "elpais-cultura",
+      "name": "El País — Cultura",
+      "lang": "es",
+      "region": "iberia"
+    },
+    {
+      "id": "abc-cultura",
+      "name": "ABC Cultura",
+      "lang": "es",
+      "region": "iberia"
+    },
+    {
+      "id": "eldiario-cultura",
+      "name": "elDiario.es — Cultura",
+      "lang": "es",
+      "region": "iberia"
+    },
+    {
+      "id": "ngeo-historia-es",
+      "name": "National Geographic Historia (ES)",
+      "lang": "es",
+      "region": "iberia"
+    },
+    {
+      "id": "heritage-daily",
+      "name": "Heritage Daily",
+      "lang": "en",
+      "region": "world"
+    },
+    {
+      "id": "archaeology-mag",
+      "name": "Archaeology Magazine",
+      "lang": "en",
+      "region": "world"
+    },
+    {
+      "id": "live-science-arch",
+      "name": "Live Science — Archaeology",
+      "lang": "en",
+      "region": "world"
+    },
+    {
+      "id": "smithsonian",
+      "name": "Smithsonian Magazine",
+      "lang": "en",
+      "region": "world"
+    },
+    {
+      "id": "bbc-history",
+      "name": "BBC History Extra",
+      "lang": "en",
+      "region": "europe"
+    },
+    {
+      "id": "phys-arch",
+      "name": "Phys.org — Archaeology",
+      "lang": "en",
+      "region": "world"
+    },
+    {
+      "id": "sciencedaily-arch",
+      "name": "ScienceDaily — Archaeology",
+      "lang": "en",
+      "region": "world"
+    },
+    {
+      "id": "ancient-origins",
+      "name": "Ancient Origins",
+      "lang": "en",
+      "region": "world"
+    },
+    {
+      "id": "lefigaro-histoire",
+      "name": "Le Figaro — Histoire",
+      "lang": "fr",
+      "region": "europe"
+    },
+    {
+      "id": "lemonde-sciences",
+      "name": "Le Monde — Sciences",
+      "lang": "fr",
+      "region": "europe"
+    },
+    {
+      "id": "spiegel-wissenschaft",
+      "name": "Der Spiegel — Wissenschaft",
+      "lang": "de",
+      "region": "europe"
+    }
+  ],
+  "items": [
+    {
+      "id": "live-science-arch:https://www.livescience.com/health/neuroscience/science-history-doctor-autopsies-the-brain-of-a-man-who-couldnt-speak-and-reveals-the-seat-of-spoken-language-april-18-1861",
+      "title": "Science history: Doctor autopsies the brain of a man who couldn't speak — and reveals the seat of spoken language — April 18, 1861",
+      "summary": "Dr. Paul Broca conducted an autopsy on a patient known as \"Tan,\" who had aphasia, or the inability to speak. Broca's work identified a region of the brain that is key to spoken language.",
+      "url": "https://www.livescience.com/health/neuroscience/science-history-doctor-autopsies-the-brain-of-a-man-who-couldnt-speak-and-reveals-the-seat-of-spoken-language-april-18-1861",
+      "image": "https://cdn.mos.cms.futurecdn.net/XXJaFtR7U36yh5fRQswwAJ-1280-80.jpg",
+      "publishedAt": "2026-04-18T06:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "elpais-cultura:https://elpais.com/cultura/2026-04-18/un-estudio-fisico-matematico-senala-las-aguas-de-tarifa-como-el-lugar-donde-se-hundio-en-1895-el-gran-crucero-reina-regente.html",
+      "title": "Un estudio físico-matemático señala las aguas de Tarifa como el lugar donde se hundió en 1895 el gran crucero ‘Reina Regente’",
+      "summary": "Hasta el momento, todas las expediciones para encontrar el pecio y la tumba de 412 marinos han fracasado",
+      "url": "https://elpais.com/cultura/2026-04-18/un-estudio-fisico-matematico-senala-las-aguas-de-tarifa-como-el-lugar-donde-se-hundio-en-1895-el-gran-crucero-reina-regente.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/WWOR4XXBF5D6ZFSC7MIPH3A4RU.jpg?auth=8f0d4071708e74cb33875ebffc06b5f75a21097eb5590c5b9b66e257c2c8d5b5",
+      "publishedAt": "2026-04-18T03:30:01.000Z",
+      "source": {
+        "id": "elpais-cultura",
+        "name": "El País — Cultura"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": []
+    },
+    {
+      "id": "elpais-cultura:https://elpais.com/cultura/2026-04-18/la-doble-mirada-de-montgomery-clift.html",
+      "title": "La doble mirada de Montgomery Clift",
+      "summary": "En esos momentos en que uno de chaval sueña tumbado boca arriba con las manos en la nuca qué será de mayor, imaginaba si estaría dispuesto a darlo todo a cambio de que un día me sentara tan bien el esmoquin como a Clift",
+      "url": "https://elpais.com/cultura/2026-04-18/la-doble-mirada-de-montgomery-clift.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZWMETGQMFNCPTCWIREA2AO27YA.jpg?auth=bf9b05de596fa3bb2a9897b4a67543a32c3558174321753fbee0e577564b6781",
+      "publishedAt": "2026-04-18T03:30:01.000Z",
+      "source": {
+        "id": "elpais-cultura",
+        "name": "El País — Cultura"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": []
+    },
+    {
+      "id": "elpais-cultura:https://elpais.com/cultura/2026-04-18/la-apertura-del-circulo-de-bellas-artes-una-explosion-de-irreverencia-y-creatividad.html",
+      "title": "La apertura del Círculo de Bellas Artes, una explosión de irreverencia y creatividad",
+      "summary": "La exposición ‘Eclosión’ recorre la historia de la institución en los últimos años del siglo XX tras décadas de censura",
+      "url": "https://elpais.com/cultura/2026-04-18/la-apertura-del-circulo-de-bellas-artes-una-explosion-de-irreverencia-y-creatividad.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/L6RGHZHYIFFTLJE7NNZESSP2IU.jpg?auth=30165cccdadc573d689edfdcaed2b15b04d6de279da095a529a64a2d473a448f",
+      "publishedAt": "2026-04-18T03:30:01.000Z",
+      "source": {
+        "id": "elpais-cultura",
+        "name": "El País — Cultura"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "museoak"
+      ]
+    },
+    {
+      "id": "elpais-cultura:https://elpais.com/cultura/2026-04-18/una-reflexion-sobre-el-colonialismo-y-sus-secuelas-hasta-hoy-en-el-corazon-de-europa.html",
+      "title": "Una reflexión sobre el colonialismo y sus secuelas hasta hoy en el corazón de Europa",
+      "summary": "La Casa de la Historia Europea en Bruselas inaugura ‘¿Poscolonial?’, una exposición que recorre el pasado colonial de Europa y su influencia y peso en el mundo contemporáneo, dentro y fuera de las fronteras del Viejo Continente",
+      "url": "https://elpais.com/cultura/2026-04-18/una-reflexion-sobre-el-colonialismo-y-sus-secuelas-hasta-hoy-en-el-corazon-de-europa.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/EQLXR4R7MVH7XOWONKRSZYTA6Y.jpg?auth=b6f20445be957b4f41aeaff9764b517985961d5bd9d3cabc640c074009bb742d",
+      "publishedAt": "2026-04-18T03:30:01.000Z",
+      "source": {
+        "id": "elpais-cultura",
+        "name": "El País — Cultura"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "museoak"
+      ]
+    },
+    {
+      "id": "abc-cultura:https://www.abc.es/cultura/arte/calder-gran-funambulista-arte-regresa-paris-cien-20260418041325-nt.html",
+      "title": "Calder, el funambulista del arte, regresa a París un siglo después",
+      "summary": "Llevaba el arte en el ADN: su madre era pintora, su padre y su abuelo, escultores. «No me criaron, me enmarcaron», decía. Sin embargo, se graduó en ingeniería mecánica. Pero como los genes tiran mucho era inevitable su vocación artística. Se formó en la Arts Students League de…",
+      "url": "https://www.abc.es/cultura/arte/calder-gran-funambulista-arte-regresa-paris-cien-20260418041325-nt.html",
+      "image": null,
+      "publishedAt": "2026-04-18T02:13:25.000Z",
+      "source": {
+        "id": "abc-cultura",
+        "name": "ABC Cultura"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "amerika",
+        "museoak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/ancient-egyptians/archaeologists-discover-perfectly-circular-ancient-egyptian-temple-that-may-have-been-used-for-sacred-water-rituals",
+      "title": "Archaeologists discover perfectly circular ancient Egyptian temple that may have been used for sacred water rituals",
+      "summary": "The temple included a network of water infrastructure, revealing the importance of the ancient city and the Nile.",
+      "url": "https://www.livescience.com/archaeology/ancient-egyptians/archaeologists-discover-perfectly-circular-ancient-egyptian-temple-that-may-have-been-used-for-sacred-water-rituals",
+      "image": "https://cdn.mos.cms.futurecdn.net/hieL5s7hjqSaXjEt4TUyT7-1280-80.png",
+      "publishedAt": "2026-04-17T20:59:20.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "egiptoarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "abc-cultura:https://www.abc.es/cultura/toros/roca-aguado-sevilla-20260417214518-nt.html",
+      "title": "Y Aguado hizo la luz entre las sombras de Morante",
+      "summary": "Entramos a la plaza más viejos, más rotos, más heridos. No habían transcurrido ni 24 horas de lo de José Antonio -que ya no es nombre, sino verbo- y nos parecía una eternidad. Tuvo que resucitar el toreo que abarcaba siglos para que los demás muriésemos un poco. Porque mientras…",
+      "url": "https://www.abc.es/cultura/toros/roca-aguado-sevilla-20260417214518-nt.html",
+      "image": null,
+      "publishedAt": "2026-04-17T19:45:18.000Z",
+      "source": {
+        "id": "abc-cultura",
+        "name": "ABC Cultura"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": []
+    },
+    {
+      "id": "abc-cultura:https://www.abc.es/cultura/musica/coachella-icono-antisistema-cumbre-pijerio-mundial-20260417184235-nt.html",
+      "title": "Coachella, de icono antisistema a cumbre del pijerío mundial",
+      "summary": "Una de las actuaciones más esperadas de la primera jornada de Coachella , el pasado fin de semana, fue la de Justin Bieber. La gente creía que daría un espectáculo a lo grande, pero se subió al escenario principal en calzoncillos, conectó su ordenador portátil a la pantalla…",
+      "url": "https://www.abc.es/cultura/musica/coachella-icono-antisistema-cumbre-pijerio-mundial-20260417184235-nt.html",
+      "image": null,
+      "publishedAt": "2026-04-17T16:42:35.000Z",
+      "source": {
+        "id": "abc-cultura",
+        "name": "ABC Cultura"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "amerika",
+        "asia",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "abc-cultura:https://www.abc.es/cultura/toros/sevilla/morante-rescata-toreo-anos-sevilla-traje-historico-20260417183341-nts.html",
+      "title": "Morante rescata el toreo de los años 30 en Sevilla con un traje histórico: los detalles del 'Rioja y Oro'",
+      "summary": "En una tarde que ya forma parte de la historia reciente de la Real Maestranza de Sevilla, hubo un elemento que, más allá de la faena, concentró todas las miradas desde el primer paseíllo: el traje. Morante de la Puebla no vistió un traje de luces cualquiera . Estrenó el «Rioja y…",
+      "url": "https://www.abc.es/cultura/toros/sevilla/morante-rescata-toreo-anos-sevilla-traje-historico-20260417183341-nts.html",
+      "image": null,
+      "publishedAt": "2026-04-17T16:33:48.000Z",
+      "source": {
+        "id": "abc-cultura",
+        "name": "ABC Cultura"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": []
+    },
+    {
+      "id": "abc-cultura:https://www.abc.es/cultura/toros/sevilla/toros-sevilla-directo-sigue-corrida-viernes-abril-20260417143618-dis.html",
+      "title": "Toros en Sevilla, en directo: sigue la corrida del viernes 17 de abril con Talavante, Roca Rey y Pablo Aguado",
+      "summary": "Se estrenan en la Feria de Abril los diestros Talavante y Pablo Aguado, y cumple Roca Rey con su segunda tarde en el coso maestrante. Un cartel, en suma, de poderío, con toros de Domingo Hernández, ganadería charra que ya es historia de la Maestranza por 'Ligerito', el toro al…",
+      "url": "https://www.abc.es/cultura/toros/sevilla/toros-sevilla-directo-sigue-corrida-viernes-abril-20260417143618-dis.html",
+      "image": null,
+      "publishedAt": "2026-04-17T15:36:47.000Z",
+      "source": {
+        "id": "abc-cultura",
+        "name": "ABC Cultura"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": []
+    },
+    {
+      "id": "elpais-cultura:https://elpais.com/cultura/2026-04-17/los-dos-goya-que-sevilla-encargo-en-1789-regresan-definitivamente.html",
+      "title": "Los dos cuadros de Goya que Sevilla encargó en 1789 regresan definitivamente",
+      "summary": "El Gobierno asigna al Museo de Bellas Artes los retratos de Carlos IV y María Luisa de Parma, último paso tras el largo litigio con Altadis por su propiedad que dio la razón al Estado",
+      "url": "https://elpais.com/cultura/2026-04-17/los-dos-goya-que-sevilla-encargo-en-1789-regresan-definitivamente.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/MBOSJDSPWFDBTLP7QYAM2QNKXY.jpg?auth=de466ff10373b131dc7210b9bc2fd41c33554943d533b077874c1a4ce853d92d",
+      "publishedAt": "2026-04-17T15:18:53.000Z",
+      "source": {
+        "id": "elpais-cultura",
+        "name": "El País — Cultura"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "museoak"
+      ]
+    },
+    {
+      "id": "abc-cultura:https://www.abc.es/cultura/cultural/especial-sant-jordi-2026-sobre-gran-fiesta-20260417164841-nt.html",
+      "title": "Especial Sant Jordi 2026. Todo sobre la gran fiesta del libro y la lectura",
+      "summary": "El 23 de abril es el Día del Libro, la fiesta grande de la literatura y la lectura. Sobre todo se celebra en Cataluña, donde es una asentada tradición regalar libros y rosas. ABC Cultural ofrece un imperdible número extraordinario sobre Sant Jordi para conocer mejor y disfrutar…",
+      "url": "https://www.abc.es/cultura/cultural/especial-sant-jordi-2026-sobre-gran-fiesta-20260417164841-nt.html",
+      "image": null,
+      "publishedAt": "2026-04-17T14:16:08.000Z",
+      "source": {
+        "id": "abc-cultura",
+        "name": "ABC Cultura"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "museoak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "bbc-history:https://www.historyextra.com/membership/40000-years-ago-ancestors-strange-symbols-what-do-they-mean/",
+      "title": "40,000 years ago, our ancestors left these strange symbols behind. What do they really mean?",
+      "summary": "Research has unveiled a 43,000-year-old system of symbols – but is it evidence of a forerunner of writing systems, or something altogether different?",
+      "url": "https://www.historyextra.com/membership/40000-years-ago-ancestors-strange-symbols-what-do-they-mean/",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/04/Stone-Age-WL-AN-1a9d9a7.jpg",
+      "publishedAt": "2026-04-17T13:13:28.000Z",
+      "source": {
+        "id": "bbc-history",
+        "name": "BBC History Extra"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "spiegel-wissenschaft:https://www.spiegel.de/wissenschaft/natur/griechenland-antike-staetten-sollen-fuer-folgen-des-klimawandels-gewappnet-werden-a-3cc56218-91d7-41eb-bc15-fc231c19fb55#ref=rss",
+      "title": "Griechenland: Antike Stätten sollen für Folgen des Klimawandels gewappnet werden",
+      "summary": "Für Fans der Antike ist Griechenland ein Paradies. Damit das auch in Zeiten der Klimakrise so bleibt, sollen die Planungen für den Schutz von Freiluft-Monumenten und Touristen vorangetrieben werden.",
+      "url": "https://www.spiegel.de/wissenschaft/natur/griechenland-antike-staetten-sollen-fuer-folgen-des-klimawandels-gewappnet-werden-a-3cc56218-91d7-41eb-bc15-fc231c19fb55#ref=rss",
+      "image": "https://cdn.prod.www.spiegel.de/images/6f40aff5-0001-0004-0000-000001319437_w520_r2.08_fpx50_fpy62.jpg",
+      "publishedAt": "2026-04-17T11:18:00.000Z",
+      "source": {
+        "id": "spiegel-wissenschaft",
+        "name": "Der Spiegel — Wissenschaft"
+      },
+      "lang": "de",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "bbc-history:https://www.historyextra.com/period/medieval/9-of-the-worst-monarchs-in-history/",
+      "title": "16 of the worst monarchs in history",
+      "summary": "From the morally bankrupt to the staggeringly inept, Jonny Wilkes guides us through the lives of 16 rulers who wrote their names into the history books for all the wrong reasons",
+      "url": "https://www.historyextra.com/period/medieval/9-of-the-worst-monarchs-in-history/",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2024/12/Worst-monarchs-LEAD-pic-9f03af3.jpg",
+      "publishedAt": "2026-04-17T11:12:27.000Z",
+      "source": {
+        "id": "bbc-history",
+        "name": "BBC History Extra"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "bbc-history:https://www.historyextra.com/membership/would-you-eat-a-mummy-video/",
+      "title": "Would you eat a mummy to cure a disease?",
+      "summary": "Why, in the past, did people eat bits of dead body? And what sort of ailments were they believed to cure? HistoryExtra's Elinor Evans explains more",
+      "url": "https://www.historyextra.com/membership/would-you-eat-a-mummy-video/",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/01/YT-Corpse-Medicine-AN-403cc41.jpg",
+      "publishedAt": "2026-04-17T08:43:54.000Z",
+      "source": {
+        "id": "bbc-history",
+        "name": "BBC History Extra"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "spiegel-wissenschaft:https://www.spiegel.de/wissenschaft/ostsee-wie-der-wal-vor-poel-gerettet-werden-soll-a-59381b27-feda-477a-9e9b-039e9c7e2bb2#ref=rss",
+      "title": "Ostsee: Wie der Wal vor Poel gerettet werden soll",
+      "summary": "Luftkissen, Pontons, Plane: Eine privat organisierte Rettungsaktion will den in der Ostsee gestrandeten Wal zurück in Richtung Atlantik schleppen. Was genau geplant ist und wie es um den Wal steht.",
+      "url": "https://www.spiegel.de/wissenschaft/ostsee-wie-der-wal-vor-poel-gerettet-werden-soll-a-59381b27-feda-477a-9e9b-039e9c7e2bb2#ref=rss",
+      "image": "https://cdn.prod.www.spiegel.de/images/c1773673-9dfb-463d-b398-921e8a5e8e28_w520_r2.08_fpx54_fpy34.jpg",
+      "publishedAt": "2026-04-17T08:32:00.000Z",
+      "source": {
+        "id": "spiegel-wissenschaft",
+        "name": "Der Spiegel — Wissenschaft"
+      },
+      "lang": "de",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "bbc-history:https://www.historyextra.com/period/general-history/weekly-history-quiz/",
+      "title": "Quiz of the week: there is evidence that Henry VIII had how many affairs?",
+      "summary": "How much have you been paying attention to this week's content on HistoryExtra? Test your knowledge with our quiz…",
+      "url": "https://www.historyextra.com/period/general-history/weekly-history-quiz/",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2022/07/Weekly-Quiz-WL-7ab0a2a.jpg",
+      "publishedAt": "2026-04-17T08:30:16.000Z",
+      "source": {
+        "id": "bbc-history",
+        "name": "BBC History Extra"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "bbc-history:https://www.historyextra.com/membership/history-crossword-10-april-2026/",
+      "title": "History crossword: 10 April",
+      "summary": "",
+      "url": "https://www.historyextra.com/membership/history-crossword-10-april-2026/",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/01/Crossword-banner-WL-Archive2-f247d17.jpg",
+      "publishedAt": "2026-04-17T08:29:13.000Z",
+      "source": {
+        "id": "bbc-history",
+        "name": "BBC History Extra"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "bbc-history:https://www.historyextra.com/period/general-history/crossword/",
+      "title": "Can you solve our history crossword of the week?",
+      "summary": "",
+      "url": "https://www.historyextra.com/period/general-history/crossword/",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/01/Crossword-banner-WL-32d2ae3.jpg",
+      "publishedAt": "2026-04-17T08:28:10.000Z",
+      "source": {
+        "id": "bbc-history",
+        "name": "BBC History Extra"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "bbc-history:https://www.historyextra.com/membership/how-to-find-billion-dollar-shipwreck-podcast/",
+      "title": "How to find a billion-dollar shipwreck",
+      "summary": "Julian Sancton tells the extraordinary story of Roger Dooley – a maverick maritime archaeologist who embarked on a decades-long search for a sunken Spanish galleon",
+      "url": "https://www.historyextra.com/membership/how-to-find-billion-dollar-shipwreck-podcast/",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/04/Julian-Sancton-Neptunes-FortuneWL-AN-e12d0b7.jpg",
+      "publishedAt": "2026-04-17T07:49:54.000Z",
+      "source": {
+        "id": "bbc-history",
+        "name": "BBC History Extra"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "bbc-history:https://www.historyextra.com/period/cold-war/what-was-bay-of-pigs-invasion-cia-fidel-castro-jfk-impact/",
+      "title": "The Bay of Pigs Invasion: was this CIA fiasco JFK's worst embarrassment?",
+      "summary": "The botched Bay of Pigs invasion stands as one of several US failings in the 1960s as the Cold War rolled on. Why was it such a disaster?",
+      "url": "https://www.historyextra.com/period/cold-war/what-was-bay-of-pigs-invasion-cia-fidel-castro-jfk-impact/",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/01/Bay-of-Pigs-WL-AN011500-x-1000-62bb34b.jpg",
+      "publishedAt": "2026-04-17T07:38:38.000Z",
+      "source": {
+        "id": "bbc-history",
+        "name": "BBC History Extra"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "elpais-cultura:https://elpais.com/suscripciones/elpaismas/experiencias/2026-04-17/descubre-la-coleccion-arte-contemporaneo-1975-presente-en-el-museo-reina-sofia.html",
+      "title": "Descubre la ‘Colección. Arte Contemporáneo: 1975- Presente’ en el Museo Reina Sofía",
+      "summary": "A través de una visita guiada privada que tendrá lugar el 30 de abril",
+      "url": "https://elpais.com/suscripciones/elpaismas/experiencias/2026-04-17/descubre-la-coleccion-arte-contemporaneo-1975-presente-en-el-museo-reina-sofia.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/F65Q4R7DO5A6RNIQNE5PFB72XU.jpg?auth=ce200197ecbf9f9fb80880661877110a4b01fcb67bb9e5e08d009f6872ea64a2",
+      "publishedAt": "2026-04-17T07:19:18.000Z",
+      "source": {
+        "id": "elpais-cultura",
+        "name": "El País — Cultura"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "museoak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/anglo-saxon-burial-holds-an-older-sister-cradling-her-little-brother-after-they-both-died-1-400-years-ago-possibly-of-an-infectious-disease",
+      "title": "Anglo-Saxon burial holds an older sister cradling her little brother after they both died 1,400 years ago, possibly of an infectious disease",
+      "summary": "An ancient-DNA analysis of a rare Anglo-Saxon double burial revealed the people in the grave were brother and sister.",
+      "url": "https://www.livescience.com/archaeology/anglo-saxon-burial-holds-an-older-sister-cradling-her-little-brother-after-they-both-died-1-400-years-ago-possibly-of-an-infectious-disease",
+      "image": "https://cdn.mos.cms.futurecdn.net/qCFZXF7Ni7YRZPh5bEffrj-1280-80.png",
+      "publishedAt": "2026-04-16T20:42:58.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/planet-earth/rivers-oceans/colorado-river-may-have-pooled-and-spilled-over-to-form-the-grand-canyon-solving-a-long-standing-mystery-but-not-everyone-agrees",
+      "title": "Colorado River may have pooled and spilled over to form the Grand Canyon, solving a long-standing mystery ‪—‬ but not everyone agrees",
+      "summary": "The Colorado River muscled its way through today's Grand Canyon after pooling as a giant lake, according to new research.",
+      "url": "https://www.livescience.com/planet-earth/rivers-oceans/colorado-river-may-have-pooled-and-spilled-over-to-form-the-grand-canyon-solving-a-long-standing-mystery-but-not-everyone-agrees",
+      "image": "https://cdn.mos.cms.futurecdn.net/F2wEugVw4ZEjwHXzVqgoRF-1280-80.jpg",
+      "publishedAt": "2026-04-16T18:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "bbc-history:https://www.historyextra.com/period/medieval/bayeux-tapestry-politics-british-museum-loan/",
+      "title": "Politics and the Bayeux Tapestry: the inside story of the blockbuster loan to the British Museum",
+      "summary": "History’s most famous embroidery has sparked endless fascination and controversy over the circa 950 years since its creation. In the run-up to its arrival in London, David Musgrove spoke to the UK Government’s Envoy for the Bayeux Tapestry Loan, Lord Peter Ricketts",
+      "url": "https://www.historyextra.com/period/medieval/bayeux-tapestry-politics-british-museum-loan/",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/04/Bayeux-Tapestry-WL-AN-06c6403-e1776265815615.jpg",
+      "publishedAt": "2026-04-16T10:44:00.000Z",
+      "source": {
+        "id": "bbc-history",
+        "name": "BBC History Extra"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "museoak"
+      ]
+    },
+    {
+      "id": "bbc-history:https://www.historyextra.com/membership/bayeux-tapestry-loan-podcast-lord-peter-ricketts/",
+      "title": "Is the Bayeux Tapestry coming to Britain or not?",
+      "summary": "Lord Peter Ricketts gives the lowdown on how the Bayeux Tapestry loan is progressing",
+      "url": "https://www.historyextra.com/membership/bayeux-tapestry-loan-podcast-lord-peter-ricketts/",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/04/HBTH-social-sizes-WL-438c80d.jpg",
+      "publishedAt": "2026-04-16T07:30:52.000Z",
+      "source": {
+        "id": "bbc-history",
+        "name": "BBC History Extra"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/space/somethings-missing-most-thorough-ever-study-of-the-cosmos-proves-we-still-cant-explain-how-the-universe-is-expanding",
+      "title": "'Something's missing': Most thorough-ever study of the cosmos proves we still can't explain how the universe is expanding",
+      "summary": "A comprehensive new study combines decades of research to reveal that we're missing an essential component in our understanding of how the universe works.",
+      "url": "https://www.livescience.com/space/somethings-missing-most-thorough-ever-study-of-the-cosmos-proves-we-still-cant-explain-how-the-universe-is-expanding",
+      "image": "https://cdn.mos.cms.futurecdn.net/R8v8g8Bz9TjatbrfyDBTp3-1280-80.jpg",
+      "publishedAt": "2026-04-15T17:45:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/planet-earth/geology/ancient-process-that-created-rare-earth-elements-discovered-and-it-could-help-us-locate-desperately-needed-deposits",
+      "title": "Ancient process that created rare earth elements discovered — and it could help us locate desperately needed deposits",
+      "summary": "A new study suggests rare earth elements form in magma above ancient subduction zones, as that magma reacts with substances that are released when one tectonic plate dives beneath another.",
+      "url": "https://www.livescience.com/planet-earth/geology/ancient-process-that-created-rare-earth-elements-discovered-and-it-could-help-us-locate-desperately-needed-deposits",
+      "image": "https://cdn.mos.cms.futurecdn.net/Ff5QYzuLKhhc7iPKuReCrP-1280-80.jpg",
+      "publishedAt": "2026-04-15T16:18:57.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/animals/extinct-species/strange-mammal-ancestor-laid-huge-leathery-eggs-and-it-was-key-to-surviving-the-worlds-worst-mass-extinction",
+      "title": "Strange mammal ancestor laid huge, leathery eggs —‬ and it was key to surviving the world's worst mass extinction",
+      "summary": "Using synchrotron X-ray CT scans of a fossilized, intact embryo, researchers found evidence that the plant-eating mammal Lystrosaurus laid eggs, which answers a key question about mammalian evolution.",
+      "url": "https://www.livescience.com/animals/extinct-species/strange-mammal-ancestor-laid-huge-leathery-eggs-and-it-was-key-to-surviving-the-worlds-worst-mass-extinction",
+      "image": "https://cdn.mos.cms.futurecdn.net/H5KqFSt7L4HRdcxnRor7Zm-1280-80.jpg",
+      "publishedAt": "2026-04-15T16:15:56.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/04/260415043623.htm",
+      "title": "This 31-foot “terror croc” ate dinosaurs. Now it’s back",
+      "summary": "A massive, bus-sized “terror croc” that once preyed on dinosaurs has been brought back to life in stunning detail with the first scientifically accurate full skeleton of Deinosuchus schwimmeri. Stretching over 30 feet long, this ancient apex predator ruled the southeastern U.S.…",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260415043623.htm",
+      "image": null,
+      "publishedAt": "2026-04-15T13:23:03.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "museoak"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/04/260415011643.htm",
+      "title": "Scientists just solved a 160-million-year fossil mystery “I’ve never seen anything like it”",
+      "summary": "A rare fossil discovery is shedding light on the “missing years” of early sponge evolution. Scientists found a 550-million-year-old sponge that likely lacked hard skeletal parts, explaining why earlier fossils are so scarce. This supports the idea that the earliest sponges were…",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260415011643.htm",
+      "image": null,
+      "publishedAt": "2026-04-15T06:02:43.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/animals/extinct-species/triassic-croc-relative-from-ghost-ranch-new-mexico-finally-identified-after-nearly-80-years-in-museum-basement",
+      "title": "Triassic croc relative from Ghost Ranch, New Mexico finally identified after nearly 80 years in museum basement",
+      "summary": "During the Triassic, a newly described species related to modern crocodiles and alligators stalked prey on land, not the water, a new study finds.",
+      "url": "https://www.livescience.com/animals/extinct-species/triassic-croc-relative-from-ghost-ranch-new-mexico-finally-identified-after-nearly-80-years-in-museum-basement",
+      "image": "https://cdn.mos.cms.futurecdn.net/S2KzCXQNeqzgDbSTUJFjMQ-1280-80.jpg",
+      "publishedAt": "2026-04-14T23:01:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "museoak"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/04/260414075642.htm",
+      "title": "Mammal ancestors laid eggs, and this 250-million-year-old fossil finally proves it",
+      "summary": "In the aftermath of Earth’s most catastrophic extinction event, one unlikely survivor rose to dominate a shattered world: Lystrosaurus. Now, a stunning fossil discovery—an ancient egg containing a curled-up embryo—has finally answered a decades-old mystery about whether mammal…",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260414075642.htm",
+      "image": null,
+      "publishedAt": "2026-04-14T14:20:28.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/physics-mathematics/particle-physics/physicists-just-witnessed-pinpricks-of-darkness-moving-faster-than-the-speed-of-light-without-breaking-the-laws-of-relativity",
+      "title": "Physicists just witnessed pinpricks of darkness moving faster than the speed of light ‪—‬ without breaking the laws of relativity",
+      "summary": "For the first time, researchers measured singularities in combined light and sound waves moving faster than the speed of light. The findings have implications in fluid dynamics, optics and many other fields.",
+      "url": "https://www.livescience.com/physics-mathematics/particle-physics/physicists-just-witnessed-pinpricks-of-darkness-moving-faster-than-the-speed-of-light-without-breaking-the-laws-of-relativity",
+      "image": "https://cdn.mos.cms.futurecdn.net/PQswpbxFMarZgAR3f2jzWf-1280-80.jpg",
+      "publishedAt": "2026-04-14T10:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/planet-earth/arctic/mini-lake-meets-snowy-rim-of-canadas-oldest-ice-mass-earth-from-space",
+      "title": "Mini lake meets snowy rim of Canada's oldest ice mass — Earth from space",
+      "summary": "A 2010 satellite photo shows the point where a small lake bisects the snowy rim of an ancient glacier on Canada's Baffin Island. The rippling, snow-rimmed structure is the last remaining fragment of a colossal ice sheet that once covered large parts of North America.",
+      "url": "https://www.livescience.com/planet-earth/arctic/mini-lake-meets-snowy-rim-of-canadas-oldest-ice-mass-earth-from-space",
+      "image": "https://cdn.mos.cms.futurecdn.net/wqqB6RqDeezRgNRLz7jfdD-1280-80.jpg",
+      "publishedAt": "2026-04-14T07:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "elpais-cultura:https://elpais.com/cultura/2026-04-14/la-doblemente-ausente-camila-caneque.html",
+      "title": "La doblemente ausente Camila Cañeque",
+      "summary": "Acaba de aparecer ‘Anuncios’, extraño manuscrito hallado en los archivos personales de la escritora y que, por lo visto, fue construido en paralelo a ‘La última frase’, el admirado libro que creíamos póstumo y único",
+      "url": "https://elpais.com/cultura/2026-04-14/la-doblemente-ausente-camila-caneque.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/HMFMW27RDVF2TKDAHKTAJPIRUM.jpeg?auth=b216cb45b00e15ca99dea8bc1f4463ad9f867fb763536d4fe69d6bc561db7420",
+      "publishedAt": "2026-04-14T03:30:01.000Z",
+      "source": {
+        "id": "elpais-cultura",
+        "name": "El País — Cultura"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": []
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/stone-age-tombs-in-scotland-reveal-webs-of-descent-among-male-relatives",
+      "title": "Stone Age tombs in Scotland reveal 'webs of descent' among male relatives",
+      "summary": "An analysis of DNA from Stone Age skeletons buried in Scotland reveals how people organized the burial of their dead.",
+      "url": "https://www.livescience.com/archaeology/stone-age-tombs-in-scotland-reveal-webs-of-descent-among-male-relatives",
+      "image": "https://cdn.mos.cms.futurecdn.net/Lq2Scoqf7mKN6YZLowN3iY-1280-80.png",
+      "publishedAt": "2026-04-13T23:01:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "ancient-origins:https://www.ancient-origins.net/news-history-archaeology/ghost-columbus-00102667",
+      "title": "The Ghost of Columbus and the Impossible Geometry of the Piri Reis Map",
+      "summary": "The Ghost of Columbus and the Impossible Geometry of the Piri Reis Map In 1929, while renovating the Topkapi Palace in Istanbul, a theologian discovered a fragment of gazelle skin that would rewrite the history of cartography. This was the Piri Reis map, a world chart compiled…",
+      "url": "https://www.ancient-origins.net/news-history-archaeology/ghost-columbus-00102667",
+      "image": "https://www.ancient-origins.net/sites/default/files/styles/large/public/field/image/Piri%20Reis%20%281%29.jpg?itok=b7j35Pzh",
+      "publishedAt": "2026-04-13T19:44:16.000Z",
+      "source": {
+        "id": "ancient-origins",
+        "name": "Ancient Origins"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/human-evolution/homo-erectus-tools-include-stunning-geodes-and-fossils-possibly-as-a-way-to-connect-with-the-cosmos-study-finds",
+      "title": "Homo erectus' tools include stunning geodes and fossils, possibly as a way to connect with the cosmos, study finds",
+      "summary": "Homo erectus may have deliberately selected rocks embedded with fossils and crystals to craft their hand axes — possibly to serve as mediators between humans and the cosmos.",
+      "url": "https://www.livescience.com/archaeology/human-evolution/homo-erectus-tools-include-stunning-geodes-and-fossils-possibly-as-a-way-to-connect-with-the-cosmos-study-finds",
+      "image": "https://cdn.mos.cms.futurecdn.net/5tLR5r9t8RSNKwFZjhGo2h-1280-80.jpg",
+      "publishedAt": "2026-04-13T18:55:41.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "lemonde-sciences:https://www.lemonde.fr/sciences/article/2026/04/13/la-peau-artificielle-un-objectif-encore-lointain-pour-les-grands-brules_6679737_1650684.html",
+      "title": "La peau artificielle, un objectif encore lointain pour les grands brûlés",
+      "summary": "Cultiver les propres cellules du patient, recourir à un antigène-clé dans la tolérance materno-fœtale ou encore utiliser des cellules souches pluripotentes : plusieurs équipes de recherche tentent de trouver une solution durable et bien tolérée par le système immunitaire.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/04/13/la-peau-artificielle-un-objectif-encore-lointain-pour-les-grands-brules_6679737_1650684.html",
+      "image": "https://img.lemde.fr/2026/04/10/688/0/8256/4128/644/322/60/0/0482c0e_upload-1-jmdttsigf5e5-021.jpg",
+      "publishedAt": "2026-04-13T15:30:02.000Z",
+      "source": {
+        "id": "lemonde-sciences",
+        "name": "Le Monde — Sciences"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/04/260412071005.htm",
+      "title": "110,000-year-old discovery rewrites human history: Neanderthals and Homo sapiens worked together",
+      "summary": "The first-ever published research on Tinshemet Cave reveals that Neanderthals and Homo sapiens in the mid-Middle Paleolithic Levant not only coexisted but actively interacted, sharing technology, lifestyles, and burial customs. These interactions fostered cultural exchange,…",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260412071005.htm",
+      "image": null,
+      "publishedAt": "2026-04-12T11:32:05.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "ekialde-hurbila",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/04/260411022044.htm",
+      "title": "Neanderthals may have hunted and eaten outsiders, chilling cannibalism study finds",
+      "summary": "A cave in Belgium has revealed unsettling evidence that Neanderthals selectively cannibalized outsiders, focusing on women and children. The victims weren’t from the local group and appear to have been treated like prey, with bones butchered for meat and marrow. This suggests…",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260411022044.htm",
+      "image": null,
+      "publishedAt": "2026-04-11T06:20:44.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/04/260408225938.htm",
+      "title": "Humans reached Australia 60,000 years ago, new DNA study reveals",
+      "summary": "Scientists have uncovered compelling evidence that humans reached New Guinea and Australia around 60,000 years ago—earlier than some recent theories suggested. By tracing maternal DNA lineages, the team discovered that these early travelers likely used at least two different…",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260408225938.htm",
+      "image": null,
+      "publishedAt": "2026-04-09T04:14:47.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/04/260405003937.htm",
+      "title": "Buried Roman sanctuary discovered beneath Frankfurt hints at shocking rituals",
+      "summary": "A hidden Roman sanctuary discovered beneath Frankfurt is offering rare clues about ancient rituals, including possible human sacrifice. With major funding secured, scientists are now racing to uncover how this mysterious, multi-god cult site operated.",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260405003937.htm",
+      "image": null,
+      "publishedAt": "2026-04-05T04:39:37.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "erromatarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/04/260403002023.htm",
+      "title": "This tiny claw in a 500-million-year-old fossil just rewrote the origin of spiders",
+      "summary": "What started as routine fossil cleaning turned into a major scientific surprise when researchers uncovered a tiny claw in a 500-million-year-old specimen where no claw should exist. That detail revealed Megachelicerax cousteaui, the oldest known relative of spiders, pushing the…",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260403002023.htm",
+      "image": null,
+      "publishedAt": "2026-04-03T09:11:17.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/04/260402042748.htm",
+      "title": "Ancient bees found nesting inside fossil bones in rare cave discovery",
+      "summary": "Thousands of years ago in a cave on Hispaniola, an unusual chain of events left behind a rare scientific treasure: bees nesting inside fossilized bones. After giant barn owls repeatedly brought prey like hutias into the cave, their remains accumulated in silt-rich…",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260402042748.htm",
+      "image": null,
+      "publishedAt": "2026-04-03T08:17:20.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/04/260402042807.htm",
+      "title": "Strange “elephant skin” rocks reveal ancient life in the dark ocean",
+      "summary": "A puzzling wrinkled rock formation in Morocco has led scientists to rethink where ancient microbes could live. Instead of shallow, sunlit waters, these microbes may have thrived deep in the ocean, fueled by chemicals delivered by underwater landslides. The discovery suggests…",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260402042807.htm",
+      "image": null,
+      "publishedAt": "2026-04-03T06:28:45.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/04/260402042731.htm",
+      "title": "Ancient bone dice reveal 12,000-year history of gambling in America",
+      "summary": "More than 12,000 years ago, Native American hunter-gatherers were already making and using dice—thousands of years before similar tools appeared elsewhere. These bone “binary lots” acted like primitive coins, producing random outcomes for games of chance. A new study shows these…",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260402042731.htm",
+      "image": null,
+      "publishedAt": "2026-04-02T08:27:31.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/04/260401071947.htm",
+      "title": "Mysterious Greek inscription may reveal lost temple beneath Syria’s Great Mosque",
+      "summary": "A mysterious Greek inscription found beneath the Great Mosque of Homs could pinpoint the long-debated location of an ancient sun temple. Scholars now think the mosque sits atop a sacred site that transitioned from pagan worship to Christianity and then Islam. The find supports…",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260401071947.htm",
+      "image": null,
+      "publishedAt": "2026-04-02T07:08:16.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "erromatarrak",
+        "greziarrak"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/04/260401071923.htm",
+      "title": "Scientists found a baby dinosaur hidden in rock and it is surprisingly cute",
+      "summary": "Scientists uncovered a rare baby dinosaur in South Korea and named it Doolysaurus after a famous cartoon character. Using cutting-edge CT scans, they discovered hidden bones—including a skull—inside rock much faster than traditional methods. The young dinosaur, possibly fluffy…",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260401071923.htm",
+      "image": null,
+      "publishedAt": "2026-04-01T13:16:18.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "asia",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/03/260327230113.htm",
+      "title": "Scientists say we’ve been looking in the wrong place for human origins",
+      "summary": "A fossil ape discovered in northern Egypt is reshaping the story of human evolution. The species, Masripithecus, lived about 17 to 18 million years ago and may sit very close to the ancestor of all modern apes. This finding challenges the long-standing focus on East Africa.…",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260327230113.htm",
+      "image": null,
+      "publishedAt": "2026-03-28T03:06:49.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "egiptoarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/03/260324024245.htm",
+      "title": "Scientists found a rhino in the Arctic and it changes everything",
+      "summary": "Scientists have uncovered a new species of rhinoceros in the Canadian High Arctic, revealing that rhinos once lived far farther north than expected. The fossil, dating back 23 million years, is unusually complete and has helped reshape ideas about how these animals migrated…",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260324024245.htm",
+      "image": null,
+      "publishedAt": "2026-03-24T11:13:14.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/03/260322020300.htm",
+      "title": "This 67,800-year-old handprint is the oldest art ever found",
+      "summary": "Researchers have uncovered the world’s oldest known cave art—a 67,800-year-old hand stencil in Indonesia. The unusual, claw-like design hints at early symbolic thinking and possibly spiritual beliefs. This discovery also strengthens the case that humans reached Australia at…",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260322020300.htm",
+      "image": null,
+      "publishedAt": "2026-03-22T09:38:42.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/03/260321012642.htm",
+      "title": "Ancient DNA reveals a farming shift that pushed a society to the brink",
+      "summary": "A new study reveals that farming in Argentina’s Uspallata Valley was adopted by local hunter-gatherers rather than introduced by outside populations. Centuries later, a stressed group of maize-heavy farmers migrated into the region, facing climate instability, disease, and…",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260321012642.htm",
+      "image": null,
+      "publishedAt": "2026-03-22T03:21:09.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/03/260321012715.htm",
+      "title": "This crocodile ran like a greyhound across prehistoric Britain 200 million years ago",
+      "summary": "A newly discovered Triassic reptile from the UK looked more like a racing greyhound than a crocodile, built for speed on land. With long legs and a lightweight body, it hunted small animals in a dry, upland environment millions of years ago. Scientists identified it as a new…",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260321012715.htm",
+      "image": null,
+      "publishedAt": "2026-03-21T08:57:59.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/03/260318033115.htm",
+      "title": "These dinosaurs had wings but couldn’t fly",
+      "summary": "Some feathered dinosaurs may have briefly taken to the skies—only to give it up later. By studying rare fossils with preserved feathers, researchers uncovered a surprising clue hidden in molting patterns, revealing that Anchiornis likely couldn’t fly at all. Instead of the neat,…",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260318033115.htm",
+      "image": null,
+      "publishedAt": "2026-03-18T10:08:57.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/03/260315225153.htm",
+      "title": "The smell of Egyptian mummies is revealing 2,000-year-old secrets",
+      "summary": "The distinctive smell of ancient mummies is helping scientists decode the secrets of Egyptian mummification. By analyzing tiny traces of chemicals in the air around mummy samples, researchers identified dozens of compounds linked to oils, resins, beeswax, and bitumen used during…",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260315225153.htm",
+      "image": null,
+      "publishedAt": "2026-03-16T10:46:21.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "egiptoarrak"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/03/260311213444.htm",
+      "title": "Cosmic rays turned ancient sand into a geological time machine",
+      "summary": "Scientists at Curtin University have uncovered a new way to read the deep history of Earth’s landscapes using microscopic zircon crystals from ancient beach sands. These incredibly durable minerals trap traces of krypton gas created when cosmic rays strike them at Earth’s…",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260311213444.htm",
+      "image": null,
+      "publishedAt": "2026-03-12T05:53:19.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/03/260311213457.htm",
+      "title": "400 million-year-old fish fossils reveal how life began moving onto land",
+      "summary": "Scientists have uncovered new clues about some of Earth’s earliest fish, shedding light on the ancient origins of vertebrates that eventually moved onto land. By reanalyzing mysterious fossils from Australia’s famed Gogo Formation and studying a newly reconstructed…",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260311213457.htm",
+      "image": null,
+      "publishedAt": "2026-03-12T05:14:08.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "asia"
+      ]
+    },
+    {
+      "id": "ancient-origins:https://www.ancient-origins.net/news-history-archaeology/roman-forum-barcelona-00102582",
+      "title": "Roman Forum Found Beneath Barcelona Hotel Rewrites Barcino",
+      "summary": "Roman Forum Found Beneath Barcelona Hotel Rewrites Barcino What started as a routine elevator shaft installation in a Barcelona hotel basement has turned into one of the most significant Roman archaeology discoveries in Spain in decades. Excavations beneath the Gran Hotel…",
+      "url": "https://www.ancient-origins.net/news-history-archaeology/roman-forum-barcelona-00102582",
+      "image": "https://www.ancient-origins.net/sites/default/files/styles/large/public/field/image/ForumBarca.jpg?itok=AlyXAO8W",
+      "publishedAt": "2026-03-10T12:00:00.000Z",
+      "source": {
+        "id": "ancient-origins",
+        "name": "Ancient Origins"
+      },
+      "lang": "en",
+      "region": "iberia",
+      "topics": [
+        "erromatarrak",
+        "museoak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/03/260309225231.htm",
+      "title": "This 2-pound dinosaur is rewriting what scientists know about evolution",
+      "summary": "A nearly complete dinosaur skeleton discovered in Patagonia is helping scientists crack the mystery of alvarezsaurs, a bizarre group of bird-like dinosaurs. The fossil of Alnashetri cerropoliciensis reveals that these animals became tiny before developing their later specialized…",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260309225231.htm",
+      "image": null,
+      "publishedAt": "2026-03-10T10:50:39.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/03/260307213247.htm",
+      "title": "Scientists stunned to find signs of ancient life in a place no one expected",
+      "summary": "While exploring ancient seabeds in Morocco, scientists discovered strange wrinkle-like textures in deep-water sediments that shouldn’t have been there. These structures are usually made by sunlight-loving microbial mats in shallow waters. But the rocks formed far below the reach…",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260307213247.htm",
+      "image": null,
+      "publishedAt": "2026-03-08T21:31:54.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/03/260306224219.htm",
+      "title": "Bird droppings helped build one of ancient Peru’s most powerful kingdoms",
+      "summary": "New research suggests seabird guano helped transform the Chincha Kingdom into one of the most prosperous societies in ancient Peru. Chemical clues in centuries-old maize show farmers fertilized their crops with guano gathered from nearby islands, dramatically boosting yields in…",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260306224219.htm",
+      "image": null,
+      "publishedAt": "2026-03-08T00:02:30.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/02/260227071918.htm",
+      "title": "MIT study finds Earth’s first animals were likely ancient sea sponges",
+      "summary": "Scientists at MIT have found compelling chemical evidence that Earth’s earliest animals were likely ancient sea sponges. Hidden inside rocks over 541 million years old are rare molecular “fingerprints” that match compounds made by modern demosponges. After testing rocks, living…",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260227071918.htm",
+      "image": null,
+      "publishedAt": "2026-02-27T14:45:38.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/02/260225001301.htm",
+      "title": "40,000-year-old signs show humans were recording information long before writing",
+      "summary": "More than 40,000 years ago, Ice Age humans were carving repeated patterns of dots, lines, and crosses into tools and small ivory figurines. A new computational study of more than 3,000 of these Paleolithic signs reveals that they were not random decorations but structured…",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260225001301.htm",
+      "image": null,
+      "publishedAt": "2026-02-25T05:52:18.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "ancient-origins:https://www.ancient-origins.net/news-history-archaeology/sumerian-bitumen-00102535",
+      "title": "Black Gold: Sumerian Bitumen Recipes Worked Like Asphalt, 4,000 Years Ago",
+      "summary": "Black Gold: Sumerian Bitumen Recipes Worked Like Asphalt, 4,000 Years Ago Sumerian craftspeople in Mesopotamia didn’t simply scoop up natural bitumen and slap it on boats or bricks. A new materials study suggests they followed repeatable “recipes” that controlled strength,…",
+      "url": "https://www.ancient-origins.net/news-history-archaeology/sumerian-bitumen-00102535",
+      "image": "https://www.ancient-origins.net/sites/default/files/styles/large/public/field/image/SumerianBuilding.jpg?itok=Rpl6mR1O",
+      "publishedAt": "2026-02-19T23:47:26.000Z",
+      "source": {
+        "id": "ancient-origins",
+        "name": "Ancient Origins"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "ekialde-hurbila",
+        "aurkikuntza"
+      ]
+    }
+  ]
 }
