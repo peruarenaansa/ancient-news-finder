@@ -91,27 +91,27 @@ const Index = () => {
     };
   }, []);
 
-  const filtered = useMemo(() => {
+  // Oinarrizko zerrenda: gogokoak/irakurritakoak iragazkiak aplikatu (baina ez region/lang/query),
+  // hortik aukera-kontagailuak (region, lang) kalkulatzeko.
+  const baseScope = useMemo(() => {
     if (!feed) return [] as NewsItem[];
-    const q = query.trim().toLowerCase();
-
-    // Gogokoak ikustean: localStorage-eko snapshot-a erabili (feed-eko items + galdutakoak).
-    // Horrela news.json-en jada ez dauden gogokoak ere agertuko dira.
-    let base: NewsItem[];
     if (showSavedOnly) {
       const stored = savedList();
       const byId = new Map<string, NewsItem>();
       for (const it of stored) byId.set(it.id, it);
-      // Feed-eko bertsio freskoa lehenetsi (irudia/laburpena eguneratuta egon liteke)
+      // Feed-eko bertsio freskoa lehenetsi
       for (const it of feed.items) if (byId.has(it.id)) byId.set(it.id, it);
-      base = [...byId.values()];
-    } else {
-      base = feed.items;
+      return [...byId.values()].filter((it) => isSaved(it.id));
     }
+    if (!showRead) {
+      return feed.items.filter((it) => !read.has(it.id));
+    }
+    return feed.items;
+  }, [feed, showSavedOnly, showRead, isSaved, savedList, read]);
 
-    return base.filter((it) => {
-      if (showSavedOnly && !isSaved(it.id)) return false;
-      if (!showRead && !showSavedOnly && read.has(it.id)) return false;
+  const filtered = useMemo(() => {
+    const q = query.trim().toLowerCase();
+    return baseScope.filter((it) => {
       if (region !== 'all' && it.region !== region) return false;
       if (lang !== 'all' && it.lang !== lang) return false;
       if (q) {
@@ -120,7 +120,7 @@ const Index = () => {
       }
       return true;
     });
-  }, [feed, query, region, lang, showSavedOnly, showRead, isSaved, savedList, read]);
+  }, [baseScope, query, region, lang]);
 
   // Euskal Herriko albisteak gainean lehenetsi (iragazkirik gabe denean)
   const sorted = useMemo(() => {
@@ -142,15 +142,31 @@ const Index = () => {
     return feed.items.filter((it) => read.has(it.id)).length;
   }, [feed, read, showRead, showSavedOnly]);
 
-  // Feed-eko hizkuntzak bakarrik agertu iragazkian, kopuruarekin batera.
-  const availableLangs = useMemo(() => {
-    if (!feed) return [] as Array<{ code: NewsLang; count: number }>;
+  // Hizkuntzen kontagailua: gogokoak/irakurriak iragazkiak aplikatuta, baina region/lang/query gabe.
+  const langCounts = useMemo(() => {
     const counts = new Map<NewsLang, number>();
-    for (const it of feed.items) counts.set(it.lang, (counts.get(it.lang) ?? 0) + 1);
-    return [...counts.entries()]
+    for (const it of baseScope) {
+      if (region !== 'all' && it.region !== region) continue;
+      counts.set(it.lang, (counts.get(it.lang) ?? 0) + 1);
+    }
+    return counts;
+  }, [baseScope, region]);
+
+  const availableLangs = useMemo(() => {
+    return [...langCounts.entries()]
       .map(([code, count]) => ({ code, count }))
       .sort((a, b) => b.count - a.count);
-  }, [feed]);
+  }, [langCounts]);
+
+  // Eskualdeen kontagailua: gogokoak/irakurriak iragazkiak aplikatuta, baina region/lang/query gabe.
+  const regionCounts = useMemo(() => {
+    const counts = new Map<NewsRegion, number>();
+    for (const it of baseScope) {
+      if (lang !== 'all' && it.lang !== lang) continue;
+      counts.set(it.region, (counts.get(it.region) ?? 0) + 1);
+    }
+    return counts;
+  }, [baseScope, lang]);
 
   const generatedDate = feed
     ? new Date(feed.generatedAt).toLocaleString('eu-ES', {
