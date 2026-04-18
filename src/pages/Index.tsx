@@ -32,12 +32,11 @@ const Index = () => {
   const [query, setQuery] = useState('');
   const [region, setRegion] = useState<NewsRegion | 'all'>('all');
   const [lang, setLang] = useState<NewsLang | 'all'>('all');
-  const [topic] = useState<string>('all');
   const [showSavedOnly, setShowSavedOnly] = useState(false);
   const [page, setPage] = useState(1);
 
   const { set: saved, toggle: toggleSaved } = useLocalStorageSet('archaeo:saved');
-  const { set: read, add: markRead } = useLocalStorageSet('archaeo:read');
+  const { set: read, add: markRead, addMany: markManyRead } = useLocalStorageSet('archaeo:read');
 
   useEffect(() => {
     let active = true;
