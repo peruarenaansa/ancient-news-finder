@@ -32,7 +32,7 @@ const Index = () => {
   const [query, setQuery] = useState('');
   const [region, setRegion] = useState<NewsRegion | 'all'>('all');
   const [lang, setLang] = useState<NewsLang | 'all'>('all');
-  const [topic, setTopic] = useState<string>('all');
+  const [topic] = useState<string>('all');
   const [showSavedOnly, setShowSavedOnly] = useState(false);
   const [page, setPage] = useState(1);
 
