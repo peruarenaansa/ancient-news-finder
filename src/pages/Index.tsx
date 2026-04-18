@@ -100,7 +100,6 @@ const Index = () => {
     setQuery('');
     setRegion('all');
     setLang('all');
-    setTopic('all');
     setShowSavedOnly(false);
     setPage(1);
   };
