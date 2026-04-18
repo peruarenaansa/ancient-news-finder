@@ -1,5 +1,3 @@
-import matter from 'gray-matter';
-
 export type ArticleType = 'article' | 'note';
 
 export interface Article {
@@ -7,16 +5,15 @@ export interface Article {
   type: ArticleType;
   title: string;
   subtitle?: string;
-  date: string; // ISO
+  date: string;
   author?: string;
   image?: string;
   tags?: string[];
   excerpt?: string;
-  body: string; // markdown
+  body: string;
   source?: { name: string; url: string };
 }
 
-// Vite glob: Markdown fitxategi guztiak eraikuntza-garaian inportatu.
 const articleFiles = import.meta.glob('/content/articles/*.md', {
   query: '?raw',
   import: 'default',
@@ -29,8 +26,77 @@ const noteFiles = import.meta.glob('/content/notes/*.md', {
   eager: true,
 }) as Record<string, string>;
 
+// Frontmatter parser sinplea (YAML azpimultzo bat: string, zenbaki, zerrenda eta objektu lauak).
+function parseFrontmatter(raw: string): { data: Record<string, any>; content: string } {
+  const match = raw.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);
+  if (!match) return { data: {}, content: raw };
+  const [, fm, content] = match;
+  const data: Record<string, any> = {};
+  const lines = fm.split(/\r?\n/);
+
+  let i = 0;
+  while (i < lines.length) {
+    const line = lines[i];
+    if (!line.trim() || line.trim().startsWith('#')) {
+      i++;
+      continue;
+    }
+    const m = line.match(/^([A-Za-z0-9_-]+):\s*(.*)$/);
+    if (!m) {
+      i++;
+      continue;
+    }
+    const [, key, rest] = m;
+    const val = rest.trim();
+
+    if (val === '') {
+      // Begiratu hurrengo lerroak: zerrenda (- ...) ala objektu nested (sangratuta)
+      const items: string[] = [];
+      const obj: Record<string, string> = {};
+      let j = i + 1;
+      while (j < lines.length) {
+        const next = lines[j];
+        const listMatch = next.match(/^\s+-\s+(.*)$/);
+        const objMatch = next.match(/^\s+([A-Za-z0-9_-]+):\s*(.*)$/);
+        if (listMatch) {
+          items.push(stripQuotes(listMatch[1].trim()));
+          j++;
+        } else if (objMatch) {
+          obj[objMatch[1]] = stripQuotes(objMatch[2].trim());
+          j++;
+        } else {
+          break;
+        }
+      }
+      if (items.length) data[key] = items;
+      else if (Object.keys(obj).length) data[key] = obj;
+      else data[key] = '';
+      i = j;
+    } else if (val === '[]') {
+      data[key] = [];
+      i++;
+    } else {
+      data[key] = stripQuotes(val);
+      i++;
+    }
+  }
+
+  return { data, content: content ?? '' };
+}
+
+function stripQuotes(s: string): string {
+  if ((s.startsWith('"') && s.endsWith('"')) || (s.startsWith("'") && s.endsWith("'"))) {
+    try {
+      return JSON.parse(s.startsWith("'") ? `"${s.slice(1, -1).replace(/"/g, '\\"')}"` : s);
+    } catch {
+      return s.slice(1, -1);
+    }
+  }
+  return s;
+}
+
 function parse(path: string, raw: string, type: ArticleType): Article {
-  const { data, content } = matter(raw);
+  const { data, content } = parseFrontmatter(raw);
   const slug = path.split('/').pop()!.replace(/\.md$/, '');
   return {
     slug,
@@ -40,10 +106,10 @@ function parse(path: string, raw: string, type: ArticleType): Article {
     date: data.date ?? new Date().toISOString(),
     author: data.author,
     image: data.image,
-    tags: data.tags ?? [],
+    tags: Array.isArray(data.tags) ? data.tags : [],
     excerpt: data.excerpt,
     body: content,
-    source: data.source,
+    source: data.source && typeof data.source === 'object' ? data.source : undefined,
   };
 }
 
