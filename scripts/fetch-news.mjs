@@ -78,19 +78,33 @@ function isArchaeologyRelated(text) {
   return ARCHAEOLOGY_KEYWORDS.some((k) => lower.includes(k));
 }
 
-// Erdi Aroaren ondorengoa (~1500etik aurrera) baztertzeko gako-hitzak
+// 1000. urtetik aurrerako (XI. mendetik aurrera) gaiak baztertzeko gako-hitzak
 const MODERN_KEYWORDS = [
-  // Mendeak (modernoak)
+  // Mendeak: XI.etik aurrera (1000+)
+  'siglo xi', 'siglo xii', 'siglo xiii', 'siglo xiv', 'siglo xv',
   'siglo xvi', 'siglo xvii', 'siglo xviii', 'siglo xix', 'siglo xx', 'siglo xxi',
+  'xi mendea', 'xii mendea', 'xiii mendea', 'xiv mendea', 'xv mendea',
   'xvi mendea', 'xvii mendea', 'xviii mendea', 'xix mendea', 'xx mendea', 'xxi mendea',
+  '11th century', '12th century', '13th century', '14th century', '15th century',
   '16th century', '17th century', '18th century', '19th century', '20th century', '21st century',
+  'xie siècle', 'xiie siècle', 'xiiie siècle', 'xive siècle', 'xve siècle',
   'xvie siècle', 'xviie siècle', 'xviiie siècle', 'xixe siècle', 'xxe siècle', 'xxie siècle',
+  '11. jahrhundert', '12. jahrhundert', '13. jahrhundert', '14. jahrhundert', '15. jahrhundert',
   '16. jahrhundert', '17. jahrhundert', '18. jahrhundert', '19. jahrhundert', '20. jahrhundert',
-  // Aro modernoak
+  // Erdi Aro beranduagoko eta ondorengo aroak
+  'late medieval', 'high medieval', 'baja edad media', 'plena edad media', 'bas moyen âge', 'spätmittelalter',
   'edad moderna', 'edad contemporánea', 'aro modernoa', 'aro garaikidea',
   'modern era', 'early modern', 'contemporary history', 'industrial revolution',
   'temps modernes', 'époque moderne', 'époque contemporaine', 'révolution industrielle',
   'neuzeit', 'frühe neuzeit', 'industrielle revolution',
+  // Erdi Aro beranduagoko gertaerak/figurak (1000+)
+  'crusade', 'cruzada', 'croisade', 'kreuzzug',
+  'reconquista', 'reconquête',
+  'gothic', 'gótico', 'gothique', 'gotik', 'romanesque', 'románico', 'romanik',
+  'templar', 'templario', 'templier', 'tempelritter',
+  'cathar', 'cátaro', 'inquisition', 'inquisición',
+  'black death', 'peste negra', 'peste noire', 'schwarzer tod',
+  'hundred years', 'guerra de los cien años', 'guerre de cent ans',
   // Gertaera modernoak
   'world war', 'segunda guerra mundial', 'primera guerra mundial', 'guerra civil',
   'guerre mondiale', 'weltkrieg', 'cold war', 'guerra fría',
@@ -101,18 +115,22 @@ const MODERN_KEYWORDS = [
   'renacimiento', 'renaissance', 'wiedergeburt',
 ];
 
-// Erdi Aro arteko (~1500 arte) gai garbiak: iragazkia gainditzen dute beti
+// 1000. urtea arteko gai garbiak: iragazkia gainditzen dute beti
 const PRE_MODERN_STRONG = [
   'prehistor', 'paleolit', 'neolit', 'mesolit', 'calcolít', 'edad de bronce', 'edad de hierro',
   'bronze age', 'iron age', 'âge du bronze', 'âge du fer', 'bronzezeit', 'eisenzeit',
   'roman', 'romano', 'romain', 'römisch', 'erromatar', 'imperio romano', 'empire romain',
-  'medieval', 'middle ages', 'edad media', 'moyen âge', 'mittelalter', 'erdi aro',
   'antigüedad', 'antiquity', 'antiquité', 'antike',
   'egypt', 'egipto', 'égypte', 'pharaoh', 'faraón', 'pyramid', 'pirámide',
   'greek', 'griego', 'grec', 'griechisch', 'mycen', 'minoan',
   'mesopotam', 'sumer', 'babilon', 'asyri', 'hittite', 'hitita',
   'celta', 'celtic', 'celtibero', 'íbero', 'ibero', 'tartess', 'visigod', 'visigoth',
-  'viking', 'sajón', 'saxon', 'merov', 'caroling',
+  'merov', 'caroling', 'carolingian', 'carolingio', 'carolingien',
+  // Erdi Aro goiztiarra (500-1000): onartzen dira
+  'early medieval', 'alta edad media', 'haut moyen âge', 'frühmittelalter',
+  'anglo-saxon', 'anglosajón', 'anglo-sajón', 'angelsachsen',
+  // Bikingoak: gehienbat 793-1066, mugan, baina onartzen ditugu
+  'viking', 'vikingo', 'wikinger',
 ];
 
 function isModernEra(text) {
