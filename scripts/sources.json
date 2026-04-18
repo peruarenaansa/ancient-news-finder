@@ -39,5 +39,26 @@
 
   { "id": "archeoarte", "name": "ArcheoArte (UniCa)", "url": "https://ojs.unica.it/index.php/archeoarte/gateway/plugin/WebFeedGatewayPlugin/rss2", "lang": "it", "region": "europe", "kind": "research" },
 
-  { "id": "cypsela", "name": "Cypsela (RACO, Catalunya)", "url": "https://raco.cat/index.php/Cypsela/gateway/plugin/WebFeedGatewayPlugin/rss2", "lang": "ca", "region": "iberia", "kind": "research" }
+  { "id": "cypsela", "name": "Cypsela (RACO, Catalunya)", "url": "https://raco.cat/index.php/Cypsela/gateway/plugin/WebFeedGatewayPlugin/rss2", "lang": "ca", "region": "iberia", "kind": "research" },
+
+  { "id": "cambridge-antiquity", "name": "Antiquity (Cambridge Core)", "url": "https://www.cambridge.org/core/rss/product/id/journals/journal/aqy/firstview", "lang": "en", "region": "world", "kind": "research" },
+  { "id": "cambridge-caj", "name": "Cambridge Archaeological Journal", "url": "https://www.cambridge.org/core/rss/product/id/journals/journal/caj/firstview", "lang": "en", "region": "world", "kind": "research" },
+  { "id": "cambridge-ejarc", "name": "European Journal of Archaeology (Cambridge Core)", "url": "https://www.cambridge.org/core/rss/product/id/journals/journal/eaa/firstview", "lang": "en", "region": "europe", "kind": "research" },
+
+  { "id": "archaeology-mag", "name": "Archaeology Magazine", "url": "https://www.archaeology.org/feed/", "lang": "en", "region": "world" },
+
+  { "id": "jas-elsevier", "name": "Journal of Archaeological Science (Elsevier)", "url": "https://rss.sciencedirect.com/publication/science/03054403", "lang": "en", "region": "world", "kind": "research" },
+  { "id": "quaternary-international", "name": "Quaternary International (Elsevier)", "url": "https://rss.sciencedirect.com/publication/science/10406182", "lang": "en", "region": "world", "kind": "research" },
+
+  { "id": "aquitania-persee", "name": "Aquitania (Persée)", "url": "https://www.persee.fr/rss?revueKey=aquit", "lang": "fr", "region": "basque", "kind": "research" },
+
+  { "id": "cuadernos-arq-unav", "name": "Cuadernos de Arqueología — Univ. de Navarra", "url": "https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/gateway/plugin/WebFeedGatewayPlugin/rss2", "lang": "es", "region": "basque", "kind": "research" },
+
+  { "id": "veleia-ehu", "name": "Veleia (UPV/EHU)", "url": "https://ojs.ehu.eus/index.php/veleia/gateway/plugin/WebFeedGatewayPlugin/rss2", "lang": "es", "region": "basque", "kind": "research" },
+
+  { "id": "flv-navarra", "name": "Fontes Linguae Vasconum", "url": "https://revistas.navarra.es/index.php/FLV/gateway/plugin/WebFeedGatewayPlugin/rss2", "lang": "eu", "region": "basque", "kind": "research" },
+
+  { "id": "tan-navarra", "name": "Trabajos de Arqueología Navarra", "url": "https://revistas.navarra.es/index.php/TAN/gateway/plugin/WebFeedGatewayPlugin/rss2", "lang": "es", "region": "basque", "kind": "research" },
+
+  { "id": "habis-us", "name": "Habis — Filología clásica e Historia Antigua (US)", "url": "https://revistascientificas.us.es/index.php/Habis/gateway/plugin/WebFeedGatewayPlugin/rss2", "lang": "es", "region": "iberia", "kind": "research" }
 ]
