@@ -1,0 +1,44 @@
+name: Fetch archaeology news
+
+on:
+  schedule:
+    # Orduro exekutatu (UTC)
+    - cron: "0 * * * *"
+  workflow_dispatch: {} # Eskuzko trigger Actions fitxatik
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-news
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install rss-parser (no project install needed)
+        run: npm install --no-save --no-audit --no-fund rss-parser@3
+
+      - name: Fetch RSS feeds
+        run: node scripts/fetch-news.mjs
+
+      - name: Commit news.json if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain public/news.json)" ]; then
+            git add public/news.json
+            git commit -m "chore(news): update news.json [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi

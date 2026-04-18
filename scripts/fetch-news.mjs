@@ -1,0 +1,199 @@
+// Arkeologia albiste-biltzailea — RSS bilketa script-a
+// GitHub Actions-ek orduro exekutatzen du. public/news.json sortzen du.
+
+import Parser from 'rss-parser';
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const ROOT = path.resolve(__dirname, '..');
+
+const SOURCES = JSON.parse(
+  await fs.readFile(path.join(__dirname, 'sources.json'), 'utf8')
+);
+
+// Gako-hitzen bidezko etiketatzea (gai eta eskualdea)
+const TOPIC_KEYWORDS = {
+  prehistoria: ['prehistor', 'paleolit', 'neolit', 'mesolit', 'bronze', 'iron age', 'edad de bronce', 'edad de hierro', 'preistoria', 'préhistoire', 'urzaharra'],
+  erromatarrak: ['roman', 'roma ', 'romano', 'romain', 'römisch', 'erromatar', 'pompei', 'caesar', 'imperio romano', 'empire romain'],
+  'erdi-aroa': ['medieval', 'middle ages', 'edad media', 'moyen âge', 'mittelalter', 'erdi aro', 'viking', 'castle', 'castillo', 'monaster'],
+  egiptoarrak: ['egypt', 'egipto', 'égypte', 'pharaoh', 'faraón', 'pirámide', 'pyramid', 'tutankham', 'nile', 'nilo'],
+  greziarrak: ['greek', 'griego', 'grec', 'griechisch', 'athen', 'atena', 'sparta', 'mycen', 'minoan', 'helenist'],
+  iberiarrak: ['iberian', 'íbero', 'ibero', 'celtibero', 'celtíbero', 'tartess', 'vasc', 'euskal', 'aquitan', 'navarra', 'gipuzkoa', 'bizkaia', 'araba', 'iparralde'],
+  'ekialde-hurbila': ['mesopotam', 'sumer', 'babilon', 'asyri', 'asiri', 'persia', 'hittite', 'hitita', 'levant', 'jerusalem', 'jericó', 'jericho'],
+  amerika: ['maya', 'azteca', 'aztec', 'inca', 'olmec', 'precolomb', 'pre-columb', 'andes', 'mesoamer', 'teotihuac'],
+  asia: ['china', 'japan', 'japón', 'korea', 'india', 'indus', 'angkor', 'khmer', 'mongol'],
+  museoak: ['museum', 'museo', 'musée', 'exhibition', 'exposición', 'erakusketa'],
+  aurkikuntza: ['discover', 'descubr', 'découvert', 'aurkitu', 'unearth', 'excav', 'excavac', 'fund'],
+};
+
+const REGION_KEYWORDS = {
+  basque: ['euskal', 'vasco', 'basque', 'navarra', 'navarre', 'gipuzkoa', 'guipúzcoa', 'bizkaia', 'vizcaya', 'araba', 'álava', 'iparralde', 'iruñea', 'pamplona', 'donostia', 'bilbao', 'baiona', 'bayonne'],
+  iberia: ['españa', 'spain', 'portugal', 'iberia', 'ibérica', 'península'],
+  europe: ['europe', 'europa', 'francia', 'france', 'italia', 'italy', 'germany', 'alemania', 'reino unido', 'united kingdom', 'greece', 'grecia'],
+};
+
+function detectTopics(text) {
+  const lower = text.toLowerCase();
+  const tags = new Set();
+  for (const [tag, kws] of Object.entries(TOPIC_KEYWORDS)) {
+    if (kws.some((k) => lower.includes(k))) tags.add(tag);
+  }
+  return [...tags];
+}
+
+function detectRegion(text, sourceRegion) {
+  const lower = text.toLowerCase();
+  if (REGION_KEYWORDS.basque.some((k) => lower.includes(k))) return 'basque';
+  if (REGION_KEYWORDS.iberia.some((k) => lower.includes(k))) return 'iberia';
+  if (REGION_KEYWORDS.europe.some((k) => lower.includes(k))) return 'europe';
+  return sourceRegion || 'world';
+}
+
+// Iragazi arkeologia/historia ez direnak (iturri orokorretarako)
+const ARCHAEOLOGY_KEYWORDS = [
+  'arche', 'arch', 'arqueol', 'arkeolo', 'archéo', 'archäo',
+  'history', 'historia', 'histoire', 'geschichte',
+  'ancient', 'antig', 'antik', 'antique',
+  'excav', 'dig ', 'yacimien', 'aztarna', 'site arché', 'fundstätte',
+  'museo', 'museum', 'musée',
+  'prehistor', 'paleolit', 'neolit', 'roman', 'medieval', 'edad media', 'moyen âge', 'mittelalter',
+  'erromatar', 'erdi aro', 'aurkikuntza', 'descubrimiento', 'discovery', 'découverte',
+  'fossil', 'fósil', 'tumba', 'tomb', 'tombe', 'burial', 'enterr',
+  'ruins', 'ruinas', 'ruines', 'hondakin',
+];
+
+const GENERAL_SOURCES = new Set([
+  'elpais-cultura', 'abc-cultura', 'eldiario-cultura', 'lemonde-sciences',
+  'spiegel-wissenschaft', 'live-science-arch', 'phys-arch', 'sciencedaily-arch',
+  'eitb-kultura', 'berria', 'argia',
+]);
+
+function isArchaeologyRelated(text) {
+  const lower = text.toLowerCase();
+  return ARCHAEOLOGY_KEYWORDS.some((k) => lower.includes(k));
+}
+
+function extractImage(item) {
+  if (item.enclosure?.url && /\.(jpe?g|png|webp|gif)/i.test(item.enclosure.url)) {
+    return item.enclosure.url;
+  }
+  if (item['media:content']?.$?.url) return item['media:content'].$.url;
+  if (item['media:thumbnail']?.$?.url) return item['media:thumbnail'].$.url;
+  const html = item['content:encoded'] || item.content || item.summary || '';
+  const m = html.match(/<img[^>]+src=["']([^"']+)["']/i);
+  return m ? m[1] : null;
+}
+
+function stripHtml(html = '') {
+  return html
+    .replace(/<[^>]*>/g, ' ')
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function summarize(text, max = 240) {
+  const clean = stripHtml(text);
+  if (clean.length <= max) return clean;
+  return clean.slice(0, max).replace(/\s+\S*$/, '') + '…';
+}
+
+const parser = new Parser({
+  timeout: 15000,
+  headers: { 'User-Agent': 'ArchaeoNewsBot/1.0 (+https://github.com)' },
+  customFields: {
+    item: [
+      ['media:content', 'media:content'],
+      ['media:thumbnail', 'media:thumbnail'],
+      ['content:encoded', 'content:encoded'],
+    ],
+  },
+});
+
+async function fetchSource(source) {
+  try {
+    const feed = await parser.parseURL(source.url);
+    const items = (feed.items || []).slice(0, 30);
+    const filtered = items
+      .map((item) => {
+        const title = item.title || '';
+        const description = stripHtml(item.contentSnippet || item.content || item.summary || '');
+        const text = `${title} ${description}`;
+
+        // Iturri orokorretarako iragazkia aplikatu
+        if (GENERAL_SOURCES.has(source.id) && !isArchaeologyRelated(text)) {
+          return null;
+        }
+
+        const url = item.link || item.guid;
+        if (!url) return null;
+
+        return {
+          id: `${source.id}:${url}`,
+          title: stripHtml(title),
+          summary: summarize(description, 280),
+          url,
+          image: extractImage(item),
+          publishedAt: item.isoDate || item.pubDate || new Date().toISOString(),
+          source: { id: source.id, name: source.name },
+          lang: source.lang,
+          region: detectRegion(text, source.region),
+          topics: detectTopics(text),
+        };
+      })
+      .filter(Boolean);
+    console.log(`✓ ${source.name}: ${filtered.length} albiste`);
+    return filtered;
+  } catch (err) {
+    console.warn(`✗ ${source.name} (${source.url}): ${err.message}`);
+    return [];
+  }
+}
+
+async function main() {
+  console.log(`\n📜 Bilketa hasten... ${SOURCES.length} iturri\n`);
+
+  const results = await Promise.all(SOURCES.map(fetchSource));
+  const all = results.flat();
+
+  // Deduplikazioa URLaren bidez
+  const seen = new Map();
+  for (const item of all) {
+    if (!seen.has(item.url)) seen.set(item.url, item);
+  }
+
+  const deduped = [...seen.values()].sort(
+    (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
+  );
+
+  // Azken 90 egunetakoak bakarrik mantendu, eta gehienez 500
+  const cutoff = Date.now() - 90 * 24 * 60 * 60 * 1000;
+  const recent = deduped
+    .filter((i) => new Date(i.publishedAt).getTime() > cutoff)
+    .slice(0, 500);
+
+  const out = {
+    generatedAt: new Date().toISOString(),
+    count: recent.length,
+    sources: SOURCES.map((s) => ({ id: s.id, name: s.name, lang: s.lang, region: s.region })),
+    items: recent,
+  };
+
+  const outPath = path.join(ROOT, 'public', 'news.json');
+  await fs.mkdir(path.dirname(outPath), { recursive: true });
+  await fs.writeFile(outPath, JSON.stringify(out, null, 2), 'utf8');
+
+  console.log(`\n✅ ${recent.length} albiste idatzi dira: public/news.json`);
+}
+
+main().catch((err) => {
+  console.error('Errore larria:', err);
+  process.exit(1);
+});
