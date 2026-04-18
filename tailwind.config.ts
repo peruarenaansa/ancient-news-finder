@@ -57,6 +57,15 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        sand: "hsl(var(--sand))",
+        stone: "hsl(var(--stone))",
+        terracotta: "hsl(var(--terracotta))",
+        "indigo-deep": "hsl(var(--indigo-deep))",
+        gold: "hsl(var(--gold))",
+      },
+      fontFamily: {
+        display: ['Fraunces', 'Georgia', 'serif'],
+        sans: ['Inter', 'system-ui', 'sans-serif'],
       },
       borderRadius: {
         lg: "var(--radius)",
