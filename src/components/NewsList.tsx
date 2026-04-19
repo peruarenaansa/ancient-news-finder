@@ -57,10 +57,16 @@ export function NewsList({ items, isSaved, isRead, onToggleSave, onMarkRead }: P
     },
   });
 
-  // Iragazkiak aldatzean berriro neurtu (item kopurua aldatzen denean).
+  // Iragazkiak edo item-ak aldatzean, cache-a garbitu eta birneurtu.
+  // Hau ezinbestekoa da gogokoa kentzean txartelak ez pilatzeko: bestela
+  // virtualizer-ak lehengo posizioak (translateY) gogoratzen ditu eta item
+  // ezberdinei aplikatzen dizkie.
   useEffect(() => {
+    // Neurketen cache osoa garbitu
+    // @ts-expect-error - measurementsCache existitzen da baina ez da tipatuta
+    virtualizer.measurementsCache = [];
     virtualizer.measure();
-  }, [items.length, virtualizer]);
+  }, [items, virtualizer]);
 
   const virtualItems = virtualizer.getVirtualItems();
   const totalSize = virtualizer.getTotalSize();
@@ -81,7 +87,10 @@ export function NewsList({ items, isSaved, isRead, onToggleSave, onMarkRead }: P
               data-index={vRow.index}
               ref={virtualizer.measureElement}
               className="absolute left-0 right-0 pb-3"
-              style={{ transform: `translateY(${vRow.start}px)` }}
+              style={{
+                top: 0,
+                transform: `translateY(${vRow.start}px)`,
+              }}
             >
               <NewsCard
                 item={item}
