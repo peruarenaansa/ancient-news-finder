@@ -1,4 +1,4 @@
-import { ExternalLink, Bookmark, BookmarkCheck, Check } from 'lucide-react';
+import { ExternalLink, Heart, Check, CheckCheck } from 'lucide-react';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import { cn } from '@/lib/utils';
@@ -12,9 +12,10 @@ import {
 
 interface Props {
   item: NewsItem;
-  saved: boolean;
+  liked: boolean;
   read: boolean;
-  onToggleSave: () => void;
+  onToggleLike: () => void;
+  onToggleRead: () => void;
   onMarkRead: () => void;
 }
 
@@ -33,13 +34,14 @@ function formatDate(iso: string) {
   return d.toLocaleDateString('eu-ES', { year: 'numeric', month: 'short', day: 'numeric' });
 }
 
-export function NewsCard({ item, saved, read, onToggleSave, onMarkRead }: Props) {
+export function NewsCard({ item, liked, read, onToggleLike, onToggleRead, onMarkRead }: Props) {
   return (
     <article
       className={cn(
         'group flex gap-4 rounded-lg border bg-card p-4 transition-all',
         'hover:border-primary/40 hover:shadow-sm',
-        read && 'opacity-70',
+        read && !liked && 'opacity-70',
+        liked && 'border-primary/40',
       )}
     >
       {item.image ? (
@@ -84,19 +86,37 @@ export function NewsCard({ item, saved, read, onToggleSave, onMarkRead }: Props)
           >
             {item.title}
           </a>
-          <div className="-mr-2 -mt-1 flex shrink-0 items-center">
+          <div className="-mr-2 -mt-1 flex shrink-0 items-center gap-0.5">
             <Button
               variant="ghost"
               size="icon"
               className="h-8 w-8"
-              onClick={onToggleSave}
-              aria-label={saved ? 'Kendu gogokoetatik' : 'Gehitu gogokoetan'}
+              onClick={onToggleRead}
+              aria-pressed={read}
+              aria-label={read ? 'Markatu irakurri gabe' : 'Markatu irakurritzat'}
+              title={read ? 'Markatu irakurri gabe' : 'Markatu irakurritzat'}
             >
-              {saved ? (
-                <BookmarkCheck className="h-4 w-4 text-primary" />
+              {read ? (
+                <CheckCheck className="h-4 w-4 text-primary" />
               ) : (
-                <Bookmark className="h-4 w-4" />
+                <Check className="h-4 w-4" />
               )}
+            </Button>
+            <Button
+              variant="ghost"
+              size="icon"
+              className="h-8 w-8"
+              onClick={onToggleLike}
+              aria-pressed={liked}
+              aria-label={liked ? 'Kendu gustukoetatik' : 'Gehitu gustukoetan'}
+              title={liked ? 'Kendu gustukoetatik' : 'Gehitu gustukoetan'}
+            >
+              <Heart
+                className={cn(
+                  'h-4 w-4',
+                  liked ? 'fill-primary text-primary' : 'text-foreground/70',
+                )}
+              />
             </Button>
           </div>
         </div>

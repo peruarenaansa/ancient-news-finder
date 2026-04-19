@@ -27,6 +27,14 @@ export function useLocalStorageSet(key: string) {
       return next;
     });
 
+  const remove = (id: string) =>
+    setSet((prev) => {
+      if (!prev.has(id)) return prev;
+      const next = new Set(prev);
+      next.delete(id);
+      return next;
+    });
+
   const add = (id: string) =>
     setSet((prev) => {
       if (prev.has(id)) return prev;
