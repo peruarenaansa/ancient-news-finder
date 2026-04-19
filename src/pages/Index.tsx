@@ -7,7 +7,7 @@ import { NewsList } from '@/components/NewsList';
 import { useNewsFeed } from '@/hooks/use-news-feed';
 import { useNewsFilters } from '@/hooks/use-news-filters';
 import { useLocalStorageSet } from '@/hooks/use-local-storage-set';
-import { useSavedItems } from '@/hooks/use-saved-items';
+import { useLikedItems } from '@/hooks/use-liked-items';
 import { normalizeText } from '@/lib/normalize-text';
 import type { NewsItem, NewsLang, NewsRegion } from '@/lib/news-types';
 
@@ -16,8 +16,17 @@ const Index = () => {
   const { filters, update, reset, isFiltered } = useNewsFilters();
   const { query, region, lang, showSavedOnly, showRead } = filters;
 
-  const { isSaved, toggle: toggleSaved, savedList, size: savedSize } = useSavedItems();
-  const { set: read, add: markRead, addMany: markManyRead } = useLocalStorageSet('archaeo:read');
+  const { isLiked, toggle: toggleLikedRaw, likedList, size: likedSize } = useLikedItems();
+  const { set: read, add: markRead, addMany: markManyRead, toggle: toggleRead } = useLocalStorageSet('archaeo:read');
+
+  // Like sakatzean: irakurrita ere markatu (semantika "artxibatu/amaitu")
+  const onToggleLike = (item: NewsItem) => {
+    toggleLikedRaw(item);
+    if (!isLiked(item.id)) {
+      // berriki gehitzen ari da → irakurrita markatu
+      markRead(item.id);
+    }
+  };
 
   const setFilter = <K extends keyof typeof filters>(key: K, value: (typeof filters)[K]) => {
     update({ [key]: value } as Partial<typeof filters>);
@@ -26,17 +35,17 @@ const Index = () => {
   const baseScope = useMemo(() => {
     if (!feed) return [] as NewsItem[];
     if (showSavedOnly) {
-      const stored = savedList();
+      const stored = likedList();
       const byId = new Map<string, NewsItem>();
       for (const it of stored) byId.set(it.id, it);
       for (const it of feed.items) if (byId.has(it.id)) byId.set(it.id, it);
-      return [...byId.values()].filter((it) => isSaved(it.id));
+      return [...byId.values()].filter((it) => isLiked(it.id));
     }
     if (!showRead) {
       return feed.items.filter((it) => !read.has(it.id));
     }
     return feed.items;
-  }, [feed, showSavedOnly, showRead, isSaved, savedList, read]);
+  }, [feed, showSavedOnly, showRead, isLiked, likedList, read]);
 
   const filtered = useMemo(() => {
     const q = normalizeText(query.trim());
@@ -114,7 +123,7 @@ const Index = () => {
         lang={lang}
         showSavedOnly={showSavedOnly}
         showRead={showRead}
-        savedSize={savedSize}
+        savedSize={likedSize}
         hiddenReadCount={hiddenReadCount}
         regionCounts={regionCounts}
         availableLangs={availableLangs}
@@ -162,7 +171,7 @@ const Index = () => {
               aria-atomic="true"
             >
               <span>
-                {sorted.length} albiste {showSavedOnly ? 'gordeta' : 'iragazi ondoren'}
+                {sorted.length} albiste {showSavedOnly ? 'gustukoetan' : 'iragazi ondoren'}
                 {!showRead && !showSavedOnly && hiddenReadCount > 0 && (
                   <> · {hiddenReadCount} irakurri ezkutatuta</>
                 )}
@@ -176,9 +185,10 @@ const Index = () => {
 
             <NewsList
               items={sorted}
-              isSaved={isSaved}
+              isLiked={isLiked}
               isRead={(id) => read.has(id)}
-              onToggleSave={toggleSaved}
+              onToggleLike={onToggleLike}
+              onToggleRead={toggleRead}
               onMarkRead={markRead}
             />
           </>
