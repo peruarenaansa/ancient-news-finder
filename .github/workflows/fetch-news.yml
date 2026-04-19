@@ -2,9 +2,9 @@ name: Fetch archaeology news
 
 on:
   schedule:
-    # Egunean behin, goizeko 07:00etan (Europe/Madrid). UTC: 05:00 udan, 06:00 neguan.
-    # Tarteko ordu bat aukeratzen dugu: 05:30 UTC ≈ 06:30/07:30 tokiko orduan.
-    - cron: "30 5 * * *"
+    # Egunean behin, goizaldeko 03:00etan (Europe/Madrid). UTC: 01:00 udan, 02:00 neguan.
+    # Tarteko ordu bat aukeratzen dugu: 01:30 UTC ≈ 02:30/03:30 tokiko orduan.
+    - cron: "30 1 * * *"
   workflow_dispatch: {} # Eskuzko trigger Actions fitxatik
 
 permissions:
