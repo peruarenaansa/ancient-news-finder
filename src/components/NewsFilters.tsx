@@ -1,4 +1,4 @@
-import { Search, Bookmark, CheckCheck, Eye, EyeOff } from 'lucide-react';
+import { Search, Heart, CheckCheck, Eye, EyeOff } from 'lucide-react';
 import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
@@ -141,8 +141,8 @@ export function NewsFilters({
                   : 'hover:bg-muted hover:text-foreground'
               }
             >
-              <Bookmark className={`mr-1 h-4 w-4 ${showSavedOnly ? 'fill-current' : ''}`} />
-              Gogokoak {savedSize > 0 && <Badge variant="secondary" className="ml-2">{savedSize}</Badge>}
+              <Heart className={`mr-1 h-4 w-4 ${showSavedOnly ? 'fill-current' : ''}`} />
+              Gustukoak {savedSize > 0 && <Badge variant="secondary" className="ml-2">{savedSize}</Badge>}
             </Button>
 
             <Button

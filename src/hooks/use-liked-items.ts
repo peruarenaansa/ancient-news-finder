@@ -1,21 +1,21 @@
 import { useEffect, useState } from 'react';
 import type { NewsItem } from '@/lib/news-types';
 
+// Lehengo gakoa mantentzen dugu: lehen 'gordeak/bookmark' zen,
+// orain 'gustukoak/like' kontzeptua da. Datu egitura berbera (item snapshot-ak).
 const KEY = 'archaeo:saved-items';
 
 /**
- * Gogokoen kudeaketa: ID-ak ETA item osoaren snapshot-a gordetzen ditu localStorage-en.
- * Horrela, jatorrizko iturria news.json-etik desagertu arren (iturria kendu, ID aldatu...),
- * gogokoa zerrendan agertzen jarraituko da.
+ * Gustukoen (Like) kudeaketa: ID-ak ETA item osoaren snapshot-a localStorage-en.
+ * Iturria news.json-etik desagertu arren, gustukoa zerrendan agertzen jarraituko da.
  */
-export function useSavedItems() {
+export function useLikedItems() {
   const [items, setItems] = useState<Record<string, NewsItem>>(() => {
     if (typeof window === 'undefined') return {};
     try {
       const raw = localStorage.getItem(KEY);
       if (!raw) return {};
       const parsed = JSON.parse(raw);
-      // Migrazioa: lehen Set<string> bat zen `archaeo:saved` gakoan
       if (Array.isArray(parsed)) return {};
       return parsed as Record<string, NewsItem>;
     } catch {
@@ -31,7 +31,7 @@ export function useSavedItems() {
     }
   }, [items]);
 
-  const isSaved = (id: string) => Object.prototype.hasOwnProperty.call(items, id);
+  const isLiked = (id: string) => Object.prototype.hasOwnProperty.call(items, id);
 
   const toggle = (item: NewsItem) =>
     setItems((prev) => {
@@ -41,8 +41,8 @@ export function useSavedItems() {
       return next;
     });
 
-  const savedList = (): NewsItem[] => Object.values(items);
+  const likedList = (): NewsItem[] => Object.values(items);
   const size = Object.keys(items).length;
 
-  return { isSaved, toggle, savedList, size };
+  return { isLiked, toggle, likedList, size };
 }
