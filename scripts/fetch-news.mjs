@@ -412,14 +412,36 @@ async function main() {
   console.log(`\n📜 Bilketa hasten... ${SOURCES.length} iturri\n`);
 
   const results = await Promise.all(SOURCES.map(fetchSource));
-  const all = results.flatMap((r) => r.items);
+  const fresh = results.flatMap((r) => r.items);
   const statusById = Object.fromEntries(results.map((r) => [r.status.id, r.status]));
 
-  // Deduplikazioa URLaren bidez
-  const seen = new Map();
-  for (const item of all) {
-    if (!seen.has(item.url)) seen.set(item.url, item);
+  // Lehendik dagoen news.json kargatu (existitzen bada), albisteak behin bakarrik
+  // karga daitezen. URL ezagunak ez dira berriro prozesatzen eta lehengo metadatuak
+  // gordetzen dira (jatorrizko publishedAt, irudia, etab.).
+  const outPath = path.join(ROOT, 'public', 'news.json');
+  let existing = [];
+  try {
+    const prev = JSON.parse(await fs.readFile(outPath, 'utf8'));
+    if (Array.isArray(prev.items)) existing = prev.items;
+    console.log(`📂 Lehengo news.json: ${existing.length} albiste aurkitu dira`);
+  } catch {
+    console.log('📂 Lehengo news.json ez dago — lehen exekuzioa');
   }
+
+  // Deduplikazioa URLaren bidez. Lehentasuna lehengo sarrerei (existing) ematen
+  // zaie: jada ezagunak diren albisteak ez ditugu berriz "berri" gisa kargatzen.
+  const seen = new Map();
+  for (const item of existing) {
+    if (item?.url && !seen.has(item.url)) seen.set(item.url, item);
+  }
+  let added = 0;
+  for (const item of fresh) {
+    if (item?.url && !seen.has(item.url)) {
+      seen.set(item.url, item);
+      added++;
+    }
+  }
+  console.log(`🆕 ${added} albiste berri gehitu dira (${fresh.length} ekarrita guztira)`);
 
   const deduped = [...seen.values()].sort(
     (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
@@ -445,7 +467,6 @@ async function main() {
     items: recent,
   };
 
-  const outPath = path.join(ROOT, 'public', 'news.json');
   await fs.mkdir(path.dirname(outPath), { recursive: true });
   await fs.writeFile(outPath, JSON.stringify(out, null, 2), 'utf8');
 
