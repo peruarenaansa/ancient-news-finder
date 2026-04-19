@@ -1,4 +1,4 @@
-import { ExternalLink, Heart, Check, CheckCheck } from 'lucide-react';
+import { ExternalLink, Heart, Check, Bookmark } from 'lucide-react';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import { cn } from '@/lib/utils';
@@ -13,8 +13,10 @@ import {
 interface Props {
   item: NewsItem;
   liked: boolean;
+  bookmarked: boolean;
   read: boolean;
   onToggleLike: () => void;
+  onToggleBookmark: () => void;
   onToggleRead: () => void;
   onMarkRead: () => void;
 }
@@ -34,14 +36,23 @@ function formatDate(iso: string) {
   return d.toLocaleDateString('eu-ES', { year: 'numeric', month: 'short', day: 'numeric' });
 }
 
-export function NewsCard({ item, liked, read, onToggleLike, onToggleRead, onMarkRead }: Props) {
+export function NewsCard({
+  item,
+  liked,
+  bookmarked,
+  read,
+  onToggleLike,
+  onToggleBookmark,
+  onToggleRead,
+  onMarkRead,
+}: Props) {
   return (
     <article
       className={cn(
         'group flex gap-4 rounded-lg border bg-card p-4 transition-all',
         'hover:border-primary/40 hover:shadow-sm',
-        read && !liked && 'opacity-70',
-        liked && 'border-primary/40',
+        read && !liked && !bookmarked && 'opacity-70',
+        (liked || bookmarked) && 'border-primary/40',
       )}
     >
       {item.image ? (
@@ -96,11 +107,23 @@ export function NewsCard({ item, liked, read, onToggleLike, onToggleRead, onMark
               aria-label={read ? 'Markatu irakurri gabe' : 'Markatu irakurritzat'}
               title={read ? 'Markatu irakurri gabe' : 'Markatu irakurritzat'}
             >
-              {read ? (
-                <CheckCheck className="h-4 w-4 text-primary" />
-              ) : (
-                <Check className="h-4 w-4" />
-              )}
+              <Check className={cn('h-4 w-4', read ? 'text-primary' : 'text-foreground/70')} />
+            </Button>
+            <Button
+              variant="ghost"
+              size="icon"
+              className="h-8 w-8"
+              onClick={onToggleBookmark}
+              aria-pressed={bookmarked}
+              aria-label={bookmarked ? 'Kendu bookmark-etatik' : 'Gorde gero irakurtzeko'}
+              title={bookmarked ? 'Kendu bookmark-etatik' : 'Gorde gero irakurtzeko'}
+            >
+              <Bookmark
+                className={cn(
+                  'h-4 w-4',
+                  bookmarked ? 'fill-primary text-primary' : 'text-foreground/70',
+                )}
+              />
             </Button>
             <Button
               variant="ghost"
@@ -152,11 +175,6 @@ export function NewsCard({ item, liked, read, onToggleLike, onToggleRead, onMark
           >
             Irakurri jatorrian <ExternalLink className="h-3 w-3" />
           </a>
-          {read && (
-            <span className="inline-flex items-center gap-1 text-xs">
-              <Check className="h-3 w-3" /> Irakurrita
-            </span>
-          )}
         </div>
       </div>
     </article>
