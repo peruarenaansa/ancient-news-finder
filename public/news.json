@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-18T17:44:02.502Z",
-  "count": 180,
+  "generatedAt": "2026-04-19T06:57:30.201Z",
+  "count": 182,
   "sources": [
     {
       "id": "diariovasco-cultura",
@@ -13,7 +13,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 643
+      "elapsedMs": 803
     },
     {
       "id": "labrujulaverde",
@@ -26,7 +26,7 @@
       "kept": 7,
       "droppedOffTopic": 12,
       "droppedModern": 1,
-      "elapsedMs": 1040
+      "elapsedMs": 1107
     },
     {
       "id": "desperta-ferro",
@@ -39,7 +39,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 4,
-      "elapsedMs": 422
+      "elapsedMs": 1288
     },
     {
       "id": "elpais-cultura",
@@ -52,7 +52,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2270
+      "elapsedMs": 1233
     },
     {
       "id": "abc-cultura",
@@ -65,7 +65,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 269
+      "elapsedMs": 668
     },
     {
       "id": "inrap",
@@ -78,7 +78,7 @@
       "kept": 11,
       "droppedOffTopic": 15,
       "droppedModern": 4,
-      "elapsedMs": 675
+      "elapsedMs": 1195
     },
     {
       "id": "lefigaro-histoire",
@@ -91,7 +91,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 776
+      "elapsedMs": 694
     },
     {
       "id": "lemonde-sciences",
@@ -104,7 +104,7 @@
       "kept": 1,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 350
+      "elapsedMs": 903
     },
     {
       "id": "lemonde-archeo",
@@ -117,7 +117,7 @@
       "kept": 10,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 975
+      "elapsedMs": 1747
     },
     {
       "id": "francetvinfo-archeo",
@@ -130,7 +130,7 @@
       "kept": 0,
       "droppedOffTopic": 1,
       "droppedModern": 0,
-      "elapsedMs": 4015
+      "elapsedMs": 4879
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -139,11 +139,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 23,
+      "fetched": 21,
       "kept": 10,
-      "droppedOffTopic": 12,
+      "droppedOffTopic": 10,
       "droppedModern": 1,
-      "elapsedMs": 547
+      "elapsedMs": 1288
     },
     {
       "id": "sudouest-culture",
@@ -153,10 +153,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 1,
-      "droppedOffTopic": 19,
+      "kept": 0,
+      "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 913
+      "elapsedMs": 1567
     },
     {
       "id": "observador-cultura",
@@ -169,7 +169,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1319
+      "elapsedMs": 2015
     },
     {
       "id": "ansa-cultura",
@@ -182,7 +182,7 @@
       "kept": 0,
       "droppedOffTopic": 28,
       "droppedModern": 0,
-      "elapsedMs": 1360
+      "elapsedMs": 1992
     },
     {
       "id": "repubblica-cultura",
@@ -190,9 +190,12 @@
       "lang": "it",
       "region": "europe",
       "kind": "news",
-      "ok": false,
-      "error": "Status code 503",
-      "elapsedMs": 1160
+      "ok": true,
+      "fetched": 25,
+      "kept": 2,
+      "droppedOffTopic": 23,
+      "droppedModern": 0,
+      "elapsedMs": 2046
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +208,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1652
+      "elapsedMs": 2359
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +221,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 6,
-      "elapsedMs": 1898
+      "elapsedMs": 2566
     },
     {
       "id": "stilearte",
@@ -231,7 +234,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 1987
+      "elapsedMs": 2461
     },
     {
       "id": "live-science-arch",
@@ -244,7 +247,7 @@
       "kept": 4,
       "droppedOffTopic": 26,
       "droppedModern": 0,
-      "elapsedMs": 2887
+      "elapsedMs": 4458
     },
     {
       "id": "bbc-history",
@@ -257,7 +260,7 @@
       "kept": 1,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1563
+      "elapsedMs": 2590
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +273,7 @@
       "kept": 13,
       "droppedOffTopic": 17,
       "droppedModern": 0,
-      "elapsedMs": 1625
+      "elapsedMs": 2294
     },
     {
       "id": "ancient-origins",
@@ -278,9 +281,12 @@
       "lang": "en",
       "region": "world",
       "kind": "news",
-      "ok": false,
-      "error": "Unable to parse XML.",
-      "elapsedMs": 1602
+      "ok": true,
+      "fetched": 10,
+      "kept": 4,
+      "droppedOffTopic": 5,
+      "droppedModern": 1,
+      "elapsedMs": 2528
     },
     {
       "id": "guardian-arch",
@@ -293,7 +299,7 @@
       "kept": 12,
       "droppedOffTopic": 5,
       "droppedModern": 3,
-      "elapsedMs": 1865
+      "elapsedMs": 2717
     },
     {
       "id": "current-archaeology",
@@ -306,7 +312,7 @@
       "kept": 23,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1598
+      "elapsedMs": 2516
     },
     {
       "id": "medievalists",
@@ -319,7 +325,7 @@
       "kept": 6,
       "droppedOffTopic": 0,
       "droppedModern": 4,
-      "elapsedMs": 1687
+      "elapsedMs": 2581
     },
     {
       "id": "jas-reports",
@@ -332,7 +338,7 @@
       "kept": 7,
       "droppedOffTopic": 4,
       "droppedModern": 19,
-      "elapsedMs": 1711
+      "elapsedMs": 2561
     },
     {
       "id": "plos-one-arch",
@@ -345,7 +351,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1731
+      "elapsedMs": 3022
     },
     {
       "id": "rampas",
@@ -358,7 +364,7 @@
       "kept": 12,
       "droppedOffTopic": 3,
       "droppedModern": 10,
-      "elapsedMs": 2932
+      "elapsedMs": 6874
     },
     {
       "id": "spal-us",
@@ -371,7 +377,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2459
+      "elapsedMs": 3765
     },
     {
       "id": "complutum-ucm",
@@ -384,7 +390,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2713
+      "elapsedMs": 4408
     },
     {
       "id": "archeoarte",
@@ -397,7 +403,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2700
+      "elapsedMs": 3993
     },
     {
       "id": "cypsela",
@@ -410,7 +416,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2599
+      "elapsedMs": 4165
     },
     {
       "id": "cambridge-antiquity",
@@ -420,7 +426,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 2668
+      "elapsedMs": 3863
     },
     {
       "id": "cambridge-caj",
@@ -430,7 +436,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 2580
+      "elapsedMs": 3855
     },
     {
       "id": "cambridge-ejarc",
@@ -440,7 +446,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 2484
+      "elapsedMs": 3874
     },
     {
       "id": "archaeology-mag",
@@ -453,7 +459,7 @@
       "kept": 9,
       "droppedOffTopic": 1,
       "droppedModern": 0,
-      "elapsedMs": 2885
+      "elapsedMs": 4281
     },
     {
       "id": "jas-elsevier",
@@ -466,7 +472,7 @@
       "kept": 11,
       "droppedOffTopic": 2,
       "droppedModern": 17,
-      "elapsedMs": 2377
+      "elapsedMs": 3837
     },
     {
       "id": "quaternary-international",
@@ -475,11 +481,11 @@
       "region": "world",
       "kind": "research",
       "ok": true,
-      "fetched": 10,
+      "fetched": 5,
       "kept": 0,
       "droppedOffTopic": 0,
-      "droppedModern": 10,
-      "elapsedMs": 2431
+      "droppedModern": 5,
+      "elapsedMs": 3821
     },
     {
       "id": "aquitania-persee",
@@ -492,7 +498,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 5424
+      "elapsedMs": 5516
     },
     {
       "id": "cuadernos-arq-unav",
@@ -505,7 +511,7 @@
       "kept": 19,
       "droppedOffTopic": 3,
       "droppedModern": 8,
-      "elapsedMs": 3725
+      "elapsedMs": 5609
     },
     {
       "id": "veleia-ehu",
@@ -518,7 +524,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3578
+      "elapsedMs": 5350
     },
     {
       "id": "flv-navarra",
@@ -538,7 +544,7 @@
       "kind": "research",
       "ok": false,
       "error": "Request timed out after 15000ms",
-      "elapsedMs": 15001
+      "elapsedMs": 15000
     },
     {
       "id": "habis-us",
@@ -548,7 +554,7 @@
       "kind": "research",
       "ok": false,
       "error": "Unexpected close tag\nLine: 21\nColumn: 7\nChar: >",
-      "elapsedMs": 3673
+      "elapsedMs": 5239
     },
     {
       "id": "munibe-aa",
@@ -561,7 +567,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 3052
+      "elapsedMs": 4829
     },
     {
       "id": "kobie-paleo",
@@ -574,7 +580,7 @@
       "kept": 12,
       "droppedOffTopic": 8,
       "droppedModern": 10,
-      "elapsedMs": 3014
+      "elapsedMs": 4627
     },
     {
       "id": "kobie-antropo",
@@ -587,7 +593,7 @@
       "kept": 17,
       "droppedOffTopic": 4,
       "droppedModern": 9,
-      "elapsedMs": 2970
+      "elapsedMs": 4613
     },
     {
       "id": "arkeoikuska",
@@ -600,7 +606,7 @@
       "kept": 28,
       "droppedOffTopic": 1,
       "droppedModern": 1,
-      "elapsedMs": 2928
+      "elapsedMs": 4667
     },
     {
       "id": "isturitz",
@@ -613,7 +619,7 @@
       "kept": 28,
       "droppedOffTopic": 1,
       "droppedModern": 1,
-      "elapsedMs": 2942
+      "elapsedMs": 4684
     },
     {
       "id": "zephyrus-usal",
@@ -626,7 +632,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 2980
+      "elapsedMs": 4595
     },
     {
       "id": "trabajos-prehistoria",
@@ -639,69 +645,17 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 3041
+      "elapsedMs": 4700
     }
   ],
   "items": [
-    {
-      "id": "jas-elsevier:https://www.sciencedirect.com/science/article/pii/S030544032600066X?dgcid=rss_sd_all",
-      "title": "Dating Celtic fields with luminescence",
-      "summary": "Publication date: May 2026 Source: Journal of Archaeological Science, Volume 189 Author(s): Jungyu Choi, Roy van Beek, Elizabeth L. Chamberlain, Jakob Wallinga",
-      "url": "https://www.sciencedirect.com/science/article/pii/S030544032600066X?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-04-18T17:43:49.874Z",
-      "source": {
-        "id": "jas-elsevier",
-        "name": "Journal of Archaeological Science (Elsevier)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "jas-elsevier:https://www.sciencedirect.com/science/article/pii/S0305440326000865?dgcid=rss_sd_all",
-      "title": "Sedimentary ancient DNA metagenomic analysis provides new insights into farming in central Norway from the Bronze Age to late Medieval period",
-      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science, Volume 190 Author(s): Renato La Torre, Paula Kosel, Vanessa C. Bieker, Kristine Bakke Westergaard, Jonas Lien Mykkeltvedt, Kathinka Louisa Yildirim, Martin Seiler, Bente Philippsen, Richard I. Macphail,…",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326000865?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-04-18T17:43:49.873Z",
-      "source": {
-        "id": "jas-elsevier",
-        "name": "Journal of Archaeological Science (Elsevier)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria",
-        "erdi-aroa"
-      ]
-    },
-    {
-      "id": "jas-elsevier:https://www.sciencedirect.com/science/article/pii/S0305440326000841?dgcid=rss_sd_all",
-      "title": "The Circulation of Pearls in the Eastern and Western Worlds During the Neolithic Age: New discoveries from the Xihetan site in the Hexi Corridor, China",
-      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science, Volume 190 Author(s): Li Zeng, Yihan Huang, YiShi Yang, Xue Ling, Ge Zhao, Congcang Zhao, Guoke Chen",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326000841?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-04-18T17:43:49.873Z",
-      "source": {
-        "id": "jas-elsevier",
-        "name": "Journal of Archaeological Science (Elsevier)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria",
-        "asia",
-        "aurkikuntza"
-      ]
-    },
     {
       "id": "jas-elsevier:https://www.sciencedirect.com/science/article/pii/S0305440326000828?dgcid=rss_sd_all",
       "title": "Human-animal interactions in prehistoric China: Insights from metagenomic analysis of Longshan period paleofeces",
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science, Volume 190 Author(s): Zhihang Ma, Qing Hu, Hanlin Xu, Haixia Wen, Jianxue Xiong, Qian Han, Xuesong Pei, Jing Shao, Xiaolin Ma, Shaoqing Wen",
       "url": "https://www.sciencedirect.com/science/article/pii/S0305440326000828?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T17:43:49.873Z",
+      "publishedAt": "2026-04-19T06:57:19.033Z",
       "source": {
         "id": "jas-elsevier",
         "name": "Journal of Archaeological Science (Elsevier)"
@@ -719,7 +673,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science, Volume 190 Author(s): Junling Lin, Zhenfei Sun, Siran Liu",
       "url": "https://www.sciencedirect.com/science/article/pii/S0305440326000786?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T17:43:49.873Z",
+      "publishedAt": "2026-04-19T06:57:19.033Z",
       "source": {
         "id": "jas-elsevier",
         "name": "Journal of Archaeological Science (Elsevier)"
@@ -737,7 +691,7 @@
       "summary": "Publication date: May 2026 Source: Journal of Archaeological Science, Volume 189 Author(s): Yingying Wu, Zhaofeng Sun, Zhaoyang Zhang, Donglei Cao, Huinan Sun, Can Wang",
       "url": "https://www.sciencedirect.com/science/article/pii/S0305440326000804?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T17:43:49.873Z",
+      "publishedAt": "2026-04-19T06:57:19.033Z",
       "source": {
         "id": "jas-elsevier",
         "name": "Journal of Archaeological Science (Elsevier)"
@@ -755,7 +709,7 @@
       "summary": "Publication date: May 2026 Source: Journal of Archaeological Science, Volume 189 Author(s): Lasse Lukas Platz Herskind, Riccardo Fusaroli, Helena Miton, Felix Riede",
       "url": "https://www.sciencedirect.com/science/article/pii/S0305440326000762?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T17:43:49.873Z",
+      "publishedAt": "2026-04-19T06:57:19.033Z",
       "source": {
         "id": "jas-elsevier",
         "name": "Journal of Archaeological Science (Elsevier)"
@@ -772,7 +726,7 @@
       "summary": "Publication date: May 2026 Source: Journal of Archaeological Science, Volume 189 Author(s): Xu Liu, Rubi Wu, Bingyan Wang, Yang Li, Shuhan Zhang, Kai Lv, Jixi Gao, Yong Ge, Xuexiang Chen",
       "url": "https://www.sciencedirect.com/science/article/pii/S0305440326000750?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T17:43:49.873Z",
+      "publishedAt": "2026-04-19T06:57:19.033Z",
       "source": {
         "id": "jas-elsevier",
         "name": "Journal of Archaeological Science (Elsevier)"
@@ -785,12 +739,27 @@
       ]
     },
     {
+      "id": "jas-elsevier:https://www.sciencedirect.com/science/article/pii/S030544032600066X?dgcid=rss_sd_all",
+      "title": "Dating Celtic fields with luminescence",
+      "summary": "Publication date: May 2026 Source: Journal of Archaeological Science, Volume 189 Author(s): Jungyu Choi, Roy van Beek, Elizabeth L. Chamberlain, Jakob Wallinga",
+      "url": "https://www.sciencedirect.com/science/article/pii/S030544032600066X?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-04-19T06:57:19.033Z",
+      "source": {
+        "id": "jas-elsevier",
+        "name": "Journal of Archaeological Science (Elsevier)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
       "id": "jas-elsevier:https://www.sciencedirect.com/science/article/pii/S0305440326000877?dgcid=rss_sd_all",
       "title": "Neolithic plaster floors at Motza: Earliest case of burning dolomite for plaster",
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science, Volume 190 Author(s): Yonah Maor, Dmitry Yegorov, Anna Kossoy, Yishаy Feldman, Hamoudi Khalaily, Jacob Vardi, Yotam Asscher",
       "url": "https://www.sciencedirect.com/science/article/pii/S0305440326000877?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T17:43:49.872Z",
+      "publishedAt": "2026-04-19T06:57:19.032Z",
       "source": {
         "id": "jas-elsevier",
         "name": "Journal of Archaeological Science (Elsevier)"
@@ -807,7 +776,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science, Volume 190 Author(s): Ruimin Su, Jianxin Cui, Xinyuan Kong",
       "url": "https://www.sciencedirect.com/science/article/pii/S0305440326000944?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T17:43:49.872Z",
+      "publishedAt": "2026-04-19T06:57:19.032Z",
       "source": {
         "id": "jas-elsevier",
         "name": "Journal of Archaeological Science (Elsevier)"
@@ -824,7 +793,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science, Volume 190 Author(s): Miriam Vílchez Suárez, Gonzalo Aranda Jiménez, Katharina Rebay-Salisbury, Fabian Kanz, Rebeca García González, Nico Cirotto, Paula Becerra Fuello, Margarita Sánchez Romero, Marta…",
       "url": "https://www.sciencedirect.com/science/article/pii/S0305440326000853?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T17:43:49.872Z",
+      "publishedAt": "2026-04-19T06:57:19.032Z",
       "source": {
         "id": "jas-elsevier",
         "name": "Journal of Archaeological Science (Elsevier)"
@@ -836,89 +805,40 @@
       ]
     },
     {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001860?dgcid=rss_sd_all",
-      "title": "Bone tool functionality in the Bronze Age copper mines of Great Orme (UK): Preliminary results",
-      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Olga Zagorodnia, Harriet White",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001860?dgcid=rss_sd_all",
+      "id": "jas-elsevier:https://www.sciencedirect.com/science/article/pii/S0305440326000865?dgcid=rss_sd_all",
+      "title": "Sedimentary ancient DNA metagenomic analysis provides new insights into farming in central Norway from the Bronze Age to late Medieval period",
+      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science, Volume 190 Author(s): Renato La Torre, Paula Kosel, Vanessa C. Bieker, Kristine Bakke Westergaard, Jonas Lien Mykkeltvedt, Kathinka Louisa Yildirim, Martin Seiler, Bente Philippsen, Richard I. Macphail,…",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326000865?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T17:43:49.202Z",
+      "publishedAt": "2026-04-19T06:57:19.032Z",
       "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
+        "id": "jas-elsevier",
+        "name": "Journal of Archaeological Science (Elsevier)"
       },
       "lang": "en",
       "region": "world",
       "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001756?dgcid=rss_sd_all",
-      "title": "Diet, mobility and gendered violence: Integrating multi-isotope analysis with proteomic sex identification at the bi-ritual Early Iron Age cemetery of Statzendorf, lower Austria",
-      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Katharina Rebay-Salisbury, Lukas Waltenberger, Michaela Fritzl, Hannah Skerjanz, Domnika Verdianu, Leslie Quade, Michaela Spannagl-Steiner, Michael Wolf, Fabian Kanz, Anneminne…",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001756?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-04-18T17:43:49.202Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001847?dgcid=rss_sd_all",
-      "title": "ZooMS as a tool for identifying animal remains from Early Medieval Pohansko: A case study",
-      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Weronika Karolina Cieszynska, Ondrej Šedo, Petr Dresler, Gabriela Dreslerová, Jiří Macháček, Renáta Přichystalová, Zuzana Hofmanová",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001847?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-04-18T17:43:49.202Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
+        "prehistoria",
         "erdi-aroa"
       ]
     },
     {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001641?dgcid=rss_sd_all",
-      "title": "Materializing gender in Iberian prehistory: sex, age and decubitus in Bronze age burials",
-      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Alejandra Sánchez-Polo, Angélica Santa Cruz del Barrio, Javier Velasco Vázquez, Miguel del Nogal Sánchez, Ana María Casas-Ferreira, José Luis Pérez Pavón, Carmen Patino Alonso,…",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001641?dgcid=rss_sd_all",
+      "id": "jas-elsevier:https://www.sciencedirect.com/science/article/pii/S0305440326000841?dgcid=rss_sd_all",
+      "title": "The Circulation of Pearls in the Eastern and Western Worlds During the Neolithic Age: New discoveries from the Xihetan site in the Hexi Corridor, China",
+      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science, Volume 190 Author(s): Li Zeng, Yihan Huang, YiShi Yang, Xue Ling, Ge Zhao, Congcang Zhao, Guoke Chen",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326000841?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T17:43:49.202Z",
+      "publishedAt": "2026-04-19T06:57:19.032Z",
       "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
+        "id": "jas-elsevier",
+        "name": "Journal of Archaeological Science (Elsevier)"
       },
       "lang": "en",
-      "region": "iberia",
+      "region": "world",
       "topics": [
         "prehistoria",
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001859?dgcid=rss_sd_all",
-      "title": "Networks and transcultural evidence in late iron age Bisenzio (Capodimonte, VT, Italy, 750–730 BCE)",
-      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): A. Babbi, A. Celant, G. Germinario, J. Hertzog, M. Lamonaca, F. Michelangeli, P. Schmitt-Kopplin, R. Schwab",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001859?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-04-18T17:43:49.201Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
+        "asia",
+        "aurkikuntza"
       ]
     },
     {
@@ -927,7 +847,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Lina Li, Chunyang Liu, Yanpeng Cao, Shuzheng Zhu, Jiyin Wei, Chunguang Gu, Li Liu",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001987?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T17:43:49.201Z",
+      "publishedAt": "2026-04-19T06:57:17.752Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -945,7 +865,7 @@
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Adrián Nemergut, Michal Cheben, Ludmila Kaňáková Hladíková, Jan Petřík, Jun Takakura, Antonín Přichystal, Lubomír Prokeš, Monika Gabulová",
       "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001525?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-04-18T17:43:49.201Z",
+      "publishedAt": "2026-04-19T06:57:17.752Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -954,6 +874,109 @@
       "region": "world",
       "topics": [
         "prehistoria"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001860?dgcid=rss_sd_all",
+      "title": "Bone tool functionality in the Bronze Age copper mines of Great Orme (UK): Preliminary results",
+      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Olga Zagorodnia, Harriet White",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001860?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-04-19T06:57:17.752Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001756?dgcid=rss_sd_all",
+      "title": "Diet, mobility and gendered violence: Integrating multi-isotope analysis with proteomic sex identification at the bi-ritual Early Iron Age cemetery of Statzendorf, lower Austria",
+      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Katharina Rebay-Salisbury, Lukas Waltenberger, Michaela Fritzl, Hannah Skerjanz, Domnika Verdianu, Leslie Quade, Michaela Spannagl-Steiner, Michael Wolf, Fabian Kanz, Anneminne…",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001756?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-04-19T06:57:17.752Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001847?dgcid=rss_sd_all",
+      "title": "ZooMS as a tool for identifying animal remains from Early Medieval Pohansko: A case study",
+      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Weronika Karolina Cieszynska, Ondrej Šedo, Petr Dresler, Gabriela Dreslerová, Jiří Macháček, Renáta Přichystalová, Zuzana Hofmanová",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001847?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-04-19T06:57:17.752Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "erdi-aroa"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001641?dgcid=rss_sd_all",
+      "title": "Materializing gender in Iberian prehistory: sex, age and decubitus in Bronze age burials",
+      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Alejandra Sánchez-Polo, Angélica Santa Cruz del Barrio, Javier Velasco Vázquez, Miguel del Nogal Sánchez, Ana María Casas-Ferreira, José Luis Pérez Pavón, Carmen Patino Alonso,…",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001641?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-04-19T06:57:17.752Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "iberia",
+      "topics": [
+        "prehistoria",
+        "iberiarrak"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001859?dgcid=rss_sd_all",
+      "title": "Networks and transcultural evidence in late iron age Bisenzio (Capodimonte, VT, Italy, 750–730 BCE)",
+      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): A. Babbi, A. Celant, G. Germinario, J. Hertzog, M. Lamonaca, F. Michelangeli, P. Schmitt-Kopplin, R. Schwab",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001859?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-04-19T06:57:17.751Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "medievalists:https://www.medievalists.net/2026/04/new-medieval-books-vikings-knights-elves-and-ogres/",
+      "title": "New Medieval Books: Vikings, Knights, Elves, and Ogres",
+      "summary": "This collection of nine essays explores medieval literature from England and Scandinavia, bringing together studies on figures and texts including Beowulf, Sir Gawain, the wolf Fenrir and Tolkien.",
+      "url": "https://www.medievalists.net/2026/04/new-medieval-books-vikings-knights-elves-and-ogres/",
+      "image": null,
+      "publishedAt": "2026-04-18T23:03:04.000Z",
+      "source": {
+        "id": "medievalists",
+        "name": "Medievalists.net"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa"
       ]
     },
     {
@@ -1022,23 +1045,6 @@
       "region": "europe",
       "topics": [
         "erromatarrak"
-      ]
-    },
-    {
-      "id": "sudouest-culture:https://www.sudouest.fr/culture/litterature/helene-gestern-sandro-veronesi-emmanuelle-de-boysson-matisse-les-femmes-vikings-la-selection-des-livres-de-sud-ouest-28730121.php",
-      "title": "Hélène Gestern, Sandro Veronesi, Emmanuelle de Boysson, Matisse, les femmes vikings… La sélection de livres de « Sud Ouest »",
-      "summary": "Que lit-on cette semaine ? La rédaction de « Sud Ouest » vous fait part de ses coups de cœur. À vous de piocher",
-      "url": "https://www.sudouest.fr/culture/litterature/helene-gestern-sandro-veronesi-emmanuelle-de-boysson-matisse-les-femmes-vikings-la-selection-des-livres-de-sud-ouest-28730121.php",
-      "image": null,
-      "publishedAt": "2026-04-18T08:00:00.000Z",
-      "source": {
-        "id": "sudouest-culture",
-        "name": "Sud Ouest — Culture"
-      },
-      "lang": "fr",
-      "region": "basque",
-      "topics": [
-        "erdi-aroa"
       ]
     },
     {
@@ -2153,23 +2159,6 @@
       "topics": []
     },
     {
-      "id": "medievalists:https://www.medievalists.net/2026/04/medieval-solar-storm-detected-through-tree-rings-and-historical-records/",
-      "title": "Medieval Solar Storm Detected Through Tree Rings and Historical Records",
-      "summary": "A medieval solar storm detected in tree rings reveals hidden radiation and challenges what historians thought about the famous auroras of 1204.",
-      "url": "https://www.medievalists.net/2026/04/medieval-solar-storm-detected-through-tree-rings-and-historical-records/",
-      "image": null,
-      "publishedAt": "2026-04-13T01:03:27.000Z",
-      "source": {
-        "id": "medievalists",
-        "name": "Medievalists.net"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "erdi-aroa"
-      ]
-    },
-    {
       "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/04/260412071005.htm",
       "title": "110,000-year-old discovery rewrites human history: Neanderthals and Homo sapiens worked together",
       "summary": "The first-ever published research on Tinshemet Cave reveals that Neanderthals and Homo sapiens in the mid-Middle Paleolithic Levant not only coexisted but actively interacted, sharing technology, lifestyles, and burial customs. These interactions fostered cultural exchange,…",
@@ -2206,6 +2195,21 @@
       ]
     },
     {
+      "id": "repubblica-cultura:https://www.repubblica.it/robinson/2026/04/12/news/aurelio_picca_mario_schifano_quadro_ritrovato_dipinto_in_prigione_madonna-425277614/?rss",
+      "title": "La Regina dei carcerati: come ho ritrovato la Madonna dipinta da Mario Schifano in prigione",
+      "summary": "Una grande tela conservata per decenni in un penitenziario del frusinate, dedicata dal pittore ai compagni reclusi. Qui lo scrittore racconta come ne ha seguito le tracce. E ricostruisce la vita tumultuosa del grande artista",
+      "url": "https://www.repubblica.it/robinson/2026/04/12/news/aurelio_picca_mario_schifano_quadro_ritrovato_dipinto_in_prigione_madonna-425277614/?rss",
+      "image": "https://www.repstatic.it/content/nazionale/img/2026/04/11/195313891-bed186d5-25e4-49a9-827a-50778613acc2.jpg",
+      "publishedAt": "2026-04-12T04:00:00.000Z",
+      "source": {
+        "id": "repubblica-cultura",
+        "name": "La Repubblica — Cultura"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
       "id": "guardian-arch:https://www.theguardian.com/science/2026/apr/11/dice-discovery-start-of-gambling-native-americans-archaeology",
       "title": "Native Americans were gambling with dice 6,000 years earlier than anyone else, study says",
       "summary": "Archaeological record suggests hunter gatherers were playing games of chance at the end of the last ice age Native American hunter gatherers were using dice for gaming and gambling more than 6,000 years before the practice appeared anywhere else, a new study argues. It says dice…",
@@ -2219,6 +2223,23 @@
       "lang": "en",
       "region": "europe",
       "topics": []
+    },
+    {
+      "id": "repubblica-cultura:https://www.repubblica.it/robinson/2026/04/11/news/robinson_mario_schifano_dipinto_madonna_ritrovato-425275801/?rss",
+      "title": "Su Robinson lo Schifano mai visto",
+      "summary": "Una sua Madonna nascosta e scovata da uno scrittore. Mentre Roma celebra il pittore, Aurelio Picca ci racconta l’opera ritrovata e la vita tumultuosa di un protagonista dell’arte italiana. In edicola da domenica 12 aprile",
+      "url": "https://www.repubblica.it/robinson/2026/04/11/news/robinson_mario_schifano_dipinto_madonna_ritrovato-425275801/?rss",
+      "image": "https://www.repstatic.it/content/nazionale/img/2026/04/10/193300185-7fa4e560-cbbe-457b-ad6f-b7981b3c0a8a.jpg",
+      "publishedAt": "2026-04-11T05:00:00.000Z",
+      "source": {
+        "id": "repubblica-cultura",
+        "name": "La Repubblica — Cultura"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
     },
     {
       "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/paleontologie/les-ancetres-des-mammiferes-pondaient-bien-des-oeufs_191913?xtor=RSS-4",
@@ -2867,6 +2888,189 @@
       ]
     },
     {
+      "id": "veleia-ehu:https://ojs.ehu.eus/index.php/Veleia/article/view/27770",
+      "title": "La complicidad femenina en Lisístrata de Aristófanes",
+      "summary": "En Lisístrata Aristófanes aborda el tema de la paz, tratado también en otras comedias, dando el protagonismo al mundo femenino. Hartas del sufrimiento que la guerra trae a sus familias, las mujeres, capitaneadas por la protagonista, deciden actuar unidas. La comedia explota los…",
+      "url": "https://ojs.ehu.eus/index.php/Veleia/article/view/27770",
+      "image": null,
+      "publishedAt": "2026-03-08T23:00:00.000Z",
+      "source": {
+        "id": "veleia-ehu",
+        "name": "Veleia (UPV/EHU)"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "greziarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "veleia-ehu:https://ojs.ehu.eus/index.php/Veleia/article/view/27676",
+      "title": "Mi Marcella: Jerónimo, entre el elogio y la amistad entre sexos",
+      "summary": "Este trabajo revisa diversos elementos de emoción y cercanía, que permiten entrever la relación entre iguales de Jerónimo con un círculo de aristócratas devotas, en particular con Marcela, con quien mantuvo una intensa correspondencia, incardinándolos con la evolución cierta del…",
+      "url": "https://ojs.ehu.eus/index.php/Veleia/article/view/27676",
+      "image": null,
+      "publishedAt": "2026-03-08T23:00:00.000Z",
+      "source": {
+        "id": "veleia-ehu",
+        "name": "Veleia (UPV/EHU)"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "amerika",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "veleia-ehu:https://ojs.ehu.eus/index.php/Veleia/article/view/27847",
+      "title": "Construction mémorielle et tradition gentilice dans l’histoire de Coriolan: le cas de Valeria et de la coopération féminine",
+      "summary": "L’histoire de Coriolan insiste sur une ambassade féminine qui a réussi à déjouer les plans guerriers du général. La tradition met souvent en avant la mère et l’épouse de Coriolan, mais Denys d’Halicarnasse et Plutarque soulignent le rôle déterminant de Valeria, la sœur de P.…",
+      "url": "https://ojs.ehu.eus/index.php/Veleia/article/view/27847",
+      "image": null,
+      "publishedAt": "2026-03-08T23:00:00.000Z",
+      "source": {
+        "id": "veleia-ehu",
+        "name": "Veleia (UPV/EHU)"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": []
+    },
+    {
+      "id": "veleia-ehu:https://ojs.ehu.eus/index.php/Veleia/article/view/27486",
+      "title": "The neglected Herdsman in the Rhesus",
+      "summary": "The importance of the herdsman-messenger in the Rhesus for the question of the authorship of the play has been underestimated. This paper aims at showing that the way in which he is treated by Hector is un-Euripidean: no other lower-status character in the extant Euripidean…",
+      "url": "https://ojs.ehu.eus/index.php/Veleia/article/view/27486",
+      "image": null,
+      "publishedAt": "2026-03-08T23:00:00.000Z",
+      "source": {
+        "id": "veleia-ehu",
+        "name": "Veleia (UPV/EHU)"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": []
+    },
+    {
+      "id": "veleia-ehu:https://ojs.ehu.eus/index.php/Veleia/article/view/27983",
+      "title": "Un vaso de plata del Museo Británico con signos ibéricos",
+      "summary": "La revisión de la epigrafía paleohispánica de la Alta Andalucía ha permitido la detección, en un cuenco de plata procedente de Córdoba conservado en el Museo Británico y conocido ya desde principios del siglo XX, de algunos signos ibéricos que nunca habían sido observados ni…",
+      "url": "https://ojs.ehu.eus/index.php/Veleia/article/view/27983",
+      "image": null,
+      "publishedAt": "2026-03-08T23:00:00.000Z",
+      "source": {
+        "id": "veleia-ehu",
+        "name": "Veleia (UPV/EHU)"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "museoak"
+      ]
+    },
+    {
+      "id": "veleia-ehu:https://ojs.ehu.eus/index.php/Veleia/article/view/27302",
+      "title": "Rios e gêneros poéticos em Ovídio",
+      "summary": "Partindo da perspectiva das estruturas dos gêneros poéticos, e de como o poeta Ovídio (43 AC – 17/18 DC) explora os mais variados efeitos de tradição, transgressão e expansão dessas estruturas, a presente pesquisa procura analisar os rios ao comparar as suas representações em…",
+      "url": "https://ojs.ehu.eus/index.php/Veleia/article/view/27302",
+      "image": null,
+      "publishedAt": "2026-03-08T23:00:00.000Z",
+      "source": {
+        "id": "veleia-ehu",
+        "name": "Veleia (UPV/EHU)"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "veleia-ehu:https://ojs.ehu.eus/index.php/Veleia/article/view/27500",
+      "title": "Los decuriones auxiliares en las Mauretaniae y el Africa Proconsularis-Numidia. Una revisión de sus funciones",
+      "summary": "Los decuriones, que, jerárquicamente, estaban situados por encima de la tropa y justo por debajo de los oficiales ecuestres, apenas han sido objeto de estudios específicos por su escasa presencia en las fuentes. Como resultado, existen carencias en múltiples campos, incluidos…",
+      "url": "https://ojs.ehu.eus/index.php/Veleia/article/view/27500",
+      "image": null,
+      "publishedAt": "2026-03-08T23:00:00.000Z",
+      "source": {
+        "id": "veleia-ehu",
+        "name": "Veleia (UPV/EHU)"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "trabajos-prehistoria:https://openalex.org/W7125425587",
+      "title": "Recensión de: Pedro A. López-García, Denisse L. Argote, Manuel A. Torres-García y Michael C. Thrun. Knowledge Discovery from Archaeological Materials y Denisse L. Argote, Pedro A. López-García, Manuel A. Torres-García y Michael C. Thrun. Machine Learning for Archaeological Applications, Series Elements in Current Archaeological Tools and Techniques. Cambridge University Press.",
+      "summary": "Recensión de: Pedro A. López-García, Denisse L. Argote, Manuel A. Torres-García y Michael C. Thrun. Knowledge Discovery from Archaeological Materials y Denisse L. Argote, Pedro A. López-García, Manuel A. Torres-García y Michael C. Thrun. Machine Learning for Archaeological…",
+      "url": "https://doi.org/10.3989/tp.2025.1090",
+      "image": null,
+      "publishedAt": "2026-01-22T00:00:00.000Z",
+      "source": {
+        "id": "trabajos-prehistoria",
+        "name": "Trabajos de Prehistoria (CSIC)"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "veleia-ehu:https://ojs.ehu.eus/index.php/Veleia/article/view/28142",
+      "title": "Ut genus innotum innotescere. Un veterano bagalense en Mérida",
+      "summary": "Nos proponemos con este artículo presentar una nueva lectura y traducción de un epígrafe fragmentario emeritense ya conocido, que contiene una primera parte en prosa, y una segunda con letra de menor tamaño que forma un carmen. Si bien las letras conservadas son elegantes y se…",
+      "url": "https://ojs.ehu.eus/index.php/Veleia/article/view/28142",
+      "image": null,
+      "publishedAt": "2026-03-08T23:00:00.000Z",
+      "source": {
+        "id": "veleia-ehu",
+        "name": "Veleia (UPV/EHU)"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": []
+    },
+    {
+      "id": "veleia-ehu:https://ojs.ehu.eus/index.php/Veleia/article/view/28121",
+      "title": "Libros recibidos",
+      "summary": "",
+      "url": "https://ojs.ehu.eus/index.php/Veleia/article/view/28121",
+      "image": null,
+      "publishedAt": "2026-03-08T23:00:00.000Z",
+      "source": {
+        "id": "veleia-ehu",
+        "name": "Veleia (UPV/EHU)"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": []
+    },
+    {
+      "id": "veleia-ehu:https://ojs.ehu.eus/index.php/Veleia/article/view/28103",
+      "title": "Introducción. La amicitia femenina: utilidad, simpatía y empatía",
+      "summary": "Este dossier examina la amicitia femenina en la Antigüedad grecorromana con el propósito de cuestionar el tópico historiográfico de la enemistad inherente entre mujeres y de visibilizar sus vínculos de colaboración. Este prejuicio cuenta entre sus múltiples paternidades a la…",
+      "url": "https://ojs.ehu.eus/index.php/Veleia/article/view/28103",
+      "image": null,
+      "publishedAt": "2026-03-08T23:00:00.000Z",
+      "source": {
+        "id": "veleia-ehu",
+        "name": "Veleia (UPV/EHU)"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "erromatarrak",
+        "greziarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
       "id": "veleia-ehu:https://ojs.ehu.eus/index.php/Veleia/article/view/27630",
       "title": "Soror, anima mea: vínculos, afectos y apoyos entre mujeres en la Roma antigua",
       "summary": "El presente artículo es una aproximación a las relaciones de concordia y afectividad entre mujeres en la sociedad romana antigua, a través del estudio de los vínculos y apoyos que tejieron entre sí. En primer lugar, el topos recurrente de mujeres-enemistad, reflejado en las…",
@@ -2986,189 +3190,6 @@
       "lang": "es",
       "region": "basque",
       "topics": []
-    },
-    {
-      "id": "trabajos-prehistoria:https://openalex.org/W7125425587",
-      "title": "Recensión de: Pedro A. López-García, Denisse L. Argote, Manuel A. Torres-García y Michael C. Thrun. Knowledge Discovery from Archaeological Materials y Denisse L. Argote, Pedro A. López-García, Manuel A. Torres-García y Michael C. Thrun. Machine Learning for Archaeological Applications, Series Elements in Current Archaeological Tools and Techniques. Cambridge University Press.",
-      "summary": "Recensión de: Pedro A. López-García, Denisse L. Argote, Manuel A. Torres-García y Michael C. Thrun. Knowledge Discovery from Archaeological Materials y Denisse L. Argote, Pedro A. López-García, Manuel A. Torres-García y Michael C. Thrun. Machine Learning for Archaeological…",
-      "url": "https://doi.org/10.3989/tp.2025.1090",
-      "image": null,
-      "publishedAt": "2026-01-22T00:00:00.000Z",
-      "source": {
-        "id": "trabajos-prehistoria",
-        "name": "Trabajos de Prehistoria (CSIC)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "veleia-ehu:https://ojs.ehu.eus/index.php/Veleia/article/view/28142",
-      "title": "Ut genus innotum innotescere. Un veterano bagalense en Mérida",
-      "summary": "Nos proponemos con este artículo presentar una nueva lectura y traducción de un epígrafe fragmentario emeritense ya conocido, que contiene una primera parte en prosa, y una segunda con letra de menor tamaño que forma un carmen. Si bien las letras conservadas son elegantes y se…",
-      "url": "https://ojs.ehu.eus/index.php/Veleia/article/view/28142",
-      "image": null,
-      "publishedAt": "2026-03-08T23:00:00.000Z",
-      "source": {
-        "id": "veleia-ehu",
-        "name": "Veleia (UPV/EHU)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "veleia-ehu:https://ojs.ehu.eus/index.php/Veleia/article/view/28121",
-      "title": "Libros recibidos",
-      "summary": "",
-      "url": "https://ojs.ehu.eus/index.php/Veleia/article/view/28121",
-      "image": null,
-      "publishedAt": "2026-03-08T23:00:00.000Z",
-      "source": {
-        "id": "veleia-ehu",
-        "name": "Veleia (UPV/EHU)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "veleia-ehu:https://ojs.ehu.eus/index.php/Veleia/article/view/28103",
-      "title": "Introducción. La amicitia femenina: utilidad, simpatía y empatía",
-      "summary": "Este dossier examina la amicitia femenina en la Antigüedad grecorromana con el propósito de cuestionar el tópico historiográfico de la enemistad inherente entre mujeres y de visibilizar sus vínculos de colaboración. Este prejuicio cuenta entre sus múltiples paternidades a la…",
-      "url": "https://ojs.ehu.eus/index.php/Veleia/article/view/28103",
-      "image": null,
-      "publishedAt": "2026-03-08T23:00:00.000Z",
-      "source": {
-        "id": "veleia-ehu",
-        "name": "Veleia (UPV/EHU)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "erromatarrak",
-        "greziarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "veleia-ehu:https://ojs.ehu.eus/index.php/Veleia/article/view/27770",
-      "title": "La complicidad femenina en Lisístrata de Aristófanes",
-      "summary": "En Lisístrata Aristófanes aborda el tema de la paz, tratado también en otras comedias, dando el protagonismo al mundo femenino. Hartas del sufrimiento que la guerra trae a sus familias, las mujeres, capitaneadas por la protagonista, deciden actuar unidas. La comedia explota los…",
-      "url": "https://ojs.ehu.eus/index.php/Veleia/article/view/27770",
-      "image": null,
-      "publishedAt": "2026-03-08T23:00:00.000Z",
-      "source": {
-        "id": "veleia-ehu",
-        "name": "Veleia (UPV/EHU)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "greziarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "veleia-ehu:https://ojs.ehu.eus/index.php/Veleia/article/view/27676",
-      "title": "Mi Marcella: Jerónimo, entre el elogio y la amistad entre sexos",
-      "summary": "Este trabajo revisa diversos elementos de emoción y cercanía, que permiten entrever la relación entre iguales de Jerónimo con un círculo de aristócratas devotas, en particular con Marcela, con quien mantuvo una intensa correspondencia, incardinándolos con la evolución cierta del…",
-      "url": "https://ojs.ehu.eus/index.php/Veleia/article/view/27676",
-      "image": null,
-      "publishedAt": "2026-03-08T23:00:00.000Z",
-      "source": {
-        "id": "veleia-ehu",
-        "name": "Veleia (UPV/EHU)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "amerika",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "veleia-ehu:https://ojs.ehu.eus/index.php/Veleia/article/view/27847",
-      "title": "Construction mémorielle et tradition gentilice dans l’histoire de Coriolan: le cas de Valeria et de la coopération féminine",
-      "summary": "L’histoire de Coriolan insiste sur une ambassade féminine qui a réussi à déjouer les plans guerriers du général. La tradition met souvent en avant la mère et l’épouse de Coriolan, mais Denys d’Halicarnasse et Plutarque soulignent le rôle déterminant de Valeria, la sœur de P.…",
-      "url": "https://ojs.ehu.eus/index.php/Veleia/article/view/27847",
-      "image": null,
-      "publishedAt": "2026-03-08T23:00:00.000Z",
-      "source": {
-        "id": "veleia-ehu",
-        "name": "Veleia (UPV/EHU)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "veleia-ehu:https://ojs.ehu.eus/index.php/Veleia/article/view/27486",
-      "title": "The neglected Herdsman in the Rhesus",
-      "summary": "The importance of the herdsman-messenger in the Rhesus for the question of the authorship of the play has been underestimated. This paper aims at showing that the way in which he is treated by Hector is un-Euripidean: no other lower-status character in the extant Euripidean…",
-      "url": "https://ojs.ehu.eus/index.php/Veleia/article/view/27486",
-      "image": null,
-      "publishedAt": "2026-03-08T23:00:00.000Z",
-      "source": {
-        "id": "veleia-ehu",
-        "name": "Veleia (UPV/EHU)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "veleia-ehu:https://ojs.ehu.eus/index.php/Veleia/article/view/27983",
-      "title": "Un vaso de plata del Museo Británico con signos ibéricos",
-      "summary": "La revisión de la epigrafía paleohispánica de la Alta Andalucía ha permitido la detección, en un cuenco de plata procedente de Córdoba conservado en el Museo Británico y conocido ya desde principios del siglo XX, de algunos signos ibéricos que nunca habían sido observados ni…",
-      "url": "https://ojs.ehu.eus/index.php/Veleia/article/view/27983",
-      "image": null,
-      "publishedAt": "2026-03-08T23:00:00.000Z",
-      "source": {
-        "id": "veleia-ehu",
-        "name": "Veleia (UPV/EHU)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "museoak"
-      ]
-    },
-    {
-      "id": "veleia-ehu:https://ojs.ehu.eus/index.php/Veleia/article/view/27302",
-      "title": "Rios e gêneros poéticos em Ovídio",
-      "summary": "Partindo da perspectiva das estruturas dos gêneros poéticos, e de como o poeta Ovídio (43 AC – 17/18 DC) explora os mais variados efeitos de tradição, transgressão e expansão dessas estruturas, a presente pesquisa procura analisar os rios ao comparar as suas representações em…",
-      "url": "https://ojs.ehu.eus/index.php/Veleia/article/view/27302",
-      "image": null,
-      "publishedAt": "2026-03-08T23:00:00.000Z",
-      "source": {
-        "id": "veleia-ehu",
-        "name": "Veleia (UPV/EHU)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "veleia-ehu:https://ojs.ehu.eus/index.php/Veleia/article/view/27500",
-      "title": "Los decuriones auxiliares en las Mauretaniae y el Africa Proconsularis-Numidia. Una revisión de sus funciones",
-      "summary": "Los decuriones, que, jerárquicamente, estaban situados por encima de la tropa y justo por debajo de los oficiales ecuestres, apenas han sido objeto de estudios específicos por su escasa presencia en las fuentes. Como resultado, existen carencias en múltiples campos, incluidos…",
-      "url": "https://ojs.ehu.eus/index.php/Veleia/article/view/27500",
-      "image": null,
-      "publishedAt": "2026-03-08T23:00:00.000Z",
-      "source": {
-        "id": "veleia-ehu",
-        "name": "Veleia (UPV/EHU)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "aurkikuntza"
-      ]
     },
     {
       "id": "veleia-ehu:https://ojs.ehu.eus/index.php/Veleia/article/view/27518",
@@ -3452,6 +3473,24 @@
       "lang": "es",
       "region": "europe",
       "topics": []
+    },
+    {
+      "id": "ancient-origins:https://www.ancient-origins.net/news-history-archaeology/sumerian-bitumen-00102535",
+      "title": "Black Gold: Sumerian Bitumen Recipes Worked Like Asphalt, 4,000 Years Ago",
+      "summary": "Black Gold: Sumerian Bitumen Recipes Worked Like Asphalt, 4,000 Years Ago Sumerian craftspeople in Mesopotamia didn’t simply scoop up natural bitumen and slap it on boats or bricks. A new materials study suggests they followed repeatable “recipes” that controlled strength,…",
+      "url": "https://www.ancient-origins.net/news-history-archaeology/sumerian-bitumen-00102535",
+      "image": "https://www.ancient-origins.net/sites/default/files/styles/large/public/field/image/SumerianBuilding.jpg?itok=Rpl6mR1O",
+      "publishedAt": "2026-02-19T23:47:26.000Z",
+      "source": {
+        "id": "ancient-origins",
+        "name": "Ancient Origins"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "ekialde-hurbila",
+        "aurkikuntza"
+      ]
     },
     {
       "id": "lemonde-archeo:https://www.lemonde.fr/sciences/article/2026/02/19/la-regle-d-un-jeu-romain-debloquee-par-l-ia_6667331_1650684.html",
