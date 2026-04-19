@@ -8,44 +8,102 @@ import { useNewsFeed } from '@/hooks/use-news-feed';
 import { useNewsFilters } from '@/hooks/use-news-filters';
 import { useLocalStorageSet } from '@/hooks/use-local-storage-set';
 import { useLikedItems } from '@/hooks/use-liked-items';
+import { useBookmarkedItems } from '@/hooks/use-bookmarked-items';
 import { normalizeText } from '@/lib/normalize-text';
 import type { NewsItem, NewsLang, NewsRegion } from '@/lib/news-types';
 
 const Index = () => {
   const { feed, loading, error } = useNewsFeed();
   const { filters, update, reset, isFiltered } = useNewsFilters();
-  const { query, region, lang, showSavedOnly, showRead } = filters;
+  const { query, region, lang, view } = filters;
 
-  const { isLiked, toggle: toggleLikedRaw, likedList, size: likedSize } = useLikedItems();
-  const { set: read, add: markRead, addMany: markManyRead, toggle: toggleRead } = useLocalStorageSet('archaeo:read');
+  const liked = useLikedItems();
+  const bookmarked = useBookmarkedItems();
+  const { set: read, add: markRead, toggle: toggleReadRaw } = useLocalStorageSet('archaeo:read');
 
-  // Like sakatzean: irakurrita ere markatu (semantika "artxibatu/amaitu")
+  // Egoera esklusiboak: bookmark, like, eta "irakurri-soilik" hiruretako bat bakarrik.
+  // Bookmark eta Like-k bata bestea kentzen dute, eta biek "irakurrita" markatzen dute.
+
   const onToggleLike = (item: NewsItem) => {
-    toggleLikedRaw(item);
-    if (!isLiked(item.id)) {
-      // berriki gehitzen ari da → irakurrita markatu
+    if (liked.isLiked(item.id)) {
+      liked.remove(item.id);
+    } else {
+      liked.add(item);
+      bookmarked.remove(item.id); // esklusiboa
       markRead(item.id);
     }
+  };
+
+  const onToggleBookmark = (item: NewsItem) => {
+    if (bookmarked.isBookmarked(item.id)) {
+      bookmarked.remove(item.id);
+    } else {
+      bookmarked.add(item);
+      liked.remove(item.id); // esklusiboa
+      markRead(item.id);
+    }
+  };
+
+  const onToggleRead = (id: string) => {
+    // "Irakurri gabe" markatzean, like eta bookmark ere kendu (irakurri gabean egoteko)
+    if (read.has(id)) {
+      liked.remove(id);
+      bookmarked.remove(id);
+    }
+    toggleReadRaw(id);
   };
 
   const setFilter = <K extends keyof typeof filters>(key: K, value: (typeof filters)[K]) => {
     update({ [key]: value } as Partial<typeof filters>);
   };
 
+  // Albiste guztien iturri bateratua: feed berria + bookmark/like-en snapshot-ak
+  // (iturritik desagertu arren, mantendu egiten dira).
+  const allItems = useMemo(() => {
+    const byId = new Map<string, NewsItem>();
+    for (const it of bookmarked.list()) byId.set(it.id, it);
+    for (const it of liked.likedList()) byId.set(it.id, it);
+    if (feed) for (const it of feed.items) byId.set(it.id, it);
+    return [...byId.values()];
+  }, [feed, liked, bookmarked]);
+
+  // Ikuspegi bakoitzeko zenbatekoak (iragazki-aurrekoak)
+  const viewCounts = useMemo(() => {
+    let unread = 0,
+      readN = 0;
+    for (const it of allItems) {
+      const isLiked = liked.isLiked(it.id);
+      const isBm = bookmarked.isBookmarked(it.id);
+      const isRead = read.has(it.id);
+      if (!isLiked && !isBm && !isRead) unread++;
+      if (isRead || isLiked || isBm) readN++;
+    }
+    return {
+      unread,
+      read: readN,
+      bookmark: bookmarked.size,
+      liked: liked.size,
+    };
+  }, [allItems, liked, bookmarked, read]);
+
+  // Ikuspegi aktiboaren oinarri-zerrenda
   const baseScope = useMemo(() => {
-    if (!feed) return [] as NewsItem[];
-    if (showSavedOnly) {
-      const stored = likedList();
-      const byId = new Map<string, NewsItem>();
-      for (const it of stored) byId.set(it.id, it);
-      for (const it of feed.items) if (byId.has(it.id)) byId.set(it.id, it);
-      return [...byId.values()].filter((it) => isLiked(it.id));
-    }
-    if (!showRead) {
-      return feed.items.filter((it) => !read.has(it.id));
-    }
-    return feed.items;
-  }, [feed, showSavedOnly, showRead, isLiked, likedList, read]);
+    return allItems.filter((it) => {
+      const isLiked = liked.isLiked(it.id);
+      const isBm = bookmarked.isBookmarked(it.id);
+      const isRead = read.has(it.id);
+      switch (view) {
+        case 'unread':
+          return !isLiked && !isBm && !isRead;
+        case 'read':
+          return isRead || isLiked || isBm;
+        case 'bookmark':
+          return isBm;
+        case 'liked':
+          return isLiked;
+      }
+    });
+  }, [allItems, view, liked, bookmarked, read]);
 
   const filtered = useMemo(() => {
     const q = normalizeText(query.trim());
@@ -61,20 +119,17 @@ const Index = () => {
   }, [baseScope, query, region, lang]);
 
   const sorted = useMemo(() => {
-    if (region !== 'all' || query || lang !== 'all' || showSavedOnly) {
-      return filtered;
+    if (region !== 'all' || query || lang !== 'all' || view !== 'unread') {
+      return [...filtered].sort(
+        (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime(),
+      );
     }
     return [...filtered].sort((a, b) => {
       if (a.region === 'basque' && b.region !== 'basque') return -1;
       if (b.region === 'basque' && a.region !== 'basque') return 1;
       return new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime();
     });
-  }, [filtered, region, query, lang, showSavedOnly]);
-
-  const hiddenReadCount = useMemo(() => {
-    if (!feed || showRead || showSavedOnly) return 0;
-    return feed.items.filter((it) => read.has(it.id)).length;
-  }, [feed, read, showRead, showSavedOnly]);
+  }, [filtered, region, query, lang, view]);
 
   const langCounts = useMemo(() => {
     const counts = new Map<NewsLang, number>();
@@ -109,9 +164,12 @@ const Index = () => {
       })
     : null;
 
-  const resetFilters = () => reset();
-
-  const allVisibleAlreadyRead = sorted.length > 0 && sorted.every((it) => read.has(it.id));
+  const VIEW_LABELS: Record<typeof view, string> = {
+    unread: 'irakurri gabe',
+    read: 'irakurrita',
+    bookmark: 'bookmark-ean',
+    liked: 'gustukoetan',
+  };
 
   return (
     <div className="min-h-screen bg-background">
@@ -121,20 +179,17 @@ const Index = () => {
         query={query}
         region={region}
         lang={lang}
-        showSavedOnly={showSavedOnly}
-        showRead={showRead}
-        savedSize={likedSize}
-        hiddenReadCount={hiddenReadCount}
+        view={view}
+        unreadCount={viewCounts.unread}
+        readCount={viewCounts.read}
+        bookmarkCount={viewCounts.bookmark}
+        likedCount={viewCounts.liked}
         regionCounts={regionCounts}
         availableLangs={availableLangs}
-        totalSorted={sorted.length}
-        allVisibleAlreadyRead={allVisibleAlreadyRead}
         onChangeQuery={(v) => setFilter('query', v)}
         onChangeRegion={(v) => setFilter('region', v)}
         onChangeLang={(v) => setFilter('lang', v)}
-        onToggleSaved={() => setFilter('showSavedOnly', !showSavedOnly)}
-        onToggleShowRead={() => setFilter('showRead', !showRead)}
-        onMarkAllRead={() => markManyRead(sorted.map((it) => it.id))}
+        onChangeView={(v) => setFilter('view', v)}
       />
 
       <main className="container max-w-5xl py-6">
@@ -154,7 +209,7 @@ const Index = () => {
           </div>
         )}
 
-        {!loading && !error && feed && feed.items.length === 0 && (
+        {!loading && !error && allItems.length === 0 && (
           <div className="rounded-lg border border-dashed bg-card p-10 text-center">
             <h2 className="font-display text-xl font-semibold">Oraindik ez dago albisterik</h2>
             <p className="mt-2 text-sm text-muted-foreground">
@@ -171,13 +226,10 @@ const Index = () => {
               aria-atomic="true"
             >
               <span>
-                {sorted.length} albiste {showSavedOnly ? 'gustukoetan' : 'iragazi ondoren'}
-                {!showRead && !showSavedOnly && hiddenReadCount > 0 && (
-                  <> · {hiddenReadCount} irakurri ezkutatuta</>
-                )}
+                {sorted.length} albiste {VIEW_LABELS[view]}
               </span>
               {isFiltered && (
-                <Button variant="ghost" size="sm" onClick={resetFilters}>
+                <Button variant="ghost" size="sm" onClick={() => reset()}>
                   <RefreshCw className="mr-1 h-3 w-3" aria-hidden="true" /> Garbitu iragazkiak
                 </Button>
               )}
@@ -185,26 +237,27 @@ const Index = () => {
 
             <NewsList
               items={sorted}
-              isLiked={isLiked}
+              isLiked={liked.isLiked}
+              isBookmarked={bookmarked.isBookmarked}
               isRead={(id) => read.has(id)}
               onToggleLike={onToggleLike}
-              onToggleRead={toggleRead}
+              onToggleBookmark={onToggleBookmark}
+              onToggleRead={onToggleRead}
               onMarkRead={markRead}
             />
           </>
         )}
 
-        {!loading && !error && feed && feed.items.length > 0 && sorted.length === 0 && (
+        {!loading && !error && allItems.length > 0 && sorted.length === 0 && (
           <div className="rounded-lg border border-dashed p-10 text-center">
             <p className="text-muted-foreground">
-              Ez dago bat datorren albisterik.
-              {!showRead && !showSavedOnly && hiddenReadCount > 0 && (
-                <> Agian denak irakurrita daude — sakatu "Erakutsi irakurriak".</>
-              )}
+              Ez dago bat datorren albisterik {VIEW_LABELS[view]}.
             </p>
-            <Button variant="ghost" size="sm" className="mt-2" onClick={resetFilters}>
-              Garbitu iragazkiak
-            </Button>
+            {isFiltered && (
+              <Button variant="ghost" size="sm" className="mt-2" onClick={() => reset()}>
+                Garbitu iragazkiak
+              </Button>
+            )}
           </div>
         )}
       </main>

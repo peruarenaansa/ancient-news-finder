@@ -1,4 +1,4 @@
-import { Search, Heart, CheckCheck, Eye, EyeOff } from 'lucide-react';
+import { Search, Heart, Bookmark, Inbox, CheckCheck } from 'lucide-react';
 import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
@@ -10,66 +10,65 @@ import {
   SelectTrigger,
   SelectValue,
 } from '@/components/ui/select';
-import {
-  AlertDialog,
-  AlertDialogAction,
-  AlertDialogCancel,
-  AlertDialogContent,
-  AlertDialogDescription,
-  AlertDialogFooter,
-  AlertDialogHeader,
-  AlertDialogTitle,
-  AlertDialogTrigger,
-} from '@/components/ui/alert-dialog';
+import { cn } from '@/lib/utils';
 import {
   LANG_LABELS,
   REGION_LABELS,
   type NewsLang,
   type NewsRegion,
 } from '@/lib/news-types';
+import type { NewsView } from '@/hooks/use-news-filters';
 
 interface Props {
   query: string;
   region: NewsRegion | 'all';
   lang: NewsLang | 'all';
-  showSavedOnly: boolean;
-  showRead: boolean;
-  savedSize: number;
-  hiddenReadCount: number;
+  view: NewsView;
+  unreadCount: number;
+  readCount: number;
+  bookmarkCount: number;
+  likedCount: number;
   regionCounts: Map<NewsRegion, number>;
   availableLangs: { code: NewsLang; count: number }[];
-  totalSorted: number;
-  allVisibleAlreadyRead: boolean;
   onChangeQuery: (value: string) => void;
   onChangeRegion: (value: NewsRegion | 'all') => void;
   onChangeLang: (value: NewsLang | 'all') => void;
-  onToggleSaved: () => void;
-  onToggleShowRead: () => void;
-  onMarkAllRead: () => void;
+  onChangeView: (view: NewsView) => void;
 }
+
+const VIEW_DEFS: { id: NewsView; label: string; icon: typeof Inbox }[] = [
+  { id: 'unread', label: 'Irakurri gabeak', icon: Inbox },
+  { id: 'read', label: 'Irakurriak', icon: CheckCheck },
+  { id: 'bookmark', label: 'Bookmark', icon: Bookmark },
+  { id: 'liked', label: 'Gustukoak', icon: Heart },
+];
 
 export function NewsFilters({
   query,
   region,
   lang,
-  showSavedOnly,
-  showRead,
-  savedSize,
-  hiddenReadCount,
+  view,
+  unreadCount,
+  readCount,
+  bookmarkCount,
+  likedCount,
   regionCounts,
   availableLangs,
-  totalSorted,
-  allVisibleAlreadyRead,
   onChangeQuery,
   onChangeRegion,
   onChangeLang,
-  onToggleSaved,
-  onToggleShowRead,
-  onMarkAllRead,
+  onChangeView,
 }: Props) {
+  const counts: Record<NewsView, number> = {
+    unread: unreadCount,
+    read: readCount,
+    bookmark: bookmarkCount,
+    liked: likedCount,
+  };
+
   return (
     <div className="sticky top-0 z-10 border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/80">
-      <div className="container max-w-5xl py-3">
+      <div className="container max-w-5xl py-3 space-y-2">
         <div className="flex flex-col gap-2 sm:flex-row sm:items-center">
           <div className="relative flex-1">
             <Label htmlFor="news-search" className="sr-only">
@@ -89,118 +88,76 @@ export function NewsFilters({
             />
           </div>
           <div className="flex flex-wrap gap-2">
-            <div>
-              <Label htmlFor="news-region" className="sr-only">
-                Iragazi eskualdearen arabera
-              </Label>
-              <Select value={region} onValueChange={(v) => onChangeRegion(v as NewsRegion | 'all')}>
-                <SelectTrigger id="news-region" className="w-[170px]">
-                  <SelectValue placeholder="Eskualdea" />
-                </SelectTrigger>
-                <SelectContent>
-                  <SelectItem value="all">Eskualde guztiak</SelectItem>
-                  {(Object.keys(REGION_LABELS) as NewsRegion[]).map((r) => {
-                    const count = regionCounts.get(r) ?? 0;
-                    return (
-                      <SelectItem key={r} value={r} disabled={count === 0}>
-                        {REGION_LABELS[r]} ({count})
-                      </SelectItem>
-                    );
-                  })}
-                </SelectContent>
-              </Select>
-            </div>
-
-            <div>
-              <Label htmlFor="news-lang" className="sr-only">
-                Iragazi hizkuntzaren arabera
-              </Label>
-              <Select value={lang} onValueChange={(v) => onChangeLang(v as NewsLang | 'all')}>
-                <SelectTrigger id="news-lang" className="w-[140px]">
-                  <SelectValue placeholder="Hizkuntza" />
-                </SelectTrigger>
-                <SelectContent>
-                  <SelectItem value="all">Hizkuntza guztiak</SelectItem>
-                  {availableLangs.map(({ code, count }) => (
-                    <SelectItem key={code} value={code}>
-                      {LANG_LABELS[code]} ({count})
+            <Select value={region} onValueChange={(v) => onChangeRegion(v as NewsRegion | 'all')}>
+              <SelectTrigger className="w-[170px]">
+                <SelectValue placeholder="Eskualdea" />
+              </SelectTrigger>
+              <SelectContent>
+                <SelectItem value="all">Eskualde guztiak</SelectItem>
+                {(Object.keys(REGION_LABELS) as NewsRegion[]).map((r) => {
+                  const count = regionCounts.get(r) ?? 0;
+                  return (
+                    <SelectItem key={r} value={r} disabled={count === 0}>
+                      {REGION_LABELS[r]} ({count})
                     </SelectItem>
-                  ))}
-                </SelectContent>
-              </Select>
-            </div>
+                  );
+                })}
+              </SelectContent>
+            </Select>
 
-            <Button
-              variant="outline"
-              size="sm"
-              onClick={onToggleSaved}
-              aria-pressed={showSavedOnly}
-              className={
-                showSavedOnly
-                  ? 'border-primary bg-primary/10 text-primary hover:bg-primary/15 hover:text-primary'
-                  : 'hover:bg-muted hover:text-foreground'
-              }
-            >
-              <Heart className={`mr-1 h-4 w-4 ${showSavedOnly ? 'fill-current' : ''}`} />
-              Gustukoak {savedSize > 0 && <Badge variant="secondary" className="ml-2">{savedSize}</Badge>}
-            </Button>
-
-            <Button
-              variant="outline"
-              size="sm"
-              onClick={onToggleShowRead}
-              disabled={showSavedOnly}
-              aria-pressed={showRead}
-              className={
-                showRead && !showSavedOnly
-                  ? 'border-primary bg-primary/10 text-primary hover:bg-primary/15 hover:text-primary'
-                  : 'hover:bg-muted hover:text-foreground'
-              }
-              title={
-                showSavedOnly
-                  ? 'Gogokoetan irakurritakoak ere beti agertzen dira'
-                  : showRead
-                    ? 'Ezkutatu irakurritakoak'
-                    : 'Erakutsi irakurritakoak ere'
-              }
-            >
-              {showRead ? <EyeOff className="mr-1 h-4 w-4" /> : <Eye className="mr-1 h-4 w-4" />}
-              {showRead ? 'Ezkutatu irakurriak' : 'Erakutsi irakurriak'}
-              {!showRead && hiddenReadCount > 0 && (
-                <Badge variant="secondary" className="ml-2">{hiddenReadCount}</Badge>
-              )}
-            </Button>
-
-            <AlertDialog>
-              <AlertDialogTrigger asChild>
-                <Button
-                  variant="outline"
-                  size="sm"
-                  disabled={totalSorted === 0 || allVisibleAlreadyRead}
-                  title="Markatu zerrendako albiste guztiak irakurritzat"
-                >
-                  <CheckCheck className="mr-1 h-4 w-4" />
-                  Denak irakurrita
-                </Button>
-              </AlertDialogTrigger>
-              <AlertDialogContent>
-                <AlertDialogHeader>
-                  <AlertDialogTitle>Markatu denak irakurritzat?</AlertDialogTitle>
-                  <AlertDialogDescription>
-                    Une honetan zerrendan ageri diren {totalSorted} albisteak irakurritzat
-                    markatuko dira. Aurrerantzean ez dira agertuko, "Erakutsi irakurriak"
-                    botoia sakatzen ez baduzu.
-                  </AlertDialogDescription>
-                </AlertDialogHeader>
-                <AlertDialogFooter>
-                  <AlertDialogCancel>Utzi</AlertDialogCancel>
-                  <AlertDialogAction onClick={onMarkAllRead}>
-                    Bai, markatu denak
-                  </AlertDialogAction>
-                </AlertDialogFooter>
-              </AlertDialogContent>
-            </AlertDialog>
+            <Select value={lang} onValueChange={(v) => onChangeLang(v as NewsLang | 'all')}>
+              <SelectTrigger className="w-[140px]">
+                <SelectValue placeholder="Hizkuntza" />
+              </SelectTrigger>
+              <SelectContent>
+                <SelectItem value="all">Hizkuntza guztiak</SelectItem>
+                {availableLangs.map(({ code, count }) => (
+                  <SelectItem key={code} value={code}>
+                    {LANG_LABELS[code]} ({count})
+                  </SelectItem>
+                ))}
+              </SelectContent>
+            </Select>
           </div>
+        </div>
+
+        <div
+          role="tablist"
+          aria-label="Albiste-zerrendak"
+          className="flex flex-wrap gap-1.5"
+        >
+          {VIEW_DEFS.map(({ id, label, icon: Icon }) => {
+            const active = view === id;
+            const count = counts[id];
+            return (
+              <Button
+                key={id}
+                role="tab"
+                aria-selected={active}
+                variant={active ? 'default' : 'outline'}
+                size="sm"
+                onClick={() => onChangeView(id)}
+                className={cn(
+                  'gap-1.5',
+                  !active && 'hover:bg-muted hover:text-foreground',
+                )}
+              >
+                <Icon
+                  className={cn(
+                    'h-4 w-4',
+                    active && (id === 'liked' || id === 'bookmark') && 'fill-current',
+                  )}
+                />
+                {label}
+                <Badge
+                  variant={active ? 'secondary' : 'outline'}
+                  className="ml-0.5 font-normal"
+                >
+                  {count}
+                </Badge>
+              </Button>
+            );
+          })}
         </div>
       </div>
     </div>

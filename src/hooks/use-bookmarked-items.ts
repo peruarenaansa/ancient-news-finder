@@ -1,15 +1,13 @@
 import { useEffect, useState } from 'react';
 import type { NewsItem } from '@/lib/news-types';
 
-// Lehengo gakoa mantentzen dugu: lehen 'gordeak/bookmark' zen,
-// orain 'gustukoak/like' kontzeptua da. Datu egitura berbera (item snapshot-ak).
-const KEY = 'archaeo:saved-items';
+const KEY = 'archaeo:bookmarked-items';
 
 /**
- * Gustukoen (Like) kudeaketa: ID-ak ETA item osoaren snapshot-a localStorage-en.
- * Iturria news.json-etik desagertu arren, gustukoa zerrendan agertzen jarraituko da.
+ * Bookmark (gero irakurtzeko) kudeaketa: item osoaren snapshot-a localStorage-en.
+ * Like eta Bookmark esklusiboak dira: ez dute aldi berean koexistitzen.
  */
-export function useLikedItems() {
+export function useBookmarkedItems() {
   const [items, setItems] = useState<Record<string, NewsItem>>(() => {
     if (typeof window === 'undefined') return {};
     try {
@@ -31,7 +29,7 @@ export function useLikedItems() {
     }
   }, [items]);
 
-  const isLiked = (id: string) => Object.prototype.hasOwnProperty.call(items, id);
+  const isBookmarked = (id: string) => Object.prototype.hasOwnProperty.call(items, id);
 
   const add = (item: NewsItem) =>
     setItems((prev) => (prev[item.id] ? prev : { ...prev, [item.id]: item }));
@@ -52,8 +50,8 @@ export function useLikedItems() {
       return next;
     });
 
-  const likedList = (): NewsItem[] => Object.values(items);
+  const list = (): NewsItem[] => Object.values(items);
   const size = Object.keys(items).length;
 
-  return { isLiked, add, remove, toggle, likedList, size };
+  return { isBookmarked, add, remove, toggle, list, size };
 }

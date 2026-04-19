@@ -2,39 +2,40 @@ import { useCallback, useMemo } from 'react';
 import { useSearchParams } from 'react-router-dom';
 import type { NewsLang, NewsRegion } from '@/lib/news-types';
 
+export type NewsView = 'unread' | 'read' | 'bookmark' | 'liked';
+
 export interface NewsFilters {
   query: string;
   region: NewsRegion | 'all';
   lang: NewsLang | 'all';
-  showSavedOnly: boolean;
-  showRead: boolean;
+  view: NewsView;
 }
 
 const DEFAULTS: NewsFilters = {
   query: '',
   region: 'all',
   lang: 'all',
-  showSavedOnly: false,
-  showRead: false,
+  view: 'unread',
 };
+
+const VALID_VIEWS: NewsView[] = ['unread', 'read', 'bookmark', 'liked'];
 
 /**
  * Iragazkien egoera URL-eko search params-ekin sinkronizatzen du.
- * Horrek partekatze eta atzera/aurrera nabigazioa ahalbidetzen ditu.
  */
 export function useNewsFilters() {
   const [params, setParams] = useSearchParams();
 
-  const filters: NewsFilters = useMemo(
-    () => ({
+  const filters: NewsFilters = useMemo(() => {
+    const rawView = params.get('view') as NewsView | null;
+    const view = rawView && VALID_VIEWS.includes(rawView) ? rawView : DEFAULTS.view;
+    return {
       query: params.get('q') ?? DEFAULTS.query,
       region: (params.get('region') as NewsFilters['region']) || DEFAULTS.region,
       lang: (params.get('lang') as NewsFilters['lang']) || DEFAULTS.lang,
-      showSavedOnly: params.get('saved') === '1',
-      showRead: params.get('read') === '1',
-    }),
-    [params],
-  );
+      view,
+    };
+  }, [params]);
 
   const update = useCallback(
     (patch: Partial<NewsFilters>) => {
@@ -48,8 +49,7 @@ export function useNewsFilters() {
           if ('query' in patch) apply('q', patch.query!, !patch.query);
           if ('region' in patch) apply('region', patch.region!, patch.region === 'all');
           if ('lang' in patch) apply('lang', patch.lang!, patch.lang === 'all');
-          if ('showSavedOnly' in patch) apply('saved', '1', !patch.showSavedOnly);
-          if ('showRead' in patch) apply('read', '1', !patch.showRead);
+          if ('view' in patch) apply('view', patch.view!, patch.view === DEFAULTS.view);
           return next;
         },
         { replace: true },
@@ -66,8 +66,7 @@ export function useNewsFilters() {
     filters.query !== '' ||
     filters.region !== 'all' ||
     filters.lang !== 'all' ||
-    filters.showSavedOnly ||
-    filters.showRead;
+    filters.view !== DEFAULTS.view;
 
   return { filters, update, reset, isFiltered };
 }
