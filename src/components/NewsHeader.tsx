@@ -1,3 +1,5 @@
+import { Link } from 'react-router-dom';
+import { Activity } from 'lucide-react';
 import { ThemeToggle } from '@/components/ThemeToggle';
 
 interface Props {
@@ -22,12 +24,25 @@ export function NewsHeader({ generatedAt, count }: Props) {
               Europa lehenetsita. Iturri publikoetatik bildua.
             </p>
           </div>
-          <ThemeToggle />
+          <div className="flex items-center gap-1">
+            <Link
+              to="/iturriak"
+              className="inline-flex h-9 w-9 items-center justify-center rounded-md text-muted-foreground transition-colors hover:bg-accent hover:text-foreground"
+              aria-label="Iturrien osasun-monitorea"
+              title="Iturrien osasuna"
+            >
+              <Activity className="h-4 w-4" />
+            </Link>
+            <ThemeToggle />
+          </div>
         </div>
 
         {generatedAt && (
           <p className="mt-4 text-xs text-muted-foreground">
-            Azken eguneraketa: {generatedAt} · {count ?? 0} albiste
+            Azken eguneraketa: {generatedAt} · {count ?? 0} albiste ·{' '}
+            <Link to="/iturriak" className="text-primary hover:underline">
+              Iturrien egoera
+            </Link>
           </p>
         )}
       </div>

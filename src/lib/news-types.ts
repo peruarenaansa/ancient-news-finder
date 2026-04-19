@@ -6,6 +6,14 @@ export interface NewsSource {
   name: string;
   lang?: NewsLang;
   region?: NewsRegion;
+  kind?: string;
+  ok?: boolean;
+  fetched?: number;
+  kept?: number;
+  droppedOffTopic?: number;
+  droppedModern?: number;
+  elapsedMs?: number;
+  error?: string;
 }
 
 export interface NewsItem {
