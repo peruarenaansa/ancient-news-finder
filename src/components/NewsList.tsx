@@ -6,18 +6,38 @@ import type { NewsItem } from '@/lib/news-types';
 interface Props {
   items: NewsItem[];
   isLiked: (id: string) => boolean;
+  isBookmarked: (id: string) => boolean;
   isRead: (id: string) => boolean;
   onToggleLike: (item: NewsItem) => void;
+  onToggleBookmark: (item: NewsItem) => void;
   onToggleRead: (id: string) => void;
   onMarkRead: (id: string) => void;
 }
 
-export function NewsList({ items, isLiked, isRead, onToggleLike, onToggleRead, onMarkRead }: Props) {
+export function NewsList({
+  items,
+  isLiked,
+  isBookmarked,
+  isRead,
+  onToggleLike,
+  onToggleBookmark,
+  onToggleRead,
+  onMarkRead,
+}: Props) {
   const parentRef = useRef<HTMLDivElement | null>(null);
+
+  // Neurri finkoa erabiltzen dugu (gutxi gorabeherakoa baino), pilaketa-arazoak
+  // ekiditeko: measureElement-en cache zaharrak offset oker uzten zituen item-ak
+  // kentzean. Estimazio finkoa = posizio determinista beti.
+  const ITEM_HEIGHT_DESKTOP = 180;
+  const ITEM_HEIGHT_MOBILE = 240;
 
   const virtualizer = useVirtualizer({
     count: items.length,
-    estimateSize: () => 168,
+    estimateSize: () =>
+      typeof window !== 'undefined' && window.innerWidth < 640
+        ? ITEM_HEIGHT_MOBILE
+        : ITEM_HEIGHT_DESKTOP,
     overscan: 5,
     getScrollElement: () => parentRef.current,
     observeElementOffset: (instance, cb) => {
@@ -50,9 +70,8 @@ export function NewsList({ items, isLiked, isRead, onToggleLike, onToggleRead, o
   });
 
   useEffect(() => {
-    virtualizer.measurementsCache = [];
     virtualizer.measure();
-  }, [items, virtualizer]);
+  }, [items.length, virtualizer]);
 
   const virtualItems = virtualizer.getVirtualItems();
   const totalSize = virtualizer.getTotalSize();
@@ -71,18 +90,20 @@ export function NewsList({ items, isLiked, isRead, onToggleLike, onToggleRead, o
             <li
               key={item.id}
               data-index={vRow.index}
-              ref={virtualizer.measureElement}
               className="absolute left-0 right-0 pb-3"
               style={{
                 top: 0,
+                height: `${vRow.size}px`,
                 transform: `translateY(${vRow.start}px)`,
               }}
             >
               <NewsCard
                 item={item}
                 liked={isLiked(item.id)}
+                bookmarked={isBookmarked(item.id)}
                 read={isRead(item.id)}
                 onToggleLike={() => onToggleLike(item)}
+                onToggleBookmark={() => onToggleBookmark(item)}
                 onToggleRead={() => onToggleRead(item.id)}
                 onMarkRead={() => onMarkRead(item.id)}
               />
