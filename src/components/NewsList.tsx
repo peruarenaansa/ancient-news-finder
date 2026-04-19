@@ -62,8 +62,7 @@ export function NewsList({ items, isSaved, isRead, onToggleSave, onMarkRead }: P
   // virtualizer-ak lehengo posizioak (translateY) gogoratzen ditu eta item
   // ezberdinei aplikatzen dizkie.
   useEffect(() => {
-    // Neurketen cache osoa garbitu
-    // @ts-expect-error - measurementsCache existitzen da baina ez da tipatuta
+    // Neurketen cache-a garbitu, gero birneurtu
     virtualizer.measurementsCache = [];
     virtualizer.measure();
   }, [items, virtualizer]);
