@@ -5,29 +5,21 @@ import type { NewsItem } from '@/lib/news-types';
 
 interface Props {
   items: NewsItem[];
-  isSaved: (id: string) => boolean;
+  isLiked: (id: string) => boolean;
   isRead: (id: string) => boolean;
-  onToggleSave: (item: NewsItem) => void;
+  onToggleLike: (item: NewsItem) => void;
+  onToggleRead: (id: string) => void;
   onMarkRead: (id: string) => void;
 }
 
-/**
- * Birtualizatutako albiste-zerrenda: ikusgai dauden txartelak soilik errendatzen ditu,
- * 100+ albisteko zerrendetan errendimendua nabarmen hobetuz.
- *
- * `window`-aren scroll-a erabiltzen du, mantenduz lehengo UX-a.
- */
-export function NewsList({ items, isSaved, isRead, onToggleSave, onMarkRead }: Props) {
+export function NewsList({ items, isLiked, isRead, onToggleLike, onToggleRead, onMarkRead }: Props) {
   const parentRef = useRef<HTMLDivElement | null>(null);
 
   const virtualizer = useVirtualizer({
     count: items.length,
-    // Albiste bakoitzaren altuera estimatua (px). Benetakoa neurtu egiten da gero.
     estimateSize: () => 168,
-    // 5 elementu gehiago errendatu ikusgaiaren gainetik/azpitik scroll leuna izateko.
     overscan: 5,
     getScrollElement: () => parentRef.current,
-    // window scroll erabili, ez container-ena, sticky goiburuak ondo lan dezan.
     observeElementOffset: (instance, cb) => {
       const onScroll = () => {
         if (!parentRef.current) return;
@@ -57,12 +49,7 @@ export function NewsList({ items, isSaved, isRead, onToggleSave, onMarkRead }: P
     },
   });
 
-  // Iragazkiak edo item-ak aldatzean, cache-a garbitu eta birneurtu.
-  // Hau ezinbestekoa da gogokoa kentzean txartelak ez pilatzeko: bestela
-  // virtualizer-ak lehengo posizioak (translateY) gogoratzen ditu eta item
-  // ezberdinei aplikatzen dizkie.
   useEffect(() => {
-    // Neurketen cache-a garbitu, gero birneurtu
     virtualizer.measurementsCache = [];
     virtualizer.measure();
   }, [items, virtualizer]);
@@ -93,9 +80,10 @@ export function NewsList({ items, isSaved, isRead, onToggleSave, onMarkRead }: P
             >
               <NewsCard
                 item={item}
-                saved={isSaved(item.id)}
+                liked={isLiked(item.id)}
                 read={isRead(item.id)}
-                onToggleSave={() => onToggleSave(item)}
+                onToggleLike={() => onToggleLike(item)}
+                onToggleRead={() => onToggleRead(item.id)}
                 onMarkRead={() => onMarkRead(item.id)}
               />
             </li>
