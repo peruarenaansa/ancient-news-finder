@@ -115,8 +115,8 @@ export function NewsCard({
               className="h-8 w-8"
               onClick={onToggleBookmark}
               aria-pressed={bookmarked}
-              aria-label={bookmarked ? 'Kendu bookmark-etatik' : 'Gorde gero irakurtzeko'}
-              title={bookmarked ? 'Kendu bookmark-etatik' : 'Gorde gero irakurtzeko'}
+              aria-label={bookmarked ? 'Kendu gordetakoetatik' : 'Gorde gero irakurtzeko'}
+              title={bookmarked ? 'Kendu gordetakoetatik' : 'Gorde gero irakurtzeko'}
             >
               <Bookmark
                 className={cn(

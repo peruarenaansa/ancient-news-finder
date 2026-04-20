@@ -39,7 +39,7 @@ interface Props {
 const VIEW_DEFS: { id: NewsView; label: string; icon: typeof Inbox }[] = [
   { id: 'unread', label: 'Irakurri gabeak', icon: Inbox },
   { id: 'read', label: 'Irakurriak', icon: CheckCheck },
-  { id: 'bookmark', label: 'Bookmark', icon: Bookmark },
+  { id: 'bookmark', label: 'Gordetakoak', icon: Bookmark },
   { id: 'liked', label: 'Gustukoak', icon: Heart },
 ];
 

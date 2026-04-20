@@ -343,11 +343,28 @@ async function fetchOpenAlexSource(source) {
   }
 }
 
+// Iturri bakoitzeko denbora-muga gogorra (rss-parser-en timeout-a ez baita beti betetzen)
+const HARD_TIMEOUT_MS = 25000;
+
+function withTimeout(promise, ms, label) {
+  return Promise.race([
+    promise,
+    new Promise((_, reject) =>
+      setTimeout(() => reject(new Error(`Denbora-muga gainditua (${ms}ms) — ${label}`)), ms),
+    ),
+  ]);
+}
+
 async function fetchSource(source) {
-  if (source.kind === 'openalex') return fetchOpenAlexSource(source);
+  if (source.kind === 'openalex') {
+    return withTimeout(fetchOpenAlexSource(source), HARD_TIMEOUT_MS, source.id).catch((err) => ({
+      items: [],
+      status: { id: source.id, ok: false, error: err.message, elapsedMs: HARD_TIMEOUT_MS },
+    }));
+  }
   const startedAt = Date.now();
   try {
-    const feed = await parser.parseURL(source.url);
+    const feed = await withTimeout(parser.parseURL(source.url), HARD_TIMEOUT_MS, source.id);
     const items = (feed.items || []).slice(0, 30);
     let droppedOffTopic = 0;
     let droppedModern = 0;
