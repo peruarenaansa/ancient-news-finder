@@ -37,7 +37,7 @@ export interface NewsFeed {
 }
 
 export const TOPIC_LABELS: Record<string, string> = {
-  prehistoria: 'Prehistoria',
+  prehistoria: 'Historiaurrea',
   erromatarrak: 'Erromatarrak',
   'erdi-aroa': 'Erdi Aroa',
   egiptoarrak: 'Egiptoarrak',
