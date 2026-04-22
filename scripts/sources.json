@@ -46,8 +46,6 @@
   { "id": "cambridge-caj", "name": "Cambridge Archaeological Journal", "kind": "openalex", "issn": "0959-7743", "lang": "en", "region": "world" },
   { "id": "cambridge-ejarc", "name": "European Journal of Archaeology", "kind": "openalex", "issn": "1461-9571", "lang": "en", "region": "europe" },
 
-  { "id": "archaeology-mag", "name": "Archaeology Magazine", "url": "https://archaeology.org/feed/", "lang": "en", "region": "world" },
-
   { "id": "aquitania-persee", "name": "Aquitania (Persée)", "url": "https://www.persee.fr/rss?revueKey=aquit", "lang": "fr", "region": "basque", "kind": "research" },
 
   { "id": "cuadernos-arq-unav", "name": "Cuadernos de Arqueología — Univ. de Navarra", "url": "https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/gateway/plugin/WebFeedGatewayPlugin/rss2", "lang": "es", "region": "basque", "kind": "research" },
@@ -55,8 +53,6 @@
   { "id": "veleia-ehu", "name": "Veleia (UPV/EHU)", "url": "https://ojs.ehu.eus/index.php/veleia/gateway/plugin/WebFeedGatewayPlugin/rss2", "lang": "es", "region": "basque", "kind": "research" },
 
   { "id": "flv-navarra", "name": "Fontes Linguae Vasconum", "kind": "openalex", "issn": "0046-435X", "lang": "eu", "region": "basque" },
-
-  { "id": "habis-us", "name": "Habis — Filología clásica e Historia Antigua (US)", "url": "https://revistascientificas.us.es/index.php/Habis/gateway/plugin/WebFeedGatewayPlugin/rss2", "lang": "es", "region": "iberia", "kind": "research" },
 
   { "id": "munibe-aa", "name": "Munibe Antropologia-Arkeologia (Aranzadi)", "kind": "openalex", "issn": "1132-2217", "lang": "es", "region": "basque" },
   { "id": "kobie-paleo", "name": "Kobie — Paleoantropología (BFA)", "kind": "openalex", "openalexId": "S4306517496", "lang": "es", "region": "basque" },
