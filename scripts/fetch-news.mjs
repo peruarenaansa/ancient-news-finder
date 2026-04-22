@@ -94,7 +94,7 @@ const ARCHAEOLOGY_KEYWORDS = [
 // Iturri orokorrak: gaiagatik iragazi behar direnak (ez dira espezializatuak)
 const GENERAL_SOURCES = new Set([
   // Hedabide orokorrak (kultura sailak)
-  'elpais-cultura', 'abc-cultura', 'eldiario-cultura',
+  'elpais-cultura', 'eldiario-cultura',
   'diariovasco-cultura',
   'lemonde-sciences', 'lemonde-archeo', 'lefigaro-histoire',
   'francetvinfo-archeo', 'sciencesetavenir-archeo', 'sudouest-culture',
@@ -107,7 +107,7 @@ const GENERAL_SOURCES = new Set([
   // Indusketa-agentzia: monumentu modernoetan ere lan egiten du
   'inrap',
   // Aldizkari orokorrak (gaiagatik iragazi)
-  'plos-one-arch', 'jas-reports',
+  'plos-one-arch', 'jas-reports', 'sciencedirect-jas',
 ]);
 
 function isArchaeologyRelated(text) {
@@ -259,7 +259,12 @@ function summarize(text, max = 240) {
 
 const parser = new Parser({
   timeout: 15000,
-  headers: { 'User-Agent': 'ArchaeoNewsBot/1.0 (+https://github.com)' },
+  headers: {
+    // Webgune askok botak blokeatzen dituzte; nabigatzaile-itxurako User-Agent erabiltzen dugu.
+    'User-Agent':
+      'Mozilla/5.0 (compatible; ArchaeoNewsBot/1.0; +https://aztarnak.lovable.app) Chrome/120 Safari/537.36',
+    Accept: 'application/rss+xml, application/atom+xml, application/xml;q=0.9, */*;q=0.8',
+  },
   customFields: {
     item: [
       ['media:content', 'media:content'],
@@ -274,14 +279,20 @@ const parser = new Parser({
 async function fetchOpenAlexSource(source) {
   const startedAt = Date.now();
   try {
-    let filter;
+    const filterParts = [];
     if (source.issn) {
-      filter = `primary_location.source.issn:${source.issn}`;
+      filterParts.push(`primary_location.source.issn:${source.issn}`);
     } else if (source.openalexId) {
-      filter = `primary_location.source.id:${source.openalexId}`;
+      filterParts.push(`primary_location.source.id:${source.openalexId}`);
     } else {
       throw new Error('OpenAlex iturriak issn edo openalexId behar du');
     }
+    // Aukerako kontzeptu-iragazkia: arkeologia (C166957645) bezalakoak.
+    // PNAS bezalako iturri orokorretan, gaiari lotutako artikuluak bakarrik ekartzeko.
+    if (source.conceptId) {
+      filterParts.push(`concepts.id:${source.conceptId}`);
+    }
+    const filter = filterParts.join(',');
     const url = `https://api.openalex.org/works?filter=${filter}&sort=publication_date:desc&per-page=30&mailto=archaeo-news-bot@example.com`;
     const res = await fetch(url, {
       headers: { 'User-Agent': 'ArchaeoNewsBot/1.0 (mailto:archaeo-news-bot@example.com)' },
@@ -344,15 +355,17 @@ async function fetchOpenAlexSource(source) {
 }
 
 // Iturri bakoitzeko denbora-muga gogorra (rss-parser-en timeout-a ez baita beti betetzen)
-const HARD_TIMEOUT_MS = 25000;
+const HARD_TIMEOUT_MS = 20000;
 
 function withTimeout(promise, ms, label) {
-  return Promise.race([
-    promise,
-    new Promise((_, reject) =>
-      setTimeout(() => reject(new Error(`Denbora-muga gainditua (${ms}ms) — ${label}`)), ms),
-    ),
-  ]);
+  let timer;
+  const timeout = new Promise((_, reject) => {
+    timer = setTimeout(
+      () => reject(new Error(`Denbora-muga gainditua (${ms}ms) — ${label}`)),
+      ms,
+    );
+  });
+  return Promise.race([promise, timeout]).finally(() => clearTimeout(timer));
 }
 
 async function fetchSource(source) {

@@ -4,7 +4,6 @@
   { "id": "labrujulaverde", "name": "La Brújula Verde", "url": "https://www.labrujulaverde.com/feed", "lang": "es", "region": "world" },
   { "id": "desperta-ferro", "name": "Desperta Ferro Ediciones", "url": "https://www.despertaferro-ediciones.com/feed/", "lang": "es", "region": "iberia" },
   { "id": "elpais-cultura", "name": "El País — Cultura", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/cultura/portada", "lang": "es", "region": "iberia" },
-  { "id": "abc-cultura", "name": "ABC Cultura", "url": "https://www.abc.es/rss/feeds/abc_Cultura.xml", "lang": "es", "region": "iberia" },
 
   { "id": "inrap", "name": "Inrap — Archéologie préventive", "url": "https://www.inrap.fr/rss.xml", "lang": "fr", "region": "europe" },
   { "id": "lefigaro-histoire", "name": "Le Figaro — Histoire", "url": "https://www.lefigaro.fr/rss/figaro_histoire.xml", "lang": "fr", "region": "europe" },
@@ -28,10 +27,12 @@
   { "id": "ancient-origins", "name": "Ancient Origins", "url": "https://www.ancient-origins.net/rss.xml", "lang": "en", "region": "world" },
   { "id": "guardian-arch", "name": "The Guardian — Archaeology", "url": "https://www.theguardian.com/science/archaeology/rss", "lang": "en", "region": "europe" },
   { "id": "current-archaeology", "name": "Current Archaeology (UK)", "url": "https://the-past.com/feed/", "lang": "en", "region": "europe" },
-  { "id": "medievalists", "name": "Medievalists.net", "url": "https://www.medievalists.net/feed/", "lang": "en", "region": "europe" },
 
   { "id": "jas-reports", "name": "Journal of Archaeological Science: Reports", "url": "https://rss.sciencedirect.com/publication/science/2352409X", "lang": "en", "region": "world", "kind": "research" },
   { "id": "plos-one-arch", "name": "PLOS ONE — Archaeology", "url": "https://journals.plos.org/plosone/feed/atom?filterJournals=PLoSONE&q=subject%3A%22Archaeology%22", "lang": "en", "region": "world", "kind": "research" },
+
+  { "id": "pnas-arch", "name": "PNAS — Arkeologia", "kind": "openalex", "issn": "0027-8424", "conceptId": "C166957645", "lang": "en", "region": "world" },
+  { "id": "sciencedirect-jas", "name": "Journal of Archaeological Science (ScienceDirect)", "url": "https://rss.sciencedirect.com/publication/science/03054403", "lang": "en", "region": "world", "kind": "research" },
 
   { "id": "rampas", "name": "RAMPAS — Prehistoria y Arqueología Social (UCA)", "url": "https://revistas.uca.es/index.php/rampas/gateway/plugin/WebFeedGatewayPlugin/rss2", "lang": "es", "region": "iberia", "kind": "research" },
   { "id": "spal-us", "name": "SPAL — Prehistoria y Arqueología (US)", "url": "https://revistascientificas.us.es/index.php/spal/gateway/plugin/WebFeedGatewayPlugin/rss2", "lang": "es", "region": "iberia", "kind": "research" },
@@ -41,14 +42,11 @@
 
   { "id": "cypsela", "name": "Cypsela (RACO, Catalunya)", "url": "https://raco.cat/index.php/Cypsela/gateway/plugin/WebFeedGatewayPlugin/rss2", "lang": "ca", "region": "iberia", "kind": "research" },
 
-  { "id": "cambridge-antiquity", "name": "Antiquity (Cambridge Core)", "url": "https://www.cambridge.org/core/rss/product/id/journals/journal/aqy/firstview", "lang": "en", "region": "world", "kind": "research" },
-  { "id": "cambridge-caj", "name": "Cambridge Archaeological Journal", "url": "https://www.cambridge.org/core/rss/product/id/journals/journal/caj/firstview", "lang": "en", "region": "world", "kind": "research" },
-  { "id": "cambridge-ejarc", "name": "European Journal of Archaeology (Cambridge Core)", "url": "https://www.cambridge.org/core/rss/product/id/journals/journal/eaa/firstview", "lang": "en", "region": "europe", "kind": "research" },
+  { "id": "cambridge-antiquity", "name": "Antiquity (Cambridge)", "kind": "openalex", "issn": "0003-598X", "lang": "en", "region": "world" },
+  { "id": "cambridge-caj", "name": "Cambridge Archaeological Journal", "kind": "openalex", "issn": "0959-7743", "lang": "en", "region": "world" },
+  { "id": "cambridge-ejarc", "name": "European Journal of Archaeology", "kind": "openalex", "issn": "1461-9571", "lang": "en", "region": "europe" },
 
-  { "id": "archaeology-mag", "name": "Archaeology Magazine", "url": "https://www.archaeology.org/feed/", "lang": "en", "region": "world" },
-
-  { "id": "jas-elsevier", "name": "Journal of Archaeological Science (Elsevier)", "url": "https://rss.sciencedirect.com/publication/science/03054403", "lang": "en", "region": "world", "kind": "research" },
-  { "id": "quaternary-international", "name": "Quaternary International (Elsevier)", "url": "https://rss.sciencedirect.com/publication/science/10406182", "lang": "en", "region": "world", "kind": "research" },
+  { "id": "archaeology-mag", "name": "Archaeology Magazine", "url": "https://archaeology.org/feed/", "lang": "en", "region": "world" },
 
   { "id": "aquitania-persee", "name": "Aquitania (Persée)", "url": "https://www.persee.fr/rss?revueKey=aquit", "lang": "fr", "region": "basque", "kind": "research" },
 
@@ -56,9 +54,7 @@
 
   { "id": "veleia-ehu", "name": "Veleia (UPV/EHU)", "url": "https://ojs.ehu.eus/index.php/veleia/gateway/plugin/WebFeedGatewayPlugin/rss2", "lang": "es", "region": "basque", "kind": "research" },
 
-  { "id": "flv-navarra", "name": "Fontes Linguae Vasconum", "url": "https://revistas.navarra.es/index.php/FLV/gateway/plugin/WebFeedGatewayPlugin/rss2", "lang": "eu", "region": "basque", "kind": "research" },
-
-  { "id": "tan-navarra", "name": "Trabajos de Arqueología Navarra", "url": "https://revistas.navarra.es/index.php/TAN/gateway/plugin/WebFeedGatewayPlugin/rss2", "lang": "es", "region": "basque", "kind": "research" },
+  { "id": "flv-navarra", "name": "Fontes Linguae Vasconum", "kind": "openalex", "issn": "0046-435X", "lang": "eu", "region": "basque" },
 
   { "id": "habis-us", "name": "Habis — Filología clásica e Historia Antigua (US)", "url": "https://revistascientificas.us.es/index.php/Habis/gateway/plugin/WebFeedGatewayPlugin/rss2", "lang": "es", "region": "iberia", "kind": "research" },
 

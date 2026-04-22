@@ -45,12 +45,16 @@ const Index = () => {
   };
 
   const onToggleRead = (id: string) => {
-    // "Irakurri gabe" markatzean, like eta bookmark ere kendu (irakurri gabean egoteko)
     if (read.has(id)) {
+      // Jada irakurrita: kendu marka → irakurri gabera itzuliko da
+      toggleReadRaw(id);
+    } else {
+      // Irakurritzat markatu: gordetakoetatik eta gustukoetatik kendu,
+      // eta irakurritakoen zerrendara pasatu (esklusiboki).
       liked.remove(id);
       bookmarked.remove(id);
+      markRead(id);
     }
-    toggleReadRaw(id);
   };
 
   const setFilter = <K extends keyof typeof filters>(key: K, value: (typeof filters)[K]) => {
@@ -76,7 +80,7 @@ const Index = () => {
       const isBm = bookmarked.isBookmarked(it.id);
       const isRead = read.has(it.id);
       if (!isLiked && !isBm && !isRead) unread++;
-      if (isRead || isLiked || isBm) readN++;
+      if (isRead && !isLiked && !isBm) readN++;
     }
     return {
       unread,
@@ -96,7 +100,7 @@ const Index = () => {
         case 'unread':
           return !isLiked && !isBm && !isRead;
         case 'read':
-          return isRead || isLiked || isBm;
+          return isRead && !isLiked && !isBm;
         case 'bookmark':
           return isBm;
         case 'liked':

@@ -24,9 +24,9 @@ export function NewsList({
 }: Props) {
   return (
     <div className="w-full">
-      <ul role="list" className="space-y-3">
+      <ul role="list" className="flex flex-col gap-3">
         {items.map((item) => (
-          <li key={item.id}>
+          <li key={item.id} className="block">
             <NewsCard
               item={item}
               liked={isLiked(item.id)}
