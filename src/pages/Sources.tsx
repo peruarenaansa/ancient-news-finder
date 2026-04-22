@@ -171,8 +171,8 @@ function SourceRow({ source, lastItemAt }: { source: NewsSource; lastItemAt?: st
       </div>
 
       <div className="grid grid-cols-3 gap-3 text-center sm:gap-4">
-        <Stat label="Ekarri" value={source.fetched ?? 0} />
-        <Stat label="Mantendu" value={source.kept ?? 0} highlight={ok && (source.kept ?? 0) > 0} />
+        <Stat label="Aurkitutakoak" value={source.fetched ?? 0} />
+        <Stat label="Iragazitakoak" value={source.kept ?? 0} highlight={ok && (source.kept ?? 0) > 0} />
         <Stat label="Azkena" value={lastItemAt ? formatDateTime(lastItemAt) : '—'} small />
       </div>
     </li>
