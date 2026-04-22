@@ -477,10 +477,18 @@ async function main() {
     (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
   );
 
-  // Azken 90 egunetakoak bakarrik mantendu, eta gehienez 500
+  // Albisteetarako (kind=news) 90 eguneko mozketa aplikatzen dugu, freskoak izan
+  // daitezen. Ikerketa-aldizkarietarako (research/openalex) ez dugu mozketarik
+  // jartzen: artikulu zientifikoak zaharragoak izan daitezke baina interesgarriak
+  // dira (Munibe, FLV, Kobie, Aquitania, Cambridge…).
   const cutoff = Date.now() - 90 * 24 * 60 * 60 * 1000;
+  const isResearch = (item) => {
+    const src = SOURCES.find((s) => s.id === item.source?.id);
+    const kind = src?.kind || 'news';
+    return kind === 'research' || kind === 'openalex';
+  };
   const recent = deduped
-    .filter((i) => new Date(i.publishedAt).getTime() > cutoff)
+    .filter((i) => isResearch(i) || new Date(i.publishedAt).getTime() > cutoff)
     .slice(0, 500);
 
   const out = {
