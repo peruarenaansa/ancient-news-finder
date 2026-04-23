@@ -96,6 +96,8 @@ const GENERAL_SOURCES = new Set([
   // Hedabide orokorrak (kultura sailak)
   'elpais-cultura', 'eldiario-cultura',
   'noticiasdenavarra',
+  // Euskal Herriko hedabide orokorrak (arkeologia gaietan iragazi)
+  'naiz', 'argia-kultura', 'eitb-kultura',
   'lemonde-sciences', 'lemonde-archeo', 'lefigaro-histoire',
   'francetvinfo-archeo', 'sciencesetavenir-archeo', 'sudouest-culture',
   'ansa-cultura', 'repubblica-cultura', 'corriere-cultura',
