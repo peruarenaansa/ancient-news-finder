@@ -98,16 +98,15 @@ const GENERAL_SOURCES = new Set([
   'diariovasco-cultura',
   'lemonde-sciences', 'lemonde-archeo', 'lefigaro-histoire',
   'francetvinfo-archeo', 'sciencesetavenir-archeo', 'sudouest-culture',
-  'observador-cultura',
   'ansa-cultura', 'repubblica-cultura', 'corriere-cultura',
   // Zientzia orokorra
   'live-science-arch', 'sciencedaily-arch',
   // Arkeologia espezializatua baina batzuetan zabalegia
-  'labrujulaverde', 'ancient-origins', 'bbc-history',
+  'ancient-origins', 'bbc-history',
   // Indusketa-agentzia: monumentu modernoetan ere lan egiten du
   'inrap',
   // Aldizkari orokorrak (gaiagatik iragazi)
-  'plos-one-arch', 'jas-reports', 'sciencedirect-jas',
+  'jas-reports', 'sciencedirect-jas',
 ]);
 
 function isArchaeologyRelated(text) {
