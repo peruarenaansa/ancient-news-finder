@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-23T04:28:45.569Z",
-  "count": 472,
+  "generatedAt": "2026-04-23T05:48:07.493Z",
+  "count": 414,
   "sources": [
     {
       "id": "diariovasco-cultura",
@@ -13,7 +13,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 799
+      "elapsedMs": 696
     },
     {
       "id": "labrujulaverde",
@@ -23,10 +23,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 4,
-      "droppedOffTopic": 14,
-      "droppedModern": 2,
-      "elapsedMs": 1133
+      "kept": 12,
+      "droppedOffTopic": 1,
+      "droppedModern": 7,
+      "elapsedMs": 947
     },
     {
       "id": "desperta-ferro",
@@ -39,7 +39,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 4,
-      "elapsedMs": 959
+      "elapsedMs": 1254
     },
     {
       "id": "elpais-cultura",
@@ -52,7 +52,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1159
+      "elapsedMs": 202
     },
     {
       "id": "inrap",
@@ -65,7 +65,7 @@
       "kept": 9,
       "droppedOffTopic": 17,
       "droppedModern": 4,
-      "elapsedMs": 1029
+      "elapsedMs": 740
     },
     {
       "id": "lefigaro-histoire",
@@ -78,7 +78,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 751
+      "elapsedMs": 427
     },
     {
       "id": "lemonde-sciences",
@@ -91,7 +91,7 @@
       "kept": 3,
       "droppedOffTopic": 17,
       "droppedModern": 0,
-      "elapsedMs": 568
+      "elapsedMs": 372
     },
     {
       "id": "lemonde-archeo",
@@ -104,7 +104,7 @@
       "kept": 11,
       "droppedOffTopic": 7,
       "droppedModern": 2,
-      "elapsedMs": 1297
+      "elapsedMs": 931
     },
     {
       "id": "francetvinfo-archeo",
@@ -117,7 +117,7 @@
       "kept": 0,
       "droppedOffTopic": 1,
       "droppedModern": 0,
-      "elapsedMs": 3630
+      "elapsedMs": 3411
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -130,7 +130,7 @@
       "kept": 11,
       "droppedOffTopic": 11,
       "droppedModern": 1,
-      "elapsedMs": 1335
+      "elapsedMs": 2797
     },
     {
       "id": "sudouest-culture",
@@ -143,20 +143,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1134
-    },
-    {
-      "id": "observador-cultura",
-      "name": "Observador — Cultura",
-      "lang": "pt",
-      "region": "iberia",
-      "kind": "news",
-      "ok": true,
-      "fetched": 30,
-      "kept": 0,
-      "droppedOffTopic": 30,
-      "droppedModern": 0,
-      "elapsedMs": 1843
+      "elapsedMs": 959
     },
     {
       "id": "ansa-cultura",
@@ -169,7 +156,7 @@
       "kept": 1,
       "droppedOffTopic": 27,
       "droppedModern": 0,
-      "elapsedMs": 1928
+      "elapsedMs": 1748
     },
     {
       "id": "repubblica-cultura",
@@ -182,7 +169,7 @@
       "kept": 2,
       "droppedOffTopic": 23,
       "droppedModern": 0,
-      "elapsedMs": 1530
+      "elapsedMs": 1281
     },
     {
       "id": "corriere-cultura",
@@ -195,7 +182,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2019
+      "elapsedMs": 1802
     },
     {
       "id": "archeologiaviva",
@@ -208,7 +195,7 @@
       "kept": 3,
       "droppedOffTopic": 0,
       "droppedModern": 7,
-      "elapsedMs": 2691
+      "elapsedMs": 2238
     },
     {
       "id": "stilearte",
@@ -221,7 +208,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 1,
-      "elapsedMs": 2542
+      "elapsedMs": 2145
     },
     {
       "id": "live-science-arch",
@@ -234,7 +221,7 @@
       "kept": 2,
       "droppedOffTopic": 28,
       "droppedModern": 0,
-      "elapsedMs": 3140
+      "elapsedMs": 2843
     },
     {
       "id": "bbc-history",
@@ -247,7 +234,7 @@
       "kept": 0,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 2518
+      "elapsedMs": 1846
     },
     {
       "id": "sciencedaily-arch",
@@ -260,7 +247,7 @@
       "kept": 13,
       "droppedOffTopic": 17,
       "droppedModern": 0,
-      "elapsedMs": 2108
+      "elapsedMs": 1878
     },
     {
       "id": "ancient-origins",
@@ -273,7 +260,7 @@
       "kept": 4,
       "droppedOffTopic": 5,
       "droppedModern": 1,
-      "elapsedMs": 2053
+      "elapsedMs": 1835
     },
     {
       "id": "guardian-arch",
@@ -286,7 +273,7 @@
       "kept": 12,
       "droppedOffTopic": 5,
       "droppedModern": 3,
-      "elapsedMs": 2704
+      "elapsedMs": 2039
     },
     {
       "id": "current-archaeology",
@@ -299,7 +286,7 @@
       "kept": 23,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 2046
+      "elapsedMs": 1773
     },
     {
       "id": "jas-reports",
@@ -312,7 +299,7 @@
       "kept": 7,
       "droppedOffTopic": 4,
       "droppedModern": 19,
-      "elapsedMs": 2127
+      "elapsedMs": 1823
     },
     {
       "id": "plos-one-arch",
@@ -322,10 +309,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 0,
-      "droppedOffTopic": 30,
-      "droppedModern": 0,
-      "elapsedMs": 3240
+      "kept": 16,
+      "droppedOffTopic": 12,
+      "droppedModern": 2,
+      "elapsedMs": 2064
     },
     {
       "id": "pnas-arch",
@@ -338,7 +325,7 @@
       "kept": 21,
       "droppedOffTopic": 7,
       "droppedModern": 2,
-      "elapsedMs": 3522
+      "elapsedMs": 2473
     },
     {
       "id": "sciencedirect-jas",
@@ -351,7 +338,7 @@
       "kept": 10,
       "droppedOffTopic": 2,
       "droppedModern": 18,
-      "elapsedMs": 2192
+      "elapsedMs": 1833
     },
     {
       "id": "rampas",
@@ -364,7 +351,7 @@
       "kept": 12,
       "droppedOffTopic": 3,
       "droppedModern": 10,
-      "elapsedMs": 3531
+      "elapsedMs": 4658
     },
     {
       "id": "spal-us",
@@ -377,7 +364,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 3148
+      "elapsedMs": 2573
     },
     {
       "id": "complutum-ucm",
@@ -390,7 +377,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 3384
+      "elapsedMs": 2787
     },
     {
       "id": "archeoarte",
@@ -403,7 +390,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 3376
+      "elapsedMs": 3072
     },
     {
       "id": "cypsela",
@@ -416,7 +403,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3315
+      "elapsedMs": 2696
     },
     {
       "id": "cambridge-antiquity",
@@ -429,7 +416,7 @@
       "kept": 14,
       "droppedOffTopic": 5,
       "droppedModern": 11,
-      "elapsedMs": 3607
+      "elapsedMs": 2741
     },
     {
       "id": "cambridge-caj",
@@ -442,7 +429,7 @@
       "kept": 17,
       "droppedOffTopic": 8,
       "droppedModern": 5,
-      "elapsedMs": 3573
+      "elapsedMs": 2799
     },
     {
       "id": "cambridge-ejarc",
@@ -455,7 +442,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 3523
+      "elapsedMs": 2587
     },
     {
       "id": "aquitania-persee",
@@ -468,7 +455,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 4864
+      "elapsedMs": 3822
     },
     {
       "id": "cuadernos-arq-unav",
@@ -476,9 +463,12 @@
       "lang": "es",
       "region": "basque",
       "kind": "research",
-      "ok": false,
-      "error": "Request timed out after 15000ms",
-      "elapsedMs": 15000
+      "ok": true,
+      "fetched": 30,
+      "kept": 19,
+      "droppedOffTopic": 3,
+      "droppedModern": 8,
+      "elapsedMs": 4035
     },
     {
       "id": "veleia-ehu",
@@ -491,7 +481,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 4286
+      "elapsedMs": 3834
     },
     {
       "id": "flv-navarra",
@@ -504,7 +494,7 @@
       "kept": 17,
       "droppedOffTopic": 2,
       "droppedModern": 11,
-      "elapsedMs": 3363
+      "elapsedMs": 2992
     },
     {
       "id": "munibe-aa",
@@ -517,72 +507,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 3846
-    },
-    {
-      "id": "kobie-paleo",
-      "name": "Kobie — Paleoantropología (BFA)",
-      "lang": "es",
-      "region": "basque",
-      "kind": "openalex",
-      "ok": true,
-      "fetched": 30,
-      "kept": 12,
-      "droppedOffTopic": 8,
-      "droppedModern": 10,
-      "elapsedMs": 3873
-    },
-    {
-      "id": "kobie-antropo",
-      "name": "Kobie — Antropología Cultural (BFA)",
-      "lang": "es",
-      "region": "basque",
-      "kind": "openalex",
-      "ok": true,
-      "fetched": 30,
-      "kept": 17,
-      "droppedOffTopic": 4,
-      "droppedModern": 9,
-      "elapsedMs": 3809
-    },
-    {
-      "id": "arkeoikuska",
-      "name": "Arkeoikuska — Eusko Jaurlaritza",
-      "lang": "es",
-      "region": "basque",
-      "kind": "openalex",
-      "ok": true,
-      "fetched": 30,
-      "kept": 28,
-      "droppedOffTopic": 1,
-      "droppedModern": 1,
-      "elapsedMs": 3678
-    },
-    {
-      "id": "isturitz",
-      "name": "Isturitz — Cuadernos de Prehistoria-Arqueología (EI-SEV)",
-      "lang": "es",
-      "region": "basque",
-      "kind": "openalex",
-      "ok": true,
-      "fetched": 30,
-      "kept": 28,
-      "droppedOffTopic": 1,
-      "droppedModern": 1,
-      "elapsedMs": 3606
-    },
-    {
-      "id": "zephyrus-usal",
-      "name": "Zephyrus — Prehistoria y Arqueología (Salamanca)",
-      "lang": "es",
-      "region": "iberia",
-      "kind": "openalex",
-      "ok": true,
-      "fetched": 30,
-      "kept": 15,
-      "droppedOffTopic": 5,
-      "droppedModern": 10,
-      "elapsedMs": 3785
+      "elapsedMs": 2979
     },
     {
       "id": "trabajos-prehistoria",
@@ -595,7 +520,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 3821
+      "elapsedMs": 2903
     }
   ],
   "items": [
@@ -650,6 +575,248 @@
       "topics": []
     },
     {
+      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348025",
+      "title": "Correction: Functional impact of cardiac implanted devices on ipsilateral shoulder range of motion, scapular mobility, and self-reported quality of life",
+      "summary": "by Cansu Cosgun, Muharrem Said Cosgun, Oznur Buyukturan, Buket Buyukturan",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348025",
+      "image": null,
+      "publishedAt": "2026-04-22T14:00:00.000Z",
+      "source": {
+        "id": "plos-one-arch",
+        "name": "PLOS ONE — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348020",
+      "title": "Correction: Combining lenalidomide with IL-2 family of cytokines enhances activating receptor and perforin/granzyme expression in NK cells",
+      "summary": "by Alexandra Calescibetta, Robert Dalton, Nicole Fortenbery, Grace Ward, Sean Christiansen, Xianghong Chen, Pingyan Cheng, Tiffany Razabdouski, Annelise J. Glode, Nhan Tu, Thu Le Trinh, Jinghong Liu, Kenneth L. Wright, Sheng Wei, Erika Adriana Eksioglu",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348020",
+      "image": null,
+      "publishedAt": "2026-04-22T14:00:00.000Z",
+      "source": {
+        "id": "plos-one-arch",
+        "name": "PLOS ONE — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347842",
+      "title": "The role of SPP1 in evaluating the prognosis, immune infiltration, and drug sensitivity of hepatocellular carcinoma",
+      "summary": "by Kai Cui, Xia Li, Yongrun Li, Zhong Li, Du Wang, Xinhong Wang, Shuxin Qin, Junjie Li, Jiaye Long Background Secretory phosphoprotein 1 (SPP1) has been linked to tumor progression and immune regulation, but its prognostic value, impact on the tumor immune microenvironment…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347842",
+      "image": null,
+      "publishedAt": "2026-04-22T14:00:00.000Z",
+      "source": {
+        "id": "plos-one-arch",
+        "name": "PLOS ONE — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347712",
+      "title": "Editorial Note: Cohort profile: The Endometriosis pain QUality aftEr Surgical Treatment (EndoQUEST) Study",
+      "summary": "by The PLOS One Editors",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347712",
+      "image": null,
+      "publishedAt": "2026-04-22T14:00:00.000Z",
+      "source": {
+        "id": "plos-one-arch",
+        "name": "PLOS ONE — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347711",
+      "title": "Expression of Concern: Toll-Like Receptor 2 Targeted Rectification of Impaired CD8 + T Cell Functions in Experimental Leishmania donovani Infection Reinstates Host Protection",
+      "summary": "by The PLOS One Editors",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347711",
+      "image": null,
+      "publishedAt": "2026-04-22T14:00:00.000Z",
+      "source": {
+        "id": "plos-one-arch",
+        "name": "PLOS ONE — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347564",
+      "title": "Beyond Clavulanic Acid biosynthesis: Exploring the broad regulatory impact of BldD in Streptomyces clavuligerus ATCC 27064",
+      "summary": "by Luisa F. Patiño, Carlos Caicedo-Montoya, Rigoberto Ríos-Estepa BldD is a global regulator of morphological development in Streptomyces, usually acting as a repressor of aerial mycelium formation. However, its role in metabolism and secondary biosynthesis in the wild-type…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347564",
+      "image": null,
+      "publishedAt": "2026-04-22T14:00:00.000Z",
+      "source": {
+        "id": "plos-one-arch",
+        "name": "PLOS ONE — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347539",
+      "title": "Evaluation of large language models in medical examinations: A scoping review protocol",
+      "summary": "by Weiqi Wang, Baifeng Wang, Yan Zhu, Zhe Wang, Suyuan Peng Introduction Standardized medical examinations, used to assess trainee clinical competencies, provide a rigorous means to verify LLM accuracy and reliability in medical contexts. Although current evaluations use these…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347539",
+      "image": null,
+      "publishedAt": "2026-04-22T14:00:00.000Z",
+      "source": {
+        "id": "plos-one-arch",
+        "name": "PLOS ONE — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347526",
+      "title": "Single-cell multiomics data analysis of potential receptors and therapeutic drugs for epilepsy patients comorbid with depression",
+      "summary": "by Guiqin Bai, Xuerong Zhou, Cheng Xiong, Xi Kang, Ruiqi Huang, Dazhang Bai, Peilin Zhao, Tao Peng, Cheer Muer, Guohui Jiang, Shushan Zhang Depression frequently cooccurs with epilepsy (EP) and has become a focus of clinical management, but effective pharmacological…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347526",
+      "image": null,
+      "publishedAt": "2026-04-22T14:00:00.000Z",
+      "source": {
+        "id": "plos-one-arch",
+        "name": "PLOS ONE — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346938",
+      "title": "Endorsement of the 32-item Consolidated Criteria for Reporting Qualitative (COREQ) and Standards for Reporting Qualitative Research (SRQR) by Chinese journals of nursing: A survey of editors and review of journal instructions for authors",
+      "summary": "by Li Zhao, Jian Zeng, Kaiyan Hu, Bin Ma Background To investigate the endorsement of the 32-item Consolidated Criteria for Reporting Qualitative (COREQ) and Standards for Reporting Qualitative Research (SRQR) in the instructions for authors (IFA) of Chinese nursing journals.…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346938",
+      "image": null,
+      "publishedAt": "2026-04-22T14:00:00.000Z",
+      "source": {
+        "id": "plos-one-arch",
+        "name": "PLOS ONE — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "asia"
+      ]
+    },
+    {
+      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346816",
+      "title": "In vivo mouse model of calcific myonecrosis induced by injury",
+      "summary": "by Mai Kuratani, Sho Tsukamoto, Ryo Hamai, Kaori Tsuchiya, Osamu Suzuki, Taketo Yamada, Takenobu Katagiri Skeletal muscle is the major tissue that provides a space and source for bone, which is formed by osteoblasts through the secretion of extracellular matrices, such as type I…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346816",
+      "image": null,
+      "publishedAt": "2026-04-22T14:00:00.000Z",
+      "source": {
+        "id": "plos-one-arch",
+        "name": "PLOS ONE — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346492",
+      "title": "When merchandise crowds the aisle and carts crowd the shopper: Joint effects on sales",
+      "summary": "by Mathias C. Streicher This research examines how fixture-induced spatial crowding suppresses in-store purchasing and how shopping aids—particularly carts—amplify this effect by expanding users’ peripersonal space and diminishing perceived control. In doing so, it addresses a…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346492",
+      "image": null,
+      "publishedAt": "2026-04-22T14:00:00.000Z",
+      "source": {
+        "id": "plos-one-arch",
+        "name": "PLOS ONE — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346472",
+      "title": "High-intensity irreversible electroporation targeting intracellular structures enhance tumor ablation in lung cancer models",
+      "summary": "by Hong Bae Kim, Jin Young Youm, Joon-Mo Yang, Sung Bo Sim This study aimed to optimize irreversible electroporation (IRE) parameters to enhance intracellular injury, specifically targeting nuclear and mitochondrial structures that are insufficiently affected by conventional…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346472",
+      "image": null,
+      "publishedAt": "2026-04-22T14:00:00.000Z",
+      "source": {
+        "id": "plos-one-arch",
+        "name": "PLOS ONE — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346157",
+      "title": "Overexpression generates aberrant distribution of endocytic regulators - the case of the Rab11/LAMP1 compartment",
+      "summary": "by Sarah Hornfeck, Evgeniya Trofimenko, Christian Widmann While the uptake of cargos via endocytosis and the subsequent trafficking through the cell is crucial for normal cellular function and tightly regulated, the study of this bears challenges. Most studies of Rab GTPases,…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346157",
+      "image": null,
+      "publishedAt": "2026-04-22T14:00:00.000Z",
+      "source": {
+        "id": "plos-one-arch",
+        "name": "PLOS ONE — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346112",
+      "title": "Stomatal responses of differently CO 2 -acclimated plants to natural and experimental CO 2 gradients",
+      "summary": "by Peter Manuel Kammer, Dominik Lukas Wermelinger, Janick Michael Klossner, Jonathan Simon Steiner, Christian Schöb Stomata, the microscopic pores in the epidermis of plant leaves, facilitate gas exchange between the leaf interior and the external environment and thus play a…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346112",
+      "image": null,
+      "publishedAt": "2026-04-22T14:00:00.000Z",
+      "source": {
+        "id": "plos-one-arch",
+        "name": "PLOS ONE — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346051",
+      "title": "Five solar cell parameters automatic extraction, within the one diode-solar cell model, using the implemented Simpson order 5 integration method, in an executable program",
+      "summary": "by Victor Tapio Rangel Kuoppa The Simpson order 5 integration method has been implemented in an executable program, to extract the five solar cell parameters, within the one-diode solar cell model. This integration method is used to integrate the Current minus the Short-Circuit…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346051",
+      "image": null,
+      "publishedAt": "2026-04-22T14:00:00.000Z",
+      "source": {
+        "id": "plos-one-arch",
+        "name": "PLOS ONE — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0345940",
+      "title": "Changes in anthropometric indices, lifestyle patterns, and mental stress with ramadan intermittent fasting among healthy students: A prospective cohort study",
+      "summary": "by Anfal AL-Dalaeen, Eman Alhasan, Eman Saleh, Sally Atawneh, Tala Barakat Background The association between Ramadan Intermittent Fasting (RIF) and metabolic diseases has been studied. However, there remains a significant gap in the research regarding the changes in…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0345940",
+      "image": null,
+      "publishedAt": "2026-04-22T14:00:00.000Z",
+      "source": {
+        "id": "plos-one-arch",
+        "name": "PLOS ONE — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
       "id": "inrap:https://www.inrap.fr/decouvertes-des-plus-anciens-decors-peints-connus-au-proche-orient-6408",
       "title": "Découvertes des plus anciens décors peints connus au proche Orient",
       "summary": "Avec Éric Coqueugniot, chargé de recherche au CNRS, directeur des fouilles de Dj'ade el Mughara (Syrie).",
@@ -682,6 +849,21 @@
       "topics": [
         "prehistoria"
       ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/la-estructura-oculta-del-universo-sobre-la-que-se-disponen-las-galaxias-revelada-en-el-mayor-mapa-3d-del-cosmos",
+      "title": "La estructura oculta del Universo, sobre la que se disponen las galaxias, revelada en el mayor mapa 3D del cosmos",
+      "summary": "El universo posee una estructura oculta que determina la disposición de toda la materia visible, y una profesora de la Universidad de Virginia se encuentra actualmente inmersa en el proceso de cartografiarla en tres dimensiones mediante el análisis posicional de 46 millones de…",
+      "url": "https://www.labrujulaverde.com/2026/04/la-estructura-oculta-del-universo-sobre-la-que-se-disponen-las-galaxias-revelada-en-el-mayor-mapa-3d-del-cosmos",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/ImageComponent_1440x795px_DESI-Y5-butterfly-cool.webp",
+      "publishedAt": "2026-04-22T10:59:05.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
     },
     {
       "id": "lemonde-sciences:https://www.lemonde.fr/sciences/article/2026/04/22/pourquoi-certains-insectes-etaient-ils-gigantesques-il-y-a-300-millions-d-annees-l-hypothese-de-la-teneur-en-oxygene-s-envole_6682385_1650684.html",
@@ -748,6 +930,25 @@
       "topics": []
     },
     {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/descubren-una-cantera-romana-de-puzolana-en-las-colinas-euganeas-que-abastecio-de-morteros-hidraulicos-a-ciudades-del-norte-de-italia",
+      "title": "Descubren una cantera romana de puzolana en las Colinas Euganeas que abasteció de morteros hidráulicos a ciudades del norte de Italia",
+      "summary": "Durante siglos, los tratados de arquitectura romana —especialmente los escritos por Vitruvio y Plinio el Viejo— han fijado en el imaginario arqueológico dos grandes tipos de puzolanas volcánicas empleadas en las construcciones del Imperio: las harenae fossiciae de los Montes…",
+      "url": "https://www.labrujulaverde.com/2026/04/descubren-una-cantera-romana-de-puzolana-en-las-colinas-euganeas-que-abastecio-de-morteros-hidraulicos-a-ciudades-del-norte-de-italia",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/journal.pone_.0347202.g013.webp",
+      "publishedAt": "2026-04-22T08:44:57.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "erromatarrak",
+        "amerika",
+        "aurkikuntza"
+      ]
+    },
+    {
       "id": "ansa-cultura:https://www.ansa.it/canale_viaggi/regione/piemonte/2026/04/21/gaza-oltre-la-guerra-la-mostra-alla-fondazione-merz_1fccbd1c-2472-44d2-b315-1aa6d27d13bf.html",
       "title": "Gaza oltre la guerra, la mostra alla Fondazione Merz",
       "summary": "Una mostra internazionale intreccia archeologia e arte",
@@ -761,6 +962,24 @@
       "lang": "it",
       "region": "europe",
       "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/descubren-en-sacsayhuaman-un-sistema-urbano-oculto-de-vias-terrazas-y-estructuras-que-replantea-el-origen-de-la-capital-del-imperio-inca",
+      "title": "Descubren en Sacsayhuamán un sistema urbano oculto de vías, terrazas y estructuras, que replantea el origen de la capital del imperio Inca",
+      "summary": "Un extenso programa de teledetección ejecutado sobre la densa cubierta vegetal del Parque Arqueológico de Sacsayhuamán ha sacado a la luz una red de trazados viarios, sistemas de terrazas y estructuras arquitectónicas hasta ahora invisibles que obligan a reconsiderar las fases…",
+      "url": "https://www.labrujulaverde.com/2026/04/descubren-en-sacsayhuaman-un-sistema-urbano-oculto-de-vias-terrazas-y-estructuras-que-replantea-el-origen-de-la-capital-del-imperio-inca",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/02.Sacsayhuaman.webp",
+      "publishedAt": "2026-04-21T15:10:21.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "amerika",
+        "aurkikuntza"
+      ]
     },
     {
       "id": "inrap:https://www.inrap.fr/du-rapport-soustelle-au-rapport-demoule-pecheur-poignant-23-ans-de-reflexion-sur-9135",
@@ -829,6 +1048,21 @@
       "topics": []
     },
     {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/hallan-en-peru-una-estructura-de-observacion-astronomica-que-permitia-prever-cambios-de-mareas-y-clima-hace-5000-anos",
+      "title": "Hallan en Perú una estructura de observación astronómica que permitía prever cambios de mareas y clima hace 5.000 años",
+      "summary": "Tras dos décadas de trabajos ininterrumpidos en el asentamiento pesquero de Áspero, ubicado en Supe Puerto, provincia de Barranca (Perú), el equipo dirigido por la doctora Ruth Shady Solís ha identificado una estructura arquitectónica compleja asociada al registro de fenómenos…",
+      "url": "https://www.labrujulaverde.com/2026/04/hallan-en-peru-una-estructura-de-observacion-astronomica-que-permitia-prever-cambios-de-mareas-y-clima-hace-5000-anos",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/1381248-civilizacion-caral-descubren-en-aspero-estructura-vinculada-a-la-observacion-astronomica-4.webp",
+      "publishedAt": "2026-04-21T09:37:16.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
       "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/archeologie/un-site-megalithique-au-nord-de-paris-revele-un-remplacement-de-population-au-neolithique_192019?xtor=RSS-4",
       "title": "Un site mégalithique au nord de Paris révèle un remplacement de population au Néolithique",
       "summary": "En Europe de l’Ouest, le \"déclin du Néolithique\" se caractérise par la disparition de la population locale qui cède la place à de nouveaux arrivants, venus du Sud.",
@@ -841,6 +1075,21 @@
       },
       "lang": "fr",
       "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/una-intrigante-sombra-de-ceniza-oscura-se-extiende-por-marte-en-apenas-cincuenta-anos-captada-por-las-camaras-de-la-sonda-mars-express",
+      "title": "Una intrigante sombra de ceniza oscura se extiende por Marte en apenas cincuenta años captada por las cámaras de la sonda Mars Express",
+      "summary": "Los cambios geológicos perceptibles en la superficie de Marte suelen medirse en escalas temporales que abarcan millones de años, un ritmo dictado por la lentitud de la erosión eólica en una atmósfera extremadamente tenue y la ausencia de una tectónica de placas activa como la…",
+      "url": "https://www.labrujulaverde.com/2026/04/una-intrigante-sombra-de-ceniza-oscura-se-extiende-por-marte-en-apenas-cincuenta-anos-captada-por-las-camaras-de-la-sonda-mars-express",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/A_crater_at_the_boundary.webp",
+      "publishedAt": "2026-04-21T08:31:07.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
       "topics": []
     },
     {
@@ -910,6 +1159,23 @@
       "topics": []
     },
     {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/descubren-en-bosnia-un-santuario-ceremonial-de-la-edad-del-bronce-cubierto-con-una-extrana-muralla-en-forma-de-l-que-no-defendia-nada",
+      "title": "Descubren en Bosnia un santuario ceremonial de la Edad del Bronce cubierto con una extraña muralla en forma de L que no defendía nada",
+      "summary": "Durante décadas, la colina de Begića Glavica permaneció en silencio. Ni los arqueólogos ni los mapas del patrimonio bosnio la registraban como un lugar de interés. Su modesta elevación sobre el valle del río Lašva, en la región central de Bosnia, parecía una más entre las…",
+      "url": "https://www.labrujulaverde.com/2026/04/descubren-en-bosnia-un-santuario-ceremonial-de-la-edad-del-bronce-cubierto-con-una-extrana-muralla-en-forma-de-l-que-no-defendia-nada",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/ArchA_SR_Gavranovic_etal_final-1-labrujulaverde-com.webp",
+      "publishedAt": "2026-04-20T11:06:25.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
       "id": "stilearte:https://www.stilearte.it/monete-false-phanagoria-incendio-portafogli-antichi/",
       "title": "“Qui è successo il dramma”. Fuggono tra le fiamme. Cadono i borselli. Dentro, monete vecchie di due secoli… e alcune persino false. Che cosa stava succedendo davvero a Phanagoria nel suo ultimo giorno? Le scoperte degli archeologi",
       "summary": "Sulle coste meridionali della Russia, tra il Mar Nero e il Mar d’Azov, la terra ha restituito una scena che sembra sospesa nel tempo: piccoli gruppi di monete, serrati tra loro, come se qualcuno li avesse ancora in mano un attimo prima di perderli. Non sono tesori nascosti né…",
@@ -923,6 +1189,23 @@
       "lang": "it",
       "region": "europe",
       "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/en-una-tumba-anglosajona-de-hace-1400-anos-una-hermana-mayor-cuida-de-su-hermano-pequeno-ambos-fallecidos-por-una-enfermedad-contagiosa",
+      "title": "En una tumba anglosajona de hace 1400 años una hermana mayor “cuida” de su hermano pequeño, ambos fallecidos por una enfermedad contagiosa",
+      "summary": "El avance de la genética antigua ha permitido resolver un enigma arqueológico de décadas: el doble enterramiento descubierto en Cherington, Gloucestershire, durante una intervención del programa Time Team y la iniciativa Operation Nightingale, cuyos detalles fueron difundidos…",
+      "url": "https://www.labrujulaverde.com/2026/04/en-una-tumba-anglosajona-de-hace-1400-anos-una-hermana-mayor-cuida-de-su-hermano-pequeno-ambos-fallecidos-por-una-enfermedad-contagiosa",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/Cherington-Double-Grave.webp",
+      "publishedAt": "2026-04-20T08:21:20.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
     },
     {
       "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/mas-de-1300-postes-a-5-metros-de-profundidad-revelan-que-una-tormenta-e-inundaciones-arrasaron-hace-5860-anos-un-poblado-neolitico-a-orillas-del-lago-biel",
@@ -1638,6 +1921,23 @@
       "region": "europe",
       "topics": [
         "museoak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/grandes-calderos-de-bronce-de-finales-de-la-antiguedad-cuyo-contenido-todavia-no-ha-sido-identificado-encontrados-en-alemania",
+      "title": "Grandes calderos de bronce de finales de la Antigüedad cuyo contenido todavía no ha sido identificado, encontrados en Alemania",
+      "summary": "En Schaalby, una pequeña localidad en el norte de Schleswig-Holstein en Alemania, un equipo de arqueólogos y voluntarios ha sacado a la luz un hallazgo de una rareza excepcional para la región: un depósito compuesto por varios calderos de bronce cuya cronología se sitúa entre…",
+      "url": "https://www.labrujulaverde.com/2026/04/grandes-calderos-de-bronce-de-finales-de-la-antiguedad-cuyo-contenido-todavia-no-ha-sido-identificado-encontrados-en-alemania",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/kessel_aufsicht.webp",
+      "publishedAt": "2026-04-17T09:52:43.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "amerika"
       ]
     },
     {
@@ -4815,23 +5115,6 @@
       ]
     },
     {
-      "id": "guardian-arch:https://www.theguardian.com/environment/2026/jan/23/country-diary-mammoth-and-bear-replaced-by-mattress-and-beer-can",
-      "title": "Country diary: Mammoth and bear, replaced by mattress and beer can | Michael J Warren",
-      "summary": "Grays, Essex: I visit an unassuming gorge where a wealth of ice age fossils was once found, telling us about Britain’s megafauna – and Neanderthals You wouldn’t know the Lion Pit was there. This overgrown gorge exists quietly, without the sensation its name implies, below a…",
-      "url": "https://www.theguardian.com/environment/2026/jan/23/country-diary-mammoth-and-bear-replaced-by-mattress-and-beer-can",
-      "image": "https://i.guim.co.uk/img/media/fe2561fd11a742dba366edc9c82dd9eaa9995615/0_334_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=b522aabd5c010c53091b96f367357015",
-      "publishedAt": "2026-01-23T05:30:05.000Z",
-      "source": {
-        "id": "guardian-arch",
-        "name": "The Guardian — Archaeology"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "asia"
-      ]
-    },
-    {
       "id": "trabajos-prehistoria:https://openalex.org/W7125425587",
       "title": "Recensión de: Pedro A. López-García, Denisse L. Argote, Manuel A. Torres-García y Michael C. Thrun. Knowledge Discovery from Archaeological Materials y Denisse L. Argote, Pedro A. López-García, Manuel A. Torres-García y Michael C. Thrun. Machine Learning for Archaeological Applications, Series Elements in Current Archaeological Tools and Techniques. Cambridge University Press.",
       "summary": "Recensión de: Pedro A. López-García, Denisse L. Argote, Manuel A. Torres-García y Michael C. Thrun. Knowledge Discovery from Archaeological Materials y Denisse L. Argote, Pedro A. López-García, Manuel A. Torres-García y Michael C. Thrun. Machine Learning for Archaeological…",
@@ -5498,6 +5781,125 @@
       "topics": []
     },
     {
+      "id": "cuadernos-arq-unav:https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/53537",
+      "title": "Modelos fisonómicos compartidos entre la musivaria de la cuenca del Duero y los Beatos del siglo X",
+      "summary": "El presente trabajo analiza la conexión artística y simbólica entre las iluminaciones de los Comentarios al Apocalipsis del siglo X y los mosaicos tardorromanos de la cuenca del Duero, a partir del estudio de los rasgos fisonómicos de los personajes representados. El objetivo de…",
+      "url": "https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/53537",
+      "image": null,
+      "publishedAt": "jue., 09 abr. 2026 00:00:00 +0200",
+      "source": {
+        "id": "cuadernos-arq-unav",
+        "name": "Cuadernos de Arqueología — Univ. de Navarra"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "erromatarrak",
+        "ekialde-hurbila"
+      ]
+    },
+    {
+      "id": "cuadernos-arq-unav:https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/54756",
+      "title": "Noticia del hallazgo casual de un canto pintado en un contexto megalítico de Ribadedeva, Asturias",
+      "summary": "Se presenta el hallazgo casual de un canto rodado pintado de tipo Aziliense en el entorno de un dolmen en Bojes (Ribadedeva, Asturias). La extraña presencia de este objeto en un contexto megalítico y la situación de la necrópolis en el entorno de una de las áreas azilienses del…",
+      "url": "https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/54756",
+      "image": null,
+      "publishedAt": "jue., 09 abr. 2026 00:00:00 +0200",
+      "source": {
+        "id": "cuadernos-arq-unav",
+        "name": "Cuadernos de Arqueología — Univ. de Navarra"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": []
+    },
+    {
+      "id": "cuadernos-arq-unav:https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/54472",
+      "title": "López Monteagudo, Guadalupe y Carrasco Serrano, Gregorio (2025). Los mosaicos romanos en Castilla-La Mancha. Colección Ediciones Institucionales n.º 151, Ediciones de la Universidad de Castilla-La Mancha, Cuenca, 209 páginas, ISBN: 978-84-9044-730-7.",
+      "summary": "Book Review",
+      "url": "https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/54472",
+      "image": null,
+      "publishedAt": "vie., 23 ene. 2026 00:00:00 +0100",
+      "source": {
+        "id": "cuadernos-arq-unav",
+        "name": "Cuadernos de Arqueología — Univ. de Navarra"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "cuadernos-arq-unav:https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/54034",
+      "title": "Anfípolis en la «longue durée»: una revisión",
+      "summary": "La ciudad de Anfípolis es una fundación ateniense de época clásica (siglo V a. C.) en la boca del río Estrimón y las faldas del Pangeo, al norte del Egeo. La ciudad se fundó como parte de los esfuerzos de consolidar el imperio ateniense y acceder a los recursos forestales,…",
+      "url": "https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/54034",
+      "image": null,
+      "publishedAt": "mar., 20 ene. 2026 00:00:00 +0100",
+      "source": {
+        "id": "cuadernos-arq-unav",
+        "name": "Cuadernos de Arqueología — Univ. de Navarra"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "cuadernos-arq-unav:https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/53733",
+      "title": "Una aproximación a las elites urbanas del valle medio del Ebro en época julio-claudia a través de la epigrafía",
+      "summary": "El periodo julio-claudio supuso la intensificación del proceso de romanización de las comunidades indígenas de Hispania, especialmente en territorios todavía de frontera bajo Augusto, en los que las elites jugaron un papel preponderante, revelándose esenciales en los procesos de…",
+      "url": "https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/53733",
+      "image": null,
+      "publishedAt": "mar., 09 dic. 2025 00:00:00 +0100",
+      "source": {
+        "id": "cuadernos-arq-unav",
+        "name": "Cuadernos de Arqueología — Univ. de Navarra"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "erromatarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "cuadernos-arq-unav:https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/53497",
+      "title": "El «vicus» alfarero de Puente Melchor. Análisis historiográfico y estado de la cuestión",
+      "summary": "El trabajo constituye un avance de nuestra Tesis Doctoral, centrada en el estudio arqueológico integral del vicus alfarero de Puente Melchor, considerado el yacimiento más destacado de su tipo en la bahía de Cádiz por extensión, volumen productivo y larga continuidad temporal.…",
+      "url": "https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/53497",
+      "image": null,
+      "publishedAt": "2025-11-20T23:00:00.000Z",
+      "source": {
+        "id": "cuadernos-arq-unav",
+        "name": "Cuadernos de Arqueología — Univ. de Navarra"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "asia"
+      ]
+    },
+    {
+      "id": "cuadernos-arq-unav:https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/53544",
+      "title": "La cerámica pintada de origen meseteño en la ciudad de «Iuliobriga» (Cantabria)",
+      "summary": "La cerámica pintada romana de origen meseteño constituye un testimonio clave de las transformaciones culturales que tuvieron lugar en el norte peninsular tras la llegada de Roma. El artículo examina un conjunto cerámico de este tipo recuperado de contextos estratigráficos de la…",
+      "url": "https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/53544",
+      "image": null,
+      "publishedAt": "2025-11-17T23:00:00.000Z",
+      "source": {
+        "id": "cuadernos-arq-unav",
+        "name": "Cuadernos de Arqueología — Univ. de Navarra"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
       "id": "pnas-arch:https://openalex.org/W4416293897",
       "title": "Cultural innovation can increase and maintain biodiversity: A case study from medieval Europe",
       "summary": "Numerous research efforts have used paleoecological data to reconstruct past biodiversity in Europe. In these projects, researchers have identified increases in biodiversity over the Holocene and hinted at a positive correlation with human population. These are important…",
@@ -5566,6 +5968,24 @@
       "topics": []
     },
     {
+      "id": "cuadernos-arq-unav:https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/53747",
+      "title": "De nuevo sobre la «Araceli» de los vascones antiguos",
+      "summary": "La confusión en la historiografía tradicional en torno a los topónimos de Aracaeli (Santa María de Zamartze, Huarte- Araquil, Navarra), Araceli, Araciel (Corella, Navarra) y Aracillum (Cantabria) contribuye a explicar la caracterización de los vascones antiguos como un pueblo…",
+      "url": "https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/53747",
+      "image": null,
+      "publishedAt": "2025-11-03T23:00:00.000Z",
+      "source": {
+        "id": "cuadernos-arq-unav",
+        "name": "Cuadernos de Arqueología — Univ. de Navarra"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "erromatarrak",
+        "iberiarrak"
+      ]
+    },
+    {
       "id": "pnas-arch:https://openalex.org/W4415595809",
       "title": "A new late Neanderthal from Crimea reveals long-distance connections across Eurasia",
       "summary": "The Crimean Peninsula contains several important Middle and Upper Paleolithic sites, including Starosele, Kabazi II, and Siuren I. The region has been considered a potential refugium for Neanderthals before their replacement by Homo sapiens . However, no genetic data have been…",
@@ -5616,6 +6036,23 @@
       "region": "iberia",
       "topics": [
         "prehistoria"
+      ]
+    },
+    {
+      "id": "cuadernos-arq-unav:https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/53526",
+      "title": "La «nutrix» en el mundo romano: más allá de una actividad doméstica",
+      "summary": "El objetivo de esta contribución es analizar la figura de la nutrix en el mundo romano y su rol social. Como reza el título, la labor de las nutrices fue más allá del ámbito doméstico, siendo el oficio femenino mejor atestiguado en las fuentes romanas. Para seguir su rastro nos…",
+      "url": "https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/53526",
+      "image": null,
+      "publishedAt": "2025-10-15T22:00:00.000Z",
+      "source": {
+        "id": "cuadernos-arq-unav",
+        "name": "Cuadernos de Arqueología — Univ. de Navarra"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "erromatarrak"
       ]
     },
     {
@@ -6151,6 +6588,39 @@
       ]
     },
     {
+      "id": "cuadernos-arq-unav:https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/53539",
+      "title": "La recuperación de los modelos epigráficos romanos en los sepulcros de la familia Ribera en el Monasterio de La Cartuja (Sevilla)",
+      "summary": "El artículo analiza la incorporación de fórmulas y modelos epigráficos romanos en los epitafios renacentistas de la familia Ribera. A través de una metodología comparativa y un análisis textual, se identifica el uso de la letra capital cuadrada en sepulcros como estrategia de…",
+      "url": "https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/53539",
+      "image": null,
+      "publishedAt": "2025-07-08T22:00:00.000Z",
+      "source": {
+        "id": "cuadernos-arq-unav",
+        "name": "Cuadernos de Arqueología — Univ. de Navarra"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "erromatarrak",
+        "erdi-aroa"
+      ]
+    },
+    {
+      "id": "cuadernos-arq-unav:https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/53535",
+      "title": "Elementos auxiliares de alfarería en el horno de La Salceda y su entorno en el complejo de «Tritium Magallum» (Tricio, La Rioja): algunos accesorios con marca «ante cocturam»",
+      "summary": "En las siguientes páginas analizar los artefactos empleados por los figuli en el sistema de apilamiento de los vasos en el horno. En las publicaciones de figlinae hispaniae se dan a conocer las producciones cerámicas, pero se infravaloran los modos de producción. Nos centraremos…",
+      "url": "https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/53535",
+      "image": null,
+      "publishedAt": "2025-07-08T22:00:00.000Z",
+      "source": {
+        "id": "cuadernos-arq-unav",
+        "name": "Cuadernos de Arqueología — Univ. de Navarra"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": []
+    },
+    {
       "id": "flv-navarra:https://openalex.org/W4411678341",
       "title": "(Post)conflicto y uso del memoir: una perspectiva transgeneracional y de género",
       "summary": "Este artículo explora el (post)conflicto a través de una perspectiva transgeneracional y de género, centrándose en el ámbito norirlandés como ejemplo de un contexto que goza de una vasta producción literaria y es un paradigma en torno a su memorialización. En primer lugar, se…",
@@ -6263,6 +6733,93 @@
       "topics": [
         "prehistoria",
         "iberiarrak"
+      ]
+    },
+    {
+      "id": "cuadernos-arq-unav:https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/39792",
+      "title": "El yacimiento arqueológico de La Mosquita (Villalaín, Burgos). Avances en el estudio del hábitat rupestre y los centros de culto en el norte de Burgos",
+      "summary": "El yacimiento arqueológico de La Mosquita o Paraje de San Miguel se ubica en un valle secundario sobre la margen izquierda del río Ebro, en el término municipal de Villalaín (Burgos). El conjunto arqueológico está articulado en torno a la cueva de La Mosquita, espacio claramente…",
+      "url": "https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/39792",
+      "image": null,
+      "publishedAt": "jue., 21 ene. 2021 00:00:00 +0100",
+      "source": {
+        "id": "cuadernos-arq-unav",
+        "name": "Cuadernos de Arqueología — Univ. de Navarra"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "cuadernos-arq-unav:https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/53407",
+      "title": "Roma en la crónica del Príncipe de Viana: la recepción de la Antigüedad en la Historiografía Medieval Navarra",
+      "summary": "A lo largo de la Edad Media la historiografía de diferentes lugares y épocas encontró un referente en el pasado romano y antiguo, cuya concepción por parte de los historiadores fue evolucionando en relación con las perspectivas surgidas con la llegada y expansión del…",
+      "url": "https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/53407",
+      "image": null,
+      "publishedAt": "2025-07-08T22:00:00.000Z",
+      "source": {
+        "id": "cuadernos-arq-unav",
+        "name": "Cuadernos de Arqueología — Univ. de Navarra"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "erromatarrak",
+        "erdi-aroa",
+        "iberiarrak"
+      ]
+    },
+    {
+      "id": "cuadernos-arq-unav:https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/51631",
+      "title": "O fórum de Augusto: o triunfo da memória e a memória do triunfo",
+      "summary": "No presente texto fazemos uma análise sobre o complexo arquitetônico do Fórum de Augusto, que abrigava em seu interior o templo dedicado, em 2 a.C., a Marte Vingador, pelo imperador Otávio Augusto. Tratamos das características e funções deste complexo arquitetônico, fazendo uma…",
+      "url": "https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/51631",
+      "image": null,
+      "publishedAt": "2025-05-29T22:00:00.000Z",
+      "source": {
+        "id": "cuadernos-arq-unav",
+        "name": "Cuadernos de Arqueología — Univ. de Navarra"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "cuadernos-arq-unav:https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/51885",
+      "title": "«Urbs in rure». Las «uillae» suburbanas de «Colonia Patricia» entre los siglos I y V",
+      "summary": "Entre las numerosas apor taciones de Roma a la península ibérica debemos destacar las uillae, en su gran diversidad tipológica, como residencias de otium de las élites, como modelos de explotación agropecuaria, o bien como ambas. Colonia Patricia fue una ciudad rediseñada a…",
+      "url": "https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/51885",
+      "image": null,
+      "publishedAt": "2025-05-29T22:00:00.000Z",
+      "source": {
+        "id": "cuadernos-arq-unav",
+        "name": "Cuadernos de Arqueología — Univ. de Navarra"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "cuadernos-arq-unav:https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/51996",
+      "title": "Entre los dos mares de la «Hispania Citerior Tarraconensis»: circulación de ánforas y redes de transporte",
+      "summary": "En los últimos años, ha habido un incremento en la calidad de los datos sobre cerámica romana, en relación con una clasificación y cuantificación más precisas. Esto significa que los investigadores pueden combinar datos cerámicos de amplios territorios para observar tendencias…",
+      "url": "https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/51996",
+      "image": null,
+      "publishedAt": "2025-05-29T22:00:00.000Z",
+      "source": {
+        "id": "cuadernos-arq-unav",
+        "name": "Cuadernos de Arqueología — Univ. de Navarra"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "erromatarrak"
       ]
     },
     {
@@ -6614,6 +7171,58 @@
       ]
     },
     {
+      "id": "cuadernos-arq-unav:https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/45945",
+      "title": "Prospección geofísica y análisis edilicio en el asentamiento de El Carrascal (Cañete La Real, Málaga), presunta sede de Flavia Sabora",
+      "summary": "La antigua población de Sabora, mencionada por Plinio, es conocida también a través de un documento epigráfico, remitido a los Saborenses por el emperador Vespasiano (CIL II 1423), que constata la autorización para el traslado de la ciudad, desde su emplazamiento prerromano en…",
+      "url": "https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/45945",
+      "image": null,
+      "publishedAt": "2024-05-19T22:00:00.000Z",
+      "source": {
+        "id": "cuadernos-arq-unav",
+        "name": "Cuadernos de Arqueología — Univ. de Navarra"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "cuadernos-arq-unav:https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/50387",
+      "title": "Materiales arqueológicos de la colección Gutiérrez Achútegui en el discurso expositivo del Museo de la Romanización de La Rioja en Calahorra",
+      "summary": "A principios del siglo pasado un erudito calagurritano Pedro Gutiérrez Achútegui comenzó a formar una colección de materiales arqueológicos a la que pertenecen las piezas objeto de este estudio, que se encuentran integradas actualmente en el Museo de la Romanización de La Rioja…",
+      "url": "https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/50387",
+      "image": null,
+      "publishedAt": "2024-05-19T22:00:00.000Z",
+      "source": {
+        "id": "cuadernos-arq-unav",
+        "name": "Cuadernos de Arqueología — Univ. de Navarra"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "erromatarrak",
+        "museoak"
+      ]
+    },
+    {
+      "id": "cuadernos-arq-unav:https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/41430",
+      "title": "Evidencias de la presencia Inca en el valle de Chicama: apachetas, huancas y cerámica en Cerro El Sapo, Costa Norte del Perú",
+      "summary": "En 1470 d. C. los Incas conquistan la Costa Norte del Perú e inician la administración y control de nuevos territorios usando una variedad de estrategias, como la reubicación de trazos en los caminos, la construcción de diversas murallas que dirigían al transeúnte en una sola…",
+      "url": "https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/41430",
+      "image": null,
+      "publishedAt": "2023-05-24T22:00:00.000Z",
+      "source": {
+        "id": "cuadernos-arq-unav",
+        "name": "Cuadernos de Arqueología — Univ. de Navarra"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "amerika"
+      ]
+    },
+    {
       "id": "aquitania-persee:https://www.persee.fr/issue/aquit_0758-9670_2021_num_37_1",
       "title": "Aquitania : une revue inter-régionale d'archéologie, tome 37, 2021. Tracer la route. Journée d’étude du 27 février 2020 à Bordeaux.",
       "summary": "Aquitania : une revue inter-régionale d'archéologie, tome 37, 2021. Tracer la route. Journée d’étude du 27 février 2020 à Bordeaux. Fascicule thématique : Tracer la route. Journée d’étude du 27 février 2020 à Bordeaux Didierjean, François, Coutelier, Clément, Tassaux, Francis…",
@@ -6784,1648 +7393,6 @@
       "topics": [
         "erromatarrak",
         "erdi-aroa",
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "zephyrus-usal:https://openalex.org/W3088442213",
-      "title": "El yacimiento subacuático de Las Amoladeras, Cabo de Palos (Cartagena). Nuevos enfoques arqueométricos",
-      "summary": "espanolEl objetivo de este articulo es reinterpretar un conocido yacimiento subacuatico en Las Amoladeras, en La Manga del Mar Menor, cerca de Cabo de Palos. Para ello, tras llevar a cabo una revision historiografica de la bibliografia existente, se han estudiado,…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7534469",
-      "image": null,
-      "publishedAt": "2020-01-01T00:00:00.000Z",
-      "source": {
-        "id": "zephyrus-usal",
-        "name": "Zephyrus — Prehistoria y Arqueología (Salamanca)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": []
-    },
-    {
-      "id": "kobie-paleo:https://openalex.org/W3199565841",
-      "title": "A propósito de un supuesto dinero leonés de Alfonso VII hallado en la catedral de Santa María de Vitoria-Gasteiz (Álava)",
-      "summary": "espanolEn el siguiente trabajo se corrige una dudosisima atribucion dada a una moneda exhumada en el templo vitoriano, a fin de evitar que esta errada clasificacion se perpetue en futuras publicaciones. euskaraHurrengo lanak Gasteizko tenpluan aurkitutako txanpon baten…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=8051965",
-      "image": null,
-      "publishedAt": "2019-01-01T00:00:00.000Z",
-      "source": {
-        "id": "kobie-paleo",
-        "name": "Kobie — Paleoantropología (BFA)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "kobie-paleo:https://openalex.org/W3200894064",
-      "title": "Arqueología intermareal en Bizkaia. Documentando la flota abandonada de embarcaciones vascas en los estuarios del Lea y del Artibai. Problemas y soluciones",
-      "summary": "espanolSe presenta la actuacion de documentacion de varias embarcaciones de madera abandonadas en los margenes de los estuarios del Lea (Lekeitio Y Mendexa) y Artibai (Ondarroa). Se trata de un patrimonio reciente y que esta no solo abandonado sino tambien olvidado. Sin embargo,…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=8051967",
-      "image": null,
-      "publishedAt": "2019-01-01T00:00:00.000Z",
-      "source": {
-        "id": "kobie-paleo",
-        "name": "Kobie — Paleoantropología (BFA)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "kobie-paleo:https://openalex.org/W3199765462",
-      "title": "Las cerámicas en las cavidades de la zona costera oriental de Asturias",
-      "summary": "espanolEn este articulo se clasifican las ceramicas, de cronologia anterior al siglo XVIII, encontradas en 53 cavidades de los concejos costeros del oriente asturiano: Ribadesella, Llanes y Ribadedeva. Dichas piezas fueron descubiertas desde inicios del siglo XX hasta las…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=8051964",
-      "image": null,
-      "publishedAt": "2019-01-01T00:00:00.000Z",
-      "source": {
-        "id": "kobie-paleo",
-        "name": "Kobie — Paleoantropología (BFA)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "prehistoria",
-        "asia",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "arkeoikuska:https://openalex.org/W3160795852",
-      "title": "San Juan Bautista de Ajuria (ZPA 19)",
-      "summary": "San Juan Bautista de Ajuria (ZPA 19)",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7869895",
-      "image": null,
-      "publishedAt": "2019-01-01T00:00:00.000Z",
-      "source": {
-        "id": "arkeoikuska",
-        "name": "Arkeoikuska — Eusko Jaurlaritza"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "arkeoikuska:https://openalex.org/W3164530904",
-      "title": "Fuente de la Leze, Ilarduia",
-      "summary": "Fuente de la Leze, Ilarduia",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7869787",
-      "image": null,
-      "publishedAt": "2019-01-01T00:00:00.000Z",
-      "source": {
-        "id": "arkeoikuska",
-        "name": "Arkeoikuska — Eusko Jaurlaritza"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "arkeoikuska:https://openalex.org/W3164334899",
-      "title": "San Pedro y San Pablo de Ibarruri (ZPA 11)",
-      "summary": "San Pedro y San Pablo de Ibarruri (ZPA 11)",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7869896",
-      "image": null,
-      "publishedAt": "2019-01-01T00:00:00.000Z",
-      "source": {
-        "id": "arkeoikuska",
-        "name": "Arkeoikuska — Eusko Jaurlaritza"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "arkeoikuska:https://openalex.org/W3165334488",
-      "title": "Iglesia de San Juan Bautista, en Zumento",
-      "summary": "Iglesia de San Juan Bautista, en Zumento",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7869816",
-      "image": null,
-      "publishedAt": "2019-01-01T00:00:00.000Z",
-      "source": {
-        "id": "arkeoikuska",
-        "name": "Arkeoikuska — Eusko Jaurlaritza"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "arkeoikuska:https://openalex.org/W3169457730",
-      "title": "Jentiletxeta I y II. Zona delantera exterior",
-      "summary": "Jentiletxeta I y II. Zona delantera exterior",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7869965",
-      "image": null,
-      "publishedAt": "2019-01-01T00:00:00.000Z",
-      "source": {
-        "id": "arkeoikuska",
-        "name": "Arkeoikuska — Eusko Jaurlaritza"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "arkeoikuska:https://openalex.org/W3172987719",
-      "title": "Dolmen Irukurutzeta. Fase II",
-      "summary": "Dolmen Irukurutzeta. Fase II",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7869936",
-      "image": null,
-      "publishedAt": "2019-01-01T00:00:00.000Z",
-      "source": {
-        "id": "arkeoikuska",
-        "name": "Arkeoikuska — Eusko Jaurlaritza"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "arkeoikuska:https://openalex.org/W3165516935",
-      "title": "Reciento Fortificado de Peñas de Oro (ZPA 20), en Bitoriano",
-      "summary": "Reciento Fortificado de Peñas de Oro (ZPA 20), en Bitoriano",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7869852",
-      "image": null,
-      "publishedAt": "2019-01-01T00:00:00.000Z",
-      "source": {
-        "id": "arkeoikuska",
-        "name": "Arkeoikuska — Eusko Jaurlaritza"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "arkeoikuska:https://openalex.org/W3171580040",
-      "title": "Estación Megalítica de Belabieta (nº 7). Puesta en valor de la agrupación megalítica de Oindolar (Villabona)",
-      "summary": "Estación Megalítica de Belabieta (nº 7). Puesta en valor de la agrupación megalítica de Oindolar (Villabona)",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7869993",
-      "image": null,
-      "publishedAt": "2019-01-01T00:00:00.000Z",
-      "source": {
-        "id": "arkeoikuska",
-        "name": "Arkeoikuska — Eusko Jaurlaritza"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "arkeoikuska:https://openalex.org/W3172438576",
-      "title": "Plaza Miguel Díaz de Tuesta, 3",
-      "summary": "Plaza Miguel Díaz de Tuesta, 3",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7869778",
-      "image": null,
-      "publishedAt": "2019-01-01T00:00:00.000Z",
-      "source": {
-        "id": "arkeoikuska",
-        "name": "Arkeoikuska — Eusko Jaurlaritza"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "arkeoikuska:https://openalex.org/W3167431177",
-      "title": "Fortificación de Balenkada-Mahala: I Campaña",
-      "summary": "Fortificación de Balenkada-Mahala: I Campaña",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7869959",
-      "image": null,
-      "publishedAt": "2019-01-01T00:00:00.000Z",
-      "source": {
-        "id": "arkeoikuska",
-        "name": "Arkeoikuska — Eusko Jaurlaritza"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "arkeoikuska:https://openalex.org/W3165397688",
-      "title": "Iglesia de San Esteban, en Buruaga. Fase III",
-      "summary": "Iglesia de San Esteban, en Buruaga. Fase III",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7869850",
-      "image": null,
-      "publishedAt": "2019-01-01T00:00:00.000Z",
-      "source": {
-        "id": "arkeoikuska",
-        "name": "Arkeoikuska — Eusko Jaurlaritza"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "arkeoikuska:https://openalex.org/W3170823082",
-      "title": "Asentamiento de San Martín (ZPA 52). Parcela 502, polígono 22. Bodegas Casa Primicia",
-      "summary": "Asentamiento de San Martín (ZPA 52). Parcela 502, polígono 22. Bodegas Casa Primicia",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7869809",
-      "image": null,
-      "publishedAt": "2019-01-01T00:00:00.000Z",
-      "source": {
-        "id": "arkeoikuska",
-        "name": "Arkeoikuska — Eusko Jaurlaritza"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "arkeoikuska:https://openalex.org/W3164847673",
-      "title": "Torre de Traslaviña",
-      "summary": "Torre de Traslaviña",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7869859",
-      "image": null,
-      "publishedAt": "2019-01-01T00:00:00.000Z",
-      "source": {
-        "id": "arkeoikuska",
-        "name": "Arkeoikuska — Eusko Jaurlaritza"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "arkeoikuska:https://openalex.org/W3165416976",
-      "title": "Pecios Laida I, II Txatxarramendi, Porturas (Ibarrangelu, Sukarrieta)",
-      "summary": "Pecios Laida I, II Txatxarramendi, Porturas (Ibarrangelu, Sukarrieta)",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7869912",
-      "image": null,
-      "publishedAt": "2019-01-01T00:00:00.000Z",
-      "source": {
-        "id": "arkeoikuska",
-        "name": "Arkeoikuska — Eusko Jaurlaritza"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "arkeoikuska:https://openalex.org/W3172056711",
-      "title": "Asentamiento al aire libre de San Mamés",
-      "summary": "Asentamiento al aire libre de San Mamés",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7869907",
-      "image": null,
-      "publishedAt": "2019-01-01T00:00:00.000Z",
-      "source": {
-        "id": "arkeoikuska",
-        "name": "Arkeoikuska — Eusko Jaurlaritza"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "arkeoikuska:https://openalex.org/W3173075723",
-      "title": "Templo de Nuestra Señora y Poblado de Larrara",
-      "summary": "Templo de Nuestra Señora y Poblado de Larrara",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7869775",
-      "image": null,
-      "publishedAt": "2019-01-01T00:00:00.000Z",
-      "source": {
-        "id": "arkeoikuska",
-        "name": "Arkeoikuska — Eusko Jaurlaritza"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "arkeoikuska:https://openalex.org/W3170002113",
-      "title": "Benito Guinea, 8. Cementerio judío-Polvorín (ZPA 212)",
-      "summary": "Benito Guinea, 8. Cementerio judío-Polvorín (ZPA 212)",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7869841",
-      "image": null,
-      "publishedAt": "2019-01-01T00:00:00.000Z",
-      "source": {
-        "id": "arkeoikuska",
-        "name": "Arkeoikuska — Eusko Jaurlaritza"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "arkeoikuska:https://openalex.org/W3164368538",
-      "title": "Cuevas de Venta Laperra, El Rincón y de El Bortal: XVII Campaña",
-      "summary": "Cuevas de Venta Laperra, El Rincón y de El Bortal: XVII Campaña",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7869902",
-      "image": null,
-      "publishedAt": "2019-01-01T00:00:00.000Z",
-      "source": {
-        "id": "arkeoikuska",
-        "name": "Arkeoikuska — Eusko Jaurlaritza"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "arkeoikuska:https://openalex.org/W3166441341",
-      "title": "Entorno de la Iglesia de San Saturnino de Tolosa. Hallazgo casual, en Goikoaldea, 11",
-      "summary": "Entorno de la Iglesia de San Saturnino de Tolosa. Hallazgo casual, en Goikoaldea, 11",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7869846",
-      "image": null,
-      "publishedAt": "2019-01-01T00:00:00.000Z",
-      "source": {
-        "id": "arkeoikuska",
-        "name": "Arkeoikuska — Eusko Jaurlaritza"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "arkeoikuska:https://openalex.org/W3170856623",
-      "title": "Control de trabajos forestales en las estructuras: LLOF01, LLOF02, LLFO03, LLOF04, LLOF05, LLOF06, LLOF07 Y LLOF08 (Llodio)",
-      "summary": "Control de trabajos forestales en las estructuras: LLOF01, LLOF02, LLFO03, LLOF04, LLOF05, LLOF06, LLOF07 Y LLOF08 (Llodio)",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7869853",
-      "image": null,
-      "publishedAt": "2019-01-01T00:00:00.000Z",
-      "source": {
-        "id": "arkeoikuska",
-        "name": "Arkeoikuska — Eusko Jaurlaritza"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "arkeoikuska:https://openalex.org/W3170555713",
-      "title": "Hallazgos casuales en Álava",
-      "summary": "Hallazgos casuales en Álava",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7869857",
-      "image": null,
-      "publishedAt": "2019-01-01T00:00:00.000Z",
-      "source": {
-        "id": "arkeoikuska",
-        "name": "Arkeoikuska — Eusko Jaurlaritza"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "arkeoikuska:https://openalex.org/W3170760814",
-      "title": "Ermita de Okerruri en Sabando",
-      "summary": "Ermita de Okerruri en Sabando",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7869781",
-      "image": null,
-      "publishedAt": "2019-01-01T00:00:00.000Z",
-      "source": {
-        "id": "arkeoikuska",
-        "name": "Arkeoikuska — Eusko Jaurlaritza"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "arkeoikuska:https://openalex.org/W3171412799",
-      "title": "Proyecto de interconexión de los sistema Uribe-Kosta y Mungiesado-Bakio. Tramo 2",
-      "summary": "Proyecto de interconexión de los sistema Uribe-Kosta y Mungiesado-Bakio. Tramo 2",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7869914",
-      "image": null,
-      "publishedAt": "2019-01-01T00:00:00.000Z",
-      "source": {
-        "id": "arkeoikuska",
-        "name": "Arkeoikuska — Eusko Jaurlaritza"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "arkeoikuska:https://openalex.org/W3169260576",
-      "title": "Calzada Ugarana-Olazabal",
-      "summary": "Calzada Ugarana-Olazabal",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7869866",
-      "image": null,
-      "publishedAt": "2019-01-01T00:00:00.000Z",
-      "source": {
-        "id": "arkeoikuska",
-        "name": "Arkeoikuska — Eusko Jaurlaritza"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "arkeoikuska:https://openalex.org/W3171443299",
-      "title": "Cueva de Arenaza. Estudio de arte parietal: VI Campaña",
-      "summary": "Cueva de Arenaza. Estudio de arte parietal: VI Campaña",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7869876",
-      "image": null,
-      "publishedAt": "2019-01-01T00:00:00.000Z",
-      "source": {
-        "id": "arkeoikuska",
-        "name": "Arkeoikuska — Eusko Jaurlaritza"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "arkeoikuska:https://openalex.org/W3166365152",
-      "title": "Allaran Surbi en Engino: I Campaña de sondeos",
-      "summary": "Allaran Surbi en Engino: I Campaña de sondeos",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7869786",
-      "image": null,
-      "publishedAt": "2019-01-01T00:00:00.000Z",
-      "source": {
-        "id": "arkeoikuska",
-        "name": "Arkeoikuska — Eusko Jaurlaritza"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "arkeoikuska:https://openalex.org/W3164445670",
-      "title": "Túmulo de Estrakinburuko Barrutia",
-      "summary": "Túmulo de Estrakinburuko Barrutia",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7869891",
-      "image": null,
-      "publishedAt": "2019-01-01T00:00:00.000Z",
-      "source": {
-        "id": "arkeoikuska",
-        "name": "Arkeoikuska — Eusko Jaurlaritza"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "arkeoikuska:https://openalex.org/W3166816636",
-      "title": "Cueva de Astuigaina. Estudio de arte parietal",
-      "summary": "Cueva de Astuigaina. Estudio de arte parietal",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7869986",
-      "image": null,
-      "publishedAt": "2019-01-01T00:00:00.000Z",
-      "source": {
-        "id": "arkeoikuska",
-        "name": "Arkeoikuska — Eusko Jaurlaritza"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "kobie-paleo:https://openalex.org/W3200379304",
-      "title": "Primeros datos del estudio antropológico de los enterramientos recuperados en la catedral de Santa María (Vitoria-Gasteiz, s. XI-XIX)",
-      "summary": "espanolDurante los trabajos arqueologicos llevados a cabo en la Catedral de Santa Maria (Vitoria-Gasteiz), se han recuperado, aproximadamente, 2.200 enterramientos. En el presente trabajo nos planteamos analizar una muestra de 358 enterramientos, con el objetivo de definir…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=8050176",
-      "image": null,
-      "publishedAt": "2018-01-01T00:00:00.000Z",
-      "source": {
-        "id": "kobie-paleo",
-        "name": "Kobie — Paleoantropología (BFA)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "kobie-paleo:https://openalex.org/W3199590312",
-      "title": "Estudio osteoarqueológico de la población humana enterrada en el convento mercedario de Burtzeña (Barakaldo, Bizkaia), finales d. XVI-principios s. XIX",
-      "summary": "espanolSe ha estudiado el material antropologico recuperado de veintidos de las cincuenta sepulturas excavadas en el convento de los mercedarios de Burtzena. Gracias al analisis conjunto de los individuos en conexion anatomica y los restos esqueleticos en posicion secundaria, se…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=8050179",
-      "image": null,
-      "publishedAt": "2018-01-01T00:00:00.000Z",
-      "source": {
-        "id": "kobie-paleo",
-        "name": "Kobie — Paleoantropología (BFA)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "erdi-aroa",
-        "iberiarrak",
-        "asia",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "kobie-paleo:https://openalex.org/W3200398571",
-      "title": "Los enterramientos en cista en el Pirineo occidental: arquitectura, cronología, ritual y caracterización de los inhumados en la Sierra de Aralar (Gipuzkoa)",
-      "summary": "espanolEl fenomeno de las cistas o cofres dolmenicos es poco conocido en el Pirineo Occidental. Las que tratamos (Ondarre y Arraztarangana –Aralar–) conservaban una pequena camara, y esta ultima, ademas, un pequeno tumulo. Las fechas radiocarbonicas situan su construccion…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=8050174",
-      "image": null,
-      "publishedAt": "2018-01-01T00:00:00.000Z",
-      "source": {
-        "id": "kobie-paleo",
-        "name": "Kobie — Paleoantropología (BFA)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "prehistoria",
-        "egiptoarrak",
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "kobie-paleo:https://openalex.org/W3200600002",
-      "title": "Sobre la naturaleza del soporte de la placa ósea colgante de la cueva de Balmori (Asturias)",
-      "summary": "espanolLa Cueva de Balmori (Asturias) se localiza a unos 600 m. del pueblo que le da nombre y a 500 m. del estuario del rio Barro. El yacimiento arqueologico, adscrito al Paleolitico Superior, fue descubierto en 1908 y Vega del Sella publico, entre otros materiales, una placa…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=8050172",
-      "image": null,
-      "publishedAt": "2018-01-01T00:00:00.000Z",
-      "source": {
-        "id": "kobie-paleo",
-        "name": "Kobie — Paleoantropología (BFA)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "prehistoria",
-        "iberiarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "kobie-antropo:https://openalex.org/W3171588140",
-      "title": "Hoyas humizas y ahogadizas. A propósito de las diversas tradiciones culturales del carboneo de la madera en los montes cántabros",
-      "summary": "espanolTratamos aqui de presentar un enfoque antropologico de las diversas tradiciones culturales de la consecucion de carbon vegetal en los montes de la actual C.A. de Cantabria. Se trata de un trabajo sobre tradiciones y formas culturales ya periclitadas, aunque contemos con…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7721677",
-      "image": null,
-      "publishedAt": "2018-01-01T00:00:00.000Z",
-      "source": {
-        "id": "kobie-antropo",
-        "name": "Kobie — Antropología Cultural (BFA)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "kobie-antropo:https://openalex.org/W3166651383",
-      "title": "Las estelas medievales del monasterio cisterciense de Santa María de Bujedo de Juarros (Burgos)",
-      "summary": "espanolLa desaparecida abadia cisterciense de Santa Maria de Bujedo de Juarros (Burgos) conserva 13 estelas funerarias que mandaron labrar sus monjes durante el periodo de esplendor del monasterio (1220-1250) para colocar en las tumbas del cementerio monacal. Estas estelas…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7721679",
-      "image": null,
-      "publishedAt": "2018-01-01T00:00:00.000Z",
-      "source": {
-        "id": "kobie-antropo",
-        "name": "Kobie — Antropología Cultural (BFA)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "erdi-aroa"
-      ]
-    },
-    {
-      "id": "kobie-antropo:https://openalex.org/W3164109315",
-      "title": "Romería y fiestas de la Magdalena en Urállaga (Galdames) y en La Arboleda: exaltación de las identidades local y minera",
-      "summary": "espanolLa Magdalena es una festividad atipica. Por su doble condicion de fiesta patronal de La Arboleda, capitalidad de los poblados mineros de los Montes Triano, sitos en varios municipios; pero tambien romeria dedicada a esta advocacion, ubicada en una gruta de Urallaga (Alta…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7721673",
-      "image": null,
-      "publishedAt": "2018-01-01T00:00:00.000Z",
-      "source": {
-        "id": "kobie-antropo",
-        "name": "Kobie — Antropología Cultural (BFA)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "kobie-antropo:https://openalex.org/W3165141455",
-      "title": "Un portillo en el muro. Conflictos de poder en torno a la fundación de la calle Bidebarrieta de Bilbao en 1491",
-      "summary": "espanolEn 1491 el concejo de Bilbao decidio abrir una nueva calle extramuros, en teoria para aliviar la presion que una poblacion en aumento ejercia sobre el exiguo casco urbano. Sin embargo, muy probablemente se trataba de una maniobra inducida por una de las facciones…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7721678",
-      "image": null,
-      "publishedAt": "2018-01-01T00:00:00.000Z",
-      "source": {
-        "id": "kobie-antropo",
-        "name": "Kobie — Antropología Cultural (BFA)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "kobie-antropo:https://openalex.org/W3164315416",
-      "title": "La otredad pagana: entre la asimilación y la resistencia cultural",
-      "summary": "espanolLa identidad provocada y reformulada en los contextos de aculturacion ejemplificados y recogidos en este relato, genericamente etiquetados de religiosos, precisa de un termino excluyente para caracterizar al fugaz acomodaticio, al otro, al pagano. La reversibilidad del…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7721675",
-      "image": null,
-      "publishedAt": "2018-01-01T00:00:00.000Z",
-      "source": {
-        "id": "kobie-antropo",
-        "name": "Kobie — Antropología Cultural (BFA)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "kobie-antropo:https://openalex.org/W3170348908",
-      "title": "Arantzazu y la necesidad de paisaje: una alegoría del pensamiento",
-      "summary": "espanolLos hechos sociopoliticos y artisticos ocurridos en Arantzazu durante el periodo de reforma de la Basilica como escenario contextual para abordar la necesidad de hacer y pensar el paisaje. La idea de paisaje no trata de ser definida aqui, sino de desarrollarse a partir de…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7721674",
-      "image": null,
-      "publishedAt": "2018-01-01T00:00:00.000Z",
-      "source": {
-        "id": "kobie-antropo",
-        "name": "Kobie — Antropología Cultural (BFA)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "zephyrus-usal:https://openalex.org/W2884164430",
-      "title": "Garbati, Giuseppe y Pedrazzi, Tatiana (eds.) (2016): Transformations and Crisis in the Mediterranean: \"Identity\" and Interculturality in the Levant and Phoenician West during the 8th-5th Centuries BCE. Suppl. Rivista di Studi Fenici, XLIV. Roma: CNR Edizioni, 300 pp. ISBN: 978-88-8080-216-7",
-      "summary": "Garbati, Giuseppe y Pedrazzi, Tatiana (eds.) (2016): Transformations and Crisis in the Mediterranean: \"Identity\" and Interculturality in the Levant and Phoenician West during the 8th-5th Centuries BCE. Suppl. Rivista di Studi Fenici, XLIV. Roma: CNR Edizioni, 300 pp. ISBN:…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=6490279",
-      "image": null,
-      "publishedAt": "2018-01-01T00:00:00.000Z",
-      "source": {
-        "id": "zephyrus-usal",
-        "name": "Zephyrus — Prehistoria y Arqueología (Salamanca)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "ekialde-hurbila"
-      ]
-    },
-    {
-      "id": "zephyrus-usal:https://openalex.org/W2978211486",
-      "title": "Byzantine churches in Nablus (Neapolis), Palestine",
-      "summary": "espanolNuestro objetivo ha sido investigar y catalogar informacion arqueologica e historica sobre todas las iglesias de Nablus de la epoca bizantina, construidas desde inicios del s. iv d. C. hasta el 638 d. C. –16 ah– y descubiertas en los ss. xix y xx. Ademas proporcionamos…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=6709993",
-      "image": null,
-      "publishedAt": "2018-01-01T00:00:00.000Z",
-      "source": {
-        "id": "zephyrus-usal",
-        "name": "Zephyrus — Prehistoria y Arqueología (Salamanca)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "kobie-paleo:https://openalex.org/W3126424009",
-      "title": "La muralla del poblado de Basagain (Anoeta, Gipuzkoa): hipótesis y reconstrucción virtual",
-      "summary": "espanolEn el presente articulo se pretende aportar nueva informacion sobre el sistema defensivo que delimita el poblado fortificado de Basagain (Anoeta, Gipuzkoa) correspondiente a la Segunda Edad del Hierro y primeros momentos de nuestra era. La interpretacion del area…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7732386",
-      "image": null,
-      "publishedAt": "2016-01-01T00:00:00.000Z",
-      "source": {
-        "id": "kobie-paleo",
-        "name": "Kobie — Paleoantropología (BFA)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "prehistoria",
-        "iberiarrak",
-        "asia"
-      ]
-    },
-    {
-      "id": "kobie-paleo:https://openalex.org/W3127492240",
-      "title": "El estudio paleopalinológico de la cueva de Ondaro (Nabarniz, Bizkaia)",
-      "summary": "espanolEl estudio paleopalinologico de la cueva con arte rupestre de Ondaro (Nabarniz, Bizkaia) se caracteriza por el deficiente grado de conservacion esporopolinica. Aunque ninguna de las muestras alcanza valores estadisticamente significativos, la composicion taxonomica de dos…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7732382",
-      "image": null,
-      "publishedAt": "2016-01-01T00:00:00.000Z",
-      "source": {
-        "id": "kobie-paleo",
-        "name": "Kobie — Paleoantropología (BFA)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "kobie-paleo:https://openalex.org/W3127269591",
-      "title": "Caracterización geomorfológica del yacimiento arqueológico de Ondaro (Nabarniz, Bizkaia)",
-      "summary": "espanolOndaroko Koba (Nabarniz, Cuenca del Oka, Bizkaia) es un conducto karstico abandonado que presenta una serie de incisiones, rellanos y terrazas erosivas situadas a distintas alturas respecto al suelo actual de la cavidad. Sobre la terraza o repisa inferior (T1) se ha…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7732381",
-      "image": null,
-      "publishedAt": "2016-01-01T00:00:00.000Z",
-      "source": {
-        "id": "kobie-paleo",
-        "name": "Kobie — Paleoantropología (BFA)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "iberiarrak",
-        "asia",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "kobie-paleo:https://openalex.org/W3127777305",
-      "title": "Una qe'tah de dirham de 'Abd al Rahmãn III en plena llanada alavesa (Arroiabe, Arratzua-Ubarrundia, Álava)",
-      "summary": "espanolA lo largo de las proximas lineas damos a conocer una qe‘tah (trozo, fragmento) de un dirham de ‘Abd al Rahman III (300-350 H./912- 961 d.C.) localizada en las inmediaciones del pueblo alaves de Arroiabe. EnglishThroughout the next few lines, we present a qe’tah (piece,…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7732388",
-      "image": null,
-      "publishedAt": "2016-01-01T00:00:00.000Z",
-      "source": {
-        "id": "kobie-paleo",
-        "name": "Kobie — Paleoantropología (BFA)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "iberiarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "kobie-paleo:https://openalex.org/W3168222498",
-      "title": "La arqueología de las aldeas en Bizkaia: balance historiográfico y estado de la cuestión",
-      "summary": "espanolEn un primer momento, los trabajos sobre el poblamiento altomedieval han adaptaron a los modelos planteados por los historiadores, investigando aquellos elementos considerados como “monumentales”, sin que se realizara conexion alguna con registros arqueologicos, con el…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7732390",
-      "image": null,
-      "publishedAt": "2016-01-01T00:00:00.000Z",
-      "source": {
-        "id": "kobie-paleo",
-        "name": "Kobie — Paleoantropología (BFA)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "erdi-aroa",
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "kobie-antropo:https://openalex.org/W2967672863",
-      "title": "Grabados de pastores en las pizarras de Riocavado de la Sierra (Burgos",
-      "summary": "espanolSe hace en este articulo una catalogacion y clasificacion de los grabados llamados “letreros” por los habitantes del pueblo de Riocavado de la Sierra, en la vertiente sur de la Sierra de la Demanda perteneciente a la provincia de Burgos. Estos letreros son anotaciones…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=6998828",
-      "image": null,
-      "publishedAt": "2016-01-01T00:00:00.000Z",
-      "source": {
-        "id": "kobie-antropo",
-        "name": "Kobie — Antropología Cultural (BFA)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "erdi-aroa",
-        "amerika",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "kobie-antropo:https://openalex.org/W2967854755",
-      "title": "Sinboloak aldarrikatutako bat-egite sozial-artistikotik egien ezintasunera forma txarrekin gure gaurkotasun artistikoan",
-      "summary": "espanolPartiendo de la tesis doctoral “Aproximaciones a una experiencia de malestar contemporaneo. Entre la ausencia del simbolo-arte y el encuentro con las malas formas en la obra de Jon Mikel Euba”, este articulo se centra en la estructura de las obras de arte y sus cambios en…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=6998826",
-      "image": null,
-      "publishedAt": "2016-01-01T00:00:00.000Z",
-      "source": {
-        "id": "kobie-antropo",
-        "name": "Kobie — Antropología Cultural (BFA)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "kobie-antropo:https://openalex.org/W2967169011",
-      "title": "Fiestas populares en la ciudad de Bilbao: Translatividad y confluencias sociales en un marco cultural transmoderno",
-      "summary": "espanolLas fiestas populares de Bilbao encuentran su marco de celebracion social en una ciudad de rasgos transmodernos. La fiesta popular de contenido religioso se ha ido adaptando a unas condiciones seculares predominantes en un continuo proceso de translatividad social. Al…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=6998820",
-      "image": null,
-      "publishedAt": "2016-01-01T00:00:00.000Z",
-      "source": {
-        "id": "kobie-antropo",
-        "name": "Kobie — Antropología Cultural (BFA)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "kobie-antropo:https://openalex.org/W2968269460",
-      "title": "Procedimientos de acomodación de un Mayorazgo: Una aproximación genealógica",
-      "summary": "espanolEntre otras aristas, en el relato del auge y caida del Mayorazgo Larragoiti se divisa, sobre el horizonte de una acomodable reglamentacion religiosa del orden social, el cruce de metanarrativas con un cambio cultural hacia la familia nuclear. euskaraBeste ertz batzuen…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=6998825",
-      "image": null,
-      "publishedAt": "2016-01-01T00:00:00.000Z",
-      "source": {
-        "id": "kobie-antropo",
-        "name": "Kobie — Antropología Cultural (BFA)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "kobie-antropo:https://openalex.org/W2966974385",
-      "title": "Zorrotzaurre: De península portuaria e industrial, a isla de ‘ensueño’ para el nuevo Bilbao terciario-residencial: Horizonte de transformación social, urbana y espacial",
-      "summary": "espanolProblemas derivados de la utilizacion intensa del suelo en Zorrotzaure (Bilbao), han ralentizado la rehabilitacion de los espacios postindustriales y fluviales-maritimos, en esos frentes de agua (‘waterfronts’) portuarios que se construyen espacialmente como lugares…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=6998822",
-      "image": null,
-      "publishedAt": "2016-01-01T00:00:00.000Z",
-      "source": {
-        "id": "kobie-antropo",
-        "name": "Kobie — Antropología Cultural (BFA)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "asia"
-      ]
-    },
-    {
-      "id": "kobie-antropo:https://openalex.org/W2967930376",
-      "title": "Patrimonio marítimo inmaterial en la bocana de la Ría de Bilbao: Fiestas náuticas en la Villa de Portugalete",
-      "summary": "espanolEste articulo estudia las fiestas de referente maritimo en la Villa de Portugalete, poblacion situada en la bocana de la Ria de Bilbao. Como expresion de patrimonio inmaterial. Y teniendo en cuenta sus diferentes tipos y dimensiones. Historica y antropologicamente. A…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=6998821",
-      "image": null,
-      "publishedAt": "2016-01-01T00:00:00.000Z",
-      "source": {
-        "id": "kobie-antropo",
-        "name": "Kobie — Antropología Cultural (BFA)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "zephyrus-usal:https://openalex.org/W2782412993",
-      "title": "Rock-cut cemeteries and settlement processes at the Upper Arlanza Basin (Burgos, Spain): A late antique and early medieval landscape analisis",
-      "summary": "espanolLas investigaciones actuales en los yacimientos del Alto Arlanza (Burgos) proporcionan una perspectiva nueva y de interes para la comprension de las redes aldeanas de campesinos que probablemente controlaron el territorio. Esta poblacion se organizaba en nucleos de…",
-      "url": "http://diposit.ub.edu/dspace/bitstream/2445/162032/1/669851.pdf",
-      "image": null,
-      "publishedAt": "2016-01-01T00:00:00.000Z",
-      "source": {
-        "id": "zephyrus-usal",
-        "name": "Zephyrus — Prehistoria y Arqueología (Salamanca)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "erdi-aroa"
-      ]
-    },
-    {
-      "id": "kobie-antropo:https://openalex.org/W2966463294",
-      "title": "Una etnohistoria de las danzas de espadas europeas y sus atribuciones contextuales",
-      "summary": "espanolProbar la ascendencia arabe en las danzas de espadas europeas y su difusion via morisca no significa incrustar estampaciones caracterologicas y sociobiologicas en los lineamientos culturales sino permeabilizar sus gradientes externos, hoy denominados interculturales,…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=6997688",
-      "image": null,
-      "publishedAt": "2015-01-01T00:00:00.000Z",
-      "source": {
-        "id": "kobie-antropo",
-        "name": "Kobie — Antropología Cultural (BFA)"
-      },
-      "lang": "es",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "zephyrus-usal:https://openalex.org/W3091028482",
-      "title": "Delibes de Castro, G.; García García, M.; Del Olmo Martín, J. y Santiago Pardo, J. «Recintos de fosos calcolíticos del valle medio del Duero. Arqueología aérea y especial»: Valladolid: Universidad de Valladolid, Servicio de Publicaciones, 2014. ISBN 978-84-8448-794-4",
-      "summary": "Delibes de Castro, G.; García García, M.; Del Olmo Martín, J. y Santiago Pardo, J. «Recintos de fosos calcolíticos del valle medio del Duero. Arqueología aérea y especial»: Valladolid: Universidad de Valladolid, Servicio de Publicaciones, 2014. ISBN 978-84-8448-794-4",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=5285233",
-      "image": null,
-      "publishedAt": "2015-01-01T00:00:00.000Z",
-      "source": {
-        "id": "zephyrus-usal",
-        "name": "Zephyrus — Prehistoria y Arqueología (Salamanca)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": []
-    },
-    {
-      "id": "zephyrus-usal:https://openalex.org/W1956299916",
-      "title": "LE ROUX, Patrick (2014). «Espagnes romaines. L’empire dans ses provinces». Scripta varia II. Travaux rassemblés par S. Armani, F. Cadiou, P. Faure, B. Goffaux†, N. Mathieu, M. Navarro Caballero, J. Nelis-Clément et Ch. Schmidt-Heidenreich. Rennes: Presses Universitaires de Rennes, 712 pp",
-      "summary": "LE ROUX, Patrick (2014). «Espagnes romaines. L’empire dans ses provinces». Scripta varia II. Travaux rassemblés par S. Armani, F. Cadiou, P. Faure, B. Goffaux†, N. Mathieu, M. Navarro Caballero, J. Nelis-Clément et Ch. Schmidt-Heidenreich. Rennes: Presses Universitaires de…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=5205995",
-      "image": null,
-      "publishedAt": "2015-01-01T00:00:00.000Z",
-      "source": {
-        "id": "zephyrus-usal",
-        "name": "Zephyrus — Prehistoria y Arqueología (Salamanca)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "kobie-antropo:https://openalex.org/W2968836190",
-      "title": "Patrimonio marítimo y maritimidad: Su significado en la era de la glocalización",
-      "summary": "espanolEste trabajo pretende abordar en un contexto teorico, aunque no exento de referencias empiricas al caso del litoral vasco, los conceptos de patrimonio maritimo y de maritimidad. Asi como su rapida evolucion y su adaptacion a los imperativos de la dialectica global/local o…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=6997596",
-      "image": null,
-      "publishedAt": "2014-01-01T00:00:00.000Z",
-      "source": {
-        "id": "kobie-antropo",
-        "name": "Kobie — Antropología Cultural (BFA)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "kobie-antropo:https://openalex.org/W2967566234",
-      "title": "Bayonne et la côte basque frontalière: Une métropole européenne au bord de la mer",
-      "summary": "espanolEl objetivo principal del trabajo que se resume en estas primeras lineas parte de la necesidad de poner en valor la construccion significativa y la configuracion simbolica del espacio urbano en los frentes de agua. En el territorio del Norte del Pais Vasco encontramos la…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=6997597",
-      "image": null,
-      "publishedAt": "2014-01-01T00:00:00.000Z",
-      "source": {
-        "id": "kobie-antropo",
-        "name": "Kobie — Antropología Cultural (BFA)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "iberiarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "kobie-antropo:https://openalex.org/W2967518054",
-      "title": "Construcciones primitivas: Txabolas de falsa cúpula en la Sierra de Aralar (Euskal Herria)",
-      "summary": "espanolHacemos referencia en este trabajo de algunas construcciones pastoriles de la Sierra de Aralar, centrandonos fundamentalmente en la treintena que tienen cubierta de Falsa Cupula. euskaralan honetan Aralarreko mendilerroko zenbait artzai-etxola aipatzen ditugu. Bereziki,…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=6997601",
-      "image": null,
-      "publishedAt": "2014-01-01T00:00:00.000Z",
-      "source": {
-        "id": "kobie-antropo",
-        "name": "Kobie — Antropología Cultural (BFA)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "iberiarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "kobie-antropo:https://openalex.org/W2966985882",
-      "title": "Conflicto en Corpus Christi: Escándalos ceremoniales o secuencias rituales",
-      "summary": "espanolLa escuela de Manchester situa las expresiones de los conflictos como una fase ritual dentro de las celebraciones sociales que permite visibilizar los desencuentros sociales. Un inventario de tensas situaciones locales con ocasion de la celebracion del Corpus contrasta…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=6997599",
-      "image": null,
-      "publishedAt": "2014-01-01T00:00:00.000Z",
-      "source": {
-        "id": "kobie-antropo",
-        "name": "Kobie — Antropología Cultural (BFA)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "zephyrus-usal:https://openalex.org/W230235579",
-      "title": "Back to the point: New datings for la Peña de Candamo Cave art (Asturias)",
-      "summary": "La cueva de La Pena de Candamo fue descubierta en 1914 para la comunidad cientifica, siendo una de las primeras conocidas en la region cantabrica y declarada Patrimonio de la Humanidad por la UNESCO en 2008. El unico estudio monografico de su arte parietal fue dirigido y…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=5011764",
-      "image": null,
-      "publishedAt": "2014-01-01T00:00:00.000Z",
-      "source": {
-        "id": "zephyrus-usal",
-        "name": "Zephyrus — Prehistoria y Arqueología (Salamanca)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "zephyrus-usal:https://openalex.org/W2132483231",
-      "title": "La producción textil durante la Edad del Bronce en el cuadrante suroriental de la Península Ibérica: materias primas, productos, instrumentos y procesos de trabajo",
-      "summary": "Este trabajo pretende evaluar la importancia de la produccion textil en las sociedades de la Edad del Bronce en el cuadrante suroriental de la Peninsula Iberica. Se ha tratado de caracterizar cada una de las artesanias textiles: tejeduria, cordeleria y cesteria, principalmente.…",
-      "url": "https://rua.ua.es/dspace/bitstream/10045/36270/1/2013_Jover_Lopez_Zephyrus.pdf",
-      "image": null,
-      "publishedAt": "2013-06-17T00:00:00.000Z",
-      "source": {
-        "id": "zephyrus-usal",
-        "name": "Zephyrus — Prehistoria y Arqueología (Salamanca)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": []
-    },
-    {
-      "id": "zephyrus-usal:https://openalex.org/W1529437983",
-      "title": "Estrategias de subsistencia durante el Paleolítico medio en la Submeseta norte: La Cueva Corazón (Mave, Palencia)",
-      "summary": "This work shows a first description of the subsistence strategies carried out by the Neanderthal communities that inhabited the Horadada Gorge (Mave, Palence). Through the analysis of the faunal collections retrieved from the Mousterian archaeological horizon unearthed at…",
-      "url": "http://campus.usal.es/~revistas_trabajo/index.php/0514-7336/article/view/9956/11889",
-      "image": null,
-      "publishedAt": "2013-06-17T00:00:00.000Z",
-      "source": {
-        "id": "zephyrus-usal",
-        "name": "Zephyrus — Prehistoria y Arqueología (Salamanca)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "zephyrus-usal:https://openalex.org/W1951224414",
-      "title": "Artefactos singulares de filiación meridional en el Calcolítico de la Meseta norte española: un vaso calcáreo procedente de El Fonsario (Villafáfila, Zamora)",
-      "summary": "A stone cup similar to the ones well known in the Southern Iberia Copper Age has been recovered in El Fonsario –Zamora–. This example serves as the starting point for presenting a list of other PreBeaker Copper Age’s exotic artefacts from sites of the Northern Meseta. In this…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=4457756",
-      "image": null,
-      "publishedAt": "2013-06-17T00:00:00.000Z",
-      "source": {
-        "id": "zephyrus-usal",
-        "name": "Zephyrus — Prehistoria y Arqueología (Salamanca)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "zephyrus-usal:https://openalex.org/W1554997506",
-      "title": "Algunas precisiones sobre la terminología empleada en la segunda parte del Tardiglaciar en Europa Central y el problema de su aplicación en el sw de Europa",
-      "summary": "Today, the Late Glacial interstadials Bolling and Allerod, originally defined in northern Europe, are often applied as chronozones in different palaeoclimate contexts across the Northern Hemisphere. The scientific community in both palaeoclimate research and archaeology often…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=667523",
-      "image": null,
-      "publishedAt": "2013-04-26T00:00:00.000Z",
-      "source": {
-        "id": "zephyrus-usal",
-        "name": "Zephyrus — Prehistoria y Arqueología (Salamanca)"
-      },
-      "lang": "es",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "zephyrus-usal:https://openalex.org/W1801674571",
-      "title": "La escritura ibérica meridional",
-      "summary": "In this paper they are discussed some problems concerning the transcription of the native Meridional Iberian writing system by means of the internal analysis, the evolutionary paleography and the aid of the lexical parallels from the Iberian language used in the Levantine…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=667472",
-      "image": null,
-      "publishedAt": "2013-04-25T00:00:00.000Z",
-      "source": {
-        "id": "zephyrus-usal",
-        "name": "Zephyrus — Prehistoria y Arqueología (Salamanca)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "iberiarrak",
-        "ekialde-hurbila"
-      ]
-    },
-    {
-      "id": "zephyrus-usal:https://openalex.org/W1544253008",
-      "title": "Las puntas líticas con retoque plano del calcolítico cantábrico: análisis tecnotipológico y contextual",
-      "summary": "This paper constitutes an approach to the knowledge of the more characteristic group among the industries of the Cantabrian Chalcolithic: the lithic projectile points fabricated with the technique of the invasive retouch. This attempt is based on a statistical study in which…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=667471",
-      "image": null,
-      "publishedAt": "2013-04-25T00:00:00.000Z",
-      "source": {
-        "id": "zephyrus-usal",
-        "name": "Zephyrus — Prehistoria y Arqueología (Salamanca)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "asia"
-      ]
-    },
-    {
-      "id": "zephyrus-usal:https://openalex.org/W1523714381",
-      "title": "Evolución de los sistemas de captación de recursos entre el Magdaleniense superior final y el Epipaleolítico geométrico de la Cueva del Parco (Alòs de Balaguer, La Noguera, Lleida)",
-      "summary": "In this paper we analyze the changes in the way of obtaining lithic raw materials and eating ressources in the Upper Magdalenian and the Epipalaeolithic in El Parco Cave (Alos de Balaguer, Lleida, Spain). We study also technological and functional aspects of the lithic…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=667464",
-      "image": null,
-      "publishedAt": "2013-04-24T00:00:00.000Z",
-      "source": {
-        "id": "zephyrus-usal",
-        "name": "Zephyrus — Prehistoria y Arqueología (Salamanca)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "asia"
-      ]
-    },
-    {
-      "id": "zephyrus-usal:https://openalex.org/W1617321924",
-      "title": "Los procesos técnicos de la cantería durante la Segunda Edad del Hierro en el occidente de la meseta",
-      "summary": "This paper reconstructs the technical processes involved in producing the stone works made by the communities of Western Iberia during the Late Iron Age. For this study, we use both archaeological and ethnographic data. We analyze the characteristics of granite, the extraction…",
-      "url": "https://gredos.usal.es/jspui/bitstream/10366/130442/1/Los_procesos_tecnicos_de_la_canteria_dur.pdf",
-      "image": null,
-      "publishedAt": "2013-01-29T00:00:00.000Z",
-      "source": {
-        "id": "zephyrus-usal",
-        "name": "Zephyrus — Prehistoria y Arqueología (Salamanca)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "prehistoria",
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "isturitz:https://openalex.org/W175812696",
-      "title": "Un colgante magdaleniense de la cueva de Santa Catalina. Análisis tecnológico y funcional",
-      "summary": "Un colgante magdaleniense de la cueva de Santa Catalina. Análisis tecnológico y funcional",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=4128236",
-      "image": null,
-      "publishedAt": "2012-01-01T00:00:00.000Z",
-      "source": {
-        "id": "isturitz",
-        "name": "Isturitz — Cuadernos de Prehistoria-Arqueología (EI-SEV)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "isturitz:https://openalex.org/W81047234",
-      "title": "Prospección y estudio de patrimonio arqueológico en la comarca de Uribe Kosta",
-      "summary": "Prospección y estudio de patrimonio arqueológico en la comarca de Uribe Kosta",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=4128255",
-      "image": null,
-      "publishedAt": "2012-01-01T00:00:00.000Z",
-      "source": {
-        "id": "isturitz",
-        "name": "Isturitz — Cuadernos de Prehistoria-Arqueología (EI-SEV)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "isturitz:https://openalex.org/W340819467",
-      "title": "Las cuevas decoradas en el macizo de Arbaila. Una visión actualizada de su contexto cronológico tardiglaciar",
-      "summary": "Las cuevas decoradas en el macizo de Arbaila. Una visión actualizada de su contexto cronológico tardiglaciar",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=4128196",
-      "image": null,
-      "publishedAt": "2012-01-01T00:00:00.000Z",
-      "source": {
-        "id": "isturitz",
-        "name": "Isturitz — Cuadernos de Prehistoria-Arqueología (EI-SEV)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "isturitz:https://openalex.org/W45592161",
-      "title": "Técnicas de caza en el Paleolítico Medio del País Vasco",
-      "summary": "Técnicas de caza en el Paleolítico Medio del País Vasco",
-      "url": "https://cir.cenieh.es/bitstream/20.500.12136/670/1/T%c3%a9cnicas%20de%20caza%20en%20el%20Paleol%c3%adtico%20Medio%20del%20Pa%c3%ads%20Vasco_R%c3%ados-Garaizar_2012.pdf",
-      "image": null,
-      "publishedAt": "2012-01-01T00:00:00.000Z",
-      "source": {
-        "id": "isturitz",
-        "name": "Isturitz — Cuadernos de Prehistoria-Arqueología (EI-SEV)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "isturitz:https://openalex.org/W2288093953",
-      "title": "Megalitismo y cuevas sepulcrales en Gipuzkoa. Distribución espacial y características generales",
-      "summary": "Megalitismo y cuevas sepulcrales en Gipuzkoa. Distribución espacial y características generales",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=4128244",
-      "image": null,
-      "publishedAt": "2012-01-01T00:00:00.000Z",
-      "source": {
-        "id": "isturitz",
-        "name": "Isturitz — Cuadernos de Prehistoria-Arqueología (EI-SEV)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "isturitz:https://openalex.org/W1572868515",
-      "title": "Estudio arqueológico y documental del camino viejo Bilbao-Gernika (Ruta Juradera): nuevos hallazgos y reconstrucción del trazado",
-      "summary": "El siguiente trabajo forma parte de una amplia investigacion que las autoras llevan anos realizando en torno al camino de Santiago en Bizkaia, y que en base a la combinacion de meto-dos arqueologicos y fuentes documentales, pretende restituir el trazado de uno de los caminos mas…",
-      "url": "http://hedatuz.euskomedia.org/2626/1/11265303.pdf",
-      "image": null,
-      "publishedAt": "2001-01-01T00:00:00.000Z",
-      "source": {
-        "id": "isturitz",
-        "name": "Isturitz — Cuadernos de Prehistoria-Arqueología (EI-SEV)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "isturitz:https://openalex.org/W1531548756",
-      "title": "Caracterización ceramológica de las formas cerámicas de época medieval en el despoblado de Legardagutxi (Alava)",
-      "summary": "En este trabajo queremos dar a conocer los primeros resultados obtenidos a traves del analisis de las ceramicas de epoca medieval del yacimiento de Legardagutxi. La analitica nos ha permitido profundizar en la funcionalidad de las piezas. Asi pues, nos ha permitido caracterizar…",
-      "url": "http://hedatuz.euskomedia.org/2614/",
-      "image": null,
-      "publishedAt": "2001-01-01T00:00:00.000Z",
-      "source": {
-        "id": "isturitz",
-        "name": "Isturitz — Cuadernos de Prehistoria-Arqueología (EI-SEV)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "erdi-aroa",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "isturitz:https://openalex.org/W1603823691",
-      "title": "Estudio de la cerámica bajomedieval en Vitoria, a través de la intervención realizada en la manzana II",
-      "summary": "En el presente trabajo se presenta un estudio formal, petrografico, mineralogico y geuquimico de algunas de las piezas ceramicas medievales encontradas en la excavacion realizada en la parcela denominada Manzana 11, sita en la ciudad de Vitoria. Se han estudiado tanto las…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=254921",
-      "image": null,
-      "publishedAt": "2001-01-01T00:00:00.000Z",
-      "source": {
-        "id": "isturitz",
-        "name": "Isturitz — Cuadernos de Prehistoria-Arqueología (EI-SEV)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "erdi-aroa",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "isturitz:https://openalex.org/W102436453",
-      "title": "Análisis petrográfico de cerámicas protohistóricas de Guipúzcoa",
-      "summary": "En el presente trabajo se presentan los resultados del estudio petrografico realizado a partir de 45 fragmentos de ceramicas representativas de diferentes poblados de la Edad del Hierro, situados en Guipuzcoa; asi como algunos resultados significativos del estudio de…",
-      "url": "http://hedatuz.euskomedia.org/2618/",
-      "image": null,
-      "publishedAt": "2001-01-01T00:00:00.000Z",
-      "source": {
-        "id": "isturitz",
-        "name": "Isturitz — Cuadernos de Prehistoria-Arqueología (EI-SEV)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "isturitz:https://openalex.org/W202083810",
-      "title": "La caracterización del soporte de la obra gráfica parietal en la cueva decorada paleolítica de Benta Laperra (Karrantza, Bizkaia)",
-      "summary": "Se ha tratado en esta investigacion de la realizacion de versiones analiticas de las representaciones sobre una base fotografica con el objeto de enriquecer la interpretacion arqueologica de una cueva decorada (Benta Laperra). Esto ha posibilitado la reflexion en profundidad…",
-      "url": "http://hedatuz.euskomedia.org/2621/",
-      "image": null,
-      "publishedAt": "2001-01-01T00:00:00.000Z",
-      "source": {
-        "id": "isturitz",
-        "name": "Isturitz — Cuadernos de Prehistoria-Arqueología (EI-SEV)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "iberiarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "isturitz:https://openalex.org/W1554994927",
-      "title": "La función de los útiles en sílex del yacimiento de Pico Ramos (Muskiz, Bizkaia)",
-      "summary": "El yacimiento en cueva de Pico Ramos (Muskiz, Bizkaia) presenta dos niveles arqueologicos: un nivel de ocupacion fechado a principios del 5° milenio cal. BC y otro sepulcral suprayacente de mediados del 4° milenio cal BC. En este articulo se estudia la funcion del utillaje…",
-      "url": "http://hedatuz.euskomedia.org/2624/",
-      "image": null,
-      "publishedAt": "2001-01-01T00:00:00.000Z",
-      "source": {
-        "id": "isturitz",
-        "name": "Isturitz — Cuadernos de Prehistoria-Arqueología (EI-SEV)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "isturitz:https://openalex.org/W987561917",
-      "title": "Santa Criz, ciudad romana: resultado de los estudios metalográficos y paleopatológicos",
-      "summary": "Las excavaciones arqueologicas que se han desarrollado en el yacimiento romano de Santa Criz (Eslava), durante los anos 1995 y 1996, han sacado a la luz, en el area de la necropolis, restos de tres recintos funerarios. En ellos y junto a ellos se ha detectado la existencia de…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=254944",
-      "image": null,
-      "publishedAt": "2001-01-01T00:00:00.000Z",
-      "source": {
-        "id": "isturitz",
-        "name": "Isturitz — Cuadernos de Prehistoria-Arqueología (EI-SEV)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "erromatarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "isturitz:https://openalex.org/W1497262637",
-      "title": "Análisis petrográfico de cerámicas de la Protohistoria de Álava",
-      "summary": "El presente trabajo representa una aportacion mas al estudio global de la tecnologia cerami-ca en la Protohistoria del Pais Vasco, recogiendose en el los resultados obtenidos de la aplicacion de tecnicas petrograficas en ceramicas de la Protohistoria de Alava. Se han estudiado…",
-      "url": "http://hedatuz.euskomedia.org/2620/1/11093112.pdf",
-      "image": null,
-      "publishedAt": "2001-01-01T00:00:00.000Z",
-      "source": {
-        "id": "isturitz",
-        "name": "Isturitz — Cuadernos de Prehistoria-Arqueología (EI-SEV)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "erdi-aroa",
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "isturitz:https://openalex.org/W1486251389",
-      "title": "Análisis mineralógico y geoquímico de cerámicas de la Protohistoria de Álava",
-      "summary": "El presente trabajo constituye una aportacion mas al estudio global de la tecnologia ceramica en la Protohistoria de Euskal Herria. En el se recogen los resultados obtenidos de la aplicacion de tecnicas petrografico-mineralogicas y geoquimicas en ceramicas de la Protohistoria de…",
-      "url": "http://hedatuz.euskomedia.org/2619/",
-      "image": null,
-      "publishedAt": "2001-01-01T00:00:00.000Z",
-      "source": {
-        "id": "isturitz",
-        "name": "Isturitz — Cuadernos de Prehistoria-Arqueología (EI-SEV)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "prehistoria",
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "isturitz:https://openalex.org/W1541538289",
-      "title": "EL poblado de montaña calcolítico al aire libre de Ilso Betaio (Bizkaia): Estructuras de habitación, materiales arqueológicos, estudio palinológico y antracológico",
-      "summary": "[es] En este articulo se estudian las estructuras y los materiales arqueologicos asociados a ellas procedentes de las excavaciones arqueologicas realizadas en el poblado calcolitico de montana de Ilso Betaio (Enkarterria, Bizkaia) durante los anos 1981-1990. Se consideran…",
-      "url": "http://hedatuz.euskomedia.org/2606/",
-      "image": null,
-      "publishedAt": "1999-01-01T00:00:00.000Z",
-      "source": {
-        "id": "isturitz",
-        "name": "Isturitz — Cuadernos de Prehistoria-Arqueología (EI-SEV)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "iberiarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "isturitz:https://openalex.org/W179466269",
-      "title": "El entorno arqueobotánico de la estación de Ataun-Burunda (Gipuzkoa) II: Los dólmenes de Unanabi y Napalatza (Idiazabal) y el túmulo de Txoritegi (Zerain)",
-      "summary": "El entorno arqueobotánico de la estación de Ataun-Burunda (Gipuzkoa) II: Los dólmenes de Unanabi y Napalatza (Idiazabal) y el túmulo de Txoritegi (Zerain)",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=205053",
-      "image": null,
-      "publishedAt": "1999-01-01T00:00:00.000Z",
-      "source": {
-        "id": "isturitz",
-        "name": "Isturitz — Cuadernos de Prehistoria-Arqueología (EI-SEV)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "isturitz:https://openalex.org/W1519554241",
-      "title": "Investigación interdisciplinar del dolmen de La Cabaña 4 (Karrantza, Bizkaia)",
-      "summary": "[es] En este articulo se expone la memoria de la excavacion del dolmen de La Cabana 4, Karrantza, Bizkaia (Euskal Herria). En el informe se muestra el estado del monumento al comenzar la excavacion, la metodologia de los trabajos arqueologicos realizados, el proceso de…",
-      "url": "http://hedatuz.euskomedia.org/2607/",
-      "image": null,
-      "publishedAt": "1999-01-01T00:00:00.000Z",
-      "source": {
-        "id": "isturitz",
-        "name": "Isturitz — Cuadernos de Prehistoria-Arqueología (EI-SEV)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "iberiarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "isturitz:https://openalex.org/W2035621912",
-      "title": "Lathyrus savitus en Euskal Herria",
-      "summary": "Lathyrus savitus en Euskal Herria",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=205059",
-      "image": null,
-      "publishedAt": "1999-01-01T00:00:00.000Z",
-      "source": {
-        "id": "isturitz",
-        "name": "Isturitz — Cuadernos de Prehistoria-Arqueología (EI-SEV)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "isturitz:https://openalex.org/W1860628487",
-      "title": "El combustible y la agricultura prehistórica: Estudio arqueobotánico de los yacimientos de Arenaza, Kanpanoste Goikoa y Kobaederra",
-      "summary": "[es] Se presentan los resultados de los analisis de macro rrestos vegetales de tres yacimientos vascos. Las muestrasp roceden de niveles que se enmarcan desde el Mesolitico a la Edad del Bronce. En los tres yacimientos existen evi-dencias de agricultura (cebada, trigo y mijo).…",
-      "url": "http://hedatuz.euskomedia.org/2612/",
-      "image": null,
-      "publishedAt": "1999-01-01T00:00:00.000Z",
-      "source": {
-        "id": "isturitz",
-        "name": "Isturitz — Cuadernos de Prehistoria-Arqueología (EI-SEV)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "prehistoria",
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "isturitz:https://openalex.org/W1542381616",
-      "title": "Prospecciones arqueológicas orientadas a la localización de yacimientos de la Edad del Hierro en Gipuzkoa",
-      "summary": "[es] El presente trabajo recoge los resultados correspondientes a la segunda fase del proyecto encaminado a la localizacion de habitats y lugares funerarios del Bronce Final y Edad del Hierro en Gipuzkoa, habiendose llevado a cabo a lo largo de este ano trabajos en siete puntos…",
-      "url": "http://hedatuz.euskomedia.org/2608/",
-      "image": null,
-      "publishedAt": "1999-01-01T00:00:00.000Z",
-      "source": {
-        "id": "isturitz",
-        "name": "Isturitz — Cuadernos de Prehistoria-Arqueología (EI-SEV)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "isturitz:https://openalex.org/W2128433218",
-      "title": "Conclusiones de la \"Primera reunión internacional sobre arte postpaleolítico esquemático/abstracto en cuevas\": Vitoria-Gasteiz, 12, 13, 14 Octubre 1995",
-      "summary": "[es] Se recogen en esta memoria los resultados de los temas expuestos y debatidos en la Primera Reunion Internacional sobre Arte Postpaleolitico Esquematico/Abstracto en Cuevas. Con ella se pretendio concretar y definir lo que caracteriza a este tipo de expresiones artisticas,…",
-      "url": "http://hedatuz.euskomedia.org/2609/",
-      "image": null,
-      "publishedAt": "1999-01-01T00:00:00.000Z",
-      "source": {
-        "id": "isturitz",
-        "name": "Isturitz — Cuadernos de Prehistoria-Arqueología (EI-SEV)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "isturitz:https://openalex.org/W178989559",
-      "title": "Técnicas de modelización tipométrica en series líticas II: Análisis por módulos y tratamiento estadístico",
-      "summary": "[es] La recogida sistematica de datos tipometricos suele suponer un esfuerzo poco productivo desde el punto de vista de los resultados para la investigacion. Se proponen distintos metodos para obtener un mejor provecho de este apartado, pudiendo describir en terminos objetivos y…",
-      "url": "http://hedatuz.euskomedia.org/2611/",
-      "image": null,
-      "publishedAt": "1999-01-01T00:00:00.000Z",
-      "source": {
-        "id": "isturitz",
-        "name": "Isturitz — Cuadernos de Prehistoria-Arqueología (EI-SEV)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "isturitz:https://openalex.org/W140885193",
-      "title": "Los utensilios de caza en Legintxiki (Navarra)",
-      "summary": "[es] El yacimiento de Legintxiki, ha proporcionado una interesante coleccion de elementos liticos, con los que se pueden fabricar, segun nuestra experiencia arpones. Estos elementos triangulares se asocian a unas puntas liticas que son frecuentes en momentos del Solutrense…",
-      "url": "http://hedatuz.euskomedia.org/1739/1/07095130.pdf",
-      "image": null,
-      "publishedAt": "1997-01-01T00:00:00.000Z",
-      "source": {
-        "id": "isturitz",
-        "name": "Isturitz — Cuadernos de Prehistoria-Arqueología (EI-SEV)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "isturitz:https://openalex.org/W18309784",
-      "title": "La circulación monetaria romana en el País Vasco",
-      "summary": "[es] Los hallazgos monetarios constituyen una fuente documental utilizada frecuentemente en la fechacion de los estratos arqueologicos. En si mismos proporcionan tambien una rica informacion sobre la difusion de la economia monetaria en un determinado territorio. A partir del…",
-      "url": "http://hedatuz.euskomedia.org/1662/",
-      "image": null,
-      "publishedAt": "1997-01-01T00:00:00.000Z",
-      "source": {
-        "id": "isturitz",
-        "name": "Isturitz — Cuadernos de Prehistoria-Arqueología (EI-SEV)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "erromatarrak",
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "isturitz:https://openalex.org/W16873695",
-      "title": "Prospección del término municipal de Eslava (Navarra)",
-      "summary": "We previously showed that insulin has a profound effect to suppress pyruvate dehydrogenase kinase (PDK) 4 expression in rat skeletal muscle. In the present study, we examined whether insulin's effect on PDK4 expression is impaired in acute insulin-resistant states and, if so,…",
-      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=204892",
-      "image": null,
-      "publishedAt": "1997-01-01T00:00:00.000Z",
-      "source": {
-        "id": "isturitz",
-        "name": "Isturitz — Cuadernos de Prehistoria-Arqueología (EI-SEV)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "isturitz:https://openalex.org/W54034764",
-      "title": "Aspectos sobre la cultura material de época romana en Navarra",
-      "summary": "[es] En este articulo se pretende dar una vision general, una puesta al dia, de los elementos materiales que configuran la epoca romana en Navarra. Para ello hay que tener en cuenta tanto los ajuares ceramicos, el elemento mas numeroso recuperado en los yacimientos, como los…",
-      "url": "http://hedatuz.euskomedia.org/1595/",
-      "image": null,
-      "publishedAt": "1997-01-01T00:00:00.000Z",
-      "source": {
-        "id": "isturitz",
-        "name": "Isturitz — Cuadernos de Prehistoria-Arqueología (EI-SEV)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "erromatarrak",
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "isturitz:https://openalex.org/W174787335",
-      "title": "Una posible presencia militar junto a la Sierra de Andía",
-      "summary": "[es] Se presentan los datos de las prospecciones del autor en el Termino de Ibicuri (Yerri), en las estribaciones de la Sierra de Andia (Navarra). Los materiales recuperados, de epoca romana, posibilitan la caracterizacion del lugar como un asentamiento militar",
-      "url": "http://hedatuz.euskomedia.org/1652/",
-      "image": null,
-      "publishedAt": "1997-01-01T00:00:00.000Z",
-      "source": {
-        "id": "isturitz",
-        "name": "Isturitz — Cuadernos de Prehistoria-Arqueología (EI-SEV)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "erromatarrak",
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "isturitz:https://openalex.org/W7585098",
-      "title": "Estudio de los materiales de época clásica de la colección de la Sociedad de Amigos de Laguardia",
-      "summary": "[es] La Sociedad de Amigos de Laguardia, posee por azares del destino, una de las colecciones de patrimonio mueble mas peculiares de cuantas existen en la Comunidad Autonoma Vasca. La epoca mas homogeneamente representada dentro de la coleccion tanto por el volumen como por la…",
-      "url": "http://hedatuz.euskomedia.org/1586/",
-      "image": null,
-      "publishedAt": "1997-01-01T00:00:00.000Z",
-      "source": {
-        "id": "isturitz",
-        "name": "Isturitz — Cuadernos de Prehistoria-Arqueología (EI-SEV)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "erromatarrak",
         "iberiarrak"
       ]
     }
