@@ -375,8 +375,26 @@ async function fetchSource(source) {
     }));
   }
   const startedAt = Date.now();
+  // OJS-eko aldizkari batzuk (Cuadernos, Veleia, RAMPAS…) mantsoak dira eta noizean
+  // behin huts egiten dute. Saiakera bat baino gehiago egiten dugu transiziozko
+  // erroreak (timeout, ECONNRESET…) saihesteko.
+  const MAX_ATTEMPTS = 3;
+  let lastErr;
+  let feed;
   try {
-    const feed = await withTimeout(parser.parseURL(source.url), HARD_TIMEOUT_MS, source.id);
+    for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
+      try {
+        feed = await withTimeout(parser.parseURL(source.url), HARD_TIMEOUT_MS, source.id);
+        lastErr = null;
+        break;
+      } catch (err) {
+        lastErr = err;
+        if (attempt < MAX_ATTEMPTS) {
+          await new Promise((r) => setTimeout(r, 1500 * attempt));
+        }
+      }
+    }
+    if (lastErr) throw lastErr;
     const items = (feed.items || []).slice(0, 30);
     let droppedOffTopic = 0;
     let droppedModern = 0;
