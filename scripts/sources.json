@@ -1,6 +1,11 @@
 [
   { "id": "noticiasdenavarra", "name": "Noticias de Navarra", "url": "https://www.noticiasdenavarra.com/rss", "lang": "es", "region": "basque" },
 
+  { "id": "naiz", "name": "Naiz", "url": "https://www.naiz.eus/rss/news.rss", "lang": "eu", "region": "basque" },
+  { "id": "argia-kultura", "name": "Argia — Kultura", "url": "https://www.argia.eus/kultura/rss", "lang": "eu", "region": "basque" },
+  { "id": "eitb-kultura", "name": "EITB — Kultura", "url": "https://www.eitb.eus/eu/rss/kultura/", "lang": "eu", "region": "basque" },
+  { "id": "vianako-printzea", "name": "Príncipe de Viana (Vianako Printzea)", "url": "https://revistas.navarra.es/index.php/PV/gateway/plugin/WebFeedGatewayPlugin/atom", "lang": "es", "region": "basque", "kind": "research" },
+
   { "id": "labrujulaverde", "name": "La Brújula Verde", "url": "https://www.labrujulaverde.com/feed", "lang": "es", "region": "world" },
   { "id": "desperta-ferro", "name": "Desperta Ferro Ediciones", "url": "https://www.despertaferro-ediciones.com/feed/", "lang": "es", "region": "iberia" },
   { "id": "elpais-cultura", "name": "El País — Cultura", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/cultura/portada", "lang": "es", "region": "iberia" },
