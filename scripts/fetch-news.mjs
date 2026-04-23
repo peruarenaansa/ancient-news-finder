@@ -107,6 +107,8 @@ const GENERAL_SOURCES = new Set([
   'inrap',
   // Aldizkari orokorrak (gaiagatik iragazi)
   'jas-reports', 'sciencedirect-jas',
+  // PLOS ONE: nahiz eta "Archaeology" subjektuarekin galdetu, feed-ak gai askotako artikuluak itzultzen ditu
+  'plos-one-arch',
 ]);
 
 function isArchaeologyRelated(text) {
