@@ -98,6 +98,8 @@ const GENERAL_SOURCES = new Set([
   'noticiasdenavarra',
   // Euskal Herriko hedabide orokorrak (arkeologia gaietan iragazi)
   'naiz', 'argia-kultura', 'eitb-kultura',
+  // Sare sozialetako kontuak (gaiagatik iragazi behar dira)
+  'berria-bsky', 'berria-mastodon', 'aranzadi-bsky',
   'lemonde-sciences', 'lemonde-archeo', 'lefigaro-histoire',
   'francetvinfo-archeo', 'sciencesetavenir-archeo', 'sudouest-culture',
   'ansa-cultura', 'repubblica-cultura', 'corriere-cultura',
