@@ -1,11 +1,37 @@
 {
-  "generatedAt": "2026-04-23T05:48:07.493Z",
-  "count": 414,
+  "generatedAt": "2026-04-24T04:33:58.130Z",
+  "count": 429,
   "sources": [
     {
-      "id": "diariovasco-cultura",
-      "name": "El Diario Vasco — Cultura",
+      "id": "noticiasdenavarra",
+      "name": "Noticias de Navarra",
       "lang": "es",
+      "region": "basque",
+      "kind": "news",
+      "ok": true,
+      "fetched": 20,
+      "kept": 0,
+      "droppedOffTopic": 20,
+      "droppedModern": 0,
+      "elapsedMs": 617
+    },
+    {
+      "id": "naiz",
+      "name": "Naiz",
+      "lang": "eu",
+      "region": "basque",
+      "kind": "news",
+      "ok": true,
+      "fetched": 30,
+      "kept": 2,
+      "droppedOffTopic": 28,
+      "droppedModern": 0,
+      "elapsedMs": 581
+    },
+    {
+      "id": "argia-kultura",
+      "name": "Argia — Kultura",
+      "lang": "eu",
       "region": "basque",
       "kind": "news",
       "ok": true,
@@ -13,7 +39,33 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 696
+      "elapsedMs": 715
+    },
+    {
+      "id": "eitb-kultura",
+      "name": "EITB — Kultura",
+      "lang": "eu",
+      "region": "basque",
+      "kind": "news",
+      "ok": true,
+      "fetched": 19,
+      "kept": 0,
+      "droppedOffTopic": 19,
+      "droppedModern": 0,
+      "elapsedMs": 545
+    },
+    {
+      "id": "vianako-printzea",
+      "name": "Príncipe de Viana (Vianako Printzea)",
+      "lang": "es",
+      "region": "basque",
+      "kind": "research",
+      "ok": true,
+      "fetched": 14,
+      "kept": 4,
+      "droppedOffTopic": 0,
+      "droppedModern": 10,
+      "elapsedMs": 828
     },
     {
       "id": "labrujulaverde",
@@ -23,10 +75,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 12,
+      "kept": 13,
       "droppedOffTopic": 1,
-      "droppedModern": 7,
-      "elapsedMs": 947
+      "droppedModern": 6,
+      "elapsedMs": 1514
     },
     {
       "id": "desperta-ferro",
@@ -39,7 +91,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 4,
-      "elapsedMs": 1254
+      "elapsedMs": 1223
     },
     {
       "id": "elpais-cultura",
@@ -52,7 +104,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 202
+      "elapsedMs": 1189
     },
     {
       "id": "inrap",
@@ -62,10 +114,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 9,
+      "kept": 10,
       "droppedOffTopic": 17,
-      "droppedModern": 4,
-      "elapsedMs": 740
+      "droppedModern": 3,
+      "elapsedMs": 1419
     },
     {
       "id": "lefigaro-histoire",
@@ -78,7 +130,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 427
+      "elapsedMs": 814
     },
     {
       "id": "lemonde-sciences",
@@ -91,7 +143,7 @@
       "kept": 3,
       "droppedOffTopic": 17,
       "droppedModern": 0,
-      "elapsedMs": 372
+      "elapsedMs": 797
     },
     {
       "id": "lemonde-archeo",
@@ -104,7 +156,7 @@
       "kept": 11,
       "droppedOffTopic": 7,
       "droppedModern": 2,
-      "elapsedMs": 931
+      "elapsedMs": 1268
     },
     {
       "id": "francetvinfo-archeo",
@@ -117,7 +169,7 @@
       "kept": 0,
       "droppedOffTopic": 1,
       "droppedModern": 0,
-      "elapsedMs": 3411
+      "elapsedMs": 3414
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -126,11 +178,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 23,
+      "fetched": 21,
       "kept": 11,
-      "droppedOffTopic": 11,
+      "droppedOffTopic": 9,
       "droppedModern": 1,
-      "elapsedMs": 2797
+      "elapsedMs": 1069
     },
     {
       "id": "sudouest-culture",
@@ -143,7 +195,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 959
+      "elapsedMs": 1222
     },
     {
       "id": "ansa-cultura",
@@ -153,10 +205,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 28,
-      "kept": 1,
-      "droppedOffTopic": 27,
+      "kept": 0,
+      "droppedOffTopic": 28,
       "droppedModern": 0,
-      "elapsedMs": 1748
+      "elapsedMs": 1937
     },
     {
       "id": "repubblica-cultura",
@@ -169,7 +221,7 @@
       "kept": 2,
       "droppedOffTopic": 23,
       "droppedModern": 0,
-      "elapsedMs": 1281
+      "elapsedMs": 1649
     },
     {
       "id": "corriere-cultura",
@@ -182,7 +234,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1802
+      "elapsedMs": 2400
     },
     {
       "id": "archeologiaviva",
@@ -195,7 +247,7 @@
       "kept": 3,
       "droppedOffTopic": 0,
       "droppedModern": 7,
-      "elapsedMs": 2238
+      "elapsedMs": 2405
     },
     {
       "id": "stilearte",
@@ -206,9 +258,9 @@
       "ok": true,
       "fetched": 10,
       "kept": 9,
-      "droppedOffTopic": 0,
-      "droppedModern": 1,
-      "elapsedMs": 2145
+      "droppedOffTopic": 1,
+      "droppedModern": 0,
+      "elapsedMs": 2402
     },
     {
       "id": "live-science-arch",
@@ -218,10 +270,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 2,
-      "droppedOffTopic": 28,
+      "kept": 3,
+      "droppedOffTopic": 27,
       "droppedModern": 0,
-      "elapsedMs": 2843
+      "elapsedMs": 2879
     },
     {
       "id": "bbc-history",
@@ -234,7 +286,7 @@
       "kept": 0,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1846
+      "elapsedMs": 2037
     },
     {
       "id": "sciencedaily-arch",
@@ -244,10 +296,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 13,
-      "droppedOffTopic": 17,
+      "kept": 12,
+      "droppedOffTopic": 18,
       "droppedModern": 0,
-      "elapsedMs": 1878
+      "elapsedMs": 2184
     },
     {
       "id": "ancient-origins",
@@ -260,7 +312,7 @@
       "kept": 4,
       "droppedOffTopic": 5,
       "droppedModern": 1,
-      "elapsedMs": 1835
+      "elapsedMs": 2044
     },
     {
       "id": "guardian-arch",
@@ -273,7 +325,7 @@
       "kept": 12,
       "droppedOffTopic": 5,
       "droppedModern": 3,
-      "elapsedMs": 2039
+      "elapsedMs": 2317
     },
     {
       "id": "current-archaeology",
@@ -286,7 +338,7 @@
       "kept": 23,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1773
+      "elapsedMs": 2064
     },
     {
       "id": "jas-reports",
@@ -296,10 +348,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 7,
+      "kept": 8,
       "droppedOffTopic": 4,
-      "droppedModern": 19,
-      "elapsedMs": 1823
+      "droppedModern": 18,
+      "elapsedMs": 2160
     },
     {
       "id": "plos-one-arch",
@@ -309,10 +361,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 16,
-      "droppedOffTopic": 12,
-      "droppedModern": 2,
-      "elapsedMs": 2064
+      "kept": 0,
+      "droppedOffTopic": 30,
+      "droppedModern": 0,
+      "elapsedMs": 2129
     },
     {
       "id": "pnas-arch",
@@ -325,7 +377,7 @@
       "kept": 21,
       "droppedOffTopic": 7,
       "droppedModern": 2,
-      "elapsedMs": 2473
+      "elapsedMs": 2795
     },
     {
       "id": "sciencedirect-jas",
@@ -335,10 +387,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 10,
+      "kept": 11,
       "droppedOffTopic": 2,
-      "droppedModern": 18,
-      "elapsedMs": 1833
+      "droppedModern": 17,
+      "elapsedMs": 2202
     },
     {
       "id": "rampas",
@@ -351,7 +403,7 @@
       "kept": 12,
       "droppedOffTopic": 3,
       "droppedModern": 10,
-      "elapsedMs": 4658
+      "elapsedMs": 3409
     },
     {
       "id": "spal-us",
@@ -364,7 +416,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2573
+      "elapsedMs": 2904
     },
     {
       "id": "complutum-ucm",
@@ -377,7 +429,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2787
+      "elapsedMs": 2988
     },
     {
       "id": "archeoarte",
@@ -390,7 +442,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 3072
+      "elapsedMs": 2994
     },
     {
       "id": "cypsela",
@@ -403,7 +455,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2696
+      "elapsedMs": 2944
     },
     {
       "id": "cambridge-antiquity",
@@ -413,10 +465,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 14,
+      "kept": 13,
       "droppedOffTopic": 5,
-      "droppedModern": 11,
-      "elapsedMs": 2741
+      "droppedModern": 12,
+      "elapsedMs": 2749
     },
     {
       "id": "cambridge-caj",
@@ -426,10 +478,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 17,
+      "kept": 16,
       "droppedOffTopic": 8,
-      "droppedModern": 5,
-      "elapsedMs": 2799
+      "droppedModern": 6,
+      "elapsedMs": 2713
     },
     {
       "id": "cambridge-ejarc",
@@ -442,7 +494,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 2587
+      "elapsedMs": 2734
     },
     {
       "id": "aquitania-persee",
@@ -455,7 +507,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3822
+      "elapsedMs": 4241
     },
     {
       "id": "cuadernos-arq-unav",
@@ -463,12 +515,9 @@
       "lang": "es",
       "region": "basque",
       "kind": "research",
-      "ok": true,
-      "fetched": 30,
-      "kept": 19,
-      "droppedOffTopic": 3,
-      "droppedModern": 8,
-      "elapsedMs": 4035
+      "ok": false,
+      "error": "Request timed out after 15000ms",
+      "elapsedMs": 34893
     },
     {
       "id": "veleia-ehu",
@@ -481,7 +530,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3834
+      "elapsedMs": 3892
     },
     {
       "id": "flv-navarra",
@@ -494,7 +543,7 @@
       "kept": 17,
       "droppedOffTopic": 2,
       "droppedModern": 11,
-      "elapsedMs": 2992
+      "elapsedMs": 3033
     },
     {
       "id": "munibe-aa",
@@ -507,7 +556,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 2979
+      "elapsedMs": 2975
     },
     {
       "id": "trabajos-prehistoria",
@@ -520,7 +569,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 2903
+      "elapsedMs": 2960
     }
   ],
   "items": [
@@ -5864,6 +5913,254 @@
         "erromatarrak",
         "aurkikuntza"
       ]
+    },
+    {
+      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326000749?dgcid=rss_sd_all",
+      "title": "Corrigendum to “Assessing the reliability of silicone replicas in the analysis of sickle gloss at the early Neolithic site of Cheikh Hassan (Northern Levant, 11th millennium BP)” [J. Archaeol. Sci. 185 (2026) 106446]",
+      "summary": "Publication date: May 2026 Source: Journal of Archaeological Science, Volume 189 Author(s): Fiona Pichon, Juan José Ibáñez Estevez, Patricia Anderson, Frédéric Abbès",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326000749?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-04-24T04:33:25.428Z",
+      "source": {
+        "id": "sciencedirect-jas",
+        "name": "Journal of Archaeological Science (ScienceDirect)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "ekialde-hurbila"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001616?dgcid=rss_sd_all",
+      "title": "Mining activities in the eastern Sierra Morena (Jaén, Iberian Peninsula) during recent Prehistory: a technological and functional view from a macrolithic assemblage",
+      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Selina Delgado-Raack, Luis Arboledas-Martínez, Nicolau Escanilla-Artigas, Francisco Contreras-Cortés",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001616?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-04-24T04:33:25.361Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "iberia",
+      "topics": [
+        "prehistoria",
+        "iberiarrak"
+      ]
+    },
+    {
+      "id": "naiz:https://www.naiz.eus/eu/info/noticia/20260424/de-colombia-al-pais-vasco-no-a-los-combustibles-fosiles",
+      "title": "De Colombia al País Vasco: No a los combustibles fósiles",
+      "summary": "",
+      "url": "https://www.naiz.eus/eu/info/noticia/20260424/de-colombia-al-pais-vasco-no-a-los-combustibles-fosiles",
+      "image": "https://www.naiz.eus/media/asset_publics/resources/001/331/302/news_landscape/0424_eg_Kolonbia2.jpg",
+      "publishedAt": "2026-04-24T04:00:00.000Z",
+      "source": {
+        "id": "naiz",
+        "name": "Naiz"
+      },
+      "lang": "eu",
+      "region": "basque",
+      "topics": [
+        "iberiarrak"
+      ]
+    },
+    {
+      "id": "naiz:https://www.naiz.eus/eu/info/noticia/20260424/erregai-fosilik-gabeko-etorkizunerako-bidea-marraztuko-dute-santa-martan",
+      "title": "Erregai fosilik gabeko etorkizunerako bidea marraztuko dute Santa Martan",
+      "summary": "",
+      "url": "https://www.naiz.eus/eu/info/noticia/20260424/erregai-fosilik-gabeko-etorkizunerako-bidea-marraztuko-dute-santa-martan",
+      "image": "https://www.naiz.eus/media/asset_publics/resources/001/331/301/news_landscape/0424_eg_fosilak.jpg",
+      "publishedAt": "2026-04-24T04:00:00.000Z",
+      "source": {
+        "id": "naiz",
+        "name": "Naiz"
+      },
+      "lang": "eu",
+      "region": "basque",
+      "topics": []
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/animals/octopuses/kraken-octopus-that-lived-at-the-time-of-the-dinosaurs-was-a-62-foot-long-apex-predator-of-the-ocean",
+      "title": "'Kraken' octopus that lived at the time of the dinosaurs was a 62-foot-long apex predator of the ocean",
+      "summary": "A close inspection of 27 fossil jaws from finned octopuses challenge the longstanding belief that the apex oceanic predators of the Cretaceous were all vertebrates.",
+      "url": "https://www.livescience.com/animals/octopuses/kraken-octopus-that-lived-at-the-time-of-the-dinosaurs-was-a-62-foot-long-apex-predator-of-the-ocean",
+      "image": "https://cdn.mos.cms.futurecdn.net/VFBjdfV6Ud9qzaukmLzPcJ-1280-80.jpg",
+      "publishedAt": "2026-04-23T18:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/arqueologos-descubren-en-una-tumba-de-la-dinastia-qin-una-bebida-alcoholica-del-siglo-iv-ac-perfectamente-conservada",
+      "title": "Arqueólogos descubren en una tumba de la dinastía Qin una bebida alcohólica del siglo IV a.C. perfectamente conservada",
+      "summary": "Un equipo de investigadores ha logrado identificar la composición y el proceso de elaboración de una bebida alcohólica de hace aproximadamente 2.300 años, encontrada en perfecto estado de conservación en el interior de una botella de bronce con forma de cabeza de ajo, durante…",
+      "url": "https://www.labrujulaverde.com/2026/04/arqueologos-descubren-en-una-tumba-de-la-dinastia-qin-una-bebida-alcoholica-del-siglo-iv-ac-perfectamente-conservada",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/1-s2.0-labrujulaverde.com-S2352409X26001732-gr2_lrg.webp",
+      "publishedAt": "2026-04-23T15:31:54.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "inrap:https://www.inrap.fr/go-north-la-conquete-des-hautes-latitudes-par-homo-erectus-et-homo-9042",
+      "title": "Go North ! La conquête des hautes latitudes par Homo erectus et Homo neanderthalensis",
+      "summary": "Des climats et des hommes - Glaciologie, climatologie, archéologie, histoire par Pascal Depaepe, Inrap",
+      "url": "https://www.inrap.fr/go-north-la-conquete-des-hautes-latitudes-par-homo-erectus-et-homo-9042",
+      "image": null,
+      "publishedAt": "2026-04-23T12:25:22.000Z",
+      "source": {
+        "id": "inrap",
+        "name": "Inrap — Archéologie préventive"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/splendida-statua-romana-atena-scoperta-ora-a-laodicea-in-turchia/",
+      "title": "Meraviglioso corpo di donna e Dea emerge dal terreno. E’ un’imponente Atena Loadicea, scolpita ai tempi dell’imperatore Augusto. Perchè il retro della statua non è finito? Chi scolpì questo splendido essere femminile? E la storia del luogo?",
+      "summary": "Impero romano (Laodicea) – Il rinvenimento di una statua marmorea di Atena, alta circa due metri e databile all’età augustea, offre nuovi elementi per la comprensione del programma decorativo e della funzione culturale del teatro occidentale dell’antica Laodicea, in Anatolia…",
+      "url": "https://www.stilearte.it/splendida-statua-romana-atena-scoperta-ora-a-laodicea-in-turchia/",
+      "image": null,
+      "publishedAt": "2026-04-23T11:02:04.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak",
+        "egiptoarrak",
+        "greziarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/peru-aspero-struttura-astronomica-caral-cielo-mare/",
+      "title": "Incredibile scoperta. Riemerge una struttura di 5.000 anni dove gli astri guidavano la vita della città portuale. Gli antichi leggevano le stelle per pescare? Cosa hanno trovato gli archeologi",
+      "summary": "Per chi viveva lungo la costa desertica del Perù centrale, il mare non era solo una fonte di vita, ma un sistema complesso da interpretare. Onde, correnti, stagioni e risorse cambiavano con ritmi che non potevano essere lasciati al caso. In un punto preciso, tra sabbia, pietra e…",
+      "url": "https://www.stilearte.it/peru-aspero-struttura-astronomica-caral-cielo-mare/",
+      "image": null,
+      "publishedAt": "2026-04-23T10:30:00.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/hallada-en-el-teatro-occidental-de-laodicea-una-estatua-de-marmol-blanco-de-atenea-de-dos-metros-de-altura",
+      "title": "Hallada en el teatro occidental de Laodicea una estatua de mármol blanco de Atenea de dos metros de altura",
+      "summary": "El ministro de Cultura y Turismo de Turquía, Mehmet Nuri Ersoy, ha anunciado el descubrimiento de una escultura de la diosa Atenea de aproximadamente dos metros de longitud, tallada en mármol blanco, durante las labores de excavación y restauración que se llevan a cabo en el…",
+      "url": "https://www.labrujulaverde.com/2026/04/hallada-en-el-teatro-occidental-de-laodicea-una-estatua-de-marmol-blanco-de-atenea-de-dos-metros-de-altura",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/503623-57B3F529D575A817C13B4971189C0F05BAAB91AC-0-copia.webp",
+      "publishedAt": "2026-04-23T09:48:58.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/descubren-la-estructura-del-primer-campamento-militar-romano-en-vindonissa-y-una-excepcional-hogaza-de-pan-carbonizada",
+      "title": "Descubren la estructura del primer campamento militar romano en Vindonissa y una excepcional hogaza de pan carbonizada",
+      "summary": "Desde mediados de agosto de 2025, la arqueología cantonal lleva a cabo una excavación de rescate en un área de aproximadamente 4000 metros cuadrados situada entre la Zürcherstrasse y la Scheuergasse de Windisch (en el cantón suizo de Argovia). El terreno, donde se proyecta la…",
+      "url": "https://www.labrujulaverde.com/2026/04/descubren-la-estructura-del-primer-campamento-militar-romano-en-vindonissa-y-una-excepcional-hogaza-de-pan-carbonizada",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/BKSKA_MM_Ausgrabung_Zuercherstrasse_Abb5_Bergung.webp",
+      "publishedAt": "2026-04-23T08:45:03.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "vianako-printzea:https://revistas.navarra.es/index.php/PV/article/view/4185",
+      "title": "Ser artista en Navarra ¿Una profesión posible?",
+      "summary": "",
+      "url": "https://revistas.navarra.es/index.php/PV/article/view/4185",
+      "image": null,
+      "publishedAt": "2025-12-18T23:00:00.000Z",
+      "source": {
+        "id": "vianako-printzea",
+        "name": "Príncipe de Viana (Vianako Printzea)"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "iberiarrak"
+      ]
+    },
+    {
+      "id": "vianako-printzea:https://revistas.navarra.es/index.php/PV/article/view/4181",
+      "title": "2024ko nafarroako euskal literatura: 46 liburu eta 19 galdera inozo",
+      "summary": "",
+      "url": "https://revistas.navarra.es/index.php/PV/article/view/4181",
+      "image": null,
+      "publishedAt": "2025-12-18T23:00:00.000Z",
+      "source": {
+        "id": "vianako-printzea",
+        "name": "Príncipe de Viana (Vianako Printzea)"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "iberiarrak"
+      ]
+    },
+    {
+      "id": "vianako-printzea:https://revistas.navarra.es/index.php/PV/article/view/4179",
+      "title": "UPNAPASS: un pasaporte digital para recoger la formación complementaria del estudiantado universitario",
+      "summary": "",
+      "url": "https://revistas.navarra.es/index.php/PV/article/view/4179",
+      "image": null,
+      "publishedAt": "2025-12-18T23:00:00.000Z",
+      "source": {
+        "id": "vianako-printzea",
+        "name": "Príncipe de Viana (Vianako Printzea)"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": []
+    },
+    {
+      "id": "vianako-printzea:https://revistas.navarra.es/index.php/PV/article/view/4182",
+      "title": "Tiempos verbales. Cultura audiovisual como referente para un futuro imperfecto",
+      "summary": "",
+      "url": "https://revistas.navarra.es/index.php/PV/article/view/4182",
+      "image": null,
+      "publishedAt": "2025-12-18T23:00:00.000Z",
+      "source": {
+        "id": "vianako-printzea",
+        "name": "Príncipe de Viana (Vianako Printzea)"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": []
     },
     {
       "id": "cuadernos-arq-unav:https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/53497",
