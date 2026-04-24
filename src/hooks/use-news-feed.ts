@@ -2,6 +2,20 @@ import { useEffect, useState } from 'react';
 import type { NewsFeed, NewsItem } from '@/lib/news-types';
 
 /**
+ * news.json-en jatorria.
+ *
+ * GitHub Raw URL bat ezarriz gero, app argitaratutik zuzenean
+ * GitHub-eko azken bertsioa kargatuko da, eta ez dago app-a
+ * berriro publikatu beharrik news.json eguneratzen den bakoitzean.
+ *
+ * Konfiguratzeko: ezarri `VITE_NEWS_JSON_URL` aldagaia `.env`-en, adib.:
+ *   VITE_NEWS_JSON_URL=https://raw.githubusercontent.com/USER/REPO/main/public/news.json
+ *
+ * Hutsik utziz gero, app-aren `/news.json` lokala kargatuko du (build denborakoa).
+ */
+const REMOTE_NEWS_URL = import.meta.env.VITE_NEWS_JSON_URL as string | undefined;
+
+/**
  * news.json kargatzeko eta legacy gogokoen migrazioa egiteko hook-a.
  */
 export function useNewsFeed() {
@@ -12,10 +26,28 @@ export function useNewsFeed() {
   useEffect(() => {
     let active = true;
     setLoading(true);
-    fetch(`/news.json?ts=${Date.now()}`)
-      .then((r) => {
-        if (!r.ok) throw new Error('Ezin izan da news.json kargatu');
-        return r.json();
+
+    const cacheBuster = `ts=${Date.now()}`;
+    const remote = REMOTE_NEWS_URL?.trim();
+    const primaryUrl = remote
+      ? `${remote}${remote.includes('?') ? '&' : '?'}${cacheBuster}`
+      : `/news.json?${cacheBuster}`;
+    const fallbackUrl = `/news.json?${cacheBuster}`;
+
+    const fetchJson = async (url: string) => {
+      const r = await fetch(url, { cache: 'no-store' });
+      if (!r.ok) throw new Error(`Ezin izan da news.json kargatu (${r.status})`);
+      return (await r.json()) as NewsFeed;
+    };
+
+    fetchJson(primaryUrl)
+      .catch((e) => {
+        // Remote-ak huts egiten badu (sarea, GitHub down, etab.), erori atzera bertsio lokalera.
+        if (remote && primaryUrl !== fallbackUrl) {
+          console.warn('Urruneko news.json-ek huts egin du, lokala kargatzen:', e);
+          return fetchJson(fallbackUrl);
+        }
+        throw e;
       })
       .then((data: NewsFeed) => {
         if (!active) return;
