@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-24T04:33:58.130Z",
-  "count": 429,
+  "generatedAt": "2026-04-25T06:21:55.021Z",
+  "count": 450,
   "sources": [
     {
       "id": "noticiasdenavarra",
@@ -10,10 +10,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 0,
-      "droppedOffTopic": 20,
+      "kept": 1,
+      "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 617
+      "elapsedMs": 347
     },
     {
       "id": "naiz",
@@ -23,10 +23,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 2,
-      "droppedOffTopic": 28,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 581
+      "elapsedMs": 219
     },
     {
       "id": "argia-kultura",
@@ -39,7 +39,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 715
+      "elapsedMs": 3662
     },
     {
       "id": "eitb-kultura",
@@ -52,7 +52,46 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 545
+      "elapsedMs": 201
+    },
+    {
+      "id": "berria-bsky",
+      "name": "Berria (Bluesky)",
+      "lang": "eu",
+      "region": "basque",
+      "kind": "news",
+      "ok": true,
+      "fetched": 30,
+      "kept": 0,
+      "droppedOffTopic": 30,
+      "droppedModern": 0,
+      "elapsedMs": 1441
+    },
+    {
+      "id": "berria-mastodon",
+      "name": "Berria (Mastodon)",
+      "lang": "eu",
+      "region": "basque",
+      "kind": "news",
+      "ok": true,
+      "fetched": 20,
+      "kept": 0,
+      "droppedOffTopic": 20,
+      "droppedModern": 0,
+      "elapsedMs": 581
+    },
+    {
+      "id": "aranzadi-bsky",
+      "name": "Aranzadi (Bluesky)",
+      "lang": "eu",
+      "region": "basque",
+      "kind": "news",
+      "ok": true,
+      "fetched": 30,
+      "kept": 6,
+      "droppedOffTopic": 24,
+      "droppedModern": 0,
+      "elapsedMs": 1491
     },
     {
       "id": "vianako-printzea",
@@ -65,7 +104,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 10,
-      "elapsedMs": 828
+      "elapsedMs": 620
     },
     {
       "id": "labrujulaverde",
@@ -75,10 +114,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 13,
+      "kept": 15,
       "droppedOffTopic": 1,
-      "droppedModern": 6,
-      "elapsedMs": 1514
+      "droppedModern": 4,
+      "elapsedMs": 1321
     },
     {
       "id": "desperta-ferro",
@@ -91,7 +130,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 4,
-      "elapsedMs": 1223
+      "elapsedMs": 549
     },
     {
       "id": "elpais-cultura",
@@ -104,7 +143,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1189
+      "elapsedMs": 263
     },
     {
       "id": "inrap",
@@ -112,12 +151,9 @@
       "lang": "fr",
       "region": "europe",
       "kind": "news",
-      "ok": true,
-      "fetched": 30,
-      "kept": 10,
-      "droppedOffTopic": 17,
-      "droppedModern": 3,
-      "elapsedMs": 1419
+      "ok": false,
+      "error": "Status code 403",
+      "elapsedMs": 4908
     },
     {
       "id": "lefigaro-histoire",
@@ -130,7 +166,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 814
+      "elapsedMs": 316
     },
     {
       "id": "lemonde-sciences",
@@ -143,7 +179,7 @@
       "kept": 3,
       "droppedOffTopic": 17,
       "droppedModern": 0,
-      "elapsedMs": 797
+      "elapsedMs": 328
     },
     {
       "id": "lemonde-archeo",
@@ -156,7 +192,7 @@
       "kept": 11,
       "droppedOffTopic": 7,
       "droppedModern": 2,
-      "elapsedMs": 1268
+      "elapsedMs": 554
     },
     {
       "id": "francetvinfo-archeo",
@@ -169,7 +205,7 @@
       "kept": 0,
       "droppedOffTopic": 1,
       "droppedModern": 0,
-      "elapsedMs": 3414
+      "elapsedMs": 897
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -178,11 +214,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 21,
+      "fetched": 20,
       "kept": 11,
       "droppedOffTopic": 9,
-      "droppedModern": 1,
-      "elapsedMs": 1069
+      "droppedModern": 0,
+      "elapsedMs": 369
     },
     {
       "id": "sudouest-culture",
@@ -195,7 +231,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1222
+      "elapsedMs": 591
     },
     {
       "id": "ansa-cultura",
@@ -204,11 +240,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 28,
+      "fetched": 27,
       "kept": 0,
-      "droppedOffTopic": 28,
+      "droppedOffTopic": 27,
       "droppedModern": 0,
-      "elapsedMs": 1937
+      "elapsedMs": 408
     },
     {
       "id": "repubblica-cultura",
@@ -221,7 +257,7 @@
       "kept": 2,
       "droppedOffTopic": 23,
       "droppedModern": 0,
-      "elapsedMs": 1649
+      "elapsedMs": 570
     },
     {
       "id": "corriere-cultura",
@@ -234,7 +270,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2400
+      "elapsedMs": 457
     },
     {
       "id": "archeologiaviva",
@@ -247,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 0,
       "droppedModern": 7,
-      "elapsedMs": 2405
+      "elapsedMs": 581
     },
     {
       "id": "stilearte",
@@ -260,7 +296,7 @@
       "kept": 9,
       "droppedOffTopic": 1,
       "droppedModern": 0,
-      "elapsedMs": 2402
+      "elapsedMs": 665
     },
     {
       "id": "live-science-arch",
@@ -273,7 +309,7 @@
       "kept": 3,
       "droppedOffTopic": 27,
       "droppedModern": 0,
-      "elapsedMs": 2879
+      "elapsedMs": 684
     },
     {
       "id": "bbc-history",
@@ -283,10 +319,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 0,
-      "droppedOffTopic": 10,
+      "kept": 1,
+      "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 2037
+      "elapsedMs": 464
     },
     {
       "id": "sciencedaily-arch",
@@ -299,7 +335,7 @@
       "kept": 12,
       "droppedOffTopic": 18,
       "droppedModern": 0,
-      "elapsedMs": 2184
+      "elapsedMs": 1178
     },
     {
       "id": "ancient-origins",
@@ -307,12 +343,9 @@
       "lang": "en",
       "region": "world",
       "kind": "news",
-      "ok": true,
-      "fetched": 10,
-      "kept": 4,
-      "droppedOffTopic": 5,
-      "droppedModern": 1,
-      "elapsedMs": 2044
+      "ok": false,
+      "error": "Unable to parse XML.",
+      "elapsedMs": 5353
     },
     {
       "id": "guardian-arch",
@@ -325,7 +358,7 @@
       "kept": 12,
       "droppedOffTopic": 5,
       "droppedModern": 3,
-      "elapsedMs": 2317
+      "elapsedMs": 617
     },
     {
       "id": "current-archaeology",
@@ -338,7 +371,7 @@
       "kept": 23,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 2064
+      "elapsedMs": 495
     },
     {
       "id": "jas-reports",
@@ -348,10 +381,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 8,
+      "kept": 9,
       "droppedOffTopic": 4,
-      "droppedModern": 18,
-      "elapsedMs": 2160
+      "droppedModern": 17,
+      "elapsedMs": 527
     },
     {
       "id": "plos-one-arch",
@@ -361,10 +394,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 0,
-      "droppedOffTopic": 30,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2129
+      "elapsedMs": 1016
     },
     {
       "id": "pnas-arch",
@@ -377,7 +410,7 @@
       "kept": 21,
       "droppedOffTopic": 7,
       "droppedModern": 2,
-      "elapsedMs": 2795
+      "elapsedMs": 1407
     },
     {
       "id": "sciencedirect-jas",
@@ -390,7 +423,7 @@
       "kept": 11,
       "droppedOffTopic": 2,
       "droppedModern": 17,
-      "elapsedMs": 2202
+      "elapsedMs": 431
     },
     {
       "id": "rampas",
@@ -403,7 +436,7 @@
       "kept": 12,
       "droppedOffTopic": 3,
       "droppedModern": 10,
-      "elapsedMs": 3409
+      "elapsedMs": 1171
     },
     {
       "id": "spal-us",
@@ -416,7 +449,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2904
+      "elapsedMs": 838
     },
     {
       "id": "complutum-ucm",
@@ -429,7 +462,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2988
+      "elapsedMs": 946
     },
     {
       "id": "archeoarte",
@@ -442,7 +475,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2994
+      "elapsedMs": 631
     },
     {
       "id": "cypsela",
@@ -455,7 +488,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2944
+      "elapsedMs": 602
     },
     {
       "id": "cambridge-antiquity",
@@ -468,7 +501,7 @@
       "kept": 13,
       "droppedOffTopic": 5,
       "droppedModern": 12,
-      "elapsedMs": 2749
+      "elapsedMs": 1278
     },
     {
       "id": "cambridge-caj",
@@ -481,7 +514,7 @@
       "kept": 16,
       "droppedOffTopic": 8,
       "droppedModern": 6,
-      "elapsedMs": 2713
+      "elapsedMs": 1261
     },
     {
       "id": "cambridge-ejarc",
@@ -494,7 +527,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 2734
+      "elapsedMs": 1345
     },
     {
       "id": "aquitania-persee",
@@ -507,7 +540,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 4241
+      "elapsedMs": 1195
     },
     {
       "id": "cuadernos-arq-unav",
@@ -516,8 +549,8 @@
       "region": "basque",
       "kind": "research",
       "ok": false,
-      "error": "Request timed out after 15000ms",
-      "elapsedMs": 34893
+      "error": "socket hang up",
+      "elapsedMs": 5371
     },
     {
       "id": "veleia-ehu",
@@ -530,7 +563,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3892
+      "elapsedMs": 1144
     },
     {
       "id": "flv-navarra",
@@ -543,7 +576,7 @@
       "kept": 17,
       "droppedOffTopic": 2,
       "droppedModern": 11,
-      "elapsedMs": 3033
+      "elapsedMs": 1225
     },
     {
       "id": "munibe-aa",
@@ -556,7 +589,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 2975
+      "elapsedMs": 1118
     },
     {
       "id": "trabajos-prehistoria",
@@ -569,7 +602,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 2960
+      "elapsedMs": 1482
     }
   ],
   "items": [
@@ -5147,23 +5180,6 @@
       ]
     },
     {
-      "id": "lemonde-archeo:https://www.lemonde.fr/sciences/article/2026/01/24/le-tresor-de-lavau-se-devoile-au-musee-d-art-moderne-de-troyes-onze-ans-apres-les-fouilles_6663896_1650684.html",
-      "title": "Le trésor de Lavau se dévoile au Musée d’art moderne de Troyes, onze ans après les fouilles",
-      "summary": "Bijoux d’or, vaisselle de banquet et chaudron géant : le trésor de Lavau révèle les fastes et la diversité culturelle d’une élite celte méconnue, à découvrir pour la première fois au Musée d’art moderne de Troyes.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/01/24/le-tresor-de-lavau-se-devoile-au-musee-d-art-moderne-de-troyes-onze-ans-apres-les-fouilles_6663896_1650684.html",
-      "image": "https://img.lemde.fr/2026/01/23/684/0/4103/2051/644/322/60/0/fdb70f3_upload-1-b9g5zqdmvq5k-000-93px3t3.jpg",
-      "publishedAt": "2026-01-24T05:00:03.000Z",
-      "source": {
-        "id": "lemonde-archeo",
-        "name": "Le Monde — Archéologie"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": [
-        "museoak"
-      ]
-    },
-    {
       "id": "trabajos-prehistoria:https://openalex.org/W7125425587",
       "title": "Recensión de: Pedro A. López-García, Denisse L. Argote, Manuel A. Torres-García y Michael C. Thrun. Knowledge Discovery from Archaeological Materials y Denisse L. Argote, Pedro A. López-García, Manuel A. Torres-García y Michael C. Thrun. Machine Learning for Archaeological Applications, Series Elements in Current Archaeological Tools and Techniques. Cambridge University Press.",
       "summary": "Recensión de: Pedro A. López-García, Denisse L. Argote, Manuel A. Torres-García y Michael C. Thrun. Knowledge Discovery from Archaeological Materials y Denisse L. Argote, Pedro A. López-García, Manuel A. Torres-García y Michael C. Thrun. Machine Learning for Archaeological…",
@@ -5915,6 +5931,253 @@
       ]
     },
     {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X2600218X?dgcid=rss_sd_all",
+      "title": "Spatial patterns of Early Neolithic expansion in the north-eastern Iberian Peninsula, western Mediterranean: A landscape and environmental machine learning approach",
+      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Joel Segarra, Jose Luis Araus",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X2600218X?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-04-25T06:12:06.140Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "iberia",
+      "topics": [
+        "prehistoria",
+        "iberiarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/armi-fuoco-rinascimento-trovate-metal-detector-denunciato/",
+      "title": "Meraviglia e punizione. Trova questo splendore in un campo. Pubblica la foto sul social. Qualcuno segnala il post. Arriva la polizia. Finisce nei guai. Cos’è questo drago? A cosa serviva? Perchè l’azione giudiziaria?",
+      "summary": "E’ stata una gioia incontenibile. Quella canne metalliche antiche. Il volto di un drago, finememente lavorato, mentre si prepara a sputare una palla di fuoco mortale. I reperti sono stati portati alla luce da un appassionato di metal detector che ha pubblicato la fotografia del…",
+      "url": "https://www.stilearte.it/armi-fuoco-rinascimento-trovate-metal-detector-denunciato/",
+      "image": null,
+      "publishedAt": "2026-04-25T06:10:59.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "noticiasdenavarra:https://www.noticiasdenavarra.com/opinion/tribunas/2026/04/25/navarra-favor-tratado-combustibles-fosiles-10984141.html",
+      "title": "Navarra a favor de un tratado sobre combustibles fósiles",
+      "summary": "En Geroa Bai lo tenemos claro: nuestra soberanía energética vendrá, exclusivamente, de la mano de las fuentes renovables.",
+      "url": "https://www.noticiasdenavarra.com/opinion/tribunas/2026/04/25/navarra-favor-tratado-combustibles-fosiles-10984141.html",
+      "image": "https://estaticosgn-cdn.deia.eus/clip/9fb570b2-1e4e-4fe6-af82-7f6d780123a3_16-9-aspect-ratio_default_0.jpg",
+      "publishedAt": "2026-04-25T04:00:24.000Z",
+      "source": {
+        "id": "noticiasdenavarra",
+        "name": "Noticias de Navarra"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "iberiarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/relitto-ilovik-parzine-1-riparazioni-navi-romane-adriatico/",
+      "title": "Relitto romano nell’Adriatico. Gli archeologi scoprono la firma delle api sul supermateriale che garantiva l’isolamento delle navi romane. Dai pini all’alveare. E i pollini catturati dagli scafi ci dicono dove furono costruiti o riparati",
+      "summary": "Fin dai tempi in cui l’uomo ha intrapreso viaggi per mare, è stato necessario garantire che le imbarcazioni fossero impermeabili, resistenti all’acqua salata e in grado di resistere a microrganismi o creature marine come i vermi. Fino alla metà del XX secolo, tuttavia, lo studio…",
+      "url": "https://www.stilearte.it/relitto-ilovik-parzine-1-riparazioni-navi-romane-adriatico/",
+      "image": null,
+      "publishedAt": "2026-04-24T16:27:43.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/encuentran-en-republica-checa-una-excepcional-placa-de-calibracion-romana-usada-en-la-fabricacion-de-cotas-de-malla-para-los-legionarios",
+      "title": "Una excepcional placa de calibración romana usada en la fabricación de cotas de malla para los legionarios encontrada en la República Checa",
+      "summary": "El equipo de especialistas del Centro Arqueológico de Olomouc ha finalizado los trabajos de rescate en un tramo de 1,2 kilómetros perteneciente a la futura línea de alta velocidad entre Nezamyslice y Kojetín, dentro del corredor ferroviario Brno–Přerov en la República Checa, y…",
+      "url": "https://www.labrujulaverde.com/2026/04/encuentran-en-republica-checa-una-excepcional-placa-de-calibracion-romana-usada-en-la-fabricacion-de-cotas-de-malla-para-los-legionarios",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/677763436_1557724429693232_2354495467162321310_n.webp",
+      "publishedAt": "2026-04-24T15:41:47.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347771",
+      "title": "Pregelatinized green banana flour snack bars: Physicochemical properties, sensory quality, and gastroprotective potential in an ethanol-induced ulcer model",
+      "summary": "by Thammarat Kaewmanee, Surasak Limsuwan, Sineenart Sanpinit, Pinanong Na-Phatthalung, Samuel Abiodun Kehinde, Acharaporn Issuriya, Sasitorn Chusri Peptic ulcers remain a recurrent gastrointestinal disorder requiring preventive nutritional strategies. Functional foods that…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347771",
+      "image": null,
+      "publishedAt": "2026-04-24T14:00:00.000Z",
+      "source": {
+        "id": "plos-one-arch",
+        "name": "PLOS ONE — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "ekialde-hurbila"
+      ]
+    },
+    {
+      "id": "sudouest-culture:https://www.sudouest.fr/culture/fossiles-objets-prehistoriques-les-douanes-intensifient-la-lutte-contre-le-trafic-de-biens-culturels-28808826.php",
+      "title": "Fossiles, objets préhistoriques : les douanes intensifient la lutte contre le trafic de biens culturels",
+      "summary": "La douane française multiplie les saisies d’objets archéologiques et historiques de grande valeur à travers le pays pour protéger le patrimoine mondial",
+      "url": "https://www.sudouest.fr/culture/fossiles-objets-prehistoriques-les-douanes-intensifient-la-lutte-contre-le-trafic-de-biens-culturels-28808826.php",
+      "image": null,
+      "publishedAt": "2026-04-24T12:03:41.000Z",
+      "source": {
+        "id": "sudouest-culture",
+        "name": "Sud Ouest — Culture"
+      },
+      "lang": "fr",
+      "region": "basque",
+      "topics": []
+    },
+    {
+      "id": "bbc-history:https://www.historyextra.com/period/viking/norse-women-life-while-men-away-on-raids/",
+      "title": "What were Viking women doing while their men were on violent raids?",
+      "summary": "The lives of noble women in the Viking world were shaped by politics and logistics, and worlds apart from the lives of enslaved women – yet both groups were foundational to that milieu",
+      "url": "https://www.historyextra.com/period/viking/norse-women-life-while-men-away-on-raids/",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/04/viking-women-2-afa5905-e1776941903741.jpeg",
+      "publishedAt": "2026-04-24T10:20:42.000Z",
+      "source": {
+        "id": "bbc-history",
+        "name": "BBC History Extra"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/scoperta-mille-reperti-moravia-piastra-romana/",
+      "title": "Scavano per una ferrovia e devono fermare i lavori. Mille reperti in un chilometro, sei teschi allineati e un oggetto romano rarissimo. Perché gli archeologi parlano di scoperta eccezionale?",
+      "summary": "Per mesi è stato un cantiere per la nuova linea ferroviaria, con rilievi e scavi lungo il tracciato previsto. Durante le indagini archeologiche preventive, il terreno ha restituito reperti sempre più numerosi, portando alla luce una stratificazione storica di grande rilevanza.…",
+      "url": "https://www.stilearte.it/scoperta-mille-reperti-moravia-piastra-romana/",
+      "image": null,
+      "publishedAt": "2026-04-24T10:13:29.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/pira-funeraria-rarissima-inghilterra-scoperta/",
+      "title": "Scoperta. Scavano per la Centrale nucleare. “Fermi tutti”. Emerge dal terreno un fuoco antico. Gli archeologi: “E’ una pira funeraria. Rarissima. Non sarebbe dovuta esistere”. Chi veniva cremato qui? E perché non è scomparsa?",
+      "summary": "Nel Suffolk, nella campagna inglese vicino a Leiston, un grande progetto contemporaneo – la costruzione della centrale nucleare di Sizewell C – ha aperto una finestra inattesa su un gesto umano antichissimo. Durante gli scavi preventivi, gli archeologi hanno individuato i resti…",
+      "url": "https://www.stilearte.it/pira-funeraria-rarissima-inghilterra-scoperta/",
+      "image": null,
+      "publishedAt": "2026-04-24T10:08:52.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/descubren-en-orinales-romanos-de-la-antigua-provincia-de-moesia-inferior-un-parasito-que-se-creia-originario-de-america",
+      "title": "Descubren en orinales romanos de la antigua provincia de Moesia Inferior un parásito que se creía originario de América",
+      "summary": "Un equipo internacional de investigadores ha logrado reconstruir las condiciones de salud y saneamiento de los habitantes de la provincia romana de Moesia Inferior (actual Bulgaria) analizando algo tan cotidiano como los orinales que usaban hace casi dos milenios. Los…",
+      "url": "https://www.labrujulaverde.com/2026/04/descubren-en-orinales-romanos-de-la-antigua-provincia-de-moesia-inferior-un-parasito-que-se-creia-originario-de-america",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/legionarios-moesia-inferior-labrujulaverde.com_.webp",
+      "publishedAt": "2026-04-24T09:54:01.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/04/260424024002.htm",
+      "title": "This 100 million-year-old snake had hind legs and a lost bone that changes evolution",
+      "summary": "Nearly 100 million years ago, snakes weren’t the sleek, limbless creatures we know today—they still had hind legs and even a cheekbone that has almost vanished in modern species. A remarkably preserved fossil of Najash rionegrina from Argentina has reshaped how scientists think…",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260424024002.htm",
+      "image": null,
+      "publishedAt": "2026-04-24T08:36:51.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/un-barco-romano-de-epoca-republicana-hundido-hace-2200-anos-revela-la-historia-y-los-lugares-de-sus-reparaciones-en-el-adriatico",
+      "title": "Un barco romano de época republicana hundido hace 2200 años revela la historia y los lugares de sus reparaciones en el Adriático",
+      "summary": "El estudio de los materiales impermeabilizantes de origen orgánico utilizados en la construcción naval histórica ha recibido escasa atención por parte de la arqueología, pese a que resultan esenciales para garantizar la navegabilidad de cualquier embarcación expuesta al agua…",
+      "url": "https://www.labrujulaverde.com/2026/04/un-barco-romano-de-epoca-republicana-hundido-hace-2200-anos-revela-la-historia-y-los-lugares-de-sus-reparaciones-en-el-adriatico",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/CHARRIE_et_al-labrujulaverde.com_Figure1.webp",
+      "publishedAt": "2026-04-24T08:23:08.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/arquitas-de-tarento-el-sabio-griego-que-creia-en-un-universo-infinito-e-invento-el-primer-artilugio-volador-autopropulsado",
+      "title": "Arquitas de Tarento, el sabio griego que creía en un universo infinito e inventó el primer artilugio volador autopropulsado",
+      "summary": "¿Quién no ha oído alguna vez la expresión sarcástica «Es más simple que el mecanismo de un sonajero»? Pues la simpleza no es cualidad reñida con la genialidad y Aristóteles atribuye la invención de ese juguete a un sabio griego que además solucionó el problema matemático de la…",
+      "url": "https://www.labrujulaverde.com/2026/04/arquitas-de-tarento-el-sabio-griego-que-creia-en-un-universo-infinito-e-invento-el-primer-artilugio-volador-autopropulsado",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/Rosa_-_Arquitas_filosofo_de_Tarento_1668.webp",
+      "publishedAt": "2026-04-24T07:29:22.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "greziarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/la-scoperta-scavano-nei-pressi-dei-resti-di-un-muro-preistorico-qualcuno-aveva-sepolto-gioielli-splendidi-4000-anni-fa-perche-perche-una-collana-magica-le-indagini-attorno-al-luogo-e-le-prime-ris/",
+      "title": "La scoperta. Scavano nei pressi dei resti di un muro preistorico. Qualcuno aveva sepolto gioielli splendidi 4000 anni fa. Perchè? Perchè una collana magica? Le indagini attorno al luogo e le prime risposte",
+      "summary": "Sulla costa nord-occidentale dell’isola di Egina, a circa 27 chilometri in linea d’aria dal Pireo e dunque da Atene (una distanza che oggi si percorre in meno di un’ora di traghetto), la collina di Kolona continua a rivelarsi un archivio stratificato di straordinaria densità.…",
+      "url": "https://www.stilearte.it/la-scoperta-scavano-nei-pressi-dei-resti-di-un-muro-preistorico-qualcuno-aveva-sepolto-gioielli-splendidi-4000-anni-fa-perche-perche-una-collana-magica-le-indagini-attorno-al-luogo-e-le-prime-ris/",
+      "image": null,
+      "publishedAt": "2026-04-24T06:07:12.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
       "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326000749?dgcid=rss_sd_all",
       "title": "Corrigendum to “Assessing the reliability of silicone replicas in the analysis of sickle gloss at the early Neolithic site of Cheikh Hassan (Northern Levant, 11th millennium BP)” [J. Archaeol. Sci. 185 (2026) 106446]",
       "summary": "Publication date: May 2026 Source: Journal of Archaeological Science, Volume 189 Author(s): Fiona Pichon, Juan José Ibáñez Estevez, Patricia Anderson, Frédéric Abbès",
@@ -5981,6 +6244,24 @@
       "lang": "eu",
       "region": "basque",
       "topics": []
+    },
+    {
+      "id": "cambridge-antiquity:https://openalex.org/W7155377298",
+      "title": "Jennifer Bates. 2024. The origins of agriculture in the Bronze Age Indus Civilization. Cambridge: Cambridge University Press; 978-1-009-42444-8 hardback £105.",
+      "summary": "Jennifer Bates. 2024. The origins of agriculture in the Bronze Age Indus Civilization. Cambridge: Cambridge University Press; 978-1-009-42444-8 hardback £105.",
+      "url": "https://doi.org/10.15184/aqy.2026.10336",
+      "image": null,
+      "publishedAt": "2026-04-24T00:00:00.000Z",
+      "source": {
+        "id": "cambridge-antiquity",
+        "name": "Antiquity (Cambridge)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "asia"
+      ]
     },
     {
       "id": "live-science-arch:https://www.livescience.com/animals/octopuses/kraken-octopus-that-lived-at-the-time-of-the-dinosaurs-was-a-62-foot-long-apex-predator-of-the-ocean",
@@ -6095,6 +6376,106 @@
       "region": "world",
       "topics": [
         "erromatarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "aranzadi-bsky:https://bsky.app/profile/aranzadi.bsky.social/post/3mit7rcafc52r",
+      "title": "",
+      "summary": "🌿🏡 Oma harana, ondarea bizirik! Josu Narbartek paisaiaren arkeologia ikertu du, harana adibide hartuta, giza eta ingurumen faktoreen arteko erlazioak denbora luzean ulertzeko. 🏠 Etxe, nekazaritza eta ur azpiegiturek osatzen dute kultur paisaia; baina etorkizuna ezjakina da.",
+      "url": "https://bsky.app/profile/aranzadi.bsky.social/post/3mit7rcafc52r",
+      "image": null,
+      "publishedAt": "2026-04-06T12:01:00.000Z",
+      "source": {
+        "id": "aranzadi-bsky",
+        "name": "Aranzadi (Bluesky)"
+      },
+      "lang": "eu",
+      "region": "basque",
+      "topics": []
+    },
+    {
+      "id": "aranzadi-bsky:https://bsky.app/profile/aranzadi.bsky.social/post/3mibmkbpxa723",
+      "title": "",
+      "summary": "⛰️ Gaztelü mendian (Altzürüku, Zuberoa), Burdin Aroko herrixka gotortu baten aztarnak agertu dira. Mattin Aiestaran indusketen zuzendariak Euskadi Irratian azaldu du, Irulegi-ren garaikidea dela eta harresi sendoa eta biztanle egonkorrak izan zituela erakusten dutela lehen…",
+      "url": "https://bsky.app/profile/aranzadi.bsky.social/post/3mibmkbpxa723",
+      "image": null,
+      "publishedAt": "2026-03-30T12:02:00.000Z",
+      "source": {
+        "id": "aranzadi-bsky",
+        "name": "Aranzadi (Bluesky)"
+      },
+      "lang": "eu",
+      "region": "basque",
+      "topics": [
+        "asia"
+      ]
+    },
+    {
+      "id": "aranzadi-bsky:https://bsky.app/profile/aranzadi.bsky.social/post/3mhjcplbmtz26",
+      "title": "",
+      "summary": "“Irulegitik Pompelora. Hiri baten sustraiak” erakusketa ikusgai dago Iruñean irailaren 17ra arte. Mattin Aiestaran Aranzadiko arkeologoak hobeto ulertzeko gako batzuk eman zituen La Mecánica del Caracol saioan. 🎧…",
+      "url": "https://bsky.app/profile/aranzadi.bsky.social/post/3mhjcplbmtz26",
+      "image": null,
+      "publishedAt": "2026-03-20T20:02:00.000Z",
+      "source": {
+        "id": "aranzadi-bsky",
+        "name": "Aranzadi (Bluesky)"
+      },
+      "lang": "eu",
+      "region": "basque",
+      "topics": [
+        "museoak"
+      ]
+    },
+    {
+      "id": "aranzadi-bsky:https://bsky.app/profile/aranzadi.bsky.social/post/3mh6lk7w7vo2z",
+      "title": "",
+      "summary": "Baionan aurkeztu berri da Isturitz eta Otxozelaia haitzuloei eskainitako Munibe monografikoa: Euskal Herriko goi paleolitoko aztarnategi arkeologiko garrantzitsuenari eskainitako argitalpena.…",
+      "url": "https://bsky.app/profile/aranzadi.bsky.social/post/3mh6lk7w7vo2z",
+      "image": null,
+      "publishedAt": "2026-03-16T13:41:00.000Z",
+      "source": {
+        "id": "aranzadi-bsky",
+        "name": "Aranzadi (Bluesky)"
+      },
+      "lang": "eu",
+      "region": "basque",
+      "topics": [
+        "prehistoria",
+        "iberiarrak"
+      ]
+    },
+    {
+      "id": "aranzadi-bsky:https://bsky.app/profile/aranzadi.bsky.social/post/3meqea5mtrp2b",
+      "title": "",
+      "summary": "Nuevas dataciones absolutas, documentación de arte rupestre inédito y un conjunto significativo de datos multidisciplinares. Datazio berriak, labar-arte argitaragabearen dokumentazioa eta diziplina anitzeko datuak.",
+      "url": "https://bsky.app/profile/aranzadi.bsky.social/post/3meqea5mtrp2b",
+      "image": null,
+      "publishedAt": "2026-02-13T11:02:00.000Z",
+      "source": {
+        "id": "aranzadi-bsky",
+        "name": "Aranzadi (Bluesky)"
+      },
+      "lang": "eu",
+      "region": "basque",
+      "topics": []
+    },
+    {
+      "id": "aranzadi-bsky:https://bsky.app/profile/aranzadi.bsky.social/post/3menry2ihgj25",
+      "title": "",
+      "summary": "Hainbat aztarnategi arkeologikotan aurkitutako Erdi Aroko larru eta oinetakoen bilduma oso esanguratsua da. La colección de pieles y calzado medieval hallados en diversos yacimientos arqueológicos es muy significativa.",
+      "url": "https://bsky.app/profile/aranzadi.bsky.social/post/3menry2ihgj25",
+      "image": null,
+      "publishedAt": "2026-02-12T10:30:00.000Z",
+      "source": {
+        "id": "aranzadi-bsky",
+        "name": "Aranzadi (Bluesky)"
+      },
+      "lang": "eu",
+      "region": "basque",
+      "topics": [
+        "erdi-aroa",
         "aurkikuntza"
       ]
     },

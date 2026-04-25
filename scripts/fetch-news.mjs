@@ -536,8 +536,16 @@ async function main() {
   console.log(`   ${SOURCES.length - failed}/${SOURCES.length} iturri ondo${failed ? ` — ${failed} hutsegite` : ''}`);
 }
 
-main().catch((err) => {
-  console.error('Errore larria:', err);
-  process.exit(1);
-});
+main()
+  .then(() => {
+    // rss-parser/http bezero batzuek socket edo timer irekiak uzten dituzte
+    // timeout-en ondoren; GitHub Actions-ek horregatik 15 minutura job-a
+    // "cancelled" markatu dezake, nahiz eta news.json idatzita egon.
+    // Idazketa amaitu ondoren irteera garbia behartzen dugu.
+    process.exit(0);
+  })
+  .catch((err) => {
+    console.error('Errore larria:', err);
+    process.exit(1);
+  });
 
