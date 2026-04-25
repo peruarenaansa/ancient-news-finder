@@ -151,7 +151,18 @@ const OFF_TOPIC_KEYWORDS = [
 
 function isOffTopic(text) {
   const lower = text.toLowerCase();
-  return OFF_TOPIC_KEYWORDS.some((k) => lower.includes(k));
+  if (OFF_TOPIC_KEYWORDS.some((k) => lower.includes(k))) return true;
+  // "Erregai fosilak" / "fossil fuels": ez da arkeologiakoa
+  if (/\b(fossil\s+fuel|combustible[s]?\s+f[oó]sil|energ[ií]a[s]?\s+f[oó]sil|carburant[s]?\s+fossile|combustibili\s+fossili|erregai\s+fosil|fosil\s+erregai)/i.test(lower)) {
+    return true;
+  }
+  // "fosil" / "fósil" / "fossil" hitzaren testuingurua energia/klima bada, baztertu
+  if (/\bf[oó]ssil[ie]?s?\b|\bfosil(?:ak|en|ei|aren)?\b/i.test(lower)) {
+    if (/(climate|clima|klima|emisi|emission|co2|carbon|carbón|carbono|petr[oó]leo|petroleum|petrolio|p[eé]trole|gas natural|natural gas|gaz naturel|energ[ií]a|énergie|energia|energy|renovabl|renewable|renouvelabl|rinnovabil|berriztagarri|electricidad|electricity|électricité|industria|industry|industrie)/i.test(lower)) {
+      return true;
+    }
+  }
+  return false;
 }
 
 // 1000. urtetik aurrerako (XI. mendetik aurrera) gaiak baztertzeko gako-hitzak
