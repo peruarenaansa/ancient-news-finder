@@ -1,13 +1,16 @@
 import { Link } from 'react-router-dom';
 import { Activity } from 'lucide-react';
 import { ThemeToggle } from '@/components/ThemeToggle';
+import { AddArticleDialog } from '@/components/AddArticleDialog';
+import type { NewsItem } from '@/lib/news-types';
 
 interface Props {
   generatedAt?: string | null;
   count?: number;
+  onAddManual?: (item: NewsItem) => void;
 }
 
-export function NewsHeader({ generatedAt, count }: Props) {
+export function NewsHeader({ generatedAt, count, onAddManual }: Props) {
   return (
     <header className="border-b bg-gradient-to-b from-sand to-background">
       <div className="container max-w-5xl py-8 sm:py-12">
@@ -25,6 +28,7 @@ export function NewsHeader({ generatedAt, count }: Props) {
             </p>
           </div>
           <div className="flex items-center gap-1">
+            {onAddManual && <AddArticleDialog onAdd={onAddManual} />}
             <Link
               to="/iturriak"
               className="inline-flex h-9 w-9 items-center justify-center rounded-md text-muted-foreground transition-colors hover:bg-accent hover:text-foreground"
