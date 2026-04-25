@@ -44,6 +44,15 @@ const Index = () => {
     }
   };
 
+  // Eskuz gehitutako artikulua: defektuz gustukoetan sartzen da
+  // (esklusiboa: bookmark-etik kentzen da, irakurritzat markatzen da).
+  const onAddManual = (item: NewsItem) => {
+    liked.add(item);
+    bookmarked.remove(item.id);
+    markRead(item.id);
+    update({ view: 'liked' });
+  };
+
   const onToggleRead = (id: string) => {
     if (read.has(id)) {
       // Jada irakurrita: kendu marka → irakurri gabera itzuliko da
@@ -177,7 +186,11 @@ const Index = () => {
 
   return (
     <div className="min-h-screen bg-background">
-      <NewsHeader generatedAt={generatedDate} count={feed?.count} />
+      <NewsHeader
+        generatedAt={generatedDate}
+        count={feed?.count}
+        onAddManual={onAddManual}
+      />
 
       <NewsFilters
         query={query}
