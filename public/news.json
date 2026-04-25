@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T06:12:40.855Z",
+  "generatedAt": "2026-04-25T06:21:55.021Z",
   "count": 450,
   "sources": [
     {
@@ -13,7 +13,7 @@
       "kept": 1,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 233
+      "elapsedMs": 347
     },
     {
       "id": "naiz",
@@ -26,7 +26,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 136
+      "elapsedMs": 219
     },
     {
       "id": "argia-kultura",
@@ -39,7 +39,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 241
+      "elapsedMs": 3662
     },
     {
       "id": "eitb-kultura",
@@ -52,7 +52,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 272
+      "elapsedMs": 201
     },
     {
       "id": "berria-bsky",
@@ -65,7 +65,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1335
+      "elapsedMs": 1441
     },
     {
       "id": "berria-mastodon",
@@ -78,7 +78,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 361
+      "elapsedMs": 581
     },
     {
       "id": "aranzadi-bsky",
@@ -91,7 +91,7 @@
       "kept": 6,
       "droppedOffTopic": 24,
       "droppedModern": 0,
-      "elapsedMs": 1320
+      "elapsedMs": 1491
     },
     {
       "id": "vianako-printzea",
@@ -104,7 +104,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 10,
-      "elapsedMs": 416
+      "elapsedMs": 620
     },
     {
       "id": "labrujulaverde",
@@ -117,7 +117,7 @@
       "kept": 15,
       "droppedOffTopic": 1,
       "droppedModern": 4,
-      "elapsedMs": 1231
+      "elapsedMs": 1321
     },
     {
       "id": "desperta-ferro",
@@ -130,7 +130,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 4,
-      "elapsedMs": 762
+      "elapsedMs": 549
     },
     {
       "id": "elpais-cultura",
@@ -143,7 +143,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 312
+      "elapsedMs": 263
     },
     {
       "id": "inrap",
@@ -153,7 +153,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 4888
+      "elapsedMs": 4908
     },
     {
       "id": "lefigaro-histoire",
@@ -166,7 +166,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 258
+      "elapsedMs": 316
     },
     {
       "id": "lemonde-sciences",
@@ -179,7 +179,7 @@
       "kept": 3,
       "droppedOffTopic": 17,
       "droppedModern": 0,
-      "elapsedMs": 238
+      "elapsedMs": 328
     },
     {
       "id": "lemonde-archeo",
@@ -192,7 +192,7 @@
       "kept": 11,
       "droppedOffTopic": 7,
       "droppedModern": 2,
-      "elapsedMs": 1041
+      "elapsedMs": 554
     },
     {
       "id": "francetvinfo-archeo",
@@ -205,7 +205,7 @@
       "kept": 0,
       "droppedOffTopic": 1,
       "droppedModern": 0,
-      "elapsedMs": 771
+      "elapsedMs": 897
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -218,7 +218,7 @@
       "kept": 11,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 874
+      "elapsedMs": 369
     },
     {
       "id": "sudouest-culture",
@@ -228,10 +228,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 1,
-      "droppedOffTopic": 19,
+      "kept": 0,
+      "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 327
+      "elapsedMs": 591
     },
     {
       "id": "ansa-cultura",
@@ -244,7 +244,7 @@
       "kept": 0,
       "droppedOffTopic": 27,
       "droppedModern": 0,
-      "elapsedMs": 426
+      "elapsedMs": 408
     },
     {
       "id": "repubblica-cultura",
@@ -257,7 +257,7 @@
       "kept": 2,
       "droppedOffTopic": 23,
       "droppedModern": 0,
-      "elapsedMs": 333
+      "elapsedMs": 570
     },
     {
       "id": "corriere-cultura",
@@ -270,7 +270,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 381
+      "elapsedMs": 457
     },
     {
       "id": "archeologiaviva",
@@ -283,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 0,
       "droppedModern": 7,
-      "elapsedMs": 594
+      "elapsedMs": 581
     },
     {
       "id": "stilearte",
@@ -296,7 +296,7 @@
       "kept": 9,
       "droppedOffTopic": 1,
       "droppedModern": 0,
-      "elapsedMs": 628
+      "elapsedMs": 665
     },
     {
       "id": "live-science-arch",
@@ -309,7 +309,7 @@
       "kept": 3,
       "droppedOffTopic": 27,
       "droppedModern": 0,
-      "elapsedMs": 539
+      "elapsedMs": 684
     },
     {
       "id": "bbc-history",
@@ -322,7 +322,7 @@
       "kept": 1,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 413
+      "elapsedMs": 464
     },
     {
       "id": "sciencedaily-arch",
@@ -335,7 +335,7 @@
       "kept": 12,
       "droppedOffTopic": 18,
       "droppedModern": 0,
-      "elapsedMs": 1708
+      "elapsedMs": 1178
     },
     {
       "id": "ancient-origins",
@@ -343,12 +343,9 @@
       "lang": "en",
       "region": "world",
       "kind": "news",
-      "ok": true,
-      "fetched": 10,
-      "kept": 4,
-      "droppedOffTopic": 5,
-      "droppedModern": 1,
-      "elapsedMs": 744
+      "ok": false,
+      "error": "Unable to parse XML.",
+      "elapsedMs": 5353
     },
     {
       "id": "guardian-arch",
@@ -361,7 +358,7 @@
       "kept": 12,
       "droppedOffTopic": 5,
       "droppedModern": 3,
-      "elapsedMs": 553
+      "elapsedMs": 617
     },
     {
       "id": "current-archaeology",
@@ -374,7 +371,7 @@
       "kept": 23,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 388
+      "elapsedMs": 495
     },
     {
       "id": "jas-reports",
@@ -387,7 +384,7 @@
       "kept": 9,
       "droppedOffTopic": 4,
       "droppedModern": 17,
-      "elapsedMs": 439
+      "elapsedMs": 527
     },
     {
       "id": "plos-one-arch",
@@ -400,7 +397,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2801
+      "elapsedMs": 1016
     },
     {
       "id": "pnas-arch",
@@ -413,7 +410,7 @@
       "kept": 21,
       "droppedOffTopic": 7,
       "droppedModern": 2,
-      "elapsedMs": 1779
+      "elapsedMs": 1407
     },
     {
       "id": "sciencedirect-jas",
@@ -426,7 +423,7 @@
       "kept": 11,
       "droppedOffTopic": 2,
       "droppedModern": 17,
-      "elapsedMs": 386
+      "elapsedMs": 431
     },
     {
       "id": "rampas",
@@ -439,7 +436,7 @@
       "kept": 12,
       "droppedOffTopic": 3,
       "droppedModern": 10,
-      "elapsedMs": 1072
+      "elapsedMs": 1171
     },
     {
       "id": "spal-us",
@@ -452,7 +449,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 839
+      "elapsedMs": 838
     },
     {
       "id": "complutum-ucm",
@@ -465,7 +462,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 832
+      "elapsedMs": 946
     },
     {
       "id": "archeoarte",
@@ -478,7 +475,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 526
+      "elapsedMs": 631
     },
     {
       "id": "cypsela",
@@ -491,7 +488,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 548
+      "elapsedMs": 602
     },
     {
       "id": "cambridge-antiquity",
@@ -504,7 +501,7 @@
       "kept": 13,
       "droppedOffTopic": 5,
       "droppedModern": 12,
-      "elapsedMs": 1377
+      "elapsedMs": 1278
     },
     {
       "id": "cambridge-caj",
@@ -517,7 +514,7 @@
       "kept": 16,
       "droppedOffTopic": 8,
       "droppedModern": 6,
-      "elapsedMs": 1607
+      "elapsedMs": 1261
     },
     {
       "id": "cambridge-ejarc",
@@ -530,7 +527,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 1470
+      "elapsedMs": 1345
     },
     {
       "id": "aquitania-persee",
@@ -543,7 +540,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 1197
+      "elapsedMs": 1195
     },
     {
       "id": "cuadernos-arq-unav",
@@ -552,8 +549,8 @@
       "region": "basque",
       "kind": "research",
       "ok": false,
-      "error": "Request timed out after 15000ms",
-      "elapsedMs": 35092
+      "error": "socket hang up",
+      "elapsedMs": 5371
     },
     {
       "id": "veleia-ehu",
@@ -566,7 +563,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 1136
+      "elapsedMs": 1144
     },
     {
       "id": "flv-navarra",
@@ -579,7 +576,7 @@
       "kept": 17,
       "droppedOffTopic": 2,
       "droppedModern": 11,
-      "elapsedMs": 1633
+      "elapsedMs": 1225
     },
     {
       "id": "munibe-aa",
@@ -592,7 +589,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 1564
+      "elapsedMs": 1118
     },
     {
       "id": "trabajos-prehistoria",
@@ -605,7 +602,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 1499
+      "elapsedMs": 1482
     }
   ],
   "items": [
