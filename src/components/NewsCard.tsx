@@ -146,12 +146,11 @@ export function NewsCard({
                   <Trash2 className="h-4 w-4 text-foreground/70" />
                 </Button>
               </AlertDialogTrigger>
-              <AlertDialogContent>
+              <AlertDialogContent className="max-w-[calc(100vw-2rem)] sm:max-w-lg">
                 <AlertDialogHeader>
-                  <AlertDialogTitle>Albistea kendu zerrendatik?</AlertDialogTitle>
+                  <AlertDialogTitle>Albistea kendu nahi duzu?</AlertDialogTitle>
                   <AlertDialogDescription>
-                    Albiste hau zerrenda guztietatik desagertuko da: berriak,
-                    gordetakoak eta gustukoak.
+                    Zerrenda guztietatik desagertuko da.
                   </AlertDialogDescription>
                 </AlertDialogHeader>
                 <AlertDialogFooter>

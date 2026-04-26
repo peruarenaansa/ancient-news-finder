@@ -73,11 +73,11 @@ export const LANG_LABELS: Record<NewsLang, string> = {
 
 export const LANG_FLAGS: Record<NewsLang, string> = {
   eu: '🟢',
-  es: '🇪🇸',
-  en: '🇬🇧',
-  fr: '🇫🇷',
-  it: '🇮🇹',
+  es: '🔴',
+  en: '🔵',
+  fr: '🟣',
+  it: '🟠',
   ca: '🟡',
-  gl: '🔵',
-  pt: '🇵🇹',
+  gl: '⚪',
+  pt: '🟤',
 };
