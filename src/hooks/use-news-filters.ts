@@ -2,7 +2,7 @@ import { useCallback, useMemo } from 'react';
 import { useSearchParams } from 'react-router-dom';
 import type { NewsLang, NewsRegion } from '@/lib/news-types';
 
-export type NewsView = 'unread' | 'read' | 'bookmark' | 'liked';
+export type NewsView = 'unread' | 'bookmark' | 'liked';
 
 export interface NewsFilters {
   query: string;
@@ -18,7 +18,7 @@ const DEFAULTS: NewsFilters = {
   view: 'unread',
 };
 
-const VALID_VIEWS: NewsView[] = ['unread', 'read', 'bookmark', 'liked'];
+const VALID_VIEWS: NewsView[] = ['unread', 'bookmark', 'liked'];
 
 /**
  * Iragazkien egoera URL-eko search params-ekin sinkronizatzen du.
