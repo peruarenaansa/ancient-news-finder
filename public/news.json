@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-25T06:25:09.264Z",
-  "count": 450,
+  "generatedAt": "2026-04-26T04:39:39.318Z",
+  "count": 454,
   "sources": [
     {
       "id": "noticiasdenavarra",
@@ -10,10 +10,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 1,
-      "droppedOffTopic": 19,
+      "kept": 0,
+      "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 462
+      "elapsedMs": 567
     },
     {
       "id": "naiz",
@@ -26,7 +26,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 968
+      "elapsedMs": 608
     },
     {
       "id": "argia-kultura",
@@ -39,7 +39,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1090
+      "elapsedMs": 963
     },
     {
       "id": "eitb-kultura",
@@ -52,7 +52,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 627
+      "elapsedMs": 772
     },
     {
       "id": "berria-bsky",
@@ -65,7 +65,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3251
+      "elapsedMs": 3370
     },
     {
       "id": "berria-mastodon",
@@ -73,12 +73,9 @@
       "lang": "eu",
       "region": "basque",
       "kind": "news",
-      "ok": true,
-      "fetched": 20,
-      "kept": 0,
-      "droppedOffTopic": 20,
-      "droppedModern": 0,
-      "elapsedMs": 1109
+      "ok": false,
+      "error": "",
+      "elapsedMs": 6669
     },
     {
       "id": "aranzadi-bsky",
@@ -91,7 +88,7 @@
       "kept": 6,
       "droppedOffTopic": 24,
       "droppedModern": 0,
-      "elapsedMs": 3329
+      "elapsedMs": 3397
     },
     {
       "id": "vianako-printzea",
@@ -104,7 +101,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 10,
-      "elapsedMs": 980
+      "elapsedMs": 1075
     },
     {
       "id": "labrujulaverde",
@@ -112,12 +109,9 @@
       "lang": "es",
       "region": "world",
       "kind": "news",
-      "ok": true,
-      "fetched": 20,
-      "kept": 15,
-      "droppedOffTopic": 1,
-      "droppedModern": 4,
-      "elapsedMs": 1413
+      "ok": false,
+      "error": "Status code 415",
+      "elapsedMs": 6392
     },
     {
       "id": "desperta-ferro",
@@ -130,7 +124,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 4,
-      "elapsedMs": 1103
+      "elapsedMs": 1491
     },
     {
       "id": "elpais-cultura",
@@ -143,7 +137,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1487
+      "elapsedMs": 759
     },
     {
       "id": "inrap",
@@ -153,7 +147,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 6255
+      "elapsedMs": 6413
     },
     {
       "id": "lefigaro-histoire",
@@ -166,7 +160,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 814
+      "elapsedMs": 1454
     },
     {
       "id": "lemonde-sciences",
@@ -176,10 +170,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 3,
-      "droppedOffTopic": 17,
+      "kept": 0,
+      "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 926
+      "elapsedMs": 966
     },
     {
       "id": "lemonde-archeo",
@@ -192,7 +186,7 @@
       "kept": 11,
       "droppedOffTopic": 7,
       "droppedModern": 2,
-      "elapsedMs": 1207
+      "elapsedMs": 1350
     },
     {
       "id": "francetvinfo-archeo",
@@ -205,7 +199,7 @@
       "kept": 0,
       "droppedOffTopic": 1,
       "droppedModern": 0,
-      "elapsedMs": 3265
+      "elapsedMs": 3635
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -214,11 +208,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 20,
-      "kept": 11,
+      "fetched": 19,
+      "kept": 10,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1460
+      "elapsedMs": 1423
     },
     {
       "id": "sudouest-culture",
@@ -231,7 +225,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1531
+      "elapsedMs": 1505
     },
     {
       "id": "ansa-cultura",
@@ -240,11 +234,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 27,
+      "fetched": 28,
       "kept": 0,
-      "droppedOffTopic": 27,
+      "droppedOffTopic": 28,
       "droppedModern": 0,
-      "elapsedMs": 2368
+      "elapsedMs": 2008
     },
     {
       "id": "repubblica-cultura",
@@ -257,7 +251,7 @@
       "kept": 2,
       "droppedOffTopic": 23,
       "droppedModern": 0,
-      "elapsedMs": 1779
+      "elapsedMs": 1778
     },
     {
       "id": "corriere-cultura",
@@ -270,7 +264,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2501
+      "elapsedMs": 2363
     },
     {
       "id": "archeologiaviva",
@@ -283,7 +277,7 @@
       "kept": 3,
       "droppedOffTopic": 0,
       "droppedModern": 7,
-      "elapsedMs": 2963
+      "elapsedMs": 2536
     },
     {
       "id": "stilearte",
@@ -296,7 +290,7 @@
       "kept": 9,
       "droppedOffTopic": 1,
       "droppedModern": 0,
-      "elapsedMs": 2689
+      "elapsedMs": 2690
     },
     {
       "id": "live-science-arch",
@@ -309,7 +303,7 @@
       "kept": 3,
       "droppedOffTopic": 27,
       "droppedModern": 0,
-      "elapsedMs": 3106
+      "elapsedMs": 3295
     },
     {
       "id": "bbc-history",
@@ -322,7 +316,7 @@
       "kept": 1,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 2038
+      "elapsedMs": 2115
     },
     {
       "id": "sciencedaily-arch",
@@ -332,10 +326,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 12,
-      "droppedOffTopic": 18,
+      "kept": 13,
+      "droppedOffTopic": 17,
       "droppedModern": 0,
-      "elapsedMs": 2239
+      "elapsedMs": 2245
     },
     {
       "id": "ancient-origins",
@@ -348,7 +342,7 @@
       "kept": 4,
       "droppedOffTopic": 5,
       "droppedModern": 1,
-      "elapsedMs": 2137
+      "elapsedMs": 2184
     },
     {
       "id": "guardian-arch",
@@ -358,10 +352,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 12,
-      "droppedOffTopic": 5,
+      "kept": 11,
+      "droppedOffTopic": 6,
       "droppedModern": 3,
-      "elapsedMs": 2420
+      "elapsedMs": 2403
     },
     {
       "id": "current-archaeology",
@@ -374,7 +368,7 @@
       "kept": 23,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 2103
+      "elapsedMs": 2233
     },
     {
       "id": "jas-reports",
@@ -387,7 +381,7 @@
       "kept": 9,
       "droppedOffTopic": 4,
       "droppedModern": 17,
-      "elapsedMs": 2083
+      "elapsedMs": 2255
     },
     {
       "id": "plos-one-arch",
@@ -400,7 +394,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2220
+      "elapsedMs": 2440
     },
     {
       "id": "pnas-arch",
@@ -413,7 +407,7 @@
       "kept": 21,
       "droppedOffTopic": 7,
       "droppedModern": 2,
-      "elapsedMs": 3132
+      "elapsedMs": 2680
     },
     {
       "id": "sciencedirect-jas",
@@ -426,7 +420,7 @@
       "kept": 11,
       "droppedOffTopic": 2,
       "droppedModern": 17,
-      "elapsedMs": 2089
+      "elapsedMs": 2259
     },
     {
       "id": "rampas",
@@ -439,7 +433,7 @@
       "kept": 12,
       "droppedOffTopic": 3,
       "droppedModern": 10,
-      "elapsedMs": 3633
+      "elapsedMs": 3866
     },
     {
       "id": "spal-us",
@@ -452,7 +446,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2874
+      "elapsedMs": 3132
     },
     {
       "id": "complutum-ucm",
@@ -465,7 +459,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 3189
+      "elapsedMs": 4202
     },
     {
       "id": "archeoarte",
@@ -478,7 +472,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 3116
+      "elapsedMs": 3300
     },
     {
       "id": "cypsela",
@@ -491,7 +485,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3184
+      "elapsedMs": 3236
     },
     {
       "id": "cambridge-antiquity",
@@ -504,7 +498,7 @@
       "kept": 13,
       "droppedOffTopic": 5,
       "droppedModern": 12,
-      "elapsedMs": 3143
+      "elapsedMs": 3153
     },
     {
       "id": "cambridge-caj",
@@ -517,7 +511,7 @@
       "kept": 16,
       "droppedOffTopic": 8,
       "droppedModern": 6,
-      "elapsedMs": 3322
+      "elapsedMs": 3083
     },
     {
       "id": "cambridge-ejarc",
@@ -530,7 +524,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 3092
+      "elapsedMs": 3124
     },
     {
       "id": "aquitania-persee",
@@ -543,7 +537,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 4060
+      "elapsedMs": 4243
     },
     {
       "id": "cuadernos-arq-unav",
@@ -551,9 +545,12 @@
       "lang": "es",
       "region": "basque",
       "kind": "research",
-      "ok": false,
-      "error": "socket hang up",
-      "elapsedMs": 20390
+      "ok": true,
+      "fetched": 30,
+      "kept": 19,
+      "droppedOffTopic": 3,
+      "droppedModern": 8,
+      "elapsedMs": 4694
     },
     {
       "id": "veleia-ehu",
@@ -566,7 +563,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 4210
+      "elapsedMs": 4332
     },
     {
       "id": "flv-navarra",
@@ -579,7 +576,7 @@
       "kept": 17,
       "droppedOffTopic": 2,
       "droppedModern": 11,
-      "elapsedMs": 3260
+      "elapsedMs": 3337
     },
     {
       "id": "munibe-aa",
@@ -592,7 +589,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 3285
+      "elapsedMs": 3222
     },
     {
       "id": "trabajos-prehistoria",
@@ -605,10 +602,25 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 3339
+      "elapsedMs": 3243
     }
   ],
   "items": [
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/04/260424233206.htm",
+      "title": "Giant octopuses may have ruled the oceans 100 million years ago",
+      "summary": "Giant, fearsome octopuses may have once ruled the ancient seas, according to new research that flips the script on their evolutionary past. By uncovering exquisitely preserved fossil jaws hidden inside rock, scientists revealed that early octopuses from the age of dinosaurs…",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260424233206.htm",
+      "image": null,
+      "publishedAt": "2026-04-25T12:59:34.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
     {
       "id": "live-science-arch:https://www.livescience.com/archaeology/ancient-egyptians/egyptian-mummy-has-part-of-the-iliad-in-its-abdomen-archaeologists-discover",
       "title": "Egyptian mummy has part of the 'Iliad' in its abdomen, archaeologists discover",
@@ -5934,6 +5946,23 @@
       ]
     },
     {
+      "id": "stilearte:https://www.stilearte.it/straordinaria-antica-coppa-del-veterano-di-britannia-scoperta-in-villa-romana-spagna/",
+      "title": "Straordinaria. Coppa del veterano scoperta in una villa romana in Spagna. L’uomo combatté in Britannia, al Vallo di Adriano. Chi produsse il prezioso oggetto? E i nomi dei forti che significano? Chi era il militare? Tutte le risposte dagli studiosi",
+      "summary": "Impero romano (Britannia et Hispania). Straordinario. Una coppa da reduce della lontana frontiera britannica del Vallo di Adriano è stata scoperta tra i resti di una villa romana della Spagna e si è messa rapidamente a “parlare”, dopo uno studio dedicato ad in ogni suo mimimo…",
+      "url": "https://www.stilearte.it/straordinaria-antica-coppa-del-veterano-di-britannia-scoperta-in-villa-romana-spagna/",
+      "image": null,
+      "publishedAt": "2026-04-25T10:25:08.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X2600218X?dgcid=rss_sd_all",
       "title": "Spatial patterns of Early Neolithic expansion in the north-eastern Iberian Peninsula, western Mediterranean: A landscape and environmental machine learning approach",
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Joel Segarra, Jose Luis Araus",
@@ -6264,6 +6293,23 @@
       "topics": [
         "prehistoria",
         "asia"
+      ]
+    },
+    {
+      "id": "cambridge-antiquity:https://openalex.org/W7155553540",
+      "title": "What did it mean to live in a medieval monastery?",
+      "summary": "What did it mean to live in a medieval monastery?",
+      "url": "https://doi.org/10.15184/aqy.2026.10337",
+      "image": null,
+      "publishedAt": "2026-04-24T00:00:00.000Z",
+      "source": {
+        "id": "cambridge-antiquity",
+        "name": "Antiquity (Cambridge)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "erdi-aroa"
       ]
     },
     {
@@ -8075,6 +8121,23 @@
         "erromatarrak",
         "erdi-aroa",
         "iberiarrak"
+      ]
+    },
+    {
+      "id": "cuadernos-arq-unav:https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/54477",
+      "title": "Una inscripción romana procedente de las proximidades del río Lácara (Badajoz): epigrafía, datación y representación digital",
+      "summary": "El artículo analiza una inscripción romana hallada cerca del río Lácara (Badajoz), abordando su estudio epigráfico, datación y documentación digital mediante fotogrametría y escaneado 3D. Se trata de una publicación reciente (editio princeps) que incluye un unicum. El trabajo…",
+      "url": "https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/54477",
+      "image": null,
+      "publishedAt": "vie., 24 abr. 2026 00:00:00 +0200",
+      "source": {
+        "id": "cuadernos-arq-unav",
+        "name": "Cuadernos de Arqueología — Univ. de Navarra"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "erromatarrak"
       ]
     }
   ]
