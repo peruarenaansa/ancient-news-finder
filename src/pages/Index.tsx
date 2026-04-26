@@ -162,12 +162,6 @@ const Index = () => {
       })
     : null;
 
-  const VIEW_LABELS: Record<typeof view, string> = {
-    unread: 'berri',
-    bookmark: 'bookmark-ean',
-    liked: 'gustukoetan',
-  };
-
   return (
     <div className="min-h-screen bg-background">
       <NewsHeader
@@ -220,20 +214,13 @@ const Index = () => {
 
         {!loading && !error && sorted.length > 0 && (
           <>
-            <div
-              className="mb-3 flex items-center justify-between text-xs text-muted-foreground"
-              aria-live="polite"
-              aria-atomic="true"
-            >
-              <span>
-                {sorted.length} albiste {VIEW_LABELS[view]}
-              </span>
-              {isFiltered && (
+            {isFiltered && (
+              <div className="mb-3 flex justify-end">
                 <Button variant="ghost" size="sm" onClick={() => reset()}>
                   <RefreshCw className="mr-1 h-3 w-3" aria-hidden="true" /> Garbitu iragazkiak
                 </Button>
-              )}
-            </div>
+              </div>
+            )}
 
             <NewsList
               items={sorted}
@@ -249,7 +236,7 @@ const Index = () => {
         {!loading && !error && allItems.length > 0 && sorted.length === 0 && (
           <div className="rounded-lg border border-dashed p-10 text-center">
             <p className="text-muted-foreground">
-              Ez dago bat datorren albisterik {VIEW_LABELS[view]}.
+              Ez dago bat datorren albisterik.
             </p>
             {isFiltered && (
               <Button variant="ghost" size="sm" className="mt-2" onClick={() => reset()}>
