@@ -1,8 +1,9 @@
 import { useState } from 'react';
-import { Loader2, Plus, Sparkles } from 'lucide-react';
+import { Plus } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
+import { Textarea } from '@/components/ui/textarea';
 import {
   Dialog,
   DialogContent,
@@ -20,7 +21,7 @@ import {
   SelectValue,
 } from '@/components/ui/select';
 import { useToast } from '@/hooks/use-toast';
-import { scrapeUrl, buildManualNewsItem, type ScrapedMeta } from '@/lib/scrape-url';
+import { buildManualNewsItem } from '@/lib/scrape-url';
 import {
   LANG_LABELS,
   REGION_LABELS,
@@ -48,15 +49,15 @@ export function AddArticleDialog({ onAdd }: Props) {
   const { toast } = useToast();
   const [open, setOpen] = useState(false);
   const [url, setUrl] = useState('');
+  const [title, setTitle] = useState('');
+  const [summary, setSummary] = useState('');
   const [lang, setLang] = useState<NewsLang>('eu');
   const [region, setRegion] = useState<NewsRegion>('basque');
-  const [meta, setMeta] = useState<ScrapedMeta | null>(null);
-  const [scraping, setScraping] = useState(false);
 
   const reset = () => {
     setUrl('');
-    setMeta(null);
-    setScraping(false);
+    setTitle('');
+    setSummary('');
     setLang('eu');
     setRegion('basque');
   };
@@ -70,28 +71,18 @@ export function AddArticleDialog({ onAdd }: Props) {
     }
   })();
 
-  const handleScrape = async () => {
-    if (!isValidUrl) return;
-    setScraping(true);
-    setMeta(null);
-    try {
-      const m = await scrapeUrl(url.trim());
-      setMeta(m);
-    } catch (e) {
-      const msg = e instanceof Error ? e.message : 'Errore ezezaguna';
-      toast({
-        title: 'Ezin izan da artikulua kargatu',
-        description: msg,
-        variant: 'destructive',
-      });
-    } finally {
-      setScraping(false);
-    }
-  };
+  const trimmedTitle = title.trim();
+  const canSubmit = isValidUrl && trimmedTitle.length > 0;
 
   const handleSubmit = () => {
-    if (!meta || !isValidUrl) return;
-    const item = buildManualNewsItem({ url: url.trim(), meta, lang, region });
+    if (!canSubmit) return;
+    const item = buildManualNewsItem({
+      url: url.trim(),
+      title: trimmedTitle,
+      summary: summary.trim() || undefined,
+      lang,
+      region,
+    });
     onAdd(item);
     toast({
       title: 'Artikulua gehitu da',
@@ -125,79 +116,48 @@ export function AddArticleDialog({ onAdd }: Props) {
         <DialogHeader>
           <DialogTitle>Gehitu artikulua eskuz</DialogTitle>
           <DialogDescription>
-            URL bat sartu eta automatikoki kargatuko ditugu titulua, laburpena eta irudia.
-            Defektuz Gustukoen zerrendan gordeko da.
+            Sartu artikuluaren URL-a eta titulua. Laburpena hautazkoa da.
+            Gustukoen zerrendan gordeko da.
           </DialogDescription>
         </DialogHeader>
 
         <div className="space-y-4">
           <div className="space-y-2">
             <Label htmlFor="manual-url">Artikuluaren URL-a</Label>
-            <div className="flex gap-2">
-              <Input
-                id="manual-url"
-                type="url"
-                placeholder="https://..."
-                value={url}
-                onChange={(e) => {
-                  setUrl(e.target.value);
-                  setMeta(null);
-                }}
-                onKeyDown={(e) => {
-                  if (e.key === 'Enter' && isValidUrl && !scraping) {
-                    e.preventDefault();
-                    handleScrape();
-                  }
-                }}
-              />
-              <Button
-                type="button"
-                variant="secondary"
-                onClick={handleScrape}
-                disabled={!isValidUrl || scraping}
-              >
-                {scraping ? (
-                  <Loader2 className="h-4 w-4 animate-spin" />
-                ) : (
-                  <>
-                    <Sparkles className="mr-1 h-4 w-4" /> Kargatu
-                  </>
-                )}
-              </Button>
-            </div>
+            <Input
+              id="manual-url"
+              type="url"
+              placeholder="https://..."
+              value={url}
+              onChange={(e) => setUrl(e.target.value)}
+            />
           </div>
 
-          {meta && (
-            <div className="rounded-lg border bg-muted/30 p-3">
-              <div className="flex gap-3">
-                {meta.image && (
-                  <img
-                    src={meta.image}
-                    alt=""
-                    className="h-16 w-16 shrink-0 rounded-md object-cover"
-                    onError={(e) => {
-                      (e.currentTarget as HTMLImageElement).style.display = 'none';
-                    }}
-                  />
-                )}
-                <div className="min-w-0 flex-1">
-                  <p className="line-clamp-2 text-sm font-semibold leading-tight">
-                    {meta.title}
-                  </p>
-                  {meta.description && (
-                    <p className="mt-1 line-clamp-2 text-xs text-muted-foreground">
-                      {meta.description}
-                    </p>
-                  )}
-                  <p className="mt-1 text-xs text-muted-foreground">
-                    {meta.sourceName}
-                    {meta.publishedAt &&
-                      ` · ${new Date(meta.publishedAt).toLocaleDateString('eu-ES')}`}
-                  </p>
-                </div>
-              </div>
-            </div>
-          )}
+          <div className="space-y-2">
+            <Label htmlFor="manual-title">
+              Titulua <span className="text-destructive">*</span>
+            </Label>
+            <Input
+              id="manual-title"
+              type="text"
+              placeholder="Artikuluaren titulua"
+              value={title}
+              maxLength={300}
+              onChange={(e) => setTitle(e.target.value)}
+            />
+          </div>
+
+          <div className="space-y-2">
+            <Label htmlFor="manual-summary">Laburpena (hautazkoa)</Label>
+            <Textarea
+              id="manual-summary"
+              placeholder="Artikuluaren laburpen laburra…"
+              value={summary}
+              maxLength={1000}
+              rows={3}
+              onChange={(e) => setSummary(e.target.value)}
+            />
+          </div>
 
           <div className="grid grid-cols-2 gap-3">
             <div className="space-y-2">
@@ -240,7 +200,7 @@ export function AddArticleDialog({ onAdd }: Props) {
           <Button variant="ghost" onClick={() => setOpen(false)}>
             Utzi
           </Button>
-          <Button onClick={handleSubmit} disabled={!meta || !isValidUrl}>
+          <Button onClick={handleSubmit} disabled={!canSubmit}>
             Gehitu gustukoetara
           </Button>
         </DialogFooter>
