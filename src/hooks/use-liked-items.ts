@@ -44,16 +44,8 @@ export function useLikedItems() {
       return next;
     });
 
-  const toggle = (item: NewsItem) =>
-    setItems((prev) => {
-      const next = { ...prev };
-      if (next[item.id]) delete next[item.id];
-      else next[item.id] = item;
-      return next;
-    });
-
   const likedList = (): NewsItem[] => Object.values(items);
   const size = Object.keys(items).length;
 
-  return { isLiked, add, remove, toggle, likedList, size };
+  return { isLiked, add, remove, likedList, size };
 }

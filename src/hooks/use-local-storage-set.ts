@@ -19,22 +19,6 @@ export function useLocalStorageSet(key: string) {
     }
   }, [key, set]);
 
-  const toggle = (id: string) =>
-    setSet((prev) => {
-      const next = new Set(prev);
-      if (next.has(id)) next.delete(id);
-      else next.add(id);
-      return next;
-    });
-
-  const remove = (id: string) =>
-    setSet((prev) => {
-      if (!prev.has(id)) return prev;
-      const next = new Set(prev);
-      next.delete(id);
-      return next;
-    });
-
   const add = (id: string) =>
     setSet((prev) => {
       if (prev.has(id)) return prev;
@@ -43,18 +27,5 @@ export function useLocalStorageSet(key: string) {
       return next;
     });
 
-  const addMany = (ids: string[]) =>
-    setSet((prev) => {
-      const next = new Set(prev);
-      let changed = false;
-      for (const id of ids) {
-        if (!next.has(id)) {
-          next.add(id);
-          changed = true;
-        }
-      }
-      return changed ? next : prev;
-    });
-
-  return { set, toggle, add, addMany };
+  return { set, add };
 }

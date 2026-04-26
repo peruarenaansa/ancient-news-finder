@@ -42,16 +42,8 @@ export function useBookmarkedItems() {
       return next;
     });
 
-  const toggle = (item: NewsItem) =>
-    setItems((prev) => {
-      const next = { ...prev };
-      if (next[item.id]) delete next[item.id];
-      else next[item.id] = item;
-      return next;
-    });
-
   const list = (): NewsItem[] => Object.values(items);
   const size = Object.keys(items).length;
 
-  return { isBookmarked, add, remove, toggle, list, size };
+  return { isBookmarked, add, remove, list, size };
 }
