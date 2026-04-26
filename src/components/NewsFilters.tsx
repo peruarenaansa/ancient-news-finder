@@ -1,4 +1,4 @@
-import { Search, Heart, Bookmark, Inbox, CheckCheck } from 'lucide-react';
+import { Search, Heart, Bookmark, Inbox } from 'lucide-react';
 import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
@@ -25,7 +25,6 @@ interface Props {
   lang: NewsLang | 'all';
   view: NewsView;
   unreadCount: number;
-  readCount: number;
   bookmarkCount: number;
   likedCount: number;
   regionCounts: Map<NewsRegion, number>;
@@ -37,8 +36,7 @@ interface Props {
 }
 
 const VIEW_DEFS: { id: NewsView; label: string; icon: typeof Inbox }[] = [
-  { id: 'unread', label: 'Irakurri gabeak', icon: Inbox },
-  { id: 'read', label: 'Irakurriak', icon: CheckCheck },
+  { id: 'unread', label: 'Artikulu berriak', icon: Inbox },
   { id: 'bookmark', label: 'Gordetakoak', icon: Bookmark },
   { id: 'liked', label: 'Gustukoak', icon: Heart },
 ];
@@ -49,7 +47,6 @@ export function NewsFilters({
   lang,
   view,
   unreadCount,
-  readCount,
   bookmarkCount,
   likedCount,
   regionCounts,
@@ -61,7 +58,6 @@ export function NewsFilters({
 }: Props) {
   const counts: Record<NewsView, number> = {
     unread: unreadCount,
-    read: readCount,
     bookmark: bookmarkCount,
     liked: likedCount,
   };
