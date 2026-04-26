@@ -19,10 +19,10 @@ const Index = () => {
 
   const liked = useLikedItems();
   const bookmarked = useBookmarkedItems();
-  const { set: read, add: markRead, toggle: toggleReadRaw } = useLocalStorageSet('archaeo:read');
+  const { set: hidden, add: hideId } = useLocalStorageSet('archaeo:hidden');
 
-  // Egoera esklusiboak: bookmark, like, eta "irakurri-soilik" hiruretako bat bakarrik.
-  // Bookmark eta Like-k bata bestea kentzen dute, eta biek "irakurrita" markatzen dute.
+  // Egoera esklusiboak: bookmark eta like-k bata bestea kentzen dute.
+  // "Hidden" zerrendak artikulua ikuspegi guztietatik kentzen du betiko.
 
   const onToggleLike = (item: NewsItem) => {
     if (liked.isLiked(item.id)) {
@@ -30,7 +30,6 @@ const Index = () => {
     } else {
       liked.add(item);
       bookmarked.remove(item.id); // esklusiboa
-      markRead(item.id);
     }
   };
 
@@ -40,30 +39,22 @@ const Index = () => {
     } else {
       bookmarked.add(item);
       liked.remove(item.id); // esklusiboa
-      markRead(item.id);
     }
   };
 
   // Eskuz gehitutako artikulua: defektuz gustukoetan sartzen da
-  // (esklusiboa: bookmark-etik kentzen da, irakurritzat markatzen da).
+  // (esklusiboa: bookmark-etik kentzen da).
   const onAddManual = (item: NewsItem) => {
     liked.add(item);
     bookmarked.remove(item.id);
-    markRead(item.id);
     update({ view: 'liked' });
   };
 
-  const onToggleRead = (id: string) => {
-    if (read.has(id)) {
-      // Jada irakurrita: kendu marka → irakurri gabera itzuliko da
-      toggleReadRaw(id);
-    } else {
-      // Irakurritzat markatu: gordetakoetatik eta gustukoetatik kendu,
-      // eta irakurritakoen zerrendara pasatu (esklusiboki).
-      liked.remove(id);
-      bookmarked.remove(id);
-      markRead(id);
-    }
+  // Artikulua zerrenda guztietatik betiko kendu.
+  const onDelete = (id: string) => {
+    liked.remove(id);
+    bookmarked.remove(id);
+    hideId(id);
   };
 
   const setFilter = <K extends keyof typeof filters>(key: K, value: (typeof filters)[K]) => {
@@ -77,46 +68,40 @@ const Index = () => {
     for (const it of bookmarked.list()) byId.set(it.id, it);
     for (const it of liked.likedList()) byId.set(it.id, it);
     if (feed) for (const it of feed.items) byId.set(it.id, it);
-    return [...byId.values()];
-  }, [feed, liked, bookmarked]);
+    // Ezabatutakoak ikuspegi guztietatik kendu
+    return [...byId.values()].filter((it) => !hidden.has(it.id));
+  }, [feed, liked, bookmarked, hidden]);
 
   // Ikuspegi bakoitzeko zenbatekoak (iragazki-aurrekoak)
   const viewCounts = useMemo(() => {
-    let unread = 0,
-      readN = 0;
+    let unread = 0;
     for (const it of allItems) {
       const isLiked = liked.isLiked(it.id);
       const isBm = bookmarked.isBookmarked(it.id);
-      const isRead = read.has(it.id);
-      if (!isLiked && !isBm && !isRead) unread++;
-      if (isRead && !isLiked && !isBm) readN++;
+      if (!isLiked && !isBm) unread++;
     }
     return {
       unread,
-      read: readN,
       bookmark: bookmarked.size,
       liked: liked.size,
     };
-  }, [allItems, liked, bookmarked, read]);
+  }, [allItems, liked, bookmarked]);
 
   // Ikuspegi aktiboaren oinarri-zerrenda
   const baseScope = useMemo(() => {
     return allItems.filter((it) => {
       const isLiked = liked.isLiked(it.id);
       const isBm = bookmarked.isBookmarked(it.id);
-      const isRead = read.has(it.id);
       switch (view) {
         case 'unread':
-          return !isLiked && !isBm && !isRead;
-        case 'read':
-          return isRead && !isLiked && !isBm;
+          return !isLiked && !isBm;
         case 'bookmark':
           return isBm;
         case 'liked':
           return isLiked;
       }
     });
-  }, [allItems, view, liked, bookmarked, read]);
+  }, [allItems, view, liked, bookmarked]);
 
   const filtered = useMemo(() => {
     const q = normalizeText(query.trim());
@@ -178,8 +163,7 @@ const Index = () => {
     : null;
 
   const VIEW_LABELS: Record<typeof view, string> = {
-    unread: 'irakurri gabe',
-    read: 'irakurrita',
+    unread: 'berri',
     bookmark: 'bookmark-ean',
     liked: 'gustukoetan',
   };
@@ -198,7 +182,6 @@ const Index = () => {
         lang={lang}
         view={view}
         unreadCount={viewCounts.unread}
-        readCount={viewCounts.read}
         bookmarkCount={viewCounts.bookmark}
         likedCount={viewCounts.liked}
         regionCounts={regionCounts}
@@ -256,11 +239,9 @@ const Index = () => {
               items={sorted}
               isLiked={liked.isLiked}
               isBookmarked={bookmarked.isBookmarked}
-              isRead={(id) => read.has(id)}
               onToggleLike={onToggleLike}
               onToggleBookmark={onToggleBookmark}
-              onToggleRead={onToggleRead}
-              onMarkRead={markRead}
+              onDelete={onDelete}
             />
           </>
         )}
