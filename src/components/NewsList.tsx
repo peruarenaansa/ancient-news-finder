@@ -5,22 +5,18 @@ interface Props {
   items: NewsItem[];
   isLiked: (id: string) => boolean;
   isBookmarked: (id: string) => boolean;
-  isRead: (id: string) => boolean;
   onToggleLike: (item: NewsItem) => void;
   onToggleBookmark: (item: NewsItem) => void;
-  onToggleRead: (id: string) => void;
-  onMarkRead: (id: string) => void;
+  onDelete: (id: string) => void;
 }
 
 export function NewsList({
   items,
   isLiked,
   isBookmarked,
-  isRead,
   onToggleLike,
   onToggleBookmark,
-  onToggleRead,
-  onMarkRead,
+  onDelete,
 }: Props) {
   return (
     <div className="w-full">
@@ -31,11 +27,9 @@ export function NewsList({
               item={item}
               liked={isLiked(item.id)}
               bookmarked={isBookmarked(item.id)}
-              read={isRead(item.id)}
               onToggleLike={() => onToggleLike(item)}
               onToggleBookmark={() => onToggleBookmark(item)}
-              onToggleRead={() => onToggleRead(item.id)}
-              onMarkRead={() => onMarkRead(item.id)}
+              onDelete={() => onDelete(item.id)}
             />
           </li>
         ))}

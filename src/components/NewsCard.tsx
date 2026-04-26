@@ -1,6 +1,17 @@
-import { ExternalLink, Heart, Check, Bookmark } from 'lucide-react';
+import { ExternalLink, Heart, Trash2, Bookmark } from 'lucide-react';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
+import {
+  AlertDialog,
+  AlertDialogAction,
+  AlertDialogCancel,
+  AlertDialogContent,
+  AlertDialogDescription,
+  AlertDialogFooter,
+  AlertDialogHeader,
+  AlertDialogTitle,
+  AlertDialogTrigger,
+} from '@/components/ui/alert-dialog';
 import { cn } from '@/lib/utils';
 import {
   LANG_FLAGS,
@@ -14,11 +25,9 @@ interface Props {
   item: NewsItem;
   liked: boolean;
   bookmarked: boolean;
-  read: boolean;
   onToggleLike: () => void;
   onToggleBookmark: () => void;
-  onToggleRead: () => void;
-  onMarkRead: () => void;
+  onDelete: () => void;
 }
 
 function formatDate(iso: string) {
@@ -40,18 +49,15 @@ export function NewsCard({
   item,
   liked,
   bookmarked,
-  read,
   onToggleLike,
   onToggleBookmark,
-  onToggleRead,
-  onMarkRead,
+  onDelete,
 }: Props) {
   return (
     <article
       className={cn(
         'group flex gap-4 rounded-lg border bg-card p-4 transition-all',
         'hover:border-primary/40 hover:shadow-sm',
-        read && !liked && !bookmarked && 'opacity-70',
         (liked || bookmarked) && 'border-primary/40',
       )}
     >
@@ -60,7 +66,6 @@ export function NewsCard({
           href={item.url}
           target="_blank"
           rel="noopener noreferrer"
-          onClick={onMarkRead}
           className="hidden shrink-0 overflow-hidden rounded-md bg-muted sm:block"
           aria-label={`Irakurri jatorrian: ${item.title}`}
         >
@@ -92,23 +97,11 @@ export function NewsCard({
             href={item.url}
             target="_blank"
             rel="noopener noreferrer"
-            onClick={onMarkRead}
             className="font-display text-base font-semibold leading-tight text-foreground hover:text-primary sm:text-lg"
           >
             {item.title}
           </a>
           <div className="-mr-2 -mt-1 flex shrink-0 items-center gap-0.5">
-            <Button
-              variant="ghost"
-              size="icon"
-              className="h-8 w-8"
-              onClick={onToggleRead}
-              aria-pressed={read}
-              aria-label={read ? 'Markatu irakurri gabe' : 'Markatu irakurritzat'}
-              title={read ? 'Markatu irakurri gabe' : 'Markatu irakurritzat'}
-            >
-              <Check className={cn('h-4 w-4', read ? 'text-primary' : 'text-foreground/70')} />
-            </Button>
             <Button
               variant="ghost"
               size="icon"
@@ -141,6 +134,32 @@ export function NewsCard({
                 )}
               />
             </Button>
+            <AlertDialog>
+              <AlertDialogTrigger asChild>
+                <Button
+                  variant="ghost"
+                  size="icon"
+                  className="h-8 w-8"
+                  aria-label="Kendu artikulua zerrendatik"
+                  title="Kendu artikulua zerrendatik"
+                >
+                  <Trash2 className="h-4 w-4 text-foreground/70" />
+                </Button>
+              </AlertDialogTrigger>
+              <AlertDialogContent>
+                <AlertDialogHeader>
+                  <AlertDialogTitle>Albistea kendu zerrendatik?</AlertDialogTitle>
+                  <AlertDialogDescription>
+                    Albiste hau zerrenda guztietatik desagertuko da: berriak,
+                    gordetakoak eta gustukoak.
+                  </AlertDialogDescription>
+                </AlertDialogHeader>
+                <AlertDialogFooter>
+                  <AlertDialogCancel>Utzi</AlertDialogCancel>
+                  <AlertDialogAction onClick={onDelete}>Kendu</AlertDialogAction>
+                </AlertDialogFooter>
+              </AlertDialogContent>
+            </AlertDialog>
           </div>
         </div>
 
@@ -170,7 +189,6 @@ export function NewsCard({
             href={item.url}
             target="_blank"
             rel="noopener noreferrer"
-            onClick={onMarkRead}
             className="ml-auto inline-flex items-center gap-1 text-primary hover:underline"
           >
             Irakurri jatorrian <ExternalLink className="h-3 w-3" />
