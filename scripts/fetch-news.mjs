@@ -300,13 +300,21 @@ async function fetchOpenAlexSource(source) {
       filterParts.push(`primary_location.source.issn:${source.issn}`);
     } else if (source.openalexId) {
       filterParts.push(`primary_location.source.id:${source.openalexId}`);
-    } else {
-      throw new Error('OpenAlex iturriak issn edo openalexId behar du');
+    } else if (!source.conceptId) {
+      throw new Error('OpenAlex iturriak issn, openalexId edo conceptId behar du');
     }
     // Aukerako kontzeptu-iragazkia: arkeologia (C166957645) bezalakoak.
     // PNAS bezalako iturri orokorretan, gaiari lotutako artikuluak bakarrik ekartzeko.
     if (source.conceptId) {
       filterParts.push(`concepts.id:${source.conceptId}`);
+    }
+    // Kontzeptu hutseko iturrietan (iturri birtualak), azken hilabeteko emaitzak bakarrik
+    // ekarri, bestela mundu osoko milaka emaitza datoz.
+    if (!source.issn && !source.openalexId && source.conceptId) {
+      const since = new Date(Date.now() - 30 * 24 * 60 * 60 * 1000)
+        .toISOString()
+        .slice(0, 10);
+      filterParts.push(`from_publication_date:${since}`);
     }
     const filter = filterParts.join(',');
     const url = `https://api.openalex.org/works?filter=${filter}&sort=publication_date:desc&per-page=30&mailto=archaeo-news-bot@example.com`;
