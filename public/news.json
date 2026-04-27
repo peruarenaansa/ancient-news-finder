@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-27T04:48:06.508Z",
-  "count": 474,
+  "generatedAt": "2026-04-27T06:29:59.749Z",
+  "count": 468,
   "sources": [
     {
       "id": "noticiasdenavarra",
@@ -11,9 +11,9 @@
       "ok": true,
       "fetched": 20,
       "kept": 0,
-      "droppedOffTopic": 19,
-      "droppedModern": 1,
-      "elapsedMs": 553
+      "droppedOffTopic": 20,
+      "droppedModern": 0,
+      "elapsedMs": 458
     },
     {
       "id": "naiz",
@@ -26,7 +26,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 996
+      "elapsedMs": 979
     },
     {
       "id": "argia-kultura",
@@ -39,7 +39,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1224
+      "elapsedMs": 40383
     },
     {
       "id": "eitb-kultura",
@@ -65,20 +65,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3665
-    },
-    {
-      "id": "berria-mastodon",
-      "name": "Berria (Mastodon)",
-      "lang": "eu",
-      "region": "basque",
-      "kind": "news",
-      "ok": true,
-      "fetched": 20,
-      "kept": 0,
-      "droppedOffTopic": 20,
-      "droppedModern": 0,
-      "elapsedMs": 1227
+      "elapsedMs": 2050
     },
     {
       "id": "aranzadi-bsky",
@@ -91,7 +78,7 @@
       "kept": 6,
       "droppedOffTopic": 24,
       "droppedModern": 0,
-      "elapsedMs": 3657
+      "elapsedMs": 2139
     },
     {
       "id": "vianako-printzea",
@@ -104,7 +91,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 10,
-      "elapsedMs": 1177
+      "elapsedMs": 1156
     },
     {
       "id": "labrujulaverde",
@@ -117,7 +104,7 @@
       "kept": 15,
       "droppedOffTopic": 1,
       "droppedModern": 4,
-      "elapsedMs": 1658
+      "elapsedMs": 1474
     },
     {
       "id": "desperta-ferro",
@@ -130,7 +117,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 4,
-      "elapsedMs": 1761
+      "elapsedMs": 1389
     },
     {
       "id": "elpais-cultura",
@@ -143,30 +130,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1770
-    },
-    {
-      "id": "inrap",
-      "name": "Inrap — Archéologie préventive",
-      "lang": "fr",
-      "region": "europe",
-      "kind": "news",
-      "ok": false,
-      "error": "Status code 403",
-      "elapsedMs": 7209
-    },
-    {
-      "id": "lefigaro-histoire",
-      "name": "Le Figaro — Histoire",
-      "lang": "fr",
-      "region": "europe",
-      "kind": "news",
-      "ok": true,
-      "fetched": 20,
-      "kept": 0,
-      "droppedOffTopic": 20,
-      "droppedModern": 0,
-      "elapsedMs": 947
+      "elapsedMs": 1425
     },
     {
       "id": "lemonde-sciences",
@@ -179,7 +143,7 @@
       "kept": 1,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 975
+      "elapsedMs": 525
     },
     {
       "id": "lemonde-archeo",
@@ -192,20 +156,7 @@
       "kept": 11,
       "droppedOffTopic": 7,
       "droppedModern": 2,
-      "elapsedMs": 1285
-    },
-    {
-      "id": "francetvinfo-archeo",
-      "name": "France Info — Archéologie",
-      "lang": "fr",
-      "region": "europe",
-      "kind": "news",
-      "ok": true,
-      "fetched": 1,
-      "kept": 0,
-      "droppedOffTopic": 1,
-      "droppedModern": 0,
-      "elapsedMs": 3957
+      "elapsedMs": 1185
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -218,7 +169,20 @@
       "kept": 10,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1476
+      "elapsedMs": 966
+    },
+    {
+      "id": "inrap-bsky",
+      "name": "Inrap (Bluesky)",
+      "lang": "fr",
+      "region": "europe",
+      "kind": "news",
+      "ok": true,
+      "fetched": 23,
+      "kept": 5,
+      "droppedOffTopic": 16,
+      "droppedModern": 2,
+      "elapsedMs": 2051
     },
     {
       "id": "sudouest-culture",
@@ -231,33 +195,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1396
-    },
-    {
-      "id": "ansa-cultura",
-      "name": "ANSA — Cultura",
-      "lang": "it",
-      "region": "europe",
-      "kind": "news",
-      "ok": true,
-      "fetched": 28,
-      "kept": 1,
-      "droppedOffTopic": 27,
-      "droppedModern": 0,
-      "elapsedMs": 2547
-    },
-    {
-      "id": "repubblica-cultura",
-      "name": "La Repubblica — Cultura",
-      "lang": "it",
-      "region": "europe",
-      "kind": "news",
-      "ok": true,
-      "fetched": 25,
-      "kept": 2,
-      "droppedOffTopic": 23,
-      "droppedModern": 0,
-      "elapsedMs": 1852
+      "elapsedMs": 887
     },
     {
       "id": "corriere-cultura",
@@ -270,7 +208,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2344
+      "elapsedMs": 1212
     },
     {
       "id": "archeologiaviva",
@@ -283,7 +221,7 @@
       "kept": 3,
       "droppedOffTopic": 0,
       "droppedModern": 7,
-      "elapsedMs": 3147
+      "elapsedMs": 1951
     },
     {
       "id": "stilearte",
@@ -293,10 +231,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 9,
-      "droppedOffTopic": 1,
+      "kept": 10,
+      "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2775
+      "elapsedMs": 1674
     },
     {
       "id": "live-science-arch",
@@ -309,7 +247,7 @@
       "kept": 2,
       "droppedOffTopic": 28,
       "droppedModern": 0,
-      "elapsedMs": 3477
+      "elapsedMs": 1804
     },
     {
       "id": "bbc-history",
@@ -322,7 +260,7 @@
       "kept": 1,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 2190
+      "elapsedMs": 1084
     },
     {
       "id": "sciencedaily-arch",
@@ -335,7 +273,7 @@
       "kept": 13,
       "droppedOffTopic": 17,
       "droppedModern": 0,
-      "elapsedMs": 2419
+      "elapsedMs": 1294
     },
     {
       "id": "ancient-origins",
@@ -348,7 +286,7 @@
       "kept": 4,
       "droppedOffTopic": 5,
       "droppedModern": 1,
-      "elapsedMs": 2366
+      "elapsedMs": 1198
     },
     {
       "id": "guardian-arch",
@@ -361,7 +299,7 @@
       "kept": 11,
       "droppedOffTopic": 6,
       "droppedModern": 3,
-      "elapsedMs": 2541
+      "elapsedMs": 1492
     },
     {
       "id": "current-archaeology",
@@ -374,7 +312,7 @@
       "kept": 23,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 2312
+      "elapsedMs": 1172
     },
     {
       "id": "jas-reports",
@@ -387,7 +325,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 18,
-      "elapsedMs": 2250
+      "elapsedMs": 1223
     },
     {
       "id": "plos-one-arch",
@@ -400,7 +338,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2403
+      "elapsedMs": 1263
     },
     {
       "id": "pnas-arch",
@@ -413,7 +351,7 @@
       "kept": 21,
       "droppedOffTopic": 7,
       "droppedModern": 2,
-      "elapsedMs": 3244
+      "elapsedMs": 2236
     },
     {
       "id": "sciencedirect-jas",
@@ -426,17 +364,7 @@
       "kept": 11,
       "droppedOffTopic": 2,
       "droppedModern": 17,
-      "elapsedMs": 2277
-    },
-    {
-      "id": "rampas",
-      "name": "RAMPAS — Prehistoria y Arqueología Social (UCA)",
-      "lang": "es",
-      "region": "iberia",
-      "kind": "research",
-      "ok": false,
-      "error": "Request timed out after 15000ms",
-      "elapsedMs": 49509
+      "elapsedMs": 1163
     },
     {
       "id": "spal-us",
@@ -449,7 +377,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 4189
+      "elapsedMs": 2042
     },
     {
       "id": "complutum-ucm",
@@ -462,7 +390,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 3354
+      "elapsedMs": 43867
     },
     {
       "id": "archeoarte",
@@ -475,7 +403,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 3306
+      "elapsedMs": 2006
     },
     {
       "id": "cypsela",
@@ -488,7 +416,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3393
+      "elapsedMs": 1965
     },
     {
       "id": "cambridge-antiquity",
@@ -501,7 +429,7 @@
       "kept": 12,
       "droppedOffTopic": 5,
       "droppedModern": 13,
-      "elapsedMs": 3369
+      "elapsedMs": 1886
     },
     {
       "id": "cambridge-caj",
@@ -514,7 +442,7 @@
       "kept": 16,
       "droppedOffTopic": 8,
       "droppedModern": 6,
-      "elapsedMs": 3525
+      "elapsedMs": 2035
     },
     {
       "id": "cambridge-ejarc",
@@ -527,7 +455,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 3377
+      "elapsedMs": 2128
     },
     {
       "id": "aquitania-persee",
@@ -540,7 +468,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 5124
+      "elapsedMs": 3773
     },
     {
       "id": "cuadernos-arq-unav",
@@ -553,7 +481,7 @@
       "kept": 19,
       "droppedOffTopic": 3,
       "droppedModern": 8,
-      "elapsedMs": 6388
+      "elapsedMs": 3267
     },
     {
       "id": "veleia-ehu",
@@ -566,7 +494,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 4425
+      "elapsedMs": 2990
     },
     {
       "id": "flv-navarra",
@@ -579,7 +507,7 @@
       "kept": 17,
       "droppedOffTopic": 2,
       "droppedModern": 11,
-      "elapsedMs": 3632
+      "elapsedMs": 2177
     },
     {
       "id": "munibe-aa",
@@ -592,7 +520,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 3702
+      "elapsedMs": 2341
     },
     {
       "id": "trabajos-prehistoria",
@@ -605,7 +533,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 3671
+      "elapsedMs": 2157
     },
     {
       "id": "openalex-archaeology",
@@ -618,10 +546,25 @@
       "kept": 13,
       "droppedOffTopic": 12,
       "droppedModern": 5,
-      "elapsedMs": 3658
+      "elapsedMs": 2106
     }
   ],
   "items": [
+    {
+      "id": "stilearte:https://www.stilearte.it/scoperto-uomo-d-oro-taskopa-kazakistan-sepoltura-elite-nomadi/",
+      "title": "Brillano gioielli nel terreno. Un uomo d’oro e un cavallo di 2400 anni fa. La scoperta sotto un tumulo. Chi era il cavaliere. Il volo di farfalle",
+      "summary": "Nel settore occidentale del Kazakistan, nella regione amministrativa di Aktobe, un nuovo complesso funerario sta restituendo elementi di grande rilievo per la comprensione delle società nomadi dell’età del ferro. L’area indagata si colloca nei pressi del villaggio di Taskopa,…",
+      "url": "https://www.stilearte.it/scoperto-uomo-d-oro-taskopa-kazakistan-sepoltura-elite-nomadi/",
+      "image": null,
+      "publishedAt": "2026-04-27T05:25:47.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
     {
       "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/04/260424233206.htm",
       "title": "Giant octopuses may have ruled the oceans 100 million years ago",
@@ -7022,198 +6965,6 @@
       "topics": []
     },
     {
-      "id": "rampas:https://revistas.uca.es/index.php/rampas/article/view/12174",
-      "title": "Consejo Evaluador y Normas de la Revista (Rampas 27)",
-      "summary": "Consejo Evaluador y Normas de la Revista (Rampas 27)",
-      "url": "https://revistas.uca.es/index.php/rampas/article/view/12174",
-      "image": null,
-      "publishedAt": "2025-09-02T00:00:00.000Z",
-      "source": {
-        "id": "rampas",
-        "name": "RAMPAS — Prehistoria y Arqueología Social (UCA)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": []
-    },
-    {
-      "id": "rampas:https://revistas.uca.es/index.php/rampas/article/view/12137",
-      "title": "EXPOSICIÓN, “CUEVA DE ARDALES Y SIMA DE LAS PALOMAS DE TEBA. NUEVOS DATOS PARA EL CONOCIMIENTO DE LAS POBLACIONES NEANDERTALES Y HUMANAS ANATÓMICAMENTE MODERNAS EN EL SUR DE IBERIA”",
-      "summary": "",
-      "url": "https://revistas.uca.es/index.php/rampas/article/view/12137",
-      "image": null,
-      "publishedAt": "2025-09-02T00:00:00.000Z",
-      "source": {
-        "id": "rampas",
-        "name": "RAMPAS — Prehistoria y Arqueología Social (UCA)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "museoak"
-      ]
-    },
-    {
-      "id": "rampas:https://revistas.uca.es/index.php/rampas/article/view/12138",
-      "title": "(RE)PENSANDO EL CONCEPTO DE “NUEVAS TECNOLOGÍAS” EN ARQUEOLOGÍA: UNA REFLEXIÓN TERMINOLÓGICA Y EPISTEMOLÓGICA",
-      "summary": "",
-      "url": "https://revistas.uca.es/index.php/rampas/article/view/12138",
-      "image": null,
-      "publishedAt": "2025-09-02T00:00:00.000Z",
-      "source": {
-        "id": "rampas",
-        "name": "RAMPAS — Prehistoria y Arqueología Social (UCA)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": []
-    },
-    {
-      "id": "rampas:https://revistas.uca.es/index.php/rampas/article/view/12128",
-      "title": "APRENDIENDO EL PAPEL DEL FUEGO EN LA EVOLUCIÓN DE LA COGNICIÓN HOMININA",
-      "summary": "El fuego ha jugado un papel esencial durante nuestra evolución y sigue siendo crucial en nuestro día a día. Este estudio dedica sus páginas a la importancia del fuego más allá de las investigaciones clásicas, pero aún primordiales, sobre la relación entre cocina,…",
-      "url": "https://revistas.uca.es/index.php/rampas/article/view/12128",
-      "image": null,
-      "publishedAt": "2025-09-02T00:00:00.000Z",
-      "source": {
-        "id": "rampas",
-        "name": "RAMPAS — Prehistoria y Arqueología Social (UCA)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": []
-    },
-    {
-      "id": "rampas:https://revistas.uca.es/index.php/rampas/article/view/12130",
-      "title": "LA NECRÓPOLIS MEGALÍTICA DE FONELAS EN CONTEXTO",
-      "summary": "Este trabajo presenta un estado de la cuestión sobre la necrópolis megalítica de Fonelas, realizando un repaso sobre las intervenciones que se han desarrollado hasta la fecha y sobre las aportaciones de las mismas para los conocimientos de los que disponemos en la actualidad…",
-      "url": "https://revistas.uca.es/index.php/rampas/article/view/12130",
-      "image": null,
-      "publishedAt": "2025-09-02T00:00:00.000Z",
-      "source": {
-        "id": "rampas",
-        "name": "RAMPAS — Prehistoria y Arqueología Social (UCA)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": []
-    },
-    {
-      "id": "rampas:https://revistas.uca.es/index.php/rampas/article/view/12132",
-      "title": "ENSAYO DE INTERPRETACIÓN DEL RITUAL FUNERARIO DEL BRONCE ANTIGUO SEGÚN LOS RESULTADOS DE LA NECRÓPOLIS DE LOS TORCALES 1 Y 6, BEAS (HUELVA)",
-      "summary": "Durante los trabajos de control de movimientos de tierras para la ejecución de la variante de la N-435, Trigueros-Beas (mayo a julio de 2015), se descubrieron los restos de cinco estructuras funerarias en cista en las entidades arqueológicas denominadas “Los Torcales 1 y 6”, muy…",
-      "url": "https://revistas.uca.es/index.php/rampas/article/view/12132",
-      "image": null,
-      "publishedAt": "2025-09-02T00:00:00.000Z",
-      "source": {
-        "id": "rampas",
-        "name": "RAMPAS — Prehistoria y Arqueología Social (UCA)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "asia",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "rampas:https://revistas.uca.es/index.php/rampas/article/view/12133",
-      "title": "MARCAS EN RESTOS DE FAUNA DOMÉSTICA DEL TALLER ROMANO DE PÚRPURA DE LOBOS 1 (ISLA DE LOBOS, FUERTEVENTURA, ISLAS CANARIAS)",
-      "summary": "Las excavaciones realizadas en el taller de púrpura romano de la isla de Lobos han proporcionado un abundante registro de restos de fauna, tanto marina como terrestre. Esta contribución se centra en el conjunto de fauna terrestre doméstica, con gran abundancia de Caprinae, Capra…",
-      "url": "https://revistas.uca.es/index.php/rampas/article/view/12133",
-      "image": null,
-      "publishedAt": "2025-09-02T00:00:00.000Z",
-      "source": {
-        "id": "rampas",
-        "name": "RAMPAS — Prehistoria y Arqueología Social (UCA)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "erromatarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "rampas:https://revistas.uca.es/index.php/rampas/article/view/12147",
-      "title": "CAMPAGNO, Marcelo; GANDULLA, Bernardo; MILEVSKI, Ianir (eds.) 2022: Relaciones entre Egipto y Palestina en el IV milenio a.C. Modelos e interpretaciones. Ciudad Autónoma de Buenos Aires. Miño y Dávila Editores. 220 pp. Con fotografías, imágenes, planos y mapas. ISBN 978-84-18929-89-2.",
-      "summary": "",
-      "url": "https://revistas.uca.es/index.php/rampas/article/view/12147",
-      "image": null,
-      "publishedAt": "2025-09-02T00:00:00.000Z",
-      "source": {
-        "id": "rampas",
-        "name": "RAMPAS — Prehistoria y Arqueología Social (UCA)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "egiptoarrak"
-      ]
-    },
-    {
-      "id": "rampas:https://revistas.uca.es/index.php/rampas/article/view/12125",
-      "title": "Francisco Nocete Calvo",
-      "summary": "",
-      "url": "https://revistas.uca.es/index.php/rampas/article/view/12125",
-      "image": null,
-      "publishedAt": "2025-09-02T00:00:00.000Z",
-      "source": {
-        "id": "rampas",
-        "name": "RAMPAS — Prehistoria y Arqueología Social (UCA)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": []
-    },
-    {
-      "id": "rampas:https://revistas.uca.es/index.php/rampas/article/view/12126",
-      "title": "Anna-Maria Roos. En recuerdo a una gran arqueóloga y mejor amiga",
-      "summary": "",
-      "url": "https://revistas.uca.es/index.php/rampas/article/view/12126",
-      "image": null,
-      "publishedAt": "2025-09-02T00:00:00.000Z",
-      "source": {
-        "id": "rampas",
-        "name": "RAMPAS — Prehistoria y Arqueología Social (UCA)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": []
-    },
-    {
-      "id": "rampas:https://revistas.uca.es/index.php/rampas/article/view/12173",
-      "title": "Equipo Editorial (RAMPAS 27)",
-      "summary": "Equipo Editorial (RAMPAS 27)",
-      "url": "https://revistas.uca.es/index.php/rampas/article/view/12173",
-      "image": null,
-      "publishedAt": "2025-09-02T00:00:00.000Z",
-      "source": {
-        "id": "rampas",
-        "name": "RAMPAS — Prehistoria y Arqueología Social (UCA)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": []
-    },
-    {
-      "id": "rampas:https://revistas.uca.es/index.php/rampas/article/view/12150",
-      "title": "Seminario “Mirando al mar: Visiones desde la Prehistoria”, Instituto de Investigación Cueva de Nerja (Málaga), on-line, 21 de marzo de 2025.",
-      "summary": "",
-      "url": "https://revistas.uca.es/index.php/rampas/article/view/12150",
-      "image": null,
-      "publishedAt": "2025-09-02T00:00:00.000Z",
-      "source": {
-        "id": "rampas",
-        "name": "RAMPAS — Prehistoria y Arqueología Social (UCA)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
       "id": "pnas-arch:https://openalex.org/W4413756222",
       "title": "Profile of Johannes Lehmann",
       "summary": "Soil scientist Johannes Lehmann has spent his career examining how to improve soil quality to secure agricultural production, regulate climate, and keep water clean. His work with dark earths in the Brazilian Amazon led to the discovery of the importance of biochar in soil…",
@@ -8480,6 +8231,81 @@
         "ekialde-hurbila",
         "aurkikuntza"
       ]
+    },
+    {
+      "id": "inrap-bsky:https://bsky.app/profile/inrap.fr/post/3migzdvnagk2o",
+      "title": "",
+      "summary": "[Parution 📘] « Raconte-moi l’archéologie », le nouveau livre de Sandra Sicard, archéologue à l’Inrap, sort aujourd’hui en librairie. Illustré par Mikael Moune et coédité par Actes Sud Jeunesse / Inrap, il invite le jeune public à découvrir l’archéologie. 👉…",
+      "url": "https://bsky.app/profile/inrap.fr/post/3migzdvnagk2o",
+      "image": null,
+      "publishedAt": "2026-04-01T15:35:00.000Z",
+      "source": {
+        "id": "inrap-bsky",
+        "name": "Inrap (Bluesky)"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "inrap-bsky:https://bsky.app/profile/inrap.fr/post/3mibxgzwtws2r",
+      "title": "",
+      "summary": "À Vichy (Allier), des fouilles menées par les archéologues de l’Inrap, à l’emplacement d'une future piscine, révèlent une occupation humaine continue du site depuis l’Antiquité. En savoir plus👉…",
+      "url": "https://bsky.app/profile/inrap.fr/post/3mibxgzwtws2r",
+      "image": null,
+      "publishedAt": "2026-03-30T15:17:00.000Z",
+      "source": {
+        "id": "inrap-bsky",
+        "name": "Inrap (Bluesky)"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "inrap-bsky:https://bsky.app/profile/inrap.fr/post/3mhgq3l2cf223",
+      "title": "",
+      "summary": "[J-6 PROJECTION-DEBAT] Mercredi 25 mars, le lycée Louis-le-Grand à Paris vous invite à une projection autour du documentaire « Enquête sur la tombe du dernier prince celte » réalisé par Marion Marot, dans le cadre des Nocturnes de l’histoire, avec l’APHG et l’Inrap.…",
+      "url": "https://bsky.app/profile/inrap.fr/post/3mhgq3l2cf223",
+      "image": null,
+      "publishedAt": "2026-03-19T19:24:00.000Z",
+      "source": {
+        "id": "inrap-bsky",
+        "name": "Inrap (Bluesky)"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "inrap-bsky:https://bsky.app/profile/inrap.fr/post/3mgpr3v7hck2m",
+      "title": "",
+      "summary": "[✨Brèves Gauloises] À l'occasion de la saison scientifique et culturelle gauloise de l'Inrap, des archéologues racontent des fouilles et des objets de l'âge du Fer qui les ont marqués. ⬇️",
+      "url": "https://bsky.app/profile/inrap.fr/post/3mgpr3v7hck2m",
+      "image": null,
+      "publishedAt": "2026-03-10T16:10:00.000Z",
+      "source": {
+        "id": "inrap-bsky",
+        "name": "Inrap (Bluesky)"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "inrap-bsky:https://bsky.app/profile/inrap.fr/post/3mgncfcsfi22f",
+      "title": "",
+      "summary": "[Entretien] 🗣️Michel Brenet et Émilie Claud, archéologues à l’Inrap, reviennent sur la fouille du campement solutréen du Landry à Boulazac (Dordogne). Une monographie a été publiée dans la revue Paléo, la revue d'archéologie préhistorique. 👉…",
+      "url": "https://bsky.app/profile/inrap.fr/post/3mgncfcsfi22f",
+      "image": null,
+      "publishedAt": "2026-03-09T16:42:00.000Z",
+      "source": {
+        "id": "inrap-bsky",
+        "name": "Inrap (Bluesky)"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
     }
   ]
 }
