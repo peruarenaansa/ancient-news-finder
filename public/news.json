@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-26T04:39:39.318Z",
-  "count": 454,
+  "generatedAt": "2026-04-27T04:48:06.508Z",
+  "count": 474,
   "sources": [
     {
       "id": "noticiasdenavarra",
@@ -11,9 +11,9 @@
       "ok": true,
       "fetched": 20,
       "kept": 0,
-      "droppedOffTopic": 20,
-      "droppedModern": 0,
-      "elapsedMs": 567
+      "droppedOffTopic": 19,
+      "droppedModern": 1,
+      "elapsedMs": 553
     },
     {
       "id": "naiz",
@@ -26,7 +26,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 608
+      "elapsedMs": 996
     },
     {
       "id": "argia-kultura",
@@ -39,7 +39,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 963
+      "elapsedMs": 1224
     },
     {
       "id": "eitb-kultura",
@@ -52,7 +52,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 772
+      "elapsedMs": 816
     },
     {
       "id": "berria-bsky",
@@ -65,7 +65,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3370
+      "elapsedMs": 3665
     },
     {
       "id": "berria-mastodon",
@@ -73,9 +73,12 @@
       "lang": "eu",
       "region": "basque",
       "kind": "news",
-      "ok": false,
-      "error": "",
-      "elapsedMs": 6669
+      "ok": true,
+      "fetched": 20,
+      "kept": 0,
+      "droppedOffTopic": 20,
+      "droppedModern": 0,
+      "elapsedMs": 1227
     },
     {
       "id": "aranzadi-bsky",
@@ -88,7 +91,7 @@
       "kept": 6,
       "droppedOffTopic": 24,
       "droppedModern": 0,
-      "elapsedMs": 3397
+      "elapsedMs": 3657
     },
     {
       "id": "vianako-printzea",
@@ -101,7 +104,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 10,
-      "elapsedMs": 1075
+      "elapsedMs": 1177
     },
     {
       "id": "labrujulaverde",
@@ -109,9 +112,12 @@
       "lang": "es",
       "region": "world",
       "kind": "news",
-      "ok": false,
-      "error": "Status code 415",
-      "elapsedMs": 6392
+      "ok": true,
+      "fetched": 20,
+      "kept": 15,
+      "droppedOffTopic": 1,
+      "droppedModern": 4,
+      "elapsedMs": 1658
     },
     {
       "id": "desperta-ferro",
@@ -124,7 +130,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 4,
-      "elapsedMs": 1491
+      "elapsedMs": 1761
     },
     {
       "id": "elpais-cultura",
@@ -137,7 +143,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 759
+      "elapsedMs": 1770
     },
     {
       "id": "inrap",
@@ -147,7 +153,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 6413
+      "elapsedMs": 7209
     },
     {
       "id": "lefigaro-histoire",
@@ -160,7 +166,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1454
+      "elapsedMs": 947
     },
     {
       "id": "lemonde-sciences",
@@ -170,10 +176,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 0,
-      "droppedOffTopic": 20,
+      "kept": 1,
+      "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 966
+      "elapsedMs": 975
     },
     {
       "id": "lemonde-archeo",
@@ -186,7 +192,7 @@
       "kept": 11,
       "droppedOffTopic": 7,
       "droppedModern": 2,
-      "elapsedMs": 1350
+      "elapsedMs": 1285
     },
     {
       "id": "francetvinfo-archeo",
@@ -199,7 +205,7 @@
       "kept": 0,
       "droppedOffTopic": 1,
       "droppedModern": 0,
-      "elapsedMs": 3635
+      "elapsedMs": 3957
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -212,7 +218,7 @@
       "kept": 10,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1423
+      "elapsedMs": 1476
     },
     {
       "id": "sudouest-culture",
@@ -225,7 +231,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1505
+      "elapsedMs": 1396
     },
     {
       "id": "ansa-cultura",
@@ -235,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 28,
-      "kept": 0,
-      "droppedOffTopic": 28,
+      "kept": 1,
+      "droppedOffTopic": 27,
       "droppedModern": 0,
-      "elapsedMs": 2008
+      "elapsedMs": 2547
     },
     {
       "id": "repubblica-cultura",
@@ -251,7 +257,7 @@
       "kept": 2,
       "droppedOffTopic": 23,
       "droppedModern": 0,
-      "elapsedMs": 1778
+      "elapsedMs": 1852
     },
     {
       "id": "corriere-cultura",
@@ -264,7 +270,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2363
+      "elapsedMs": 2344
     },
     {
       "id": "archeologiaviva",
@@ -277,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 0,
       "droppedModern": 7,
-      "elapsedMs": 2536
+      "elapsedMs": 3147
     },
     {
       "id": "stilearte",
@@ -290,7 +296,7 @@
       "kept": 9,
       "droppedOffTopic": 1,
       "droppedModern": 0,
-      "elapsedMs": 2690
+      "elapsedMs": 2775
     },
     {
       "id": "live-science-arch",
@@ -300,10 +306,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 3,
-      "droppedOffTopic": 27,
+      "kept": 2,
+      "droppedOffTopic": 28,
       "droppedModern": 0,
-      "elapsedMs": 3295
+      "elapsedMs": 3477
     },
     {
       "id": "bbc-history",
@@ -316,7 +322,7 @@
       "kept": 1,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 2115
+      "elapsedMs": 2190
     },
     {
       "id": "sciencedaily-arch",
@@ -329,7 +335,7 @@
       "kept": 13,
       "droppedOffTopic": 17,
       "droppedModern": 0,
-      "elapsedMs": 2245
+      "elapsedMs": 2419
     },
     {
       "id": "ancient-origins",
@@ -342,7 +348,7 @@
       "kept": 4,
       "droppedOffTopic": 5,
       "droppedModern": 1,
-      "elapsedMs": 2184
+      "elapsedMs": 2366
     },
     {
       "id": "guardian-arch",
@@ -355,7 +361,7 @@
       "kept": 11,
       "droppedOffTopic": 6,
       "droppedModern": 3,
-      "elapsedMs": 2403
+      "elapsedMs": 2541
     },
     {
       "id": "current-archaeology",
@@ -368,7 +374,7 @@
       "kept": 23,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 2233
+      "elapsedMs": 2312
     },
     {
       "id": "jas-reports",
@@ -379,9 +385,9 @@
       "ok": true,
       "fetched": 30,
       "kept": 9,
-      "droppedOffTopic": 4,
-      "droppedModern": 17,
-      "elapsedMs": 2255
+      "droppedOffTopic": 3,
+      "droppedModern": 18,
+      "elapsedMs": 2250
     },
     {
       "id": "plos-one-arch",
@@ -394,7 +400,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2440
+      "elapsedMs": 2403
     },
     {
       "id": "pnas-arch",
@@ -407,7 +413,7 @@
       "kept": 21,
       "droppedOffTopic": 7,
       "droppedModern": 2,
-      "elapsedMs": 2680
+      "elapsedMs": 3244
     },
     {
       "id": "sciencedirect-jas",
@@ -420,7 +426,7 @@
       "kept": 11,
       "droppedOffTopic": 2,
       "droppedModern": 17,
-      "elapsedMs": 2259
+      "elapsedMs": 2277
     },
     {
       "id": "rampas",
@@ -428,12 +434,9 @@
       "lang": "es",
       "region": "iberia",
       "kind": "research",
-      "ok": true,
-      "fetched": 25,
-      "kept": 12,
-      "droppedOffTopic": 3,
-      "droppedModern": 10,
-      "elapsedMs": 3866
+      "ok": false,
+      "error": "Request timed out after 15000ms",
+      "elapsedMs": 49509
     },
     {
       "id": "spal-us",
@@ -446,7 +449,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 3132
+      "elapsedMs": 4189
     },
     {
       "id": "complutum-ucm",
@@ -459,7 +462,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 4202
+      "elapsedMs": 3354
     },
     {
       "id": "archeoarte",
@@ -472,7 +475,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 3300
+      "elapsedMs": 3306
     },
     {
       "id": "cypsela",
@@ -485,7 +488,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3236
+      "elapsedMs": 3393
     },
     {
       "id": "cambridge-antiquity",
@@ -495,10 +498,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 13,
+      "kept": 12,
       "droppedOffTopic": 5,
-      "droppedModern": 12,
-      "elapsedMs": 3153
+      "droppedModern": 13,
+      "elapsedMs": 3369
     },
     {
       "id": "cambridge-caj",
@@ -511,7 +514,7 @@
       "kept": 16,
       "droppedOffTopic": 8,
       "droppedModern": 6,
-      "elapsedMs": 3083
+      "elapsedMs": 3525
     },
     {
       "id": "cambridge-ejarc",
@@ -524,7 +527,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 3124
+      "elapsedMs": 3377
     },
     {
       "id": "aquitania-persee",
@@ -537,7 +540,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 4243
+      "elapsedMs": 5124
     },
     {
       "id": "cuadernos-arq-unav",
@@ -550,7 +553,7 @@
       "kept": 19,
       "droppedOffTopic": 3,
       "droppedModern": 8,
-      "elapsedMs": 4694
+      "elapsedMs": 6388
     },
     {
       "id": "veleia-ehu",
@@ -563,7 +566,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 4332
+      "elapsedMs": 4425
     },
     {
       "id": "flv-navarra",
@@ -576,7 +579,7 @@
       "kept": 17,
       "droppedOffTopic": 2,
       "droppedModern": 11,
-      "elapsedMs": 3337
+      "elapsedMs": 3632
     },
     {
       "id": "munibe-aa",
@@ -589,7 +592,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 3222
+      "elapsedMs": 3702
     },
     {
       "id": "trabajos-prehistoria",
@@ -602,7 +605,20 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 3243
+      "elapsedMs": 3671
+    },
+    {
+      "id": "openalex-archaeology",
+      "name": "OpenAlex — Arkeologia (mundua)",
+      "lang": "en",
+      "region": "world",
+      "kind": "openalex",
+      "ok": true,
+      "fetched": 30,
+      "kept": 13,
+      "droppedOffTopic": 12,
+      "droppedModern": 5,
+      "elapsedMs": 3658
     }
   ],
   "items": [
@@ -8138,6 +8154,331 @@
       "region": "basque",
       "topics": [
         "erromatarrak"
+      ]
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W4404260255",
+      "title": "Comportement des sols d'assise des fondations face au retrait-gonflement des argiles",
+      "summary": "In France, one in two single-family homes is affected by the shrink-swell phenomenon of clay soils, which causes cracks in buildings. This issue is particularly acute during periods of drought, as clay soils contract in the absence of water and expand during wetter periods,…",
+      "url": "https://univ-eiffel.hal.science/tel-04772492",
+      "image": null,
+      "publishedAt": "2027-10-30T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7135953145",
+      "title": "Tree ring-width data Drumclay alder chronology",
+      "summary": "This data consists of the tree-ring measurements from alder timbers from Drumclay crannog, Co. Fermanagh. Between 2012 and 2013 an archaeological excavation was carried out which revealed almost 7 m of vertical archaeological stratigraphy. A large quantity of wood samples were…",
+      "url": "https://pure.qub.ac.uk/en/datasets/d6b82ffb-f929-45cb-b1e5-2ef93a1f1506",
+      "image": null,
+      "publishedAt": "2027-07-01T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "erdi-aroa",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7131340849",
+      "title": "Roshan Lama and children: Jackal and Crow, reported speech",
+      "summary": "Roshan Lama and children: Jackal and Crow, reported speech",
+      "url": "https://openalex.org/W7131340849",
+      "image": null,
+      "publishedAt": "2027-01-01T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7126335142",
+      "title": "Resilience and Antifragility in History and Archaeology – Reconstructing the Complexity of Human-Environmental Interactions in the Past",
+      "summary": "Resilience and Antifragility in History and Archaeology – Reconstructing the Complexity of Human-Environmental Interactions in the Past",
+      "url": "http://hdl.handle.net/2078.1/310146",
+      "image": null,
+      "publishedAt": "2027-01-01T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7134916209",
+      "title": "Ochre Archaeomicrobiology: Provenancing Australian Pigments through Microbial Fingerprinting Investigations into Sample Size and Temporal Variation",
+      "summary": "Ochre is an important component of many archaeological assemblages however the assignment of provenance remains a challenge due to its variable mineral composition and formation. While previous characterisations utilising elemental, chemical, and magnetic measurements have…",
+      "url": "https://doi.org/10.60867/00000081",
+      "image": null,
+      "publishedAt": "2027-01-01T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7119053681",
+      "title": "TAXONOMIC DOCUMENTATION OF SPIDER FAUNA (ARANEAE) FROM YEDASI–RAMALING WILDLIFE SANCTUARY, OSMANABAD DISTRICT, MAHARASHTRA, INDIA",
+      "summary": "TAXONOMIC DOCUMENTATION OF SPIDER FAUNA (ARANEAE) FROM YEDASI–RAMALING WILDLIFE SANCTUARY, OSMANABAD DISTRICT, MAHARASHTRA, INDIA",
+      "url": "https://doi.org/10.5281/zenodo.18160531",
+      "image": null,
+      "publishedAt": "2026-12-31T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "asia"
+      ]
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7118428292",
+      "title": "TAXONOMIC DOCUMENTATION OF SPIDER FAUNA (ARANEAE) FROM YEDASI–RAMALING WILDLIFE SANCTUARY, OSMANABAD DISTRICT, MAHARASHTRA, INDIA",
+      "summary": "TAXONOMIC DOCUMENTATION OF SPIDER FAUNA (ARANEAE) FROM YEDASI–RAMALING WILDLIFE SANCTUARY, OSMANABAD DISTRICT, MAHARASHTRA, INDIA",
+      "url": "https://doi.org/10.5281/zenodo.18160530",
+      "image": null,
+      "publishedAt": "2026-12-31T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "asia"
+      ]
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7121581458",
+      "title": "The Toponymic Stratification of Quattrocento Umbria: A Philological and Historical Validation of 'Ameria' in Beinecke MS 408",
+      "summary": "AbstractThis paper addresses the alleged toponymic anachronism of the term \"Ameria\" as identified in the decipherment of the Voynich Manuscript (Beinecke MS 408). Critics have argued that the medieval vernacular \"Amelia\" renders the classical \"Ameria\" an impossibility for a…",
+      "url": "https://doi.org/10.5281/zenodo.18112794",
+      "image": null,
+      "publishedAt": "2026-12-01T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7121273465",
+      "title": "The Toponymic Stratification of Quattrocento Umbria: A Philological and Historical Validation of 'Ameria' in Beinecke MS 408",
+      "summary": "AbstractThis paper addresses the alleged toponymic anachronism of the term \"Ameria\" as identified in the decipherment of the Voynich Manuscript (Beinecke MS 408). Critics have argued that the medieval vernacular \"Amelia\" renders the classical \"Ameria\" an impossibility for a…",
+      "url": "https://doi.org/10.5281/zenodo.18112793",
+      "image": null,
+      "publishedAt": "2026-12-01T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7124670267",
+      "title": "Bronze Age béton brut: the display and interpretation of Cairnpapple Hill, West Lothian, Scotland",
+      "summary": "A study of the 20th century life history of the prehistoric monument Cairnpapple Hill in West Lothian, Scotland, a rare example of an exploded diagram form of heritage presentation from the middle of the century.",
+      "url": "https://eprints.gla.ac.uk/view/author/60489.html>",
+      "image": null,
+      "publishedAt": "2026-11-30T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7155419633",
+      "title": "Dataset for \"Assessing the cultural heritage of historical ferries: A case study from the Czech Republic\"",
+      "summary": "Fig. 2: The ferry grounds on the Morava and Dyje rivers, with both the cultural-historical values relating to the individual types and theoverall cultural-historical value – sorted by river flow (Notes: A – typology value; B – technological flow value; C – system links value; D…",
+      "url": "https://doi.org/10.5281/zenodo.19706035",
+      "image": null,
+      "publishedAt": "2026-09-15T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7155372998",
+      "title": "Dataset for \"Assessing the cultural heritage of historical ferries: A case study from the Czech Republic\"",
+      "summary": "Fig. 2: The ferry grounds on the Morava and Dyje rivers, with both the cultural-historical values relating to the individual types and theoverall cultural-historical value – sorted by river flow (Notes: A – typology value; B – technological flow value; C – system links value; D…",
+      "url": "https://doi.org/10.5281/zenodo.19706034",
+      "image": null,
+      "publishedAt": "2026-09-15T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7142583175",
+      "title": "From Ruins to Rural Modernity: Experiencing Reconstruction in postwar Vosges",
+      "summary": "International audience",
+      "url": "https://hal.univ-lorraine.fr/hal-05568998",
+      "image": null,
+      "publishedAt": "2026-09-02T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002178?dgcid=rss_sd_all",
+      "title": "Technological comparison of Middle Bronze Age Late Hatvan and Füzesabony pottery: A case study from northeastern Hungary",
+      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Ákos Mengyán, Klára P. Fischl, Ferenc Kristály",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002178?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-04-27T04:47:19.216Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "lemonde-sciences:https://www.lemonde.fr/sciences/article/2026/04/27/des-poulpes-geants-peuplaient-les-oceans-du-cretace_6683612_1650684.html",
+      "title": "Des poulpes géants peuplaient les océans du crétacé",
+      "summary": "Une équipe japonaise estime, à partir des mâchoires fossilisées d’octopodes vieux de plus de 70 millions d’années, qu’il s’agissait de prédateurs pouvant mesurer entre 7 et 19 mètres de long.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/04/27/des-poulpes-geants-peuplaient-les-oceans-du-cretace_6683612_1650684.html",
+      "image": "https://img.lemde.fr/2026/04/22/1906/0/5000/2500/644/322/60/0/09b9285_upload-1-eaj2mcedssp7-ikegami-aea6285-image.png",
+      "publishedAt": "2026-04-27T04:00:29.000Z",
+      "source": {
+        "id": "lemonde-sciences",
+        "name": "Le Monde — Sciences"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "ansa-cultura:https://www.ansa.it/sito/notizie/cultura/2026/04/26/fondazione-la-fenice-annullate-tutte-le-collaborazioni-con-venezi-_0d38fd5a-10f3-4e26-bc9b-c5759ffd9443.html",
+      "title": "La Fenice rompe con Beatrice Venezi, stop alle collaborazioni",
+      "summary": "La scelta di Colabianchi dopo l'intervista a La Nacion. Giuli:\"Fiducia nel sovrintendente\"",
+      "url": "https://www.ansa.it/sito/notizie/cultura/2026/04/26/fondazione-la-fenice-annullate-tutte-le-collaborazioni-con-venezi-_0d38fd5a-10f3-4e26-bc9b-c5759ffd9443.html",
+      "image": null,
+      "publishedAt": "2026-04-26T17:45:46.000Z",
+      "source": {
+        "id": "ansa-cultura",
+        "name": "ANSA — Cultura"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/descubren-mas-de-100-tableros-de-juego-grabados-en-las-ruinas-de-la-antigua-ciudad-griega-de-ptolemais-en-libia",
+      "title": "Descubren más de 100 tableros de juego grabados en las ruinas de la antigua ciudad griega de Ptolemaida en Libia",
+      "summary": "Las ruinas de Ptolemaida, una de las mayores ciudades griegas de la antigüedad, esconden en sus muros derruidos un fenómeno arqueológico singular: centenares de cuadrículas excavadas en la piedra formadas por pequeñas cavidades circulares que se alinean en retículas de diverso…",
+      "url": "https://www.labrujulaverde.com/2026/04/descubren-mas-de-100-tableros-de-juego-grabados-en-las-ruinas-de-la-antigua-ciudad-griega-de-ptolemais-en-libia",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/1_0.jpg-2.webp",
+      "publishedAt": "2026-04-26T11:25:40.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/hallan-en-ostia-antiguos-recipientes-romanos-de-mil-litros-que-contenian-salsa-de-pescado-y-fueron-reparados-con-plomo-plata-y-estano",
+      "title": "Hallan en Ostia antiguos recipientes romanos de mil litros que contenían salsa de pescado y fueron reparados con plomo, plata y estaño",
+      "summary": "En las ruinas de la que fue la ciudad portuaria de la antigua Roma, un equipo de investigadores ha conseguido extraer por primera vez evidencia científica sobre el uso real de unos enormes recipientes de cerámica conocidos como dolia (singular dolium). Estas vasijas, capaces de…",
+      "url": "https://www.labrujulaverde.com/2026/04/hallan-en-ostia-antiguos-recipientes-romanos-de-mil-litros-que-contenian-salsa-de-pescado-y-fueron-reparados-con-plomo-plata-y-estano",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/1-s2.0-labrujulaverde.com-S0305440326001020-gr1_lrg.webp",
+      "publishedAt": "2026-04-26T09:34:19.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/fotografia-svela-divinita-etrusche-nascoste-strutture-funerarie-cerveteri/",
+      "title": "Meravigliosi Etruschi. Cosa vedete in questa tomba? Scoperta una metrica del volto umano nelle architetture funerarie. Gli Dei appaiono, eccoli. Perché? Come? Ecco le risposte. La foto scattata da Maldera",
+      "summary": "Quando l’occhio si colloca alla giusta distanza e lascia che le linee si compongano, allora accade qualcosa di inatteso: la tomba restituisce un volto. E’ una teofania, una manifestazione del dio, attraverso un’immagine. La fotografia, di forte suggestione, è stata condivisa…",
+      "url": "https://www.stilearte.it/fotografia-svela-divinita-etrusche-nascoste-strutture-funerarie-cerveteri/",
+      "image": null,
+      "publishedAt": "2026-04-26T08:06:28.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/una-copa-romana-de-bronce-fabricada-en-el-norte-de-britania-que-nombra-los-fuertes-del-muro-de-adriano-encontrada-en-soria",
+      "title": "Una copa romana de bronce fabricada en el norte de Britania que nombra los fuertes del Muro de Adriano encontrada en Soria",
+      "summary": "Un agricultor de Berlanga de Duero, un pequeño municipio de la provincia de Soria (Castilla y León), encontró hace unos meses los fragmentos de un pequeño cuenco de bronce esmaltado mientras trabajaba sus tierras. Lo que parecía un hallazgo casual ha resultado ser uno de los…",
+      "url": "https://www.labrujulaverde.com/2026/04/una-copa-romana-de-bronce-fabricada-en-el-norte-de-britania-que-nombra-los-fuertes-del-muro-de-adriano-encontrada-en-soria",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/Copa-de-Berlanga_3DSTOA-scaled-1.webp",
+      "publishedAt": "2026-04-25T16:20:13.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak",
+        "ekialde-hurbila",
+        "aurkikuntza"
       ]
     }
   ]
