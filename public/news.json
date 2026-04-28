@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-27T06:29:59.749Z",
-  "count": 468,
+  "generatedAt": "2026-04-28T04:52:36.762Z",
+  "count": 478,
   "sources": [
     {
       "id": "noticiasdenavarra",
@@ -13,7 +13,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 458
+      "elapsedMs": 692
     },
     {
       "id": "naiz",
@@ -23,10 +23,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 0,
-      "droppedOffTopic": 30,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 979
+      "elapsedMs": 760
     },
     {
       "id": "argia-kultura",
@@ -39,7 +39,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 40383
+      "elapsedMs": 958
     },
     {
       "id": "eitb-kultura",
@@ -52,7 +52,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 816
+      "elapsedMs": 693
     },
     {
       "id": "berria-bsky",
@@ -65,7 +65,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2050
+      "elapsedMs": 2307
     },
     {
       "id": "aranzadi-bsky",
@@ -75,10 +75,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 6,
-      "droppedOffTopic": 24,
+      "kept": 7,
+      "droppedOffTopic": 23,
       "droppedModern": 0,
-      "elapsedMs": 2139
+      "elapsedMs": 2315
     },
     {
       "id": "vianako-printzea",
@@ -91,7 +91,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 10,
-      "elapsedMs": 1156
+      "elapsedMs": 1233
     },
     {
       "id": "labrujulaverde",
@@ -101,10 +101,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 15,
-      "droppedOffTopic": 1,
+      "kept": 16,
+      "droppedOffTopic": 0,
       "droppedModern": 4,
-      "elapsedMs": 1474
+      "elapsedMs": 1426
     },
     {
       "id": "desperta-ferro",
@@ -117,7 +117,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 4,
-      "elapsedMs": 1389
+      "elapsedMs": 1068
     },
     {
       "id": "elpais-cultura",
@@ -130,7 +130,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1425
+      "elapsedMs": 1389
     },
     {
       "id": "lemonde-sciences",
@@ -143,7 +143,7 @@
       "kept": 1,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 525
+      "elapsedMs": 801
     },
     {
       "id": "lemonde-archeo",
@@ -154,9 +154,9 @@
       "ok": true,
       "fetched": 20,
       "kept": 11,
-      "droppedOffTopic": 7,
-      "droppedModern": 2,
-      "elapsedMs": 1185
+      "droppedOffTopic": 8,
+      "droppedModern": 1,
+      "elapsedMs": 1165
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -169,7 +169,7 @@
       "kept": 10,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 966
+      "elapsedMs": 1355
     },
     {
       "id": "inrap-bsky",
@@ -182,7 +182,7 @@
       "kept": 5,
       "droppedOffTopic": 16,
       "droppedModern": 2,
-      "elapsedMs": 2051
+      "elapsedMs": 2313
     },
     {
       "id": "sudouest-culture",
@@ -193,9 +193,9 @@
       "ok": true,
       "fetched": 20,
       "kept": 0,
-      "droppedOffTopic": 20,
-      "droppedModern": 0,
-      "elapsedMs": 887
+      "droppedOffTopic": 19,
+      "droppedModern": 1,
+      "elapsedMs": 1333
     },
     {
       "id": "corriere-cultura",
@@ -208,7 +208,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1212
+      "elapsedMs": 1570
     },
     {
       "id": "archeologiaviva",
@@ -221,7 +221,7 @@
       "kept": 3,
       "droppedOffTopic": 0,
       "droppedModern": 7,
-      "elapsedMs": 1951
+      "elapsedMs": 2181
     },
     {
       "id": "stilearte",
@@ -234,7 +234,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 1674
+      "elapsedMs": 1955
     },
     {
       "id": "live-science-arch",
@@ -244,10 +244,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 2,
-      "droppedOffTopic": 28,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1804
+      "elapsedMs": 2144
     },
     {
       "id": "bbc-history",
@@ -260,7 +260,7 @@
       "kept": 1,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1084
+      "elapsedMs": 1907
     },
     {
       "id": "sciencedaily-arch",
@@ -270,10 +270,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 13,
-      "droppedOffTopic": 17,
+      "kept": 14,
+      "droppedOffTopic": 16,
       "droppedModern": 0,
-      "elapsedMs": 1294
+      "elapsedMs": 1674
     },
     {
       "id": "ancient-origins",
@@ -286,7 +286,7 @@
       "kept": 4,
       "droppedOffTopic": 5,
       "droppedModern": 1,
-      "elapsedMs": 1198
+      "elapsedMs": 1698
     },
     {
       "id": "guardian-arch",
@@ -299,7 +299,7 @@
       "kept": 11,
       "droppedOffTopic": 6,
       "droppedModern": 3,
-      "elapsedMs": 1492
+      "elapsedMs": 1856
     },
     {
       "id": "current-archaeology",
@@ -312,7 +312,7 @@
       "kept": 23,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1172
+      "elapsedMs": 1650
     },
     {
       "id": "jas-reports",
@@ -325,7 +325,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 18,
-      "elapsedMs": 1223
+      "elapsedMs": 1595
     },
     {
       "id": "plos-one-arch",
@@ -335,10 +335,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1263
+      "elapsedMs": 1821
     },
     {
       "id": "pnas-arch",
@@ -351,7 +351,7 @@
       "kept": 21,
       "droppedOffTopic": 7,
       "droppedModern": 2,
-      "elapsedMs": 2236
+      "elapsedMs": 2376
     },
     {
       "id": "sciencedirect-jas",
@@ -364,7 +364,7 @@
       "kept": 11,
       "droppedOffTopic": 2,
       "droppedModern": 17,
-      "elapsedMs": 1163
+      "elapsedMs": 1659
     },
     {
       "id": "spal-us",
@@ -377,7 +377,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2042
+      "elapsedMs": 2279
     },
     {
       "id": "complutum-ucm",
@@ -390,7 +390,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 43867
+      "elapsedMs": 2524
     },
     {
       "id": "archeoarte",
@@ -403,7 +403,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2006
+      "elapsedMs": 2379
     },
     {
       "id": "cypsela",
@@ -416,7 +416,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 1965
+      "elapsedMs": 2307
     },
     {
       "id": "cambridge-antiquity",
@@ -429,7 +429,7 @@
       "kept": 12,
       "droppedOffTopic": 5,
       "droppedModern": 13,
-      "elapsedMs": 1886
+      "elapsedMs": 2212
     },
     {
       "id": "cambridge-caj",
@@ -442,7 +442,7 @@
       "kept": 16,
       "droppedOffTopic": 8,
       "droppedModern": 6,
-      "elapsedMs": 2035
+      "elapsedMs": 2190
     },
     {
       "id": "cambridge-ejarc",
@@ -455,7 +455,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 2128
+      "elapsedMs": 2138
     },
     {
       "id": "aquitania-persee",
@@ -468,7 +468,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3773
+      "elapsedMs": 3638
     },
     {
       "id": "cuadernos-arq-unav",
@@ -481,7 +481,7 @@
       "kept": 19,
       "droppedOffTopic": 3,
       "droppedModern": 8,
-      "elapsedMs": 3267
+      "elapsedMs": 3823
     },
     {
       "id": "veleia-ehu",
@@ -494,7 +494,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 2990
+      "elapsedMs": 3226
     },
     {
       "id": "flv-navarra",
@@ -507,7 +507,7 @@
       "kept": 17,
       "droppedOffTopic": 2,
       "droppedModern": 11,
-      "elapsedMs": 2177
+      "elapsedMs": 2358
     },
     {
       "id": "munibe-aa",
@@ -520,7 +520,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 2341
+      "elapsedMs": 2400
     },
     {
       "id": "trabajos-prehistoria",
@@ -533,7 +533,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 2157
+      "elapsedMs": 2417
     },
     {
       "id": "openalex-archaeology",
@@ -546,10 +546,27 @@
       "kept": 13,
       "droppedOffTopic": 12,
       "droppedModern": 5,
-      "elapsedMs": 2106
+      "elapsedMs": 2290
     }
   ],
   "items": [
+    {
+      "id": "aranzadi-bsky:https://bsky.app/profile/aranzadi.bsky.social/post/3mkinpusdaw2w",
+      "title": "",
+      "summary": "🏺⛏️ Indusketa arkeologiko batean parte hartu nahi duzu? 2026an Aranzadik berriz ekingo die indusketei: haitzuloak, trikuharriak, gazteluak eta antzinako kokalekuak. 🔍 Iragana ezagutzeko eta dokumentatzeko aukera 🤝 Zientzialari eta boluntarioekin elkarlanean",
+      "url": "https://bsky.app/profile/aranzadi.bsky.social/post/3mkinpusdaw2w",
+      "image": null,
+      "publishedAt": "2026-04-27T18:02:00.000Z",
+      "source": {
+        "id": "aranzadi-bsky",
+        "name": "Aranzadi (Bluesky)"
+      },
+      "lang": "eu",
+      "region": "basque",
+      "topics": [
+        "asia"
+      ]
+    },
     {
       "id": "stilearte:https://www.stilearte.it/scoperto-uomo-d-oro-taskopa-kazakistan-sepoltura-elite-nomadi/",
       "title": "Brillano gioielli nel terreno. Un uomo d’oro e un cavallo di 2400 anni fa. La scoperta sotto un tumulo. Chi era il cavaliere. Il volo di farfalle",
@@ -8118,6 +8135,137 @@
       "topics": []
     },
     {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/el-debate-que-revela-como-funcionaba-el-imperio-romano-en-sus-fronteras-era-poncio-pilato-procurador-o-prefecto",
+      "title": "El debate que revela cómo funcionaba el Imperio Romano en sus fronteras: ¿era Poncio Pilato procurador o prefecto?",
+      "summary": "La figura de Poncio Pilato, el gobernador romano de Judea que juzgó a Jesucristo, ha sido objeto de interés durante siglos. Pero más allá de su papel en los evangelios, los historiadores han discutido intensamente sobre algo que parece menor pero que es clave para entender su…",
+      "url": "https://www.labrujulaverde.com/2026/04/el-debate-que-revela-como-funcionaba-el-imperio-romano-en-sus-fronteras-era-poncio-pilato-procurador-o-prefecto",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/Pontius_Pilate_Inscription.webp",
+      "publishedAt": "2026-04-27T16:29:31.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/04/260427050554.htm",
+      "title": "This tiny mammal survived the dinosaur apocalypse and changed life on Earth",
+      "summary": "A newly discovered prehistoric mammal may hold clues to how life survived the dinosaur-killing extinction. The tiny species, Cimolodon desosai, lived 75 million years ago and had traits—like a small body and varied diet—that likely boosted survival odds. Found in Baja…",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260427050554.htm",
+      "image": null,
+      "publishedAt": "2026-04-27T14:58:35.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "naiz:https://www.naiz.eus/eu/gaiak/noticia/20260427/pompeya-reconstruye-con-inteligencia-artificial-la-huida-de-una-victima-del-vesubio",
+      "title": "Pompeya reconstruye con inteligencia artificial la huida de una víctima del Vesubio",
+      "summary": "",
+      "url": "https://www.naiz.eus/eu/gaiak/noticia/20260427/pompeya-reconstruye-con-inteligencia-artificial-la-huida-de-una-victima-del-vesubio",
+      "image": "https://www.naiz.eus/media/asset_publics/resources/001/332/475/news_landscape/Foto_Vittime_San_Paolino_e_ricostruzione_IA_%2812%29.jpg",
+      "publishedAt": "2026-04-27T14:49:00.000Z",
+      "source": {
+        "id": "naiz",
+        "name": "Naiz"
+      },
+      "lang": "eu",
+      "region": "basque",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/reconstruyen-la-huida-de-un-hombre-que-intento-protegerse-de-la-erupcion-del-vesubio-con-un-mortero-en-pompeya",
+      "title": "Reconstruyen la huida de un hombre que intentó protegerse de la erupción del Vesubio con un mortero en Pompeya",
+      "summary": "El Parque Arqueológico de Pompeya ha presentado una reconstrucción digital generada con herramientas de inteligencia artificial en colaboración con el Laboratorio Digital Cultural Heritage de la Universidad de Padua. Se trata de la primera vez que la institución emplea este tipo…",
+      "url": "https://www.labrujulaverde.com/2026/04/reconstruyen-la-huida-de-un-hombre-que-intento-protegerse-de-la-erupcion-del-vesubio-con-un-mortero-en-pompeya",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/Foto-Vittime-San-Paolino-e-ricostruzione-IA-12.webp",
+      "publishedAt": "2026-04-27T11:57:33.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/pompei-intelligenza-artificiale-vittima-eruzione-vesuvio/",
+      "title": "Struggente. Pompei. «Fuggiva con un mortaio sul capo, una lucerna in mano, e dieci monete: portava ciò che gli sembrava utile per orientarsi nel buio». Per la prima volta il Parco archeologico usa l’intelligenza artificiale per ricostruire il dramma. Cosa è emerso?",
+      "summary": "Un uomo corre nella cenere. Non vede quasi nulla. L’aria è densa, opaca, irrespirabile. Sopra la testa, invece di un elmo, stringe un mortaio di terracotta. Nella mano, una lucerna. In tasca, poche monete. Non è un guerriero, non è un eroe. È un abitante di Pompei che tenta di…",
+      "url": "https://www.stilearte.it/pompei-intelligenza-artificiale-vittima-eruzione-vesuvio/",
+      "image": null,
+      "publishedAt": "2026-04-27T09:58:10.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/urna-impronte-pece-andrup-danimarca-eta-del-bronzo/",
+      "title": "Fai la nanna, piccolino. Pece con impronte digitali scoperta attorno all’urna di un bambino dell’Età del bronzo. Coperchio sigillato e piccoli doni. Perchè?",
+      "summary": "Nel nord della Danimarca, in un contesto paesaggistico oggi dominato da campi coltivati e interventi di riforestazione, un’indagine archeologica preventiva condotta dagli specialisti del Nordjyske Museer ha restituto un contesto antico, in cui appare intenso l’amore della…",
+      "url": "https://www.stilearte.it/urna-impronte-pece-andrup-danimarca-eta-del-bronzo/",
+      "image": null,
+      "publishedAt": "2026-04-27T09:46:40.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/fornace-medievale-sutton-bedfordshire-scoperta-scuola/",
+      "title": "Uno strano piano forato scoperto accanto a una scuola, sotto terra. E’ medievale. E’ dei tempi della Peste nera. A cosa servivano quei buchi?",
+      "summary": "Nel terreno compatto di un giardino scolastico emerge una superficie enigmatica: un piano in argilla cotta, punteggiato da fori circolari disposti con una logica che non è immediatamente leggibile. È un’immagine che interroga. A cosa servivano quelle cavità? Erano alloggiamenti…",
+      "url": "https://www.stilearte.it/fornace-medievale-sutton-bedfordshire-scoperta-scuola/",
+      "image": null,
+      "publishedAt": "2026-04-27T08:26:54.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/la-mayor-isla-dentro-de-un-lago-del-mundo-es-tan-grande-que-en-ella-hay-mas-de-100-lagos",
+      "title": "La mayor isla dentro de un lago del mundo es tan grande que en ella hay más de 100 lagos",
+      "summary": "En el lago Hurón, uno de los cinco Grandes Lagos de Norteamérica, hay una isla tan vasta que contiene en su interior más de un centenar de lagos propios, algunos de los cuales albergan a su vez pequeñas islas. Se trata de la isla Manitoulin, reconocida oficialmente como la mayor…",
+      "url": "https://www.labrujulaverde.com/2026/04/la-mayor-isla-dentro-de-un-lago-del-mundo-es-tan-grande-que-en-ella-hay-mas-de-100-lagos",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/Manitoulin_Island_112_of_125_47993689381.webp",
+      "publishedAt": "2026-04-27T07:59:20.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "amerika"
+      ]
+    },
+    {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002178?dgcid=rss_sd_all",
       "title": "Technological comparison of Middle Bronze Age Late Hatvan and Füzesabony pottery: A case study from northeastern Hungary",
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Ákos Mengyán, Klára P. Fischl, Ferenc Kristály",
@@ -8212,6 +8360,23 @@
       "lang": "it",
       "region": "europe",
       "topics": []
+    },
+    {
+      "id": "bbc-history:https://www.historyextra.com/membership/how-vikings-reshaped-anglo-saxon-england-podcast/",
+      "title": "How the Vikings reshaped Anglo-Saxon England",
+      "summary": "Dr Eleanor Barraclough explores how the Vikings' ninth-century invasion rewrote the future of Anglo-Saxon England",
+      "url": "https://www.historyextra.com/membership/how-vikings-reshaped-anglo-saxon-england-podcast/",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/04/Sunday-Alfred-vs-VikingsWLEp4-fb35d7e.jpg",
+      "publishedAt": "2026-04-26T07:07:54.000Z",
+      "source": {
+        "id": "bbc-history",
+        "name": "BBC History Extra"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa"
+      ]
     },
     {
       "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/una-copa-romana-de-bronce-fabricada-en-el-norte-de-britania-que-nombra-los-fuertes-del-muro-de-adriano-encontrada-en-soria",
