@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-28T04:52:36.762Z",
-  "count": 478,
+  "generatedAt": "2026-04-29T04:48:04.767Z",
+  "count": 491,
   "sources": [
     {
       "id": "noticiasdenavarra",
@@ -13,7 +13,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 692
+      "elapsedMs": 463
     },
     {
       "id": "naiz",
@@ -23,10 +23,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 760
+      "elapsedMs": 658
     },
     {
       "id": "argia-kultura",
@@ -39,7 +39,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 958
+      "elapsedMs": 757
     },
     {
       "id": "eitb-kultura",
@@ -52,7 +52,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 693
+      "elapsedMs": 783
     },
     {
       "id": "berria-bsky",
@@ -65,7 +65,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2307
+      "elapsedMs": 2373
     },
     {
       "id": "aranzadi-bsky",
@@ -78,7 +78,7 @@
       "kept": 7,
       "droppedOffTopic": 23,
       "droppedModern": 0,
-      "elapsedMs": 2315
+      "elapsedMs": 2379
     },
     {
       "id": "vianako-printzea",
@@ -91,7 +91,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 10,
-      "elapsedMs": 1233
+      "elapsedMs": 893
     },
     {
       "id": "labrujulaverde",
@@ -102,9 +102,9 @@
       "ok": true,
       "fetched": 20,
       "kept": 16,
-      "droppedOffTopic": 0,
-      "droppedModern": 4,
-      "elapsedMs": 1426
+      "droppedOffTopic": 1,
+      "droppedModern": 3,
+      "elapsedMs": 1522
     },
     {
       "id": "desperta-ferro",
@@ -117,7 +117,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 4,
-      "elapsedMs": 1068
+      "elapsedMs": 1457
     },
     {
       "id": "elpais-cultura",
@@ -130,7 +130,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1389
+      "elapsedMs": 527
     },
     {
       "id": "lemonde-sciences",
@@ -140,10 +140,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 1,
-      "droppedOffTopic": 19,
+      "kept": 2,
+      "droppedOffTopic": 18,
       "droppedModern": 0,
-      "elapsedMs": 801
+      "elapsedMs": 634
     },
     {
       "id": "lemonde-archeo",
@@ -156,7 +156,7 @@
       "kept": 11,
       "droppedOffTopic": 8,
       "droppedModern": 1,
-      "elapsedMs": 1165
+      "elapsedMs": 978
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -165,11 +165,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 19,
+      "fetched": 21,
       "kept": 10,
       "droppedOffTopic": 9,
-      "droppedModern": 0,
-      "elapsedMs": 1355
+      "droppedModern": 2,
+      "elapsedMs": 1063
     },
     {
       "id": "inrap-bsky",
@@ -178,11 +178,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 23,
+      "fetched": 24,
       "kept": 5,
-      "droppedOffTopic": 16,
+      "droppedOffTopic": 17,
       "droppedModern": 2,
-      "elapsedMs": 2313
+      "elapsedMs": 2371
     },
     {
       "id": "sudouest-culture",
@@ -193,9 +193,9 @@
       "ok": true,
       "fetched": 20,
       "kept": 0,
-      "droppedOffTopic": 19,
-      "droppedModern": 1,
-      "elapsedMs": 1333
+      "droppedOffTopic": 20,
+      "droppedModern": 0,
+      "elapsedMs": 909
     },
     {
       "id": "corriere-cultura",
@@ -208,7 +208,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1570
+      "elapsedMs": 1043
     },
     {
       "id": "archeologiaviva",
@@ -218,10 +218,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 3,
+      "kept": 4,
       "droppedOffTopic": 0,
-      "droppedModern": 7,
-      "elapsedMs": 2181
+      "droppedModern": 6,
+      "elapsedMs": 1613
     },
     {
       "id": "stilearte",
@@ -231,10 +231,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 10,
+      "kept": 9,
       "droppedOffTopic": 0,
-      "droppedModern": 0,
-      "elapsedMs": 1955
+      "droppedModern": 1,
+      "elapsedMs": 1628
     },
     {
       "id": "live-science-arch",
@@ -244,10 +244,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 2,
+      "droppedOffTopic": 28,
       "droppedModern": 0,
-      "elapsedMs": 2144
+      "elapsedMs": 2219
     },
     {
       "id": "bbc-history",
@@ -260,7 +260,7 @@
       "kept": 1,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1907
+      "elapsedMs": 1144
     },
     {
       "id": "sciencedaily-arch",
@@ -270,10 +270,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 14,
-      "droppedOffTopic": 16,
+      "kept": 13,
+      "droppedOffTopic": 17,
       "droppedModern": 0,
-      "elapsedMs": 1674
+      "elapsedMs": 1342
     },
     {
       "id": "ancient-origins",
@@ -281,12 +281,9 @@
       "lang": "en",
       "region": "world",
       "kind": "news",
-      "ok": true,
-      "fetched": 10,
-      "kept": 4,
-      "droppedOffTopic": 5,
-      "droppedModern": 1,
-      "elapsedMs": 1698
+      "ok": false,
+      "error": "Unable to parse XML.",
+      "elapsedMs": 5786
     },
     {
       "id": "guardian-arch",
@@ -299,7 +296,7 @@
       "kept": 11,
       "droppedOffTopic": 6,
       "droppedModern": 3,
-      "elapsedMs": 1856
+      "elapsedMs": 1441
     },
     {
       "id": "current-archaeology",
@@ -312,7 +309,7 @@
       "kept": 23,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1650
+      "elapsedMs": 1176
     },
     {
       "id": "jas-reports",
@@ -323,9 +320,9 @@
       "ok": true,
       "fetched": 30,
       "kept": 9,
-      "droppedOffTopic": 3,
-      "droppedModern": 18,
-      "elapsedMs": 1595
+      "droppedOffTopic": 4,
+      "droppedModern": 17,
+      "elapsedMs": 1262
     },
     {
       "id": "plos-one-arch",
@@ -338,7 +335,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1821
+      "elapsedMs": 1416
     },
     {
       "id": "pnas-arch",
@@ -348,10 +345,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 21,
-      "droppedOffTopic": 7,
+      "kept": 23,
+      "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 2376
+      "elapsedMs": 1930
     },
     {
       "id": "sciencedirect-jas",
@@ -364,7 +361,7 @@
       "kept": 11,
       "droppedOffTopic": 2,
       "droppedModern": 17,
-      "elapsedMs": 1659
+      "elapsedMs": 1235
     },
     {
       "id": "spal-us",
@@ -377,7 +374,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2279
+      "elapsedMs": 2477
     },
     {
       "id": "complutum-ucm",
@@ -385,12 +382,9 @@
       "lang": "es",
       "region": "iberia",
       "kind": "research",
-      "ok": true,
-      "fetched": 14,
-      "kept": 9,
-      "droppedOffTopic": 0,
-      "droppedModern": 5,
-      "elapsedMs": 2524
+      "ok": false,
+      "error": "Request timed out after 15000ms",
+      "elapsedMs": 38191
     },
     {
       "id": "archeoarte",
@@ -403,7 +397,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2379
+      "elapsedMs": 2151
     },
     {
       "id": "cypsela",
@@ -416,7 +410,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2307
+      "elapsedMs": 2146
     },
     {
       "id": "cambridge-antiquity",
@@ -429,7 +423,7 @@
       "kept": 12,
       "droppedOffTopic": 5,
       "droppedModern": 13,
-      "elapsedMs": 2212
+      "elapsedMs": 1881
     },
     {
       "id": "cambridge-caj",
@@ -439,10 +433,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 16,
-      "droppedOffTopic": 8,
+      "kept": 17,
+      "droppedOffTopic": 7,
       "droppedModern": 6,
-      "elapsedMs": 2190
+      "elapsedMs": 1989
     },
     {
       "id": "cambridge-ejarc",
@@ -452,10 +446,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 15,
+      "kept": 14,
       "droppedOffTopic": 5,
-      "droppedModern": 10,
-      "elapsedMs": 2138
+      "droppedModern": 11,
+      "elapsedMs": 1865
     },
     {
       "id": "aquitania-persee",
@@ -468,7 +462,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3638
+      "elapsedMs": 3191
     },
     {
       "id": "cuadernos-arq-unav",
@@ -481,7 +475,7 @@
       "kept": 19,
       "droppedOffTopic": 3,
       "droppedModern": 8,
-      "elapsedMs": 3823
+      "elapsedMs": 3503
     },
     {
       "id": "veleia-ehu",
@@ -494,7 +488,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3226
+      "elapsedMs": 3154
     },
     {
       "id": "flv-navarra",
@@ -507,7 +501,7 @@
       "kept": 17,
       "droppedOffTopic": 2,
       "droppedModern": 11,
-      "elapsedMs": 2358
+      "elapsedMs": 2137
     },
     {
       "id": "munibe-aa",
@@ -520,7 +514,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 2400
+      "elapsedMs": 2288
     },
     {
       "id": "trabajos-prehistoria",
@@ -533,7 +527,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 2417
+      "elapsedMs": 2160
     },
     {
       "id": "openalex-archaeology",
@@ -546,7 +540,7 @@
       "kept": 13,
       "droppedOffTopic": 12,
       "droppedModern": 5,
-      "elapsedMs": 2290
+      "elapsedMs": 2182
     }
   ],
   "items": [
@@ -8135,6 +8129,141 @@
       "topics": []
     },
     {
+      "id": "live-science-arch:https://www.livescience.com/animals/birds/their-greatest-challenge-since-they-stared-down-the-asteroid-paleontologist-steve-brusatte-on-why-birds-are-facing-their-biggest-existential-threat-since-the-dino-killing-asteroid",
+      "title": "'Their greatest challenge since they stared down the asteroid': Paleontologist Steve Brusatte on why birds are facing their biggest existential threat since the dino-killing asteroid",
+      "summary": "In a new book, paleontologist Steve Brustatte tells the wild story of how birds evolved during the Jurassic and took to the skies, surviving the asteroid strike that killed their fellow dinosaurs.",
+      "url": "https://www.livescience.com/animals/birds/their-greatest-challenge-since-they-stared-down-the-asteroid-paleontologist-steve-brusatte-on-why-birds-are-facing-their-biggest-existential-threat-since-the-dino-killing-asteroid",
+      "image": "https://cdn.mos.cms.futurecdn.net/on43bKdWEpnfevvzqfxjq7-1280-80.jpg",
+      "publishedAt": "2026-04-28T17:33:11.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/descubren-que-una-complicada-tecnica-constructiva-que-se-creia-romana-ya-se-usaba-8000-anos-antes-en-el-yacimiento-neolitico-de-motza",
+      "title": "Descubren que una complicada técnica constructiva que se creía romana ya se usaba 8000 años antes en el yacimiento neolítico de Motza",
+      "summary": "Hace unos 10.000 años, mucho antes de que los romanos pisaran Tierra Santa, los pobladores del asentamiento neolítico de Motza ya estaban construyendo sus casas con pisos de yeso de una calidad y resistencia excepcionales. Pero lo que ha sorprendido a los investigadores no es…",
+      "url": "https://www.labrujulaverde.com/2026/04/descubren-que-una-complicada-tecnica-constructiva-que-se-creia-romana-ya-se-usaba-8000-anos-antes-en-el-yacimiento-neolitico-de-motza",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/1-s2.0-labrujulaverde.com-S0305440326000877-gr1_lrg-copia.webp",
+      "publishedAt": "2026-04-28T15:31:44.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/animals/dinosaurs/he-began-to-cry-and-almost-fell-to-the-floor-the-fluffy-fossil-that-finally-showed-the-world-that-birds-are-dinosaurs",
+      "title": "'He began to cry, and almost fell to the floor': The fluffy fossil that finally showed the world that birds are dinosaurs",
+      "summary": "In this excerpt from \"The Story of Birds\", author Steve Brusatte explores the moment where paleontologists realized they had critical evidence to show birds came from dinosaurs — a fluffy fossil from China.",
+      "url": "https://www.livescience.com/animals/dinosaurs/he-began-to-cry-and-almost-fell-to-the-floor-the-fluffy-fossil-that-finally-showed-the-world-that-birds-are-dinosaurs",
+      "image": "https://cdn.mos.cms.futurecdn.net/X6iomE9sZY5ANoaAJuE28S-1280-80.jpg",
+      "publishedAt": "2026-04-28T13:04:28.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "asia"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/liburni-ljubacka-kosa-necropoli-scavi/",
+      "title": "Scavano sulla cima di una collina rimasta in gran parte inesplorata. Sulla costa adriatica gli archeologi scoprono una comunità di 2.000 anni fa. Chi viveva in questo luogo silenzioso?",
+      "summary": "Per lungo tempo è rimasta una presenza muta nel paesaggio, una collina affacciata sull’Adriatico settentrionale, in un punto in cui il mare sembra insinuarsi nella terra come una lama lenta e costante. Il territorio è quello tipico delle piccole alture costiere, con vegetazione…",
+      "url": "https://www.stilearte.it/liburni-ljubacka-kosa-necropoli-scavi/",
+      "image": null,
+      "publishedAt": "2026-04-28T10:29:08.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/descubren-un-asentamiento-maya-con-80-edificios-bovedas-y-pintura-mural-en-quintana-roo",
+      "title": "Descubren un asentamiento maya con 80 edificios, bóvedas y pintura mural oculto bajo un montículo en Quintana Roo",
+      "summary": "El descubrimiento del sitio arqueológico denominado El Jefeciño, localizado en el municipio Othón P. Blanco, Quintana Roo, se produjo a raíz de un reporte ciudadano que alertó sobre la presencia de vestigios prehispánicos en la región. El Instituto Nacional de Antropología e…",
+      "url": "https://www.labrujulaverde.com/2026/04/descubren-un-asentamiento-maya-con-80-edificios-bovedas-y-pintura-mural-en-quintana-roo",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/foto1-1.webp",
+      "publishedAt": "2026-04-28T08:52:49.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "amerika",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "archeologiaviva:https://www.archeologiaviva.it/25320/fuga-da-pompei-lia-racconta/",
+      "title": "Fuga da Pompei: l’IA racconta…",
+      "summary": "Un giovane uomo morto durante l’eruzione del Vesuvio del 79 d.C. “rivive” oggi grazie all’Intelligenza Artificiale. Per la prima volta, il Parco Archeologico di Pompei ha utilizzato infatti la nuova rivoluzionaria tecnologia, in collaborazione con l’Università degli Studi di…",
+      "url": "https://www.archeologiaviva.it/25320/fuga-da-pompei-lia-racconta/",
+      "image": "https://www.archeologiaviva.it/wp-content/uploads/2026/04/Foto-Vittime-San-Paolino-e-ricostruzione-IA-3-300x203.jpg",
+      "publishedAt": "2026-04-28T08:16:08.000Z",
+      "source": {
+        "id": "archeologiaviva",
+        "name": "Archeologia Viva"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "lemonde-sciences:https://www.lemonde.fr/idees/article/2026/04/28/la-politique-de-sante-sur-l-endometriose-ne-peut-se-resumer-a-la-mise-a-disposition-d-un-test_6683886_3232.html",
+      "title": "« La politique de santé sur l’endométriose ne peut se résumer à la mise à disposition d’un test »",
+      "summary": "Dans une tribune au « Monde », un collectif de médecins dénonce l’absence d’une stratégie nationale, finançant la recherche, la formation de soignants et un maillage territorial adapté à cette pathologie.",
+      "url": "https://www.lemonde.fr/idees/article/2026/04/28/la-politique-de-sante-sur-l-endometriose-ne-peut-se-resumer-a-la-mise-a-disposition-d-un-test_6683886_3232.html",
+      "image": "https://img.lemde.fr/2023/03/29/359/0/4253/2126/644/322/60/0/2d85c17_1680106845701-le-monde-tribune-def-01.jpg",
+      "publishedAt": "2026-04-28T06:59:50.000Z",
+      "source": {
+        "id": "lemonde-sciences",
+        "name": "Le Monde — Sciences"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": [
+        "ekialde-hurbila"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/tesoro-monete-romane-bracciali-daci-darabani-botosani/",
+      "title": "Nel bosco. Scoperta. 574 monete d’argento romane. sei bracciali, due anelli, una fibula, una fibbia, una psalia in bronzo e un contenitore per libagioni. Chi nascose questi oggetti? Cosa dicono le date delle monete?",
+      "summary": "La scoperta di un tesoro monetale e ornamentale nella Romania settentrionale riporta l’attenzione su un’area marginale rispetto al cuore della Dacia romana, ma tutt’altro che periferica nei processi storici di lunga durata. Il rinvenimento è avvenuto nei pressi di Darabani,…",
+      "url": "https://www.stilearte.it/tesoro-monete-romane-bracciali-daci-darabani-botosani/",
+      "image": null,
+      "publishedAt": "2026-04-28T06:05:31.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "basque",
+      "topics": [
+        "erromatarrak",
+        "iberiarrak"
+      ]
+    },
+    {
       "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/el-debate-que-revela-como-funcionaba-el-imperio-romano-en-sus-fronteras-era-poncio-pilato-procurador-o-prefecto",
       "title": "El debate que revela cómo funcionaba el Imperio Romano en sus fronteras: ¿era Poncio Pilato procurador o prefecto?",
       "summary": "La figura de Poncio Pilato, el gobernador romano de Judea que juzgó a Jesucristo, ha sido objeto de interés durante siglos. Pero más allá de su papel en los evangelios, los historiadores han discutido intensamente sobre algo que parece menor pero que es clave para entender su…",
@@ -8296,6 +8425,59 @@
       "lang": "fr",
       "region": "europe",
       "topics": []
+    },
+    {
+      "id": "pnas-arch:https://openalex.org/W7155897983",
+      "title": "Holocene Nile dynamics shaped the physical and cultural landscape of ancient Nubia",
+      "summary": "The Nile River played a central role in ancient civilizations of Northeast Africa, yet its response to Holocene climate change and its impact on societies along its course remain poorly understood. Here we show how climatic and environmental changes over the past 12,500 y shaped…",
+      "url": "https://doi.org/10.1073/pnas.2529986123",
+      "image": null,
+      "publishedAt": "2026-04-27T00:00:00.000Z",
+      "source": {
+        "id": "pnas-arch",
+        "name": "PNAS — Arkeologia"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "egiptoarrak"
+      ]
+    },
+    {
+      "id": "pnas-arch:https://openalex.org/W7155769382",
+      "title": "An independent center for the origin of bread wheat in the Neolithic period of Georgia in the South Caucasus",
+      "summary": "Bread wheat ( Triticum aestivum L.) is the most popular wheat species in the world today. However, studies on the domestication of wheat have rarely focused on the evolution of this specific species of Triticum . The discussions that have emerged have focused on the evolution of…",
+      "url": "https://doi.org/10.1073/pnas.2537697123",
+      "image": null,
+      "publishedAt": "2026-04-27T00:00:00.000Z",
+      "source": {
+        "id": "pnas-arch",
+        "name": "PNAS — Arkeologia"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "cambridge-caj:https://openalex.org/W7156372850",
+      "title": "Thinking Through Tradition: Continuity, Architecture, and the Material Grounds of Transformation in the Central Andes and Angkorian Cambodia",
+      "summary": "Abstract In this paper, we reconsider the relationship between continuity and change in archaeology by arguing that material continuities do not necessarily imply conservatism or resistance to change but function as precondition for transformation. Drawing on Deleuze and…",
+      "url": "https://doi.org/10.1017/s0959774325100358",
+      "image": null,
+      "publishedAt": "2026-04-27T00:00:00.000Z",
+      "source": {
+        "id": "cambridge-caj",
+        "name": "Cambridge Archaeological Journal"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "amerika",
+        "asia"
+      ]
     },
     {
       "id": "ansa-cultura:https://www.ansa.it/sito/notizie/cultura/2026/04/26/fondazione-la-fenice-annullate-tutte-le-collaborazioni-con-venezi-_0d38fd5a-10f3-4e26-bc9b-c5759ffd9443.html",
@@ -8470,6 +8652,38 @@
       },
       "lang": "fr",
       "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "pnas-arch:https://openalex.org/W4416590056",
+      "title": "Gray wolves in an anthropogenic context on a small island in prehistoric Scandinavia",
+      "summary": "N) reveals a diet rich in marine protein, which is consistent with habitation alongside the human groups who used Stora Karlsö as a seal-hunting, fowling, and sea fishing station, and in the Bronze Age probably also for grazing. Skeletal size is at the lower end of wolf…",
+      "url": "https://doi.org/10.1073/pnas.2421759122",
+      "image": null,
+      "publishedAt": "2025-11-24T00:00:00.000Z",
+      "source": {
+        "id": "pnas-arch",
+        "name": "PNAS — Arkeologia"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "pnas-arch:https://openalex.org/W4414195109",
+      "title": "High-resolution tephrochronology resolves stratigraphic complexities in archaeologically significant Nariokotome tuffs, Turkana Basin",
+      "summary": "Ar geochronology and grain-specific major- and trace-element geochemistry, to establish a well-characterized geochemical and geochronological framework for the Nariokotome tuffs. Utilizing a modern-generation mass-spectrometer, we report distinct ages for the Upper Nariokotome…",
+      "url": "https://doi.org/10.1073/pnas.2424142122",
+      "image": null,
+      "publishedAt": "2025-09-15T00:00:00.000Z",
+      "source": {
+        "id": "pnas-arch",
+        "name": "PNAS — Arkeologia"
+      },
+      "lang": "en",
+      "region": "world",
       "topics": []
     }
   ]
