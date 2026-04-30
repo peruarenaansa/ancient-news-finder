@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-29T04:48:04.767Z",
-  "count": 491,
+  "generatedAt": "2026-04-30T04:51:15.107Z",
+  "count": 500,
   "sources": [
     {
       "id": "noticiasdenavarra",
@@ -13,7 +13,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 463
+      "elapsedMs": 769
     },
     {
       "id": "naiz",
@@ -26,7 +26,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 658
+      "elapsedMs": 597
     },
     {
       "id": "argia-kultura",
@@ -39,7 +39,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 757
+      "elapsedMs": 807
     },
     {
       "id": "eitb-kultura",
@@ -52,7 +52,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 783
+      "elapsedMs": 610
     },
     {
       "id": "berria-bsky",
@@ -65,7 +65,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2373
+      "elapsedMs": 2932
     },
     {
       "id": "aranzadi-bsky",
@@ -78,7 +78,7 @@
       "kept": 7,
       "droppedOffTopic": 23,
       "droppedModern": 0,
-      "elapsedMs": 2379
+      "elapsedMs": 3003
     },
     {
       "id": "vianako-printzea",
@@ -91,7 +91,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 10,
-      "elapsedMs": 893
+      "elapsedMs": 954
     },
     {
       "id": "labrujulaverde",
@@ -101,10 +101,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 16,
-      "droppedOffTopic": 1,
-      "droppedModern": 3,
-      "elapsedMs": 1522
+      "kept": 17,
+      "droppedOffTopic": 2,
+      "droppedModern": 1,
+      "elapsedMs": 1566
     },
     {
       "id": "desperta-ferro",
@@ -117,7 +117,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 4,
-      "elapsedMs": 1457
+      "elapsedMs": 1354
     },
     {
       "id": "elpais-cultura",
@@ -130,7 +130,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 527
+      "elapsedMs": 1308
     },
     {
       "id": "lemonde-sciences",
@@ -143,7 +143,7 @@
       "kept": 2,
       "droppedOffTopic": 18,
       "droppedModern": 0,
-      "elapsedMs": 634
+      "elapsedMs": 857
     },
     {
       "id": "lemonde-archeo",
@@ -156,7 +156,7 @@
       "kept": 11,
       "droppedOffTopic": 8,
       "droppedModern": 1,
-      "elapsedMs": 978
+      "elapsedMs": 852
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -166,10 +166,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 21,
-      "kept": 10,
-      "droppedOffTopic": 9,
+      "kept": 9,
+      "droppedOffTopic": 10,
       "droppedModern": 2,
-      "elapsedMs": 1063
+      "elapsedMs": 1190
     },
     {
       "id": "inrap-bsky",
@@ -182,7 +182,7 @@
       "kept": 5,
       "droppedOffTopic": 17,
       "droppedModern": 2,
-      "elapsedMs": 2371
+      "elapsedMs": 3071
     },
     {
       "id": "sudouest-culture",
@@ -192,10 +192,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 0,
-      "droppedOffTopic": 20,
+      "kept": 1,
+      "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 909
+      "elapsedMs": 1142
     },
     {
       "id": "corriere-cultura",
@@ -208,7 +208,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1043
+      "elapsedMs": 5975
     },
     {
       "id": "archeologiaviva",
@@ -218,10 +218,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 4,
+      "kept": 2,
       "droppedOffTopic": 0,
-      "droppedModern": 6,
-      "elapsedMs": 1613
+      "droppedModern": 8,
+      "elapsedMs": 1747
     },
     {
       "id": "stilearte",
@@ -231,10 +231,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 9,
-      "droppedOffTopic": 0,
+      "kept": 8,
+      "droppedOffTopic": 1,
       "droppedModern": 1,
-      "elapsedMs": 1628
+      "elapsedMs": 1885
     },
     {
       "id": "live-science-arch",
@@ -244,10 +244,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 2,
-      "droppedOffTopic": 28,
+      "kept": 3,
+      "droppedOffTopic": 27,
       "droppedModern": 0,
-      "elapsedMs": 2219
+      "elapsedMs": 2919
     },
     {
       "id": "bbc-history",
@@ -257,10 +257,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 1,
-      "droppedOffTopic": 9,
+      "kept": 0,
+      "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1144
+      "elapsedMs": 1429
     },
     {
       "id": "sciencedaily-arch",
@@ -273,7 +273,7 @@
       "kept": 13,
       "droppedOffTopic": 17,
       "droppedModern": 0,
-      "elapsedMs": 1342
+      "elapsedMs": 1528
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kind": "news",
       "ok": false,
       "error": "Unable to parse XML.",
-      "elapsedMs": 5786
+      "elapsedMs": 6145
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 11,
       "droppedOffTopic": 6,
       "droppedModern": 3,
-      "elapsedMs": 1441
+      "elapsedMs": 1879
     },
     {
       "id": "current-archaeology",
@@ -309,7 +309,7 @@
       "kept": 23,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1176
+      "elapsedMs": 1609
     },
     {
       "id": "jas-reports",
@@ -319,10 +319,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 9,
+      "kept": 8,
       "droppedOffTopic": 4,
-      "droppedModern": 17,
-      "elapsedMs": 1262
+      "droppedModern": 18,
+      "elapsedMs": 1622
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +335,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1416
+      "elapsedMs": 1691
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 23,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1930
+      "elapsedMs": 2382
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +361,7 @@
       "kept": 11,
       "droppedOffTopic": 2,
       "droppedModern": 17,
-      "elapsedMs": 1235
+      "elapsedMs": 1803
     },
     {
       "id": "spal-us",
@@ -374,7 +374,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2477
+      "elapsedMs": 2643
     },
     {
       "id": "complutum-ucm",
@@ -382,9 +382,12 @@
       "lang": "es",
       "region": "iberia",
       "kind": "research",
-      "ok": false,
-      "error": "Request timed out after 15000ms",
-      "elapsedMs": 38191
+      "ok": true,
+      "fetched": 14,
+      "kept": 9,
+      "droppedOffTopic": 0,
+      "droppedModern": 5,
+      "elapsedMs": 2871
     },
     {
       "id": "archeoarte",
@@ -397,7 +400,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2151
+      "elapsedMs": 2610
     },
     {
       "id": "cypsela",
@@ -410,7 +413,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2146
+      "elapsedMs": 2575
     },
     {
       "id": "cambridge-antiquity",
@@ -420,10 +423,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 12,
+      "kept": 11,
       "droppedOffTopic": 5,
-      "droppedModern": 13,
-      "elapsedMs": 1881
+      "droppedModern": 14,
+      "elapsedMs": 2507
     },
     {
       "id": "cambridge-caj",
@@ -436,7 +439,7 @@
       "kept": 17,
       "droppedOffTopic": 7,
       "droppedModern": 6,
-      "elapsedMs": 1989
+      "elapsedMs": 2859
     },
     {
       "id": "cambridge-ejarc",
@@ -449,7 +452,7 @@
       "kept": 14,
       "droppedOffTopic": 5,
       "droppedModern": 11,
-      "elapsedMs": 1865
+      "elapsedMs": 2474
     },
     {
       "id": "aquitania-persee",
@@ -462,7 +465,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3191
+      "elapsedMs": 4081
     },
     {
       "id": "cuadernos-arq-unav",
@@ -475,7 +478,7 @@
       "kept": 19,
       "droppedOffTopic": 3,
       "droppedModern": 8,
-      "elapsedMs": 3503
+      "elapsedMs": 4264
     },
     {
       "id": "veleia-ehu",
@@ -488,7 +491,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3154
+      "elapsedMs": 3734
     },
     {
       "id": "flv-navarra",
@@ -501,7 +504,7 @@
       "kept": 17,
       "droppedOffTopic": 2,
       "droppedModern": 11,
-      "elapsedMs": 2137
+      "elapsedMs": 2727
     },
     {
       "id": "munibe-aa",
@@ -514,7 +517,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 2288
+      "elapsedMs": 2763
     },
     {
       "id": "trabajos-prehistoria",
@@ -527,7 +530,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 2160
+      "elapsedMs": 2775
     },
     {
       "id": "openalex-archaeology",
@@ -537,13 +540,30 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 13,
+      "kept": 14,
       "droppedOffTopic": 12,
-      "droppedModern": 5,
-      "elapsedMs": 2182
+      "droppedModern": 4,
+      "elapsedMs": 2830
     }
   ],
   "items": [
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7156801681",
+      "title": "A Bioarchaeological Understanding of the Lifecycle Identity and Lived Experiences of Children During the Early Medieval Period in Southeast England",
+      "summary": "Research Context: Children have been systematically under-researched in Anglo-Saxon archaeology due to low burial representation and methodological challenges. This research addresses gaps in understanding childhood experiences in early medieval communities within the East…",
+      "url": "https://doi.org/10.17030/uclan.thesis.00059168",
+      "image": null,
+      "publishedAt": "2029-01-01T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "erdi-aroa"
+      ]
+    },
     {
       "id": "aranzadi-bsky:https://bsky.app/profile/aranzadi.bsky.social/post/3mkinpusdaw2w",
       "title": "",
@@ -8129,6 +8149,170 @@
       "topics": []
     },
     {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/human-evolution/we-can-no-longer-ignore-diseases-in-the-deep-human-past-malaria-influenced-early-humans-migrations-across-africa-study-suggests",
+      "title": "'We can no longer ignore diseases in the deep human past': Malaria influenced early humans' migrations across Africa, study suggests",
+      "summary": "Prehistoric humans in Africa may have avoided areas infested with malaria-spreading mosquitoes, a new study suggests.",
+      "url": "https://www.livescience.com/archaeology/human-evolution/we-can-no-longer-ignore-diseases-in-the-deep-human-past-malaria-influenced-early-humans-migrations-across-africa-study-suggests",
+      "image": "https://cdn.mos.cms.futurecdn.net/eVXZsuWZxPnDEJZA5E7vnJ-1280-80.jpg",
+      "publishedAt": "2026-04-29T18:41:23.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "sudouest-culture:https://www.sudouest.fr/tourisme/patrimoine/patrimoine-oeuvres-d-art-vestiges-archeologiques-l-italie-recupere-plus-de-300-oeuvres-d-art-pillees-aux-etats-unis-28874461.php",
+      "title": "Patrimoine : œuvres d’art, vestiges archéologiques… L’Italie récupère plus de 300 œuvres d’art pillées aux États-Unis",
+      "summary": "Plus de 300 objets culturels, dont des vestiges archéologiques et des œuvres d’art, ont été rapatriés en Italie après avoir été dérobés et introduits sur le marché international",
+      "url": "https://www.sudouest.fr/tourisme/patrimoine/patrimoine-oeuvres-d-art-vestiges-archeologiques-l-italie-recupere-plus-de-300-oeuvres-d-art-pillees-aux-etats-unis-28874461.php",
+      "image": null,
+      "publishedAt": "2026-04-29T17:06:06.000Z",
+      "source": {
+        "id": "sudouest-culture",
+        "name": "Sud Ouest — Culture"
+      },
+      "lang": "fr",
+      "region": "basque",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/una-fosa-de-hace-7000-anos-revela-la-caza-de-al-menos-doce-castores-para-la-obtencion-de-pieles-en-el-neolitico",
+      "title": "Una fosa de hace 7000 años revela la caza de al menos doce castores para la obtención de pieles en el Neolítico",
+      "summary": "En el transcurso de los trabajos previos a la construcción de la conexión de corriente continua SuedOstLink, y en estrecha coordinación con el operador de la red de transporte 50Hertz, la Oficina Estatal de Conservación de Monumentos y Arqueología (LDA) de Sajonia-Anhalt…",
+      "url": "https://www.labrujulaverde.com/2026/04/una-fosa-de-hace-7000-anos-revela-la-caza-de-al-menos-doce-castores-para-la-obtencion-de-pieles-en-el-neolitico",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/2026_05_fumo_3.webp",
+      "publishedAt": "2026-04-29T15:21:49.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/monedas-acunadas-en-inglaterra-para-detener-las-incursiones-vikingas-les-gustaron-tanto-a-los-vikingos-que-acabaron-usandolas-como-colgantes",
+      "title": "Monedas acuñadas en Inglaterra para detener las incursiones vikingas les gustaron tanto a los vikingos que acabaron usándolas como colgantes",
+      "summary": "Dos monedas inglesas de extraordinaria rareza, fabricadas a comienzos del siglo XI con la intención explícita de detener las incursiones vikingas mediante la intervención divina, han aparecido en sendos puntos de Dinamarca convertidas en adornos personales de aquellos a quienes…",
+      "url": "https://www.labrujulaverde.com/2026/04/monedas-acunadas-en-inglaterra-para-detener-las-incursiones-vikingas-les-gustaron-tanto-a-los-vikingos-que-acabaron-usandolas-como-colgantes",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/Guds-lam-mont-fra-Kastrup_labrujulaverde.com-foto-John-Fhaer-Engedal-Nissen-Nationalmuseet.webp",
+      "publishedAt": "2026-04-29T09:34:28.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erdi-aroa"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/giochi-incisi-pietra-ptoelemais-tavolette-antiche/",
+      "title": "Camminano tra le rovine di un’antica città greca e trovano dei tavolieri misteriosi. Buchi regolari nella pietra scavati oltre 1.000 anni fa che sorprendono gli archeologi. Cosa facevano davvero qui per secoli?",
+      "summary": "All’inizio nessuno ci fa caso. Sembrano segni qualunque, graffi sparsi su pietre antiche consumate dal tempo. Poi qualcosa non torna. Quelle piccole cavità, ripetute con una precisione quasi ossessiva, iniziano a moltiplicarsi tra blocchi crollati e muri dimenticati. Non sono…",
+      "url": "https://www.stilearte.it/giochi-incisi-pietra-ptoelemais-tavolette-antiche/",
+      "image": null,
+      "publishedAt": "2026-04-29T09:14:15.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "greziarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/come-scoprire-ruderi-nascosti-di-castelli-sconosciuti/",
+      "title": "Come scoprire ruderi nascosti di antichi castelli restando al computer. Studiosi giapponesi indicano il metodo che stabilisce l’intervento umano tra rocce e crinali. Come fare? Ecco le risposte",
+      "summary": "Una linea di cresta, apparentemente naturale, può celare un’architettura invisibile: superfici modellate, scarpate ritagliate, piani artificiali costruiti secoli fa per esigenze difensive. Nel paesaggio montano del Giappone occidentale, queste trasformazioni si sono fuse con la…",
+      "url": "https://www.stilearte.it/come-scoprire-ruderi-nascosti-di-castelli-sconosciuti/",
+      "image": null,
+      "publishedAt": "2026-04-29T08:09:17.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/el-enigma-de-munigua-la-espectacular-ciudad-romana-que-posee-el-mayor-santuario-en-terraza-fuera-de-italia",
+      "title": "El enigma de Munigua, la espectacular ciudad romana que posee el mayor santuario en terraza fuera de Italia",
+      "summary": "Durante más de sesenta años, un equipo del Instituto Arqueológico Alemán ha desenterrado en la Sierra Norte de Sevilla, ocho kilómetros al norte de Villanueva del Río y Minas, los restos de un municipio que deslumbró en el siglo II y después se apagó lentamente, sin violencia,…",
+      "url": "https://www.labrujulaverde.com/2026/04/el-enigma-de-munigua-la-espectacular-ciudad-romana-que-posee-el-mayor-santuario-en-terraza-fuera-de-italia",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/Munigua-Luftaufnahme-1-1024x686-2.webp",
+      "publishedAt": "2026-04-29T07:50:22.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "archeologiaviva:https://www.archeologiaviva.it/25374/tell-muhammad/",
+      "title": "Tell Muhammad: ecco la Mesopotamia antica",
+      "summary": "Archeologia Viva n. 237 – maggio/giugno 2026 pp. 36-47 di Nicola Laneri, Chiara Pappalardo, Rachele C. Mammana, Alice Mendola, Aurora Borgesi Una finestra sulla Terra fra i due Fiumi ai tempi di Hammurabi: alla periferia di Baghdad un team di archeologi italiani e iracheni…",
+      "url": "https://www.archeologiaviva.it/25374/tell-muhammad/",
+      "image": null,
+      "publishedAt": "2026-04-29T07:34:07.000Z",
+      "source": {
+        "id": "archeologiaviva",
+        "name": "Archeologia Viva"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "ekialde-hurbila"
+      ]
+    },
+    {
+      "id": "archeologiaviva:https://www.archeologiaviva.it/25368/scrivere-per-immagini/",
+      "title": "Scrivere per immagini: fotogrammi dal mondo antico",
+      "summary": "Archeologia Viva n. 237 – maggio/giugno 2026 pp. 72-76 di Mohamed Hassine & Mounir Fantar a cura di Umberto Pappalardo Da sinistra a destra o da destra verso sinistra? Le modalità di scrittura condizionano anche il linguaggio figurato: ecco due esempi dal mondo dei Greci e da…",
+      "url": "https://www.archeologiaviva.it/25368/scrivere-per-immagini/",
+      "image": null,
+      "publishedAt": "2026-04-29T07:15:03.000Z",
+      "source": {
+        "id": "archeologiaviva",
+        "name": "Archeologia Viva"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "greziarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/spilla-oro-danimarca-vi-secolo-ritrovamento-fibula-germanica/",
+      "title": "Ma è splendida. Crede che sia un foglio metallico, ma nel prato trova un gioiello prezioso del VI secolo. Chi produsse questo gorgheggio d’oro? Cosa rappresentava? Come fu prodotto?",
+      "summary": "Un piccolo oggetto allungato, appena oltre i quattro centimetri, emerge dal terreno con una superficie compatta e densamente ornata. La struttura appare solida, articolata in segmenti che suggeriscono una funzione di chiusura, mentre l’intera pelle metallica è coperta da una…",
+      "url": "https://www.stilearte.it/spilla-oro-danimarca-vi-secolo-ritrovamento-fibula-germanica/",
+      "image": null,
+      "publishedAt": "2026-04-29T07:12:54.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
       "id": "live-science-arch:https://www.livescience.com/animals/birds/their-greatest-challenge-since-they-stared-down-the-asteroid-paleontologist-steve-brusatte-on-why-birds-are-facing-their-biggest-existential-threat-since-the-dino-killing-asteroid",
       "title": "'Their greatest challenge since they stared down the asteroid': Paleontologist Steve Brusatte on why birds are facing their biggest existential threat since the dino-killing asteroid",
       "summary": "In a new book, paleontologist Steve Brustatte tells the wild story of how birds evolved during the Jurassic and took to the skies, surviving the asteroid strike that killed their fellow dinosaurs.",
@@ -8652,38 +8836,6 @@
       },
       "lang": "fr",
       "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "pnas-arch:https://openalex.org/W4416590056",
-      "title": "Gray wolves in an anthropogenic context on a small island in prehistoric Scandinavia",
-      "summary": "N) reveals a diet rich in marine protein, which is consistent with habitation alongside the human groups who used Stora Karlsö as a seal-hunting, fowling, and sea fishing station, and in the Bronze Age probably also for grazing. Skeletal size is at the lower end of wolf…",
-      "url": "https://doi.org/10.1073/pnas.2421759122",
-      "image": null,
-      "publishedAt": "2025-11-24T00:00:00.000Z",
-      "source": {
-        "id": "pnas-arch",
-        "name": "PNAS — Arkeologia"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "pnas-arch:https://openalex.org/W4414195109",
-      "title": "High-resolution tephrochronology resolves stratigraphic complexities in archaeologically significant Nariokotome tuffs, Turkana Basin",
-      "summary": "Ar geochronology and grain-specific major- and trace-element geochemistry, to establish a well-characterized geochemical and geochronological framework for the Nariokotome tuffs. Utilizing a modern-generation mass-spectrometer, we report distinct ages for the Upper Nariokotome…",
-      "url": "https://doi.org/10.1073/pnas.2424142122",
-      "image": null,
-      "publishedAt": "2025-09-15T00:00:00.000Z",
-      "source": {
-        "id": "pnas-arch",
-        "name": "PNAS — Arkeologia"
-      },
-      "lang": "en",
-      "region": "world",
       "topics": []
     }
   ]
