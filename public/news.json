@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T04:56:17.525Z",
+  "generatedAt": "2026-05-05T04:38:15.000Z",
   "count": 500,
   "sources": [
     {
@@ -8,12 +8,9 @@
       "lang": "es",
       "region": "basque",
       "kind": "news",
-      "ok": true,
-      "fetched": 20,
-      "kept": 0,
-      "droppedOffTopic": 20,
-      "droppedModern": 0,
-      "elapsedMs": 551
+      "ok": false,
+      "error": "Status code 406",
+      "elapsedMs": 5095
     },
     {
       "id": "naiz",
@@ -26,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 576
+      "elapsedMs": 601
     },
     {
       "id": "argia-kultura",
@@ -39,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 761
+      "elapsedMs": 714
     },
     {
       "id": "eitb-kultura",
@@ -52,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 783
+      "elapsedMs": 535
     },
     {
       "id": "berria-bsky",
@@ -61,11 +58,11 @@
       "region": "basque",
       "kind": "news",
       "ok": true,
-      "fetched": 30,
+      "fetched": 29,
       "kept": 0,
-      "droppedOffTopic": 30,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2380
+      "elapsedMs": 2083
     },
     {
       "id": "aranzadi-bsky",
@@ -75,10 +72,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 7,
-      "droppedOffTopic": 23,
+      "kept": 8,
+      "droppedOffTopic": 22,
       "droppedModern": 0,
-      "elapsedMs": 2392
+      "elapsedMs": 2117
     },
     {
       "id": "vianako-printzea",
@@ -86,12 +83,9 @@
       "lang": "es",
       "region": "basque",
       "kind": "research",
-      "ok": true,
-      "fetched": 14,
-      "kept": 4,
-      "droppedOffTopic": 0,
-      "droppedModern": 10,
-      "elapsedMs": 961
+      "ok": false,
+      "error": "Request timed out after 15000ms",
+      "elapsedMs": 49505
     },
     {
       "id": "labrujulaverde",
@@ -101,10 +95,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 17,
-      "droppedOffTopic": 2,
-      "droppedModern": 1,
-      "elapsedMs": 1405
+      "kept": 16,
+      "droppedOffTopic": 1,
+      "droppedModern": 3,
+      "elapsedMs": 1263
     },
     {
       "id": "desperta-ferro",
@@ -117,7 +111,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 4,
-      "elapsedMs": 1421
+      "elapsedMs": 1202
     },
     {
       "id": "elpais-cultura",
@@ -130,7 +124,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 681
+      "elapsedMs": 505
     },
     {
       "id": "lemonde-sciences",
@@ -140,10 +134,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 0,
-      "droppedOffTopic": 20,
+      "kept": 1,
+      "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 853
+      "elapsedMs": 524
     },
     {
       "id": "lemonde-archeo",
@@ -156,7 +150,7 @@
       "kept": 11,
       "droppedOffTopic": 8,
       "droppedModern": 1,
-      "elapsedMs": 1369
+      "elapsedMs": 887
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -169,7 +163,7 @@
       "kept": 8,
       "droppedOffTopic": 10,
       "droppedModern": 2,
-      "elapsedMs": 901
+      "elapsedMs": 859
     },
     {
       "id": "inrap-bsky",
@@ -182,7 +176,7 @@
       "kept": 5,
       "droppedOffTopic": 17,
       "droppedModern": 2,
-      "elapsedMs": 2390
+      "elapsedMs": 2156
     },
     {
       "id": "sudouest-culture",
@@ -195,7 +189,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1059
+      "elapsedMs": 949
     },
     {
       "id": "corriere-cultura",
@@ -208,7 +202,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1548
+      "elapsedMs": 1103
     },
     {
       "id": "archeologiaviva",
@@ -221,7 +215,7 @@
       "kept": 2,
       "droppedOffTopic": 0,
       "droppedModern": 8,
-      "elapsedMs": 1651
+      "elapsedMs": 1586
     },
     {
       "id": "stilearte",
@@ -234,7 +228,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 1817
+      "elapsedMs": 1648
     },
     {
       "id": "live-science-arch",
@@ -247,7 +241,7 @@
       "kept": 2,
       "droppedOffTopic": 28,
       "droppedModern": 0,
-      "elapsedMs": 2298
+      "elapsedMs": 2199
     },
     {
       "id": "bbc-history",
@@ -260,7 +254,7 @@
       "kept": 1,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1325
+      "elapsedMs": 1090
     },
     {
       "id": "sciencedaily-arch",
@@ -273,7 +267,7 @@
       "kept": 14,
       "droppedOffTopic": 16,
       "droppedModern": 0,
-      "elapsedMs": 1423
+      "elapsedMs": 1248
     },
     {
       "id": "ancient-origins",
@@ -286,7 +280,7 @@
       "kept": 4,
       "droppedOffTopic": 5,
       "droppedModern": 1,
-      "elapsedMs": 1473
+      "elapsedMs": 1277
     },
     {
       "id": "guardian-arch",
@@ -299,7 +293,7 @@
       "kept": 10,
       "droppedOffTopic": 6,
       "droppedModern": 4,
-      "elapsedMs": 1782
+      "elapsedMs": 1457
     },
     {
       "id": "current-archaeology",
@@ -312,7 +306,7 @@
       "kept": 26,
       "droppedOffTopic": 3,
       "droppedModern": 1,
-      "elapsedMs": 1440
+      "elapsedMs": 1269
     },
     {
       "id": "jas-reports",
@@ -325,7 +319,7 @@
       "kept": 8,
       "droppedOffTopic": 4,
       "droppedModern": 18,
-      "elapsedMs": 1468
+      "elapsedMs": 1221
     },
     {
       "id": "plos-one-arch",
@@ -335,10 +329,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
+      "kept": 0,
       "droppedOffTopic": 29,
-      "droppedModern": 0,
-      "elapsedMs": 1504
+      "droppedModern": 1,
+      "elapsedMs": 1299
     },
     {
       "id": "pnas-arch",
@@ -351,7 +345,7 @@
       "kept": 23,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 2015
+      "elapsedMs": 1947
     },
     {
       "id": "sciencedirect-jas",
@@ -364,7 +358,7 @@
       "kept": 8,
       "droppedOffTopic": 2,
       "droppedModern": 16,
-      "elapsedMs": 1476
+      "elapsedMs": 1255
     },
     {
       "id": "spal-us",
@@ -377,7 +371,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2173
+      "elapsedMs": 2038
     },
     {
       "id": "complutum-ucm",
@@ -390,7 +384,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2487
+      "elapsedMs": 12913
     },
     {
       "id": "archeoarte",
@@ -403,7 +397,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2463
+      "elapsedMs": 2022
     },
     {
       "id": "cypsela",
@@ -416,7 +410,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2315
+      "elapsedMs": 1991
     },
     {
       "id": "cambridge-antiquity",
@@ -429,7 +423,7 @@
       "kept": 11,
       "droppedOffTopic": 5,
       "droppedModern": 14,
-      "elapsedMs": 2150
+      "elapsedMs": 1768
     },
     {
       "id": "cambridge-caj",
@@ -442,7 +436,7 @@
       "kept": 17,
       "droppedOffTopic": 7,
       "droppedModern": 6,
-      "elapsedMs": 2191
+      "elapsedMs": 1857
     },
     {
       "id": "cambridge-ejarc",
@@ -455,7 +449,7 @@
       "kept": 14,
       "droppedOffTopic": 5,
       "droppedModern": 11,
-      "elapsedMs": 2204
+      "elapsedMs": 1814
     },
     {
       "id": "aquitania-persee",
@@ -463,9 +457,12 @@
       "lang": "fr",
       "region": "basque",
       "kind": "research",
-      "ok": false,
-      "error": "Request timed out after 15000ms",
-      "elapsedMs": 49512
+      "ok": true,
+      "fetched": 10,
+      "kept": 10,
+      "droppedOffTopic": 0,
+      "droppedModern": 0,
+      "elapsedMs": 3293
     },
     {
       "id": "cuadernos-arq-unav",
@@ -473,12 +470,9 @@
       "lang": "es",
       "region": "basque",
       "kind": "research",
-      "ok": true,
-      "fetched": 30,
-      "kept": 19,
-      "droppedOffTopic": 3,
-      "droppedModern": 8,
-      "elapsedMs": 3867
+      "ok": false,
+      "error": "Request timed out after 15000ms",
+      "elapsedMs": 49505
     },
     {
       "id": "veleia-ehu",
@@ -491,7 +485,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3349
+      "elapsedMs": 3244
     },
     {
       "id": "flv-navarra",
@@ -504,7 +498,7 @@
       "kept": 17,
       "droppedOffTopic": 2,
       "droppedModern": 11,
-      "elapsedMs": 2367
+      "elapsedMs": 2156
     },
     {
       "id": "munibe-aa",
@@ -517,7 +511,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 2378
+      "elapsedMs": 2025
     },
     {
       "id": "trabajos-prehistoria",
@@ -530,7 +524,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 2394
+      "elapsedMs": 2071
     },
     {
       "id": "openalex-archaeology",
@@ -543,7 +537,7 @@
       "kept": 14,
       "droppedOffTopic": 12,
       "droppedModern": 4,
-      "elapsedMs": 2406
+      "elapsedMs": 2054
     }
   ],
   "items": [
@@ -8234,6 +8228,187 @@
       "topics": []
     },
     {
+      "id": "stilearte:https://www.stilearte.it/venere-romana-bodiam-castle-scoperta-frammento/",
+      "title": "Scavano vicino a un castello e trovano qualcosa di inaspettato. “È il frammento di una statuetta romana”. Cosa ci fa qui?",
+      "summary": "Il terreno restituisce lentamente forme che non si lasciano riconoscere subito. Superfici levigate, curvature precise, dettagli che emergono senza dichiararsi. Nei pressi di un antico castello, in un’area rimasta per lungo tempo ai margini delle ricerche, gli archeologi stanno…",
+      "url": "https://www.stilearte.it/venere-romana-bodiam-castle-scoperta-frammento/",
+      "image": null,
+      "publishedAt": "2026-05-05T04:00:00.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/feature/a-monumental-legacy-aubrey-burl-and-the-stone-circles-of-the-british-isles/",
+      "title": "A monumental legacy: Aubrey Burl and The Stone Circles of the British Isles",
+      "summary": "This year marks a century since the birth of the pioneering prehistorian Aubrey Burl, and the 50th anniversary of the publication of his landmark study The Stone Circles of the British Isles, which is often considered the foundational work on the subject. To reflect these…",
+      "url": "https://the-past.com/feature/a-monumental-legacy-aubrey-burl-and-the-stone-circles-of-the-british-isles/",
+      "image": null,
+      "publishedAt": "2026-05-04T19:00:33.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "aranzadi-bsky:https://bsky.app/profile/aranzadi.bsky.social/post/3ml2ayaonue2z",
+      "title": "",
+      "summary": "🪨 Isturitz eta Oxocelhaya: Europako Historiaurreko aztarnategi nagusietako bat. 📖 300+ orrialdeko monografia, nazioarteko ikerketekin. Arkeologia eta gure ondarea ulertzeko funtsezkoa. 🛍️ Erosi ezazu hemen https://aranzadi.myshopify.com/products/isturitz",
+      "url": "https://bsky.app/profile/aranzadi.bsky.social/post/3ml2ayaonue2z",
+      "image": null,
+      "publishedAt": "2026-05-04T18:02:00.000Z",
+      "source": {
+        "id": "aranzadi-bsky",
+        "name": "Aranzadi (Bluesky)"
+      },
+      "lang": "eu",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "lemonde-sciences:https://www.lemonde.fr/sciences/article/2026/05/04/en-turquie-gobeklitepe-le-nombril-du-monde-n-en-finit-pas-de-fasciner-les-archeologues_6685396_1650684.html",
+      "title": "En Turquie, Göbeklitepe, le « nombril » du monde, n’en finit pas de fasciner les archéologues",
+      "summary": "Ce site préhistorique témoigne d’une sédentarisation de chasseurs-cueilleurs lors de la transition du paléolithique vers le néolithique. Considéré comme l’une des plus formidables révélations archéologiques de ces trente dernières années, il donne le vertige avec ses nombreux…",
+      "url": "https://www.lemonde.fr/sciences/article/2026/05/04/en-turquie-gobeklitepe-le-nombril-du-monde-n-en-finit-pas-de-fasciner-les-archeologues_6685396_1650684.html",
+      "image": "https://img.lemde.fr/2026/04/29/393/0/3153/1576/644/322/60/0/69e96f8_upload-1-uqbk62fhlmf1-3.JPG",
+      "publishedAt": "2026-05-04T16:00:16.000Z",
+      "source": {
+        "id": "lemonde-sciences",
+        "name": "Le Monde — Sciences"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/shorts/the-picture-desk/recreating-early-medieval-manuscripts-tarbat-discovery-centre-portmahomack/",
+      "title": "Recreating early medieval manuscripts: Tarbat Discovery Centre, Portmahomack",
+      "summary": "The elaborately decorated Book of Kells takes its name from the eponymous abbey in Co. Meath where it was kept for centuries, but it has been previously suggested that the early medieval",
+      "url": "https://the-past.com/shorts/the-picture-desk/recreating-early-medieval-manuscripts-tarbat-discovery-centre-portmahomack/",
+      "image": null,
+      "publishedAt": "2026-05-04T15:00:00.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/etruschi-san-francisco-mostra-legion-of-honor/",
+      "title": "Gli Etruschi conquistano San Francisco con una grande mostra internazionale: capolavori da Firenze raccontano una civiltà ancora misteriosa",
+      "summary": "Un viaggio lungo millenni e migliaia di chilometri prende forma sulle rive del Pacifico. A Legion of Honor Museum, dal 2 maggio, gli Etruschi tornano a parlare al mondo con una mostra che non è soltanto esposizione, ma narrazione potente di una civiltà ancora in parte…",
+      "url": "https://www.stilearte.it/etruschi-san-francisco-mostra-legion-of-honor/",
+      "image": null,
+      "publishedAt": "2026-05-04T14:01:18.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "museoak"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/comment/history-of-the-national-trust/",
+      "title": "History of the National Trust",
+      "summary": "It is said that reading is to the mind what exercise is to the body, so as well as trying (but not always succeeding) to keep the body trim by going for a short run every day, Sherds also (more successfully) sets aside time to spend with a book in the evening.",
+      "url": "https://the-past.com/comment/history-of-the-national-trust/",
+      "image": null,
+      "publishedAt": "2026-05-04T11:00:38.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/oro-necropoli-miniera-ungheria-bukkabrany-scoperta/",
+      "title": "Fermano i lavori accanto alla miniera. Sotto la terra emergono gioielli d’oro, tombe e oggetti intatti di 3500 anni fa. A chi appartenevano?",
+      "summary": "All’inizio è un intervento programmato accanto a una miniera, una fase tecnica che precede l’avvio dei lavori e che richiede controlli accurati del terreno. Gli strumenti iniziano a leggere il sottosuolo, individuano anomalie, restituiscono segnali che non appartengono alla…",
+      "url": "https://www.stilearte.it/oro-necropoli-miniera-ungheria-bukkabrany-scoperta/",
+      "image": null,
+      "publishedAt": "2026-05-04T10:28:00.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/review/whats-on/trysor/",
+      "title": "Trysor",
+      "summary": "An absorbing new exhibition at Oriel Môn in Llangefni highlights Anglesey’s long and varied archaeological heritage. Carly Hilts visited the displays.",
+      "url": "https://the-past.com/review/whats-on/trysor/",
+      "image": null,
+      "publishedAt": "2026-05-04T09:00:08.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "museoak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/05/ningun-puente-cruza-el-amazonas-el-rio-mas-largo-del-mundo-como-es-posible",
+      "title": "Ningún puente cruza el Amazonas, el río más largo del mundo: ¿cómo es posible?",
+      "summary": "La cuenca del Amazonas alberga la mayor masa de agua dulce en movimiento del planeta. Los afluentes nacen en los Andes, atraviesan selvas que ocupan nueve países y mueren en un estuario tan ancho que confunde a los marineros con el océano. Sin embargo, a lo largo de sus más de…",
+      "url": "https://www.labrujulaverde.com/2026/05/ningun-puente-cruza-el-amazonas-el-rio-mas-largo-del-mundo-como-es-posible",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/05/O_Rio_e_a_Mata.webp",
+      "publishedAt": "2026-05-04T07:38:03.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "amerika",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/foro-colonia-salaria-jaen-scoperta-non-invasiva/",
+      "title": "C’è una città romana sotto l’oliveto. Non è mai stata scavata. La scoperta del Foro e di palazzi. A quando risale? Perché quelle splendide, ciclopiche terrazze? Come fu costruita? Splendori e cemento antico",
+      "summary": "Impero romano, Colonia Salaria – Grilli e cicale. L’oliveto freme nella brezza calda. Il verde argenteo delle foglie si staglia tra rovine e colline artificiali provocate da antichi crolli. Siamo in un luogo che non è mai stato oggetto di alcuno scavo archeologico. La città…",
+      "url": "https://www.stilearte.it/foro-colonia-salaria-jaen-scoperta-non-invasiva/",
+      "image": null,
+      "publishedAt": "2026-05-04T07:11:21.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
       "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326001184?dgcid=rss_sd_all",
       "title": "Agropastoral investment in plant cultivation at the Bronze Age site of Chap, Kyrgyzstan",
       "summary": "Publication date: July 2026 Source: Journal of Archaeological Science, Volume 191 Author(s): Melissa M. Ritchey, Xinyi Liu, Giedre Motuzaite-Matuzeviciute",
@@ -8665,192 +8840,6 @@
       "topics": [
         "prehistoria"
       ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/la-scoperta-genetica-erano-antichi-romani-ma-avevano-capelli-chiari-e-iridi-azzurre-chi-erano-da-servi-che-parlavano-latino-divennero-nuovi-padroni-come-lo-studio/",
-      "title": "La scoperta genetica. Erano antichi romani ma avevano capelli chiari e iridi azzurre. Chi erano? Da servi che parlavano latino divennero nuovi padroni. Come? Lo studio",
-      "summary": "Erano già romanizzati. Erano biondi e con gli occhi azzurri. Conoscevano la lingua latina e abitavano da almeno 100 anni nell’impero, nonostante fossero figli di un altrove remoto: le coste del Baltico, le pianure del Nord. Non giunsero come un’onda compatta, ma come presenze…",
-      "url": "https://www.stilearte.it/la-scoperta-genetica-erano-antichi-romani-ma-avevano-capelli-chiari-e-iridi-azzurre-chi-erano-da-servi-che-parlavano-latino-divennero-nuovi-padroni-come-lo-studio/",
-      "image": null,
-      "publishedAt": "2026-04-30T21:47:46.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/fuir-pompei-et-mourir-une-scene-creee-a-l-aide-de-l-ia-illustre-le-sort-d-une-victime-de-l-eruption-du-vesuve_192270?xtor=RSS-4",
-      "title": "Fuir Pompéi et mourir : une scène créée à l’aide de l’IA illustre le sort d’une victime de l’éruption du Vésuve",
-      "summary": "Le Parc archéologique de Pompéi propose un premier visuel qui renouvelle la perception de la catastrophe subie par les habitants de la cité romaine.",
-      "url": "https://www.sciencesetavenir.fr/archeo-paleo/fuir-pompei-et-mourir-une-scene-creee-a-l-aide-de-l-ia-illustre-le-sort-d-une-victime-de-l-eruption-du-vesuve_192270?xtor=RSS-4",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/30/cover-r4x3w1200-69f3375819afc-pompei-reconstruction-ia-01.jpg",
-      "publishedAt": "2026-04-30T15:54:01.000Z",
-      "source": {
-        "id": "sciencesetavenir-archeo",
-        "name": "Sciences et Avenir — Archéo & Paléo"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/los-barbaros-que-no-invadieron-roma-grupos-del-norte-de-europa-ya-araban-las-tierras-del-sur-de-alemania-un-siglo-antes-de-la-caida-del-imperio",
-      "title": "Los bárbaros que no invadieron Roma: grupos del norte de Europa ya araban las tierras del sur de Alemania un siglo antes de la caída del Imperio",
-      "summary": "Un análisis genómico realizado sobre 258 individuos sepultados en los llamados cementerios de hileras del sur de Alemania, acaba de demoler la imagen decimonónica de una gran migración germánica que habría irrumpido violentamente tras el colapso del Imperio Romano de Occidente.…",
-      "url": "https://www.labrujulaverde.com/2026/04/los-barbaros-que-no-invadieron-roma-grupos-del-norte-de-europa-ya-araban-las-tierras-del-sur-de-alemania-un-siglo-antes-de-la-caida-del-imperio",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/Germaanse_volksvergadering_cropped.webp",
-      "publishedAt": "2026-04-30T15:14:40.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "erromatarrak",
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348279",
-      "title": "Differential effects of caffeine, acute aerobic exercise, and placebo on mental fatigue",
-      "summary": "by Ali Shirzad, Nathan Frewen, Anisa Morava, Nader Elshawish, Harry Prapavessis Mental fatigue negatively affects the productivity and health of the general population. Mental fatigue manifests following sustained mental activity and is defined by subjective feelings of…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348279",
-      "image": null,
-      "publishedAt": "2026-04-30T14:00:00.000Z",
-      "source": {
-        "id": "plos-one-arch",
-        "name": "PLOS ONE — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "ekialde-hurbila"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/tivoli-scoperta-basilica-santuario-ercole-vincitore-iscrizione-augustea/",
-      "title": "Scavi a Tivoli. Scoprono un’epigrafe e identificano così la basilica in cui l’imperatore Augusto esercitava la giustizia. Il tempio di Ercole vincitore. La dichiarazione di Svetonio. Ceramiche, intonaci dipinti e testimonianze costruttive",
-      "summary": "Impero romano, Tivoli (Roma). 30 aprile 2026. Un frammento lapideo, emerso da strati rimasti sigillati per secoli, riapre una questione che sembrava destinata a restare nel campo delle ipotesi. Le lettere, scolpite con chiarezza su un architrave in travertino intonacato,…",
-      "url": "https://www.stilearte.it/tivoli-scoperta-basilica-santuario-ercole-vincitore-iscrizione-augustea/",
-      "image": null,
-      "publishedAt": "2026-04-30T13:43:17.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/una-inscripcion-encontrada-en-el-santuario-de-hercules-victor-en-tivoli-identifica-la-basilica-donde-augusto-impartia-justicia-citada-por-suetonio",
-      "title": "Una inscripción encontrada en el Santuario de Hércules Victor en Tívoli identifica la basílica donde Augusto impartía justicia citada por Suetonio",
-      "summary": "Las investigaciones arqueológicas desarrolladas en el Santuario de Hércules Victor en Tívoli, uno de los conjuntos monumentales más imponentes de la Italia romana, han proporcionado un hallazgo de relevancia excepcional: un fragmento de arquitrabe de travertino revestido de…",
-      "url": "https://www.labrujulaverde.com/2026/04/una-inscripcion-encontrada-en-el-santuario-de-hercules-victor-en-tivoli-identifica-la-basilica-donde-augusto-impartia-justicia-citada-por-suetonio",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/Tivoli_Ercole_2.webp",
-      "publishedAt": "2026-04-30T13:00:06.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/archaeology/vikings/the-detectors-never-stopped-beeping-nearly-3-000-coins-discovered-in-field-are-norways-largest-viking-hoard-on-record",
-      "title": "'The detectors never stopped beeping!' Nearly 3,000 coins discovered in field are Norway's largest Viking hoard on record",
-      "summary": "A Viking Age hoard of nearly 3,000 coins is the largest hoard of its kind ever found in Norway.",
-      "url": "https://www.livescience.com/archaeology/vikings/the-detectors-never-stopped-beeping-nearly-3-000-coins-discovered-in-field-are-norways-largest-viking-hoard-on-record",
-      "image": "https://cdn.mos.cms.futurecdn.net/KFxtFLGNgALGMQJiNBQGCZ-1280-80.png",
-      "publishedAt": "2026-04-30T12:00:00.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "erdi-aroa",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/un-manuscrito-del-siglo-ix-hallado-en-roma-contiene-la-copia-mas-antigua-del-primer-poema-en-ingles-con-el-texto-original-integrado",
-      "title": "Un manuscrito del siglo IX hallado en Roma contiene la copia más antigua del primer poema en inglés con el texto original integrado",
-      "summary": "Investigadores del Trinity College Dublin han localizado en la Biblioteca Nacional Central de Roma un ejemplar del siglo IX del primer poema conocido en lengua inglesa, el Himno de Caedmon, que data de entre los años 800 y 830 y constituye la tercera copia conservada más antigua…",
-      "url": "https://www.labrujulaverde.com/2026/04/un-manuscrito-del-siglo-ix-hallado-en-roma-contiene-la-copia-mas-antigua-del-primer-poema-en-ingles-con-el-texto-original-integrado",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/Elisabetta-Magnanti-and-Mark-Faulkner-with-the-Trinity-copy-of-Bedes-Ecclesiastical-History.-To-be-clear-this-is-not-the-manuscript-they-found-in-Rome-830X623.webp",
-      "publishedAt": "2026-04-30T08:23:42.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/cane-raspa-nel-bosco-scopre-ascia-eta-bronzo-inghilterra/",
-      "title": "Passeggia con il cagnolino nel bosco. Un albero tagliato. Alla base vede un oggetto metallico verde. Arrivano gli archeologi:”Ha circa 3400 anni”. Come veniva prodotto?",
-      "summary": "Nei giorni scorsi, stava portando a passeggio il proprio cucciolo. Un po’ tenendolo in braccio. Un po’ lasciandolo scondinzolare, a terra. Il cane ha iniziato a raspare sul terreno alla base del tronco di un albero caduto. L’uomo ha visto un oggetto antico. E ha avvertito la…",
-      "url": "https://www.stilearte.it/cane-raspa-nel-bosco-scopre-ascia-eta-bronzo-inghilterra/",
-      "image": null,
-      "publishedAt": "2026-04-30T07:31:08.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/dos-bebes-romanos-fueron-enterrados-en-york-con-purpura-imperial-y-oro-un-lujo-reservado-a-emperadores",
-      "title": "Dos bebés romanos fueron enterrados en York con púrpura imperial y oro, un lujo reservado a emperadores",
-      "summary": "Los restos, custodiados en las colecciones del York Museums Trust, corresponden a dos neonatos o lactantes cuyos cuerpos fueron envueltos en telas de lujo antes de ser depositados en sendos ataúdes. El primero de ellos descansaba entre las piernas de dos adultos dentro de un…",
-      "url": "https://www.labrujulaverde.com/2026/04/dos-bebes-romanos-fueron-enterrados-en-york-con-purpura-imperial-y-oro-un-lujo-reservado-a-emperadores",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/Seeing-Dead-1000.webp",
-      "publishedAt": "2026-04-30T07:23:25.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "erromatarrak",
-        "museoak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/scoperto-tesoro-monete-vichinghe-rena-norvegia/",
-      "title": "3000 monete d’argento di 1000 anni fa scoperte ora in un campo agricolo. E le ricerche continuano. Perchè furono sepolte in quel punto? Cosa c’era attorno? Da dove venivano? Le prime risposte dalle verifiche archeologiche",
-      "summary": "Per ora sono circa 3000 monete. Ma le ricerche continuano. Un notevole tesoro di monete e pezzi d’argento è venuto alla luce, nei giorni scorsi, in un campo agricolo, in una piana, nei pressi di una strada e di un bosco. La scoperta è avvenuta nei dintorni di Rena, nella valle…",
-      "url": "https://www.stilearte.it/scoperto-tesoro-monete-vichinghe-rena-norvegia/",
-      "image": null,
-      "publishedAt": "2026-04-30T05:41:44.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
     }
   ]
 }
