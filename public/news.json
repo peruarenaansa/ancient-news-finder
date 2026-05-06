@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T04:38:15.000Z",
+  "generatedAt": "2026-05-06T04:51:25.565Z",
   "count": 500,
   "sources": [
     {
@@ -8,9 +8,12 @@
       "lang": "es",
       "region": "basque",
       "kind": "news",
-      "ok": false,
-      "error": "Status code 406",
-      "elapsedMs": 5095
+      "ok": true,
+      "fetched": 20,
+      "kept": 0,
+      "droppedOffTopic": 20,
+      "droppedModern": 0,
+      "elapsedMs": 690
     },
     {
       "id": "naiz",
@@ -23,7 +26,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 601
+      "elapsedMs": 883
     },
     {
       "id": "argia-kultura",
@@ -36,7 +39,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 714
+      "elapsedMs": 1071
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +52,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 535
+      "elapsedMs": 917
     },
     {
       "id": "berria-bsky",
@@ -58,11 +61,11 @@
       "region": "basque",
       "kind": "news",
       "ok": true,
-      "fetched": 29,
+      "fetched": 30,
       "kept": 0,
-      "droppedOffTopic": 29,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2083
+      "elapsedMs": 3313
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +78,7 @@
       "kept": 8,
       "droppedOffTopic": 22,
       "droppedModern": 0,
-      "elapsedMs": 2117
+      "elapsedMs": 3344
     },
     {
       "id": "vianako-printzea",
@@ -83,9 +86,12 @@
       "lang": "es",
       "region": "basque",
       "kind": "research",
-      "ok": false,
-      "error": "Request timed out after 15000ms",
-      "elapsedMs": 49505
+      "ok": true,
+      "fetched": 14,
+      "kept": 4,
+      "droppedOffTopic": 0,
+      "droppedModern": 10,
+      "elapsedMs": 1325
     },
     {
       "id": "labrujulaverde",
@@ -95,10 +101,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 16,
+      "kept": 14,
       "droppedOffTopic": 1,
-      "droppedModern": 3,
-      "elapsedMs": 1263
+      "droppedModern": 5,
+      "elapsedMs": 1473
     },
     {
       "id": "desperta-ferro",
@@ -111,7 +117,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 4,
-      "elapsedMs": 1202
+      "elapsedMs": 1869
     },
     {
       "id": "elpais-cultura",
@@ -121,10 +127,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 505
+      "elapsedMs": 1586
     },
     {
       "id": "lemonde-sciences",
@@ -137,7 +143,7 @@
       "kept": 1,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 524
+      "elapsedMs": 973
     },
     {
       "id": "lemonde-archeo",
@@ -150,7 +156,7 @@
       "kept": 11,
       "droppedOffTopic": 8,
       "droppedModern": 1,
-      "elapsedMs": 887
+      "elapsedMs": 1318
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -163,7 +169,7 @@
       "kept": 8,
       "droppedOffTopic": 10,
       "droppedModern": 2,
-      "elapsedMs": 859
+      "elapsedMs": 1431
     },
     {
       "id": "inrap-bsky",
@@ -176,7 +182,7 @@
       "kept": 5,
       "droppedOffTopic": 17,
       "droppedModern": 2,
-      "elapsedMs": 2156
+      "elapsedMs": 3342
     },
     {
       "id": "sudouest-culture",
@@ -189,7 +195,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 949
+      "elapsedMs": 1827
     },
     {
       "id": "corriere-cultura",
@@ -202,7 +208,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1103
+      "elapsedMs": 1908
     },
     {
       "id": "archeologiaviva",
@@ -215,7 +221,7 @@
       "kept": 2,
       "droppedOffTopic": 0,
       "droppedModern": 8,
-      "elapsedMs": 1586
+      "elapsedMs": 2428
     },
     {
       "id": "stilearte",
@@ -225,10 +231,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 10,
-      "droppedOffTopic": 0,
+      "kept": 9,
+      "droppedOffTopic": 1,
       "droppedModern": 0,
-      "elapsedMs": 1648
+      "elapsedMs": 2486
     },
     {
       "id": "live-science-arch",
@@ -238,10 +244,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 2,
-      "droppedOffTopic": 28,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2199
+      "elapsedMs": 3262
     },
     {
       "id": "bbc-history",
@@ -251,10 +257,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 1,
-      "droppedOffTopic": 9,
+      "kept": 0,
+      "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1090
+      "elapsedMs": 2166
     },
     {
       "id": "sciencedaily-arch",
@@ -267,7 +273,7 @@
       "kept": 14,
       "droppedOffTopic": 16,
       "droppedModern": 0,
-      "elapsedMs": 1248
+      "elapsedMs": 2001
     },
     {
       "id": "ancient-origins",
@@ -280,7 +286,7 @@
       "kept": 4,
       "droppedOffTopic": 5,
       "droppedModern": 1,
-      "elapsedMs": 1277
+      "elapsedMs": 2138
     },
     {
       "id": "guardian-arch",
@@ -293,7 +299,7 @@
       "kept": 10,
       "droppedOffTopic": 6,
       "droppedModern": 4,
-      "elapsedMs": 1457
+      "elapsedMs": 2366
     },
     {
       "id": "current-archaeology",
@@ -303,10 +309,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 26,
-      "droppedOffTopic": 3,
-      "droppedModern": 1,
-      "elapsedMs": 1269
+      "kept": 24,
+      "droppedOffTopic": 4,
+      "droppedModern": 2,
+      "elapsedMs": 4634
     },
     {
       "id": "jas-reports",
@@ -316,10 +322,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 8,
+      "kept": 7,
       "droppedOffTopic": 4,
-      "droppedModern": 18,
-      "elapsedMs": 1221
+      "droppedModern": 19,
+      "elapsedMs": 2156
     },
     {
       "id": "plos-one-arch",
@@ -330,9 +336,9 @@
       "ok": true,
       "fetched": 30,
       "kept": 0,
-      "droppedOffTopic": 29,
-      "droppedModern": 1,
-      "elapsedMs": 1299
+      "droppedOffTopic": 30,
+      "droppedModern": 0,
+      "elapsedMs": 2275
     },
     {
       "id": "pnas-arch",
@@ -345,7 +351,7 @@
       "kept": 23,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1947
+      "elapsedMs": 3129
     },
     {
       "id": "sciencedirect-jas",
@@ -354,11 +360,11 @@
       "region": "world",
       "kind": "research",
       "ok": true,
-      "fetched": 26,
+      "fetched": 27,
       "kept": 8,
       "droppedOffTopic": 2,
-      "droppedModern": 16,
-      "elapsedMs": 1255
+      "droppedModern": 17,
+      "elapsedMs": 2135
     },
     {
       "id": "spal-us",
@@ -371,7 +377,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2038
+      "elapsedMs": 3147
     },
     {
       "id": "complutum-ucm",
@@ -379,12 +385,9 @@
       "lang": "es",
       "region": "iberia",
       "kind": "research",
-      "ok": true,
-      "fetched": 14,
-      "kept": 9,
-      "droppedOffTopic": 0,
-      "droppedModern": 5,
-      "elapsedMs": 12913
+      "ok": false,
+      "error": "Request timed out after 15000ms",
+      "elapsedMs": 46214
     },
     {
       "id": "archeoarte",
@@ -397,7 +400,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2022
+      "elapsedMs": 3139
     },
     {
       "id": "cypsela",
@@ -410,7 +413,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 1991
+      "elapsedMs": 3109
     },
     {
       "id": "cambridge-antiquity",
@@ -420,10 +423,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 11,
+      "kept": 12,
       "droppedOffTopic": 5,
-      "droppedModern": 14,
-      "elapsedMs": 1768
+      "droppedModern": 13,
+      "elapsedMs": 3053
     },
     {
       "id": "cambridge-caj",
@@ -436,7 +439,7 @@
       "kept": 17,
       "droppedOffTopic": 7,
       "droppedModern": 6,
-      "elapsedMs": 1857
+      "elapsedMs": 3086
     },
     {
       "id": "cambridge-ejarc",
@@ -449,7 +452,7 @@
       "kept": 14,
       "droppedOffTopic": 5,
       "droppedModern": 11,
-      "elapsedMs": 1814
+      "elapsedMs": 3068
     },
     {
       "id": "aquitania-persee",
@@ -457,12 +460,9 @@
       "lang": "fr",
       "region": "basque",
       "kind": "research",
-      "ok": true,
-      "fetched": 10,
-      "kept": 10,
-      "droppedOffTopic": 0,
-      "droppedModern": 0,
-      "elapsedMs": 3293
+      "ok": false,
+      "error": "Request timed out after 15000ms",
+      "elapsedMs": 49504
     },
     {
       "id": "cuadernos-arq-unav",
@@ -470,9 +470,12 @@
       "lang": "es",
       "region": "basque",
       "kind": "research",
-      "ok": false,
-      "error": "Request timed out after 15000ms",
-      "elapsedMs": 49505
+      "ok": true,
+      "fetched": 30,
+      "kept": 19,
+      "droppedOffTopic": 3,
+      "droppedModern": 8,
+      "elapsedMs": 4704
     },
     {
       "id": "veleia-ehu",
@@ -485,7 +488,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3244
+      "elapsedMs": 5643
     },
     {
       "id": "flv-navarra",
@@ -498,7 +501,7 @@
       "kept": 17,
       "droppedOffTopic": 2,
       "droppedModern": 11,
-      "elapsedMs": 2156
+      "elapsedMs": 3407
     },
     {
       "id": "munibe-aa",
@@ -511,7 +514,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 2025
+      "elapsedMs": 3374
     },
     {
       "id": "trabajos-prehistoria",
@@ -524,7 +527,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 2071
+      "elapsedMs": 3468
     },
     {
       "id": "openalex-archaeology",
@@ -537,7 +540,7 @@
       "kept": 14,
       "droppedOffTopic": 12,
       "droppedModern": 4,
-      "elapsedMs": 2054
+      "elapsedMs": 3478
     }
   ],
   "items": [
@@ -8228,6 +8231,108 @@
       "topics": []
     },
     {
+      "id": "current-archaeology:https://the-past.com/news/the-swords-in-the-stones-new-insights-from-an-unusual-child-burial-in-gloucestershire/",
+      "title": "The swords in the stones: New insights from an unusual child burial in Gloucestershire",
+      "summary": "Recent analysis of the remains of two children who were buried in the same grave in 7th-century Gloucestershire has revealed them to be brother and sister. CA reports.",
+      "url": "https://the-past.com/news/the-swords-in-the-stones-new-insights-from-an-unusual-child-burial-in-gloucestershire/",
+      "image": null,
+      "publishedAt": "2026-05-05T15:00:17.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/feature/the-warlord-the-prince-and-the-village-people-examining-three-early-anglo-saxon-burial-sites-from-buckinghamshire/",
+      "title": "The warlord, the prince, and the village people: Examining three early Anglo-Saxon burial sites from Buckinghamshire",
+      "summary": "A new exhibition at Discover Bucks Museum in Aylesbury draws together antiquarian excavations and very recent finds to illuminate life and death at different levels of early medieval society. Carly Hilts visited the displays and spoke to their curator Brett Thorn.",
+      "url": "https://the-past.com/feature/the-warlord-the-prince-and-the-village-people-examining-three-early-anglo-saxon-burial-sites-from-buckinghamshire/",
+      "image": null,
+      "publishedAt": "2026-05-05T14:00:56.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa",
+        "museoak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/archeologie/chute-de-l-empire-romain-comment-la-genetique-remet-en-cause-le-mythe-des-grandes-migrations-barbares_192321?xtor=RSS-4",
+      "title": "Chute de l’Empire romain : comment la génétique remet en cause le mythe des grandes migrations barbares",
+      "summary": "On sait que l’image d’un Empire romain submergé par des populations étrangères à l’heure de sa chute est un poncif erroné, mais la génétique en apporte la preuve tout en reconstituant une dynamique de peuplement bien plus subtile.",
+      "url": "https://www.sciencesetavenir.fr/archeo-paleo/archeologie/chute-de-l-empire-romain-comment-la-genetique-remet-en-cause-le-mythe-des-grandes-migrations-barbares_192321?xtor=RSS-4",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/05/cover-r4x3w1200-69f9d97704cef-afp-20160929-eli3751-v1-midres-eli3751.jpg",
+      "publishedAt": "2026-05-05T13:08:24.000Z",
+      "source": {
+        "id": "sciencesetavenir-archeo",
+        "name": "Sciences et Avenir — Archéo & Paléo"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": [
+        "erromatarrak",
+        "amerika"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/05/descifran-dos-logogramas-de-la-escritura-lineal-b-que-revelan-ingredientes-de-los-aceites-perfumados-micenicos-de-la-edad-de-bronce",
+      "title": "Descifran dos logogramas de la escritura Lineal B que revelan ingredientes de los aceites perfumados micénicos de la Edad de Bronce",
+      "summary": "Un equipo de investigadoras de la Universidad de Cambridge ha logrado un avance significativo en el desciframiento de dos signos misteriosos de la escritura Lineal B, el sistema administrativo utilizado por la civilización micénica hace más de 3.300 años. Los resultados,…",
+      "url": "https://www.labrujulaverde.com/2026/05/descifran-dos-logogramas-de-la-escritura-lineal-b-que-revelan-ingredientes-de-los-aceites-perfumados-micenicos-de-la-edad-de-bronce",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/05/NAMA_Linear_B_tablet_of_Pylos.webp",
+      "publishedAt": "2026-05-05T11:49:06.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/isola-artificiale-crannog-scozia-legno-scoperta/",
+      "title": "Risolto il rebus delle piccole isole circolari di pietra. Sono state realizzate dagli uomini? Cosa hanno trovato gli archeologi di così sorprendente",
+      "summary": "Una piccola isola di pietra, silenziosa e compatta, immersa nelle acque scure di un lago del Nord Atlantico. Una superficie apparentemente semplice, quasi anonima, che da secoli nasconde un segreto strutturale sorprendente. Solo quando gli archeologi hanno iniziato a scavare…",
+      "url": "https://www.stilearte.it/isola-artificiale-crannog-scozia-legno-scoperta/",
+      "image": null,
+      "publishedAt": "2026-05-05T10:20:00.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/review/whats-on/ramses-and-the-pharaohs-gold/",
+      "title": "Ramses and the Pharaohs’ Gold",
+      "summary": "A glittering exhibition at Battersea Power Station in London explores the life and legacy of one of ancient Egypt’s most famous rulers. Carly Hilts visited to learn more.",
+      "url": "https://the-past.com/review/whats-on/ramses-and-the-pharaohs-gold/",
+      "image": null,
+      "publishedAt": "2026-05-05T09:00:44.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak",
+        "museoak"
+      ]
+    },
+    {
       "id": "stilearte:https://www.stilearte.it/venere-romana-bodiam-castle-scoperta-frammento/",
       "title": "Scavano vicino a un castello e trovano qualcosa di inaspettato. “È il frammento di una statuetta romana”. Cosa ci fa qui?",
       "summary": "Il terreno restituisce lentamente forme che non si lasciano riconoscere subito. Superfici levigate, curvature precise, dettagli che emergono senza dichiararsi. Nei pressi di un antico castello, in un’area rimasta per lungo tempo ai margini delle ricerche, gli archeologi stanno…",
@@ -8738,107 +8843,6 @@
       "topics": [
         "prehistoria",
         "aurkikuntza"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/tumuli-saka-issyk-kul-scoperta-kirghizistan/",
-      "title": "Cosa sono quei cerchi perfetti di pietre nel terreno? “Non sono naturali”. Cosa nascondono? Dopo 2700 anni riemerge un luogo antico. Il grande recinto di pietra: un enigma aperto",
-      "summary": "Nel silenzio delle alture che circondano il grande bacino del Lago Issyk-Kul, nel Kirghizistan, qualcosa riemerge. Non un singolo oggetto, non una tomba isolata, ma un intero paesaggio della memoria. Cerchi di pietra, fosse rettangolari, strutture enigmatiche. Segni ordinati,…",
-      "url": "https://www.stilearte.it/tumuli-saka-issyk-kul-scoperta-kirghizistan/",
-      "image": null,
-      "publishedAt": "2026-05-02T09:02:16.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/news/cooking-with-the-vikings/",
-      "title": "Cooking with the Vikings",
-      "summary": "Food plays an important role in cultural identity, and can be used in archaeology to identify patterns of migration and assimilation. The early medieval inhabitants of Scandinavia are known to have had",
-      "url": "https://the-past.com/news/cooking-with-the-vikings/",
-      "image": null,
-      "publishedAt": "2026-05-02T09:00:50.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "erdi-aroa"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/news/diet-and-social-status-in-medieval-cambridge/",
-      "title": "Diet and social status in medieval Cambridge",
-      "summary": "We are what we eat, they say, and a new study by the University of Cambridge has found that this was as true in the medieval period as it is today, with",
-      "url": "https://the-past.com/news/diet-and-social-status-in-medieval-cambridge/",
-      "image": null,
-      "publishedAt": "2026-05-02T08:30:28.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "erdi-aroa"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/news/world-news-38/",
-      "title": "World news",
-      "summary": "Prehistoric cultural exchange in Germany Excavations at Eilsleben in northern Germany have revealed a fortified settlement site, dating to c.5375 BC, that may have been founded by some of the first farmers",
-      "url": "https://the-past.com/news/world-news-38/",
-      "image": null,
-      "publishedAt": "2026-05-02T08:15:36.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/news/uk-news-in-brief-29/",
-      "title": "UK news in brief",
-      "summary": "Crown Room at Edinburgh Castle redeveloped Redevelopment of Edinburgh Castle’s Crown Room is under way. The project, which began in January, will see elements of the Victorian design, including oak panelling, restored",
-      "url": "https://the-past.com/news/uk-news-in-brief-29/",
-      "image": null,
-      "publishedAt": "2026-05-02T08:00:43.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "erdi-aroa"
-      ]
-    },
-    {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/05/260501052858.htm",
-      "title": "This 275-million-year-old animal had a twisted jaw like nothing alive today",
-      "summary": "Deep in a dried-up riverbed in Brazil, scientists uncovered a bizarre prehistoric mystery—twisted jawbones from a strange, long-lost animal unlike anything seen before. Dating back 275 million years, this creature, named Tanyka amnicola, belonged to an ancient lineage that…",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260501052858.htm",
-      "image": null,
-      "publishedAt": "2026-05-01T13:07:15.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
       ]
     }
   ]
