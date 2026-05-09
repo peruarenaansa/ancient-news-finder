@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T04:30:57.445Z",
+  "generatedAt": "2026-05-09T04:42:48.385Z",
   "count": 500,
   "sources": [
     {
@@ -13,7 +13,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 709
+      "elapsedMs": 638
     },
     {
       "id": "naiz",
@@ -26,7 +26,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 711
+      "elapsedMs": 716
     },
     {
       "id": "argia-kultura",
@@ -39,7 +39,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 817
+      "elapsedMs": 856
     },
     {
       "id": "eitb-kultura",
@@ -52,7 +52,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 592
+      "elapsedMs": 690
     },
     {
       "id": "berria-bsky",
@@ -65,7 +65,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2184
+      "elapsedMs": 2304
     },
     {
       "id": "aranzadi-bsky",
@@ -78,7 +78,7 @@
       "kept": 8,
       "droppedOffTopic": 22,
       "droppedModern": 0,
-      "elapsedMs": 2204
+      "elapsedMs": 2256
     },
     {
       "id": "vianako-printzea",
@@ -91,7 +91,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 10,
-      "elapsedMs": 1026
+      "elapsedMs": 1089
     },
     {
       "id": "labrujulaverde",
@@ -104,7 +104,7 @@
       "kept": 14,
       "droppedOffTopic": 0,
       "droppedModern": 6,
-      "elapsedMs": 1495
+      "elapsedMs": 1350
     },
     {
       "id": "desperta-ferro",
@@ -117,7 +117,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 4,
-      "elapsedMs": 1624
+      "elapsedMs": 1079
     },
     {
       "id": "elpais-cultura",
@@ -130,7 +130,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1470
+      "elapsedMs": 1358
     },
     {
       "id": "lemonde-sciences",
@@ -143,7 +143,7 @@
       "kept": 1,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 684
+      "elapsedMs": 787
     },
     {
       "id": "lemonde-archeo",
@@ -156,7 +156,7 @@
       "kept": 11,
       "droppedOffTopic": 8,
       "droppedModern": 1,
-      "elapsedMs": 1158
+      "elapsedMs": 703
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -165,11 +165,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 19,
-      "kept": 8,
+      "fetched": 18,
+      "kept": 7,
       "droppedOffTopic": 9,
       "droppedModern": 2,
-      "elapsedMs": 1177
+      "elapsedMs": 773
     },
     {
       "id": "inrap-bsky",
@@ -182,7 +182,7 @@
       "kept": 4,
       "droppedOffTopic": 18,
       "droppedModern": 2,
-      "elapsedMs": 2221
+      "elapsedMs": 2375
     },
     {
       "id": "sudouest-culture",
@@ -192,10 +192,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 0,
-      "droppedOffTopic": 20,
+      "kept": 1,
+      "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1179
+      "elapsedMs": 1113
     },
     {
       "id": "corriere-cultura",
@@ -208,7 +208,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1799
+      "elapsedMs": 1453
     },
     {
       "id": "archeologiaviva",
@@ -221,7 +221,7 @@
       "kept": 2,
       "droppedOffTopic": 0,
       "droppedModern": 8,
-      "elapsedMs": 1808
+      "elapsedMs": 1729
     },
     {
       "id": "stilearte",
@@ -231,10 +231,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 7,
+      "kept": 8,
       "droppedOffTopic": 0,
-      "droppedModern": 3,
-      "elapsedMs": 1923
+      "droppedModern": 2,
+      "elapsedMs": 1808
     },
     {
       "id": "live-science-arch",
@@ -244,10 +244,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 2,
+      "droppedOffTopic": 28,
       "droppedModern": 0,
-      "elapsedMs": 2140
+      "elapsedMs": 2238
     },
     {
       "id": "bbc-history",
@@ -257,10 +257,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 2,
-      "droppedOffTopic": 8,
+      "kept": 0,
+      "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1754
+      "elapsedMs": 1411
     },
     {
       "id": "sciencedaily-arch",
@@ -273,7 +273,7 @@
       "kept": 14,
       "droppedOffTopic": 16,
       "droppedModern": 0,
-      "elapsedMs": 1611
+      "elapsedMs": 1400
     },
     {
       "id": "ancient-origins",
@@ -281,12 +281,9 @@
       "lang": "en",
       "region": "world",
       "kind": "news",
-      "ok": true,
-      "fetched": 10,
-      "kept": 4,
-      "droppedOffTopic": 5,
-      "droppedModern": 1,
-      "elapsedMs": 1627
+      "ok": false,
+      "error": "Unable to parse XML.",
+      "elapsedMs": 5973
     },
     {
       "id": "guardian-arch",
@@ -299,7 +296,7 @@
       "kept": 10,
       "droppedOffTopic": 6,
       "droppedModern": 4,
-      "elapsedMs": 1864
+      "elapsedMs": 1595
     },
     {
       "id": "current-archaeology",
@@ -312,7 +309,7 @@
       "kept": 21,
       "droppedOffTopic": 5,
       "droppedModern": 4,
-      "elapsedMs": 1712
+      "elapsedMs": 1334
     },
     {
       "id": "jas-reports",
@@ -322,10 +319,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 4,
-      "droppedOffTopic": 4,
+      "kept": 6,
+      "droppedOffTopic": 2,
       "droppedModern": 22,
-      "elapsedMs": 1582
+      "elapsedMs": 1377
     },
     {
       "id": "plos-one-arch",
@@ -338,7 +335,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1703
+      "elapsedMs": 1634
     },
     {
       "id": "pnas-arch",
@@ -351,7 +348,7 @@
       "kept": 23,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 2361
+      "elapsedMs": 2259
     },
     {
       "id": "sciencedirect-jas",
@@ -364,7 +361,7 @@
       "kept": 8,
       "droppedOffTopic": 2,
       "droppedModern": 17,
-      "elapsedMs": 1626
+      "elapsedMs": 1476
     },
     {
       "id": "spal-us",
@@ -377,7 +374,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2480
+      "elapsedMs": 2393
     },
     {
       "id": "complutum-ucm",
@@ -390,7 +387,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2748
+      "elapsedMs": 2672
     },
     {
       "id": "archeoarte",
@@ -403,7 +400,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2396
+      "elapsedMs": 2357
     },
     {
       "id": "cypsela",
@@ -416,7 +413,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2263
+      "elapsedMs": 2134
     },
     {
       "id": "cambridge-antiquity",
@@ -426,10 +423,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 12,
+      "kept": 13,
       "droppedOffTopic": 5,
-      "droppedModern": 13,
-      "elapsedMs": 2219
+      "droppedModern": 12,
+      "elapsedMs": 2123
     },
     {
       "id": "cambridge-caj",
@@ -442,7 +439,7 @@
       "kept": 17,
       "droppedOffTopic": 7,
       "droppedModern": 6,
-      "elapsedMs": 2364
+      "elapsedMs": 2163
     },
     {
       "id": "cambridge-ejarc",
@@ -455,7 +452,7 @@
       "kept": 14,
       "droppedOffTopic": 5,
       "droppedModern": 11,
-      "elapsedMs": 2561
+      "elapsedMs": 2144
     },
     {
       "id": "aquitania-persee",
@@ -468,7 +465,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3560
+      "elapsedMs": 3780
     },
     {
       "id": "cuadernos-arq-unav",
@@ -481,7 +478,7 @@
       "kept": 19,
       "droppedOffTopic": 3,
       "droppedModern": 8,
-      "elapsedMs": 3737
+      "elapsedMs": 3588
     },
     {
       "id": "veleia-ehu",
@@ -494,7 +491,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3168
+      "elapsedMs": 3542
     },
     {
       "id": "flv-navarra",
@@ -507,7 +504,7 @@
       "kept": 17,
       "droppedOffTopic": 2,
       "droppedModern": 11,
-      "elapsedMs": 2338
+      "elapsedMs": 2333
     },
     {
       "id": "munibe-aa",
@@ -520,7 +517,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 2504
+      "elapsedMs": 2343
     },
     {
       "id": "trabajos-prehistoria",
@@ -533,7 +530,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 2321
+      "elapsedMs": 2520
     },
     {
       "id": "openalex-archaeology",
@@ -543,10 +540,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 14,
+      "kept": 13,
       "droppedOffTopic": 12,
-      "droppedModern": 4,
-      "elapsedMs": 2401
+      "droppedModern": 5,
+      "elapsedMs": 2492
     }
   ],
   "items": [
@@ -8235,6 +8232,205 @@
       "topics": []
     },
     {
+      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326001184?dgcid=rss_sd_all",
+      "title": "Agropastoral investment in plant cultivation at the Bronze Age site of Chap, Kyrgyzstan",
+      "summary": "Publication date: July 2026 Source: Journal of Archaeological Science, Volume 191 Author(s): Melissa M. Ritchey, Xinyi Liu, Giedre Motuzaite-Matuzeviciute",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326001184?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-05-09T04:42:43.927Z",
+      "source": {
+        "id": "sciencedirect-jas",
+        "name": "Journal of Archaeological Science (ScienceDirect)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002129?dgcid=rss_sd_all",
+      "title": "Geochemical Evidence for Regional Ceramic Exchange Networks in the Pearl River Delta during the Late Bronze Age, 1000–300 BCE",
+      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Neil O’Reilly, Qianglu Zhang, Yi Jia Gabriela Poh, Wengcheong Lam, Jing Saichia Cheng, Agnes Puiyee Sung, Zhao Zhang",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002129?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-05-09T04:42:43.783Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002324?dgcid=rss_sd_all",
+      "title": "Between land and rivers: Isotopic evidence for local mobility in southern Mesopotamia",
+      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Matteo Giaccari, Francesca Castorina, Silvia Soncin, Sofia Panella, Francesca Alhaique, Licia Romano, Franco D’Agostino, Mary Anne Tafuri",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002324?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-05-09T04:42:43.783Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "erromatarrak",
+        "ekialde-hurbila"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/tesoro-bronzo-cultura-lusaziana-polonia/",
+      "title": "Sotto appena 30 centimetri di terra scopre un deposito di gioielli antichissimi. Gusto estetico e livello tecnico: un tesoro perduto di 3,6 chili. Erano bracciali? A quale cultura appartenevano?",
+      "summary": "Un uomo sta esplorando un terreno agricolo con un metal detector autorizzato. Il paesaggio è uniforme, fatto di campi coltivati che si estendono in modo regolare. Eppure, proprio in un punto qualsiasi di questo scenario apparentemente ordinario, lo strumento emette un segnale…",
+      "url": "https://www.stilearte.it/tesoro-bronzo-cultura-lusaziana-polonia/",
+      "image": null,
+      "publishedAt": "2026-05-09T01:55:24.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "sudouest-culture:https://www.sudouest.fr/charente-maritime/barzan/barzan-un-escape-game-pour-percer-un-mystere-archeologique-au-site-du-fa-28962165.php",
+      "title": "Barzan : un escape game pour percer un mystère archéologique au site du Fâ",
+      "summary": "Le site gallo-romain propose une aventure immersive intitulée « Le secret d’Irène », où les participants doivent explorer les archives des années 1930 pour résoudre une énigme historique avant de rejoindre",
+      "url": "https://www.sudouest.fr/charente-maritime/barzan/barzan-un-escape-game-pour-percer-un-mystere-archeologique-au-site-du-fa-28962165.php",
+      "image": null,
+      "publishedAt": "2026-05-08T17:30:00.000Z",
+      "source": {
+        "id": "sudouest-culture",
+        "name": "Sud Ouest — Culture"
+      },
+      "lang": "fr",
+      "region": "basque",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/05/dante-describio-un-impacto-planetario-en-su-divina-comedia-500-anos-antes-que-la-ciencia-moderna",
+      "title": "Dante describió un impacto planetario en su “Divina Comedia” 500 años antes que la ciencia moderna",
+      "summary": "Investigadores de la Universidad Marshall reexaminan la Divina Comedia bajo la óptica de la física de colisiones cósmicas y concluyen que los nueve círculos del averno representan un cráter de impacto generado por la caída de Satanás como un asteroide de alta velocidad, un…",
+      "url": "https://www.labrujulaverde.com/2026/05/dante-describio-un-impacto-planetario-en-su-divina-comedia-500-anos-antes-que-la-ciencia-moderna",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/05/Sandro_Botticelli_-_La_Carte_de_lEnfer.webp",
+      "publishedAt": "2026-05-08T16:05:45.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/veio-etrusca-ridotta-dai-romani-a-bella-bonsaizzata-studio/",
+      "title": "La scoperta. Come gli etruschi furono “bonsaizzati” dai romani. Bellissimi ma minuscoli. Il caso di Veio. Forbici romane nemiche o alleate? Come cambiò la vita in Etruria dopo la sconfitta? Le risposte in un una nuova ricerca",
+      "summary": "La lettura tradizionale della trasformazione di Veio – a pochi chilometri da Roma – dopo la conquista romana del 396 a.C. si è a lungo costruita attorno a un paradigma interpretativo lineare: un grande centro etrusco, esteso e politicamente dominante, che dopo l’annessione viene…",
+      "url": "https://www.stilearte.it/veio-etrusca-ridotta-dai-romani-a-bella-bonsaizzata-studio/",
+      "image": null,
+      "publishedAt": "2026-05-08T15:46:14.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348758",
+      "title": "YOLO-MDEW:Improved YOLOv8 for application of wood board edge banding defect detection",
+      "summary": "by Enjing Xiao, Rougang Zhou, Zhenchao Ruan, Chou Jay Tsai Chien, Junjie Zhu With the growing demand for wooden furniture, accurate and efficient detection of edge banding defects in wood panels has become increasingly important. To address the limitations of existing…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348758",
+      "image": null,
+      "publishedAt": "2026-05-08T14:00:00.000Z",
+      "source": {
+        "id": "plos-one-arch",
+        "name": "PLOS ONE — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "egiptoarrak"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/500-year-old-gold-dental-bridge-is-earliest-known-oral-care-of-its-kind-in-scotland-and-it-likely-held-a-fake-tooth",
+      "title": "500-year-old gold dental bridge is earliest known oral care of its kind in Scotland — and it likely held a fake tooth",
+      "summary": "Archaeologists discovered the 20-karat-gold dental wire in the lower jaw of a middle-aged man who lived around 500 years ago in Scotland.",
+      "url": "https://www.livescience.com/archaeology/500-year-old-gold-dental-bridge-is-earliest-known-oral-care-of-its-kind-in-scotland-and-it-likely-held-a-fake-tooth",
+      "image": "https://cdn.mos.cms.futurecdn.net/trKJbH9hh2bVCbcocBTjz4-1280-80.png",
+      "publishedAt": "2026-05-08T11:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/05/un-estudio-arqueologico-cambia-la-vision-sobre-la-ciudad-etrusca-de-veyes-no-fue-un-fracaso-en-epoca-romana-sino-un-ejemplo-de-resiliencia-comunitaria",
+      "title": "Un estudio arqueológico cambia la visión sobre la ciudad etrusca de Veyes: no fue un fracaso en época romana, sino un ejemplo de resiliencia comunitaria",
+      "summary": "Cuando los arqueólogos hablan de la ciudad antigua de Veyes, a unos 17 kilómetros al norte de Roma, suelen dividir su historia en dos actos muy distintos. El primero, glorioso: entre los siglos VI y IV antes de Cristo, Veyes fue la ciudad-estado etrusca más grande y rica de la…",
+      "url": "https://www.labrujulaverde.com/2026/05/un-estudio-arqueologico-cambia-la-vision-sobre-la-ciudad-etrusca-de-veyes-no-fue-un-fracaso-en-epoca-romana-sino-un-ejemplo-de-resiliencia-comunitaria",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/05/Francesco_salviati_storie_di_furio_camillo_1543-45_trionfo_di_furio_camillo_10_veio.webp",
+      "publishedAt": "2026-05-08T09:25:46.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/05/como-el-emperador-francisco-ii-disolvio-el-sacro-imperio-romano-germanico-para-evitar-que-napoleon-ocupase-el-trono",
+      "title": "Cómo el emperador Francisco II disolvió el Sacro Imperio Romano Germánico para evitar que Napoleón ocupase el trono",
+      "summary": "«¿Quién puede soportar esta desgracia que pesa sobre una nación que una vez fue tan gloriosa? ¡Que Dios mejore las cosas, si todavía es posible mejorarlas!» El poeta alemán Christoph Martin Wieland escribió estas palabras en 1806, revelando la sensación de fin de una época que…",
+      "url": "https://www.labrujulaverde.com/2026/05/como-el-emperador-francisco-ii-disolvio-el-sacro-imperio-romano-germanico-para-evitar-que-napoleon-ocupase-el-trono",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/05/Johann_Peter_Krafft_-_Kaiser_Franz_I._erteilt_allgemeine_Audienz_-_5997_-_Osterreichische_Galerie_Belvedere.webp",
+      "publishedAt": "2026-05-08T07:26:33.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/escursionista-trova-tesoro-vichingo-bracciali-oro/",
+      "title": "Che fortuna. Escursionista passeggia su un sentiero nel bosco. Bracciali di 1000 anni fa brillano nel terreno, dopo le piogge. Chiamati gli archeologi. Ne trovano altri 4. Perchè quella ricchezza? Fu un tesoro o un deposito rituale? Le prime risposte dai sopralluoghi",
+      "summary": "Occhio al terreno. E’ iniziata la stagione piovosa e si moltiplicano i ritrovamenti di oggetti preziosi, grazie ai dilavamenti meteorici e a piccoli smottamenti. Tra gli affioramenti più recenti, quello avvenuto nei giorni scorsi, presso un sentiero accanto a boschi e prati di…",
+      "url": "https://www.stilearte.it/escursionista-trova-tesoro-vichingo-bracciali-oro/",
+      "image": null,
+      "publishedAt": "2026-05-08T06:50:51.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002178?dgcid=rss_sd_all",
       "title": "Technological comparison of Middle Bronze Age Late Hatvan and Füzesabony pottery: A case study from northeastern Hungary",
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Ákos Mengyán, Klára P. Fischl, Ferenc Kristály",
@@ -8249,6 +8445,24 @@
       "region": "world",
       "topics": [
         "prehistoria"
+      ]
+    },
+    {
+      "id": "cambridge-antiquity:https://openalex.org/W7160533623",
+      "title": "A fortified Early Bronze Age settlement in the Southern Caucasus",
+      "summary": "Despite intensive study, the socioeconomic and political structuring of the Southern Caucasus Kura-Araxes cultural tradition remain poorly understood. Here, the authors explore the results of integrated geophysical survey and excavation at Artanish 9 in the Lake Sevan highlands…",
+      "url": "https://doi.org/10.15184/aqy.2026.10350",
+      "image": null,
+      "publishedAt": "2026-05-08T00:00:00.000Z",
+      "source": {
+        "id": "cambridge-antiquity",
+        "name": "Antiquity (Cambridge)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "aurkikuntza"
       ]
     },
     {
@@ -8638,227 +8852,6 @@
       "lang": "it",
       "region": "europe",
       "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/05/un-taller-de-tablillas-cuneiformes-encontrado-en-la-antigua-ninive-revela-que-los-escribas-asirios-nunca-las-cocian-ni-preparaban-cuidadosamente",
-      "title": "Un taller de tablillas cuneiformes encontrado en la antigua Nínive revela que los escribas asirios nunca las cocían ni preparaban cuidadosamente",
-      "summary": "Un equipo internacional de arqueólogos y científicos ha logrado arrojar luz sobre cómo se fabricaban las famosas tablillas de escritura cuneiforme en la antigua Asiria. El estudio, publicado en la revista Archaeometry, se centra en un hallazgo excepcional producido entre 2019 y…",
-      "url": "https://www.labrujulaverde.com/2026/05/un-taller-de-tablillas-cuneiformes-encontrado-en-la-antigua-ninive-revela-que-los-escribas-asirios-nunca-las-cocian-ni-preparaban-cuidadosamente",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/05/arcm70144-fig-0002-m.webp",
-      "publishedAt": "2026-05-06T09:10:15.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "iberiarrak",
-        "ekialde-hurbila"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/whats-on/cornish-myths-and-legends/",
-      "title": "Cornish Myths and Legends",
-      "summary": "The newest exhibition at the Cornwall Museum & Art Gallery (CMAG) in Truro explores local lore and its lasting legacy. Laura Miucci describes the displays.",
-      "url": "https://the-past.com/review/whats-on/cornish-myths-and-legends/",
-      "image": null,
-      "publishedAt": "2026-05-06T09:00:49.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "museoak"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/05/encuentran-en-una-isla-artificial-de-escocia-creada-en-el-neolitico-una-estructura-de-madera-anterior-a-stonehenge-y-una-calzada-de-piedra",
-      "title": "Encuentran en una isla artificial de Escocia creada en el Neolítico una estructura de madera anterior a Stonehenge y una calzada de piedra",
-      "summary": "Un equipo de arqueólogos de la Universidad de Southampton ha excavado y documentado una gran plataforma de madera oculta bajo lo que hoy parece una isla construida en piedra, situada en un loch (lago) escocés. El hallazgo, producido en el lago Bhorgastail, en la isla de Lewis,…",
-      "url": "https://www.labrujulaverde.com/2026/05/encuentran-en-una-isla-artificial-de-escocia-creada-en-el-neolitico-una-estructura-de-madera-anterior-a-stonehenge-y-una-calzada-de-piedra",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/05/urn-cambridge.org-id-binary-alt-20200128174517-59801-optimisedImage-S0003598X19000413_fig5g-copia.webp",
-      "publishedAt": "2026-05-06T07:33:44.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/05/260504154028.htm",
-      "title": "240-million-year-old giant “sand creeper” found hidden in retaining wall",
-      "summary": "A forgotten fossil hidden inside a garden wall has turned out to be one of Australia’s most remarkable prehistoric discoveries. Scientists have now identified the 240-million-year-old amphibian, Arenaerpeton supinatus, revealing an almost perfectly preserved skeleton—complete…",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260504154028.htm",
-      "image": null,
-      "publishedAt": "2026-05-06T06:47:27.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/news/the-swords-in-the-stones-new-insights-from-an-unusual-child-burial-in-gloucestershire/",
-      "title": "The swords in the stones: New insights from an unusual child burial in Gloucestershire",
-      "summary": "Recent analysis of the remains of two children who were buried in the same grave in 7th-century Gloucestershire has revealed them to be brother and sister. CA reports.",
-      "url": "https://the-past.com/news/the-swords-in-the-stones-new-insights-from-an-unusual-child-burial-in-gloucestershire/",
-      "image": null,
-      "publishedAt": "2026-05-05T15:00:17.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/feature/the-warlord-the-prince-and-the-village-people-examining-three-early-anglo-saxon-burial-sites-from-buckinghamshire/",
-      "title": "The warlord, the prince, and the village people: Examining three early Anglo-Saxon burial sites from Buckinghamshire",
-      "summary": "A new exhibition at Discover Bucks Museum in Aylesbury draws together antiquarian excavations and very recent finds to illuminate life and death at different levels of early medieval society. Carly Hilts visited the displays and spoke to their curator Brett Thorn.",
-      "url": "https://the-past.com/feature/the-warlord-the-prince-and-the-village-people-examining-three-early-anglo-saxon-burial-sites-from-buckinghamshire/",
-      "image": null,
-      "publishedAt": "2026-05-05T14:00:56.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "erdi-aroa",
-        "museoak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/archeologie/chute-de-l-empire-romain-comment-la-genetique-remet-en-cause-le-mythe-des-grandes-migrations-barbares_192321?xtor=RSS-4",
-      "title": "Chute de l’Empire romain : comment la génétique remet en cause le mythe des grandes migrations barbares",
-      "summary": "On sait que l’image d’un Empire romain submergé par des populations étrangères à l’heure de sa chute est un poncif erroné, mais la génétique en apporte la preuve tout en reconstituant une dynamique de peuplement bien plus subtile.",
-      "url": "https://www.sciencesetavenir.fr/archeo-paleo/archeologie/chute-de-l-empire-romain-comment-la-genetique-remet-en-cause-le-mythe-des-grandes-migrations-barbares_192321?xtor=RSS-4",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/05/05/cover-r4x3w1200-69f9d97704cef-afp-20160929-eli3751-v1-midres-eli3751.jpg",
-      "publishedAt": "2026-05-05T13:08:24.000Z",
-      "source": {
-        "id": "sciencesetavenir-archeo",
-        "name": "Sciences et Avenir — Archéo & Paléo"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": [
-        "erromatarrak",
-        "amerika"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/05/descifran-dos-logogramas-de-la-escritura-lineal-b-que-revelan-ingredientes-de-los-aceites-perfumados-micenicos-de-la-edad-de-bronce",
-      "title": "Descifran dos logogramas de la escritura Lineal B que revelan ingredientes de los aceites perfumados micénicos de la Edad de Bronce",
-      "summary": "Un equipo de investigadoras de la Universidad de Cambridge ha logrado un avance significativo en el desciframiento de dos signos misteriosos de la escritura Lineal B, el sistema administrativo utilizado por la civilización micénica hace más de 3.300 años. Los resultados,…",
-      "url": "https://www.labrujulaverde.com/2026/05/descifran-dos-logogramas-de-la-escritura-lineal-b-que-revelan-ingredientes-de-los-aceites-perfumados-micenicos-de-la-edad-de-bronce",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/05/NAMA_Linear_B_tablet_of_Pylos.webp",
-      "publishedAt": "2026-05-05T11:49:06.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/isola-artificiale-crannog-scozia-legno-scoperta/",
-      "title": "Risolto il rebus delle piccole isole circolari di pietra. Sono state realizzate dagli uomini? Cosa hanno trovato gli archeologi di così sorprendente",
-      "summary": "Una piccola isola di pietra, silenziosa e compatta, immersa nelle acque scure di un lago del Nord Atlantico. Una superficie apparentemente semplice, quasi anonima, che da secoli nasconde un segreto strutturale sorprendente. Solo quando gli archeologi hanno iniziato a scavare…",
-      "url": "https://www.stilearte.it/isola-artificiale-crannog-scozia-legno-scoperta/",
-      "image": null,
-      "publishedAt": "2026-05-05T10:20:00.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "bbc-history:https://www.historyextra.com/membership/niccolo-machiavelli-life-of-the-week-podcast/",
-      "title": "Niccolò Machiavelli: life of the week",
-      "summary": "Alexander Lee discusses Machiavelli's tumultuous life and times – how his surname became one of history's most sinister adjectives",
-      "url": "https://www.historyextra.com/membership/niccolo-machiavelli-life-of-the-week-podcast/",
-      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/05/Life-Niccolo-Machiavelli-WL-fc1f432.jpg",
-      "publishedAt": "2026-05-05T09:05:45.000Z",
-      "source": {
-        "id": "bbc-history",
-        "name": "BBC History Extra"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/whats-on/ramses-and-the-pharaohs-gold/",
-      "title": "Ramses and the Pharaohs’ Gold",
-      "summary": "A glittering exhibition at Battersea Power Station in London explores the life and legacy of one of ancient Egypt’s most famous rulers. Carly Hilts visited to learn more.",
-      "url": "https://the-past.com/review/whats-on/ramses-and-the-pharaohs-gold/",
-      "image": null,
-      "publishedAt": "2026-05-05T09:00:44.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "egiptoarrak",
-        "museoak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/venere-romana-bodiam-castle-scoperta-frammento/",
-      "title": "Scavano vicino a un castello e trovano qualcosa di inaspettato. “È il frammento di una statuetta romana”. Cosa ci fa qui?",
-      "summary": "Il terreno restituisce lentamente forme che non si lasciano riconoscere subito. Superfici levigate, curvature precise, dettagli che emergono senza dichiararsi. Nei pressi di un antico castello, in un’area rimasta per lungo tempo ai margini delle ricerche, gli archeologi stanno…",
-      "url": "https://www.stilearte.it/venere-romana-bodiam-castle-scoperta-frammento/",
-      "image": null,
-      "publishedAt": "2026-05-05T04:00:00.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/feature/a-monumental-legacy-aubrey-burl-and-the-stone-circles-of-the-british-isles/",
-      "title": "A monumental legacy: Aubrey Burl and The Stone Circles of the British Isles",
-      "summary": "This year marks a century since the birth of the pioneering prehistorian Aubrey Burl, and the 50th anniversary of the publication of his landmark study The Stone Circles of the British Isles, which is often considered the foundational work on the subject. To reflect these…",
-      "url": "https://the-past.com/feature/a-monumental-legacy-aubrey-burl-and-the-stone-circles-of-the-british-isles/",
-      "image": null,
-      "publishedAt": "2026-05-04T19:00:33.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
     }
   ]
 }
