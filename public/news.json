@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T04:42:48.385Z",
+  "generatedAt": "2026-05-10T04:59:26.247Z",
   "count": 500,
   "sources": [
     {
@@ -13,7 +13,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 638
+      "elapsedMs": 577
     },
     {
       "id": "naiz",
@@ -26,7 +26,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 716
+      "elapsedMs": 668
     },
     {
       "id": "argia-kultura",
@@ -39,7 +39,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 856
+      "elapsedMs": 894
     },
     {
       "id": "eitb-kultura",
@@ -52,7 +52,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 690
+      "elapsedMs": 781
     },
     {
       "id": "berria-bsky",
@@ -65,7 +65,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2304
+      "elapsedMs": 2496
     },
     {
       "id": "aranzadi-bsky",
@@ -78,7 +78,7 @@
       "kept": 8,
       "droppedOffTopic": 22,
       "droppedModern": 0,
-      "elapsedMs": 2256
+      "elapsedMs": 2481
     },
     {
       "id": "vianako-printzea",
@@ -91,7 +91,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 10,
-      "elapsedMs": 1089
+      "elapsedMs": 1141
     },
     {
       "id": "labrujulaverde",
@@ -101,10 +101,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 14,
+      "kept": 15,
       "droppedOffTopic": 0,
-      "droppedModern": 6,
-      "elapsedMs": 1350
+      "droppedModern": 5,
+      "elapsedMs": 1392
     },
     {
       "id": "desperta-ferro",
@@ -117,7 +117,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 4,
-      "elapsedMs": 1079
+      "elapsedMs": 934
     },
     {
       "id": "elpais-cultura",
@@ -130,7 +130,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1358
+      "elapsedMs": 708
     },
     {
       "id": "lemonde-sciences",
@@ -143,7 +143,7 @@
       "kept": 1,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 787
+      "elapsedMs": 893
     },
     {
       "id": "lemonde-archeo",
@@ -156,7 +156,7 @@
       "kept": 11,
       "droppedOffTopic": 8,
       "droppedModern": 1,
-      "elapsedMs": 703
+      "elapsedMs": 1329
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -165,11 +165,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 18,
+      "fetched": 17,
       "kept": 7,
-      "droppedOffTopic": 9,
+      "droppedOffTopic": 8,
       "droppedModern": 2,
-      "elapsedMs": 773
+      "elapsedMs": 856
     },
     {
       "id": "inrap-bsky",
@@ -182,7 +182,7 @@
       "kept": 4,
       "droppedOffTopic": 18,
       "droppedModern": 2,
-      "elapsedMs": 2375
+      "elapsedMs": 2493
     },
     {
       "id": "sudouest-culture",
@@ -192,10 +192,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 1,
-      "droppedOffTopic": 19,
+      "kept": 0,
+      "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1113
+      "elapsedMs": 1167
     },
     {
       "id": "corriere-cultura",
@@ -208,7 +208,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1453
+      "elapsedMs": 1905
     },
     {
       "id": "archeologiaviva",
@@ -221,7 +221,7 @@
       "kept": 2,
       "droppedOffTopic": 0,
       "droppedModern": 8,
-      "elapsedMs": 1729
+      "elapsedMs": 1737
     },
     {
       "id": "stilearte",
@@ -234,7 +234,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 2,
-      "elapsedMs": 1808
+      "elapsedMs": 1838
     },
     {
       "id": "live-science-arch",
@@ -244,10 +244,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 2,
-      "droppedOffTopic": 28,
+      "kept": 3,
+      "droppedOffTopic": 27,
       "droppedModern": 0,
-      "elapsedMs": 2238
+      "elapsedMs": 2529
     },
     {
       "id": "bbc-history",
@@ -260,7 +260,7 @@
       "kept": 0,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1411
+      "elapsedMs": 1452
     },
     {
       "id": "sciencedaily-arch",
@@ -273,7 +273,7 @@
       "kept": 14,
       "droppedOffTopic": 16,
       "droppedModern": 0,
-      "elapsedMs": 1400
+      "elapsedMs": 1685
     },
     {
       "id": "ancient-origins",
@@ -281,9 +281,12 @@
       "lang": "en",
       "region": "world",
       "kind": "news",
-      "ok": false,
-      "error": "Unable to parse XML.",
-      "elapsedMs": 5973
+      "ok": true,
+      "fetched": 10,
+      "kept": 4,
+      "droppedOffTopic": 5,
+      "droppedModern": 1,
+      "elapsedMs": 1578
     },
     {
       "id": "guardian-arch",
@@ -296,7 +299,7 @@
       "kept": 10,
       "droppedOffTopic": 6,
       "droppedModern": 4,
-      "elapsedMs": 1595
+      "elapsedMs": 1813
     },
     {
       "id": "current-archaeology",
@@ -306,10 +309,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 21,
-      "droppedOffTopic": 5,
-      "droppedModern": 4,
-      "elapsedMs": 1334
+      "kept": 20,
+      "droppedOffTopic": 4,
+      "droppedModern": 6,
+      "elapsedMs": 1514
     },
     {
       "id": "jas-reports",
@@ -319,10 +322,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 6,
+      "kept": 7,
       "droppedOffTopic": 2,
-      "droppedModern": 22,
-      "elapsedMs": 1377
+      "droppedModern": 21,
+      "elapsedMs": 1555
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +338,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1634
+      "elapsedMs": 1724
     },
     {
       "id": "pnas-arch",
@@ -348,7 +351,7 @@
       "kept": 23,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 2259
+      "elapsedMs": 2070
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +364,7 @@
       "kept": 8,
       "droppedOffTopic": 2,
       "droppedModern": 17,
-      "elapsedMs": 1476
+      "elapsedMs": 1658
     },
     {
       "id": "spal-us",
@@ -374,7 +377,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2393
+      "elapsedMs": 2374
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +390,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2672
+      "elapsedMs": 3557
     },
     {
       "id": "archeoarte",
@@ -400,7 +403,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2357
+      "elapsedMs": 2326
     },
     {
       "id": "cypsela",
@@ -413,7 +416,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2134
+      "elapsedMs": 2585
     },
     {
       "id": "cambridge-antiquity",
@@ -426,7 +429,7 @@
       "kept": 13,
       "droppedOffTopic": 5,
       "droppedModern": 12,
-      "elapsedMs": 2123
+      "elapsedMs": 2073
     },
     {
       "id": "cambridge-caj",
@@ -439,7 +442,7 @@
       "kept": 17,
       "droppedOffTopic": 7,
       "droppedModern": 6,
-      "elapsedMs": 2163
+      "elapsedMs": 2168
     },
     {
       "id": "cambridge-ejarc",
@@ -452,7 +455,7 @@
       "kept": 14,
       "droppedOffTopic": 5,
       "droppedModern": 11,
-      "elapsedMs": 2144
+      "elapsedMs": 2060
     },
     {
       "id": "aquitania-persee",
@@ -465,7 +468,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3780
+      "elapsedMs": 3674
     },
     {
       "id": "cuadernos-arq-unav",
@@ -478,7 +481,7 @@
       "kept": 19,
       "droppedOffTopic": 3,
       "droppedModern": 8,
-      "elapsedMs": 3588
+      "elapsedMs": 3727
     },
     {
       "id": "veleia-ehu",
@@ -491,7 +494,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3542
+      "elapsedMs": 3340
     },
     {
       "id": "flv-navarra",
@@ -504,7 +507,7 @@
       "kept": 17,
       "droppedOffTopic": 2,
       "droppedModern": 11,
-      "elapsedMs": 2333
+      "elapsedMs": 2405
     },
     {
       "id": "munibe-aa",
@@ -517,7 +520,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 2343
+      "elapsedMs": 2426
     },
     {
       "id": "trabajos-prehistoria",
@@ -530,7 +533,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 2520
+      "elapsedMs": 2464
     },
     {
       "id": "openalex-archaeology",
@@ -543,7 +546,7 @@
       "kept": 13,
       "droppedOffTopic": 12,
       "droppedModern": 5,
-      "elapsedMs": 2492
+      "elapsedMs": 2487
     }
   ],
   "items": [
@@ -8232,6 +8235,184 @@
       "topics": []
     },
     {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002257?dgcid=rss_sd_all",
+      "title": "A multiple burial from the viking age in semigallia, Latvia",
+      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Guntis Gerhards, Elīna Pētersone-Gordina, Antonija Vilcāne, Jānis Ķimsis, Alise Akermane-Pokšāne, Renāte Ranka",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002257?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-05-10T04:59:23.992Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "erdi-aroa"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/uomini-affari-romani-teos-anatolia/",
+      "title": "Trovate due iscrizioni di 2.000 anni tra le rovine di un santuario. Uomini d’affari romani, una corona d’oro e un magistrato greco. Il lato nascosto dell’espansione di Roma. Cosa c’è scritto sul marmo?",
+      "summary": "Per oltre duemila anni quelle pietre sono rimaste nascoste tra i resti di un grande santuario dedicato a Dioniso, il dio greco del vino, del teatro e delle feste rituali. Sembravano semplici frammenti architettonici crollati durante terremoti, saccheggi e distruzioni avvenute…",
+      "url": "https://www.stilearte.it/uomini-affari-romani-teos-anatolia/",
+      "image": null,
+      "publishedAt": "2026-05-10T02:14:27.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak",
+        "greziarrak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/05/el-telescopio-james-webb-realiza-un-descubrimiento-inesperado-en-una-galaxia-situada-a-una-distancia-y-una-antiguedad-extremas-no-tiene-rotacion",
+      "title": "El telescopio James Webb realiza un descubrimiento inesperado en una galaxia situada a una distancia y una antigüedad extremas: no tiene rotación",
+      "summary": "Astrónomos que utilizan el telescopio espacial James Webb han realizado un descubrimiento inesperado en una galaxia situada a una distancia y una antigüedad extremas: no presenta rotación alguna. Ben Forrest, científico investigador del Departamento de Física y Astronomía de la…",
+      "url": "https://www.labrujulaverde.com/2026/05/el-telescopio-james-webb-realiza-un-descubrimiento-inesperado-en-una-galaxia-situada-a-una-distancia-y-una-antiguedad-extremas-no-tiene-rotacion",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/05/51412123217_7e39fdf2e2_k.webp",
+      "publishedAt": "2026-05-09T16:16:01.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/review/whats-on/fort-niagara/",
+      "title": "Fort Niagara",
+      "summary": "Reviewing the best military history exhibitions, with Christopher Warner.",
+      "url": "https://the-past.com/review/whats-on/fort-niagara/",
+      "image": null,
+      "publishedAt": "2026-05-09T16:00:47.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "museoak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/tomba-avara-cavallo-oro-timisoara-romania/",
+      "title": "Scoperta eccezionale. Gli archeologi aprono una tomba del VII secolo. Un guerriero con il suo cavallo e un prezioso corredo. Chi era? Perchè seppellivano i cavalli?",
+      "summary": "Una lunga fascia di terra smossa ai margini di un enorme cantiere stradale. Gli escavatori avanzano lentamente mentre gli archeologi controllano ogni strato del terreno destinato alla nuova arteria viaria. Poi, improvvisamente, sotto la superficie compatta compare una scena…",
+      "url": "https://www.stilearte.it/tomba-avara-cavallo-oro-timisoara-romania/",
+      "image": null,
+      "publishedAt": "2026-05-09T11:02:23.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/news/a-parade-of-military-history-at-chalke/",
+      "title": "A parade of military history at Chalke",
+      "summary": "Chalke History Festival returns to the Wiltshire countryside this summer for a week of talks, performances, living history encampments, and more. A star-studded lineup of speakers will explore a vast variety of",
+      "url": "https://the-past.com/news/a-parade-of-military-history-at-chalke/",
+      "image": null,
+      "publishedAt": "2026-05-09T11:00:32.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/news/new-evidence-comes-to-light-for-britains-nuclear-test-veterans/",
+      "title": "New evidence comes to light for Britain’s nuclear test veterans",
+      "summary": "New documentation has come to light which suggests that the British government concealed evidence that personnel involved in the UK’s nuclear-testing programme in the Pacific Ocean in the 1950s and 1960s were",
+      "url": "https://the-past.com/news/new-evidence-comes-to-light-for-britains-nuclear-test-veterans/",
+      "image": null,
+      "publishedAt": "2026-05-09T10:15:51.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/05/desentranan-el-misterio-de-los-peces-de-bronce-encontrados-en-tumbas-de-una-antigua-capital-de-la-cultura-qin-en-china",
+      "title": "Desentrañan el misterio de los peces de bronce encontrados en tumbas de una antigua capital de la cultura Qin en China",
+      "summary": "Un equipo internacional de científicos ha logrado desentrañar los misterios que esconden unos singulares peces de bronce, fabricados hace más de 2.500 años, que fueron hallados en el yacimiento arqueológico de Weijiaya, en la ciudad de Baoji, provincia de Shaanxi (China). El…",
+      "url": "https://www.labrujulaverde.com/2026/05/desentranan-el-misterio-de-los-peces-de-bronce-encontrados-en-tumbas-de-una-antigua-capital-de-la-cultura-qin-en-china",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/05/1-s2.0-S2352409X26002348-gr13_lrg.webp",
+      "publishedAt": "2026-05-09T09:04:38.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "asia"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/human-evolution/if-humans-are-getting-smarter-why-are-our-brains-shrinking",
+      "title": "If humans are getting smarter, why are our brains shrinking?",
+      "summary": "Human brains have been shrinking since prehistoric times, some studies suggest. Whether this is true and why it has happened are debated.",
+      "url": "https://www.livescience.com/archaeology/human-evolution/if-humans-are-getting-smarter-why-are-our-brains-shrinking",
+      "image": "https://cdn.mos.cms.futurecdn.net/cyZk6Aw7cK3EWsHsrQULaR-1280-80.jpg",
+      "publishedAt": "2026-05-09T09:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/shorts/ideas/war-of-words-chariot/",
+      "title": "War of Words – ‘Chariot’",
+      "summary": "With Marc DeSantis",
+      "url": "https://the-past.com/shorts/ideas/war-of-words-chariot/",
+      "image": null,
+      "publishedAt": "2026-05-09T09:00:00.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/botte-osmund-ferro-palude-mar-baltico-scoperta-centrale-nucleare-polonia/",
+      "title": "Non è una bomba. Cos’è? E’ uno scrigno antico? Pesa 216 chili. Il recupero e la verifica. Nel mare a 19 metri di profondità. “Contiene i fiori di metallo, la ricchezza delle paludi”",
+      "summary": "Un contenitore ligneo rimasto per secoli sul fondale del mare è emersa durante i lavori preparatori per la costruzione della prima centrale nucleare della Polonia.La scoperta è stata resa nota nelle ore scorse. Il reperto, recuperato nel corso di operazioni di bonifica marina…",
+      "url": "https://www.stilearte.it/botte-osmund-ferro-palude-mar-baltico-scoperta-centrale-nucleare-polonia/",
+      "image": null,
+      "publishedAt": "2026-05-09T05:12:42.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
       "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326001184?dgcid=rss_sd_all",
       "title": "Agropastoral investment in plant cultivation at the Bronze Age site of Chap, Kyrgyzstan",
       "summary": "Publication date: July 2026 Source: Journal of Archaeological Science, Volume 191 Author(s): Melissa M. Ritchey, Xinyi Liu, Giedre Motuzaite-Matuzeviciute",
@@ -8669,189 +8850,6 @@
       "topics": [
         "iberiarrak"
       ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/feature/llanbedrgoch-exploring-a-unique-early-medieval-trading-centre-on-anglesey/",
-      "title": "Llanbedrgoch: Exploring a unique early medieval trading centre on Anglesey",
-      "summary": "Ninth-century Carolingian coins from the reigns of Louis the Pious and Charles the Bald are not the sort of objects you would expect to find on a remote farm on the Isle of Anglesey, so, when metal-detectorists began reporting these and other exceptional artefacts from the early…",
-      "url": "https://the-past.com/feature/llanbedrgoch-exploring-a-unique-early-medieval-trading-centre-on-anglesey/",
-      "image": null,
-      "publishedAt": "2026-05-06T20:00:12.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "erdi-aroa",
-        "museoak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/whats-on/museum-news-36/",
-      "title": "Museum news",
-      "summary": "The latest on acquisitions, exhibitions, and key decisions.",
-      "url": "https://the-past.com/review/whats-on/museum-news-36/",
-      "image": null,
-      "publishedAt": "2026-05-06T17:00:29.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "museoak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/montelupo-scavi-corte-regia-san-quirico-longobardi-monete-argento/",
-      "title": "Si torna a scavare a Montelupo. La misteriosa corte regia di San Quirico riemerge dalla terra: monete d’argento, cantine sotterranee e strutture ancora da decifrare. Cosa hanno scoperto gli archeologi",
-      "summary": "Siamo tra le colline e il corso dell’Arno, qui la terra continua a custodire una storia rimasta nascosta per oltre mille anni. Basta scavare pochi centimetri sotto il terreno attorno alla chiesa dei Santi Quirico e Lucia, all’Ambrogiana di Montelupo Fiorentino, perché…",
-      "url": "https://www.stilearte.it/montelupo-scavi-corte-regia-san-quirico-longobardi-monete-argento/",
-      "image": null,
-      "publishedAt": "2026-05-06T16:27:24.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "bbc-history:https://www.historyextra.com/membership/did-rasputin-really-bring-down-the-tsars-the-truth-behind-the-dark-legend-of-the-russian-mystic/",
-      "title": "Did Rasputin really bring down the Tsars? The truth behind the dark legend of the Russian mystic",
-      "summary": "Danny Bird speaks to Antony Beevor about the extraordinary influence the mystic Rasputin had on the imperial Romanov family and the role he played in its ultimate demise",
-      "url": "https://www.historyextra.com/membership/did-rasputin-really-bring-down-the-tsars-the-truth-behind-the-dark-legend-of-the-russian-mystic/",
-      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/05/HIP1157394webready-90ddee4-e1777628843303.jpg",
-      "publishedAt": "2026-05-06T16:00:15.000Z",
-      "source": {
-        "id": "bbc-history",
-        "name": "BBC History Extra"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "sudouest-culture:https://www.sudouest.fr/gironde/libourne/pays-foyen-cap-a-l-est-avec-les-romano-dandies-a-la-bergerie-28960639.php",
-      "title": "Pays foyen : cap à l’Est avec les Romano Dandies à la Bergerie",
-      "summary": "Un souffle venu d’ailleurs traverse la Bergerie ce samedi 9 mai. Les Romano Dandies ouvrent la saison avec une escale brûlante aux accents tziganes, entre élégance et fièvre. Une première soirée qui donne",
-      "url": "https://www.sudouest.fr/gironde/libourne/pays-foyen-cap-a-l-est-avec-les-romano-dandies-a-la-bergerie-28960639.php",
-      "image": null,
-      "publishedAt": "2026-05-06T16:00:00.000Z",
-      "source": {
-        "id": "sudouest-culture",
-        "name": "Sud Ouest — Culture"
-      },
-      "lang": "fr",
-      "region": "basque",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "sudouest-culture:https://www.sudouest.fr/charente-maritime/saintes/saintes-a-la-decouverte-des-histoires-secretes-du-cimetiere-saint-vivien-28954962.php",
-      "title": "Saintes : à la découverte des histoires secrètes du cimetière Saint-Vivien",
-      "summary": "La Société d’archéologie et d’histoire de Charente-Maritime enquête depuis un an sur les occupants de tombes oubliées. Elle dévoilera ses travaux au public ce samedi 9 mai au cimetière Saint-Vivien. Une",
-      "url": "https://www.sudouest.fr/charente-maritime/saintes/saintes-a-la-decouverte-des-histoires-secretes-du-cimetiere-saint-vivien-28954962.php",
-      "image": null,
-      "publishedAt": "2026-05-06T15:35:00.000Z",
-      "source": {
-        "id": "sudouest-culture",
-        "name": "Sud Ouest — Culture"
-      },
-      "lang": "fr",
-      "region": "basque",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/05/hallazgos-en-el-nuraghe-barru-revelan-que-las-torres-de-la-edad-del-bronce-en-cerdena-funcionaron-como-centros-de-culto-en-la-edad-del-hierro",
-      "title": "Hallazgos en el Nuraghe Barru revelan que las torres de la Edad del Bronce en Cerdeña funcionaron como centros de culto en la Edad del Hierro",
-      "summary": "El complejo del Nuraghe Barru está asentado sobre una colina de vegetación rala en la zona centro-sur de Cerdeña. Desde esa posición dominante, la estructura de piedra, erigida originalmente hace más de 3.200 años durante la Edad del Bronce, continuó siendo utilizada varios…",
-      "url": "https://www.labrujulaverde.com/2026/05/hallazgos-en-el-nuraghe-barru-revelan-que-las-torres-de-la-edad-del-bronce-en-cerdena-funcionaron-como-centros-de-culto-en-la-edad-del-hierro",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/05/0122ars20einze.webp",
-      "publishedAt": "2026-05-06T15:31:35.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/feature/lechlades-buried-secrets-revisiting-a-long-lived-ritual-landscape-in-gloucestershire/",
-      "title": "Lechlade’s buried secrets: Revisiting a long-lived ritual landscape in Gloucestershire",
-      "summary": "In 2017, excavations revealed an unusual Bronze Age burial alongside other signs of ceremonial activity spanning thousands of years. With some of the grave goods now on display, CA returns to the story of the Lechlade ‘chieftain’.",
-      "url": "https://the-past.com/feature/lechlades-buried-secrets-revisiting-a-long-lived-ritual-landscape-in-gloucestershire/",
-      "image": null,
-      "publishedAt": "2026-05-06T15:00:45.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348785",
-      "title": "Generation Z involvement, cultural identity, and purchase intention in the homestay context: Evidence from tea-culture homestays",
-      "summary": "by Qing Zhang, Huazhen Sun, Qiuyan Lin, Weifeng Guo This study examines how Generation Z involvement influences purchase intention for tea-culture homestays and whether cultural identity mediates this relationship. The attention of generation Z consumers to the cultural…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348785",
-      "image": null,
-      "publishedAt": "2026-05-06T14:00:00.000Z",
-      "source": {
-        "id": "plos-one-arch",
-        "name": "PLOS ONE — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "ekialde-hurbila"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/bloxham-tunnel-sotterranei-scoperta-cedimento-garage-oxfordshire/",
-      "title": "Si sfonda il garage. S’apre una voragine. Scendono. C’è un reticolo di gallerie. Non era una leggenda, quella dei tunnel sotto il villaggio. Cosa stanno trovando? A che serviva questo parallelo mondo scuro? Romani o medioevo?",
-      "summary": "Perlustrazioni, seguendo le voci delle leggende raccontate dai nonni. “Sotto il paese ci sono tante gallerie. E non sappiamo chi si muova, là in fondo. Non andate mai laggiù.” raccontavano. Un brivido. Ma non erano soltanto fiabe. Un gruppo di abitanti ha iniziato a dipanare la…",
-      "url": "https://www.stilearte.it/bloxham-tunnel-sotterranei-scoperta-cedimento-garage-oxfordshire/",
-      "image": null,
-      "publishedAt": "2026-05-06T11:04:41.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/selce-preistorica-giardino-inghilterra-newtown-linford-scavi/",
-      "title": "Iniziano a scavare in giardino e trovano un oggetto di 6.000 anni. Numerosi altri reperti appartenenti a epoche diverse. Cosa è stato trovato sotto pochi centimetri di terra?",
-      "summary": "Hanno cominciato a scavare in un giardino, in un fine settimana qualunque, senza aspettarsi nulla di diverso da terra e radici. Il primo strato è scivolato via facilmente, poi qualcosa ha cambiato ritmo allo scavo. Un frammento duro, affilato, lavorato. Non un sasso qualsiasi.…",
-      "url": "https://www.stilearte.it/selce-preistorica-giardino-inghilterra-newtown-linford-scavi/",
-      "image": null,
-      "publishedAt": "2026-05-06T10:06:25.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
     }
   ]
 }
