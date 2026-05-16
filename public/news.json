@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T05:07:47.122Z",
+  "generatedAt": "2026-05-16T04:47:32.067Z",
   "count": 500,
   "sources": [
     {
@@ -13,7 +13,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 529
+      "elapsedMs": 735
     },
     {
       "id": "naiz",
@@ -26,7 +26,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 997
+      "elapsedMs": 941
     },
     {
       "id": "argia-kultura",
@@ -39,7 +39,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1336
+      "elapsedMs": 1227
     },
     {
       "id": "eitb-kultura",
@@ -52,7 +52,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 693
+      "elapsedMs": 844
     },
     {
       "id": "berria-bsky",
@@ -65,7 +65,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2401
+      "elapsedMs": 2516
     },
     {
       "id": "aranzadi-bsky",
@@ -78,7 +78,7 @@
       "kept": 9,
       "droppedOffTopic": 21,
       "droppedModern": 0,
-      "elapsedMs": 2395
+      "elapsedMs": 2456
     },
     {
       "id": "vianako-printzea",
@@ -91,7 +91,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 10,
-      "elapsedMs": 1247
+      "elapsedMs": 1265
     },
     {
       "id": "labrujulaverde",
@@ -101,10 +101,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 16,
-      "droppedOffTopic": 1,
+      "kept": 15,
+      "droppedOffTopic": 2,
       "droppedModern": 3,
-      "elapsedMs": 1449
+      "elapsedMs": 1408
     },
     {
       "id": "desperta-ferro",
@@ -117,7 +117,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 4,
-      "elapsedMs": 1439
+      "elapsedMs": 1508
     },
     {
       "id": "elpais-cultura",
@@ -127,10 +127,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 0,
-      "droppedOffTopic": 30,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1406
+      "elapsedMs": 1691
     },
     {
       "id": "lemonde-sciences",
@@ -143,7 +143,7 @@
       "kept": 1,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 855
+      "elapsedMs": 848
     },
     {
       "id": "lemonde-archeo",
@@ -156,7 +156,7 @@
       "kept": 11,
       "droppedOffTopic": 8,
       "droppedModern": 1,
-      "elapsedMs": 1175
+      "elapsedMs": 1077
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -165,11 +165,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 14,
+      "fetched": 15,
       "kept": 5,
       "droppedOffTopic": 7,
-      "droppedModern": 2,
-      "elapsedMs": 1302
+      "droppedModern": 3,
+      "elapsedMs": 1196
     },
     {
       "id": "inrap-bsky",
@@ -182,7 +182,7 @@
       "kept": 4,
       "droppedOffTopic": 18,
       "droppedModern": 2,
-      "elapsedMs": 2476
+      "elapsedMs": 2521
     },
     {
       "id": "sudouest-culture",
@@ -195,7 +195,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1329
+      "elapsedMs": 1668
     },
     {
       "id": "corriere-cultura",
@@ -208,7 +208,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1422
+      "elapsedMs": 1743
     },
     {
       "id": "archeologiaviva",
@@ -221,7 +221,7 @@
       "kept": 2,
       "droppedOffTopic": 0,
       "droppedModern": 8,
-      "elapsedMs": 2021
+      "elapsedMs": 2113
     },
     {
       "id": "stilearte",
@@ -231,10 +231,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 10,
+      "kept": 9,
       "droppedOffTopic": 0,
-      "droppedModern": 0,
-      "elapsedMs": 2093
+      "droppedModern": 1,
+      "elapsedMs": 2192
     },
     {
       "id": "live-science-arch",
@@ -244,10 +244,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 3,
-      "droppedOffTopic": 27,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2203
+      "elapsedMs": 2337
     },
     {
       "id": "bbc-history",
@@ -257,10 +257,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 1,
-      "droppedOffTopic": 9,
+      "kept": 2,
+      "droppedOffTopic": 8,
       "droppedModern": 0,
-      "elapsedMs": 1565
+      "elapsedMs": 2055
     },
     {
       "id": "sciencedaily-arch",
@@ -273,7 +273,7 @@
       "kept": 15,
       "droppedOffTopic": 15,
       "droppedModern": 0,
-      "elapsedMs": 1554
+      "elapsedMs": 1672
     },
     {
       "id": "ancient-origins",
@@ -286,7 +286,7 @@
       "kept": 4,
       "droppedOffTopic": 5,
       "droppedModern": 1,
-      "elapsedMs": 1576
+      "elapsedMs": 1693
     },
     {
       "id": "guardian-arch",
@@ -299,7 +299,7 @@
       "kept": 10,
       "droppedOffTopic": 6,
       "droppedModern": 4,
-      "elapsedMs": 1967
+      "elapsedMs": 1894
     },
     {
       "id": "current-archaeology",
@@ -312,7 +312,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 1604
+      "elapsedMs": 1593
     },
     {
       "id": "jas-reports",
@@ -325,7 +325,7 @@
       "kept": 7,
       "droppedOffTopic": 2,
       "droppedModern": 21,
-      "elapsedMs": 1467
+      "elapsedMs": 1578
     },
     {
       "id": "plos-one-arch",
@@ -338,7 +338,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1598
+      "elapsedMs": 1729
     },
     {
       "id": "pnas-arch",
@@ -351,7 +351,7 @@
       "kept": 23,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 3879
+      "elapsedMs": 2827
     },
     {
       "id": "sciencedirect-jas",
@@ -364,7 +364,7 @@
       "kept": 8,
       "droppedOffTopic": 2,
       "droppedModern": 18,
-      "elapsedMs": 1484
+      "elapsedMs": 1534
     },
     {
       "id": "spal-us",
@@ -377,7 +377,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2361
+      "elapsedMs": 2464
     },
     {
       "id": "complutum-ucm",
@@ -390,7 +390,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2641
+      "elapsedMs": 2866
     },
     {
       "id": "archeoarte",
@@ -403,7 +403,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2428
+      "elapsedMs": 2574
     },
     {
       "id": "cypsela",
@@ -416,7 +416,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2072
+      "elapsedMs": 2407
     },
     {
       "id": "cambridge-antiquity",
@@ -427,9 +427,9 @@
       "ok": true,
       "fetched": 30,
       "kept": 15,
-      "droppedOffTopic": 4,
-      "droppedModern": 11,
-      "elapsedMs": 2112
+      "droppedOffTopic": 3,
+      "droppedModern": 12,
+      "elapsedMs": 2432
     },
     {
       "id": "cambridge-caj",
@@ -442,7 +442,7 @@
       "kept": 17,
       "droppedOffTopic": 7,
       "droppedModern": 6,
-      "elapsedMs": 2299
+      "elapsedMs": 2661
     },
     {
       "id": "cambridge-ejarc",
@@ -455,7 +455,7 @@
       "kept": 14,
       "droppedOffTopic": 5,
       "droppedModern": 11,
-      "elapsedMs": 2228
+      "elapsedMs": 2498
     },
     {
       "id": "aquitania-persee",
@@ -468,7 +468,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3311
+      "elapsedMs": 4104
     },
     {
       "id": "cuadernos-arq-unav",
@@ -481,7 +481,7 @@
       "kept": 18,
       "droppedOffTopic": 3,
       "droppedModern": 9,
-      "elapsedMs": 3884
+      "elapsedMs": 4051
     },
     {
       "id": "veleia-ehu",
@@ -494,7 +494,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3440
+      "elapsedMs": 3546
     },
     {
       "id": "flv-navarra",
@@ -507,7 +507,7 @@
       "kept": 17,
       "droppedOffTopic": 2,
       "droppedModern": 11,
-      "elapsedMs": 2773
+      "elapsedMs": 2623
     },
     {
       "id": "munibe-aa",
@@ -520,7 +520,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 2499
+      "elapsedMs": 2801
     },
     {
       "id": "trabajos-prehistoria",
@@ -533,7 +533,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 2610
+      "elapsedMs": 2756
     },
     {
       "id": "openalex-archaeology",
@@ -546,7 +546,7 @@
       "kept": 13,
       "droppedOffTopic": 12,
       "droppedModern": 5,
-      "elapsedMs": 2529
+      "elapsedMs": 3067
     }
   ],
   "items": [
@@ -8405,6 +8405,208 @@
       "topics": []
     },
     {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002312?dgcid=rss_sd_all",
+      "title": "Social complexity without Inequality: Functional household differentiation among early Neolithic communities in Central Europe",
+      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Peter Tóth, Veronika Brychová, Johana Malíšková, Miriam Nývltová Fišáková, Dalia Pokutta",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002312?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-05-16T04:47:29.471Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001768?dgcid=rss_sd_all",
+      "title": "Palaeoecological and cultural changes in the Stone Age and the Bronze Age in the Yaselda River valley and on the shore of Lake Sporovskoye (Belarusian Polesie)",
+      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Dmitry Tsvirko, Piotr Kittel, Tatyana Yakubovskaya, Karol Witkowski, Mikola Kryvaltsevich, Aliaksandra Vaitovich, Aleh Tkachou, Yury Trifonov",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001768?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-05-16T04:47:29.470Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002397?dgcid=rss_sd_all",
+      "title": "Analysis of glass beads from the Ergeta and Paluri necropolises (Georgia, late Bronze Age to 6th c. BC)",
+      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Gvantsa Vachadze, Bernard Gratuze",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002397?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-05-16T04:47:29.470Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "bbc-history:https://www.historyextra.com/membership/on-the-edge-of-catastrophe-life-in-pompeii-as-vesuvius-was-about-to-erupt/",
+      "title": "On the edge of catastrophe: life in Pompeii as Vesuvius was about to erupt",
+      "summary": "The eruption of Vesuvius in AD 79 buried Pompeii and its citizens beneath pumice, stone and ash for centuries. But as Jess Venner reveals, we can now reconstruct the lives of its citizens before the catastrophe",
+      "url": "https://www.historyextra.com/membership/on-the-edge-of-catastrophe-life-in-pompeii-as-vesuvius-was-about-to-erupt/",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/05/LEAD-IMAGEPompeii-web-ready-ff518a5-e1778829992568.jpg",
+      "publishedAt": "2026-05-15T16:00:27.000Z",
+      "source": {
+        "id": "bbc-history",
+        "name": "BBC History Extra"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "elpais-cultura:https://elpais.com/cultura/2026-05-15/los-investigadores-identifican-entre-las-victimas-de-pompeya-a-un-medico-que-intento-escapar-con-sus-utensilios.html",
+      "title": "Los investigadores identifican entre las víctimas de Pompeya a un médico que intentó escapar con sus utensilios",
+      "summary": "El descubrimiento se ha producido en el Huerto de los Fugitivos, una excavación que lleva más de 60 años en activo",
+      "url": "https://elpais.com/cultura/2026-05-15/los-investigadores-identifican-entre-las-victimas-de-pompeya-a-un-medico-que-intento-escapar-con-sus-utensilios.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/SD7ENQIDKFBPZCAEJH6ZWXBNFI.jpg?auth=d710ca3aa2da67e43e2bcb31a705234dd712e7dcfff148e2c21781b5bbe21a32",
+      "publishedAt": "2026-05-15T13:26:20.000Z",
+      "source": {
+        "id": "elpais-cultura",
+        "name": "El País — Cultura"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/05/hallan-en-pompeya-el-estuche-de-un-medico-entre-los-restos-de-una-victima-de-la-erupcion-del-79-dc",
+      "title": "Hallan en Pompeya el estuche de un médico entre los restos de una víctima de la erupción del 79 d.C.",
+      "summary": "A más de seis décadas de los trabajos de excavación en el denominado Orto dei Fuggiaschi (Huerto de los Fugitivos), un nuevo análisis de los materiales recuperados entonces ha conseguido asignar una identidad profesional a una de las víctimas de la catástrofe volcánica del año…",
+      "url": "https://www.labrujulaverde.com/2026/05/hallan-en-pompeya-el-estuche-de-un-medico-entre-los-restos-de-una-victima-de-la-erupcion-del-79-dc",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/05/IMG_0103.webp",
+      "publishedAt": "2026-05-15T12:13:37.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "bbc-history:https://www.historyextra.com/period/ancient-history/long-before-the-ancient-roman-empire-a-different-rival-superpower-looked-destined-for-supremacy/",
+      "title": "2,200 years ago Rome got caught in the Thucydides Trap. The result transformed the ancient world",
+      "summary": "Before the Punic Wars, as Rome and Carthage edged towards conflict in the third century BC, the balance of power in the Mediterranean favoured the Carthaginians. But it was the upstart Romans who would be victorious",
+      "url": "https://www.historyextra.com/period/ancient-history/long-before-the-ancient-roman-empire-a-different-rival-superpower-looked-destined-for-supremacy/",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/01/GettyImages-534251372-d891973-e1769186494130.jpg",
+      "publishedAt": "2026-05-15T10:00:13.000Z",
+      "source": {
+        "id": "bbc-history",
+        "name": "BBC History Extra"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/pompei-medico-orto-dei-fuggiaschi-scoperta/",
+      "title": "Scoperta | Pompei, il medico che cercò di fuggire con i suoi strumenti chirurgici: dall’Orto dei Fuggiaschi riaffiora la storia commovente di una vittima del Vesuvio",
+      "summary": "La tecnologia diagnostica e l’Intelligenza Artificiale restituiscono identità e umanità a uno dei fuggiaschi travolti dall’eruzione del 79 d.C. Tra le immagini più struggenti di Pompei ci sono quelle dell’Orto dei Fuggiaschi, il luogo in cui il tempo sembra essersi fermato…",
+      "url": "https://www.stilearte.it/pompei-medico-orto-dei-fuggiaschi-scoperta/",
+      "image": null,
+      "publishedAt": "2026-05-15T09:51:16.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/cintura-catena-merovingia-normandia-scoperta/",
+      "title": "La scoperta. Cosa c’è lì dentro? Gli archeologi prelevano lo strano oggetto lasciandolo circondato dalla terra. Nel fossato, i resti di bambini e ragazzi. I ricchi corredi d’abito",
+      "summary": "Giovanissimi, forse appartenenti alla stessa famiglia. Sepolti nel clima corrusco di un mondo che si stava rialzando, dopo il caos seguito al crollo dell’impero romano. E in una di queste tombe è venuto alla luce uno strano oggetto, ampio, che caratterizzava quell’epoca. Il…",
+      "url": "https://www.stilearte.it/cintura-catena-merovingia-normandia-scoperta/",
+      "image": null,
+      "publishedAt": "2026-05-15T09:03:01.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/tunnel-misterioso-gerusalemme-ramat-rachel/",
+      "title": "Il terreno crolla durante i lavori e trovano una gigantesca galleria. Nessun reperto, nessuna data: il mistero sta confondendo gli archeologi. A cosa serviva? Le ipotesi",
+      "summary": "Gli archeologi stavano scavando in un terreno roccioso e apparentemente privo di strutture importanti quando il suolo ha iniziato improvvisamente a cedere sotto gli strumenti di scavo. Quello che sembrava un semplice vuoto naturale si è trasformato, metro dopo metro, in una…",
+      "url": "https://www.stilearte.it/tunnel-misterioso-gerusalemme-ramat-rachel/",
+      "image": null,
+      "publishedAt": "2026-05-15T08:36:14.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/05/attio-clauso-el-sabino-que-emigro-a-roma-con-su-familia-y-sus-cinco-mil-clientes-cambio-su-nombre-y-fundo-la-gens-claudia",
+      "title": "Attio Clauso, el sabino que emigró a Roma con su familia y sus cinco mil clientes, cambió su nombre y fundó la gens Claudia",
+      "summary": "«Apio, que tenía un carácter impulsivo… » dice Tito Livio en el segundo libro de su obra Ab urbe condita (Sobre la fundación de la ciudad); «Apio se marcha debido a la arrogancia natural de su carácter» insiste el historiador romano sobre el mismo personaje, dejándonos claro que…",
+      "url": "https://www.labrujulaverde.com/2026/05/attio-clauso-el-sabino-que-emigro-a-roma-con-su-familia-y-sus-cinco-mil-clientes-cambio-su-nombre-y-fundo-la-gens-claudia",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/05/apio-claudio-labrujulaverde.com_.webp",
+      "publishedAt": "2026-05-15T07:24:55.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/luxor-bare-vuote-necropoli-segreta-scoperta-egitto/",
+      "title": "Brividi. Il pozzo del Caos. Le bare senza mummie di Luxor, i 30 gatti bendati, i canti interrotti, la cantatrice ammaliante e il purificatore. Il mistero della necropoli segreta riemersa sotto i detriti",
+      "summary": "Per oltre un secolo e mezzo quell’angolo della necropoli tebana era rimasto sepolto sotto montagne di detriti archeologici accumulati da missioni ottocentesche. Ora, nel settore di Dra Abu el-Naga, sulla riva occidentale di Luxor, gli archeologi egiziani stanno riportando alla…",
+      "url": "https://www.stilearte.it/luxor-bare-vuote-necropoli-segreta-scoperta-egitto/",
+      "image": null,
+      "publishedAt": "2026-05-15T06:14:04.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002476?dgcid=rss_sd_all",
       "title": "Stratigraphic and chronological evidence for overlapping Bronze Age tomb types in the Khaybar region, Saudi Arabia",
       "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Noisette Bec Drelon, Modwene Poulmarc’h, Hala Alarashi, Shadi Shabo, Kévin Guadagnini, Munirah AlMushawh, Guillaume Charloux, Rémy Crassard",
@@ -8470,6 +8672,24 @@
       "region": "europe",
       "topics": [
         "erromatarrak"
+      ]
+    },
+    {
+      "id": "cuadernos-arq-unav:https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/54124",
+      "title": "Molino de época romana procedente del Alto de la Cruz (Cortes, Navarra)",
+      "summary": "El artículo da a conocer un molino manual circular de arenisca de época romana, para la molienda del cereal, depositado en el Ayuntamiento de Cortes, de Navarra en el año 1944. La pieza, que ha permanecido inédita hasta la actualidad, aporta nueva información sobre la presencia…",
+      "url": "https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/54124",
+      "image": null,
+      "publishedAt": "2026-05-14T22:00:00.000Z",
+      "source": {
+        "id": "cuadernos-arq-unav",
+        "name": "Cuadernos de Arqueología — Univ. de Navarra"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "erromatarrak",
+        "iberiarrak"
       ]
     },
     {
@@ -8570,6 +8790,21 @@
       "topics": []
     },
     {
+      "id": "cambridge-antiquity:https://openalex.org/W7161131789",
+      "title": "The Pocó-Saladoid connection and the first widespread technological ceramic tradition in Tropical Lowland South America",
+      "summary": "Some of the earliest ceramics in the Americas are found in Amazonia, though localised traditions become more widespread only c . 3500 cal BP with the development of Saladoid and Pocó ceramics in the Orinoco and Amazon basins, respectively. Despite stylistic affinities, these two…",
+      "url": "https://doi.org/10.15184/aqy.2026.10354",
+      "image": null,
+      "publishedAt": "2026-05-14T00:00:00.000Z",
+      "source": {
+        "id": "cambridge-antiquity",
+        "name": "Antiquity (Cambridge)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002178?dgcid=rss_sd_all",
       "title": "Technological comparison of Middle Bronze Age Late Hatvan and Füzesabony pottery: A case study from northeastern Hungary",
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Ákos Mengyán, Klára P. Fischl, Ferenc Kristály",
@@ -8617,235 +8852,6 @@
       "topics": [
         "erromatarrak",
         "museoak"
-      ]
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/archaeology/americas/speculation-and-egregious-failure-30-researchers-publish-scathing-critiques-of-study-that-questioned-date-of-early-human-occupation-of-monte-verde-in-chile",
-      "title": "'Speculation' and 'egregious failure': 30 researchers publish scathing critiques of study that questioned date of early human occupation of Monte Verde in Chile",
-      "summary": "Dozens of scientists have banded together to pen scathing research letters to the journal Science about the publication of a study claiming the 14,500-year-old Monte Verde archaeological site in Chile is much younger than shown.",
-      "url": "https://www.livescience.com/archaeology/americas/speculation-and-egregious-failure-30-researchers-publish-scathing-critiques-of-study-that-questioned-date-of-early-human-occupation-of-monte-verde-in-chile",
-      "image": "https://cdn.mos.cms.futurecdn.net/T8YUbGzeiqhUP5MUfC9BSo-1280-80.png",
-      "publishedAt": "2026-05-12T15:17:27.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/05/la-corteza-terrestre-se-ha-roto-y-fluidos-del-manto-estan-alcanzando-la-superficie-una-nueva-placa-tectonica-se-esta-formando-bajo-el-sur-de-africa",
-      "title": "La corteza terrestre se ha roto y fluidos del manto están alcanzando la superficie: una nueva placa tectónica se está formando bajo el sur de África",
-      "summary": "Científicos de la Universidad de Oxford han publicado un estudio en la revista Frontiers in Earth Science en el que demuestran que el Rift Kafue, una estructura geológica de Zambia hasta ahora poco estudiada, muestra signos inequívocos de actividad profunda. El equipo, liderado…",
-      "url": "https://www.labrujulaverde.com/2026/05/la-corteza-terrestre-se-ha-roto-y-fluidos-del-manto-estan-alcanzando-la-superficie-una-nueva-placa-tectonica-se-esta-formando-bajo-el-sur-de-africa",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/05/Rio_Zambeze_Zambia-Zimbabue_2018-07-27_DD_14.webp",
-      "publishedAt": "2026-05-12T14:45:30.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349346",
-      "title": "Correction: Full-day sleep pattern analysis in common mental disorders: Leveraging highly discrepant recordings from two consumer tracking devices",
-      "summary": "by Óscar Jiménez Rama, Antonio Artés, Enrique Baca-García, Jorge López-Castromán",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349346",
-      "image": null,
-      "publishedAt": "2026-05-12T14:00:00.000Z",
-      "source": {
-        "id": "plos-one-arch",
-        "name": "PLOS ONE — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "ekialde-hurbila"
-      ]
-    },
-    {
-      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349203",
-      "title": "Sorghum utilization in grain-based food products in China and Australia",
-      "summary": "by Anita Stefoska-Needham, Sophie L. Marsano, Liyan Zhong, Thomas H. Roberts Sorghum consumption has potential health-promoting effects for consumers. This study identified sorghum-containing grain-based food products available in major supermarkets in China and Australia. A…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349203",
-      "image": null,
-      "publishedAt": "2026-05-12T14:00:00.000Z",
-      "source": {
-        "id": "plos-one-arch",
-        "name": "PLOS ONE — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "ekialde-hurbila",
-        "asia"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/shorts/competitions/mhm-152-competition/",
-      "title": "MHM 152 Competition",
-      "summary": "Put your military history knowledge to the test with our competition.",
-      "url": "https://the-past.com/shorts/competitions/mhm-152-competition/",
-      "image": null,
-      "publishedAt": "2026-05-12T13:21:45.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/castro-hortas-isole-cies-universita-vigo-scoperta-villaggio-antico/",
-      "title": "Sotto tre metri di conchiglie emerge un misterioso villaggio preromano. Un insediamento che ha sfidato l’oceano per oltre mille anni. Gli archeologi scavano sulle pendici vertiginose di un’isola. Cosa hanno trovato?",
-      "summary": "Per secoli quel pendio affacciato sull’oceano ha custodito tracce invisibili sotto erba, rocce e vento salmastro. Gli archeologi hanno scavato pochi metri di terra e si sono trovati davanti un grande insediamento abitato prima dell’arrivo dei romani, frequentato per centinaia di…",
-      "url": "https://www.stilearte.it/castro-hortas-isole-cies-universita-vigo-scoperta-villaggio-antico/",
-      "image": null,
-      "publishedAt": "2026-05-12T10:39:32.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/05/260511213154.htm",
-      "title": "This strange giant dinosaur may change what we know about Jurassic titans",
-      "summary": "A bizarre new giant dinosaur discovered in Argentina is giving paleontologists a fresh look at how Jurassic titans evolved in the Southern Hemisphere. Bicharracosaurus dionidei stretched about 20 meters long and carried a strange mix of features seen in both Diplodocus and…",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260511213154.htm",
-      "image": null,
-      "publishedAt": "2026-05-12T09:35:28.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/anelli-wendel-tumulo-svezia-marby/",
-      "title": "Scoperte ora sotto un mucchio di sassi. “Hanno 2500 anni”. Che ci facevano là sotto? Perchè oro in campagna? Chi le depose lì? Le risposte degli archeologi",
-      "summary": "Due rarissimi collari dell’età del Bronzo, risalenti a oltre 2500 anni fa, sono stati scoperti dagli archeologi di Arkeologerna all’interno di un tumulo funerario nei pressi di Marby, area situata a est della città di Norrköping, nella regione svedese dell’Östergötland. Il sito…",
-      "url": "https://www.stilearte.it/anelli-wendel-tumulo-svezia-marby/",
-      "image": null,
-      "publishedAt": "2026-05-12T09:21:40.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "bbc-history:https://www.historyextra.com/membership/olaf-tryggvason-life-of-the-week-podcast/",
-      "title": "Olaf Tryggvason: life of the week",
-      "summary": "Don Hollway traces the life of Olaf Tryggvason – one of the great warlords of the Viking Age",
-      "url": "https://www.historyextra.com/membership/olaf-tryggvason-life-of-the-week-podcast/",
-      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/05/Life-Olav-TryggvasonWL-AN-NO-TEXT-612eae3.jpg",
-      "publishedAt": "2026-05-12T09:18:25.000Z",
-      "source": {
-        "id": "bbc-history",
-        "name": "BBC History Extra"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "erdi-aroa"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/comment/war-classics-just-and-unjust-wars/",
-      "title": "War Classics – Just and Unjust Wars",
-      "summary": "Students of military history find much to fascinate in the subject: strategy, tactics, weapons, uniforms, battles, and the lives of the great generals. Exactly how wars come about and the ethics of combat may seem secondary issues, yet they are woven into the history",
-      "url": "https://the-past.com/comment/war-classics-just-and-unjust-wars/",
-      "image": null,
-      "publishedAt": "2026-05-12T09:00:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/umulo-kasta-amfipoli-alessandro-magno-restauro/",
-      "title": "Magnifico. Enorme collina artificiale, mezzo chilometro di perimetro in marmo. Apri la porta: sfingi, mosaici e misteri. Il gigantesco tumulo dell’età di Alessandro Magno torna a impressionare gli archeologi. Per chi venne costruito?",
-      "summary": "Una collina artificiale immensa, modellata per dominare il paesaggio della Macedonia antica e visibile da chilometri di distanza. Attorno, un anello di marmo bianco lungo quasi mezzo chilometro che rifletteva il sole della Grecia settentrionale. All’interno, corridoi sigillati,…",
-      "url": "https://www.stilearte.it/umulo-kasta-amfipoli-alessandro-magno-restauro/",
-      "image": null,
-      "publishedAt": "2026-05-12T08:35:29.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "greziarrak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/shorts/letters/mhm-152-letters-may/",
-      "title": "MHM 152 Letters – May",
-      "summary": "Your thoughts on issues raised by the magazine.",
-      "url": "https://the-past.com/shorts/letters/mhm-152-letters-may/",
-      "image": null,
-      "publishedAt": "2026-05-12T08:00:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/05/hallazgos-en-el-castro-de-hortas-confirman-en-las-islas-cies-la-existencia-de-un-importante-asentamiento-previo-a-la-llegada-de-los-romanos",
-      "title": "Hallazgos en el castro de Hortas confirman en las Islas Cíes la existencia de un importante asentamiento previo a la llegada de los romanos",
-      "summary": "Entre finales de abril y principios de mayo de 2026, el Grupo de Estudos en Arqueoloxía, Antigüidade e Territorio (GEAAT) de la Universidad de Vigo ha ejecutado la segunda campaña de sondeos en el castro de Hortas, situado en las islas Cíes. Los trabajos se realizaron en…",
-      "url": "https://www.labrujulaverde.com/2026/05/hallazgos-en-el-castro-de-hortas-confirman-en-las-islas-cies-la-existencia-de-un-importante-asentamiento-previo-a-la-llegada-de-los-romanos",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/05/cies1.webp",
-      "publishedAt": "2026-05-12T07:55:37.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/05/260511213139.htm",
-      "title": "Stunning fossil discovery challenges the origins of animal life",
-      "summary": "Scientists revisiting mysterious 540-million-year-old microfossils from Brazil have overturned a major idea about early animal life. What were once thought to be trails left behind by tiny worm-like creatures are now believed to be fossilized communities of bacteria and algae —…",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260511213139.htm",
-      "image": null,
-      "publishedAt": "2026-05-12T07:10:55.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
       ]
     }
   ]
