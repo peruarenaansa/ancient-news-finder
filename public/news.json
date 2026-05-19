@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T05:38:57.083Z",
+  "generatedAt": "2026-05-19T05:35:42.805Z",
   "count": 500,
   "sources": [
     {
@@ -13,7 +13,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 747
+      "elapsedMs": 487
     },
     {
       "id": "naiz",
@@ -26,7 +26,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 657
+      "elapsedMs": 595
     },
     {
       "id": "argia-kultura",
@@ -39,7 +39,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 803
+      "elapsedMs": 668
     },
     {
       "id": "eitb-kultura",
@@ -52,7 +52,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 430
+      "elapsedMs": 519
     },
     {
       "id": "berria-bsky",
@@ -62,10 +62,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2527
+      "elapsedMs": 2137
     },
     {
       "id": "aranzadi-bsky",
@@ -75,10 +75,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 9,
-      "droppedOffTopic": 21,
+      "kept": 10,
+      "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 2578
+      "elapsedMs": 2224
     },
     {
       "id": "vianako-printzea",
@@ -91,7 +91,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 10,
-      "elapsedMs": 913
+      "elapsedMs": 1077
     },
     {
       "id": "labrujulaverde",
@@ -104,7 +104,7 @@
       "kept": 15,
       "droppedOffTopic": 2,
       "droppedModern": 3,
-      "elapsedMs": 1447
+      "elapsedMs": 1338
     },
     {
       "id": "desperta-ferro",
@@ -117,7 +117,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 4,
-      "elapsedMs": 1516
+      "elapsedMs": 754
     },
     {
       "id": "elpais-cultura",
@@ -130,7 +130,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 685
+      "elapsedMs": 1049
     },
     {
       "id": "lemonde-sciences",
@@ -143,7 +143,7 @@
       "kept": 2,
       "droppedOffTopic": 18,
       "droppedModern": 0,
-      "elapsedMs": 802
+      "elapsedMs": 689
     },
     {
       "id": "lemonde-archeo",
@@ -156,7 +156,7 @@
       "kept": 11,
       "droppedOffTopic": 8,
       "droppedModern": 1,
-      "elapsedMs": 1435
+      "elapsedMs": 1019
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -165,11 +165,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 16,
+      "fetched": 17,
       "kept": 5,
-      "droppedOffTopic": 8,
+      "droppedOffTopic": 9,
       "droppedModern": 3,
-      "elapsedMs": 782
+      "elapsedMs": 1093
     },
     {
       "id": "inrap-bsky",
@@ -182,7 +182,7 @@
       "kept": 4,
       "droppedOffTopic": 18,
       "droppedModern": 2,
-      "elapsedMs": 2623
+      "elapsedMs": 2201
     },
     {
       "id": "sudouest-culture",
@@ -195,7 +195,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1087
+      "elapsedMs": 1152
     },
     {
       "id": "corriere-cultura",
@@ -208,7 +208,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1546
+      "elapsedMs": 1554
     },
     {
       "id": "archeologiaviva",
@@ -218,10 +218,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 2,
+      "kept": 1,
       "droppedOffTopic": 0,
-      "droppedModern": 8,
-      "elapsedMs": 1735
+      "droppedModern": 9,
+      "elapsedMs": 1780
     },
     {
       "id": "stilearte",
@@ -234,7 +234,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 1,
-      "elapsedMs": 1837
+      "elapsedMs": 1743
     },
     {
       "id": "live-science-arch",
@@ -244,10 +244,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 4,
+      "droppedOffTopic": 26,
       "droppedModern": 0,
-      "elapsedMs": 2545
+      "elapsedMs": 2099
     },
     {
       "id": "bbc-history",
@@ -260,7 +260,7 @@
       "kept": 2,
       "droppedOffTopic": 8,
       "droppedModern": 0,
-      "elapsedMs": 1678
+      "elapsedMs": 1341
     },
     {
       "id": "sciencedaily-arch",
@@ -273,7 +273,7 @@
       "kept": 15,
       "droppedOffTopic": 15,
       "droppedModern": 0,
-      "elapsedMs": 1666
+      "elapsedMs": 1466
     },
     {
       "id": "ancient-origins",
@@ -281,12 +281,9 @@
       "lang": "en",
       "region": "world",
       "kind": "news",
-      "ok": true,
-      "fetched": 10,
-      "kept": 4,
-      "droppedOffTopic": 5,
-      "droppedModern": 1,
-      "elapsedMs": 1594
+      "ok": false,
+      "error": "Unable to parse XML.",
+      "elapsedMs": 5887
     },
     {
       "id": "guardian-arch",
@@ -296,10 +293,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 10,
-      "droppedOffTopic": 6,
+      "kept": 11,
+      "droppedOffTopic": 5,
       "droppedModern": 4,
-      "elapsedMs": 1976
+      "elapsedMs": 1677
     },
     {
       "id": "current-archaeology",
@@ -310,9 +307,9 @@
       "ok": true,
       "fetched": 30,
       "kept": 15,
-      "droppedOffTopic": 5,
-      "droppedModern": 10,
-      "elapsedMs": 1770
+      "droppedOffTopic": 6,
+      "droppedModern": 9,
+      "elapsedMs": 3610
     },
     {
       "id": "jas-reports",
@@ -325,7 +322,7 @@
       "kept": 9,
       "droppedOffTopic": 2,
       "droppedModern": 19,
-      "elapsedMs": 1704
+      "elapsedMs": 1351
     },
     {
       "id": "plos-one-arch",
@@ -338,7 +335,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1817
+      "elapsedMs": 1587
     },
     {
       "id": "pnas-arch",
@@ -351,7 +348,7 @@
       "kept": 21,
       "droppedOffTopic": 7,
       "droppedModern": 2,
-      "elapsedMs": 2383
+      "elapsedMs": 2209
     },
     {
       "id": "sciencedirect-jas",
@@ -364,7 +361,7 @@
       "kept": 8,
       "droppedOffTopic": 2,
       "droppedModern": 20,
-      "elapsedMs": 1807
+      "elapsedMs": 1483
     },
     {
       "id": "spal-us",
@@ -377,7 +374,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2506
+      "elapsedMs": 2307
     },
     {
       "id": "complutum-ucm",
@@ -385,12 +382,9 @@
       "lang": "es",
       "region": "iberia",
       "kind": "research",
-      "ok": true,
-      "fetched": 14,
-      "kept": 9,
-      "droppedOffTopic": 0,
-      "droppedModern": 5,
-      "elapsedMs": 2725
+      "ok": false,
+      "error": "Request timed out after 15000ms",
+      "elapsedMs": 49509
     },
     {
       "id": "archeoarte",
@@ -403,7 +397,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2461
+      "elapsedMs": 2219
     },
     {
       "id": "cypsela",
@@ -416,7 +410,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2873
+      "elapsedMs": 2138
     },
     {
       "id": "cambridge-antiquity",
@@ -429,7 +423,7 @@
       "kept": 15,
       "droppedOffTopic": 3,
       "droppedModern": 12,
-      "elapsedMs": 2370
+      "elapsedMs": 2008
     },
     {
       "id": "cambridge-caj",
@@ -442,7 +436,7 @@
       "kept": 17,
       "droppedOffTopic": 7,
       "droppedModern": 6,
-      "elapsedMs": 2455
+      "elapsedMs": 2134
     },
     {
       "id": "cambridge-ejarc",
@@ -455,7 +449,7 @@
       "kept": 14,
       "droppedOffTopic": 5,
       "droppedModern": 11,
-      "elapsedMs": 2291
+      "elapsedMs": 2169
     },
     {
       "id": "aquitania-persee",
@@ -468,7 +462,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 4312
+      "elapsedMs": 3166
     },
     {
       "id": "cuadernos-arq-unav",
@@ -481,7 +475,7 @@
       "kept": 18,
       "droppedOffTopic": 3,
       "droppedModern": 9,
-      "elapsedMs": 4208
+      "elapsedMs": 3318
     },
     {
       "id": "veleia-ehu",
@@ -494,7 +488,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3762
+      "elapsedMs": 2915
     },
     {
       "id": "flv-navarra",
@@ -507,7 +501,7 @@
       "kept": 17,
       "droppedOffTopic": 2,
       "droppedModern": 11,
-      "elapsedMs": 2671
+      "elapsedMs": 2243
     },
     {
       "id": "munibe-aa",
@@ -520,7 +514,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 2680
+      "elapsedMs": 2100
     },
     {
       "id": "trabajos-prehistoria",
@@ -533,7 +527,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 2638
+      "elapsedMs": 2114
     },
     {
       "id": "openalex-archaeology",
@@ -546,7 +540,7 @@
       "kept": 13,
       "droppedOffTopic": 12,
       "droppedModern": 5,
-      "elapsedMs": 2625
+      "elapsedMs": 2088
     }
   ],
   "items": [
@@ -8387,6 +8381,191 @@
       "topics": []
     },
     {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002476?dgcid=rss_sd_all",
+      "title": "Stratigraphic and chronological evidence for overlapping Bronze Age tomb types in the Khaybar region, Saudi Arabia",
+      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Noisette Bec Drelon, Modwene Poulmarc’h, Hala Alarashi, Shadi Shabo, Kévin Guadagnini, Munirah AlMushawh, Guillaume Charloux, Rémy Crassard",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002476?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-05-19T05:34:54.587Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/oman-incisioni-rupestri-misterioso-idolo-pioggia-tecnica-nuova/",
+      "title": "Mio dio, vedete anche voi quello che vedo io? Una creatura mitica primitiva scoperta tra la sabbia. Cos’é? Chiama acqua dal cielo? Com’è stata realizzata? Che raccontano le figure?",
+      "summary": "Ci si imbatte in esso come in un’apparizione. La roccia rossiccia sembra spezzarsi per far fuoriuscire una creatura antropomorfa. Nell’insieme, qualcosa che somigli a una grossa lumaca, nella quale abita una divinità dal volto umano. Sarà il dio della pioggia e della prosperità?…",
+      "url": "https://www.stilearte.it/oman-incisioni-rupestri-misterioso-idolo-pioggia-tecnica-nuova/",
+      "image": null,
+      "publishedAt": "2026-05-19T05:08:16.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/1-200-year-old-giant-death-jar-in-laos-contains-generations-of-human-skeletons",
+      "title": "1,200-year-old giant 'death jar' in Laos contains generations of human skeletons",
+      "summary": "Excavation of a large stone vessel from the mysterious Laos Plain of Jars has confirmed its use in an ancient funerary tradition.",
+      "url": "https://www.livescience.com/archaeology/1-200-year-old-giant-death-jar-in-laos-contains-generations-of-human-skeletons",
+      "image": "https://cdn.mos.cms.futurecdn.net/F8DhPpgZieoQ6KzPMBapSP-1280-80.png",
+      "publishedAt": "2026-05-18T23:01:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/romans/doctors-kit-found-on-mount-vesuvius-victim-in-pompeii",
+      "title": "Doctor's kit found on Mount Vesuvius victim in Pompeii",
+      "summary": "A man who died in Pompeii during the eruption of Mount Vesuvius in A.D. 79 was carrying a medical kit with him, new scans reveal.",
+      "url": "https://www.livescience.com/archaeology/romans/doctors-kit-found-on-mount-vesuvius-victim-in-pompeii",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZFYHbPkGAfx6QY4etLrx3G-1280-80.jpg",
+      "publishedAt": "2026-05-18T21:14:52.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/950-year-old-burial-of-a-pet-dingo-is-first-clear-archaeological-evidence-of-humans-ritually-feeding-a-grave-anywhere-in-the-world",
+      "title": "950-year-old burial of a pet dingo is first clear archaeological evidence of humans ritually 'feeding' a grave anywhere in the world",
+      "summary": "Archaeologists have excavated the remains of a dingo that was buried by ancestors of the Australian Aboriginal Barkindji people and \"fed\" for the next 500 years with river mussels.",
+      "url": "https://www.livescience.com/archaeology/950-year-old-burial-of-a-pet-dingo-is-first-clear-archaeological-evidence-of-humans-ritually-feeding-a-grave-anywhere-in-the-world",
+      "image": "https://cdn.mos.cms.futurecdn.net/TUsek7BNbeah5m7QRR4ycN-1280-80.jpg",
+      "publishedAt": "2026-05-18T19:20:42.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "aranzadi-bsky:https://bsky.app/profile/aranzadi.bsky.social/post/3mm5hjn2msh2q",
+      "title": "",
+      "summary": "Ezagutu gure Komunitatea! 🏛️ Suberri Matelo Mitxelena: Ondarearen kudeaketan espezializatua da eta Aranzadiko Etnografia Sailean ondarea katalogatzen eta zabaltzen egiten du lan. Indusketa arkeologikoetan ere parte hartzen du.",
+      "url": "https://bsky.app/profile/aranzadi.bsky.social/post/3mm5hjn2msh2q",
+      "image": null,
+      "publishedAt": "2026-05-18T18:02:00.000Z",
+      "source": {
+        "id": "aranzadi-bsky",
+        "name": "Aranzadi (Bluesky)"
+      },
+      "lang": "eu",
+      "region": "basque",
+      "topics": [
+        "asia"
+      ]
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/science/2026/may/19/dingo-burial-site-first-nations-people-relationship-to-animals",
+      "title": "Signs of ‘feeding’ ritual at dingo burial site shed new light on bond between First Nations people and canines",
+      "summary": "Never documented archaeologically before, evidence points to First Nations people caring for and nursing the animal Get our breaking news email, free app or daily news podcast The discovery of a millennium-old dingo burial site in western New South Wales, including evidence of a…",
+      "url": "https://www.theguardian.com/science/2026/may/19/dingo-burial-site-first-nations-people-relationship-to-animals",
+      "image": "https://i.guim.co.uk/img/media/7fef4223e3684427188374586c52fe5486fdbe2c/126_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=1a5c3651aa9653c8d353b00002cf48cb",
+      "publishedAt": "2026-05-18T14:01:49.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/maggio-antica-roma-feste-morti-primavera/",
+      "title": "Affascinante. Roma antica e Impero. Il Maggio si celebrava tra brividi e profumi. Nozze da spostare. Fiori, fantasmi, lemuri. Cerimonie inquietanti? Quali erano i giorni festivi? A chi erano dedicati?",
+      "summary": "Per noi maggio è il mese della luce distesa, delle rose, delle promesse d’estate. Nell’immaginario occidentale contemporaneo coincide quasi automaticamente con la fioritura, con l’amore, con l’idea di una natura finalmente riconciliata con se stessa. Per gli antichi Romani,…",
+      "url": "https://www.stilearte.it/maggio-antica-roma-feste-morti-primavera/",
+      "image": null,
+      "publishedAt": "2026-05-18T10:28:53.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/05/consiguen-distinguir-la-caligrafia-de-los-distintos-escribas-hititas-en-tablillas-cuneiformes-con-inteligencia-artificial",
+      "title": "Consiguen distinguir la caligrafía de los distintos escribas hititas en tablillas cuneiformes con inteligencia artificial",
+      "summary": "Un equipo de la Universidad Julius-Maximilians de Würzburgo y de la Academia de Ciencias y Literatura de Maguncia ha presentado una herramienta de inteligencia artificial denominada Palaeographicum que reconoce las variaciones individuales de los signos cuneiformes en las…",
+      "url": "https://www.labrujulaverde.com/2026/05/consiguen-distinguir-la-caligrafia-de-los-distintos-escribas-hititas-en-tablillas-cuneiformes-con-inteligencia-artificial",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/05/newsimage422004.webp",
+      "publishedAt": "2026-05-18T09:08:25.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "ekialde-hurbila"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/moneta-romana-gallieno-lancia-fosse-circolari/",
+      "title": "Perché una moneta romana era finita tra misteriose fosse circolari? Accanto emerge anche una lunga punta di lancia. Tracce di un popolo guerriero legato a Roma. Chi erano? Da dove venivano?",
+      "summary": "Per giorni gli archeologi hanno osservato il terreno aprirsi in una sequenza impressionante di cavità perfettamente circolari. Una dopo l’altra, sotto la superficie della pianura ungherese, comparivano grandi fosse profonde scavate quasi duemila anni fa. Il paesaggio sembrava…",
+      "url": "https://www.stilearte.it/moneta-romana-gallieno-lancia-fosse-circolari/",
+      "image": null,
+      "publishedAt": "2026-05-18T08:49:48.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/tempio-romano-luguvallium-carlisle-triade-capitolina-gemma-minerva/",
+      "title": "Meravigliose. Nuove scoperte romane a Luguvallium. La gemma di Minerva. Un grande santuario delle donne dei soldati? Tra Giunone, Minerva e antichi voti d’amore",
+      "summary": "Impero romano, Luguvallium. Un tempio? Chissà che la gemma di Minerva, individuata ora, a Luguvallium, non indirizzi lo studio. Appena all’esterno del forte romano, in un ampio edificio, ora in fase di scavo, gli archeologi stanno restituendo frammenti complessi del passato…",
+      "url": "https://www.stilearte.it/tempio-romano-luguvallium-carlisle-triade-capitolina-gemma-minerva/",
+      "image": null,
+      "publishedAt": "2026-05-18T07:05:25.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002373?dgcid=rss_sd_all",
       "title": "Settlement patterns, soils and agriculture in the early Neolithic (ca. 5600–4500 cal BC) of Southern Iberia",
       "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Juan Antonio Fernández-Morales, Daniel García-Rivero",
@@ -8418,6 +8597,25 @@
       "region": "europe",
       "topics": [
         "prehistoria"
+      ]
+    },
+    {
+      "id": "cambridge-antiquity:https://openalex.org/W7161494188",
+      "title": "Inequality declined in the Bronze Age city of Mohenjo-daro",
+      "summary": "Mohenjo-daro was a major city of the Indus Civilisation ( c . 2600–1900 BC), with excavations revealing evidence for public infrastructure, civic amenities and hundreds of residences. Archaeologists traditionally assume that urbanism is accompanied by economic stratification,…",
+      "url": "https://doi.org/10.15184/aqy.2026.10359",
+      "image": null,
+      "publishedAt": "2026-05-18T00:00:00.000Z",
+      "source": {
+        "id": "cambridge-antiquity",
+        "name": "Antiquity (Cambridge)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "asia",
+        "aurkikuntza"
       ]
     },
     {
@@ -8644,208 +8842,6 @@
       "region": "world",
       "topics": [
         "greziarrak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/tesoro-celtico-great-baddow-monete-oro-nascoste/",
-      "title": "Monete celtiche d’oro piovute come gocce nel campo. Cosa c’era vicino? Ne trovano altre due. E strutture? Perchè furono collocate in quel punto? La risposta dalle nuove verifiche",
-      "summary": "Il più grande tesoro di monete auree dell’Età del Ferro mai rinvenuto in Gran Bretagna continua a porre interrogativi, ma le nuove indagini restringono almeno il campo delle ipotesi. Durante un recente scavo condotto nel sito di Great Baddow, un centro oggi inglobato nell’area…",
-      "url": "https://www.stilearte.it/tesoro-celtico-great-baddow-monete-oro-nascoste/",
-      "image": null,
-      "publishedAt": "2026-05-16T05:49:32.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002312?dgcid=rss_sd_all",
-      "title": "Social complexity without Inequality: Functional household differentiation among early Neolithic communities in Central Europe",
-      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Peter Tóth, Veronika Brychová, Johana Malíšková, Miriam Nývltová Fišáková, Dalia Pokutta",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002312?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-05-16T04:47:29.471Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001768?dgcid=rss_sd_all",
-      "title": "Palaeoecological and cultural changes in the Stone Age and the Bronze Age in the Yaselda River valley and on the shore of Lake Sporovskoye (Belarusian Polesie)",
-      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Dmitry Tsvirko, Piotr Kittel, Tatyana Yakubovskaya, Karol Witkowski, Mikola Kryvaltsevich, Aliaksandra Vaitovich, Aleh Tkachou, Yury Trifonov",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001768?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-05-16T04:47:29.470Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002397?dgcid=rss_sd_all",
-      "title": "Analysis of glass beads from the Ergeta and Paluri necropolises (Georgia, late Bronze Age to 6th c. BC)",
-      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Gvantsa Vachadze, Bernard Gratuze",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002397?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-05-16T04:47:29.470Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "bbc-history:https://www.historyextra.com/membership/on-the-edge-of-catastrophe-life-in-pompeii-as-vesuvius-was-about-to-erupt/",
-      "title": "On the edge of catastrophe: life in Pompeii as Vesuvius was about to erupt",
-      "summary": "The eruption of Vesuvius in AD 79 buried Pompeii and its citizens beneath pumice, stone and ash for centuries. But as Jess Venner reveals, we can now reconstruct the lives of its citizens before the catastrophe",
-      "url": "https://www.historyextra.com/membership/on-the-edge-of-catastrophe-life-in-pompeii-as-vesuvius-was-about-to-erupt/",
-      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/05/LEAD-IMAGEPompeii-web-ready-ff518a5-e1778829992568.jpg",
-      "publishedAt": "2026-05-15T16:00:27.000Z",
-      "source": {
-        "id": "bbc-history",
-        "name": "BBC History Extra"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "elpais-cultura:https://elpais.com/cultura/2026-05-15/los-investigadores-identifican-entre-las-victimas-de-pompeya-a-un-medico-que-intento-escapar-con-sus-utensilios.html",
-      "title": "Los investigadores identifican entre las víctimas de Pompeya a un médico que intentó escapar con sus utensilios",
-      "summary": "El descubrimiento se ha producido en el Huerto de los Fugitivos, una excavación que lleva más de 60 años en activo",
-      "url": "https://elpais.com/cultura/2026-05-15/los-investigadores-identifican-entre-las-victimas-de-pompeya-a-un-medico-que-intento-escapar-con-sus-utensilios.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/SD7ENQIDKFBPZCAEJH6ZWXBNFI.jpg?auth=d710ca3aa2da67e43e2bcb31a705234dd712e7dcfff148e2c21781b5bbe21a32",
-      "publishedAt": "2026-05-15T13:26:20.000Z",
-      "source": {
-        "id": "elpais-cultura",
-        "name": "El País — Cultura"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/05/hallan-en-pompeya-el-estuche-de-un-medico-entre-los-restos-de-una-victima-de-la-erupcion-del-79-dc",
-      "title": "Hallan en Pompeya el estuche de un médico entre los restos de una víctima de la erupción del 79 d.C.",
-      "summary": "A más de seis décadas de los trabajos de excavación en el denominado Orto dei Fuggiaschi (Huerto de los Fugitivos), un nuevo análisis de los materiales recuperados entonces ha conseguido asignar una identidad profesional a una de las víctimas de la catástrofe volcánica del año…",
-      "url": "https://www.labrujulaverde.com/2026/05/hallan-en-pompeya-el-estuche-de-un-medico-entre-los-restos-de-una-victima-de-la-erupcion-del-79-dc",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/05/IMG_0103.webp",
-      "publishedAt": "2026-05-15T12:13:37.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "erromatarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "bbc-history:https://www.historyextra.com/period/ancient-history/long-before-the-ancient-roman-empire-a-different-rival-superpower-looked-destined-for-supremacy/",
-      "title": "2,200 years ago Rome got caught in the Thucydides Trap. The result transformed the ancient world",
-      "summary": "Before the Punic Wars, as Rome and Carthage edged towards conflict in the third century BC, the balance of power in the Mediterranean favoured the Carthaginians. But it was the upstart Romans who would be victorious",
-      "url": "https://www.historyextra.com/period/ancient-history/long-before-the-ancient-roman-empire-a-different-rival-superpower-looked-destined-for-supremacy/",
-      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/01/GettyImages-534251372-d891973-e1769186494130.jpg",
-      "publishedAt": "2026-05-15T10:00:13.000Z",
-      "source": {
-        "id": "bbc-history",
-        "name": "BBC History Extra"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/pompei-medico-orto-dei-fuggiaschi-scoperta/",
-      "title": "Scoperta | Pompei, il medico che cercò di fuggire con i suoi strumenti chirurgici: dall’Orto dei Fuggiaschi riaffiora la storia commovente di una vittima del Vesuvio",
-      "summary": "La tecnologia diagnostica e l’Intelligenza Artificiale restituiscono identità e umanità a uno dei fuggiaschi travolti dall’eruzione del 79 d.C. Tra le immagini più struggenti di Pompei ci sono quelle dell’Orto dei Fuggiaschi, il luogo in cui il tempo sembra essersi fermato…",
-      "url": "https://www.stilearte.it/pompei-medico-orto-dei-fuggiaschi-scoperta/",
-      "image": null,
-      "publishedAt": "2026-05-15T09:51:16.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/cintura-catena-merovingia-normandia-scoperta/",
-      "title": "La scoperta. Cosa c’è lì dentro? Gli archeologi prelevano lo strano oggetto lasciandolo circondato dalla terra. Nel fossato, i resti di bambini e ragazzi. I ricchi corredi d’abito",
-      "summary": "Giovanissimi, forse appartenenti alla stessa famiglia. Sepolti nel clima corrusco di un mondo che si stava rialzando, dopo il caos seguito al crollo dell’impero romano. E in una di queste tombe è venuto alla luce uno strano oggetto, ampio, che caratterizzava quell’epoca. Il…",
-      "url": "https://www.stilearte.it/cintura-catena-merovingia-normandia-scoperta/",
-      "image": null,
-      "publishedAt": "2026-05-15T09:03:01.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/tunnel-misterioso-gerusalemme-ramat-rachel/",
-      "title": "Il terreno crolla durante i lavori e trovano una gigantesca galleria. Nessun reperto, nessuna data: il mistero sta confondendo gli archeologi. A cosa serviva? Le ipotesi",
-      "summary": "Gli archeologi stavano scavando in un terreno roccioso e apparentemente privo di strutture importanti quando il suolo ha iniziato improvvisamente a cedere sotto gli strumenti di scavo. Quello che sembrava un semplice vuoto naturale si è trasformato, metro dopo metro, in una…",
-      "url": "https://www.stilearte.it/tunnel-misterioso-gerusalemme-ramat-rachel/",
-      "image": null,
-      "publishedAt": "2026-05-15T08:36:14.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/05/attio-clauso-el-sabino-que-emigro-a-roma-con-su-familia-y-sus-cinco-mil-clientes-cambio-su-nombre-y-fundo-la-gens-claudia",
-      "title": "Attio Clauso, el sabino que emigró a Roma con su familia y sus cinco mil clientes, cambió su nombre y fundó la gens Claudia",
-      "summary": "«Apio, que tenía un carácter impulsivo… » dice Tito Livio en el segundo libro de su obra Ab urbe condita (Sobre la fundación de la ciudad); «Apio se marcha debido a la arrogancia natural de su carácter» insiste el historiador romano sobre el mismo personaje, dejándonos claro que…",
-      "url": "https://www.labrujulaverde.com/2026/05/attio-clauso-el-sabino-que-emigro-a-roma-con-su-familia-y-sus-cinco-mil-clientes-cambio-su-nombre-y-fundo-la-gens-claudia",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/05/apio-claudio-labrujulaverde.com_.webp",
-      "publishedAt": "2026-05-15T07:24:55.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "erromatarrak",
-        "aurkikuntza"
       ]
     }
   ]
