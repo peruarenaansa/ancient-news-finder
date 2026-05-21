@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T05:36:46.048Z",
+  "generatedAt": "2026-05-21T05:41:19.719Z",
   "count": 500,
   "sources": [
     {
@@ -13,7 +13,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 507
+      "elapsedMs": 474
     },
     {
       "id": "naiz",
@@ -26,7 +26,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 558
+      "elapsedMs": 949
     },
     {
       "id": "argia-kultura",
@@ -36,10 +36,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 707
+      "elapsedMs": 1146
     },
     {
       "id": "eitb-kultura",
@@ -52,7 +52,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 524
+      "elapsedMs": 823
     },
     {
       "id": "berria-bsky",
@@ -62,10 +62,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 2,
-      "droppedOffTopic": 28,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2425
+      "elapsedMs": 2577
     },
     {
       "id": "aranzadi-bsky",
@@ -78,7 +78,7 @@
       "kept": 10,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 2436
+      "elapsedMs": 2580
     },
     {
       "id": "vianako-printzea",
@@ -91,7 +91,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 10,
-      "elapsedMs": 1110
+      "elapsedMs": 1408
     },
     {
       "id": "labrujulaverde",
@@ -99,12 +99,9 @@
       "lang": "es",
       "region": "world",
       "kind": "news",
-      "ok": true,
-      "fetched": 20,
-      "kept": 16,
-      "droppedOffTopic": 1,
-      "droppedModern": 3,
-      "elapsedMs": 1306
+      "ok": false,
+      "error": "Status code 415",
+      "elapsedMs": 5730
     },
     {
       "id": "desperta-ferro",
@@ -114,10 +111,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 12,
-      "kept": 8,
+      "kept": 9,
       "droppedOffTopic": 0,
-      "droppedModern": 4,
-      "elapsedMs": 856
+      "droppedModern": 3,
+      "elapsedMs": 941
     },
     {
       "id": "elpais-cultura",
@@ -130,7 +127,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1460
+      "elapsedMs": 1352
     },
     {
       "id": "lemonde-sciences",
@@ -143,7 +140,7 @@
       "kept": 2,
       "droppedOffTopic": 18,
       "droppedModern": 0,
-      "elapsedMs": 730
+      "elapsedMs": 717
     },
     {
       "id": "lemonde-archeo",
@@ -156,7 +153,7 @@
       "kept": 11,
       "droppedOffTopic": 8,
       "droppedModern": 1,
-      "elapsedMs": 1443
+      "elapsedMs": 1571
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -169,7 +166,7 @@
       "kept": 4,
       "droppedOffTopic": 10,
       "droppedModern": 3,
-      "elapsedMs": 1256
+      "elapsedMs": 1106
     },
     {
       "id": "inrap-bsky",
@@ -178,11 +175,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 24,
-      "kept": 4,
+      "fetched": 23,
+      "kept": 3,
       "droppedOffTopic": 18,
       "droppedModern": 2,
-      "elapsedMs": 2433
+      "elapsedMs": 2597
     },
     {
       "id": "sudouest-culture",
@@ -195,7 +192,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1175
+      "elapsedMs": 1053
     },
     {
       "id": "corriere-cultura",
@@ -208,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1768
+      "elapsedMs": 1970
     },
     {
       "id": "archeologiaviva",
@@ -221,7 +218,7 @@
       "kept": 1,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 1900
+      "elapsedMs": 2084
     },
     {
       "id": "stilearte",
@@ -234,7 +231,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 1994
+      "elapsedMs": 2013
     },
     {
       "id": "live-science-arch",
@@ -244,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 4,
-      "droppedOffTopic": 26,
+      "kept": 6,
+      "droppedOffTopic": 24,
       "droppedModern": 0,
-      "elapsedMs": 2342
+      "elapsedMs": 2265
     },
     {
       "id": "bbc-history",
@@ -257,10 +254,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 3,
-      "droppedOffTopic": 7,
+      "kept": 2,
+      "droppedOffTopic": 8,
       "droppedModern": 0,
-      "elapsedMs": 1682
+      "elapsedMs": 1903
     },
     {
       "id": "sciencedaily-arch",
@@ -273,7 +270,7 @@
       "kept": 14,
       "droppedOffTopic": 16,
       "droppedModern": 0,
-      "elapsedMs": 1635
+      "elapsedMs": 1508
     },
     {
       "id": "ancient-origins",
@@ -286,7 +283,7 @@
       "kept": 4,
       "droppedOffTopic": 5,
       "droppedModern": 1,
-      "elapsedMs": 1564
+      "elapsedMs": 1501
     },
     {
       "id": "guardian-arch",
@@ -299,7 +296,7 @@
       "kept": 11,
       "droppedOffTopic": 5,
       "droppedModern": 4,
-      "elapsedMs": 1840
+      "elapsedMs": 1726
     },
     {
       "id": "current-archaeology",
@@ -309,10 +306,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 14,
+      "kept": 15,
       "droppedOffTopic": 8,
-      "droppedModern": 8,
-      "elapsedMs": 4832
+      "droppedModern": 7,
+      "elapsedMs": 1586
     },
     {
       "id": "jas-reports",
@@ -322,10 +319,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 9,
+      "kept": 8,
       "droppedOffTopic": 2,
-      "droppedModern": 19,
-      "elapsedMs": 1553
+      "droppedModern": 20,
+      "elapsedMs": 1559
     },
     {
       "id": "plos-one-arch",
@@ -338,7 +335,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1752
+      "elapsedMs": 1546
     },
     {
       "id": "pnas-arch",
@@ -351,7 +348,7 @@
       "kept": 22,
       "droppedOffTopic": 6,
       "droppedModern": 2,
-      "elapsedMs": 2317
+      "elapsedMs": 2538
     },
     {
       "id": "sciencedirect-jas",
@@ -361,10 +358,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 9,
+      "kept": 8,
       "droppedOffTopic": 2,
-      "droppedModern": 19,
-      "elapsedMs": 1742
+      "droppedModern": 20,
+      "elapsedMs": 1491
     },
     {
       "id": "spal-us",
@@ -377,7 +374,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2534
+      "elapsedMs": 2491
     },
     {
       "id": "complutum-ucm",
@@ -390,7 +387,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2794
+      "elapsedMs": 2750
     },
     {
       "id": "archeoarte",
@@ -403,7 +400,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2437
+      "elapsedMs": 2482
     },
     {
       "id": "cypsela",
@@ -416,7 +413,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2478
+      "elapsedMs": 2331
     },
     {
       "id": "cambridge-antiquity",
@@ -426,10 +423,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 15,
+      "kept": 14,
       "droppedOffTopic": 3,
-      "droppedModern": 12,
-      "elapsedMs": 2233
+      "droppedModern": 13,
+      "elapsedMs": 2346
     },
     {
       "id": "cambridge-caj",
@@ -442,7 +439,7 @@
       "kept": 17,
       "droppedOffTopic": 7,
       "droppedModern": 6,
-      "elapsedMs": 2251
+      "elapsedMs": 2449
     },
     {
       "id": "cambridge-ejarc",
@@ -455,7 +452,7 @@
       "kept": 14,
       "droppedOffTopic": 5,
       "droppedModern": 11,
-      "elapsedMs": 2218
+      "elapsedMs": 2540
     },
     {
       "id": "aquitania-persee",
@@ -468,7 +465,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 4685
+      "elapsedMs": 3597
     },
     {
       "id": "cuadernos-arq-unav",
@@ -481,7 +478,7 @@
       "kept": 18,
       "droppedOffTopic": 3,
       "droppedModern": 9,
-      "elapsedMs": 3738
+      "elapsedMs": 3940
     },
     {
       "id": "veleia-ehu",
@@ -494,7 +491,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3471
+      "elapsedMs": 3442
     },
     {
       "id": "flv-navarra",
@@ -507,7 +504,7 @@
       "kept": 17,
       "droppedOffTopic": 2,
       "droppedModern": 11,
-      "elapsedMs": 2470
+      "elapsedMs": 2593
     },
     {
       "id": "munibe-aa",
@@ -520,7 +517,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 2484
+      "elapsedMs": 2609
     },
     {
       "id": "trabajos-prehistoria",
@@ -533,7 +530,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 2585
+      "elapsedMs": 2695
     },
     {
       "id": "openalex-archaeology",
@@ -543,10 +540,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 13,
-      "droppedOffTopic": 12,
+      "kept": 14,
+      "droppedOffTopic": 11,
       "droppedModern": 5,
-      "elapsedMs": 2422
+      "elapsedMs": 2737
     }
   ],
   "items": [
@@ -574,6 +571,23 @@
       "url": "https://knowledge.lancashire.ac.uk/id/eprint/59168/2/Bowers_Thesis%20Submission%20Form.docx",
       "image": null,
       "publishedAt": "2029-01-01T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "erdi-aroa"
+      ]
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7161665350",
+      "title": "Birgittine Sites of Memory. Memorial Services as Expressions of Lived Religion in Testamentary Bequests to St Birgitta’s Monasteries in the 15th-Century Baltic Sea Region",
+      "summary": "Birgittine Sites of Memory. Memorial Services as Expressions of Lived Religion in Testamentary Bequests to St Birgitta’s Monasteries in the 15th-Century Baltic Sea Region",
+      "url": "https://research.abo.fi/en/publications/4749d554-4bcd-48c1-be8a-650c2e10f838",
+      "image": null,
+      "publishedAt": "2027-01-01T00:00:00.000Z",
       "source": {
         "id": "openalex-archaeology",
         "name": "OpenAlex — Arkeologia (mundua)"
@@ -5281,24 +5295,6 @@
       "topics": []
     },
     {
-      "id": "ancient-origins:https://www.ancient-origins.net/news-history-archaeology/sumerian-bitumen-00102535",
-      "title": "Black Gold: Sumerian Bitumen Recipes Worked Like Asphalt, 4,000 Years Ago",
-      "summary": "Black Gold: Sumerian Bitumen Recipes Worked Like Asphalt, 4,000 Years Ago Sumerian craftspeople in Mesopotamia didn’t simply scoop up natural bitumen and slap it on boats or bricks. A new materials study suggests they followed repeatable “recipes” that controlled strength,…",
-      "url": "https://www.ancient-origins.net/news-history-archaeology/sumerian-bitumen-00102535",
-      "image": "https://www.ancient-origins.net/sites/default/files/styles/large/public/field/image/SumerianBuilding.jpg?itok=Rpl6mR1O",
-      "publishedAt": "2026-02-19T23:47:26.000Z",
-      "source": {
-        "id": "ancient-origins",
-        "name": "Ancient Origins"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "ekialde-hurbila",
-        "aurkikuntza"
-      ]
-    },
-    {
       "id": "pnas-arch:https://openalex.org/W7128602947",
       "title": "Correction for Regattieri et al., A speleothem record from the Fertile Crescent covering the last deglaciation better contextualizes neolithization",
       "summary": "The authors note that Figs. 3 and 4 appeared incorrectly.\"In Fig. 3, the gray bar and the labels identifying the periods discussed in the text (YD/GS1 and BA/GS2) were incorrectly positioned.The gray bar identifying the BA should cover the interval between 14.6 and 12.7 ka,…",
@@ -8271,6 +8267,36 @@
       ]
     },
     {
+      "id": "openalex-archaeology:https://openalex.org/W7161684293",
+      "title": "Whispers to the Sky: Invoking the Rain God in the Hoodoom Puja of Koch-Rajbangshis of Western Assam",
+      "summary": "The folk life of the Koch-Rajbangshi community of Assam serves as an archive of their inherited values, traditions, and spiritual worldviews. Deeply grounded in agrarian practices and nature-worship, their folk life reflects a combination of Vedic customs and indigenous beliefs.…",
+      "url": "https://doi.org/10.5281/zenodo.20291712",
+      "image": null,
+      "publishedAt": "2026-12-25T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7161689166",
+      "title": "Whispers to the Sky: Invoking the Rain God in the Hoodoom Puja of Koch-Rajbangshis of Western Assam",
+      "summary": "The folk life of the Koch-Rajbangshi community of Assam serves as an archive of their inherited values, traditions, and spiritual worldviews. Deeply grounded in agrarian practices and nature-worship, their folk life reflects a combination of Vedic customs and indigenous beliefs.…",
+      "url": "https://doi.org/10.5281/zenodo.20291713",
+      "image": null,
+      "publishedAt": "2026-12-25T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
       "id": "openalex-archaeology:https://openalex.org/W7121581458",
       "title": "The Toponymic Stratification of Quattrocento Umbria: A Philological and Historical Validation of 'Ameria' in Beinecke MS 408",
       "summary": "AbstractThis paper addresses the alleged toponymic anachronism of the term \"Ameria\" as identified in the decipherment of the Voynich Manuscript (Beinecke MS 408). Critics have argued that the medieval vernacular \"Amelia\" renders the classical \"Ameria\" an impossibility for a…",
@@ -8366,6 +8392,192 @@
       },
       "lang": "en",
       "region": "world",
+      "topics": []
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002336?dgcid=rss_sd_all",
+      "title": "Exploring local and regional dynamics in the Bronze Age Kythera Island, Greece, through an analytical approach on archaeological data from Kataphygadi cave",
+      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Konstantinos P. Trimmis, Stavroula Fouriki, Patrick Quinn, Julie Dunne, Richard P. Evershed, Katie Faillace, Richard Madgwick, Morten Andersen, Marc-Alban Millet, Alexandra…",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002336?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-05-21T05:41:15.550Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002373?dgcid=rss_sd_all",
+      "title": "Settlement patterns, soils and agriculture in the early Neolithic (ca. 5600–4500 cal BC) of Southern Iberia",
+      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Juan Antonio Fernández-Morales, Daniel García-Rivero",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002373?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-05-21T05:41:15.549Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "iberia",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/cambiamento-climatico-distrugge-sito-archeologico-svalbard-balenieri/",
+      "title": "Il diavolo ruba abiti preziosi sul promontorio dei balenieri morti. Chi erano questi uomini? Perchè le loro tombe sono insidiate? Cosa contenevano con i corpi? Rispondono gli studiosi",
+      "summary": "Nell’Artico il terreno che per secoli ha custodito la memoria degli uomini sta diventando il suo distruttore. Non è un’immagine metaforica, ma la constatazione concreta di ciò che emerge da una nuova ricerca pubblicata in queste ore su PLOS One, dedicata al sito sepolcrale di…",
+      "url": "https://www.stilearte.it/cambiamento-climatico-distrugge-sito-archeologico-svalbard-balenieri/",
+      "image": null,
+      "publishedAt": "2026-05-21T05:36:52.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/feature/ramses-the-great-how-a-pharaoh-built-his-legacy/",
+      "title": "Ramses the Great: How a pharaoh built his legacy",
+      "summary": "Why is Ramses II considered to be ‘the Great’? An exhibition focusing on his life and times sheds light on how Ramses earned this accolade. Matthew Symonds shares what he learnt.",
+      "url": "https://the-past.com/feature/ramses-the-great-how-a-pharaoh-built-his-legacy/",
+      "image": null,
+      "publishedAt": "2026-05-21T05:00:01.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak",
+        "museoak"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/planet-earth/evolution/complex-animals-evolved-up-to-10-million-years-earlier-than-previously-thought-fossil-discovery-shows",
+      "title": "Complex animals evolved up to 10 million years earlier than previously thought, fossil discovery shows",
+      "summary": "Trove of fossils discovered in Canada sheds light on \"when life first became large, complex and unmistakenly animal.\"",
+      "url": "https://www.livescience.com/planet-earth/evolution/complex-animals-evolved-up-to-10-million-years-earlier-than-previously-thought-fossil-discovery-shows",
+      "image": "https://cdn.mos.cms.futurecdn.net/ETFQTuwenz9VZHyW6XAPjA-1280-80.jpg",
+      "publishedAt": "2026-05-20T22:28:18.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/feature/beyond-the-luxurious-tracing-the-late-antique-ivory-trade/",
+      "title": "Beyond the luxurious: Tracing the Late Antique ivory trade",
+      "summary": "Study of ivory use in the early medieval world is revealing fresh insights into how this material was viewed. The results have important implications for our understanding of the scale of the trade, and its impact on the elephants it exploited, as Rowan S English and Julia…",
+      "url": "https://the-past.com/feature/beyond-the-luxurious-tracing-the-late-antique-ivory-trade/",
+      "image": null,
+      "publishedAt": "2026-05-20T17:00:22.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/review/museum/the-egyptian-book-of-the-dead-2/",
+      "title": "The Egyptian Book of the Dead",
+      "summary": "An exhibition exploring ancient Egyptian funerary texts and traditions returns to the Getty Villa Museum.",
+      "url": "https://the-past.com/review/museum/the-egyptian-book-of-the-dead-2/",
+      "image": null,
+      "publishedAt": "2026-05-20T10:34:50.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak",
+        "museoak"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/800-year-old-notebook-and-fancy-silk-toilet-paper-discovered-in-medieval-latrine-in-germany",
+      "title": "800-year-old notebook and fancy silk toilet paper discovered in medieval latrine in Germany",
+      "summary": "Archaeologists recovered the 10-page wax notebook with Latin writing and its leather carrying case from a medieval latrine in Germany.",
+      "url": "https://www.livescience.com/archaeology/800-year-old-notebook-and-fancy-silk-toilet-paper-discovered-in-medieval-latrine-in-germany",
+      "image": "https://cdn.mos.cms.futurecdn.net/pyvU9bsXc4HS98bViDtZ8L-1280-80.png",
+      "publishedAt": "2026-05-20T10:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/review/books/the-early-and-middle-bronze-age-in-the-central-balkans/",
+      "title": "The Early and Middle Bronze Age in the Central Balkans",
+      "summary": "This volume examines the later phases of the Early Bronze Age and the Middle Bronze Age in the central Balkans, offering a comprehensive review of the archaeological evidence from the region. The",
+      "url": "https://the-past.com/review/books/the-early-and-middle-bronze-age-in-the-central-balkans/",
+      "image": null,
+      "publishedAt": "2026-05-20T09:33:08.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/relitto-cadice-argento-contrabbando-cannoni-seicento/",
+      "title": "“Giallo” nell’azzurro. Una rotta segreta? Perché? Scoprono sul fondale una misteriosa nave del Seicento. Argento e cannoni. Conti che non tornano. L’esplorazione",
+      "summary": "Per anni gli archeologi hanno pensato di trovarsi davanti a uno dei tanti relitti scomparsi lungo le grandi vie marittime del Seicento. Poi dal fondale hanno iniziato a emergere dettagli sempre più insoliti: enormi cannoni sparsi nel fango, lingotti d’argento nascosti tra i…",
+      "url": "https://www.stilearte.it/relitto-cadice-argento-contrabbando-cannoni-seicento/",
+      "image": null,
+      "publishedAt": "2026-05-20T09:31:21.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "amerika"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/review/books/ancient-nubian-art-a-history-2/",
+      "title": "Ancient Nubian Art: a history",
+      "summary": "A new synopsis of the history of Nubia is needed given the increase in new research in recent years; Freed’s focus on the art of the region is a refreshing take that",
+      "url": "https://the-past.com/review/books/ancient-nubian-art-a-history-2/",
+      "image": null,
+      "publishedAt": "2026-05-20T09:22:39.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
       "topics": []
     },
     {
@@ -8636,220 +8848,6 @@
       "region": "europe",
       "topics": [
         "prehistoria"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/santuario-veneti-antichi-ponso-padova-scoperta-archeologica/",
-      "title": "Veneto splendido. Santuario pre-romano scoperto ora in vista di lavori stradali a Ponso, in provincia di Padova. Altari e iscrizioni romane e in lingua locale. Cosa stanno trovando?",
-      "summary": "Notevoli scoperte a Ponso, nel Padovano, dove i lavori per la realizzazione del primo lotto funzionale della nuova Strada Regionale 10 “Padana Inferiore” hanno portato alla luce un complesso antico di rilievo eccezionale: un’area cultuale attiva già in età preromana e ancora…",
-      "url": "https://www.stilearte.it/santuario-veneti-antichi-ponso-padova-scoperta-archeologica/",
-      "image": null,
-      "publishedAt": "2026-05-19T09:00:10.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "bbc-history:https://www.historyextra.com/membership/lady-jane-grey-life-of-the-week-podcast/",
-      "title": "Lady Jane Grey: life of the week",
-      "summary": "Nicola Tallis explores the tumultuous life of Lady Jane Grey – from her reluctant accession to the throne to her tragically early death",
-      "url": "https://www.historyextra.com/membership/lady-jane-grey-life-of-the-week-podcast/",
-      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/05/Life-Lady-Jane-Grey-WL-AN-NO-WORDS-1ece48d.jpg",
-      "publishedAt": "2026-05-19T08:28:41.000Z",
-      "source": {
-        "id": "bbc-history",
-        "name": "BBC History Extra"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/05/una-de-las-misteriosas-vasijas-megaliticas-de-la-llanura-de-las-jarras-de-laos-contiene-restos-de-37-individuos-y-cuentas-de-vidrio-de-india-y-mesopotamia",
-      "title": "Una de las misteriosas vasijas megalíticas de la Llanura de las Jarras de Laos contiene restos de 37 individuos y cuentas de vidrio de India y Mesopotamia",
-      "summary": "Cientos de jarras de piedra, algunas de ellas con un peso de varias toneladas, aparecen dispersas a lo largo de las remotas tierras altas del norte de Laos. A pesar de que los investigadores llevan casi un siglo examinando este conjunto megalítico conocido como la Llanura de las…",
-      "url": "https://www.labrujulaverde.com/2026/05/una-de-las-misteriosas-vasijas-megaliticas-de-la-llanura-de-las-jarras-de-laos-contiene-restos-de-37-individuos-y-cuentas-de-vidrio-de-india-y-mesopotamia",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/05/urn-cambridge.org-id-binary-alt-20260512182956-82048-optimisedImage-png-S0003598X26103524_fig1.webp",
-      "publishedAt": "2026-05-19T08:00:46.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "ekialde-hurbila",
-        "asia"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/ragazza-di-strasburgo-mummia-bambina-ricostruzione-forense-dna/",
-      "title": "Indagini forensi e ricostruzione del volto per la mummia della piccola Biancaneve di Strasburgo. Morì nel Seicento. Chi era? La bara di cristallo. La cripta. Gli studi. La mostra",
-      "summary": "Una piccola figura vestita di seta, con le mani incrociate e una corona di fiori artificiali tra i resti del capo, ha attraversato quattro secoli senza perdere del tutto la propria identità. Per lungo tempo fu soltanto una presenza perturbante, quasi da teatro gotico, mostrata…",
-      "url": "https://www.stilearte.it/ragazza-di-strasburgo-mummia-bambina-ricostruzione-forense-dna/",
-      "image": null,
-      "publishedAt": "2026-05-19T07:30:49.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/foto-dallalto-cosa-sono-quelle-strane-strutture-nel-bosco-si-scende-sono-da-studiare-e-tutelare-la-storia-di-questo-angolo-di-bosco-e-degli-edifici/",
-      "title": "Foto dall’alto. Cosa sono quelle strane strutture nel bosco? Si scende. “Sono da studiare e tutelare”. La storia di questo angolo di bosco e degli edifici",
-      "summary": "Dall’alto, tra le pieghe del verde, sembrano quasi padiglioni enigmatici: strutture geometriche adagiate nel paesaggio, come resti di una civiltà dimenticata o installazioni contemporanee lasciate al silenzio del bosco. Solo avvicinandosi si comprende la loro vera natura. Non…",
-      "url": "https://www.stilearte.it/foto-dallalto-cosa-sono-quelle-strane-strutture-nel-bosco-si-scende-sono-da-studiare-e-tutelare-la-storia-di-questo-angolo-di-bosco-e-degli-edifici/",
-      "image": null,
-      "publishedAt": "2026-05-19T06:28:11.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002476?dgcid=rss_sd_all",
-      "title": "Stratigraphic and chronological evidence for overlapping Bronze Age tomb types in the Khaybar region, Saudi Arabia",
-      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Noisette Bec Drelon, Modwene Poulmarc’h, Hala Alarashi, Shadi Shabo, Kévin Guadagnini, Munirah AlMushawh, Guillaume Charloux, Rémy Crassard",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002476?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-05-19T05:34:54.587Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/oman-incisioni-rupestri-misterioso-idolo-pioggia-tecnica-nuova/",
-      "title": "Mio dio, vedete anche voi quello che vedo io? Una creatura mitica primitiva scoperta tra la sabbia. Cos’é? Chiama acqua dal cielo? Com’è stata realizzata? Che raccontano le figure?",
-      "summary": "Ci si imbatte in esso come in un’apparizione. La roccia rossiccia sembra spezzarsi per far fuoriuscire una creatura antropomorfa. Nell’insieme, qualcosa che somigli a una grossa lumaca, nella quale abita una divinità dal volto umano. Sarà il dio della pioggia e della prosperità?…",
-      "url": "https://www.stilearte.it/oman-incisioni-rupestri-misterioso-idolo-pioggia-tecnica-nuova/",
-      "image": null,
-      "publishedAt": "2026-05-19T05:08:16.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/archaeology/1-200-year-old-giant-death-jar-in-laos-contains-generations-of-human-skeletons",
-      "title": "1,200-year-old giant 'death jar' in Laos contains generations of human skeletons",
-      "summary": "Excavation of a large stone vessel from the mysterious Laos Plain of Jars has confirmed its use in an ancient funerary tradition.",
-      "url": "https://www.livescience.com/archaeology/1-200-year-old-giant-death-jar-in-laos-contains-generations-of-human-skeletons",
-      "image": "https://cdn.mos.cms.futurecdn.net/F8DhPpgZieoQ6KzPMBapSP-1280-80.png",
-      "publishedAt": "2026-05-18T23:01:00.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/archaeology/romans/doctors-kit-found-on-mount-vesuvius-victim-in-pompeii",
-      "title": "Doctor's kit found on Mount Vesuvius victim in Pompeii",
-      "summary": "A man who died in Pompeii during the eruption of Mount Vesuvius in A.D. 79 was carrying a medical kit with him, new scans reveal.",
-      "url": "https://www.livescience.com/archaeology/romans/doctors-kit-found-on-mount-vesuvius-victim-in-pompeii",
-      "image": "https://cdn.mos.cms.futurecdn.net/ZFYHbPkGAfx6QY4etLrx3G-1280-80.jpg",
-      "publishedAt": "2026-05-18T21:14:52.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/archaeology/950-year-old-burial-of-a-pet-dingo-is-first-clear-archaeological-evidence-of-humans-ritually-feeding-a-grave-anywhere-in-the-world",
-      "title": "950-year-old burial of a pet dingo is first clear archaeological evidence of humans ritually 'feeding' a grave anywhere in the world",
-      "summary": "Archaeologists have excavated the remains of a dingo that was buried by ancestors of the Australian Aboriginal Barkindji people and \"fed\" for the next 500 years with river mussels.",
-      "url": "https://www.livescience.com/archaeology/950-year-old-burial-of-a-pet-dingo-is-first-clear-archaeological-evidence-of-humans-ritually-feeding-a-grave-anywhere-in-the-world",
-      "image": "https://cdn.mos.cms.futurecdn.net/TUsek7BNbeah5m7QRR4ycN-1280-80.jpg",
-      "publishedAt": "2026-05-18T19:20:42.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "aranzadi-bsky:https://bsky.app/profile/aranzadi.bsky.social/post/3mm5hjn2msh2q",
-      "title": "",
-      "summary": "Ezagutu gure Komunitatea! 🏛️ Suberri Matelo Mitxelena: Ondarearen kudeaketan espezializatua da eta Aranzadiko Etnografia Sailean ondarea katalogatzen eta zabaltzen egiten du lan. Indusketa arkeologikoetan ere parte hartzen du.",
-      "url": "https://bsky.app/profile/aranzadi.bsky.social/post/3mm5hjn2msh2q",
-      "image": null,
-      "publishedAt": "2026-05-18T18:02:00.000Z",
-      "source": {
-        "id": "aranzadi-bsky",
-        "name": "Aranzadi (Bluesky)"
-      },
-      "lang": "eu",
-      "region": "basque",
-      "topics": [
-        "asia"
-      ]
-    },
-    {
-      "id": "guardian-arch:https://www.theguardian.com/science/2026/may/19/dingo-burial-site-first-nations-people-relationship-to-animals",
-      "title": "Signs of ‘feeding’ ritual at dingo burial site shed new light on bond between First Nations people and canines",
-      "summary": "Never documented archaeologically before, evidence points to First Nations people caring for and nursing the animal Get our breaking news email, free app or daily news podcast The discovery of a millennium-old dingo burial site in western New South Wales, including evidence of a…",
-      "url": "https://www.theguardian.com/science/2026/may/19/dingo-burial-site-first-nations-people-relationship-to-animals",
-      "image": "https://i.guim.co.uk/img/media/7fef4223e3684427188374586c52fe5486fdbe2c/126_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=1a5c3651aa9653c8d353b00002cf48cb",
-      "publishedAt": "2026-05-18T14:01:49.000Z",
-      "source": {
-        "id": "guardian-arch",
-        "name": "The Guardian — Archaeology"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/maggio-antica-roma-feste-morti-primavera/",
-      "title": "Affascinante. Roma antica e Impero. Il Maggio si celebrava tra brividi e profumi. Nozze da spostare. Fiori, fantasmi, lemuri. Cerimonie inquietanti? Quali erano i giorni festivi? A chi erano dedicati?",
-      "summary": "Per noi maggio è il mese della luce distesa, delle rose, delle promesse d’estate. Nell’immaginario occidentale contemporaneo coincide quasi automaticamente con la fioritura, con l’amore, con l’idea di una natura finalmente riconciliata con se stessa. Per gli antichi Romani,…",
-      "url": "https://www.stilearte.it/maggio-antica-roma-feste-morti-primavera/",
-      "image": null,
-      "publishedAt": "2026-05-18T10:28:53.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
       ]
     }
   ]
