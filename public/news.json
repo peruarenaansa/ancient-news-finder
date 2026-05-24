@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T04:57:47.205Z",
+  "generatedAt": "2026-05-24T05:30:58.497Z",
   "count": 500,
   "sources": [
     {
@@ -13,7 +13,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 677
+      "elapsedMs": 726
     },
     {
       "id": "naiz",
@@ -26,7 +26,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 775
+      "elapsedMs": 750
     },
     {
       "id": "argia-kultura",
@@ -39,7 +39,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1040
+      "elapsedMs": 939
     },
     {
       "id": "eitb-kultura",
@@ -52,7 +52,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 629
+      "elapsedMs": 727
     },
     {
       "id": "berria-bsky",
@@ -61,11 +61,11 @@
       "region": "basque",
       "kind": "news",
       "ok": true,
-      "fetched": 30,
+      "fetched": 29,
       "kept": 0,
-      "droppedOffTopic": 30,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2773
+      "elapsedMs": 2893
     },
     {
       "id": "aranzadi-bsky",
@@ -78,7 +78,7 @@
       "kept": 10,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 2823
+      "elapsedMs": 2879
     },
     {
       "id": "vianako-printzea",
@@ -91,7 +91,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1671
+      "elapsedMs": 1307
     },
     {
       "id": "labrujulaverde",
@@ -104,7 +104,7 @@
       "kept": 15,
       "droppedOffTopic": 1,
       "droppedModern": 4,
-      "elapsedMs": 1500
+      "elapsedMs": 1522
     },
     {
       "id": "desperta-ferro",
@@ -117,7 +117,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 3,
-      "elapsedMs": 1439
+      "elapsedMs": 1678
     },
     {
       "id": "elpais-cultura",
@@ -130,7 +130,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1591
+      "elapsedMs": 1610
     },
     {
       "id": "lemonde-sciences",
@@ -143,7 +143,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 916
+      "elapsedMs": 961
     },
     {
       "id": "lemonde-archeo",
@@ -156,7 +156,7 @@
       "kept": 11,
       "droppedOffTopic": 8,
       "droppedModern": 1,
-      "elapsedMs": 1394
+      "elapsedMs": 1251
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -165,11 +165,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 16,
+      "fetched": 17,
       "kept": 3,
-      "droppedOffTopic": 10,
+      "droppedOffTopic": 11,
       "droppedModern": 3,
-      "elapsedMs": 1372
+      "elapsedMs": 1331
     },
     {
       "id": "inrap-bsky",
@@ -182,7 +182,7 @@
       "kept": 4,
       "droppedOffTopic": 17,
       "droppedModern": 2,
-      "elapsedMs": 2838
+      "elapsedMs": 2966
     },
     {
       "id": "sudouest-culture",
@@ -193,9 +193,9 @@
       "ok": true,
       "fetched": 20,
       "kept": 0,
-      "droppedOffTopic": 20,
-      "droppedModern": 0,
-      "elapsedMs": 1471
+      "droppedOffTopic": 19,
+      "droppedModern": 1,
+      "elapsedMs": 1261
     },
     {
       "id": "corriere-cultura",
@@ -208,7 +208,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1957
+      "elapsedMs": 1898
     },
     {
       "id": "archeologiaviva",
@@ -221,7 +221,7 @@
       "kept": 1,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 2252
+      "elapsedMs": 2030
     },
     {
       "id": "stilearte",
@@ -231,10 +231,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 9,
-      "droppedOffTopic": 1,
+      "kept": 8,
+      "droppedOffTopic": 2,
       "droppedModern": 0,
-      "elapsedMs": 2334
+      "elapsedMs": 2106
     },
     {
       "id": "live-science-arch",
@@ -244,10 +244,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 3,
-      "droppedOffTopic": 27,
+      "kept": 4,
+      "droppedOffTopic": 26,
       "droppedModern": 0,
-      "elapsedMs": 2743
+      "elapsedMs": 2905
     },
     {
       "id": "bbc-history",
@@ -260,7 +260,7 @@
       "kept": 1,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 2024
+      "elapsedMs": 1921
     },
     {
       "id": "sciencedaily-arch",
@@ -273,7 +273,7 @@
       "kept": 14,
       "droppedOffTopic": 16,
       "droppedModern": 0,
-      "elapsedMs": 1847
+      "elapsedMs": 1859
     },
     {
       "id": "ancient-origins",
@@ -286,7 +286,7 @@
       "kept": 4,
       "droppedOffTopic": 5,
       "droppedModern": 1,
-      "elapsedMs": 2052
+      "elapsedMs": 1869
     },
     {
       "id": "guardian-arch",
@@ -299,7 +299,7 @@
       "kept": 11,
       "droppedOffTopic": 5,
       "droppedModern": 4,
-      "elapsedMs": 2245
+      "elapsedMs": 2151
     },
     {
       "id": "current-archaeology",
@@ -312,7 +312,7 @@
       "kept": 14,
       "droppedOffTopic": 9,
       "droppedModern": 7,
-      "elapsedMs": 2031
+      "elapsedMs": 2049
     },
     {
       "id": "jas-reports",
@@ -322,10 +322,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 9,
-      "droppedOffTopic": 2,
-      "droppedModern": 19,
-      "elapsedMs": 2006
+      "kept": 7,
+      "droppedOffTopic": 3,
+      "droppedModern": 20,
+      "elapsedMs": 1901
     },
     {
       "id": "plos-one-arch",
@@ -338,7 +338,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2201
+      "elapsedMs": 2023
     },
     {
       "id": "pnas-arch",
@@ -351,7 +351,7 @@
       "kept": 22,
       "droppedOffTopic": 6,
       "droppedModern": 2,
-      "elapsedMs": 2777
+      "elapsedMs": 2956
     },
     {
       "id": "sciencedirect-jas",
@@ -361,10 +361,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 9,
+      "kept": 8,
       "droppedOffTopic": 2,
-      "droppedModern": 19,
-      "elapsedMs": 2084
+      "droppedModern": 20,
+      "elapsedMs": 1981
     },
     {
       "id": "spal-us",
@@ -377,7 +377,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2864
+      "elapsedMs": 2960
     },
     {
       "id": "complutum-ucm",
@@ -390,7 +390,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 3207
+      "elapsedMs": 3104
     },
     {
       "id": "archeoarte",
@@ -403,7 +403,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2694
+      "elapsedMs": 3000
     },
     {
       "id": "cypsela",
@@ -416,7 +416,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2834
+      "elapsedMs": 2806
     },
     {
       "id": "cambridge-antiquity",
@@ -429,7 +429,7 @@
       "kept": 14,
       "droppedOffTopic": 4,
       "droppedModern": 12,
-      "elapsedMs": 2650
+      "elapsedMs": 2969
     },
     {
       "id": "cambridge-caj",
@@ -439,10 +439,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 17,
-      "droppedOffTopic": 7,
+      "kept": 16,
+      "droppedOffTopic": 8,
       "droppedModern": 6,
-      "elapsedMs": 2593
+      "elapsedMs": 2951
     },
     {
       "id": "cambridge-ejarc",
@@ -455,7 +455,7 @@
       "kept": 14,
       "droppedOffTopic": 5,
       "droppedModern": 11,
-      "elapsedMs": 2628
+      "elapsedMs": 2851
     },
     {
       "id": "aquitania-persee",
@@ -468,7 +468,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 4132
+      "elapsedMs": 4124
     },
     {
       "id": "cuadernos-arq-unav",
@@ -481,7 +481,7 @@
       "kept": 18,
       "droppedOffTopic": 3,
       "droppedModern": 9,
-      "elapsedMs": 4248
+      "elapsedMs": 4295
     },
     {
       "id": "veleia-ehu",
@@ -494,7 +494,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3835
+      "elapsedMs": 3865
     },
     {
       "id": "flv-navarra",
@@ -507,7 +507,7 @@
       "kept": 17,
       "droppedOffTopic": 2,
       "droppedModern": 11,
-      "elapsedMs": 2922
+      "elapsedMs": 3067
     },
     {
       "id": "munibe-aa",
@@ -520,7 +520,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 3034
+      "elapsedMs": 3087
     },
     {
       "id": "trabajos-prehistoria",
@@ -533,7 +533,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 3402
+      "elapsedMs": 3151
     },
     {
       "id": "openalex-archaeology",
@@ -546,7 +546,7 @@
       "kept": 14,
       "droppedOffTopic": 11,
       "droppedModern": 5,
-      "elapsedMs": 3048
+      "elapsedMs": 3277
     }
   ],
   "items": [
@@ -8400,6 +8400,125 @@
       "topics": []
     },
     {
+      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326001032?dgcid=rss_sd_all",
+      "title": "Detecting architectural features and stratigraphic deposits at a Pastoral Neolithic site using ground-penetrating radar",
+      "summary": "Publication date: July 2026 Source: Journal of Archaeological Science, Volume 191 Author(s): Brenna McWhorter Fennessey, Sylvia Wemanya, Audax Z.P. Mabulla, Agness O. Gidna, Mary E. Prendergast, Katherine M. Grillo",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326001032?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-05-24T05:30:56.170Z",
+      "source": {
+        "id": "sciencedirect-jas",
+        "name": "Journal of Archaeological Science (ScienceDirect)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001768?dgcid=rss_sd_all",
+      "title": "Palaeoecological and cultural changes in the Stone Age and the Bronze Age in the Yaselda River valley and on the shore of Lake Sporovskoye (Belarusian Polesie)",
+      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Dmitry Tsvirko, Piotr Kittel, Tatyana Yakubovskaya, Karol Witkowski, Mikola Kryvaltsevich, Aliaksandra Vaitovich, Aleh Tkachou, Yury Trifonov",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001768?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-05-24T05:30:56.069Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002373?dgcid=rss_sd_all",
+      "title": "Settlement patterns, soils and agriculture in the early Neolithic (ca. 5600–4500 cal BC) of Southern Iberia",
+      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Juan Antonio Fernández-Morales, Daniel García-Rivero",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002373?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-05-24T05:30:56.068Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "iberia",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002737?dgcid=rss_sd_all",
+      "title": "Exploitation of tuff from the late Upper Paleolithic to the Neolithic period in the Nenjiang Region, Northeastern China",
+      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Xuewei Zhang, Chunxue Wang, Jiaqi Wang, An Rui, Yutong Ran, Youqian Li",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002737?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-05-24T05:30:56.067Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "asia"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002750?dgcid=rss_sd_all",
+      "title": "Deadwood gathering in the ghost group of East Asia for the adaptation to the forest environment during the late prehistoric: Charcoal evidence from Xingyi site southwestern China",
+      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Mei Wu, Ditao Zhang, Chenhan Zhao, Xiaoqing Guo, Lu Chen, Xiaorui Li, Zhonghua Zhu, Liang zhang, Fengwen Liu",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002750?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-05-24T05:30:56.067Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "asia"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/technology/artificial-intelligence/ai-generated-images-are-making-it-impossible-to-distinguish-truth-from-fiction-we-need-laws-and-ai-watermarks-to-protect-our-shared-reality-opinion",
+      "title": "AI-generated images are making it impossible to distinguish truth from fiction. We need laws and AI watermarks to protect our shared reality.",
+      "summary": "Generative AI is destroying the baseline assumption that photographs bear some causal connection to reality. That's bad news for democracy.",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/ai-generated-images-are-making-it-impossible-to-distinguish-truth-from-fiction-we-need-laws-and-ai-watermarks-to-protect-our-shared-reality-opinion",
+      "image": "https://cdn.mos.cms.futurecdn.net/TdfBsQPvADWq5dALgB7ugQ-1280-80.jpg",
+      "publishedAt": "2026-05-23T14:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/05/los-romanos-reciclaban-estatuas-de-emperadores-un-estudio-revela-como-y-por-que-se-reesculpian-los-rostros-del-poder",
+      "title": "Los romanos reciclaban estatuas de emperadores: un estudio revela cómo y por qué se reesculpían los rostros del poder",
+      "summary": "En la antigua Roma, las estatuas de los emperadores no eran inmutables. Podían cambiar de rostro. Un soberano caído en desgracia veía cómo sus rasgos eran cincelados para dar paso a la imagen de su sucesor, o incluso a la de un antepasado venerado. Esta práctica, conocida en…",
+      "url": "https://www.labrujulaverde.com/2026/05/los-romanos-reciclaban-estatuas-de-emperadores-un-estudio-revela-como-y-por-que-se-reesculpian-los-rostros-del-poder",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/05/IMG_0006.webp",
+      "publishedAt": "2026-05-23T06:36:56.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
       "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S030544032600124X?dgcid=rss_sd_all",
       "title": "Combining elemental analysis and molecular techniques to characterize Ancient Egyptian mummification balms",
       "summary": "Publication date: July 2026 Source: Journal of Archaeological Science, Volume 191 Author(s): Colmenares-Prado Marta, Martínez Cortizas Antonio, Kaal Joeri, Benito Sánchez María, García Velasco María, López-Costas Olalla",
@@ -8744,122 +8863,6 @@
       "topics": [
         "prehistoria",
         "aurkikuntza"
-      ]
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/archaeology/ancient-egyptians/great-pyramid-of-giza-is-remarkably-resilient-to-earthquakes-and-its-due-to-the-ancient-egyptians-extraordinary-engineering-knowledge",
-      "title": "Great Pyramid of Giza is remarkably resilient to earthquakes —‬ and it's due to the ancient Egyptians' 'extraordinary' engineering knowledge",
-      "summary": "The Great Pyramid of Giza has survived for more than 4,600 years despite nearby earthquakes, and new research reveals why.",
-      "url": "https://www.livescience.com/archaeology/ancient-egyptians/great-pyramid-of-giza-is-remarkably-resilient-to-earthquakes-and-its-due-to-the-ancient-egyptians-extraordinary-engineering-knowledge",
-      "image": "https://cdn.mos.cms.futurecdn.net/kqGRi8Mg59aCRG2QaCZXBR-1280-80.jpg",
-      "publishedAt": "2026-05-21T15:00:00.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "egiptoarrak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/anello-sassone-woden-oro-essex/",
-      "title": "Soddisfazione e felicità. Che colpo! Credeva fosse un frammento di stagnola: dal terreno estrae invece un raro gioiello d’oro di 1.300 anni, pieno di simboli. Di cosa si tratta? Quanto guadagnerà?",
-      "summary": "Una piccola massa dorata coperta di terra umida emerge lentamente da un campo inglese. Per qualche secondo sembra un frammento insignificante, quasi un pezzo di stagnola aurea schiacciato dal tempo. Poi la luce colpisce la superficie e qualcosa cambia. Il metallo pesa troppo per…",
-      "url": "https://www.stilearte.it/anello-sassone-woden-oro-essex/",
-      "image": null,
-      "publishedAt": "2026-05-21T10:24:28.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "desperta-ferro:https://www.despertaferro-ediciones.com/2026/investigacion-arqueologica-cuando-el-hielo-asolaba-europa-clima-y-subsistencia-durante-la-ultima-glaciacion-edad-de-hielo-fundacion-palarq/",
-      "title": "Cuando el hielo asolaba Europa. Clima y subsistencia durante la última glaciación",
-      "summary": "El clima ha cambiado constantemente a lo largo de la historia de la Tierra, obligando a las poblaciones humanas a adaptarse para sobrevivir. La llegada de nuestra especie a Eurasia y a la península ibérica coincidió con un periodo de gran inestabilidad climática y temperaturas…",
-      "url": "https://www.despertaferro-ediciones.com/2026/investigacion-arqueologica-cuando-el-hielo-asolaba-europa-clima-y-subsistencia-durante-la-ultima-glaciacion-edad-de-hielo-fundacion-palarq/",
-      "image": null,
-      "publishedAt": "2026-05-21T09:57:04.000Z",
-      "source": {
-        "id": "desperta-ferro",
-        "name": "Desperta Ferro Ediciones"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/gioielli-oro-abbasidi-scoperta-dariyah-arabia-saudita/",
-      "title": "Piccoli fiori d’oro emergono dal deserto. Gli archeologi scavano lungo l’antica via dei pellegrini e trovano cento gioielli preziosi. A chi appartenevano? Chi li nascose?",
-      "summary": "Per oltre mille anni piccoli frammenti d’oro sono rimasti nascosti sotto la sabbia e le pietre di un’antica via carovaniera attraversata da mercanti e pellegrini diretti verso le città sacre dell’Islam. Gli archeologi li hanno recuperati lentamente durante gli scavi, uno dopo…",
-      "url": "https://www.stilearte.it/gioielli-oro-abbasidi-scoperta-dariyah-arabia-saudita/",
-      "image": null,
-      "publishedAt": "2026-05-21T09:30:21.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/05/el-imperio-sasanida-usaba-tecnologia-militar-avanzada-de-laton-en-sus-cascos-y-joyas-al-igual-que-los-romanos",
-      "title": "El imperio sasánida usaba tecnología militar avanzada de latón en sus cascos y equipamiento militar al igual que los romanos",
-      "summary": "Un equipo de científicos del British Museum y la Universidad de Cambridge ha analizado piezas arqueológicas procedentes de dos ciudades del imperio sasánida —Merv, en la actual Turkmenistán, y Nínive, en el actual Irak— y ha descubierto que el latón se utilizaba tanto para joyas…",
-      "url": "https://www.labrujulaverde.com/2026/05/el-imperio-sasanida-usaba-tecnologia-militar-avanzada-de-laton-en-sus-cascos-y-joyas-al-igual-que-los-romanos",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/05/1-s2.0-S2352226726000036-gr16_lrg.webp",
-      "publishedAt": "2026-05-21T07:48:06.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "erromatarrak",
-        "museoak"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/05/castoreo-la-secrecion-de-las-glandulas-anales-de-los-castores-que-se-usa-para-hacer-perfumes-y-en-alimentos-como-el-helado-de-vainilla",
-      "title": "Castóreo, la secreción de las glándulas anales de los castores que se usa para hacer perfumes y en alimentos como el helado de vainilla",
-      "summary": "«…Que había imitado al castor, el cual, viéndose acosado de los cazadores, se taraza y harpa con los dientes aquello por lo que él por instinto natural sabe que es perseguido…». Así narra Cervantes en El Quijote una leyenda popular basada en el testimonio del retórico romano…",
-      "url": "https://www.labrujulaverde.com/2026/05/castoreo-la-secrecion-de-las-glandulas-anales-de-los-castores-que-se-usa-para-hacer-perfumes-y-en-alimentos-como-el-helado-de-vainilla",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/05/A_beaver_eats_dinner_near_Horseshoe_Lake_on_Thursday_June_29_2017._3cfb595a-ef10-4f2f-bde7-54a95c02f734.webp",
-      "publishedAt": "2026-05-21T06:26:56.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002336?dgcid=rss_sd_all",
-      "title": "Exploring local and regional dynamics in the Bronze Age Kythera Island, Greece, through an analytical approach on archaeological data from Kataphygadi cave",
-      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Konstantinos P. Trimmis, Stavroula Fouriki, Patrick Quinn, Julie Dunne, Richard P. Evershed, Katie Faillace, Richard Madgwick, Morten Andersen, Marc-Alban Millet, Alexandra…",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002336?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-05-21T05:41:15.550Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
       ]
     }
   ]
