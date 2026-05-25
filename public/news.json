@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T05:30:58.497Z",
+  "generatedAt": "2026-05-25T05:55:00.546Z",
   "count": 500,
   "sources": [
     {
@@ -13,7 +13,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 726
+      "elapsedMs": 835
     },
     {
       "id": "naiz",
@@ -26,7 +26,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 750
+      "elapsedMs": 932
     },
     {
       "id": "argia-kultura",
@@ -39,7 +39,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 939
+      "elapsedMs": 1422
     },
     {
       "id": "eitb-kultura",
@@ -52,7 +52,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 727
+      "elapsedMs": 1080
     },
     {
       "id": "berria-bsky",
@@ -61,11 +61,11 @@
       "region": "basque",
       "kind": "news",
       "ok": true,
-      "fetched": 29,
+      "fetched": 30,
       "kept": 0,
-      "droppedOffTopic": 29,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2893
+      "elapsedMs": 2811
     },
     {
       "id": "aranzadi-bsky",
@@ -78,7 +78,7 @@
       "kept": 10,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 2879
+      "elapsedMs": 2852
     },
     {
       "id": "vianako-printzea",
@@ -91,7 +91,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1307
+      "elapsedMs": 1507
     },
     {
       "id": "labrujulaverde",
@@ -101,10 +101,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 15,
-      "droppedOffTopic": 1,
+      "kept": 16,
+      "droppedOffTopic": 0,
       "droppedModern": 4,
-      "elapsedMs": 1522
+      "elapsedMs": 1719
     },
     {
       "id": "desperta-ferro",
@@ -117,7 +117,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 3,
-      "elapsedMs": 1678
+      "elapsedMs": 1265
     },
     {
       "id": "elpais-cultura",
@@ -130,7 +130,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1610
+      "elapsedMs": 1705
     },
     {
       "id": "lemonde-sciences",
@@ -143,7 +143,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 961
+      "elapsedMs": 1034
     },
     {
       "id": "lemonde-archeo",
@@ -156,7 +156,7 @@
       "kept": 11,
       "droppedOffTopic": 8,
       "droppedModern": 1,
-      "elapsedMs": 1251
+      "elapsedMs": 1473
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -165,11 +165,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 17,
+      "fetched": 18,
       "kept": 3,
-      "droppedOffTopic": 11,
+      "droppedOffTopic": 12,
       "droppedModern": 3,
-      "elapsedMs": 1331
+      "elapsedMs": 1546
     },
     {
       "id": "inrap-bsky",
@@ -182,7 +182,7 @@
       "kept": 4,
       "droppedOffTopic": 17,
       "droppedModern": 2,
-      "elapsedMs": 2966
+      "elapsedMs": 2988
     },
     {
       "id": "sudouest-culture",
@@ -193,9 +193,9 @@
       "ok": true,
       "fetched": 20,
       "kept": 0,
-      "droppedOffTopic": 19,
-      "droppedModern": 1,
-      "elapsedMs": 1261
+      "droppedOffTopic": 20,
+      "droppedModern": 0,
+      "elapsedMs": 1373
     },
     {
       "id": "corriere-cultura",
@@ -208,7 +208,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1898
+      "elapsedMs": 2308
     },
     {
       "id": "archeologiaviva",
@@ -221,7 +221,7 @@
       "kept": 1,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 2030
+      "elapsedMs": 2313
     },
     {
       "id": "stilearte",
@@ -234,7 +234,7 @@
       "kept": 8,
       "droppedOffTopic": 2,
       "droppedModern": 0,
-      "elapsedMs": 2106
+      "elapsedMs": 2400
     },
     {
       "id": "live-science-arch",
@@ -247,7 +247,7 @@
       "kept": 4,
       "droppedOffTopic": 26,
       "droppedModern": 0,
-      "elapsedMs": 2905
+      "elapsedMs": 2869
     },
     {
       "id": "bbc-history",
@@ -260,7 +260,7 @@
       "kept": 1,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1921
+      "elapsedMs": 1897
     },
     {
       "id": "sciencedaily-arch",
@@ -270,10 +270,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 14,
-      "droppedOffTopic": 16,
+      "kept": 13,
+      "droppedOffTopic": 17,
       "droppedModern": 0,
-      "elapsedMs": 1859
+      "elapsedMs": 1927
     },
     {
       "id": "ancient-origins",
@@ -286,7 +286,7 @@
       "kept": 4,
       "droppedOffTopic": 5,
       "droppedModern": 1,
-      "elapsedMs": 1869
+      "elapsedMs": 1885
     },
     {
       "id": "guardian-arch",
@@ -299,7 +299,7 @@
       "kept": 11,
       "droppedOffTopic": 5,
       "droppedModern": 4,
-      "elapsedMs": 2151
+      "elapsedMs": 2110
     },
     {
       "id": "current-archaeology",
@@ -312,7 +312,7 @@
       "kept": 14,
       "droppedOffTopic": 9,
       "droppedModern": 7,
-      "elapsedMs": 2049
+      "elapsedMs": 1819
     },
     {
       "id": "jas-reports",
@@ -325,7 +325,7 @@
       "kept": 7,
       "droppedOffTopic": 3,
       "droppedModern": 20,
-      "elapsedMs": 1901
+      "elapsedMs": 1859
     },
     {
       "id": "plos-one-arch",
@@ -338,7 +338,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2023
+      "elapsedMs": 2011
     },
     {
       "id": "pnas-arch",
@@ -351,7 +351,7 @@
       "kept": 22,
       "droppedOffTopic": 6,
       "droppedModern": 2,
-      "elapsedMs": 2956
+      "elapsedMs": 2897
     },
     {
       "id": "sciencedirect-jas",
@@ -364,7 +364,7 @@
       "kept": 8,
       "droppedOffTopic": 2,
       "droppedModern": 20,
-      "elapsedMs": 1981
+      "elapsedMs": 1852
     },
     {
       "id": "spal-us",
@@ -377,7 +377,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2960
+      "elapsedMs": 2907
     },
     {
       "id": "complutum-ucm",
@@ -390,7 +390,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 3104
+      "elapsedMs": 3027
     },
     {
       "id": "archeoarte",
@@ -403,7 +403,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 3000
+      "elapsedMs": 2841
     },
     {
       "id": "cypsela",
@@ -416,7 +416,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2806
+      "elapsedMs": 2787
     },
     {
       "id": "cambridge-antiquity",
@@ -429,7 +429,7 @@
       "kept": 14,
       "droppedOffTopic": 4,
       "droppedModern": 12,
-      "elapsedMs": 2969
+      "elapsedMs": 2807
     },
     {
       "id": "cambridge-caj",
@@ -442,7 +442,7 @@
       "kept": 16,
       "droppedOffTopic": 8,
       "droppedModern": 6,
-      "elapsedMs": 2951
+      "elapsedMs": 2854
     },
     {
       "id": "cambridge-ejarc",
@@ -455,7 +455,7 @@
       "kept": 14,
       "droppedOffTopic": 5,
       "droppedModern": 11,
-      "elapsedMs": 2851
+      "elapsedMs": 2717
     },
     {
       "id": "aquitania-persee",
@@ -468,7 +468,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 4124
+      "elapsedMs": 4432
     },
     {
       "id": "cuadernos-arq-unav",
@@ -481,7 +481,7 @@
       "kept": 18,
       "droppedOffTopic": 3,
       "droppedModern": 9,
-      "elapsedMs": 4295
+      "elapsedMs": 4189
     },
     {
       "id": "veleia-ehu",
@@ -494,7 +494,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3865
+      "elapsedMs": 4009
     },
     {
       "id": "flv-navarra",
@@ -507,7 +507,7 @@
       "kept": 17,
       "droppedOffTopic": 2,
       "droppedModern": 11,
-      "elapsedMs": 3067
+      "elapsedMs": 3062
     },
     {
       "id": "munibe-aa",
@@ -520,7 +520,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 3087
+      "elapsedMs": 3389
     },
     {
       "id": "trabajos-prehistoria",
@@ -533,7 +533,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 3151
+      "elapsedMs": 2992
     },
     {
       "id": "openalex-archaeology",
@@ -546,7 +546,7 @@
       "kept": 14,
       "droppedOffTopic": 11,
       "droppedModern": 5,
-      "elapsedMs": 3277
+      "elapsedMs": 3085
     }
   ],
   "items": [
@@ -8400,6 +8400,120 @@
       "topics": []
     },
     {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002336?dgcid=rss_sd_all",
+      "title": "Exploring local and regional dynamics in the Bronze Age Kythera Island, Greece, through an analytical approach on archaeological data from Kataphygadi cave",
+      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Konstantinos P. Trimmis, Stavroula Fouriki, Patrick Quinn, Julie Dunne, Richard P. Evershed, Katie Faillace, Richard Madgwick, Morten Andersen, Marc-Alban Millet, Alexandra…",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002336?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-05-25T05:54:57.939Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/05/encuentran-en-etiopia-evidencias-de-que-el-homo-sapiens-cremaba-a-sus-muertos-hace-100000-anos-60000-antes-del-registro-mas-antiguo-conocido",
+      "title": "Encuentran en Etiopía evidencias de que el Homo sapiens cremaba a sus muertos hace 100000 años, 60000 antes del registro más antiguo conocido",
+      "summary": "Un equipo internacional de investigación, en el que participa Ferhat Kaya, investigador de la Academia de Finlandia en la Universidad de Oulu, ha descubierto lo que podría ser la evidencia más temprana de cremación humana. Los hallazgos se han producido en el Rift de Afar, en…",
+      "url": "https://www.labrujulaverde.com/2026/05/encuentran-en-etiopia-evidencias-de-que-el-homo-sapiens-cremaba-a-sus-muertos-hace-100000-anos-60000-antes-del-registro-mas-antiguo-conocido",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/05/homo-sapiens-cremation-labrujulaverde.com_.webp",
+      "publishedAt": "2026-05-24T15:01:52.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/science/2026/may/24/anna-ritchie-obituary",
+      "title": "Anna Ritchie obituary",
+      "summary": "Archaeologist whose excavations in Orkney included Knap of Howar, with domestic buildings more than 5,000 years old In 1970, on the far north-west corner of Mainland, Orkney, erosion threatened a low mound opposite the tidal island of the Brough of Birsay, a site of Pictish and…",
+      "url": "https://www.theguardian.com/science/2026/may/24/anna-ritchie-obituary",
+      "image": "https://i.guim.co.uk/img/media/b7be43ea2689fe467cf1b4b7d80f791a07f7e6d3/161_140_1678_1342/master/1678.jpg?width=140&quality=85&auto=format&fit=max&s=5bc1c2b3eb1cccdc25294ae023100b64",
+      "publishedAt": "2026-05-24T10:35:16.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/cracovia-scoperta-mine-anticarro-seconda-guerra-mondiale/",
+      "title": "Fermate i lavori. Cosa sono quelle vecchie “padelle”? Duecento pezzi recuperati dal terreno su cui sorgeranno gli alloggi studenteschi. A che epoca risalgono? La loro funzione?",
+      "summary": "Un contatto metallico. La pala viene fermata e gli operai accorrono per capire che cosa sia l’oggetto misterioso. E’ piatto. circolare, arrugginito. Il capo del cantiere blocca subito le operazioni. “Ora avviso la polizia” dice. “A quando risalgono questi materiali? Cosa c’era,…",
+      "url": "https://www.stilearte.it/cracovia-scoperta-mine-anticarro-seconda-guerra-mondiale/",
+      "image": null,
+      "publishedAt": "2026-05-24T10:33:33.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "bbc-history:https://www.historyextra.com/membership/how-did-ordinary-romans-worship-the-gods/",
+      "title": "How did ordinary Romans worship the gods? Scientists have found hidden clues in Pompeii",
+      "summary": ": Pompeii’s preserved household shrines are revealing what ordinary Romans really offered to their gods as sacrifices",
+      "url": "https://www.historyextra.com/membership/how-did-ordinary-romans-worship-the-gods/",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/05/GettyImages-527432782-ead2d0b-e1779445182831.jpg",
+      "publishedAt": "2026-05-24T10:15:01.000Z",
+      "source": {
+        "id": "bbc-history",
+        "name": "BBC History Extra"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/roma-cancellava-volti-imperatori-statue-caligola-augusto-nerone/",
+      "title": "Sai che Roma cancellava i volti dei sovrani odiati? Un nuovo studio rivela come Roma trasformasse le statue degli imperatori caduti in disgrazia: Caligola diventava Augusto, Nerone cambiava volto.",
+      "summary": "Per un cittadino romano, entrare in un foro o in una basilica significava trovarsi davanti ai volti del potere. Imperatori scolpiti nel marmo osservavano la folla da piazze, templi e edifici pubblici. Ma alcuni di quei volti, oggi considerati autentici, nascondono una storia…",
+      "url": "https://www.stilearte.it/roma-cancellava-volti-imperatori-statue-caligola-augusto-nerone/",
+      "image": null,
+      "publishedAt": "2026-05-24T08:56:45.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/legno-antico-aschaffenburg-struttura-celtica-meno/",
+      "title": "Questo legno ha 2400 anni. Fermano la ruspa. A 8 metri di profondità scoprono una strana struttura. Intervengono gli archeologi. Cosa c’era in questo punto? A cosa serviva la struttura antica? La datazione delle travi con la sequenza degli anelli",
+      "summary": "Per molto tempo, sepolta sotto strati di sedimenti e protetta dall’acqua del fiume, quella costruzione è rimasta invisibile, sottratta non solo allo sguardo ma anche alla memoria storica. Quando gli operai impegnati in un cantiere infrastrutturale ad Aschaffenburg, in Baviera,…",
+      "url": "https://www.stilearte.it/legno-antico-aschaffenburg-struttura-celtica-meno/",
+      "image": null,
+      "publishedAt": "2026-05-24T06:17:41.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
       "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326001032?dgcid=rss_sd_all",
       "title": "Detecting architectural features and stratigraphic deposits at a Pastoral Neolithic site using ground-penetrating radar",
       "summary": "Publication date: July 2026 Source: Journal of Archaeological Science, Volume 191 Author(s): Brenna McWhorter Fennessey, Sylvia Wemanya, Audax Z.P. Mabulla, Agness O. Gidna, Mary E. Prendergast, Katherine M. Grillo",
@@ -8737,131 +8851,6 @@
       "region": "basque",
       "topics": [
         "museoak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "vianako-printzea:https://revistas.navarra.es/index.php/PV/article/view/4202",
-      "title": "Territorios con alas. Museo-Centro Lenaerts y Jardín de Paulette",
-      "summary": "Este artículo tiene como objetivo presentar la trayectoria y los retos del Museo-Centro Lenaerts como proyecto al servicio del territorio, con vocación de servicio público y simbólicamente vinculado a iniciativas y propuestas relacionadas con la atención, el cuidado y la escucha…",
-      "url": "https://revistas.navarra.es/index.php/PV/article/view/4202",
-      "image": null,
-      "publishedAt": "2026-05-21T22:00:00.000Z",
-      "source": {
-        "id": "vianako-printzea",
-        "name": "Príncipe de Viana (Vianako Printzea)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "museoak"
-      ]
-    },
-    {
-      "id": "vianako-printzea:https://revistas.navarra.es/index.php/PV/article/view/4169",
-      "title": "Museo Arqueológico Las Eretas: historia del compromiso de una comunidad con su patrimonio cultural",
-      "summary": "La localidad navarra de Berbinzana cuenta con uno de los yacimientos de la Edad de Hierro más importantes de Navarra que actualmente, gracias al empeño de su ayuntamiento y vecindario, se puede comprender por el proyecto de musealización que se llevó a cabo y por la exposición…",
-      "url": "https://revistas.navarra.es/index.php/PV/article/view/4169",
-      "image": null,
-      "publishedAt": "2026-05-21T22:00:00.000Z",
-      "source": {
-        "id": "vianako-printzea",
-        "name": "Príncipe de Viana (Vianako Printzea)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "prehistoria",
-        "iberiarrak",
-        "museoak"
-      ]
-    },
-    {
-      "id": "vianako-printzea:https://revistas.navarra.es/index.php/PV/article/view/4156",
-      "title": "Museo del Castillo de Javier (Navarra). Trayectoria, obras y retos",
-      "summary": "El artículo presenta el recorrido que cualquier visitante puede realizar en el Castillo y Museo de Javier (Navarra). Se recoge la trayectoria histórica y las principales obras artísticas del lugar, poniendo en valor la riqueza del patrimonio material e inmaterial del castillo de…",
-      "url": "https://revistas.navarra.es/index.php/PV/article/view/4156",
-      "image": null,
-      "publishedAt": "2026-05-21T22:00:00.000Z",
-      "source": {
-        "id": "vianako-printzea",
-        "name": "Príncipe de Viana (Vianako Printzea)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "erdi-aroa",
-        "iberiarrak",
-        "museoak"
-      ]
-    },
-    {
-      "id": "vianako-printzea:https://revistas.navarra.es/index.php/PV/article/view/4201",
-      "title": "Casa-Museo Julián Gayarre. El recuerdo de una gran voz",
-      "summary": "El siguiente documento explica la relevancia tanto de la Casa-Museo como de la Fundación Julián Gayarre a la hora de preservar y difundir la figura del tenor lírico roncalés: dos piezas fundamentales para la pervivencia de su memoria y patrimonio. El amor y el orgullo que…",
-      "url": "https://revistas.navarra.es/index.php/PV/article/view/4201",
-      "image": null,
-      "publishedAt": "2026-05-21T22:00:00.000Z",
-      "source": {
-        "id": "vianako-printzea",
-        "name": "Príncipe de Viana (Vianako Printzea)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "museoak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "vianako-printzea:https://revistas.navarra.es/index.php/PV/article/view/4159",
-      "title": "Repensar la formación museológica: la mediación cultural como marco profesional crítico",
-      "summary": "Este artículo parte de una pregunta central: ¿cómo formar a los y las profesionales que necesitan los museos del presente y del futuro? Frente a una formación tradicional centrada en los objetos y los saberes técnicos, se propone integrar la mediación cultural como eje…",
-      "url": "https://revistas.navarra.es/index.php/PV/article/view/4159",
-      "image": null,
-      "publishedAt": "2026-05-21T22:00:00.000Z",
-      "source": {
-        "id": "vianako-printzea",
-        "name": "Príncipe de Viana (Vianako Printzea)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "museoak"
-      ]
-    },
-    {
-      "id": "aranzadi-bsky:https://bsky.app/profile/aranzadi.bsky.social/post/3mmf4b57og52k",
-      "title": "",
-      "summary": "⛏️ Aste gutxi barru berriz ekingo diegu udako indusketa arkeologikoei, iraganaren arrastoak berriro argitara ekartzeko. 🎙️ Irratian, Aranzadi Zientzia Elkartea-ko Juantxo Agirre Mauleónek boluntarioen garrantzia eta uda honetako aztarnategiak aipatu ditu: San Adrián, Koskobilo…",
-      "url": "https://bsky.app/profile/aranzadi.bsky.social/post/3mmf4b57og52k",
-      "image": null,
-      "publishedAt": "2026-05-21T19:02:00.000Z",
-      "source": {
-        "id": "aranzadi-bsky",
-        "name": "Aranzadi (Bluesky)"
-      },
-      "lang": "eu",
-      "region": "basque",
-      "topics": [
-        "asia"
-      ]
-    },
-    {
-      "id": "guardian-arch:https://www.theguardian.com/uk-news/2026/may/21/iron-age-objects-in-the-melsonby-hoard-may-offer-a-lesson-for-today",
-      "title": "Iron age objects in the Melsonby hoard may offer a lesson for today | Letters",
-      "summary": "Pete Clarkson wonders if attempts were made 2,000 years ago to bury the hatchet – and the cauldron Your fascinating article concerning the discovery of many buried artefacts near my home says that the big question is why the objects were buried (‘Magical’ objects from iron age…",
-      "url": "https://www.theguardian.com/uk-news/2026/may/21/iron-age-objects-in-the-melsonby-hoard-may-offer-a-lesson-for-today",
-      "image": "https://i.guim.co.uk/img/media/136772dda00a354cc6942164f42dfb7d1c299cec/400_0_3998_3200/master/3998.jpg?width=140&quality=85&auto=format&fit=max&s=53ccada76aec0f462b9d27aa173c70e4",
-      "publishedAt": "2026-05-21T16:36:54.000Z",
-      "source": {
-        "id": "guardian-arch",
-        "name": "The Guardian — Archaeology"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria",
         "aurkikuntza"
       ]
     }
