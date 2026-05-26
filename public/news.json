@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T05:55:00.546Z",
+  "generatedAt": "2026-05-26T05:34:26.716Z",
   "count": 500,
   "sources": [
     {
@@ -10,10 +10,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 0,
-      "droppedOffTopic": 20,
+      "kept": 1,
+      "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 835
+      "elapsedMs": 700
     },
     {
       "id": "naiz",
@@ -26,7 +26,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 932
+      "elapsedMs": 698
     },
     {
       "id": "argia-kultura",
@@ -39,7 +39,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1422
+      "elapsedMs": 873
     },
     {
       "id": "eitb-kultura",
@@ -52,7 +52,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1080
+      "elapsedMs": 682
     },
     {
       "id": "berria-bsky",
@@ -65,7 +65,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2811
+      "elapsedMs": 2120
     },
     {
       "id": "aranzadi-bsky",
@@ -75,10 +75,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 10,
-      "droppedOffTopic": 20,
+      "kept": 9,
+      "droppedOffTopic": 21,
       "droppedModern": 0,
-      "elapsedMs": 2852
+      "elapsedMs": 2146
     },
     {
       "id": "vianako-printzea",
@@ -91,7 +91,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1507
+      "elapsedMs": 1137
     },
     {
       "id": "labrujulaverde",
@@ -101,10 +101,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 16,
+      "kept": 17,
       "droppedOffTopic": 0,
-      "droppedModern": 4,
-      "elapsedMs": 1719
+      "droppedModern": 3,
+      "elapsedMs": 1405
     },
     {
       "id": "desperta-ferro",
@@ -117,7 +117,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 3,
-      "elapsedMs": 1265
+      "elapsedMs": 1669
     },
     {
       "id": "elpais-cultura",
@@ -127,10 +127,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 0,
-      "droppedOffTopic": 30,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1705
+      "elapsedMs": 631
     },
     {
       "id": "lemonde-sciences",
@@ -143,7 +143,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1034
+      "elapsedMs": 655
     },
     {
       "id": "lemonde-archeo",
@@ -156,7 +156,7 @@
       "kept": 11,
       "droppedOffTopic": 8,
       "droppedModern": 1,
-      "elapsedMs": 1473
+      "elapsedMs": 739
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -165,11 +165,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 18,
+      "fetched": 19,
       "kept": 3,
-      "droppedOffTopic": 12,
+      "droppedOffTopic": 13,
       "droppedModern": 3,
-      "elapsedMs": 1546
+      "elapsedMs": 1073
     },
     {
       "id": "inrap-bsky",
@@ -182,7 +182,7 @@
       "kept": 4,
       "droppedOffTopic": 17,
       "droppedModern": 2,
-      "elapsedMs": 2988
+      "elapsedMs": 2129
     },
     {
       "id": "sudouest-culture",
@@ -192,10 +192,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 0,
-      "droppedOffTopic": 20,
+      "kept": 1,
+      "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1373
+      "elapsedMs": 1209
     },
     {
       "id": "corriere-cultura",
@@ -208,7 +208,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2308
+      "elapsedMs": 1512
     },
     {
       "id": "archeologiaviva",
@@ -221,7 +221,7 @@
       "kept": 1,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 2313
+      "elapsedMs": 1932
     },
     {
       "id": "stilearte",
@@ -234,7 +234,7 @@
       "kept": 8,
       "droppedOffTopic": 2,
       "droppedModern": 0,
-      "elapsedMs": 2400
+      "elapsedMs": 1834
     },
     {
       "id": "live-science-arch",
@@ -244,10 +244,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 4,
-      "droppedOffTopic": 26,
+      "kept": 3,
+      "droppedOffTopic": 27,
       "droppedModern": 0,
-      "elapsedMs": 2869
+      "elapsedMs": 2064
     },
     {
       "id": "bbc-history",
@@ -260,7 +260,7 @@
       "kept": 1,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1897
+      "elapsedMs": 1698
     },
     {
       "id": "sciencedaily-arch",
@@ -270,10 +270,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 13,
-      "droppedOffTopic": 17,
+      "kept": 12,
+      "droppedOffTopic": 18,
       "droppedModern": 0,
-      "elapsedMs": 1927
+      "elapsedMs": 1649
     },
     {
       "id": "ancient-origins",
@@ -286,7 +286,7 @@
       "kept": 4,
       "droppedOffTopic": 5,
       "droppedModern": 1,
-      "elapsedMs": 1885
+      "elapsedMs": 1491
     },
     {
       "id": "guardian-arch",
@@ -299,7 +299,7 @@
       "kept": 11,
       "droppedOffTopic": 5,
       "droppedModern": 4,
-      "elapsedMs": 2110
+      "elapsedMs": 1523
     },
     {
       "id": "current-archaeology",
@@ -312,7 +312,7 @@
       "kept": 14,
       "droppedOffTopic": 9,
       "droppedModern": 7,
-      "elapsedMs": 1819
+      "elapsedMs": 1534
     },
     {
       "id": "jas-reports",
@@ -325,7 +325,7 @@
       "kept": 7,
       "droppedOffTopic": 3,
       "droppedModern": 20,
-      "elapsedMs": 1859
+      "elapsedMs": 1485
     },
     {
       "id": "plos-one-arch",
@@ -338,7 +338,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2011
+      "elapsedMs": 1691
     },
     {
       "id": "pnas-arch",
@@ -351,7 +351,7 @@
       "kept": 22,
       "droppedOffTopic": 6,
       "droppedModern": 2,
-      "elapsedMs": 2897
+      "elapsedMs": 2308
     },
     {
       "id": "sciencedirect-jas",
@@ -364,7 +364,7 @@
       "kept": 8,
       "droppedOffTopic": 2,
       "droppedModern": 20,
-      "elapsedMs": 1852
+      "elapsedMs": 1480
     },
     {
       "id": "spal-us",
@@ -377,7 +377,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2907
+      "elapsedMs": 2371
     },
     {
       "id": "complutum-ucm",
@@ -390,7 +390,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 3027
+      "elapsedMs": 2631
     },
     {
       "id": "archeoarte",
@@ -403,7 +403,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2841
+      "elapsedMs": 2252
     },
     {
       "id": "cypsela",
@@ -416,7 +416,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2787
+      "elapsedMs": 2180
     },
     {
       "id": "cambridge-antiquity",
@@ -429,7 +429,7 @@
       "kept": 14,
       "droppedOffTopic": 4,
       "droppedModern": 12,
-      "elapsedMs": 2807
+      "elapsedMs": 2071
     },
     {
       "id": "cambridge-caj",
@@ -442,7 +442,7 @@
       "kept": 16,
       "droppedOffTopic": 8,
       "droppedModern": 6,
-      "elapsedMs": 2854
+      "elapsedMs": 2095
     },
     {
       "id": "cambridge-ejarc",
@@ -455,7 +455,7 @@
       "kept": 14,
       "droppedOffTopic": 5,
       "droppedModern": 11,
-      "elapsedMs": 2717
+      "elapsedMs": 2038
     },
     {
       "id": "aquitania-persee",
@@ -468,7 +468,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 4432
+      "elapsedMs": 3270
     },
     {
       "id": "cuadernos-arq-unav",
@@ -481,7 +481,7 @@
       "kept": 18,
       "droppedOffTopic": 3,
       "droppedModern": 9,
-      "elapsedMs": 4189
+      "elapsedMs": 3647
     },
     {
       "id": "veleia-ehu",
@@ -494,7 +494,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 4009
+      "elapsedMs": 3191
     },
     {
       "id": "flv-navarra",
@@ -507,7 +507,7 @@
       "kept": 17,
       "droppedOffTopic": 2,
       "droppedModern": 11,
-      "elapsedMs": 3062
+      "elapsedMs": 2185
     },
     {
       "id": "munibe-aa",
@@ -520,7 +520,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 3389
+      "elapsedMs": 2333
     },
     {
       "id": "trabajos-prehistoria",
@@ -533,7 +533,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 2992
+      "elapsedMs": 2210
     },
     {
       "id": "openalex-archaeology",
@@ -546,7 +546,7 @@
       "kept": 14,
       "droppedOffTopic": 11,
       "droppedModern": 5,
-      "elapsedMs": 3085
+      "elapsedMs": 2224
     }
   ],
   "items": [
@@ -8400,6 +8400,221 @@
       "topics": []
     },
     {
+      "id": "noticiasdenavarra:https://www.noticiasdenavarra.com/opinion/2026/05/26/alabar-jetas-o-lapidar-lumbreras-11116582.html",
+      "title": "Alabar a los jetas o lapidar a las lumbreras",
+      "summary": "Se ha vuelto difícil discernir si detrás de cada incendio hay solo una quema de rastrojos o arde Troya. El humo es suficiente para velar el entendimiento. Lo de Rodríguez Zapatero está echando uno muy negro y de muy mal olor. Seguramente, si no lleváramos tanto tiempo viendo…",
+      "url": "https://www.noticiasdenavarra.com/opinion/2026/05/26/alabar-jetas-o-lapidar-lumbreras-11116582.html",
+      "image": "https://estaticosgn-cdn.deia.eus/clip/6992fafa-7127-47d4-ac56-3eaa0e48188d_16-9-aspect-ratio_default_0_x920y118.jpg",
+      "publishedAt": "2026-05-26T05:20:09.000Z",
+      "source": {
+        "id": "noticiasdenavarra",
+        "name": "Noticias de Navarra"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": []
+    },
+    {
+      "id": "sudouest-culture:https://www.sudouest.fr/charente-maritime/saintes/saintes-un-musee-intermediaire-pour-les-collections-archeologiques-29220159.php",
+      "title": "Saintes : un musée « intermédiaire » pour les collections archéologiques ?",
+      "summary": "En attendant l’éclosion du « projet muséal », le maire veut réfléchir à une délocalisation du Musée archéologique, rouvert samedi 23 mai après avoir souffert des inondations, et qui reste sous la menace",
+      "url": "https://www.sudouest.fr/charente-maritime/saintes/saintes-un-musee-intermediaire-pour-les-collections-archeologiques-29220159.php",
+      "image": null,
+      "publishedAt": "2026-05-25T16:00:00.000Z",
+      "source": {
+        "id": "sudouest-culture",
+        "name": "Sud Ouest — Culture"
+      },
+      "lang": "fr",
+      "region": "basque",
+      "topics": [
+        "museoak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/05/descubren-como-se-extendio-la-arquitectura-megalitica-por-europa-no-fue-mediante-migraciones",
+      "title": "Descubren cómo se extendió la arquitectura megalítica por Europa: no fue mediante migraciones",
+      "summary": "Que hijos de relaciones anteriores crezcan como hermanos en una nueva familia, o que las parejas adopten o acojan niños –las llamadas familias ensambladas– constituyen hoy un modelo de convivencia generalizado. Se consideran modernas, pero son en realidad antiguas. Así lo…",
+      "url": "https://www.labrujulaverde.com/2026/05/descubren-como-se-extendio-la-arquitectura-megalitica-por-europa-no-fue-mediante-migraciones",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/05/082-verwandtschaft-jungsteinzeit-01.webp",
+      "publishedAt": "2026-05-25T15:57:16.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/05/fosiles-de-la-grulla-gigante-mas-antigua-de-europa-y-el-cuervo-mas-antiguo-de-la-peninsula-iberica-encontrados-en-granada",
+      "title": "Fósiles de la grulla gigante más antigua de Europa y el cuervo más antiguo de la Península Ibérica encontrados en Granada",
+      "summary": "La imagen actual del altiplano granadino, dominada por paisajes áridos y semidesérticos, resulta engañosa si se retrocede en el tiempo hasta hace aproximadamente un millón y medio de años. Por entonces, la cuenca de Baza albergaba un extenso humedal de más de 1.000 kilómetros…",
+      "url": "https://www.labrujulaverde.com/2026/05/fosiles-de-la-grulla-gigante-mas-antigua-de-europa-y-el-cuervo-mas-antiguo-de-la-peninsula-iberica-encontrados-en-granada",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/05/oo_1636939.webp",
+      "publishedAt": "2026-05-25T14:43:15.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": []
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/05/260525000459.htm",
+      "title": "This prehistoric fish may explain how animals first walked on Earth",
+      "summary": "Scientists have peered inside the skull of a 380-million-year-old Antarctic fish that was closely related to the first animals to walk on land, revealing surprising clues about how life began its move out of the water. Using advanced neutron imaging, researchers discovered that…",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260525000459.htm",
+      "image": null,
+      "publishedAt": "2026-05-25T13:30:01.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/05/descubren-huellas-dactilares-de-artesanos-y-funcionarios-en-el-reverso-de-sellos-de-arcilla-de-la-antigua-jerusalen",
+      "title": "Descubren huellas dactilares de artesanos y funcionarios en el reverso de sellos de arcilla de la antigua Jerusalén",
+      "summary": "Cuando un pedido llega a casa, el consumidor contemporáneo inspecciona el precinto del embalaje: una lámina de plástico o una cinta adhesiva que garantiza que nadie ha abierto la caja antes de tiempo. Esa necesidad de verificar la integridad de un envío no es un capricho…",
+      "url": "https://www.labrujulaverde.com/2026/05/descubren-huellas-dactilares-de-artesanos-y-funcionarios-en-el-reverso-de-sellos-de-arcilla-de-la-antigua-jerusalen",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/05/708376755_1285642850410530_1848347725261626197_n.webp",
+      "publishedAt": "2026-05-25T11:08:50.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/abiti-legno-relitto-seicento-finlandia-design-sostenibile/",
+      "title": "Pazzesco. Questo abito è stato prodotto con legno archeologico recuperato da un relitto del Seicento. Come hanno fatto? Ci saranno linee esclusive costosissime ricavate da materiali del passato?",
+      "summary": "Un relitto del Seicento che si trasforma in abito contemporaneo: non una suggestione artistica, ma una concreta sperimentazione scientifica che porta il patrimonio archeologico dentro una delle grandi questioni del nostro tempo, quella dei materiali sostenibili. La novità che…",
+      "url": "https://www.stilearte.it/abiti-legno-relitto-seicento-finlandia-design-sostenibile/",
+      "image": null,
+      "publishedAt": "2026-05-25T10:41:00.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/bullae-gerusalemme-antica-sigilli-argilla/",
+      "title": "Scoprono strani segni e disegni sull’argilla. Sono minuscoli! Tracce di corde, papiri e impronte digitali. Gli incendi salvarono questi reperti straordinari di oltre 2.000 anni. Cosa sono? A cosa servivano?",
+      "summary": "Nelle scorse ore piccoli frammenti di argilla anneriti dal fuoco, grandi appena pochi centimetri, sono al centro dell’attenzione degli archeologi dopo nuove analisi condotte su reperti rimasti sepolti per oltre duemila anni. Su alcune superfici compaiono segni quasi invisibili:…",
+      "url": "https://www.stilearte.it/bullae-gerusalemme-antica-sigilli-argilla/",
+      "image": null,
+      "publishedAt": "2026-05-25T10:16:09.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/reperti-anomali-definiscono-tempio-romano-luguvallium-carlisle-inghilterra/",
+      "title": "Scoperti strani oggetti presso il forte romano. Cosa sono queste pietre? E i fori? Emerge anche un foglio di rame. Era il diploma di un militare? E perchè altre gemme, mortai, pestelli, monete, aghi, resti di cervo, ceramiche incise? Verso la spiegazione",
+      "summary": "Immaginatevi di essere un detective. L’edificio trovato ora presso il forte di Vindolanda vi mette a dura prova. Gli oggetti che vengono alla luce, durante gli scavi della struttura dalle mura possenti, a ridosso dei resti di antichi edifici militari, a Luguvallium, oggi…",
+      "url": "https://www.stilearte.it/reperti-anomali-definiscono-tempio-romano-luguvallium-carlisle-inghilterra/",
+      "image": null,
+      "publishedAt": "2026-05-25T08:59:43.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "elpais-cultura:https://elpais.com/cultura/2026-05-25/la-policia-nacional-recupera-dos-oleos-del-siglo-xvii-desaparecidos-hace-casi-100-anos.html",
+      "title": "La Policía Nacional recupera dos óleos del siglo XVII desaparecidos hace casi 100 años",
+      "summary": "Los agentes identifican en una subasta dos obras del artista sevillano Lucas Valdés cuyo rastro se había perdido desde la Exposición Iberoamericana de 1930 en la ciudad",
+      "url": "https://elpais.com/cultura/2026-05-25/la-policia-nacional-recupera-dos-oleos-del-siglo-xvii-desaparecidos-hace-casi-100-anos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/WGUOYWJP3VEX3AFWF7MRAHH73M.jpeg?auth=4c3884b9377d579e1171316c37b914c331d7b398904ef82df6cc9fb2e3261074",
+      "publishedAt": "2026-05-25T08:57:10.000Z",
+      "source": {
+        "id": "elpais-cultura",
+        "name": "El País — Cultura"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "iberiarrak",
+        "museoak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/relitto-romano-fondi-spiaggia-chiusa/",
+      "title": "Passeggiano in queste ore sulla spiaggia e notano qualcosa di strano. Sotto il mare emergono assi e strutture antiche. Una spiaggia viene chiusa all’improvviso dai Carabinieri vicino Roma. Gli archeologi pensano a un relitto romano",
+      "summary": "Il mare restituisce frammenti di storia nei modi più inattesi. A volte basta una mareggiata, un movimento della sabbia o una luce diversa sul fondale perché qualcosa riaffiori dal passato. È quanto starebbe accadendo in queste ore sul litorale di Fondi, nel basso Lazio, dove un…",
+      "url": "https://www.stilearte.it/relitto-romano-fondi-spiaggia-chiusa/",
+      "image": null,
+      "publishedAt": "2026-05-25T08:47:33.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/05/encuentran-mas-de-veinte-bases-de-estatuas-votivas-aun-colocadas-en-su-lugar-original-en-el-santuario-de-apolo-en-frangissa-en-chipre",
+      "title": "Encuentran más de veinte bases de estatuas votivas aun colocadas en su lugar original en el santuario de Apolo en Frangissa en Chipre",
+      "summary": "El Departamento de Antigüedades del Viceministerio de Cultura ha anunciado la conclusión de la quinta campaña de excavación arqueológica moderna en el santuario de Apolo en Frangissa (o Fragkissa), ubicado en la zona de Pera Oreinis en la isla de Chipre, a cargo de las…",
+      "url": "https://www.labrujulaverde.com/2026/05/encuentran-mas-de-veinte-bases-de-estatuas-votivas-aun-colocadas-en-su-lugar-original-en-el-santuario-de-apolo-en-frangissa-en-chipre",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/05/22052026-Yf.-Politismou-Fig_2.webp",
+      "publishedAt": "2026-05-25T08:25:12.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/05/descendio-alejandro-magno-a-las-profundidades-del-oceano-el-increible-mito-del-rey-conquistador-y-su-campana-de-buceo",
+      "title": "¿Descendió Alejandro Magno a las profundidades del océano? El increíble mito del rey conquistador y su campana de buceo",
+      "summary": "Imaginen por un momento la siguiente escena: bajo la superficie de un océano repleto de peces de todos los tamaños y colores, un hombre con aspecto de rey, sentado dentro de un barril de cristal, observa el mundo marino con expresión sombría. Sobre el agua, en una pequeña barca,…",
+      "url": "https://www.labrujulaverde.com/2026/05/descendio-alejandro-magno-a-las-profundidades-del-oceano-el-increible-mito-del-rey-conquistador-y-su-campana-de-buceo",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/05/IMG_0023.webp",
+      "publishedAt": "2026-05-25T07:25:26.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002336?dgcid=rss_sd_all",
       "title": "Exploring local and regional dynamics in the Bronze Age Kythera Island, Greece, through an analytical approach on archaeological data from Kataphygadi cave",
       "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Konstantinos P. Trimmis, Stavroula Fouriki, Patrick Quinn, Julie Dunne, Richard P. Evershed, Katie Faillace, Richard Madgwick, Morten Andersen, Marc-Alban Millet, Alexandra…",
@@ -8630,228 +8845,6 @@
       "region": "world",
       "topics": [
         "erromatarrak"
-      ]
-    },
-    {
-      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S030544032600124X?dgcid=rss_sd_all",
-      "title": "Combining elemental analysis and molecular techniques to characterize Ancient Egyptian mummification balms",
-      "summary": "Publication date: July 2026 Source: Journal of Archaeological Science, Volume 191 Author(s): Colmenares-Prado Marta, Martínez Cortizas Antonio, Kaal Joeri, Benito Sánchez María, García Velasco María, López-Costas Olalla",
-      "url": "https://www.sciencedirect.com/science/article/pii/S030544032600124X?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-05-23T04:57:45.029Z",
-      "source": {
-        "id": "sciencedirect-jas",
-        "name": "Journal of Archaeological Science (ScienceDirect)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "egiptoarrak"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002464?dgcid=rss_sd_all",
-      "title": "Between the symbolic and the domestic in the Bronze Age of the middle Tagus Valley: New contributions from the Barrio del Castillo (Torrejón de Ardoz, Madrid, Spain)",
-      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Verónica Estaca-Gómez, Mónica Major-González, Jorge Cañas-Martínez",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002464?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-05-23T04:57:44.927Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "iberia",
-      "topics": [
-        "prehistoria",
-        "erdi-aroa"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/santuario-apollo-frangissa-cipro-scoperta/",
-      "title": "Scavano in un misterioso luogo dimenticato per oltre cento anni. Basi in pietra sovrapposte, statue spezzate e offerte rituali. Cosa c’era qui? Cosa hanno trovato gli archeologi con grande stupore?",
-      "summary": "Per decenni quel pendio rimasto nascosto tra le colline mediterranee aveva conservato sotto la terra centinaia di frammenti dimenticati: piedi spezzati di statue votive, basi in pietra calcarea accatastate una sopra l’altra, tracce di antichi rituali e livelli archeologici…",
-      "url": "https://www.stilearte.it/santuario-apollo-frangissa-cipro-scoperta/",
-      "image": null,
-      "publishedAt": "2026-05-23T04:30:00.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/tesoretto-monete-greche-gela-scoperta-archeologica/",
-      "title": "Scoperta archeologica a Gela: tesoretto di 71 monete greche del V secolo a.C. nel cantiere del nuovo Palazzo della Cultura. Cosa c’era in quel punto? Un sacello? Un’area sacra? Le prime risposte dagli scavi",
-      "summary": "Una scoperta archeologica di rilievo è stata compiuta nelle ore scorse a Gela, città che continua a restituire testimonianze decisive della Sicilia greca. Durante attività di archeologia preventiva nel sito di Orto Fontanelle, nell’area interessata dai lavori finanziati dal Pnrr…",
-      "url": "https://www.stilearte.it/tesoretto-monete-greche-gela-scoperta-archeologica/",
-      "image": null,
-      "publishedAt": "2026-05-22T14:39:30.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "greziarrak"
-      ]
-    },
-    {
-      "id": "inrap-bsky:https://bsky.app/profile/inrap.fr/post/3mmh2gvhsf22m",
-      "title": "",
-      "summary": "« Agde grecque – découvertes archéologiques du Rhône aux Pyrénées », une nouvelle exposition à découvrir au musée de l’Éphèbe à Agde ! Coproduite dans le cadre de la saison gauloise de l'Inrap, avec la ville d’Agde - musée de l’Éphèbe et l’Inrap. En savoir plus 👉…",
-      "url": "https://bsky.app/profile/inrap.fr/post/3mmh2gvhsf22m",
-      "image": null,
-      "publishedAt": "2026-05-22T13:35:00.000Z",
-      "source": {
-        "id": "inrap-bsky",
-        "name": "Inrap (Bluesky)"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": [
-        "greziarrak",
-        "museoak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/05/entre-las-miles-de-cartas-que-han-sobrevivido-de-la-antigua-grecia-no-hay-ni-una-sola-de-amor-lo-que-nos-cuentan-de-la-vida-en-la-antiguedad",
-      "title": "Entre las miles de cartas que han sobrevivido de la Antigua Grecia no hay ni una sola de amor: lo que nos cuentan de la vida en la Antigüedad",
-      "summary": "Cuando imaginamos la antigua Grecia, solemos pensar en mármol, tragedias, filósofos y guerras. Pero los griegos también fueron un pueblo de cartas. El libro Life and Letters in the Ancient Greek World (La vida y las cartas en el mundo griego antiguo), del profesor John Muir y…",
-      "url": "https://www.labrujulaverde.com/2026/05/entre-las-miles-de-cartas-que-han-sobrevivido-de-la-antigua-grecia-no-hay-ni-una-sola-de-amor-lo-que-nos-cuentan-de-la-vida-en-la-antiguedad",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/05/5525DEDC-487C-42EB-8938-6915AC7BB3A1-2.webp",
-      "publishedAt": "2026-05-22T09:28:49.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "europe",
-      "topics": [
-        "greziarrak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/ricca-tomba-femminile-danimarca-eta-ferro-romana/",
-      "title": "Scavano. Nuovi splendidi ritrovamenti. Cosa sono? Un elegante corredo femminile del IV secolo? Ondata romana. Cosa è una tutulusfibula? Raggi X sul blocco di terra. Le risposte",
-      "summary": "Per giorni gli archeologi hanno lavorato tra terra compatta, tracce di antichi focolari e fosse scavate secoli fa senza immaginare cosa si nascondesse sotto quel campo apparentemente anonimo. Poi, durante la pulizia di una piccola area più scura del terreno, sono comparsi…",
-      "url": "https://www.stilearte.it/ricca-tomba-femminile-danimarca-eta-ferro-romana/",
-      "image": null,
-      "publishedAt": "2026-05-22T08:40:56.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak",
-        "egiptoarrak"
-      ]
-    },
-    {
-      "id": "guardian-arch:https://www.theguardian.com/uk-news/2026/may/22/english-heritage-neolithic-kusuma-hall-stonehenge",
-      "title": "English Heritage unveils recreation of 4,500-year-old Neolithic hall near Stonehenge",
-      "summary": "The Kusuma Neolithic Hall, based on Durrington 68 site, will allow visitors to ‘step back in time’ into the lives of those who built the stone circle It may have been a place for ceremony or a barn for pack animals. It could have been a place for weary labourers to rest their…",
-      "url": "https://www.theguardian.com/uk-news/2026/may/22/english-heritage-neolithic-kusuma-hall-stonehenge",
-      "image": "https://i.guim.co.uk/img/media/86d29aa7e256e05be847cb3d402419417a5c54b7/681_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=df51dd0d1b1cda8137311db1e8c4697b",
-      "publishedAt": "2026-05-22T07:00:54.000Z",
-      "source": {
-        "id": "guardian-arch",
-        "name": "The Guardian — Archaeology"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/maschera-teatrale-greca-grotta-croazia-santuario-illirico/",
-      "title": "La scoperta. Nell’oscurità della grotta, le risate di Bacco riecheggiano tra antichi sepolcri. Scoperta una maschera di 2300 anni fa. I riti offertoriali. Ma che c’era in quel punto del lago nero?",
-      "summary": "La grotta restituisce, amplificate, le voci dei presenti, che bisbigliano. Si cerca in una sezione appartata del sistema. Un luogo in cui si celebravano cerimonie o venivano deposte ceneri dei defunti. Il nome del luogo è Crno Jezero, che significa letteralmente “Lago Nero”. La…",
-      "url": "https://www.stilearte.it/maschera-teatrale-greca-grotta-croazia-santuario-illirico/",
-      "image": null,
-      "publishedAt": "2026-05-22T05:47:07.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "vianako-printzea:https://revistas.navarra.es/index.php/PV/article/view/4317",
-      "title": "Presentación",
-      "summary": "",
-      "url": "https://revistas.navarra.es/index.php/PV/article/view/4317",
-      "image": null,
-      "publishedAt": "2026-05-21T22:00:00.000Z",
-      "source": {
-        "id": "vianako-printzea",
-        "name": "Príncipe de Viana (Vianako Printzea)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "vianako-printzea:https://revistas.navarra.es/index.php/PV/article/view/4167",
-      "title": "Las colecciones del Museo de Navarra. Apuntes, reflexiones y retos",
-      "summary": "El coleccionismo es inherente al ser humano y se considera el origen de los museos. Las colecciones que se custodian en ellos son un elemento nuclear de la institución y sobre ellas giran funciones básicas como el incremento y la documentación, entre otras. El Museo de Navarra…",
-      "url": "https://revistas.navarra.es/index.php/PV/article/view/4167",
-      "image": null,
-      "publishedAt": "2026-05-21T22:00:00.000Z",
-      "source": {
-        "id": "vianako-printzea",
-        "name": "Príncipe de Viana (Vianako Printzea)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "prehistoria",
-        "iberiarrak",
-        "museoak"
-      ]
-    },
-    {
-      "id": "vianako-printzea:https://revistas.navarra.es/index.php/PV/article/view/4148",
-      "title": "El Centro de Documentación del Museo del Carlismo. Un lance de preservación y difusión de la investigación histórica sobre el carlismo",
-      "summary": "Tras quince años de andadura, este artículo muestra la labor llevada a cabo en el Centro de Documentación del Museo del Carlismo con el fin de posicionarse como un espacio de referencia para la investigación de la historia del carlismo, el más longevo movimiento…",
-      "url": "https://revistas.navarra.es/index.php/PV/article/view/4148",
-      "image": null,
-      "publishedAt": "2026-05-21T22:00:00.000Z",
-      "source": {
-        "id": "vianako-printzea",
-        "name": "Príncipe de Viana (Vianako Printzea)"
-      },
-      "lang": "es",
-      "region": "europe",
-      "topics": [
-        "museoak"
-      ]
-    },
-    {
-      "id": "vianako-printzea:https://revistas.navarra.es/index.php/PV/article/view/4153",
-      "title": "Museo de Tudela. Pasado, presente y futuro",
-      "summary": "La ubicación del Museo de Tudela, en un espacio histórico singular como es el Palacio Decanal, vinculado a la Catedral de Santa María ha dado desde sus orígenes un valor excepcional a la institución museística que tratamos. De la misma forma la variada procedencia y eclecticismo…",
-      "url": "https://revistas.navarra.es/index.php/PV/article/view/4153",
-      "image": null,
-      "publishedAt": "2026-05-21T22:00:00.000Z",
-      "source": {
-        "id": "vianako-printzea",
-        "name": "Príncipe de Viana (Vianako Printzea)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "museoak",
-        "aurkikuntza"
       ]
     }
   ]
