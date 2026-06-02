@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T06:23:28.895Z",
+  "generatedAt": "2026-06-02T06:08:48.120Z",
   "count": 500,
   "sources": [
     {
@@ -10,10 +10,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 0,
-      "droppedOffTopic": 20,
+      "kept": 1,
+      "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 519
+      "elapsedMs": 645
     },
     {
       "id": "naiz",
@@ -26,7 +26,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 553
+      "elapsedMs": 1027
     },
     {
       "id": "argia-kultura",
@@ -39,7 +39,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 697
+      "elapsedMs": 1090
     },
     {
       "id": "eitb-kultura",
@@ -52,7 +52,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 521
+      "elapsedMs": 745
     },
     {
       "id": "berria-bsky",
@@ -61,11 +61,11 @@
       "region": "basque",
       "kind": "news",
       "ok": true,
-      "fetched": 29,
+      "fetched": 30,
       "kept": 0,
-      "droppedOffTopic": 29,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2557
+      "elapsedMs": 2419
     },
     {
       "id": "aranzadi-bsky",
@@ -78,7 +78,7 @@
       "kept": 8,
       "droppedOffTopic": 22,
       "droppedModern": 0,
-      "elapsedMs": 2587
+      "elapsedMs": 2413
     },
     {
       "id": "vianako-printzea",
@@ -91,7 +91,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1156
+      "elapsedMs": 1316
     },
     {
       "id": "labrujulaverde",
@@ -104,7 +104,7 @@
       "kept": 13,
       "droppedOffTopic": 0,
       "droppedModern": 7,
-      "elapsedMs": 433
+      "elapsedMs": 1460
     },
     {
       "id": "desperta-ferro",
@@ -117,7 +117,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 3,
-      "elapsedMs": 1224
+      "elapsedMs": 1475
     },
     {
       "id": "elpais-cultura",
@@ -130,7 +130,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 541
+      "elapsedMs": 1637
     },
     {
       "id": "lemonde-sciences",
@@ -143,7 +143,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 665
+      "elapsedMs": 754
     },
     {
       "id": "lemonde-archeo",
@@ -156,7 +156,7 @@
       "kept": 11,
       "droppedOffTopic": 8,
       "droppedModern": 1,
-      "elapsedMs": 1176
+      "elapsedMs": 1221
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -165,11 +165,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 19,
-      "kept": 3,
-      "droppedOffTopic": 15,
+      "fetched": 21,
+      "kept": 4,
+      "droppedOffTopic": 16,
       "droppedModern": 1,
-      "elapsedMs": 1412
+      "elapsedMs": 1161
     },
     {
       "id": "inrap-bsky",
@@ -178,11 +178,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 20,
-      "kept": 4,
-      "droppedOffTopic": 14,
-      "droppedModern": 2,
-      "elapsedMs": 2563
+      "fetched": 19,
+      "kept": 3,
+      "droppedOffTopic": 13,
+      "droppedModern": 3,
+      "elapsedMs": 2360
     },
     {
       "id": "sudouest-culture",
@@ -192,10 +192,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 1,
-      "droppedOffTopic": 19,
+      "kept": 0,
+      "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1012
+      "elapsedMs": 1023
     },
     {
       "id": "corriere-cultura",
@@ -208,7 +208,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1555
+      "elapsedMs": 1987
     },
     {
       "id": "archeologiaviva",
@@ -221,7 +221,7 @@
       "kept": 1,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 2063
+      "elapsedMs": 1992
     },
     {
       "id": "stilearte",
@@ -231,10 +231,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 9,
-      "droppedOffTopic": 1,
+      "kept": 10,
+      "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 1993
+      "elapsedMs": 2097
     },
     {
       "id": "live-science-arch",
@@ -247,7 +247,7 @@
       "kept": 3,
       "droppedOffTopic": 27,
       "droppedModern": 0,
-      "elapsedMs": 2602
+      "elapsedMs": 2281
     },
     {
       "id": "bbc-history",
@@ -260,7 +260,7 @@
       "kept": 1,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1996
+      "elapsedMs": 1516
     },
     {
       "id": "sciencedaily-arch",
@@ -273,7 +273,7 @@
       "kept": 12,
       "droppedOffTopic": 18,
       "droppedModern": 0,
-      "elapsedMs": 1665
+      "elapsedMs": 1554
     },
     {
       "id": "ancient-origins",
@@ -281,9 +281,12 @@
       "lang": "en",
       "region": "world",
       "kind": "news",
-      "ok": false,
-      "error": "Unable to parse XML.",
-      "elapsedMs": 6187
+      "ok": true,
+      "fetched": 10,
+      "kept": 4,
+      "droppedOffTopic": 5,
+      "droppedModern": 1,
+      "elapsedMs": 1579
     },
     {
       "id": "guardian-arch",
@@ -294,9 +297,9 @@
       "ok": true,
       "fetched": 20,
       "kept": 12,
-      "droppedOffTopic": 5,
-      "droppedModern": 3,
-      "elapsedMs": 1963
+      "droppedOffTopic": 7,
+      "droppedModern": 1,
+      "elapsedMs": 1763
     },
     {
       "id": "current-archaeology",
@@ -307,9 +310,9 @@
       "ok": true,
       "fetched": 30,
       "kept": 17,
-      "droppedOffTopic": 8,
-      "droppedModern": 5,
-      "elapsedMs": 1742
+      "droppedOffTopic": 7,
+      "droppedModern": 6,
+      "elapsedMs": 1618
     },
     {
       "id": "jas-reports",
@@ -322,7 +325,7 @@
       "kept": 6,
       "droppedOffTopic": 5,
       "droppedModern": 19,
-      "elapsedMs": 1707
+      "elapsedMs": 1398
     },
     {
       "id": "plos-one-arch",
@@ -332,10 +335,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1907
+      "elapsedMs": 1609
     },
     {
       "id": "pnas-arch",
@@ -348,7 +351,7 @@
       "kept": 22,
       "droppedOffTopic": 6,
       "droppedModern": 2,
-      "elapsedMs": 2420
+      "elapsedMs": 2389
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +364,7 @@
       "kept": 9,
       "droppedOffTopic": 2,
       "droppedModern": 19,
-      "elapsedMs": 1927
+      "elapsedMs": 1333
     },
     {
       "id": "spal-us",
@@ -374,7 +377,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2907
+      "elapsedMs": 2340
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +390,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2827
+      "elapsedMs": 2574
     },
     {
       "id": "archeoarte",
@@ -400,7 +403,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2459
+      "elapsedMs": 2577
     },
     {
       "id": "cypsela",
@@ -413,7 +416,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2582
+      "elapsedMs": 2170
     },
     {
       "id": "cambridge-antiquity",
@@ -426,7 +429,7 @@
       "kept": 14,
       "droppedOffTopic": 4,
       "droppedModern": 12,
-      "elapsedMs": 2370
+      "elapsedMs": 2413
     },
     {
       "id": "cambridge-caj",
@@ -439,7 +442,7 @@
       "kept": 16,
       "droppedOffTopic": 8,
       "droppedModern": 6,
-      "elapsedMs": 2346
+      "elapsedMs": 2385
     },
     {
       "id": "cambridge-ejarc",
@@ -452,7 +455,7 @@
       "kept": 14,
       "droppedOffTopic": 5,
       "droppedModern": 11,
-      "elapsedMs": 2315
+      "elapsedMs": 2272
     },
     {
       "id": "aquitania-persee",
@@ -465,7 +468,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3926
+      "elapsedMs": 4634
     },
     {
       "id": "cuadernos-arq-unav",
@@ -478,7 +481,7 @@
       "kept": 19,
       "droppedOffTopic": 2,
       "droppedModern": 9,
-      "elapsedMs": 3974
+      "elapsedMs": 4125
     },
     {
       "id": "veleia-ehu",
@@ -491,7 +494,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3458
+      "elapsedMs": 3556
     },
     {
       "id": "flv-navarra",
@@ -504,7 +507,7 @@
       "kept": 17,
       "droppedOffTopic": 2,
       "droppedModern": 11,
-      "elapsedMs": 2587
+      "elapsedMs": 2480
     },
     {
       "id": "munibe-aa",
@@ -517,7 +520,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 2707
+      "elapsedMs": 2440
     },
     {
       "id": "trabajos-prehistoria",
@@ -530,7 +533,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 2621
+      "elapsedMs": 2554
     },
     {
       "id": "openalex-archaeology",
@@ -543,7 +546,7 @@
       "kept": 14,
       "droppedOffTopic": 11,
       "droppedModern": 5,
-      "elapsedMs": 2601
+      "elapsedMs": 2500
     }
   ],
   "items": [
@@ -8344,6 +8347,222 @@
       "topics": []
     },
     {
+      "id": "noticiasdenavarra:https://www.noticiasdenavarra.com/cultura/2026/06/02/1936-tercera-fuga-ganadores-max-11145122.html",
+      "title": "Los espectáculos ‘1936’ y ‘La tercera fuga’ y la compañía de danza La Venidera triunfan en unos premios Max muy repartidos",
+      "summary": "'1936', de Centro Dramático Nacional (CDN-INAEM), Checkin Producciones y El Terrat, se ha alzado con el premio al Mejor espectáculo de teatro en los XXIX Premios Max, celebrados este lunes en el Teatro Romano de Mérida en una gala que ha estado marcada por la petición de…",
+      "url": "https://www.noticiasdenavarra.com/cultura/2026/06/02/1936-tercera-fuga-ganadores-max-11145122.html",
+      "image": "https://estaticosgn-cdn.deia.eus/clip/11d827e8-b72f-4a3d-b026-a94959d10b32_16-9-aspect-ratio_default_0.jpg",
+      "publishedAt": "2026-06-02T05:59:02.000Z",
+      "source": {
+        "id": "noticiasdenavarra",
+        "name": "Noticias de Navarra"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/pietra-nicolo-korazim-scoperta-ragazzo-galilea/",
+      "title": "Un ragazzo di 12 anni trova una rara pietra preziosa di quasi 2.000 anni fa nel villaggio ricordato nei Vangeli come “maledetto” da Gesù. Dove si trova? Cos’è la pietra Nicolo? Gli archeologi avviano le analisi",
+      "summary": "Un piccolo frammento bluastro è apparso tra la terra smossa quando ormai lo scavo stava per concludersi. Il ragazzo che stava scavando con una piccola piccozza si è fermato, ha raccolto l’oggetto e lo ha mostrato agli archeologi presenti nell’area. In queste ore gli studiosi…",
+      "url": "https://www.stilearte.it/pietra-nicolo-korazim-scoperta-ragazzo-galilea/",
+      "image": null,
+      "publishedAt": "2026-06-02T04:10:00.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/science/2026/jun/02/journey-into-spain-palaeolithic-cave-paintings-altamira",
+      "title": "‘They take you out of life, out of time’: a journey into Spain’s astonishing cave paintings",
+      "summary": "For tens of thousands of years, these Palaeolithic artworks were unseen. When they were rediscovered, onlookers marvelled at their vivid beauty. One of the world’s leading experts took me up close The aurochs, the mammoth and the steppe bison are long extinct, but their painted…",
+      "url": "https://www.theguardian.com/science/2026/jun/02/journey-into-spain-palaeolithic-cave-paintings-altamira",
+      "image": "https://i.guim.co.uk/img/media/db4296279f4240844d21f55c68453a548aa10595/638_152_3151_2521/master/3151.jpg?width=140&quality=85&auto=format&fit=max&s=994849a29827fb0c14336623d2ae4400",
+      "publishedAt": "2026-06-02T04:00:38.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "basque",
+      "topics": [
+        "prehistoria",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "elpais-cultura:https://elpais.com/cultura/2026-06-01/los-espectaculos-1936-y-la-tercera-fuga-y-la-compania-de-danza-la-venidera-triunfan-en-unos-premios-max-muy-repartidos.html",
+      "title": "Los espectáculos ‘1936’ y ‘La tercera fuga’ y la compañía de danza La Venidera triunfan en unos premios Max muy repartidos",
+      "summary": "Centro Dramático Nacional y el Teatre Nacional de Cataluña dominan las categorías teatrales en una gala marcada por el escenario del teatro romano de Mérida",
+      "url": "https://elpais.com/cultura/2026-06-01/los-espectaculos-1936-y-la-tercera-fuga-y-la-compania-de-danza-la-venidera-triunfan-en-unos-premios-max-muy-repartidos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/7KHNEXZUHVIQFL6NJMLUISJR64.jpg?auth=f9311f78c8f49127c23c9290bb425a56b2db9bba1e6527a35bca65e426d742b1",
+      "publishedAt": "2026-06-01T23:23:19.000Z",
+      "source": {
+        "id": "elpais-cultura",
+        "name": "El País — Cultura"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/06/descubren-el-origen-del-eufrates-el-gran-rio-de-mesopotamia-nacio-hace-6-millones-de-anos-y-desembocaba-en-un-mediterraneo-casi-seco",
+      "title": "Descubren el origen del Éufrates: el gran río de Mesopotamia nació hace 6 millones de años y desembocaba en un Mediterráneo casi seco",
+      "summary": "Un equipo internacional de geólogos ha logrado reconstruir por primera vez la historia completa del río Éufrates, desde sus orígenes hace unos 6 millones de años hasta su configuración actual. El estudio, publicado en la revista Nature Geoscience, desvela que el legendario río…",
+      "url": "https://www.labrujulaverde.com/2026/06/descubren-el-origen-del-eufrates-el-gran-rio-de-mesopotamia-nacio-hace-6-millones-de-anos-y-desembocaba-en-un-mediterraneo-casi-seco",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2022/07/Rumkale_Gaziantep_sinirlarinda_kalan_essiz_tarihi_bir_kale.webp",
+      "publishedAt": "2026-06-01T17:18:53.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "ekialde-hurbila",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/feature/new-perspectives-on-a-neolithic-crannog-documenting-a-5000-year-old-construction-on-the-isle-of-lewis/",
+      "title": "New perspectives on a Neolithic crannog: Documenting a 5,000-year-old construction on the Isle of Lewis",
+      "summary": "The Outer Hebrides are home to over 170 crannogs (small, human-made islands), some of which are proving to be much earlier in date than suspected. Recently published research centred on Loch Bhorgastail has shed detailed light on the make-up of one such site, and has also…",
+      "url": "https://the-past.com/feature/new-perspectives-on-a-neolithic-crannog-documenting-a-5000-year-old-construction-on-the-isle-of-lewis/",
+      "image": null,
+      "publishedAt": "2026-06-01T17:00:32.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/bacco-tombe-romane-significato-vino-aldila/",
+      "title": "Perché i Romani mettevano Bacco sulle tombe? Il vino come viaggio nell’aldilà? Il significato nascosto dei sarcofagi dionisiaci che continua a sorprendere gli archeologi",
+      "summary": "Un dio che ride, satiri che danzano, menadi in preda all’estasi, coppe traboccanti di vino. A prima vista sembrerebbe la decorazione ideale per una sala da banchetto. Eppure, nell’Impero romano, queste immagini comparivano spesso proprio dove oggi ci aspetteremmo silenzio e…",
+      "url": "https://www.stilearte.it/bacco-tombe-romane-significato-vino-aldila/",
+      "image": null,
+      "publishedAt": "2026-06-01T14:49:37.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/citta-sacra-monte-lifos-zeus-anatolia-neve/",
+      "title": "La neve si scioglie sulla montagna degli dèi e riappare una città sacra quasi dimenticata: un chilometro di mura a 2.500 metri di quota, forse dedicata a Zeus. Chi la costruì? Per gli archeologi si tratta del “Vaticano del mondo pagano”",
+      "summary": "Mentre le ultime lingue di neve si ritirano dalle pendici più elevate del monte Lifos, nell’Anatolia centrale, riaffiora uno dei luoghi più enigmatici della Turchia. A oltre 2.500 metri di quota emerge infatti un vasto complesso fortificato che domina il paesaggio dall’alto, una…",
+      "url": "https://www.stilearte.it/citta-sacra-monte-lifos-zeus-anatolia-neve/",
+      "image": null,
+      "publishedAt": "2026-06-01T14:03:19.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/paleontologie/cet-oiseau-fossile-arborait-un-etonnant-plumage-sur-la-queue_192829?xtor=RSS-4",
+      "title": "Cet oiseau fossile arborait un étonnant plumage sur la queue",
+      "summary": "Une espèce d'oiseau du Crétacé nouvellement décrite possédait d'étonnamment longues plumes sur la queue. Les chercheurs supposent qu'elles aidaient les mâles à séduire les femelles.",
+      "url": "https://www.sciencesetavenir.fr/archeo-paleo/paleontologie/cet-oiseau-fossile-arborait-un-etonnant-plumage-sur-la-queue_192829?xtor=RSS-4",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/06/01/cover-r4x3w1200-6a1d541570970-oiseau.jpg",
+      "publishedAt": "2026-06-01T13:51:05.000Z",
+      "source": {
+        "id": "sciencesetavenir-archeo",
+        "name": "Sciences et Avenir — Archéo & Paléo"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/06/el-unico-primate-venenoso-parece-un-peluche-pero-tiene-un-arma-mortal",
+      "title": "El único primate venenoso del mundo parece un peluche pero tiene un arma mortal",
+      "summary": "Si buscas loris perezoso en internet, te salen vídeos con millones de visitas. Ves a un primate del tamaño de un gato, con ojos enormes y movimientos lentos. Abraza un peluche, sostiene un paraguas de cóctel o se estremece cuando le hacen cosquillas. La gente que comparte esos…",
+      "url": "https://www.labrujulaverde.com/2026/06/el-unico-primate-venenoso-parece-un-peluche-pero-tiene-un-arma-mortal",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/06/Depositphotos_65260647_L.webp",
+      "publishedAt": "2026-06-01T12:42:04.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/gessel-gold-hoard-a-3-300-year-old-stash-of-gleaming-treasures-thats-one-of-the-largest-bronze-age-hoards-from-europe",
+      "title": "Gessel gold hoard: A 3,300-year-old stash of gleaming treasures that's one of the largest Bronze Age hoards from Europe",
+      "summary": "The Gessel gold hoard is among the largest treasures ever discovered in prehistoric Europe but has only three pieces of jewelry in it.",
+      "url": "https://www.livescience.com/archaeology/gessel-gold-hoard-a-3-300-year-old-stash-of-gleaming-treasures-thats-one-of-the-largest-bronze-age-hoards-from-europe",
+      "image": "https://cdn.mos.cms.futurecdn.net/a9FVi6cbZZzQPGuYVuVLH-1280-80.png",
+      "publishedAt": "2026-06-01T10:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/06/la-mayor-tumba-de-la-edad-del-cobre-en-europa-esta-en-murcia-y-revela-una-antigua-epidemia-infantil",
+      "title": "La mayor tumba de la Edad del Cobre en Europa está en Murcia y revela una antigua epidemia infantil",
+      "summary": "Hace más de 4500 años, en el sudeste de la península Ibérica, una comunidad del Calcolítico (Edad del Cobre) enterraba a sus muertos en una gran cueva artificial conocida hoy como Camino del Molino, en Caravaca de la Cruz (Murcia). Allí, los arqueólogos han recuperado los restos…",
+      "url": "https://www.labrujulaverde.com/2026/06/la-mayor-tumba-de-la-edad-del-cobre-en-europa-esta-en-murcia-y-revela-una-antigua-epidemia-infantil",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/06/1-s2.0-S1879981726000252-gr1_lrg-copia.webp",
+      "publishedAt": "2026-06-01T09:33:42.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/06/descubren-en-la-antigua-heracleopolis-magna-un-cartucho-de-sesostris-iii-una-cabeza-de-afrodita-y-los-restos-de-una-basilica-romana",
+      "title": "Descubren en la antigua Heracleópolis Magna un cartucho de Sesostris III, una cabeza de Afrodita y los restos de una basílica romana",
+      "summary": "La zona conocida como Ihnasiya al-Madina, situada en la provincia de Beni Suef en Egipto, sigue proporcionando evidencias materiales de su pasado estratificado. La misión arqueológica egipcia dependiente del Consejo Supremo de Antigüedades, dirigida por el doctor Mohamed…",
+      "url": "https://www.labrujulaverde.com/2026/06/descubren-en-la-antigua-heracleopolis-magna-un-cartucho-de-sesostris-iii-una-cabeza-de-afrodita-y-los-restos-de-una-basilica-romana",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/06/713083909_1404909978337211_1281598172007505168_n.webp",
+      "publishedAt": "2026-06-01T07:23:07.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak",
+        "egiptoarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
       "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326001032?dgcid=rss_sd_all",
       "title": "Detecting architectural features and stratigraphic deposits at a Pastoral Neolithic site using ground-penetrating radar",
       "summary": "Publication date: July 2026 Source: Journal of Archaeological Science, Volume 191 Author(s): Brenna McWhorter Fennessey, Sylvia Wemanya, Audax Z.P. Mabulla, Agness O. Gidna, Mary E. Prendergast, Katherine M. Grillo",
@@ -8630,225 +8849,6 @@
       "topics": [
         "prehistoria",
         "asia"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002750?dgcid=rss_sd_all",
-      "title": "Deadwood gathering in the ghost group of East Asia for the adaptation to the forest environment during the late prehistoric: Charcoal evidence from Xingyi site southwestern China",
-      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Mei Wu, Ditao Zhang, Chenhan Zhao, Xiaoqing Guo, Lu Chen, Xiaorui Li, Zhonghua Zhu, Liang zhang, Fengwen Liu",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002750?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-05-31T05:50:22.583Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria",
-        "asia"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002464?dgcid=rss_sd_all",
-      "title": "Between the symbolic and the domestic in the Bronze Age of the middle Tagus Valley: New contributions from the Barrio del Castillo (Torrejón de Ardoz, Madrid, Spain)",
-      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Verónica Estaca-Gómez, Mónica Major-González, Jorge Cañas-Martínez",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002464?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-05-31T05:50:22.583Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "iberia",
-      "topics": [
-        "prehistoria",
-        "erdi-aroa"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/mosaico-romano-caccia-marsala-lilibeo/",
-      "title": "Scavano e ritrovano mosaici romani a Marsala. Il potere, leoni, cervi, colori vividi e aristocrazia. Era il pavimento di una domus romana? Cosa è l’opus tessellatum?",
-      "summary": "Qualcuno stava rimuovendo lentamente la terra compatta accumulata sopra un antico pavimento quando sono riapparse le prime tessere colorate. Prima un intreccio geometrico blu e rosso. Poi il corpo di un animale ferito. Infine la scena intera: un leone colpito da una lancia, un…",
-      "url": "https://www.stilearte.it/mosaico-romano-caccia-marsala-lilibeo/",
-      "image": null,
-      "publishedAt": "2026-05-31T04:10:00.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "elpais-cultura:https://elpais.com/cultura/2026-05-31/los-errores-cometidos-en-la-excavacion-de-los-posibles-restos-de-dartagnan-comprometen-su-identificacion.html",
-      "title": "Los errores cometidos en la excavación de los posibles restos de D’Artagnan comprometen su identificación",
-      "summary": "El arqueólogo que halló en marzo un esqueleto en una iglesia de la ciudad neerlandesa de Maastricht fue detenido por quedarse con un húmero y dos dientes del famoso mosquetero",
-      "url": "https://elpais.com/cultura/2026-05-31/los-errores-cometidos-en-la-excavacion-de-los-posibles-restos-de-dartagnan-comprometen-su-identificacion.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/YZZM3YAT7NKWXN5CXMN3L6NNMY.jpg?auth=3fbf25f1aeb8c2e6859d376185d2f84c0dd793d66628da320abb4edb36b32be0",
-      "publishedAt": "2026-05-31T03:30:01.000Z",
-      "source": {
-        "id": "elpais-cultura",
-        "name": "El País — Cultura"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "amerika",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/shorts/groups/ancient-tree-forum/",
-      "title": "Ancient Tree Forum",
-      "summary": "An ancient tree is one that is in the final stage of its life and is exceptionally old for its species. Such trees typically have a wide girth and a hollow trunk",
-      "url": "https://the-past.com/shorts/groups/ancient-tree-forum/",
-      "image": null,
-      "publishedAt": "2026-05-30T14:00:12.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/whats-on/worthing-museum/",
-      "title": "Worthing Museum",
-      "summary": "Worthing Museum recently reopened following a year-long transformation. Carly Hilts visited its new-look archaeology galleries with their curator James Sainsbury.",
-      "url": "https://the-past.com/review/whats-on/worthing-museum/",
-      "image": null,
-      "publishedAt": "2026-05-30T11:00:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "museoak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/shorts/the-picture-desk/a-strapping-find-halesworth-suffolk/",
-      "title": "A strapping find: Halesworth, Suffolk",
-      "summary": "Strap-ends from belts and other attachments are common finds from the early medieval period. This example was found by Cotswold Archaeology during an excavation in the market town of Halesworth in Suffolk",
-      "url": "https://the-past.com/shorts/the-picture-desk/a-strapping-find-halesworth-suffolk/",
-      "image": null,
-      "publishedAt": "2026-05-30T10:00:56.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "erdi-aroa",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/05/estamos-pasando-por-alto-senales-de-vida-extraterrestre-un-estudio-alerta-de-los-falsos-negativos-en-la-deteccion-de-biofirmas",
-      "title": "¿Estamos pasando por alto señales de vida extraterrestre? Un estudio alerta de los “falsos negativos” en la detección de biofirmas",
-      "summary": "La posibilidad de que existan indicios de actividad biológica más allá de la Tierra, y de que esos indicios hayan sido sistemáticamente ignorados o malinterpretados por los instrumentos actuales, ha sido analizada por un equipo internacional de investigadores en un estudio…",
-      "url": "https://www.labrujulaverde.com/2026/05/estamos-pasando-por-alto-senales-de-vida-extraterrestre-un-estudio-alerta-de-los-falsos-negativos-en-la-deteccion-de-biofirmas",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/05/newsimage422517.webp",
-      "publishedAt": "2026-05-30T09:26:23.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/05/260529043649.htm",
-      "title": "Ancient DNA reveals how women helped transform prehistoric Europe",
-      "summary": "New DNA evidence shows that Europe’s hunter-gatherers and early farmers interacted far more closely than previously thought, with women likely playing a crucial role in spreading farming across northwestern Europe. Centuries later, the arrival of Bell Beaker migrants triggered…",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260529043649.htm",
-      "image": null,
-      "publishedAt": "2026-05-30T08:02:43.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/datazione-pitture-rupestri-neanderthal-dubbi-uranio-torio/",
-      "title": "Le pitture rupestri potrebbero essere meno antiche di quanto si pensa? Uno studioso contesta le datazioni. La corsa all’invecchiamento. Cultura woke applicata ai Neanderthal? Buonismo anche in questi settori?",
-      "summary": "Nel buio delle grandi cavità calcaree, dove l’acqua deposita lentamente veli di calcite sulle pareti, si combatte una delle dispute più importanti dell’archeologia contemporanea. Non riguarda la scoperta di nuove pitture rupestri, ma il modo in cui esse vengono datate. Da alcuni…",
-      "url": "https://www.stilearte.it/datazione-pitture-rupestri-neanderthal-dubbi-uranio-torio/",
-      "image": null,
-      "publishedAt": "2026-05-30T05:50:37.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002671?dgcid=rss_sd_all",
-      "title": "Supra-Regional Cultural Exchange in the Carpathian Bronze Age: Import of the Amphora or an Idea?",
-      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Štefan Olšav, Adam Gašpar, Karel Slavíček, Jan Petřík",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002671?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-05-30T05:05:52.527Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002816?dgcid=rss_sd_all",
-      "title": "Signs of a Ferruginous Environment in Ceramics: A Case Study from the Iron Age Mikniškiai Settlement, Southern Lithuania",
-      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Andra Simniškytė, Gražina Skridlaitė, Laurynas Šiliauskas, Aušra Selskienė",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002816?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-05-30T05:05:52.526Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "noticiasdenavarra:https://www.noticiasdenavarra.com/rutas-y-naturaleza/2026/05/30/santimamine-santuario-arte-rupestre-universal-11135364.html",
-      "title": "Santimamiñe, un santuario de arte rupestre universal",
-      "summary": "El monte Ereñozar, con su típica forma cónica y la ermita de San Miguel en la cumbre, preside uno de los paraísos más singulares de la geografía vasca: Urdaibai, Reserva de la Biosfera por la UNESCO. Domina el barrio de Basondo, municipio de Kortezubi, a cinco kilómetros de…",
-      "url": "https://www.noticiasdenavarra.com/rutas-y-naturaleza/2026/05/30/santimamine-santuario-arte-rupestre-universal-11135364.html",
-      "image": "https://estaticosgn-cdn.deia.eus/clip/1130f242-40b7-4736-bb88-a0ebd9de41cc_16-9-aspect-ratio_default_0.jpg",
-      "publishedAt": "2026-05-30T05:00:40.000Z",
-      "source": {
-        "id": "noticiasdenavarra",
-        "name": "Noticias de Navarra"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "iberiarrak"
       ]
     }
   ]
