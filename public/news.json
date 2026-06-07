@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T05:09:42.115Z",
+  "generatedAt": "2026-06-07T05:57:48.148Z",
   "count": 500,
   "sources": [
     {
@@ -13,7 +13,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 777
+      "elapsedMs": 630
     },
     {
       "id": "naiz",
@@ -26,7 +26,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 713
+      "elapsedMs": 659
     },
     {
       "id": "argia-kultura",
@@ -39,7 +39,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 895
+      "elapsedMs": 780
     },
     {
       "id": "eitb-kultura",
@@ -52,7 +52,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 702
+      "elapsedMs": 664
     },
     {
       "id": "berria-bsky",
@@ -62,10 +62,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 2,
-      "droppedOffTopic": 28,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2656
+      "elapsedMs": 3015
     },
     {
       "id": "aranzadi-bsky",
@@ -78,7 +78,7 @@
       "kept": 8,
       "droppedOffTopic": 22,
       "droppedModern": 0,
-      "elapsedMs": 2673
+      "elapsedMs": 3032
     },
     {
       "id": "vianako-printzea",
@@ -86,12 +86,9 @@
       "lang": "es",
       "region": "basque",
       "kind": "research",
-      "ok": true,
-      "fetched": 25,
-      "kept": 9,
-      "droppedOffTopic": 3,
-      "droppedModern": 13,
-      "elapsedMs": 1264
+      "ok": false,
+      "error": "Request timed out after 15000ms",
+      "elapsedMs": 49511
     },
     {
       "id": "labrujulaverde",
@@ -99,12 +96,9 @@
       "lang": "es",
       "region": "world",
       "kind": "news",
-      "ok": true,
-      "fetched": 20,
-      "kept": 17,
-      "droppedOffTopic": 1,
-      "droppedModern": 2,
-      "elapsedMs": 1620
+      "ok": false,
+      "error": "Status code 415",
+      "elapsedMs": 6093
     },
     {
       "id": "desperta-ferro",
@@ -117,7 +111,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 4,
-      "elapsedMs": 1251
+      "elapsedMs": 1374
     },
     {
       "id": "elpais-cultura",
@@ -130,7 +124,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1559
+      "elapsedMs": 803
     },
     {
       "id": "lemonde-sciences",
@@ -143,7 +137,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 1,
-      "elapsedMs": 902
+      "elapsedMs": 904
     },
     {
       "id": "lemonde-archeo",
@@ -156,7 +150,7 @@
       "kept": 10,
       "droppedOffTopic": 8,
       "droppedModern": 2,
-      "elapsedMs": 1309
+      "elapsedMs": 1246
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -165,11 +159,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 20,
-      "kept": 4,
+      "fetched": 19,
+      "kept": 3,
       "droppedOffTopic": 15,
       "droppedModern": 1,
-      "elapsedMs": 946
+      "elapsedMs": 869
     },
     {
       "id": "inrap-bsky",
@@ -182,7 +176,7 @@
       "kept": 4,
       "droppedOffTopic": 13,
       "droppedModern": 3,
-      "elapsedMs": 2715
+      "elapsedMs": 3023
     },
     {
       "id": "sudouest-culture",
@@ -192,10 +186,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 0,
-      "droppedOffTopic": 20,
+      "kept": 1,
+      "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1263
+      "elapsedMs": 1177
     },
     {
       "id": "corriere-cultura",
@@ -208,7 +202,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1694
+      "elapsedMs": 1623
     },
     {
       "id": "archeologiaviva",
@@ -221,7 +215,7 @@
       "kept": 1,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 1970
+      "elapsedMs": 1822
     },
     {
       "id": "stilearte",
@@ -232,9 +226,9 @@
       "ok": true,
       "fetched": 10,
       "kept": 9,
-      "droppedOffTopic": 1,
-      "droppedModern": 0,
-      "elapsedMs": 1998
+      "droppedOffTopic": 0,
+      "droppedModern": 1,
+      "elapsedMs": 1906
     },
     {
       "id": "live-science-arch",
@@ -247,7 +241,7 @@
       "kept": 4,
       "droppedOffTopic": 26,
       "droppedModern": 0,
-      "elapsedMs": 2800
+      "elapsedMs": 2972
     },
     {
       "id": "bbc-history",
@@ -260,7 +254,7 @@
       "kept": 0,
       "droppedOffTopic": 9,
       "droppedModern": 1,
-      "elapsedMs": 1862
+      "elapsedMs": 1417
     },
     {
       "id": "sciencedaily-arch",
@@ -273,7 +267,7 @@
       "kept": 14,
       "droppedOffTopic": 16,
       "droppedModern": 0,
-      "elapsedMs": 1762
+      "elapsedMs": 1510
     },
     {
       "id": "ancient-origins",
@@ -281,9 +275,12 @@
       "lang": "en",
       "region": "world",
       "kind": "news",
-      "ok": false,
-      "error": "Unable to parse XML.",
-      "elapsedMs": 6426
+      "ok": true,
+      "fetched": 10,
+      "kept": 4,
+      "droppedOffTopic": 5,
+      "droppedModern": 1,
+      "elapsedMs": 1536
     },
     {
       "id": "guardian-arch",
@@ -296,7 +293,7 @@
       "kept": 12,
       "droppedOffTopic": 7,
       "droppedModern": 1,
-      "elapsedMs": 2065
+      "elapsedMs": 1861
     },
     {
       "id": "current-archaeology",
@@ -309,7 +306,7 @@
       "kept": 16,
       "droppedOffTopic": 8,
       "droppedModern": 6,
-      "elapsedMs": 1787
+      "elapsedMs": 1549
     },
     {
       "id": "jas-reports",
@@ -322,7 +319,7 @@
       "kept": 6,
       "droppedOffTopic": 5,
       "droppedModern": 19,
-      "elapsedMs": 1806
+      "elapsedMs": 1588
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +332,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2052
+      "elapsedMs": 1836
     },
     {
       "id": "pnas-arch",
@@ -348,7 +345,7 @@
       "kept": 22,
       "droppedOffTopic": 6,
       "droppedModern": 2,
-      "elapsedMs": 2387
+      "elapsedMs": 2305
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +358,7 @@
       "kept": 8,
       "droppedOffTopic": 2,
       "droppedModern": 20,
-      "elapsedMs": 1789
+      "elapsedMs": 1778
     },
     {
       "id": "spal-us",
@@ -374,7 +371,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2876
+      "elapsedMs": 2559
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +384,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2986
+      "elapsedMs": 2812
     },
     {
       "id": "archeoarte",
@@ -400,7 +397,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2756
+      "elapsedMs": 2610
     },
     {
       "id": "cypsela",
@@ -413,7 +410,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2678
+      "elapsedMs": 3083
     },
     {
       "id": "cambridge-antiquity",
@@ -426,7 +423,7 @@
       "kept": 19,
       "droppedOffTopic": 3,
       "droppedModern": 8,
-      "elapsedMs": 2676
+      "elapsedMs": 2339
     },
     {
       "id": "cambridge-caj",
@@ -439,7 +436,7 @@
       "kept": 17,
       "droppedOffTopic": 8,
       "droppedModern": 5,
-      "elapsedMs": 2595
+      "elapsedMs": 2358
     },
     {
       "id": "cambridge-ejarc",
@@ -452,7 +449,7 @@
       "kept": 14,
       "droppedOffTopic": 5,
       "droppedModern": 11,
-      "elapsedMs": 2528
+      "elapsedMs": 2373
     },
     {
       "id": "aquitania-persee",
@@ -460,12 +457,9 @@
       "lang": "fr",
       "region": "basque",
       "kind": "research",
-      "ok": true,
-      "fetched": 10,
-      "kept": 10,
-      "droppedOffTopic": 0,
-      "droppedModern": 0,
-      "elapsedMs": 3530
+      "ok": false,
+      "error": "Request timed out after 15000ms",
+      "elapsedMs": 49505
     },
     {
       "id": "cuadernos-arq-unav",
@@ -478,7 +472,7 @@
       "kept": 19,
       "droppedOffTopic": 2,
       "droppedModern": 9,
-      "elapsedMs": 4022
+      "elapsedMs": 4235
     },
     {
       "id": "veleia-ehu",
@@ -491,7 +485,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3617
+      "elapsedMs": 7484
     },
     {
       "id": "flv-navarra",
@@ -504,7 +498,7 @@
       "kept": 17,
       "droppedOffTopic": 2,
       "droppedModern": 11,
-      "elapsedMs": 2721
+      "elapsedMs": 2993
     },
     {
       "id": "munibe-aa",
@@ -517,7 +511,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 2746
+      "elapsedMs": 2946
     },
     {
       "id": "trabajos-prehistoria",
@@ -530,7 +524,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 2735
+      "elapsedMs": 3009
     },
     {
       "id": "openalex-archaeology",
@@ -541,9 +535,9 @@
       "ok": true,
       "fetched": 30,
       "kept": 15,
-      "droppedOffTopic": 10,
-      "droppedModern": 5,
-      "elapsedMs": 2862
+      "droppedOffTopic": 9,
+      "droppedModern": 6,
+      "elapsedMs": 2970
     }
   ],
   "items": [
@@ -627,6 +621,93 @@
       "lang": "en",
       "region": "world",
       "topics": []
+    },
+    {
+      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S030544032600124X?dgcid=rss_sd_all",
+      "title": "Combining elemental analysis and molecular techniques to characterize Ancient Egyptian mummification balms",
+      "summary": "Publication date: July 2026 Source: Journal of Archaeological Science, Volume 191 Author(s): Marta Colmenares-Prado, Antonio Martínez Cortizas, Joeri Kaal, María Benito Sánchez, María García Velasco, Olalla López-Costas",
+      "url": "https://www.sciencedirect.com/science/article/pii/S030544032600124X?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-06-07T05:57:00.410Z",
+      "source": {
+        "id": "sciencedirect-jas",
+        "name": "Journal of Archaeological Science (ScienceDirect)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "egiptoarrak"
+      ]
+    },
+    {
+      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326001238?dgcid=rss_sd_all",
+      "title": "New insights into Late Neolithic foodways (c. 3300-2900 BCE): First functional study of ceramics in west-central France (Les Caltières, Vendée)",
+      "summary": "Publication date: July 2026 Source: Journal of Archaeological Science, Volume 191 Author(s): M. Regert, V. Ard, C. Prévost, T. Blasco, N. Fromont, P. Forré, L. Bedault, P. Garberi",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326001238?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-06-07T05:57:00.409Z",
+      "source": {
+        "id": "sciencedirect-jas",
+        "name": "Journal of Archaeological Science (ScienceDirect)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002737?dgcid=rss_sd_all",
+      "title": "Exploitation of tuff from the late Upper Paleolithic to the Neolithic period in the Nenjiang Region, Northeastern China",
+      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Xuewei Zhang, Chunxue Wang, Jiaqi Wang, An Rui, Yutong Ran, Youqian Li",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002737?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-06-07T05:57:00.159Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "asia"
+      ]
+    },
+    {
+      "id": "sudouest-culture:https://www.sudouest.fr/lot-et-garonne/villeneuve-sur-lot/les-visigoths-et-les-francs-debarquent-au-musee-d-eysses-a-villeneuve-sur-lot-29367500.php",
+      "title": "Les Visigoths et les Francs débarquent au musée d’Eysses, à Villeneuve-sur-Lot",
+      "summary": "La nouvelle exposition archéologique est consacrée à la période méconnue située entre la fin de l’empire romain et le début du Moyen-Âge. Elle présente des trésors jamais encore exposés dans un musée",
+      "url": "https://www.sudouest.fr/lot-et-garonne/villeneuve-sur-lot/les-visigoths-et-les-francs-debarquent-au-musee-d-eysses-a-villeneuve-sur-lot-29367500.php",
+      "image": null,
+      "publishedAt": "2026-06-06T17:00:00.000Z",
+      "source": {
+        "id": "sudouest-culture",
+        "name": "Sud Ouest — Culture"
+      },
+      "lang": "fr",
+      "region": "basque",
+      "topics": [
+        "erromatarrak",
+        "museoak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/tesoro-hambleden-asta-149mila-sterline-monete-medievali/",
+      "title": "Che fortuna. Bip, bip, bip. Il display segnala metalli. E’ oro, è argento. Sono 650 monete medievali. Il tesoro è stato venduto all’asta nelle scorse ore. Quanto guadagnano i cercatori? Chi depose le monete nel campo agricolo?",
+      "summary": "A circa 60 chilometri a ovest di Londra – poco più di un’ora d’auto dalla capitale britannica – tra le colline verdi del Buckinghamshire e i paesaggi della valle del Tamigi, un tesoro medievale rimasto nascosto per oltre seicento anni ha trovato nuovi proprietari . Le monete che…",
+      "url": "https://www.stilearte.it/tesoro-hambleden-asta-149mila-sterline-monete-medievali/",
+      "image": null,
+      "publishedAt": "2026-06-06T05:53:51.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa"
+      ]
     },
     {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002476?dgcid=rss_sd_all",
@@ -5159,21 +5240,6 @@
       ]
     },
     {
-      "id": "lemonde-archeo:https://www.lemonde.fr/afrique/article/2026/03/08/ici-on-pratique-l-archeologie-comme-au-siecle-dernier-le-patrimoine-ivoirien-encore-largement-sous-exploite_6669974_3212.html",
-      "title": "« Ici on pratique l’archéologie comme au siècle dernier » : le patrimoine ivoirien encore largement sous-exploité",
-      "summary": "En Côte d’Ivoire, l’archéologie est l’une des disciplines les plus pauvrement dotées : les chercheurs n’ont pas accès aux techniques de télédétection pour la prospection des sites et les artefacts doivent partir en France faute de laboratoire de datation au carbone.",
-      "url": "https://www.lemonde.fr/afrique/article/2026/03/08/ici-on-pratique-l-archeologie-comme-au-siecle-dernier-le-patrimoine-ivoirien-encore-largement-sous-exploite_6669974_3212.html",
-      "image": "https://img.lemde.fr/2026/03/05/690/0/5283/2641/644/322/60/0/0ca1f29_upload-1-tu2cckxa7r4h-dsc02473.jpg",
-      "publishedAt": "2026-03-08T09:00:12.000Z",
-      "source": {
-        "id": "lemonde-archeo",
-        "name": "Le Monde — Archéologie"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": []
-    },
-    {
       "id": "pnas-arch:https://openalex.org/W7131070050",
       "title": "Humans 40,000 y ago developed a system of conventional signs",
       "summary": "As humans, we store and share information. This allows us to distribute knowledge necessary for survival and to coordinate large groups. Our hominin ancestors harnessed the surfaces of mobile artifacts and cave walls as information carriers since the Paleolithic time period.…",
@@ -8777,74 +8843,6 @@
       "lang": "en",
       "region": "europe",
       "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/books/pioneers-settlers-villagers-and-warriors-excavations-at-ronaldsway-airport-isle-of-man/",
-      "title": "Pioneers, Settlers, Villagers, and Warriors: excavations at Ronaldsway Airport, Isle of Man",
-      "summary": "This comprehensive site report details the excavation that was carried out by Oxford Archaeology, on behalf of the Isle of Man Airport division (part of the Isle of Man government’s Department of",
-      "url": "https://the-past.com/review/books/pioneers-settlers-villagers-and-warriors-excavations-at-ronaldsway-airport-isle-of-man/",
-      "image": null,
-      "publishedAt": "2026-06-04T10:30:13.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/06/encuentran-en-el-lecho-del-rio-aare-en-suiza-los-restos-de-un-puente-romano-del-siglo-iv-en-la-antigua-salodurum",
-      "title": "Encuentran en el lecho del río Aare en Suiza los restos de un puente romano del siglo IV en la antigua Salodurum",
-      "summary": "Buceadores de la arqueología cantonal suiza han localizado bajo las aguas del río Aare, junto a la ciudad de Solothurn, las estacas de madera de un puente de época tardorromana que los investigadores llevaban décadas buscando sin éxito. Los análisis de datación sitúan las…",
-      "url": "https://www.labrujulaverde.com/2026/06/encuentran-en-el-lecho-del-rio-aare-en-suiza-los-restos-de-un-puente-romano-del-siglo-iv-en-la-antigua-salodurum",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/06/d746f1-2.webp",
-      "publishedAt": "2026-06-04T09:59:18.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/comment/excavating-the-ca-archive-major-church-buildings/",
-      "title": "Excavating the CA archive: Major church buildings",
-      "summary": "In last month’s column, I examined a series of sites associated with William the Conqueror and the legacy of the Norman Conquest. One of these was Westminster Abbey, which I will now cover in more detail, alongside two other major church buildings that regularly feature in…",
-      "url": "https://the-past.com/comment/excavating-the-ca-archive-major-church-buildings/",
-      "image": null,
-      "publishedAt": "2026-06-04T09:51:37.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/ponte-romano-salodurum-scoperto-aare/",
-      "title": "Un ponte romano rimasto nascosto per 1.700 anni sotto il fiume. Ora i subacquei hanno trovato la prova che gli storici cercavano da decenni. Salodurum: qual è il significato del nome antico? Cosa c’entra con Salò?",
-      "summary": "Una sagoma scura emerge lentamente dal fondale. Il subacqueo si avvicina, libera il legno dai sedimenti accumulati nel corso dei secoli e osserva una fila di pali ancora saldamente infissa nel terreno del fiume. In queste ore gli archeologi stanno analizzando i risultati delle…",
-      "url": "https://www.stilearte.it/ponte-romano-salodurum-scoperto-aare/",
-      "image": null,
-      "publishedAt": "2026-06-04T08:52:46.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
     }
   ]
 }
