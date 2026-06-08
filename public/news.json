@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T05:57:48.148Z",
+  "generatedAt": "2026-06-08T06:13:50.979Z",
   "count": 500,
   "sources": [
     {
@@ -13,7 +13,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 630
+      "elapsedMs": 507
     },
     {
       "id": "naiz",
@@ -26,7 +26,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 659
+      "elapsedMs": 646
     },
     {
       "id": "argia-kultura",
@@ -39,7 +39,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 780
+      "elapsedMs": 3797
     },
     {
       "id": "eitb-kultura",
@@ -52,7 +52,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 664
+      "elapsedMs": 448
     },
     {
       "id": "berria-bsky",
@@ -61,11 +61,11 @@
       "region": "basque",
       "kind": "news",
       "ok": true,
-      "fetched": 30,
+      "fetched": 29,
       "kept": 0,
-      "droppedOffTopic": 30,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 3015
+      "elapsedMs": 2068
     },
     {
       "id": "aranzadi-bsky",
@@ -78,7 +78,7 @@
       "kept": 8,
       "droppedOffTopic": 22,
       "droppedModern": 0,
-      "elapsedMs": 3032
+      "elapsedMs": 2082
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kind": "research",
       "ok": false,
       "error": "Request timed out after 15000ms",
-      "elapsedMs": 49511
+      "elapsedMs": 49514
     },
     {
       "id": "labrujulaverde",
@@ -96,9 +96,12 @@
       "lang": "es",
       "region": "world",
       "kind": "news",
-      "ok": false,
-      "error": "Status code 415",
-      "elapsedMs": 6093
+      "ok": true,
+      "fetched": 20,
+      "kept": 16,
+      "droppedOffTopic": 2,
+      "droppedModern": 2,
+      "elapsedMs": 1310
     },
     {
       "id": "desperta-ferro",
@@ -111,7 +114,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 4,
-      "elapsedMs": 1374
+      "elapsedMs": 1315
     },
     {
       "id": "elpais-cultura",
@@ -124,7 +127,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 803
+      "elapsedMs": 430
     },
     {
       "id": "lemonde-sciences",
@@ -137,7 +140,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 1,
-      "elapsedMs": 904
+      "elapsedMs": 505
     },
     {
       "id": "lemonde-archeo",
@@ -150,7 +153,7 @@
       "kept": 10,
       "droppedOffTopic": 8,
       "droppedModern": 2,
-      "elapsedMs": 1246
+      "elapsedMs": 1021
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -163,7 +166,7 @@
       "kept": 3,
       "droppedOffTopic": 15,
       "droppedModern": 1,
-      "elapsedMs": 869
+      "elapsedMs": 629
     },
     {
       "id": "inrap-bsky",
@@ -176,7 +179,7 @@
       "kept": 4,
       "droppedOffTopic": 13,
       "droppedModern": 3,
-      "elapsedMs": 3023
+      "elapsedMs": 2079
     },
     {
       "id": "sudouest-culture",
@@ -186,10 +189,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 1,
-      "droppedOffTopic": 19,
+      "kept": 0,
+      "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1177
+      "elapsedMs": 827
     },
     {
       "id": "corriere-cultura",
@@ -202,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1623
+      "elapsedMs": 1338
     },
     {
       "id": "archeologiaviva",
@@ -215,7 +218,7 @@
       "kept": 1,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 1822
+      "elapsedMs": 1499
     },
     {
       "id": "stilearte",
@@ -225,10 +228,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 9,
+      "kept": 8,
       "droppedOffTopic": 0,
-      "droppedModern": 1,
-      "elapsedMs": 1906
+      "droppedModern": 2,
+      "elapsedMs": 1567
     },
     {
       "id": "live-science-arch",
@@ -238,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 4,
-      "droppedOffTopic": 26,
+      "kept": 5,
+      "droppedOffTopic": 25,
       "droppedModern": 0,
-      "elapsedMs": 2972
+      "elapsedMs": 1945
     },
     {
       "id": "bbc-history",
@@ -254,7 +257,7 @@
       "kept": 0,
       "droppedOffTopic": 9,
       "droppedModern": 1,
-      "elapsedMs": 1417
+      "elapsedMs": 1091
     },
     {
       "id": "sciencedaily-arch",
@@ -267,7 +270,7 @@
       "kept": 14,
       "droppedOffTopic": 16,
       "droppedModern": 0,
-      "elapsedMs": 1510
+      "elapsedMs": 1257
     },
     {
       "id": "ancient-origins",
@@ -280,7 +283,7 @@
       "kept": 4,
       "droppedOffTopic": 5,
       "droppedModern": 1,
-      "elapsedMs": 1536
+      "elapsedMs": 1235
     },
     {
       "id": "guardian-arch",
@@ -293,7 +296,7 @@
       "kept": 12,
       "droppedOffTopic": 7,
       "droppedModern": 1,
-      "elapsedMs": 1861
+      "elapsedMs": 1454
     },
     {
       "id": "current-archaeology",
@@ -306,7 +309,7 @@
       "kept": 16,
       "droppedOffTopic": 8,
       "droppedModern": 6,
-      "elapsedMs": 1549
+      "elapsedMs": 1219
     },
     {
       "id": "jas-reports",
@@ -316,10 +319,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 6,
+      "kept": 7,
       "droppedOffTopic": 5,
-      "droppedModern": 19,
-      "elapsedMs": 1588
+      "droppedModern": 18,
+      "elapsedMs": 1226
     },
     {
       "id": "plos-one-arch",
@@ -332,7 +335,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1836
+      "elapsedMs": 1284
     },
     {
       "id": "pnas-arch",
@@ -345,7 +348,7 @@
       "kept": 22,
       "droppedOffTopic": 6,
       "droppedModern": 2,
-      "elapsedMs": 2305
+      "elapsedMs": 1927
     },
     {
       "id": "sciencedirect-jas",
@@ -354,11 +357,11 @@
       "region": "world",
       "kind": "research",
       "ok": true,
-      "fetched": 30,
-      "kept": 8,
-      "droppedOffTopic": 2,
-      "droppedModern": 20,
-      "elapsedMs": 1778
+      "fetched": 19,
+      "kept": 6,
+      "droppedOffTopic": 0,
+      "droppedModern": 13,
+      "elapsedMs": 1200
     },
     {
       "id": "spal-us",
@@ -371,7 +374,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2559
+      "elapsedMs": 2020
     },
     {
       "id": "complutum-ucm",
@@ -384,7 +387,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2812
+      "elapsedMs": 2191
     },
     {
       "id": "archeoarte",
@@ -397,7 +400,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2610
+      "elapsedMs": 2259
     },
     {
       "id": "cypsela",
@@ -410,7 +413,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3083
+      "elapsedMs": 1835
     },
     {
       "id": "cambridge-antiquity",
@@ -423,7 +426,7 @@
       "kept": 19,
       "droppedOffTopic": 3,
       "droppedModern": 8,
-      "elapsedMs": 2339
+      "elapsedMs": 1730
     },
     {
       "id": "cambridge-caj",
@@ -436,7 +439,7 @@
       "kept": 17,
       "droppedOffTopic": 8,
       "droppedModern": 5,
-      "elapsedMs": 2358
+      "elapsedMs": 1718
     },
     {
       "id": "cambridge-ejarc",
@@ -449,7 +452,7 @@
       "kept": 14,
       "droppedOffTopic": 5,
       "droppedModern": 11,
-      "elapsedMs": 2373
+      "elapsedMs": 1696
     },
     {
       "id": "aquitania-persee",
@@ -472,7 +475,7 @@
       "kept": 19,
       "droppedOffTopic": 2,
       "droppedModern": 9,
-      "elapsedMs": 4235
+      "elapsedMs": 3162
     },
     {
       "id": "veleia-ehu",
@@ -485,7 +488,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 7484
+      "elapsedMs": 2935
     },
     {
       "id": "flv-navarra",
@@ -498,7 +501,7 @@
       "kept": 17,
       "droppedOffTopic": 2,
       "droppedModern": 11,
-      "elapsedMs": 2993
+      "elapsedMs": 1928
     },
     {
       "id": "munibe-aa",
@@ -511,7 +514,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 2946
+      "elapsedMs": 1989
     },
     {
       "id": "trabajos-prehistoria",
@@ -524,7 +527,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 3009
+      "elapsedMs": 2003
     },
     {
       "id": "openalex-archaeology",
@@ -534,10 +537,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 15,
+      "kept": 14,
       "droppedOffTopic": 9,
-      "droppedModern": 6,
-      "elapsedMs": 2970
+      "droppedModern": 7,
+      "elapsedMs": 1953
     }
   ],
   "items": [
@@ -8357,6 +8360,89 @@
       "topics": []
     },
     {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003044?dgcid=rss_sd_all",
+      "title": "Exploring human-animal interactions in Middle/Late Neolithic Nea Makri (Attica) through zooarchaeology",
+      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Dimitris Filioglou",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26003044?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-06-08T06:13:02.629Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/teofanie-nascoste-casa-cibele-afrodisia-affreschi-misterici/",
+      "title": "Vedi le figure nascoste? Archeologi scoprono la casa romana dei misteri. Evocazioni, voci, luci, apparizioni. Una grande struttura di culto nascosta sotto l’edificio. Chi ospitava? Che divinità erano celebrate? Cos dicono le figure che emergono dal finto marmo?",
+      "summary": "Una dimora tardoantica continua a rivelare aspetti inattesi della spiritualità privata delle élite dell’Impero romano d’Oriente. Gli archeologi dell’Università di Oxford, guidati da R.R.R. Smith e Ine Jacobs, hanno individuato nella cosiddetta Casa di Cibele una serie di…",
+      "url": "https://www.stilearte.it/teofanie-nascoste-casa-cibele-afrodisia-affreschi-misterici/",
+      "image": null,
+      "publishedAt": "2026-06-08T05:32:53.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/06/las-acropolis-griegas-ni-refugios-democraticos-ni-residencias-de-reyes-prehistoricos-un-estudio-cuestiona-su-origen-y-funcion",
+      "title": "Las acrópolis griegas, ni refugios democráticos ni residencias de reyes prehistóricos: un estudio cuestiona su origen y función",
+      "summary": "Nadie que haya visitado Atenas olvida la imagen de la Acrópolis coronando la ciudad con sus mármoles brillantes. Sin embargo, un nuevo estudio académico acaba de tumbar décadas de interpretaciones erróneas sobre lo que realmente fueron estos famosos espacios en la Antigua…",
+      "url": "https://www.labrujulaverde.com/2026/06/las-acropolis-griegas-ni-refugios-democraticos-ni-residencias-de-reyes-prehistoricos-un-estudio-cuestiona-su-origen-y-funcion",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/06/IMG_0955.webp",
+      "publishedAt": "2026-06-07T10:13:54.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "greziarrak"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/space/meteoroids/kaleidoscopic-meteorite-could-be-a-piece-of-a-lost-world-from-the-early-solar-system-space-photo-of-the-week",
+      "title": "Kaleidoscopic meteorite could be a piece of a 'lost world' from the early solar system — Space photo of the week",
+      "summary": "A rare meteorite found in the Sahara Desert may be evidence of a long-lost \"protoplanet\" that formed in the early solar system before being destroyed in a colossal collision, a new study suggests",
+      "url": "https://www.livescience.com/space/meteoroids/kaleidoscopic-meteorite-could-be-a-piece-of-a-lost-world-from-the-early-solar-system-space-photo-of-the-week",
+      "image": "https://cdn.mos.cms.futurecdn.net/5DSrtheVBN2GVKAz98mRxK-1280-80.jpg",
+      "publishedAt": "2026-06-07T10:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/scoperto-sistema-idrico-mamelucco-cittadella-saladino-cairo/",
+      "title": "Scoperto acquedotto medievale che andava in salita. Come potevano essere convogliate in alto le acque se le fonti erano in basso e non c’erano montagne attorno? Il sistema portato alla luce ora dagli archeologi nei pressi di una fortezza e di un edificio sacro",
+      "summary": "Una missione archeologica egiziano-francese ha riportato alla luce, nei pressi della cittadella di Saladino al Cairo, un articolato sistema idrico di epoca mamelucca che ben documenta l’approvvigionamento d’acqua della capitale egiziana medievale. La scoperta comprende due…",
+      "url": "https://www.stilearte.it/scoperto-sistema-idrico-mamelucco-cittadella-saladino-cairo/",
+      "image": null,
+      "publishedAt": "2026-06-07T07:39:54.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa"
+      ]
+    },
+    {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002750?dgcid=rss_sd_all",
       "title": "Deadwood gathering in the ghost group of East Asia for the adaptation to the forest environment during the late prehistoric: Charcoal evidence from Xingyi site southwestern China",
       "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Mei Wu, Ditao Zhang, Chenhan Zhao, Xiaoqing Guo, Lu Chen, Xiaorui Li, Zhonghua Zhu, Liang zhang, Fengwen Liu",
@@ -8762,87 +8848,6 @@
       "topics": [
         "erromatarrak"
       ]
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/archaeology/first-shipwrecks-linked-to-real-pirates-of-the-caribbean-found-in-bahamas",
-      "title": "First shipwrecks linked to real pirates of the Caribbean found in Bahamas",
-      "summary": "In a first, underwater archaeologists in the Bahamas have discovered three shipwrecks associated with the Golden Age of Piracy off the coast of Nassau.",
-      "url": "https://www.livescience.com/archaeology/first-shipwrecks-linked-to-real-pirates-of-the-caribbean-found-in-bahamas",
-      "image": "https://cdn.mos.cms.futurecdn.net/PPmsT6zP2Wh59QtT4iPTCk-1280-80.jpg",
-      "publishedAt": "2026-06-04T16:00:00.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/archaeology/archaeologists-study-the-international-space-station-and-everest-to-figure-out-how-humans-adapt-in-this-impossible-place-where-we-have-no-business-going",
-      "title": "Archaeologists study the International Space Station and Everest to figure out 'how humans adapt in this impossible place where we have no business going'",
-      "summary": "Archaeologists are turning their attention and research skills to far-flung places on the Earth and beyond, discovering new information about how humans survive in extreme environments.",
-      "url": "https://www.livescience.com/archaeology/archaeologists-study-the-international-space-station-and-everest-to-figure-out-how-humans-adapt-in-this-impossible-place-where-we-have-no-business-going",
-      "image": "https://cdn.mos.cms.futurecdn.net/UZwN2bqvbBfiDTktVBqD9C-1280-80.png",
-      "publishedAt": "2026-06-04T15:00:00.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/06/el-momento-en-que-vimos-la-luz-huellas-fosiles-revelan-cuando-y-como-los-primeros-animales-empezaron-a-percibir-el-mundo",
-      "title": "El momento en que vimos la luz: huellas fósiles revelan cuando y cómo los primeros animales empezaron a percibir el mundo",
-      "summary": "Hace más de 540 millones de años, en los fondos marinos del Ediacárico, algo cambió para siempre. Los animales empezaron a ver. O más bien, empezaron a sentir, porque la vista tal como la entendemos hoy probablemente llegó después, pero el umbral que cruzaron aquellas criaturas…",
-      "url": "https://www.labrujulaverde.com/2026/06/el-momento-en-que-vimos-la-luz-huellas-fosiles-revelan-cuando-y-como-los-primeros-animales-empezaron-a-percibir-el-mundo",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/06/d41586-026-01762-8_52505802.jpg-2.webp",
-      "publishedAt": "2026-06-04T14:46:20.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/06/260604044252.htm",
-      "title": "Goethe never knew this 40-million-year-old ant was hidden in his collection",
-      "summary": "Scientists examining amber from Goethe’s personal collection discovered three hidden fossil insects, including an extinct ant preserved in extraordinary detail. Advanced 3D imaging allowed researchers to see not only the ant’s outer features but also structures inside its body.…",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260604044252.htm",
-      "image": null,
-      "publishedAt": "2026-06-04T12:30:55.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/books/things-we-found-in-the-ground/",
-      "title": "Things We Found in the Ground",
-      "summary": "Cousins Ellie and Lucie were reunited – and introduced to metal-detecting – during the COVID-19 lockdown. The result is this absorbing account, tracing their adventures in the past, from their first back-garden",
-      "url": "https://the-past.com/review/books/things-we-found-in-the-ground/",
-      "image": null,
-      "publishedAt": "2026-06-04T10:59:21.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
     }
   ]
 }
