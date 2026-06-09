@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T06:13:50.979Z",
+  "generatedAt": "2026-06-09T05:38:57.311Z",
   "count": 500,
   "sources": [
     {
@@ -13,7 +13,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 507
+      "elapsedMs": 657
     },
     {
       "id": "naiz",
@@ -26,7 +26,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 646
+      "elapsedMs": 1111
     },
     {
       "id": "argia-kultura",
@@ -39,7 +39,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3797
+      "elapsedMs": 1321
     },
     {
       "id": "eitb-kultura",
@@ -52,7 +52,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 448
+      "elapsedMs": 1007
     },
     {
       "id": "berria-bsky",
@@ -61,11 +61,11 @@
       "region": "basque",
       "kind": "news",
       "ok": true,
-      "fetched": 29,
+      "fetched": 30,
       "kept": 0,
-      "droppedOffTopic": 29,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2068
+      "elapsedMs": 2859
     },
     {
       "id": "aranzadi-bsky",
@@ -75,10 +75,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 8,
-      "droppedOffTopic": 22,
+      "kept": 7,
+      "droppedOffTopic": 23,
       "droppedModern": 0,
-      "elapsedMs": 2082
+      "elapsedMs": 2872
     },
     {
       "id": "vianako-printzea",
@@ -86,9 +86,12 @@
       "lang": "es",
       "region": "basque",
       "kind": "research",
-      "ok": false,
-      "error": "Request timed out after 15000ms",
-      "elapsedMs": 49514
+      "ok": true,
+      "fetched": 25,
+      "kept": 9,
+      "droppedOffTopic": 3,
+      "droppedModern": 13,
+      "elapsedMs": 1508
     },
     {
       "id": "labrujulaverde",
@@ -98,10 +101,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 16,
+      "kept": 17,
       "droppedOffTopic": 2,
-      "droppedModern": 2,
-      "elapsedMs": 1310
+      "droppedModern": 1,
+      "elapsedMs": 1666
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +117,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 4,
-      "elapsedMs": 1315
+      "elapsedMs": 1243
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +130,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 430
+      "elapsedMs": 1708
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +143,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 1,
-      "elapsedMs": 505
+      "elapsedMs": 1061
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +156,7 @@
       "kept": 10,
       "droppedOffTopic": 8,
       "droppedModern": 2,
-      "elapsedMs": 1021
+      "elapsedMs": 1447
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -166,7 +169,7 @@
       "kept": 3,
       "droppedOffTopic": 15,
       "droppedModern": 1,
-      "elapsedMs": 629
+      "elapsedMs": 1359
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +182,7 @@
       "kept": 4,
       "droppedOffTopic": 13,
       "droppedModern": 3,
-      "elapsedMs": 2079
+      "elapsedMs": 2811
     },
     {
       "id": "sudouest-culture",
@@ -192,7 +195,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 827
+      "elapsedMs": 1172
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +208,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1338
+      "elapsedMs": 1822
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +221,7 @@
       "kept": 1,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 1499
+      "elapsedMs": 2220
     },
     {
       "id": "stilearte",
@@ -228,10 +231,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 8,
-      "droppedOffTopic": 0,
+      "kept": 7,
+      "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 1567
+      "elapsedMs": 2212
     },
     {
       "id": "live-science-arch",
@@ -241,10 +244,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 5,
+      "kept": 4,
       "droppedOffTopic": 25,
-      "droppedModern": 0,
-      "elapsedMs": 1945
+      "droppedModern": 1,
+      "elapsedMs": 2690
     },
     {
       "id": "bbc-history",
@@ -257,7 +260,7 @@
       "kept": 0,
       "droppedOffTopic": 9,
       "droppedModern": 1,
-      "elapsedMs": 1091
+      "elapsedMs": 1877
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +273,7 @@
       "kept": 14,
       "droppedOffTopic": 16,
       "droppedModern": 0,
-      "elapsedMs": 1257
+      "elapsedMs": 1624
     },
     {
       "id": "ancient-origins",
@@ -283,7 +286,7 @@
       "kept": 4,
       "droppedOffTopic": 5,
       "droppedModern": 1,
-      "elapsedMs": 1235
+      "elapsedMs": 1733
     },
     {
       "id": "guardian-arch",
@@ -296,7 +299,7 @@
       "kept": 12,
       "droppedOffTopic": 7,
       "droppedModern": 1,
-      "elapsedMs": 1454
+      "elapsedMs": 1856
     },
     {
       "id": "current-archaeology",
@@ -309,7 +312,7 @@
       "kept": 16,
       "droppedOffTopic": 8,
       "droppedModern": 6,
-      "elapsedMs": 1219
+      "elapsedMs": 1865
     },
     {
       "id": "jas-reports",
@@ -322,7 +325,7 @@
       "kept": 7,
       "droppedOffTopic": 5,
       "droppedModern": 18,
-      "elapsedMs": 1226
+      "elapsedMs": 1522
     },
     {
       "id": "plos-one-arch",
@@ -332,10 +335,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 0,
-      "droppedOffTopic": 30,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1284
+      "elapsedMs": 1805
     },
     {
       "id": "pnas-arch",
@@ -348,7 +351,7 @@
       "kept": 22,
       "droppedOffTopic": 6,
       "droppedModern": 2,
-      "elapsedMs": 1927
+      "elapsedMs": 2716
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +364,7 @@
       "kept": 6,
       "droppedOffTopic": 0,
       "droppedModern": 13,
-      "elapsedMs": 1200
+      "elapsedMs": 1545
     },
     {
       "id": "spal-us",
@@ -374,7 +377,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2020
+      "elapsedMs": 2625
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +390,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2191
+      "elapsedMs": 2844
     },
     {
       "id": "archeoarte",
@@ -400,7 +403,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2259
+      "elapsedMs": 2913
     },
     {
       "id": "cypsela",
@@ -413,7 +416,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 1835
+      "elapsedMs": 2511
     },
     {
       "id": "cambridge-antiquity",
@@ -426,7 +429,7 @@
       "kept": 19,
       "droppedOffTopic": 3,
       "droppedModern": 8,
-      "elapsedMs": 1730
+      "elapsedMs": 2659
     },
     {
       "id": "cambridge-caj",
@@ -439,7 +442,7 @@
       "kept": 17,
       "droppedOffTopic": 8,
       "droppedModern": 5,
-      "elapsedMs": 1718
+      "elapsedMs": 2731
     },
     {
       "id": "cambridge-ejarc",
@@ -452,7 +455,7 @@
       "kept": 14,
       "droppedOffTopic": 5,
       "droppedModern": 11,
-      "elapsedMs": 1696
+      "elapsedMs": 2745
     },
     {
       "id": "aquitania-persee",
@@ -460,9 +463,12 @@
       "lang": "fr",
       "region": "basque",
       "kind": "research",
-      "ok": false,
-      "error": "Request timed out after 15000ms",
-      "elapsedMs": 49505
+      "ok": true,
+      "fetched": 10,
+      "kept": 10,
+      "droppedOffTopic": 0,
+      "droppedModern": 0,
+      "elapsedMs": 4233
     },
     {
       "id": "cuadernos-arq-unav",
@@ -475,7 +481,7 @@
       "kept": 19,
       "droppedOffTopic": 2,
       "droppedModern": 9,
-      "elapsedMs": 3162
+      "elapsedMs": 4911
     },
     {
       "id": "veleia-ehu",
@@ -488,7 +494,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 2935
+      "elapsedMs": 4000
     },
     {
       "id": "flv-navarra",
@@ -501,7 +507,7 @@
       "kept": 17,
       "droppedOffTopic": 2,
       "droppedModern": 11,
-      "elapsedMs": 1928
+      "elapsedMs": 2784
     },
     {
       "id": "munibe-aa",
@@ -514,7 +520,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 1989
+      "elapsedMs": 2959
     },
     {
       "id": "trabajos-prehistoria",
@@ -527,7 +533,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 2003
+      "elapsedMs": 3311
     },
     {
       "id": "openalex-archaeology",
@@ -540,7 +546,7 @@
       "kept": 14,
       "droppedOffTopic": 9,
       "droppedModern": 7,
-      "elapsedMs": 1953
+      "elapsedMs": 3086
     }
   ],
   "items": [
@@ -4739,23 +4745,6 @@
       ]
     },
     {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/03/260309225231.htm",
-      "title": "This 2-pound dinosaur is rewriting what scientists know about evolution",
-      "summary": "A nearly complete dinosaur skeleton discovered in Patagonia is helping scientists crack the mystery of alvarezsaurs, a bizarre group of bird-like dinosaurs. The fossil of Alnashetri cerropoliciensis reveals that these animals became tiny before developing their later specialized…",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260309225231.htm",
-      "image": null,
-      "publishedAt": "2026-03-10T10:50:39.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
       "id": "pnas-arch:https://openalex.org/W7134979679",
       "title": "Early colonization before inundation consistent with northern glacial refugia in Southern Doggerland revealed by sedimentary ancient DNA",
       "summary": "Prior to the formation of the present-day North Sea during the mid-Holocene, North-Western Europe was connected through the Doggerland landmass. While it has been known for the past century that Doggerland was forested, it has not been clear when the onset of forestation…",
@@ -8360,6 +8349,138 @@
       "topics": []
     },
     {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/06/decenas-de-esqueletos-sin-craneo-encontrados-en-eslovaquia-apuntan-a-rituales-funerarios-neoliticos-no-a-una-matanza",
+      "title": "Decenas de esqueletos sin cráneo encontrados en Eslovaquia apuntan a rituales funerarios neolíticos, no a una matanza",
+      "summary": "Investigadores de la Universidad Christian-Albrechts de Kiel (CAU) y de la Academia Eslovaca de Ciencias en Nitra han publicado las primeras conclusiones sobre el excepcional yacimiento arqueológico de Vráble Veľké-Lehemby, un asentamiento de hace 7000 años situado cerca de la…",
+      "url": "https://www.labrujulaverde.com/2026/06/decenas-de-esqueletos-sin-craneo-encontrados-en-eslovaquia-apuntan-a-rituales-funerarios-neoliticos-no-a-una-matanza",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/06/003-freilegung-bergung.webp",
+      "publishedAt": "2026-06-08T14:34:23.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/ritrovati-1700-reperti-antica-via-pellegrinaggio-mecca-al-juhfah/",
+      "title": "La scoperta | Oltre 1.700 reperti emergono in queste ore dalla sabbia lungo l’antica via del pellegrinaggio alla Mecca: tra fornaci, canali d’acqua e antiche stele funerarie, cosa raccontano questi oggetti dimenticati da secoli nel deserto?",
+      "summary": "Nel deserto dell’Arabia occidentale, lungo una delle più importanti rotte spirituali del mondo islamico, archeologi sauditi e britannici hanno riportato alla luce oltre 1.700 reperti. Tra fornaci, canali d’acqua e antiche stele funerarie riemerge la storia di migliaia di…",
+      "url": "https://www.stilearte.it/ritrovati-1700-reperti-antica-via-pellegrinaggio-mecca-al-juhfah/",
+      "image": null,
+      "publishedAt": "2026-06-08T14:02:12.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351170",
+      "title": "Identity and mobility through personal ornaments in Upper Paleolithic cantabrian hunter-gatherer societies: Insights from Llonín cave (Asturias, Spain)",
+      "summary": "by Daniel Pérez-García de los Salmones, David Cuenca-Solana, Borja González-Rabanal, Ana B. Marín-Arroyo, Elsa Duarte-Matías, Marco de la Rasilla-Vives The use of personal ornaments is considered a milestone in human cognitive evolution and the development of complex behavior.…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351170",
+      "image": null,
+      "publishedAt": "2026-06-08T14:00:00.000Z",
+      "source": {
+        "id": "plos-one-arch",
+        "name": "PLOS ONE — Archaeology"
+      },
+      "lang": "en",
+      "region": "iberia",
+      "topics": [
+        "prehistoria",
+        "iberiarrak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/06/descubren-los-pozos-las-norias-y-los-canales-que-llevaban-el-agua-hacia-la-ciudadela-de-saladino-en-el-cairo",
+      "title": "Descubren los pozos, las norias y los canales que llevaban el agua hacia la fortaleza de la Ciudadela de Saladino en El Cairo",
+      "summary": "Las labores de la misión arqueológica conjunta egipcio-francesa, integrada por efectivos del Consejo Supremo de Antigüedades y del Instituto Francés de Arqueología Oriental (IFAO), han sacado a la luz en las zonas de Arab Al-Yasar y Al-Hattaba, ambas situadas en el perímetro…",
+      "url": "https://www.labrujulaverde.com/2026/06/descubren-los-pozos-las-norias-y-los-canales-que-llevaban-el-agua-hacia-la-ciudadela-de-saladino-en-el-cairo",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/06/716591046_1410626077765601_8789642468315394199_n.webp",
+      "publishedAt": "2026-06-08T11:19:28.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/tunnel-tudor-scoperti-palazzo-enrico-viii-chelmsford/",
+      "title": "Scavano accanto a una storica residenza e trovano un passaggio dimenticato da secoli: emergono tunnel del Cinquecento e centinaia di reperti. A cosa servivano? Svelata l’origine di queste cavità",
+      "summary": "Una recinzione da cantiere, un’apertura scura nel terreno e alcuni operai impegnati in lavori di manutenzione. È iniziato così uno dei ritrovamenti archeologici più curiosi emersi in queste ore nel Regno Unito. Dietro una parete deteriorata è comparso l’accesso a un sistema…",
+      "url": "https://www.stilearte.it/tunnel-tudor-scoperti-palazzo-enrico-viii-chelmsford/",
+      "image": null,
+      "publishedAt": "2026-06-08T09:40:25.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/mano-mummificata-moneta-rame-bambino-ungheria/",
+      "title": "Struggente. Una madre mise una moneta di rame nella mano del suo bambino morto e lo affidò alla terra. Quando gli archeologi lo ritrovarono la piccola mano era ancora lì, verde, mummificata. Ma perché il piccolo venne sepolto in una necropoli medievale chiusa da tre secoli?",
+      "summary": "Le grandi scoperte archeologiche parlano spesso di faraoni, guerrieri e città perdute. Talvolta, però, un piccolo reperto riesce a raccontare una storia molto più intensa. È il caso di una minuscola mano appartenuta a un neonato e rinvenuta in Ungheria, in un contesto che ha…",
+      "url": "https://www.stilearte.it/mano-mummificata-moneta-rame-bambino-ungheria/",
+      "image": null,
+      "publishedAt": "2026-06-08T09:31:11.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/06/enigmaticos-cinturones-de-hoyos-de-la-edad-del-hierro-en-dinamarca-pueden-ser-estructuras-defensivas-similares-a-las-que-cesar-encontro-en-alesia",
+      "title": "Enigmáticos «cinturones de hoyos» de la Edad del Hierro en Dinamarca pueden ser estructuras defensivas similares a las que César encontró en Alesia",
+      "summary": "Durante años los arqueólogos han encontrado decenas de miles de hoyos de unos treinta o cuarenta centímetros de profundidad dispuestos en bandas de entre tres y seis metros de anchura que se extienden a lo largo de varios kilómetros por el paisaje danés. Este fenómeno, conocido…",
+      "url": "https://www.labrujulaverde.com/2026/06/enigmaticos-cinturones-de-hoyos-de-la-edad-del-hierro-en-dinamarca-pueden-ser-estructuras-defensivas-similares-a-las-que-cesar-encontro-en-alesia",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/06/billede1-3-1.png-copia.webp",
+      "publishedAt": "2026-06-08T08:56:18.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/06/arqueologos-espanoles-descubren-en-tusculum-la-basilica-que-sirvio-de-modelo-a-este-tipo-de-edificacion-romana",
+      "title": "Arqueólogos españoles descubren en Tusculum la basílica que sirvió de modelo a este tipo de edificación romana",
+      "summary": "El pasado mes de enero de 2026, las autoridades italianas anunciaron un descubrimiento que dio la vuelta al mundo arqueológico: la denominada Basílica de Vitruvio en Fanum Fortunae, la actual Fano, considerada la única construcción atribuida a Marco Vitruvio Polión, el célebre…",
+      "url": "https://www.labrujulaverde.com/2026/06/arqueologos-espanoles-descubren-en-tusculum-la-basilica-que-sirvio-de-modelo-a-este-tipo-de-edificacion-romana",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/06/urn-cambridge.org-id-binary-20240926054446294-0918-S1047759424000096-S1047759424000096_fig1-2.webp",
+      "publishedAt": "2026-06-08T07:56:42.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "erromatarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003044?dgcid=rss_sd_all",
       "title": "Exploring human-animal interactions in Middle/Late Neolithic Nea Makri (Attica) through zooarchaeology",
       "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Dimitris Filioglou",
@@ -8727,126 +8848,6 @@
       "region": "world",
       "topics": [
         "greziarrak"
-      ]
-    },
-    {
-      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326001391?dgcid=rss_sd_all",
-      "title": "Defining local 87 Sr/ 86 Sr baselines using high-resolution bioavailable strontium isoscapes: Implications for short-range prehistoric mobility in southwestern Iberia",
-      "summary": "Publication date: July 2026 Source: Journal of Archaeological Science, Volume 191 Author(s): Döbereiner Chala-Aldana, Leopoldo Pena, Javier Escudero Carrillo, Marta Díaz-Zorita Bonilla",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326001391?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-06-05T05:53:23.199Z",
-      "source": {
-        "id": "sciencedirect-jas",
-        "name": "Journal of Archaeological Science (ScienceDirect)"
-      },
-      "lang": "en",
-      "region": "iberia",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326001032?dgcid=rss_sd_all",
-      "title": "Detecting architectural features and stratigraphic deposits at a Pastoral Neolithic site using ground-penetrating radar",
-      "summary": "Publication date: July 2026 Source: Journal of Archaeological Science, Volume 191 Author(s): Brenna McWhorter Fennessey, Sylvia Wemanya, Audax Z.P. Mabulla, Agness O. Gidna, Mary E. Prendergast, Katherine M. Grillo",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326001032?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-06-05T05:53:23.199Z",
-      "source": {
-        "id": "sciencedirect-jas",
-        "name": "Journal of Archaeological Science (ScienceDirect)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326000993?dgcid=rss_sd_all",
-      "title": "Amber workshops in Central Europe during the Early Iron Age. Technology, chemical analyses, and Amber Roads",
-      "summary": "Publication date: July 2026 Source: Journal of Archaeological Science, Volume 191 Author(s): Zuzana Golec Mírová, Martin Golec, Lukáš Kučera, Miloslav Chytráček, Katja Hagemann, Doris Mischka, Michal Dienstpier, Jan Martínek, Vojtěch Zemek, Michal Přichystal, Hana Čižmářová,…",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326000993?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-06-05T05:53:23.198Z",
-      "source": {
-        "id": "sciencedirect-jas",
-        "name": "Journal of Archaeological Science (ScienceDirect)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X2600283X?dgcid=rss_sd_all",
-      "title": "New insights into avian exploitation at the mid-Neolithic site of Weidun in east-central China",
-      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Yanbo Song, Ruijuan Liang, Hui Peng, Minghao Lin",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X2600283X?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-06-05T05:53:23.166Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria",
-        "asia"
-      ]
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/animals/dinosaurs/new-velociraptor-cousin-was-a-4-winged-dragon-that-hunted-prey-from-the-trees-of-ancient-china-fossil-find-hints",
-      "title": "New Velociraptor cousin was a '4-winged' dragon that hunted prey from the trees of ancient China, fossil find hints",
-      "summary": "A new microraptor from Cretaceous China likely preyed on ancient birds.",
-      "url": "https://www.livescience.com/animals/dinosaurs/new-velociraptor-cousin-was-a-4-winged-dragon-that-hunted-prey-from-the-trees-of-ancient-china-fossil-find-hints",
-      "image": "https://cdn.mos.cms.futurecdn.net/3U4p2JW2FviZ7rXXBmHdpa-1280-80.jpg",
-      "publishedAt": "2026-06-04T22:38:02.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "asia"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/studio-santuario-mitra-croazia-scoperte-culto-misterico-romano/",
-      "title": "Meraviglioso. Studiate le misteriose stranezze dell’antro del dio Mitra sul monte. Una fonte romana tra grilli e solitudini. Bassorilievi. L’eco di un toro. Ma cosa distingue questo luogo dai consueti, occulti mitrei? Come si svolgevano qui gli incontri tra adepti? Chi erano?",
-      "summary": "Il monte doveva apparire come la vera casa del dio. Una sorgente sonora gorgogliava nel palmo dalla roccia, mentre il silenzio del bosco e delle radure, attorno, era punteggiato dal canto incessante dei grilli. All’imbrunire, ascoltando i suoni, nella brezza,, pareva di…",
-      "url": "https://www.stilearte.it/studio-santuario-mitra-croazia-scoperte-culto-misterico-romano/",
-      "image": null,
-      "publishedAt": "2026-06-04T22:10:00.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/foro-romano-altino-scavi-citta-romana-sepolta/",
-      "title": "Scoperta | Splendido. Riemerge il cuore della città romana che precedette Venezia. Ad Altino gli archeologi stanno riportando alla luce foro, botteghe e strade rimaste sepolte per secoli",
-      "summary": "Per secoli è rimasta nascosta sotto i campi della laguna veneta. Ora, grazie a una nuova campagna di scavi, sta tornando alla luce il centro monumentale di Altino, l’antica città romana che prosperò alle porte dell’Adriatico e che molti studiosi considerano una delle radici…",
-      "url": "https://www.stilearte.it/foro-romano-altino-scavi-citta-romana-sepolta/",
-      "image": null,
-      "publishedAt": "2026-06-04T16:40:05.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
       ]
     }
   ]
