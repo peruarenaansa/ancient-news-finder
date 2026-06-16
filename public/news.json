@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T06:42:12.879Z",
+  "generatedAt": "2026-06-16T06:55:00.700Z",
   "count": 500,
   "sources": [
     {
@@ -13,7 +13,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 722
+      "elapsedMs": 665
     },
     {
       "id": "naiz",
@@ -26,7 +26,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 769
+      "elapsedMs": 952
     },
     {
       "id": "argia-kultura",
@@ -39,7 +39,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 931
+      "elapsedMs": 1319
     },
     {
       "id": "eitb-kultura",
@@ -52,7 +52,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 664
+      "elapsedMs": 1036
     },
     {
       "id": "berria-bsky",
@@ -61,11 +61,11 @@
       "region": "basque",
       "kind": "news",
       "ok": true,
-      "fetched": 30,
+      "fetched": 29,
       "kept": 0,
-      "droppedOffTopic": 30,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2613
+      "elapsedMs": 3075
     },
     {
       "id": "aranzadi-bsky",
@@ -78,7 +78,7 @@
       "kept": 7,
       "droppedOffTopic": 23,
       "droppedModern": 0,
-      "elapsedMs": 2624
+      "elapsedMs": 3123
     },
     {
       "id": "vianako-printzea",
@@ -91,7 +91,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1430
+      "elapsedMs": 1748
     },
     {
       "id": "labrujulaverde",
@@ -99,12 +99,9 @@
       "lang": "es",
       "region": "world",
       "kind": "news",
-      "ok": true,
-      "fetched": 20,
-      "kept": 14,
-      "droppedOffTopic": 2,
-      "droppedModern": 4,
-      "elapsedMs": 1769
+      "ok": false,
+      "error": "Status code 415",
+      "elapsedMs": 6025
     },
     {
       "id": "desperta-ferro",
@@ -117,7 +114,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 4,
-      "elapsedMs": 1851
+      "elapsedMs": 1591
     },
     {
       "id": "elpais-cultura",
@@ -128,9 +125,9 @@
       "ok": true,
       "fetched": 30,
       "kept": 0,
-      "droppedOffTopic": 30,
-      "droppedModern": 0,
-      "elapsedMs": 1474
+      "droppedOffTopic": 29,
+      "droppedModern": 1,
+      "elapsedMs": 1762
     },
     {
       "id": "lemonde-sciences",
@@ -140,10 +137,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 1,
-      "droppedOffTopic": 19,
-      "droppedModern": 0,
-      "elapsedMs": 932
+      "kept": 2,
+      "droppedOffTopic": 17,
+      "droppedModern": 1,
+      "elapsedMs": 1043
     },
     {
       "id": "lemonde-archeo",
@@ -153,10 +150,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 10,
+      "kept": 9,
       "droppedOffTopic": 8,
-      "droppedModern": 2,
-      "elapsedMs": 1437
+      "droppedModern": 3,
+      "elapsedMs": 1039
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -165,11 +162,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 21,
+      "fetched": 23,
       "kept": 6,
-      "droppedOffTopic": 15,
+      "droppedOffTopic": 17,
       "droppedModern": 0,
-      "elapsedMs": 1112
+      "elapsedMs": 1490
     },
     {
       "id": "inrap-bsky",
@@ -182,7 +179,7 @@
       "kept": 2,
       "droppedOffTopic": 13,
       "droppedModern": 3,
-      "elapsedMs": 2545
+      "elapsedMs": 3092
     },
     {
       "id": "sudouest-culture",
@@ -195,7 +192,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1148
+      "elapsedMs": 1334
     },
     {
       "id": "corriere-cultura",
@@ -208,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1729
+      "elapsedMs": 2377
     },
     {
       "id": "archeologiaviva",
@@ -218,10 +215,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 1,
+      "kept": 0,
       "droppedOffTopic": 0,
-      "droppedModern": 9,
-      "elapsedMs": 1941
+      "droppedModern": 10,
+      "elapsedMs": 2367
     },
     {
       "id": "stilearte",
@@ -231,10 +228,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 9,
+      "kept": 8,
       "droppedOffTopic": 1,
-      "droppedModern": 0,
-      "elapsedMs": 2130
+      "droppedModern": 1,
+      "elapsedMs": 2447
     },
     {
       "id": "live-science-arch",
@@ -244,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 2,
-      "droppedOffTopic": 28,
+      "kept": 3,
+      "droppedOffTopic": 27,
       "droppedModern": 0,
-      "elapsedMs": 2455
+      "elapsedMs": 2935
     },
     {
       "id": "bbc-history",
@@ -257,10 +254,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 0,
-      "droppedOffTopic": 10,
+      "kept": 1,
+      "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1767
+      "elapsedMs": 2498
     },
     {
       "id": "sciencedaily-arch",
@@ -273,7 +270,7 @@
       "kept": 9,
       "droppedOffTopic": 21,
       "droppedModern": 0,
-      "elapsedMs": 1577
+      "elapsedMs": 1929
     },
     {
       "id": "ancient-origins",
@@ -281,12 +278,9 @@
       "lang": "en",
       "region": "world",
       "kind": "news",
-      "ok": true,
-      "fetched": 10,
-      "kept": 4,
-      "droppedOffTopic": 5,
-      "droppedModern": 1,
-      "elapsedMs": 1692
+      "ok": false,
+      "error": "Unable to parse XML.",
+      "elapsedMs": 6568
     },
     {
       "id": "guardian-arch",
@@ -299,7 +293,7 @@
       "kept": 11,
       "droppedOffTopic": 8,
       "droppedModern": 1,
-      "elapsedMs": 2041
+      "elapsedMs": 2657
     },
     {
       "id": "current-archaeology",
@@ -309,10 +303,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 19,
+      "kept": 20,
       "droppedOffTopic": 8,
-      "droppedModern": 3,
-      "elapsedMs": 1684
+      "droppedModern": 2,
+      "elapsedMs": 1967
     },
     {
       "id": "jas-reports",
@@ -325,7 +319,7 @@
       "kept": 6,
       "droppedOffTopic": 5,
       "droppedModern": 19,
-      "elapsedMs": 1732
+      "elapsedMs": 1864
     },
     {
       "id": "plos-one-arch",
@@ -338,7 +332,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1820
+      "elapsedMs": 2027
     },
     {
       "id": "pnas-arch",
@@ -351,7 +345,7 @@
       "kept": 22,
       "droppedOffTopic": 6,
       "droppedModern": 2,
-      "elapsedMs": 2667
+      "elapsedMs": 3060
     },
     {
       "id": "sciencedirect-jas",
@@ -364,7 +358,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 16,
-      "elapsedMs": 1877
+      "elapsedMs": 1944
     },
     {
       "id": "spal-us",
@@ -377,7 +371,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2729
+      "elapsedMs": 3153
     },
     {
       "id": "complutum-ucm",
@@ -390,7 +384,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2883
+      "elapsedMs": 3253
     },
     {
       "id": "archeoarte",
@@ -403,7 +397,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2509
+      "elapsedMs": 3068
     },
     {
       "id": "cypsela",
@@ -416,7 +410,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2599
+      "elapsedMs": 2698
     },
     {
       "id": "cambridge-antiquity",
@@ -429,7 +423,7 @@
       "kept": 19,
       "droppedOffTopic": 3,
       "droppedModern": 8,
-      "elapsedMs": 2449
+      "elapsedMs": 2894
     },
     {
       "id": "cambridge-caj",
@@ -442,7 +436,7 @@
       "kept": 18,
       "droppedOffTopic": 7,
       "droppedModern": 5,
-      "elapsedMs": 2471
+      "elapsedMs": 2832
     },
     {
       "id": "cambridge-ejarc",
@@ -455,7 +449,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 2495
+      "elapsedMs": 2852
     },
     {
       "id": "aquitania-persee",
@@ -468,7 +462,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3164
+      "elapsedMs": 3620
     },
     {
       "id": "cuadernos-arq-unav",
@@ -481,7 +475,7 @@
       "kept": 19,
       "droppedOffTopic": 2,
       "droppedModern": 9,
-      "elapsedMs": 4078
+      "elapsedMs": 4236
     },
     {
       "id": "veleia-ehu",
@@ -494,7 +488,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3550
+      "elapsedMs": 3990
     },
     {
       "id": "flv-navarra",
@@ -507,7 +501,7 @@
       "kept": 17,
       "droppedOffTopic": 2,
       "droppedModern": 11,
-      "elapsedMs": 2593
+      "elapsedMs": 3008
     },
     {
       "id": "munibe-aa",
@@ -520,7 +514,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 2605
+      "elapsedMs": 2958
     },
     {
       "id": "trabajos-prehistoria",
@@ -533,7 +527,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 2779
+      "elapsedMs": 3125
     },
     {
       "id": "openalex-archaeology",
@@ -546,7 +540,7 @@
       "kept": 15,
       "droppedOffTopic": 8,
       "droppedModern": 7,
-      "elapsedMs": 2615
+      "elapsedMs": 2944
     }
   ],
   "items": [
@@ -4558,58 +4552,6 @@
       ]
     },
     {
-      "id": "archeologiaviva:https://www.archeologiaviva.it/25159/roma-crypta-balbi/",
-      "title": "Roma – Crypta Balbi. Il tempo verticale",
-      "summary": "Archeologia Viva n. 236 – marzo/aprile 2026 pp. 4-5 La Crypta Balbi, oggi una delle sedi del Museo Nazionale Romano e in origine parte di un complesso teatrale fatto costruire da Lucio Cornelio Balbo nel 13 a.C. in Campo Marzio, conserva al suo interno tracce di edifici e…",
-      "url": "https://www.archeologiaviva.it/25159/roma-crypta-balbi/",
-      "image": null,
-      "publishedAt": "2026-03-17T12:29:19.000Z",
-      "source": {
-        "id": "archeologiaviva",
-        "name": "Archeologia Viva"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak",
-        "museoak"
-      ]
-    },
-    {
-      "id": "archeologiaviva:https://www.archeologiaviva.it/25155/minoici-e-micenei/",
-      "title": "Minoici e Micenei. Omaggio al Grande Re",
-      "summary": "Archeologia Viva n. 236 – marzo/aprile 2026 pp. 20-32 di Louis Godart Una nuova lettura delle testimonianze archeologiche ed epigrafiche minoiche e micenee – abbinata a un confronto con il racconto omerico – ha portato l’autore dell’articolo (fra i maggiori esperti di civiltà…",
-      "url": "https://www.archeologiaviva.it/25155/minoici-e-micenei/",
-      "image": null,
-      "publishedAt": "2026-03-17T12:24:18.000Z",
-      "source": {
-        "id": "archeologiaviva",
-        "name": "Archeologia Viva"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "greziarrak"
-      ]
-    },
-    {
-      "id": "archeologiaviva:https://www.archeologiaviva.it/25150/scavi-italiani-nel-sultanato-delloman/",
-      "title": "Luce da Oriente. Scavi italiani nel Sultanato dell’Oman",
-      "summary": "Archeologia Viva n. 236 – marzo/aprile 2026 pp. 48-58 di Marco Ramazzotti La lettura di un paesaggio archeologico plurimillenario consente di ricostruire la vicenda di una popolazione stanziata nel sud-est della Penisola Arabica che fra le età del Bronzo e del Ferro tenne testa…",
-      "url": "https://www.archeologiaviva.it/25150/scavi-italiani-nel-sultanato-delloman/",
-      "image": null,
-      "publishedAt": "2026-03-17T12:16:00.000Z",
-      "source": {
-        "id": "archeologiaviva",
-        "name": "Archeologia Viva"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "ekialde-hurbila"
-      ]
-    },
-    {
       "id": "spal-us:https://revistascientificas.us.es/index.php/spal/article/view/29064",
       "title": "The representation of isolated legs in Middle Magdalenian portable art: a widespread and shared symbolic motif",
       "summary": "El Magdaleniense Medio (14 500-13 000 BP) se caracteriza por producciones simbólicas y artísticas compartidas a gran distancia. En este artículo se analiza una de esas producciones escasamente atendida en la investigación: las representaciones aisladas de patas de herbívoros…",
@@ -8350,6 +8292,254 @@
       "topics": []
     },
     {
+      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326001214?dgcid=rss_sd_all",
+      "title": "Protein evidence for animal sacrifice and shared ritual practices in Bronze Age Sanxingdui, Southwest China",
+      "summary": "Publication date: August 2026 Source: Journal of Archaeological Science, Volume 192 Author(s): Xuekai Qi, Ruru Chen, Chengwei Wang, Yue Li, Fei Tang, Zhenbin Xie, Honglin Ran, Qing Xiao, Yulai Chen, Ruoyu Shi, Ganyu Zhang, Chong Wang, Furen Hou, Matthew Collins, Rui Wen",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326001214?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-06-16T06:54:56.097Z",
+      "source": {
+        "id": "sciencedirect-jas",
+        "name": "Journal of Archaeological Science (ScienceDirect)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "asia"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002816?dgcid=rss_sd_all",
+      "title": "Signs of a Ferruginous Environment in Ceramics: A Case Study from the Iron Age Mikniškiai Settlement, Southern Lithuania",
+      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Andra Simniškytė, Gražina Skridlaitė, Laurynas Šiliauskas, Aušra Selskienė",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002816?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-06-16T06:54:55.992Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002671?dgcid=rss_sd_all",
+      "title": "Supra-Regional Cultural Exchange in the Carpathian Bronze Age: Import of the Amphora or an Idea?",
+      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Štefan Olšav, Adam Gašpar, Karel Slavíček, Jan Petřík",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002671?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-06-16T06:54:55.992Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003044?dgcid=rss_sd_all",
+      "title": "Exploring human-animal interactions in Middle/Late Neolithic Nea Makri (Attica) through zooarchaeology",
+      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Dimitris Filioglou",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26003044?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-06-16T06:54:55.991Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/piu-antica-scarpa-svezia-romana-igelsta/",
+      "title": "La scoperta. Mistero del Nord. Una scarpa romana, un calderone gallo-romano in una tomba pincipesca. Che accadde in Svezia 2000 anni fa?",
+      "summary": "La riscoperta di un reperto dimenticato nei depositi del Museo Storico Nazionale di Stoccolma ha portato alla soluzione di uno dei piccoli grandi misteri dell’archeologia scandinava e romana. Quello che per oltre ottant’anni era stato interpretato come un frammento di pelle…",
+      "url": "https://www.stilearte.it/piu-antica-scarpa-svezia-romana-igelsta/",
+      "image": null,
+      "publishedAt": "2026-06-16T06:50:31.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak",
+        "museoak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/dna-vino-etruschi-chianti-vinaccioli-antichi/",
+      "title": "La scoperta | Nel cuore del Chianti gli archeologi trovano semi antichi e interrogano il loro Dna. Uve rosse? No, prevaleva il bianco. La risposta cambia ciò che credevamo di sapere sul vino degli Etruschi",
+      "summary": "Per oltre duemila anni sono rimasti nascosti nel fango sul fondo di alcuni pozzi. Piccoli, fragili, apparentemente insignificanti. Eppure quei semi conservavano una memoria biologica capace di attraversare i secoli. Oggi, grazie alle tecnologie di analisi del DNA antico, gli…",
+      "url": "https://www.stilearte.it/dna-vino-etruschi-chianti-vinaccioli-antichi/",
+      "image": null,
+      "publishedAt": "2026-06-16T06:27:16.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/villa-romana-castel-di-guido-scoperta-lorium/",
+      "title": "Fermano uno scavo clandestino vicino Roma e trovano una villa imperiale sconosciuta: riaffiorano mosaici, impluvium e la statua di un personaggio barbuto. Chi era? Perché qualcuno scavava in questo terreno?",
+      "summary": "Una segnalazione di scavi clandestini è arrivata nei giorni scorsi alla Soprintendenza Speciale di Roma che ha fatto scattare verifiche urgenti in un’area della campagna occidentale della Capitale. Non è noto che cosa cercassero i tombaroli o se fossero consapevoli della…",
+      "url": "https://www.stilearte.it/villa-romana-castel-di-guido-scoperta-lorium/",
+      "image": null,
+      "publishedAt": "2026-06-15T22:27:42.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak",
+        "amerika"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/feature/pain-relief-in-ancient-egypt-part-1-plant-based-remedies/",
+      "title": "Pain relief in ancient Egypt – Part 1: plant-based remedies",
+      "summary": "In the first of two articles interrogating ancient medical papyri, Ira Rampil investigates the use of herbal remedies to help relieve pain.",
+      "url": "https://the-past.com/feature/pain-relief-in-ancient-egypt-part-1-plant-based-remedies/",
+      "image": null,
+      "publishedAt": "2026-06-15T21:00:00.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/feature/jacques-de-morgan-at-dahshur/",
+      "title": "Jacques de Morgan at Dahshur",
+      "summary": "Julian Heath recounts the remarkable discoveries made by a French mining engineer and archaeologist.",
+      "url": "https://the-past.com/feature/jacques-de-morgan-at-dahshur/",
+      "image": null,
+      "publishedAt": "2026-06-15T19:00:00.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/seconda-tomba-etrusca-intatta-san-giuliano/",
+      "title": "Scoperta ora una seconda tomba etrusca intatta a San Giuliano. Un ritrovamento eccezionale illumina uno dei più grandi enigmi dell’archeologia etrusca",
+      "summary": "Una seconda tomba etrusca rimasta inviolata per oltre 2.600 anni è stata scoperta nella necropoli di San Giuliano, presso Barbarano Romano, nella Tuscia viterbese, circa 70 chilometri a nord-ovest di Roma e una trentina di chilometri a sud-est di Viterbo. La scoperta, effettuata…",
+      "url": "https://www.stilearte.it/seconda-tomba-etrusca-intatta-san-giuliano/",
+      "image": null,
+      "publishedAt": "2026-06-15T17:45:11.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/vikings/melted-in-a-pot-somewhere-vikings-used-islamic-silver-coins-to-make-their-early-pennies-study-finds",
+      "title": "'Melted in a pot somewhere': Vikings used Islamic silver coins to make their early pennies, study finds",
+      "summary": "The silver in a Viking Age hoard found in Denmark was from melted-down coins from the faraway Islamic world, a new study finds.",
+      "url": "https://www.livescience.com/archaeology/vikings/melted-in-a-pot-somewhere-vikings-used-islamic-silver-coins-to-make-their-early-pennies-study-finds",
+      "image": "https://cdn.mos.cms.futurecdn.net/4ixkCueWXjLJhv7fffaU74-1280-80.jpg",
+      "publishedAt": "2026-06-15T17:07:07.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "erdi-aroa"
+      ]
+    },
+    {
+      "id": "lemonde-sciences:https://www.lemonde.fr/sciences/article/2026/06/15/en-inde-le-patrimoine-culturel-naturel-et-archeologique-neglige-par-les-autorites_6703228_1650684.html",
+      "title": "En Inde, le patrimoine culturel, naturel et archéologique négligé par les autorités",
+      "summary": "Alors qu’une cinquantaine de monuments officiellement protégés ont disparu, le gouvernement de Narendra Modi est plus enclin à promouvoir le patrimoine hindou et la création de nouveaux temples qu’à protéger l’héritage musulman.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/06/15/en-inde-le-patrimoine-culturel-naturel-et-archeologique-neglige-par-les-autorites_6703228_1650684.html",
+      "image": "https://img.lemde.fr/2026/06/10/250/0/3000/1500/644/322/60/0/e8c592d_upload-1-knekklff9dmv-bhimbetka-31.jpg",
+      "publishedAt": "2026-06-15T15:30:01.000Z",
+      "source": {
+        "id": "lemonde-sciences",
+        "name": "Le Monde — Sciences"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "bbc-history:https://www.historyextra.com/membership/saint-killer-warmonger-tyrant-was-the-anglo-saxon-king-offa-as-bad-as-history-makes-out/",
+      "title": "Saint killer, warmonger, tyrant: was the Anglo-Saxon king Offa as bad as history makes out?",
+      "summary": "Within a century of his death, Offa of Mercia was reviled as a saint killer, warmonger and tyrant. But look critically at the evidence, argues Rory Naismith, and it’s clear this is at best a partial picture of one of Anglo-Saxon England’s most important monarchs",
+      "url": "https://www.historyextra.com/membership/saint-killer-warmonger-tyrant-was-the-anglo-saxon-king-offa-as-bad-as-history-makes-out/",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/06/HN1RR9webready-cf9b3a7-e1781533718331.jpg",
+      "publishedAt": "2026-06-15T15:04:53.000Z",
+      "source": {
+        "id": "bbc-history",
+        "name": "BBC History Extra"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351767",
+      "title": "Assessing body position through experimental cremation: A pilot study using colorimetry and FTIR-ATR analyses",
+      "summary": "by Paula Becerra Fuello, Javier Lescure, Aaron Lackinger, María Sedeño Ráez, Jesús Gámiz Caro, Gonzalo Aranda Jiménez This pilot study evaluates the feasibility and limitations of a multi-proxy approach for identifying potential indicators of horizontal positioning in cremated…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351767",
+      "image": null,
+      "publishedAt": "2026-06-15T14:00:00.000Z",
+      "source": {
+        "id": "plos-one-arch",
+        "name": "PLOS ONE — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/tempio-eracle-heraclea-sintica-iscrizione-antigono/",
+      "title": "Dal campo emerge un marmo. Ecco, una scritta. E’ il pezzo che si cercava, la prova. Cos’è? Cosa dice? Dallo scavo continuano ad emergere pezzi preziosi. La città dei cacciatori che si erano fatti con le proprie mani, proprio come Ercole",
+      "summary": "E ora un’antica, preziosa iscrizione. Fu posta su un altare esterno. Un cittadino eminente offrì l’opera al dio Ercole o Eracle. Ecco quindi la certezza. Lo spazio cultuale individuato dagli archeologi era un tempio intitolato al dio self made man. Nuove evidenze archeologiche…",
+      "url": "https://www.stilearte.it/tempio-eracle-heraclea-sintica-iscrizione-antigono/",
+      "image": null,
+      "publishedAt": "2026-06-15T07:11:58.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003214?dgcid=rss_sd_all",
       "title": "Care work, craft work: maternal production of ceramic urns for perinatal burials in Late Iron Age Mallorca (Balearic Islands)",
       "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Margalida A. Coll Sabater, Jaume García Rosselló",
@@ -8519,6 +8709,23 @@
       ]
     },
     {
+      "id": "current-archaeology:https://the-past.com/news/ramesses-iii-gate-and-tiberius-stela/",
+      "title": "Ramesses III gate and Tiberius stela",
+      "summary": "A mission from the Egyptian-French Center for the Study of the Karnak Temples (CFEETK) has successfully completed the reconstruction of a Ramesses III gateway in the north-western sector of Karnak. The gate",
+      "url": "https://the-past.com/news/ramesses-iii-gate-and-tiberius-stela/",
+      "image": null,
+      "publishedAt": "2026-06-14T11:45:00.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak"
+      ]
+    },
+    {
       "id": "current-archaeology:https://the-past.com/news/atbai-desert-burial-enclosures/",
       "title": "Atbai Desert burial enclosures",
       "summary": "An international team carrying out satellite remote sensing in the Eastern Sudan deserts has discovered hundreds of huge ancient mass graves in the Atbai Desert, part of the Sahara Desert which stretches",
@@ -8635,227 +8842,6 @@
       "region": "europe",
       "topics": [
         "prehistoria"
-      ]
-    },
-    {
-      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S030544032600141X?dgcid=rss_sd_all",
-      "title": "Ramped pyrolysis radiocarbon dating: First application to Bronze and Iron Age plaster from the Eastern Mediterranean (ca. 1500-800 BCE)",
-      "summary": "Publication date: August 2026 Source: Journal of Archaeological Science, Volume 192 Author(s): Pınar Erdil, Michael W. Dee, Katharina Streit, Margot Kuitems, Lyndelle Webster, Felix Höflmayer, Kerry Allen, Gerard T. Barrett",
-      "url": "https://www.sciencedirect.com/science/article/pii/S030544032600141X?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-06-14T06:10:46.036Z",
-      "source": {
-        "id": "sciencedirect-jas",
-        "name": "Journal of Archaeological Science (ScienceDirect)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X2600283X?dgcid=rss_sd_all",
-      "title": "New insights into avian exploitation at the mid-Neolithic site of Weidun in east-central China",
-      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Yanbo Song, Ruijuan Liang, Hui Peng, Minghao Lin",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X2600283X?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-06-14T06:10:45.892Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria",
-        "asia"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/scoperta-tomba-yamnaya-romania/",
-      "title": "La scoperta durante lavori stradali. Chi è l’uomo sepolto con oro e argento sotto un tumulo di 65 metri? “Ha 5000 anni”. La sinistra collina della Volpe. Spiriti e leggende. A chi assomigliava questo capo",
-      "summary": "La collina della volpe è un luogo isolato. Si dice, nella zona, che spiriti e volpi si avvicendino qui, soprattutto nelle ore notturne. Sarà perchè è un luogo isolato e la collinetta è circondata da un alone sinistro. E un fondamento c’era, alla base di queste inquietudini. E’…",
-      "url": "https://www.stilearte.it/scoperta-tomba-yamnaya-romania/",
-      "image": null,
-      "publishedAt": "2026-06-13T22:05:00.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/books/the-animals-of-ancient-egypt-then-and-now/",
-      "title": "The Animals of Ancient Egypt: Then and Now",
-      "summary": "This small-format book is basically a guide is to the wild animals of ancient Egypt. The brief introduction to ancient Egypt’s geography and climate is beautifully written – very concise but almost",
-      "url": "https://the-past.com/review/books/the-animals-of-ancient-egypt-then-and-now/",
-      "image": null,
-      "publishedAt": "2026-06-13T21:00:09.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "egiptoarrak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/shorts/competitions/win-a-copy-of-the-animals-of-ancient-egypt-then-and-now-by-richard-hoath-and-salima-ikram/",
-      "title": "Win a copy of The Animals of Ancient Egypt: Then and Now by Richard Hoath and Salima Ikram",
-      "summary": "Where is this? If you know, email the Editor peter@ancientegyptmagazine.com before 31 August with your answer, giving your full name, address, and a contact phone number. One lucky reader’s name will be",
-      "url": "https://the-past.com/shorts/competitions/win-a-copy-of-the-animals-of-ancient-egypt-then-and-now-by-richard-hoath-and-salima-ikram/",
-      "image": null,
-      "publishedAt": "2026-06-13T21:00:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "egiptoarrak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/books/a-view-from-the-herd-cattle-sheep-goats-and-pigs-in-pharaonic-egypt/",
-      "title": "A View from the Herd: Cattle, Sheep, Goats, and Pigs in Pharaonic Egypt",
-      "summary": "Throughout Egyptian history, pastoralists have played a vital role in food production, and the importance of domesticated animals is reflected in their abundant depictions in texts, tomb reliefs, and 3D art. Richard",
-      "url": "https://the-past.com/review/books/a-view-from-the-herd-cattle-sheep-goats-and-pigs-in-pharaonic-egypt/",
-      "image": null,
-      "publishedAt": "2026-06-13T20:30:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "egiptoarrak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/books/no-good-deed-goes-unpunished-egyptological-essays-in-honor-of-peter-lacovara/",
-      "title": "No Good Deed Goes Unpunished: Egyptological Essays in Honor of Peter Lacovara",
-      "summary": "Festschriften are, by their very nature, both scholarly tribute and personal testament, and No Good Deed Goes Unpunished succeeds admirably on both counts. Produced in honour of Peter Lacovara, this substantial volume",
-      "url": "https://the-past.com/review/books/no-good-deed-goes-unpunished-egyptological-essays-in-honor-of-peter-lacovara/",
-      "image": null,
-      "publishedAt": "2026-06-13T20:00:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "egiptoarrak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/books/ancient-egypt-a-journey-down-the-nile/",
-      "title": "Ancient Egypt: A Journey Down the Nile",
-      "summary": "Nigel Fletcher-Jones presents a richly illustrated and engaging survey of ancient Egypt’s enduring and much-examined cultural landscape. Written with an assured handling of the material, the book follows the geographical course of",
-      "url": "https://the-past.com/review/books/ancient-egypt-a-journey-down-the-nile/",
-      "image": null,
-      "publishedAt": "2026-06-13T19:00:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "egiptoarrak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/whats-on/ancient-egypt-june-listings-4/",
-      "title": "Ancient Egypt June listings",
-      "summary": "LIVES AND LITERACY IN ANCIENT EGYPT An exhibition of papyrus manuscripts from the collection of the John Rylands Library in Manchester (UK), and related artefacts including stelae and objects related to writing.",
-      "url": "https://the-past.com/review/whats-on/ancient-egypt-june-listings-4/",
-      "image": null,
-      "publishedAt": "2026-06-13T13:00:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "egiptoarrak",
-        "museoak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/vite-etrusca-cetamura-chianti-dna-antico/",
-      "title": "Nel Chianti emerge il Dna del vino degli Etruschi: scoperta una vite d’uva bianca coltivata per secoli e tramandata fino all’epoca romana. Com’era il vino? Che precedenti rispetto al Chianti?",
-      "summary": "Per oltre trecento anni una stessa vite continuò a essere coltivata sulle colline della Toscana centrale, attraversando il tramonto della civiltà etrusca, la conquista romana e la trasformazione del paesaggio agricolo dell’Italia antica. Oggi quella storia riaffiora grazie a una…",
-      "url": "https://www.stilearte.it/vite-etrusca-cetamura-chianti-dna-antico/",
-      "image": null,
-      "publishedAt": "2026-06-13T08:06:33.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/osso-cavallo-piombo-tempio-romano-carlisle-epona-defixiones/",
-      "title": "Mistero nel tempio romano. Trovato un osso di cavallo riempito di piombo. Ex voto, magia o culto di Epona? Altri reperti simili sono venuti alla luce in luoghi di culto. Com’è fatto quel reperto?",
-      "summary": "Di seguito trovi l’articolo con i neretti già inseriti in modo organico. Un osso di cavallo riempito di piombo emerge dal terreno accanto a un tempio romano nel nord della Britannia romana. A prima vista sembrerebbe un frammento animale come molti altri. Eppure, quando gli…",
-      "url": "https://www.stilearte.it/osso-cavallo-piombo-tempio-romano-carlisle-epona-defixiones/",
-      "image": null,
-      "publishedAt": "2026-06-13T05:18:36.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/gesti-oratori-foro-romano-studio-archeologico/",
-      "title": "Come parlavano gli antichi romani? Uno studio porta in luce gesti segreti e posture adottate per essere avvincenti e convincenti. Come avvenivano i movimenti. Il lessico silenzioso",
-      "summary": "Un braccio sollevato sopra la folla. Una mano che indica una direzione. Un gesto rapido delle dita per sottolineare una frase importante. In una piazza affollata da migliaia di persone, la voce poteva disperdersi tra il rumore, le distanze e il movimento continuo della folla. I…",
-      "url": "https://www.stilearte.it/gesti-oratori-foro-romano-studio-archeologico/",
-      "image": null,
-      "publishedAt": "2026-06-12T23:30:00.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "sudouest-culture:https://www.sudouest.fr/charente-maritime/saint-georges-du-bois/le-plus-petit-amphitheatre-de-gaule-une-incroyable-agglomeration-oubliee-a-saint-georges-du-bois-au-coeur-de-l-aunis-29449501.php",
-      "title": "« Le plus petit amphithéâtre de Gaule », une incroyable agglomération oubliée à Saint-Georges-du-Bois, au cœur de l’Aunis",
-      "summary": "Du Ier au IVe siècle, les Romains ont aussi posé leur empreinte dans la région de Surgères. Depuis 2023, des fouilles menées par Bastien Gissinger ont dessiné une véritable agglomération. Il détaille ses",
-      "url": "https://www.sudouest.fr/charente-maritime/saint-georges-du-bois/le-plus-petit-amphitheatre-de-gaule-une-incroyable-agglomeration-oubliee-a-saint-georges-du-bois-au-coeur-de-l-aunis-29449501.php",
-      "image": null,
-      "publishedAt": "2026-06-12T19:02:00.000Z",
-      "source": {
-        "id": "sudouest-culture",
-        "name": "Sud Ouest — Culture"
-      },
-      "lang": "fr",
-      "region": "basque",
-      "topics": [
-        "erromatarrak"
       ]
     }
   ]
