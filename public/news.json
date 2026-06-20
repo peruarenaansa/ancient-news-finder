@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T06:36:06.763Z",
+  "generatedAt": "2026-06-20T05:49:25.782Z",
   "count": 500,
   "sources": [
     {
@@ -10,10 +10,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 0,
-      "droppedOffTopic": 20,
+      "kept": 1,
+      "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 734
+      "elapsedMs": 729
     },
     {
       "id": "naiz",
@@ -26,7 +26,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 947
+      "elapsedMs": 739
     },
     {
       "id": "argia-kultura",
@@ -39,7 +39,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1166
+      "elapsedMs": 3756
     },
     {
       "id": "eitb-kultura",
@@ -52,7 +52,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 866
+      "elapsedMs": 694
     },
     {
       "id": "berria-bsky",
@@ -65,7 +65,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3189
+      "elapsedMs": 2730
     },
     {
       "id": "aranzadi-bsky",
@@ -78,7 +78,7 @@
       "kept": 7,
       "droppedOffTopic": 23,
       "droppedModern": 0,
-      "elapsedMs": 3273
+      "elapsedMs": 2753
     },
     {
       "id": "vianako-printzea",
@@ -86,9 +86,12 @@
       "lang": "es",
       "region": "basque",
       "kind": "research",
-      "ok": false,
-      "error": "Request timed out after 15000ms",
-      "elapsedMs": 49513
+      "ok": true,
+      "fetched": 25,
+      "kept": 9,
+      "droppedOffTopic": 3,
+      "droppedModern": 13,
+      "elapsedMs": 1331
     },
     {
       "id": "labrujulaverde",
@@ -99,9 +102,9 @@
       "ok": true,
       "fetched": 20,
       "kept": 16,
-      "droppedOffTopic": 1,
-      "droppedModern": 3,
-      "elapsedMs": 1532
+      "droppedOffTopic": 0,
+      "droppedModern": 4,
+      "elapsedMs": 1523
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +117,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 4,
-      "elapsedMs": 1259
+      "elapsedMs": 1884
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +130,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1698
+      "elapsedMs": 839
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +143,7 @@
       "kept": 3,
       "droppedOffTopic": 16,
       "droppedModern": 1,
-      "elapsedMs": 868
+      "elapsedMs": 971
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +156,7 @@
       "kept": 10,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 3312
+      "elapsedMs": 1527
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +165,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 21,
+      "fetched": 22,
       "kept": 6,
-      "droppedOffTopic": 15,
+      "droppedOffTopic": 16,
       "droppedModern": 0,
-      "elapsedMs": 1187
+      "elapsedMs": 1113
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +182,7 @@
       "kept": 3,
       "droppedOffTopic": 11,
       "droppedModern": 3,
-      "elapsedMs": 3300
+      "elapsedMs": 2736
     },
     {
       "id": "sudouest-culture",
@@ -192,7 +195,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1269
+      "elapsedMs": 1306
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +208,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1966
+      "elapsedMs": 1862
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +221,7 @@
       "kept": 0,
       "droppedOffTopic": 0,
       "droppedModern": 10,
-      "elapsedMs": 2347
+      "elapsedMs": 2086
     },
     {
       "id": "stilearte",
@@ -228,10 +231,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 10,
+      "kept": 9,
       "droppedOffTopic": 0,
-      "droppedModern": 0,
-      "elapsedMs": 2029
+      "droppedModern": 1,
+      "elapsedMs": 1939
     },
     {
       "id": "live-science-arch",
@@ -244,7 +247,7 @@
       "kept": 1,
       "droppedOffTopic": 28,
       "droppedModern": 1,
-      "elapsedMs": 2969
+      "elapsedMs": 2797
     },
     {
       "id": "bbc-history",
@@ -257,7 +260,7 @@
       "kept": 2,
       "droppedOffTopic": 8,
       "droppedModern": 0,
-      "elapsedMs": 1898
+      "elapsedMs": 2179
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +273,7 @@
       "kept": 9,
       "droppedOffTopic": 21,
       "droppedModern": 0,
-      "elapsedMs": 2061
+      "elapsedMs": 1787
     },
     {
       "id": "ancient-origins",
@@ -283,7 +286,7 @@
       "kept": 4,
       "droppedOffTopic": 5,
       "droppedModern": 1,
-      "elapsedMs": 1894
+      "elapsedMs": 1800
     },
     {
       "id": "guardian-arch",
@@ -296,7 +299,7 @@
       "kept": 11,
       "droppedOffTopic": 7,
       "droppedModern": 2,
-      "elapsedMs": 2308
+      "elapsedMs": 2199
     },
     {
       "id": "current-archaeology",
@@ -309,7 +312,7 @@
       "kept": 23,
       "droppedOffTopic": 6,
       "droppedModern": 1,
-      "elapsedMs": 2169
+      "elapsedMs": 1984
     },
     {
       "id": "jas-reports",
@@ -319,10 +322,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 4,
+      "kept": 5,
       "droppedOffTopic": 4,
-      "droppedModern": 22,
-      "elapsedMs": 1982
+      "droppedModern": 21,
+      "elapsedMs": 1945
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +338,7 @@
       "kept": 2,
       "droppedOffTopic": 28,
       "droppedModern": 0,
-      "elapsedMs": 2147
+      "elapsedMs": 2042
     },
     {
       "id": "pnas-arch",
@@ -348,7 +351,7 @@
       "kept": 22,
       "droppedOffTopic": 6,
       "droppedModern": 2,
-      "elapsedMs": 2985
+      "elapsedMs": 2668
     },
     {
       "id": "sciencedirect-jas",
@@ -357,11 +360,11 @@
       "region": "world",
       "kind": "research",
       "ok": true,
-      "fetched": 25,
+      "fetched": 27,
       "kept": 9,
       "droppedOffTopic": 0,
-      "droppedModern": 16,
-      "elapsedMs": 2057
+      "droppedModern": 18,
+      "elapsedMs": 1935
     },
     {
       "id": "spal-us",
@@ -374,7 +377,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 3105
+      "elapsedMs": 2898
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +390,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 3414
+      "elapsedMs": 2976
     },
     {
       "id": "archeoarte",
@@ -400,7 +403,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 3193
+      "elapsedMs": 2603
     },
     {
       "id": "cypsela",
@@ -413,7 +416,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3023
+      "elapsedMs": 2592
     },
     {
       "id": "cambridge-antiquity",
@@ -423,10 +426,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 19,
+      "kept": 18,
       "droppedOffTopic": 2,
-      "droppedModern": 9,
-      "elapsedMs": 3061
+      "droppedModern": 10,
+      "elapsedMs": 2556
     },
     {
       "id": "cambridge-caj",
@@ -439,7 +442,7 @@
       "kept": 18,
       "droppedOffTopic": 7,
       "droppedModern": 5,
-      "elapsedMs": 3163
+      "elapsedMs": 2479
     },
     {
       "id": "cambridge-ejarc",
@@ -452,7 +455,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 2994
+      "elapsedMs": 2543
     },
     {
       "id": "aquitania-persee",
@@ -465,7 +468,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 4001
+      "elapsedMs": 3373
     },
     {
       "id": "cuadernos-arq-unav",
@@ -478,7 +481,7 @@
       "kept": 19,
       "droppedOffTopic": 2,
       "droppedModern": 9,
-      "elapsedMs": 4591
+      "elapsedMs": 4155
     },
     {
       "id": "veleia-ehu",
@@ -491,7 +494,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 4449
+      "elapsedMs": 3740
     },
     {
       "id": "flv-navarra",
@@ -504,7 +507,7 @@
       "kept": 17,
       "droppedOffTopic": 2,
       "droppedModern": 11,
-      "elapsedMs": 3310
+      "elapsedMs": 2744
     },
     {
       "id": "munibe-aa",
@@ -517,7 +520,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 3288
+      "elapsedMs": 2827
     },
     {
       "id": "trabajos-prehistoria",
@@ -530,7 +533,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 3466
+      "elapsedMs": 2812
     },
     {
       "id": "openalex-archaeology",
@@ -543,7 +546,7 @@
       "kept": 15,
       "droppedOffTopic": 8,
       "droppedModern": 7,
-      "elapsedMs": 3401
+      "elapsedMs": 2777
     }
   ],
   "items": [
@@ -663,6 +666,23 @@
       "lang": "en",
       "region": "world",
       "topics": []
+    },
+    {
+      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326001512?dgcid=rss_sd_all",
+      "title": "Sophisticated millet-pig agriculture fueled asynchronous social complexity in the Neolithic Chinese Loess Plateau",
+      "summary": "Publication date: August 2026 Source: Journal of Archaeological Science, Volume 192 Author(s): Jiajia Dong, Guoke Chen, Yishi Yang, Gang Li, Junhui Zhang, Kaidi Ren, Yongxiu Lu, Linyao Du, Wenyu Wei, Huihui Cao, Jixiao Wang, Lele Ren, Minmin Ma, Guanghui Dong, Fahu Chen",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326001512?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-06-20T05:49:23.550Z",
+      "source": {
+        "id": "sciencedirect-jas",
+        "name": "Journal of Archaeological Science (ScienceDirect)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
     },
     {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003214?dgcid=rss_sd_all",
@@ -4774,24 +4794,6 @@
       ]
     },
     {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/03/260321012715.htm",
-      "title": "This crocodile ran like a greyhound across prehistoric Britain 200 million years ago",
-      "summary": "A newly discovered Triassic reptile from the UK looked more like a racing greyhound than a crocodile, built for speed on land. With long legs and a lightweight body, it hunted small animals in a dry, upland environment millions of years ago. Scientists identified it as a new…",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260321012715.htm",
-      "image": null,
-      "publishedAt": "2026-03-21T08:57:59.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria",
-        "aurkikuntza"
-      ]
-    },
-    {
       "id": "cambridge-antiquity:https://openalex.org/W7137945486",
       "title": "Bioarchaeological reconstruction of social identity among satellite tombs in Shangzhaoyao Qin mausoleum, China",
       "summary": "Interpretation of social identity for individuals buried in peripheral locations in Warring States Qin mausoleums (after c . 325 BC) is largely based on considerations of associated artefacts and distance from the central tomb; bioarchaeological evidence is limited. This article…",
@@ -8532,6 +8534,192 @@
       "topics": []
     },
     {
+      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326001214?dgcid=rss_sd_all",
+      "title": "Protein evidence for animal sacrifice and shared ritual practices in Bronze Age Sanxingdui, Southwest China",
+      "summary": "Publication date: August 2026 Source: Journal of Archaeological Science, Volume 192 Author(s): Xuekai Qi, Ruru Chen, Chengwei Wang, Yue Li, Fei Tang, Zhenbin Xie, Honglin Ran, Qing Xiao, Yulai Chen, Ruoyu Shi, Ganyu Zhang, Chong Wang, Furen Hou, Matthew Collins, Rui Wen",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326001214?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-06-20T05:49:23.550Z",
+      "source": {
+        "id": "sciencedirect-jas",
+        "name": "Journal of Archaeological Science (ScienceDirect)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "asia"
+      ]
+    },
+    {
+      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S030544032600141X?dgcid=rss_sd_all",
+      "title": "Ramped pyrolysis radiocarbon dating: First application to Bronze and Iron Age plaster from the Eastern Mediterranean (ca. 1500-800 BCE)",
+      "summary": "Publication date: August 2026 Source: Journal of Archaeological Science, Volume 192 Author(s): Pınar Erdil, Michael W. Dee, Katharina Streit, Margot Kuitems, Lyndelle Webster, Felix Höflmayer, Kerry Allen, Gerard T. Barrett",
+      "url": "https://www.sciencedirect.com/science/article/pii/S030544032600141X?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-06-20T05:49:23.550Z",
+      "source": {
+        "id": "sciencedirect-jas",
+        "name": "Journal of Archaeological Science (ScienceDirect)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002944?dgcid=rss_sd_all",
+      "title": "The impact of “Romanisation” on agriculture at the ancient Greek colony of Pharos, Hvar Island, Croatia",
+      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Rudolph Alagich, Antonela Barbir, Marina Ugarković, Samantha Greeves, Colin Smith",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002944?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-06-20T05:49:23.535Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "erromatarrak",
+        "greziarrak"
+      ]
+    },
+    {
+      "id": "noticiasdenavarra:https://www.noticiasdenavarra.com/rutas-y-naturaleza/2026/06/20/barranco-perdido-rioja-aventura-diversion-11226165.html",
+      "title": "El Barranco Perdido, en La Rioja: aventura y diversión entre dinosaurios",
+      "summary": "Ya está aquí el verano, el momento perfecto para salir de la rutina y vivir experiencias diferentes que combinen diversión, naturaleza y aprendizaje. En esta ocasión proponemos coger el coche y poner rumbo a Enciso, en La Rioja, para visitar el parque de paleoaventura El…",
+      "url": "https://www.noticiasdenavarra.com/rutas-y-naturaleza/2026/06/20/barranco-perdido-rioja-aventura-diversion-11226165.html",
+      "image": "https://estaticosgn-cdn.deia.eus/clip/7111e040-61e9-429e-a57e-6a6abf0309dc_16-9-aspect-ratio_default_0.jpg",
+      "publishedAt": "2026-06-20T05:00:53.000Z",
+      "source": {
+        "id": "noticiasdenavarra",
+        "name": "Noticias de Navarra"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/scoperta-archeologica-ehnasiya-basilica-romana-afrodite-egitto/",
+      "title": "Signorsì, signor generale, comandi! “Passami lo specchio e il rimmel. E sceglimi un paio d’orecchini d’oro”. Scoperto il sarcofago di un alto ufficiale dell’esercito egizio. Quando anche i soldati volevano somigliare agli Dei dagli occhi di gazzella. Perché?",
+      "summary": "Il Ministero egiziano del Turismo e delle Antichità ha annunciato una nuova e articolata serie di ritrovamenti archeologici che abbracciano un arco cronologico di oltre un millennio, dall’epoca dei faraoni del Medio Regno fino al periodo romano. Le scoperte provengono da due…",
+      "url": "https://www.stilearte.it/scoperta-archeologica-ehnasiya-basilica-romana-afrodite-egitto/",
+      "image": null,
+      "publishedAt": "2026-06-19T12:41:32.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "bbc-history:https://www.historyextra.com/period/roman/did-the-ancient-romans-of-pompeii-know-they-were-doomed/",
+      "title": "Did the ancient Romans of Pompeii know they were destined for doom?",
+      "summary": "Without modern volcanology, seismic monitoring or any clear understanding of eruption warning signs, the people living in the shadow of Vesuvius in AD 79 had little reason to think that catastrophe was imminent – even if they knew there was something unusual about the landscape…",
+      "url": "https://www.historyextra.com/period/roman/did-the-ancient-romans-of-pompeii-know-they-were-doomed/",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/06/GettyImages-566418457-1-a1c01c5-e1781869830683.jpg",
+      "publishedAt": "2026-06-19T12:06:52.000Z",
+      "source": {
+        "id": "bbc-history",
+        "name": "BBC History Extra"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/animals/extinct-species/a-completely-different-story-300-million-year-old-fossils-reveal-the-first-vertebrate-land-dwellers-werent-what-we-thought-researchers-claim",
+      "title": "'A completely different story': 300 million-year-old fossils reveal the first vertebrate land dwellers weren't what we thought, researchers claim",
+      "summary": "Our ancient four-legged ancestors didn't have an amphibian-like life cycle when they began walking on land, according to a new study of rare fossils found near Chicago.",
+      "url": "https://www.livescience.com/animals/extinct-species/a-completely-different-story-300-million-year-old-fossils-reveal-the-first-vertebrate-land-dwellers-werent-what-we-thought-researchers-claim",
+      "image": "https://cdn.mos.cms.futurecdn.net/S7nBnmh4kezj5JFWbdJs37-1280-80.jpg",
+      "publishedAt": "2026-06-19T10:26:37.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/06/descubren-que-la-ultima-colonia-griega-de-sicilia-fue-abandonada-de-manera-repentina-lo-que-permitio-la-preservacion-de-las-estructuras-urbanas",
+      "title": "Descubren que la última colonia griega de Sicilia fue abandonada de manera repentina, lo que permitió la preservación de las estructuras urbanas",
+      "summary": "Las excavaciones en el Monte Sant’Angelo de Licata, en la provincia de Agrigento, han concluido su quinta campaña con resultados que los responsables del proyecto califican como excepcionales. Los trabajos, desarrollados en el marco del Finziade Project, se han centrado en la…",
+      "url": "https://www.labrujulaverde.com/2026/06/descubren-que-la-ultima-colonia-griega-de-sicilia-fue-abandonada-de-manera-repentina-lo-que-permitio-la-preservacion-de-las-estructuras-urbanas",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/06/724958713_1556642129511653_4227751046477879698_n-copia.png.webp",
+      "publishedAt": "2026-06-19T09:35:11.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/06/encuentran-en-hungria-un-excepcional-horno-de-cal-romano-construido-aprovechando-la-pendiente-natural-de-una-colina",
+      "title": "Encuentran en Hungría un excepcional horno de cal romano construido aprovechando la pendiente natural de una colina",
+      "summary": "Las obras de ampliación de la autopista M1, el principal corredor viario que conecta Budapest con Viena a lo largo de 171 kilómetros, han dejado al descubierto en las proximidades de la localidad de Bicske, situada a unos 35 kilómetros al oeste de la capital húngara, un conjunto…",
+      "url": "https://www.labrujulaverde.com/2026/06/encuentran-en-hungria-un-excepcional-horno-de-cal-romano-construido-aprovechando-la-pendiente-natural-de-una-colina",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/06/724922771_3214698665382698_5386005456489304741_n.png.webp",
+      "publishedAt": "2026-06-19T08:01:30.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "cambridge-antiquity:https://openalex.org/W7165149043",
+      "title": "Destruction and resilience at Panaztepe: archaeoseismological evidence for third-millennium BC earthquakes in Western Anatolia",
+      "summary": "Earthquakes and the destruction they wreak on communities and landscapes are regular features of both modern news output and historical accounts. Archaeology can add to our understanding of such disasters, demonstrated here in the discussion of architectural damage noted during…",
+      "url": "https://doi.org/10.15184/aqy.2026.10376",
+      "image": null,
+      "publishedAt": "2026-06-19T00:00:00.000Z",
+      "source": {
+        "id": "cambridge-antiquity",
+        "name": "Antiquity (Cambridge)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "cambridge-antiquity:https://openalex.org/W7165122204",
+      "title": "Christopher Pare. 2025. Iron and the Iron Age: the introduction of iron in Europe and Western Asia. Oxford: Archaeopress; 978-1-80583-000-9 hardback £70 ebook OpenAccess http://doi.org/10.32028/9781805830009",
+      "summary": "An abstract is not available for this content. As you have access to this content, full HTML content is provided on this page. A PDF of this content is also available in through the ‘Save PDF’ action button.",
+      "url": "https://doi.org/10.15184/aqy.2026.10363",
+      "image": null,
+      "publishedAt": "2026-06-19T00:00:00.000Z",
+      "source": {
+        "id": "cambridge-antiquity",
+        "name": "Antiquity (Cambridge)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
       "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326001391?dgcid=rss_sd_all",
       "title": "Defining local 87 Sr/ 86 Sr baselines using high-resolution bioavailable strontium isoscapes: Implications for short-range prehistoric mobility in southwestern Iberia",
       "summary": "Publication date: July 2026 Source: Journal of Archaeological Science, Volume 191 Author(s): Döbereiner Chala-Aldana, Leopoldo Pena, Javier Escudero Carrillo, Marta Díaz-Zorita Bonilla",
@@ -8664,187 +8852,6 @@
       "region": "europe",
       "topics": [
         "erromatarrak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/misteriosa-fortificazione-medievale-zagrody-polonia/",
-      "title": "Guardi dall’alto sul computer e vedi alberi disposti in modo strano nel bosco. Cosa c’è, sotto?",
-      "summary": "Polonia. Un misterioso quadrato nascosto nel bosco da oltre mezzo secolo. Le immagini satellitari e il LiDAR riaprono il caso di una fortificazione senza nome In una zona rurale della Polonia orientale, al margine di un bosco apparentemente anonimo, una semplice osservazione…",
-      "url": "https://www.stilearte.it/misteriosa-fortificazione-medievale-zagrody-polonia/",
-      "image": null,
-      "publishedAt": "2026-06-18T00:04:09.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "guardian-arch:https://www.theguardian.com/uk-news/2026/jun/18/solstice-aligned-monument-archaeology-wiltshire-stonehenge-prototype",
-      "title": "Solstice-aligned 5,000-year-old monument ‘once in a lifetime find’, say archaeologists",
-      "summary": "Wessex Archaeology suspect they have uncovered a prototype for world-famous Stonehenge site in Wiltshire A 5,000-year-old monument that was aligned with the summer and winter solstices and may have served as a prototype for the later solar alignment at Stonehenge has been…",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/18/solstice-aligned-monument-archaeology-wiltshire-stonehenge-prototype",
-      "image": "https://i.guim.co.uk/img/media/a72f6f0d3edec6c42c006f31c8ec5e28b30c364b/346_0_4853_3883/master/4853.jpg?width=140&quality=85&auto=format&fit=max&s=e707e8739c2dbebb2a5232bf37d5401f",
-      "publishedAt": "2026-06-17T23:00:47.000Z",
-      "source": {
-        "id": "guardian-arch",
-        "name": "The Guardian — Archaeology"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "bbc-history:https://www.historyextra.com/period/stone-age/archaeologists-ancient-clues-unlock-stonehenge-mystery-bulford-site/",
-      "title": "Archaeologists find ancient clues that may unlock a major Stonehenge mystery",
-      "summary": "A pair of ancient post holes near Bulford, 5 kilometres from Stonehenge, appear to line up with the midsummer sunrise around 2,950 BC. Were people in the Stonehenge landscape marking the summer solstice long before the monument’s famous stones were raised?",
-      "url": "https://www.historyextra.com/period/stone-age/archaeologists-ancient-clues-unlock-stonehenge-mystery-bulford-site/",
-      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/06/Phil-Harding-of-Wessex-Archaeology-at-Stonehenge-2-b574be4-e1781705553738.jpg",
-      "publishedAt": "2026-06-17T23:00:27.000Z",
-      "source": {
-        "id": "bbc-history",
-        "name": "BBC History Extra"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/feature/beyond-montet-new-discoveries-in-the-royal-necropolis-of-tanis/",
-      "title": "Beyond Montet: New discoveries in the royal necropolis of Tanis",
-      "summary": "Following Aidan Dodson’s history of the Libyan pharaohs of Egypt in the last issue, Roger Forshaw explores the latest discoveries from the site of Tanis, their capital city.",
-      "url": "https://the-past.com/feature/beyond-montet-new-discoveries-in-the-royal-necropolis-of-tanis/",
-      "image": null,
-      "publishedAt": "2026-06-17T20:00:03.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "egiptoarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/feature/the-mineral-wealth-of-pharaonic-egypt/",
-      "title": "The mineral wealth of pharaonic Egypt",
-      "summary": "Colin Reader shows how ancient Egypt’s geology led to wealth, power, and influence.",
-      "url": "https://the-past.com/feature/the-mineral-wealth-of-pharaonic-egypt/",
-      "image": null,
-      "publishedAt": "2026-06-17T17:00:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "egiptoarrak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/travel/amarna-part-2/",
-      "title": "Amarna (Part 2)",
-      "summary": "Continuing his ‘Travels in an Antique Land’, Karl Harris presents the second part of his visitor’s guide to Amarna.",
-      "url": "https://the-past.com/review/travel/amarna-part-2/",
-      "image": null,
-      "publishedAt": "2026-06-17T16:00:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "inrap-bsky:https://bsky.app/profile/inrap.fr/post/3moiokxbiws2h",
-      "title": "",
-      "summary": "Questionnaire : L’archéologie et vous🔍 L'archéologie vous intéresse ? Dites-le nous en 3 minutes en répondant à ce questionnaire : Répondre au questionnaire 👉 https://docs.google.com/forms/d/e/1FAIpQLSdJziov5M2Iik_e66pOZe3nanzaBxIA0B-nZpFEEvj450Mrpg/viewform",
-      "url": "https://bsky.app/profile/inrap.fr/post/3moiokxbiws2h",
-      "image": null,
-      "publishedAt": "2026-06-17T15:58:00.000Z",
-      "source": {
-        "id": "inrap-bsky",
-        "name": "Inrap (Bluesky)"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/06/descubren-en-siberia-el-brote-de-peste-mas-antiguo-de-la-historia-marmotas-transmitieron-la-bacteria-a-los-cazadores-recolectores-hace-5500-anos",
-      "title": "Descubren en Siberia el brote de peste más antiguo de la Historia: marmotas transmitieron la bacteria a los cazadores-recolectores hace 5500 años",
-      "summary": "Un equipo internacional de investigadores ha logrado reconstruir el genoma de cepas ancestrales de Yersinia pestis a partir de restos humanos hallados en cuatro cementerios de cazadores-recolectores situados en la región del lago Baikal, en Siberia oriental, y los resultados,…",
-      "url": "https://www.labrujulaverde.com/2026/06/descubren-en-siberia-el-brote-de-peste-mas-antiguo-de-la-historia-marmotas-transmitieron-la-bacteria-a-los-cazadores-recolectores-hace-5500-anos",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/06/6C9420A5-FE06-447C-B91B-83833760669A.webp",
-      "publishedAt": "2026-06-17T15:45:43.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "guardian-arch:https://www.theguardian.com/science/2026/jun/17/ancient-dna-evidence-earliest-known-plague-outbreak",
-      "title": "Ancient DNA provides evidence of earliest known plague outbreak",
-      "summary": "Discovery in Siberia suggests bacterium from raw marmots devastated hunter-gatherer tribes about 5,500 years ago The earliest evidence for an outbreak of plague has been uncovered at late stone age cemeteries in south-eastern Siberia where dozens of hunter-gatherers and their…",
-      "url": "https://www.theguardian.com/science/2026/jun/17/ancient-dna-evidence-earliest-known-plague-outbreak",
-      "image": "https://i.guim.co.uk/img/media/c0ab2b64cb083c4f8f5c28d4469da316e3e8ee0c/161_0_2431_1944/master/2431.jpg?width=140&quality=85&auto=format&fit=max&s=faf4af03453ebe673abf016c7b44cb2a",
-      "publishedAt": "2026-06-17T15:00:36.000Z",
-      "source": {
-        "id": "guardian-arch",
-        "name": "The Guardian — Archaeology"
-      },
-      "lang": "en",
-      "region": "iberia",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/06/cientos-de-miles-de-billones-de-bacterias-podrian-haber-llegado-desde-la-tierra-a-una-luna-de-jupiter-en-los-ultimos-80-millones-de-anos",
-      "title": "Cientos de miles de billones de bacterias podrían haber llegado desde la Tierra a una luna de Júpiter en los últimos 80 millones de años",
-      "summary": "En un giro fascinante para la astrobiología, un nuevo estudio publicado por el investigador Zaza Osmanov, de la Universidad Libre de Tiflis y el Observatorio Astrofísico Nacional de Georgia, sugiere que la Tierra podría haber estado sembrando de vida la luna Europa de Júpiter…",
-      "url": "https://www.labrujulaverde.com/2026/06/cientos-de-miles-de-billones-de-bacterias-podrian-haber-llegado-desde-la-tierra-a-una-luna-de-jupiter-en-los-ultimos-80-millones-de-anos",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/06/Europa-moon.webp",
-      "publishedAt": "2026-06-17T10:23:36.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/06/descubren-en-croacia-un-sarcofago-tardorromano-intacto-y-sellado-en-el-subsuelo-de-la-antigua-epidaurum",
-      "title": "Descubren en Croacia un sarcófago tardorromano intacto y sellado en el subsuelo de la antigua Epidaurum",
-      "summary": "Las excavaciones arqueológicas de urgencia promovidas en el solar de la calle Zorina número 8, en el núcleo histórico de Cavtat en Croacia, han deparado un descubrimiento de excepcional relevancia para el conocimiento de la ocupación tardoantigua en la costa dálmata. Los…",
-      "url": "https://www.labrujulaverde.com/2026/06/descubren-en-croacia-un-sarcofago-tardorromano-intacto-y-sellado-en-el-subsuelo-de-la-antigua-epidaurum",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/06/725621555_1703907894577625_5159428842131739913_n.webp",
-      "publishedAt": "2026-06-17T08:39:53.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "erromatarrak",
-        "museoak",
-        "aurkikuntza"
       ]
     }
   ]
