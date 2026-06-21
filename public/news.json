@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T05:49:25.782Z",
+  "generatedAt": "2026-06-21T06:22:20.295Z",
   "count": 500,
   "sources": [
     {
@@ -10,10 +10,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 1,
-      "droppedOffTopic": 19,
+      "kept": 0,
+      "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 729
+      "elapsedMs": 879
     },
     {
       "id": "naiz",
@@ -26,7 +26,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 739
+      "elapsedMs": 666
     },
     {
       "id": "argia-kultura",
@@ -39,7 +39,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3756
+      "elapsedMs": 3737
     },
     {
       "id": "eitb-kultura",
@@ -52,7 +52,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 694
+      "elapsedMs": 833
     },
     {
       "id": "berria-bsky",
@@ -65,7 +65,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2730
+      "elapsedMs": 5131
     },
     {
       "id": "aranzadi-bsky",
@@ -78,7 +78,7 @@
       "kept": 7,
       "droppedOffTopic": 23,
       "droppedModern": 0,
-      "elapsedMs": 2753
+      "elapsedMs": 5127
     },
     {
       "id": "vianako-printzea",
@@ -91,7 +91,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1331
+      "elapsedMs": 1374
     },
     {
       "id": "labrujulaverde",
@@ -101,10 +101,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 16,
+      "kept": 17,
       "droppedOffTopic": 0,
-      "droppedModern": 4,
-      "elapsedMs": 1523
+      "droppedModern": 3,
+      "elapsedMs": 1813
     },
     {
       "id": "desperta-ferro",
@@ -117,7 +117,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 4,
-      "elapsedMs": 1884
+      "elapsedMs": 1456
     },
     {
       "id": "elpais-cultura",
@@ -130,7 +130,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 839
+      "elapsedMs": 1592
     },
     {
       "id": "lemonde-sciences",
@@ -140,10 +140,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 3,
-      "droppedOffTopic": 16,
+      "kept": 2,
+      "droppedOffTopic": 17,
       "droppedModern": 1,
-      "elapsedMs": 971
+      "elapsedMs": 1154
     },
     {
       "id": "lemonde-archeo",
@@ -156,7 +156,7 @@
       "kept": 10,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 1527
+      "elapsedMs": 1621
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -165,11 +165,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 22,
+      "fetched": 23,
       "kept": 6,
-      "droppedOffTopic": 16,
+      "droppedOffTopic": 17,
       "droppedModern": 0,
-      "elapsedMs": 1113
+      "elapsedMs": 1540
     },
     {
       "id": "inrap-bsky",
@@ -182,7 +182,7 @@
       "kept": 3,
       "droppedOffTopic": 11,
       "droppedModern": 3,
-      "elapsedMs": 2736
+      "elapsedMs": 5217
     },
     {
       "id": "sudouest-culture",
@@ -195,7 +195,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1306
+      "elapsedMs": 2096
     },
     {
       "id": "corriere-cultura",
@@ -208,7 +208,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1862
+      "elapsedMs": 2283
     },
     {
       "id": "archeologiaviva",
@@ -221,7 +221,7 @@
       "kept": 0,
       "droppedOffTopic": 0,
       "droppedModern": 10,
-      "elapsedMs": 2086
+      "elapsedMs": 3206
     },
     {
       "id": "stilearte",
@@ -234,7 +234,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 1,
-      "elapsedMs": 1939
+      "elapsedMs": 2919
     },
     {
       "id": "live-science-arch",
@@ -247,7 +247,7 @@
       "kept": 1,
       "droppedOffTopic": 28,
       "droppedModern": 1,
-      "elapsedMs": 2797
+      "elapsedMs": 4979
     },
     {
       "id": "bbc-history",
@@ -257,10 +257,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 2,
-      "droppedOffTopic": 8,
+      "kept": 1,
+      "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 2179
+      "elapsedMs": 2721
     },
     {
       "id": "sciencedaily-arch",
@@ -273,7 +273,7 @@
       "kept": 9,
       "droppedOffTopic": 21,
       "droppedModern": 0,
-      "elapsedMs": 1787
+      "elapsedMs": 2817
     },
     {
       "id": "ancient-origins",
@@ -286,7 +286,7 @@
       "kept": 4,
       "droppedOffTopic": 5,
       "droppedModern": 1,
-      "elapsedMs": 1800
+      "elapsedMs": 2846
     },
     {
       "id": "guardian-arch",
@@ -299,7 +299,7 @@
       "kept": 11,
       "droppedOffTopic": 7,
       "droppedModern": 2,
-      "elapsedMs": 2199
+      "elapsedMs": 3186
     },
     {
       "id": "current-archaeology",
@@ -312,7 +312,7 @@
       "kept": 23,
       "droppedOffTopic": 6,
       "droppedModern": 1,
-      "elapsedMs": 1984
+      "elapsedMs": 5143
     },
     {
       "id": "jas-reports",
@@ -323,9 +323,9 @@
       "ok": true,
       "fetched": 30,
       "kept": 5,
-      "droppedOffTopic": 4,
-      "droppedModern": 21,
-      "elapsedMs": 1945
+      "droppedOffTopic": 3,
+      "droppedModern": 22,
+      "elapsedMs": 2976
     },
     {
       "id": "plos-one-arch",
@@ -338,7 +338,7 @@
       "kept": 2,
       "droppedOffTopic": 28,
       "droppedModern": 0,
-      "elapsedMs": 2042
+      "elapsedMs": 3122
     },
     {
       "id": "pnas-arch",
@@ -351,7 +351,7 @@
       "kept": 22,
       "droppedOffTopic": 6,
       "droppedModern": 2,
-      "elapsedMs": 2668
+      "elapsedMs": 3631
     },
     {
       "id": "sciencedirect-jas",
@@ -360,11 +360,11 @@
       "region": "world",
       "kind": "research",
       "ok": true,
-      "fetched": 27,
+      "fetched": 29,
       "kept": 9,
       "droppedOffTopic": 0,
-      "droppedModern": 18,
-      "elapsedMs": 1935
+      "droppedModern": 20,
+      "elapsedMs": 3083
     },
     {
       "id": "spal-us",
@@ -377,7 +377,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2898
+      "elapsedMs": 4597
     },
     {
       "id": "complutum-ucm",
@@ -390,7 +390,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2976
+      "elapsedMs": 4504
     },
     {
       "id": "archeoarte",
@@ -403,7 +403,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2603
+      "elapsedMs": 4463
     },
     {
       "id": "cypsela",
@@ -416,7 +416,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2592
+      "elapsedMs": 4798
     },
     {
       "id": "cambridge-antiquity",
@@ -429,7 +429,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2556
+      "elapsedMs": 4262
     },
     {
       "id": "cambridge-caj",
@@ -442,7 +442,7 @@
       "kept": 18,
       "droppedOffTopic": 7,
       "droppedModern": 5,
-      "elapsedMs": 2479
+      "elapsedMs": 4207
     },
     {
       "id": "cambridge-ejarc",
@@ -455,7 +455,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 2543
+      "elapsedMs": 4185
     },
     {
       "id": "aquitania-persee",
@@ -468,7 +468,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3373
+      "elapsedMs": 5081
     },
     {
       "id": "cuadernos-arq-unav",
@@ -481,7 +481,7 @@
       "kept": 19,
       "droppedOffTopic": 2,
       "droppedModern": 9,
-      "elapsedMs": 4155
+      "elapsedMs": 6236
     },
     {
       "id": "veleia-ehu",
@@ -494,7 +494,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3740
+      "elapsedMs": 5848
     },
     {
       "id": "flv-navarra",
@@ -507,7 +507,7 @@
       "kept": 17,
       "droppedOffTopic": 2,
       "droppedModern": 11,
-      "elapsedMs": 2744
+      "elapsedMs": 4653
     },
     {
       "id": "munibe-aa",
@@ -520,7 +520,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 2827
+      "elapsedMs": 4646
     },
     {
       "id": "trabajos-prehistoria",
@@ -533,7 +533,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 2812
+      "elapsedMs": 4679
     },
     {
       "id": "openalex-archaeology",
@@ -546,7 +546,7 @@
       "kept": 15,
       "droppedOffTopic": 8,
       "droppedModern": 7,
-      "elapsedMs": 2777
+      "elapsedMs": 4757
     }
   ],
   "items": [
@@ -8534,6 +8534,104 @@
       "topics": []
     },
     {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002634?dgcid=rss_sd_all",
+      "title": "Processing Flax by the Walls. Evidence of two ditches from Iron Age (S’Urachi, Sardinia) and Middle Ages (Valencia, Spain)",
+      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Pérez-Jordà Guillem, Carrión Marco Yolanda, Sabato Diego",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002634?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-06-21T06:22:17.007Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "iberia",
+      "topics": [
+        "prehistoria",
+        "erdi-aroa"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003159?dgcid=rss_sd_all",
+      "title": "Plaster production in the Late-Seventh Millennium BCE: the earliest Arabian Neolithic plaster processing pit kilns discovered on GHG0063, Ghagha Island, Abu Dhabi, United Arab Emirates",
+      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Noura Hamad Al Hameli, Richard Thorburn Cuttler, Rémy Crassard, Kevin Lidour, Caterina Zaggia, Ahmed Abdalla Elfaki, Mark Jonathan Beech, Lucie Dingwall, Peter Magee",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26003159?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-06-21T06:22:17.006Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/06/hallazgo-en-la-necropolis-de-jabal-al-tayr-redefine-los-origenes-de-la-arquitectura-piramidal-egipcia",
+      "title": "Hallazgo en la necrópolis de Jabal al-Tayr redefine los orígenes de la arquitectura piramidal egipcia",
+      "summary": "Las arenas que custodian la ribera oriental del Nilo en la gobernación de Minya han devuelto a la luz un conjunto de evidencias funerarias que obligan a revisar los cánones establecidos sobre la evolución de la arquitectura monumental en el Egipto faraónico. El equipo de…",
+      "url": "https://www.labrujulaverde.com/2026/06/hallazgo-en-la-necropolis-de-jabal-al-tayr-redefine-los-origenes-de-la-arquitectura-piramidal-egipcia",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/06/725776574_1422752203219655_1292240024625079534_n.webp",
+      "publishedAt": "2026-06-20T14:31:47.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "egiptoarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/tombe-epoca-arcaica-gebel-el-tayr-egitto/",
+      "title": "Sotto la sabbia guardate cosa c’è. La scoperta",
+      "summary": "Il Ministero del Turismo e delle Antichità egiziano ha annunciato ora il ritrovamento di due tombe dell’epoca arcaica nella necropoli di Gebel el-Tayr, presso Minya, in Medio Egitto. Il rinvenimento assume particolare interesse perché documenta soluzioni costruttive che…",
+      "url": "https://www.stilearte.it/tombe-epoca-arcaica-gebel-el-tayr-egitto/",
+      "image": null,
+      "publishedAt": "2026-06-20T10:41:00.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/mulino-fiammingo-distrutto-temporale-belgio/",
+      "title": "Furia del vento nemico. Temporale abbatte uno storico mulino. Come funzionavano davvero queste strutture. Dove, in Italia? Cosa producevano al di là delle farine?",
+      "summary": "Un violento temporale ha colpito nelle scorse ore le Fiandre belghe, provocando la caduta di uno dei più noti mulini storici della regione. A darne notizia sono stati i gestori dell’Heimolen di Keerbergen, che hanno espresso il proprio cordoglio per il crollo dell’iconico…",
+      "url": "https://www.stilearte.it/mulino-fiammingo-distrutto-temporale-belgio/",
+      "image": null,
+      "publishedAt": "2026-06-20T09:47:20.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/06/hablan-entre-ellos-los-animales-de-distintas-especies-para-colaborar-un-fascinante-estudio-revela-como-lo-hacen",
+      "title": "¿Hablan entre ellos los animales de distintas especies para colaborar? Un fascinante estudio revela cómo lo hacen",
+      "summary": "La cooperación entre animales de distintas especies representa uno de los fenómenos más fascinantes de la biología conductual, y un nuevo estudio publicado en la revista Animal Behaviour arroja luz sobre los mecanismos comunicativos que hacen posible estas alianzas…",
+      "url": "https://www.labrujulaverde.com/2026/06/hablan-entre-ellos-los-animales-de-distintas-especies-para-colaborar-un-fascinante-estudio-revela-como-lo-hacen",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/06/leela_channer_1.webp",
+      "publishedAt": "2026-06-20T08:20:12.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
       "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326001214?dgcid=rss_sd_all",
       "title": "Protein evidence for animal sacrifice and shared ritual practices in Bronze Age Sanxingdui, Southwest China",
       "summary": "Publication date: August 2026 Source: Journal of Archaeological Science, Volume 192 Author(s): Xuekai Qi, Ruru Chen, Chengwei Wang, Yue Li, Fei Tang, Zhenbin Xie, Honglin Ran, Qing Xiao, Yulai Chen, Ruoyu Shi, Ganyu Zhang, Chong Wang, Furen Hou, Matthew Collins, Rui Wen",
@@ -8751,107 +8849,6 @@
       "region": "world",
       "topics": [
         "prehistoria"
-      ]
-    },
-    {
-      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326000993?dgcid=rss_sd_all",
-      "title": "Amber workshops in Central Europe during the Early Iron Age. Technology, chemical analyses, and Amber Roads",
-      "summary": "Publication date: July 2026 Source: Journal of Archaeological Science, Volume 191 Author(s): Zuzana Golec Mírová, Martin Golec, Lukáš Kučera, Miloslav Chytráček, Katja Hagemann, Doris Mischka, Michal Dienstpier, Jan Martínek, Vojtěch Zemek, Michal Přichystal, Hana Čižmářová,…",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326000993?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-06-18T06:15:07.308Z",
-      "source": {
-        "id": "sciencedirect-jas",
-        "name": "Journal of Archaeological Science (ScienceDirect)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X2600297X?dgcid=rss_sd_all",
-      "title": "Geochemical study of bituminous mixtures from sickles of the Pre-pottery neolithic B site of Motza (Israel): Composition and origin of bitumen",
-      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): By Jacques Connan, Michael Engel, Renaud Gley, Alex Zumberge, Ferran Borrell, Avraham Levy, Jacob Vardi",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X2600297X?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-06-18T06:15:07.213Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003147?dgcid=rss_sd_all",
-      "title": "Lithic technology and obsidian procurement at Erbaba Höyük: A techno-typological and geochemical perspective on late neolithic exchange networks in Central Anatolia",
-      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): M. Dirican, M. Karakoç, K. Sayıt, C. Atakuman",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26003147?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-06-18T06:15:07.212Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "noticiasdenavarra:https://www.noticiasdenavarra.com/osasuna/2026/06/18/victor-munoz-rumbo-liverpool-11215968.html",
-      "title": "Víctor Muñoz, rumbo a Liverpool",
-      "summary": "El mercado de fichajes ha dado un vuelco inesperado para Osasuna. Cuando todo apuntaba a que Víctor Muñoz iba a convertirse en nuevo jugador del Newcastle, el Liverpool ha irrumpido en la operación y va a cerrar su incorporación tras abonar los 40 millones de euros de su…",
-      "url": "https://www.noticiasdenavarra.com/osasuna/2026/06/18/victor-munoz-rumbo-liverpool-11215968.html",
-      "image": "https://estaticosgn-cdn.deia.eus/clip/aefa4cf2-255a-4f3c-8b73-bf22141439b6_16-9-aspect-ratio_default_0_x1416y1202.jpg",
-      "publishedAt": "2026-06-18T05:19:52.000Z",
-      "source": {
-        "id": "noticiasdenavarra",
-        "name": "Noticias de Navarra"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "erromatarrak",
-        "erdi-aroa"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/feature/hilary-wilson-on-bread-beer-and-economics-part-1/",
-      "title": "Hilary Wilson on… Bread, beer and economics – Part 1",
-      "summary": "Hilary Wilson explores the importance of grain for wages and taxes.",
-      "url": "https://the-past.com/feature/hilary-wilson-on-bread-beer-and-economics-part-1/",
-      "image": null,
-      "publishedAt": "2026-06-18T05:00:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/vulci-teatro-romano-tempio-etrusco-scavi-2026/",
-      "title": "Un enigma lungo 2.800 anni: nell’antica Vulci si scava per portare alla luce un teatro romano e un tempio etrusco. E, sotto, ci sono persino le case dei villanoviani. Chi erano? Perchè qui?",
-      "summary": "Per oltre duemila anni è rimasto nascosto sotto la terra della Maremma laziale. Ora, mentre gli archeologi scavano nel cuore dell’antica Vulci, stanno emergendo strutture che potrebbero appartenere al teatro romano della città, un edificio monumentale a lungo ipotizzato dagli…",
-      "url": "https://www.stilearte.it/vulci-teatro-romano-tempio-etrusco-scavi-2026/",
-      "image": null,
-      "publishedAt": "2026-06-18T01:13:26.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
       ]
     }
   ]
