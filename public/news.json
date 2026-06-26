@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T05:36:49.468Z",
+  "generatedAt": "2026-06-26T05:43:40.434Z",
   "count": 500,
   "sources": [
     {
@@ -13,7 +13,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 512
+      "elapsedMs": 661
     },
     {
       "id": "naiz",
@@ -26,7 +26,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1036
+      "elapsedMs": 930
     },
     {
       "id": "argia-kultura",
@@ -39,7 +39,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1223
+      "elapsedMs": 4576
     },
     {
       "id": "eitb-kultura",
@@ -52,7 +52,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 944
+      "elapsedMs": 1041
     },
     {
       "id": "berria-bsky",
@@ -65,7 +65,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2467
+      "elapsedMs": 3170
     },
     {
       "id": "aranzadi-bsky",
@@ -78,7 +78,7 @@
       "kept": 6,
       "droppedOffTopic": 24,
       "droppedModern": 0,
-      "elapsedMs": 2442
+      "elapsedMs": 3143
     },
     {
       "id": "vianako-printzea",
@@ -86,12 +86,9 @@
       "lang": "es",
       "region": "basque",
       "kind": "research",
-      "ok": true,
-      "fetched": 25,
-      "kept": 9,
-      "droppedOffTopic": 3,
-      "droppedModern": 13,
-      "elapsedMs": 1405
+      "ok": false,
+      "error": "Request timed out after 15000ms",
+      "elapsedMs": 49514
     },
     {
       "id": "labrujulaverde",
@@ -101,10 +98,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 15,
+      "kept": 13,
       "droppedOffTopic": 0,
-      "droppedModern": 5,
-      "elapsedMs": 1842
+      "droppedModern": 7,
+      "elapsedMs": 1602
     },
     {
       "id": "desperta-ferro",
@@ -117,7 +114,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 4,
-      "elapsedMs": 1058
+      "elapsedMs": 1189
     },
     {
       "id": "elpais-cultura",
@@ -130,7 +127,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1885
+      "elapsedMs": 1835
     },
     {
       "id": "lemonde-sciences",
@@ -140,10 +137,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 1,
-      "droppedOffTopic": 19,
+      "kept": 0,
+      "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 764
+      "elapsedMs": 954
     },
     {
       "id": "lemonde-archeo",
@@ -156,7 +153,7 @@
       "kept": 10,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 1061
+      "elapsedMs": 1464
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -165,11 +162,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 21,
+      "fetched": 19,
       "kept": 8,
-      "droppedOffTopic": 13,
+      "droppedOffTopic": 11,
       "droppedModern": 0,
-      "elapsedMs": 927
+      "elapsedMs": 1388
     },
     {
       "id": "inrap-bsky",
@@ -182,7 +179,7 @@
       "kept": 3,
       "droppedOffTopic": 12,
       "droppedModern": 2,
-      "elapsedMs": 2433
+      "elapsedMs": 3053
     },
     {
       "id": "sudouest-culture",
@@ -195,7 +192,7 @@
       "kept": 1,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1063
+      "elapsedMs": 1226
     },
     {
       "id": "corriere-cultura",
@@ -208,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1870
+      "elapsedMs": 2152
     },
     {
       "id": "archeologiaviva",
@@ -221,7 +218,7 @@
       "kept": 0,
       "droppedOffTopic": 0,
       "droppedModern": 10,
-      "elapsedMs": 2458
+      "elapsedMs": 2172
     },
     {
       "id": "stilearte",
@@ -234,7 +231,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 2,
-      "elapsedMs": 2169
+      "elapsedMs": 2362
     },
     {
       "id": "live-science-arch",
@@ -244,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 3,
-      "droppedOffTopic": 27,
+      "kept": 2,
+      "droppedOffTopic": 28,
       "droppedModern": 0,
-      "elapsedMs": 2347
+      "elapsedMs": 3027
     },
     {
       "id": "bbc-history",
@@ -260,7 +257,7 @@
       "kept": 0,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1885
+      "elapsedMs": 1746
     },
     {
       "id": "sciencedaily-arch",
@@ -270,10 +267,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 9,
-      "droppedOffTopic": 21,
+      "kept": 8,
+      "droppedOffTopic": 22,
       "droppedModern": 0,
-      "elapsedMs": 1854
+      "elapsedMs": 1758
     },
     {
       "id": "ancient-origins",
@@ -281,9 +278,12 @@
       "lang": "en",
       "region": "world",
       "kind": "news",
-      "ok": false,
-      "error": "Unable to parse XML.",
-      "elapsedMs": 6516
+      "ok": true,
+      "fetched": 10,
+      "kept": 4,
+      "droppedOffTopic": 5,
+      "droppedModern": 1,
+      "elapsedMs": 1847
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 11,
       "droppedOffTopic": 7,
       "droppedModern": 2,
-      "elapsedMs": 1946
+      "elapsedMs": 2437
     },
     {
       "id": "current-archaeology",
@@ -309,7 +309,7 @@
       "kept": 23,
       "droppedOffTopic": 6,
       "droppedModern": 1,
-      "elapsedMs": 1844
+      "elapsedMs": 1692
     },
     {
       "id": "jas-reports",
@@ -322,7 +322,7 @@
       "kept": 7,
       "droppedOffTopic": 2,
       "droppedModern": 21,
-      "elapsedMs": 1387
+      "elapsedMs": 1751
     },
     {
       "id": "plos-one-arch",
@@ -332,10 +332,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 0,
-      "droppedOffTopic": 30,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1936
+      "elapsedMs": 1812
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 22,
       "droppedOffTopic": 6,
       "droppedModern": 2,
-      "elapsedMs": 3817
+      "elapsedMs": 2898
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +361,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 21,
-      "elapsedMs": 1809
+      "elapsedMs": 1835
     },
     {
       "id": "spal-us",
@@ -374,7 +374,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2695
+      "elapsedMs": 3268
     },
     {
       "id": "complutum-ucm",
@@ -382,9 +382,12 @@
       "lang": "es",
       "region": "iberia",
       "kind": "research",
-      "ok": false,
-      "error": "Request timed out after 15000ms",
-      "elapsedMs": 49513
+      "ok": true,
+      "fetched": 14,
+      "kept": 9,
+      "droppedOffTopic": 0,
+      "droppedModern": 5,
+      "elapsedMs": 3153
     },
     {
       "id": "archeoarte",
@@ -397,7 +400,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2468
+      "elapsedMs": 3013
     },
     {
       "id": "cypsela",
@@ -410,7 +413,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2253
+      "elapsedMs": 3089
     },
     {
       "id": "cambridge-antiquity",
@@ -423,7 +426,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 3286
+      "elapsedMs": 3302
     },
     {
       "id": "cambridge-caj",
@@ -436,7 +439,7 @@
       "kept": 18,
       "droppedOffTopic": 7,
       "droppedModern": 5,
-      "elapsedMs": 3172
+      "elapsedMs": 3023
     },
     {
       "id": "cambridge-ejarc",
@@ -449,7 +452,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 2462
+      "elapsedMs": 2853
     },
     {
       "id": "aquitania-persee",
@@ -462,7 +465,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3223
+      "elapsedMs": 3729
     },
     {
       "id": "cuadernos-arq-unav",
@@ -475,7 +478,7 @@
       "kept": 19,
       "droppedOffTopic": 2,
       "droppedModern": 9,
-      "elapsedMs": 3686
+      "elapsedMs": 4331
     },
     {
       "id": "veleia-ehu",
@@ -488,7 +491,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3336
+      "elapsedMs": 4465
     },
     {
       "id": "flv-navarra",
@@ -501,7 +504,7 @@
       "kept": 17,
       "droppedOffTopic": 2,
       "droppedModern": 11,
-      "elapsedMs": 3642
+      "elapsedMs": 3235
     },
     {
       "id": "munibe-aa",
@@ -514,7 +517,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 2476
+      "elapsedMs": 3270
     },
     {
       "id": "trabajos-prehistoria",
@@ -527,7 +530,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 2711
+      "elapsedMs": 3214
     },
     {
       "id": "openalex-archaeology",
@@ -537,10 +540,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 14,
-      "droppedOffTopic": 9,
+      "kept": 15,
+      "droppedOffTopic": 8,
       "droppedModern": 7,
-      "elapsedMs": 2569
+      "elapsedMs": 3354
     }
   ],
   "items": [
@@ -645,6 +648,36 @@
         "prehistoria",
         "asia"
       ]
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7165791762",
+      "title": "At the Small Scale: Pollen and Non-Pollen Palynomorphs Record from the Area of the Northern Fortification Wall of Serdica (2nd–6th c. AD), Bulgaria",
+      "summary": "At the Small Scale: Pollen and Non-Pollen Palynomorphs Record from the Area of the Northern Fortification Wall of Serdica (2nd–6th c. AD), Bulgaria",
+      "url": "https://doi.org/10.17632/hjhwz5n6r8",
+      "image": null,
+      "publishedAt": "2027-01-01T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7165745127",
+      "title": "At the Small Scale: Pollen and Non-Pollen Palynomorphs Record from the Area of the Northern Fortification Wall of Serdica (2nd–6th c. AD), Bulgaria",
+      "summary": "At the Small Scale: Pollen and Non-Pollen Palynomorphs Record from the Area of the Northern Fortification Wall of Serdica (2nd–6th c. AD), Bulgaria",
+      "url": "https://doi.org/10.17632/hjhwz5n6r8.1",
+      "image": null,
+      "publishedAt": "2027-01-01T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
     },
     {
       "id": "openalex-archaeology:https://openalex.org/W7160466657",
@@ -4625,39 +4658,6 @@
       "topics": []
     },
     {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/03/260327230113.htm",
-      "title": "Scientists say we’ve been looking in the wrong place for human origins",
-      "summary": "A fossil ape discovered in northern Egypt is reshaping the story of human evolution. The species, Masripithecus, lived about 17 to 18 million years ago and may sit very close to the ancestor of all modern apes. This finding challenges the long-standing focus on East Africa.…",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260327230113.htm",
-      "image": null,
-      "publishedAt": "2026-03-28T03:06:49.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "egiptoarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "desperta-ferro:https://www.despertaferro-ediciones.com/2026/el-simbolismo-de-la-muerte-en-la-semana-santa-espanola/",
-      "title": "El simbolismo de la muerte en la Semana Santa española",
-      "summary": "Con la llegada de la Semana Santa, los mecanismos que mueven la estética macabra salen a la calle, activando unas pasiones que se tornan colectivas. La muerte ocupará un lugar central en estos días, pero su presencia puede ser analizada desde ópticas muy distintas. La entrada El…",
-      "url": "https://www.despertaferro-ediciones.com/2026/el-simbolismo-de-la-muerte-en-la-semana-santa-espanola/",
-      "image": null,
-      "publishedAt": "2026-03-27T17:53:52.000Z",
-      "source": {
-        "id": "desperta-ferro",
-        "name": "Desperta Ferro Ediciones"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": []
-    },
-    {
       "id": "cambridge-caj:https://openalex.org/W7141133819",
       "title": "A Beacon of Home: Struthio camelus and the Parameters of Humanity in Southern African Hunter-gatherer Lifeways",
       "summary": "Abstract Ostrich ( Struthio camelus ) eggshell (OES) beads are well documented as a medium of delayed exchange and social networking between hunter-gatherer societies in southern Africa. For thousands of years, OES objects played a role in glossing social difference and…",
@@ -8464,6 +8464,188 @@
       "topics": []
     },
     {
+      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326001391?dgcid=rss_sd_all",
+      "title": "Defining local 87 Sr/ 86 Sr baselines using high-resolution bioavailable strontium isoscapes: Implications for short-range prehistoric mobility in southwestern Iberia",
+      "summary": "Publication date: July 2026 Source: Journal of Archaeological Science, Volume 191 Author(s): Döbereiner Chala-Aldana, Leopoldo Pena, Javier Escudero Carrillo, Marta Díaz-Zorita Bonilla",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326001391?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-06-26T05:42:52.770Z",
+      "source": {
+        "id": "sciencedirect-jas",
+        "name": "Journal of Archaeological Science (ScienceDirect)"
+      },
+      "lang": "en",
+      "region": "iberia",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326001032?dgcid=rss_sd_all",
+      "title": "Detecting architectural features and stratigraphic deposits at a Pastoral Neolithic site using ground-penetrating radar",
+      "summary": "Publication date: July 2026 Source: Journal of Archaeological Science, Volume 191 Author(s): Brenna McWhorter Fennessey, Sylvia Wemanya, Audax Z.P. Mabulla, Agness O. Gidna, Mary E. Prendergast, Katherine M. Grillo",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326001032?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-06-26T05:42:52.770Z",
+      "source": {
+        "id": "sciencedirect-jas",
+        "name": "Journal of Archaeological Science (ScienceDirect)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/scoperta-tecnica-estrazione-e-studio-dna-preistorico-pareti-grotte/",
+      "title": "Scoperta rivoluzionaria: il Dna umano resta sulle pareti delle grotte per migliaia di anni. La Preistoria potrà essere studiata senza scavare",
+      "summary": "Le pareti delle grotte possono conservare DNA umano antico per migliaia di anni. È una scoperta destinata a cambiare profondamente il modo in cui gli archeologi ricostruiscono la Preistoria, perché apre la possibilità di identificare le popolazioni che frequentarono una cavità…",
+      "url": "https://www.stilearte.it/scoperta-tecnica-estrazione-e-studio-dna-preistorico-pareti-grotte/",
+      "image": null,
+      "publishedAt": "2026-06-25T22:05:00.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "sudouest-culture:https://www.sudouest.fr/gironde/pauillac/les-60-ans-de-la-societe-archeologique-du-medoc-l-archeologie-n-est-pas-une-science-poussiereuse-c-est-une-science-vivante-29654486.php",
+      "title": "Les 60 ans de la Société archéologique du Médoc : « L’archéologie n’est pas une science poussiéreuse, c’est une science vivante »",
+      "summary": "La Société archéologique et historique du Médoc célèbre cette année ses 60 ans. Pour sa présidente, Claire Steimer, l’étude du passé reste un précieux outil pour comprendre les enjeux auxquels le territoire",
+      "url": "https://www.sudouest.fr/gironde/pauillac/les-60-ans-de-la-societe-archeologique-du-medoc-l-archeologie-n-est-pas-une-science-poussiereuse-c-est-une-science-vivante-29654486.php",
+      "image": null,
+      "publishedAt": "2026-06-25T17:15:00.000Z",
+      "source": {
+        "id": "sudouest-culture",
+        "name": "Sud Ouest — Culture"
+      },
+      "lang": "fr",
+      "region": "basque",
+      "topics": []
+    },
+    {
+      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352341",
+      "title": "Association between unhealthy snack food and beverage consumption and the nutritional status of Nepalese children and adolescents: A systematic review",
+      "summary": "by Rameshwor Parajuli, Wilna Oldewage-Theron, Surya Raj Niraula Introduction Eating habits have changed significantly over the past few decades, with consumers favoring unhealthy snack foods and beverages over traditional foods. This trend has shifted dietary patterns in…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352341",
+      "image": null,
+      "publishedAt": "2026-06-25T14:00:00.000Z",
+      "source": {
+        "id": "plos-one-arch",
+        "name": "PLOS ONE — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "ekialde-hurbila",
+        "asia"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/fortezza-pitti-burghead-scavi-scozia/",
+      "title": "“Abbasso Roma!”. Non sono laziali ma Pitti, terrore dei romani. Riaprono gli scavi nella loro grande fortezza. Chi erano? Perchè non si piegarono agli “italici” e all’impero? I segreti di una popolazione “ribelle per sempre”",
+      "summary": "Gli archeologi del progetto Northern Picts dell’Università di Aberdeen torneranno a scavare nella spettacolare fortezza di Burghead, nel Moray, sulla costa nord-orientale della Scozia, dall’11 al 25 agosto, covo di ribellli -visto da Roma – e di eroi – visto di britannici-.. La…",
+      "url": "https://www.stilearte.it/fortezza-pitti-burghead-scavi-scozia/",
+      "image": null,
+      "publishedAt": "2026-06-25T13:23:00.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/nuova-scoperta-necropoli-picena-sirolo-conero/",
+      "title": "Conero, Ancona. Scoperta eccezionale nella necropoli picena dei Pini. Un nuovo contesto funerario racconta il potere delle aristocrazie dell’Adriatico preromano",
+      "summary": "Una importante scoperta archeologica è avvenuta in questi giorni nella necropoli picena dei Pini, nel territorio di Sirolo (Ancona). Le indagini archeologiche hanno riportato alla luce un contesto funerario di eccezionale rilevanza scientifica, destinato ad ampliare le…",
+      "url": "https://www.stilearte.it/nuova-scoperta-necropoli-picena-sirolo-conero/",
+      "image": null,
+      "publishedAt": "2026-06-25T10:53:39.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/stele-assira-ninive-porta-del-sole-bab-shamash/",
+      "title": "Una gigantesca stele riaffiora in queste ore sotto la Porta del Sole dopo 2.700 anni. Un testo sotto le incrostazioni. I possibili significati",
+      "summary": "Per diversi minuti gli archeologi hanno lavorato quasi in silenzio, liberando con spatole e pennelli il terreno compatto accumulato attorno a un enorme blocco lapideo. Solo quando la terra ha iniziato a staccarsi dalla superficie sono comparsi i primi rilievi scolpiti. In queste…",
+      "url": "https://www.stilearte.it/stele-assira-ninive-porta-del-sole-bab-shamash/",
+      "image": null,
+      "publishedAt": "2026-06-25T10:01:56.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/rituale-mala-morte-iberi-cerro-cabezas/",
+      "title": "Scoperta | Perché due uomini furono deposti con sei enormi palchi di cervo oltre 2.200 anni fa? Gli archeologi credono di aver trovato un rarissimo rituale della “mala morte”",
+      "summary": "Nel grande oppidum iberico di Cerro de las Cabezas, in Spagna, una scoperta senza precedenti apre uno squarcio sulle credenze funerarie dell’età del Ferro. Due uomini uccisi, deposti fuori dalle mura e accompagnati da sei grandi palchi di cervo raccontano una storia che gli…",
+      "url": "https://www.stilearte.it/rituale-mala-morte-iberi-cerro-cabezas/",
+      "image": null,
+      "publishedAt": "2026-06-25T09:44:34.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/etruschi-spagna-tartesso-carro-rituale/",
+      "title": "Carro in stile etrusco trovato ora in Spagna. Ma dove arrivarono i nostri connazionali? Chi erano i tartessi? Cosa facevano gli etruschi come marinai? I motivi di un abbinamento clamoroso",
+      "summary": "La recente presentazione del carro votivo in bronzo rinvenuto ora nel santuario di Casas del Turuñuelo, presso Guareña, in Estremadura, ha suscitato grande interesse perché gli archeologi hanno individuato confronti stilistici e costruttivi con manufatti dell’Italia etrusca, pur…",
+      "url": "https://www.stilearte.it/etruschi-spagna-tartesso-carro-rituale/",
+      "image": null,
+      "publishedAt": "2026-06-25T09:14:45.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "iberiarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/frammento-terra-sigillata-magna-vallo-adriano/",
+      "title": "Lusso nel bagno del comandante romano. Scoperto ora un oggetto di design firmato di quasi 1.900 anni fa. Da un atelier francese al confine più remoto dell’Impero romano. Chi era il produttore di successo? Le risposte dallo scavo",
+      "summary": "Un piccolo frammento di ceramica emerge lentamente dal terreno. La superficie conserva ancora il caratteristico colore rosso brillante e una decorazione in rilievo sorprendentemente ben conservata. Gli archeologi lo puliscono con delicatezza e, mentre la terra lascia spazio ai…",
+      "url": "https://www.stilearte.it/frammento-terra-sigillata-magna-vallo-adriano/",
+      "image": null,
+      "publishedAt": "2026-06-25T08:24:13.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
       "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326000993?dgcid=rss_sd_all",
       "title": "Amber workshops in Central Europe during the Early Iron Age. Technology, chemical analyses, and Amber Roads",
       "summary": "Publication date: July 2026 Source: Journal of Archaeological Science, Volume 191 Author(s): Zuzana Golec Mírová, Martin Golec, Lukáš Kučera, Miloslav Chytráček, Katja Hagemann, Doris Mischka, Michal Dienstpier, Jan Martínek, Vojtěch Zemek, Michal Přichystal, Hana Čižmářová,…",
@@ -8664,196 +8846,6 @@
       "topics": [
         "erromatarrak",
         "greziarrak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/lapis-specularis-hispania-romana-miniere-segobriga/",
-      "title": "Prima del vetro i Romani usavano una pietra trasparente: la ricchezza nascosta e le lastre sorprendenti. Sotto la protezione di Minerva",
-      "summary": "La recente scoperta di un santuario rupestre dedicato a Minerva nel territorio di Campos del Paraíso, presso l’antica Segóbriga, ha riportato l’attenzione degli studiosi su una delle risorse minerarie più preziose dell’Impero romano: il lapis specularis. Lo studio pubblicato nel…",
-      "url": "https://www.stilearte.it/lapis-specularis-hispania-romana-miniere-segobriga/",
-      "image": null,
-      "publishedAt": "2026-06-24T07:48:45.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/06/evidencias-de-camellos-en-la-fortaleza-de-belgrado-revelan-rutas-comerciales-hasta-ahora-desconocidas-en-la-edad-media",
-      "title": "Evidencias de camellos en la Fortaleza de Belgrado revelan rutas comerciales hasta ahora desconocidas en la Edad Media",
-      "summary": "La Fortaleza de Belgrado, situada en la confluencia de los ríos Sava y Danubio, ha sido testigo de más de dos milenios de historia. Desde su papel como puesto militar romano hasta su función como bastión defensivo durante el período medieval, esta imponente estructura ha…",
-      "url": "https://www.labrujulaverde.com/2026/06/evidencias-de-camellos-en-la-fortaleza-de-belgrado-revelan-rutas-comerciales-hasta-ahora-desconocidas-en-la-edad-media",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/06/DSC_375-12.webp",
-      "publishedAt": "2026-06-24T07:45:36.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "erromatarrak",
-        "erdi-aroa"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/06/el-arte-rupestre-del-paleolitico-no-fue-aleatorio-un-estudio-desvela-una-gramatica-oculta-en-las-cuevas-del-cantabrico",
-      "title": "El arte rupestre del Paleolítico no fue aleatorio: un estudio desvela una «gramática» oculta en las cuevas del Cantábrico",
-      "summary": "Durante décadas, los arqueólogos han debatido si las pinturas y grabados que nuestros antepasados dejaron en las paredes de las cuevas eran simples actos aislados, fruto de la magia o la superstición, o si por el contrario respondían a un sistema organizado de comunicación, algo…",
-      "url": "https://www.labrujulaverde.com/2026/06/el-arte-rupestre-del-paleolitico-no-fue-aleatorio-un-estudio-desvela-una-gramatica-oculta-en-las-cuevas-del-cantabrico",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/06/10816_2026_9796_Fig2_HTML-copia.png-copia.webp",
-      "publishedAt": "2026-06-24T06:05:41.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/scoperto-santuario-rupestre-minerva-campos-del-paraiso-cava-romana-lapis-specularis/",
-      "title": "Scoperto santuario romano nella cava. Minerva. I pericoli. La saggia signora e il soccorso. I segreti del luogo",
-      "summary": "LA NOTIZIA, L’APPROFONDIMENTO. Impero romano – La scoperta di un santuario rupestre dedicato a Minerva nel territorio di Campos del Paraíso, nella provincia spagnola di Cuenca, sta offrendo nuove chiavi di lettura sulla vita religiosa, economica e sociale della Hispania romana.…",
-      "url": "https://www.stilearte.it/scoperto-santuario-rupestre-minerva-campos-del-paraiso-cava-romana-lapis-specularis/",
-      "image": null,
-      "publishedAt": "2026-06-24T06:01:56.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326001214?dgcid=rss_sd_all",
-      "title": "Protein evidence for animal sacrifice and shared ritual practices in Bronze Age Sanxingdui, Southwest China",
-      "summary": "Publication date: August 2026 Source: Journal of Archaeological Science, Volume 192 Author(s): Xuekai Qi, Ruru Chen, Chengwei Wang, Yue Li, Fei Tang, Zhenbin Xie, Honglin Ran, Qing Xiao, Yulai Chen, Ruoyu Shi, Ganyu Zhang, Chong Wang, Furen Hou, Matthew Collins, Rui Wen",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326001214?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-06-24T05:31:32.679Z",
-      "source": {
-        "id": "sciencedirect-jas",
-        "name": "Journal of Archaeological Science (ScienceDirect)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria",
-        "asia"
-      ]
-    },
-    {
-      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S030544032600141X?dgcid=rss_sd_all",
-      "title": "Ramped pyrolysis radiocarbon dating: First application to Bronze and Iron Age plaster from the Eastern Mediterranean (ca. 1500-800 BCE)",
-      "summary": "Publication date: August 2026 Source: Journal of Archaeological Science, Volume 192 Author(s): Pınar Erdil, Michael W. Dee, Katharina Streit, Margot Kuitems, Lyndelle Webster, Felix Höflmayer, Kerry Allen, Gerard T. Barrett",
-      "url": "https://www.sciencedirect.com/science/article/pii/S030544032600141X?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-06-24T05:31:32.679Z",
-      "source": {
-        "id": "sciencedirect-jas",
-        "name": "Journal of Archaeological Science (ScienceDirect)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003159?dgcid=rss_sd_all",
-      "title": "Plaster production in the Late-Seventh Millennium BCE: the earliest Arabian Neolithic plaster processing pit kilns discovered on GHG0063, Ghagha Island, Abu Dhabi, United Arab Emirates",
-      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Noura Hamad Al Hameli, Richard Thorburn Cuttler, Rémy Crassard, Kevin Lidour, Caterina Zaggia, Ahmed Abdalla Elfaki, Mark Jonathan Beech, Lucie Dingwall, Peter Magee",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26003159?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-06-24T05:31:32.339Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002944?dgcid=rss_sd_all",
-      "title": "The impact of “Romanisation” on agriculture at the ancient Greek colony of Pharos, Hvar Island, Croatia",
-      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Rudolph Alagich, Antonela Barbir, Marina Ugarković, Samantha Greeves, Colin Smith",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002944?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-06-24T05:31:32.339Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "erromatarrak",
-        "greziarrak"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002634?dgcid=rss_sd_all",
-      "title": "Processing Flax by the Walls. Evidence of two ditches from Iron Age (S’Urachi, Sardinia) and Middle Ages (Valencia, Spain)",
-      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Pérez-Jordà Guillem, Carrión Marco Yolanda, Sabato Diego",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002634?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-06-24T05:31:32.339Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "iberia",
-      "topics": [
-        "prehistoria",
-        "erdi-aroa"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X2600235X?dgcid=rss_sd_all",
-      "title": "Characterisation and prehistoric distribution of Piedramuelle flint in the Cantabrian region",
-      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Diego Herrero-Alonso, Antonio Tarriño-Vinagre",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X2600235X?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-06-24T05:31:32.338Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003263?dgcid=rss_sd_all",
-      "title": "105Tracing communities across the islandscape: Monumental architecture and visual network analysis in Talaiotic Iron Age Menorca (Balearic Islands, Spain)",
-      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Alejandra Galmés-Alba",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26003263?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-06-24T05:31:32.338Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "iberia",
-      "topics": [
-        "prehistoria"
       ]
     }
   ]
