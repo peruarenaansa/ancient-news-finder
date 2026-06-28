@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T05:08:29.132Z",
+  "generatedAt": "2026-06-28T05:50:40.417Z",
   "count": 500,
   "sources": [
     {
@@ -13,7 +13,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 465
+      "elapsedMs": 646
     },
     {
       "id": "naiz",
@@ -26,7 +26,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 577
+      "elapsedMs": 951
     },
     {
       "id": "argia-kultura",
@@ -39,7 +39,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 811
+      "elapsedMs": 4094
     },
     {
       "id": "eitb-kultura",
@@ -52,7 +52,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 535
+      "elapsedMs": 974
     },
     {
       "id": "berria-bsky",
@@ -62,10 +62,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2511
+      "elapsedMs": 2543
     },
     {
       "id": "aranzadi-bsky",
@@ -78,7 +78,7 @@
       "kept": 6,
       "droppedOffTopic": 24,
       "droppedModern": 0,
-      "elapsedMs": 2517
+      "elapsedMs": 2652
     },
     {
       "id": "vianako-printzea",
@@ -86,12 +86,9 @@
       "lang": "es",
       "region": "basque",
       "kind": "research",
-      "ok": true,
-      "fetched": 25,
-      "kept": 9,
-      "droppedOffTopic": 3,
-      "droppedModern": 13,
-      "elapsedMs": 1133
+      "ok": false,
+      "error": "Request timed out after 15000ms",
+      "elapsedMs": 49516
     },
     {
       "id": "labrujulaverde",
@@ -99,12 +96,9 @@
       "lang": "es",
       "region": "world",
       "kind": "news",
-      "ok": true,
-      "fetched": 20,
-      "kept": 12,
-      "droppedOffTopic": 0,
-      "droppedModern": 8,
-      "elapsedMs": 1328
+      "ok": false,
+      "error": "Status code 415",
+      "elapsedMs": 5451
     },
     {
       "id": "desperta-ferro",
@@ -117,7 +111,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 4,
-      "elapsedMs": 815
+      "elapsedMs": 1851
     },
     {
       "id": "elpais-cultura",
@@ -130,7 +124,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 515
+      "elapsedMs": 1605
     },
     {
       "id": "lemonde-sciences",
@@ -143,7 +137,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 643
+      "elapsedMs": 857
     },
     {
       "id": "lemonde-archeo",
@@ -156,7 +150,7 @@
       "kept": 10,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 1092
+      "elapsedMs": 1198
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -165,11 +159,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 19,
+      "fetched": 20,
       "kept": 8,
-      "droppedOffTopic": 11,
+      "droppedOffTopic": 12,
       "droppedModern": 0,
-      "elapsedMs": 2692
+      "elapsedMs": 1677
     },
     {
       "id": "inrap-bsky",
@@ -182,7 +176,7 @@
       "kept": 3,
       "droppedOffTopic": 12,
       "droppedModern": 2,
-      "elapsedMs": 2502
+      "elapsedMs": 2497
     },
     {
       "id": "sudouest-culture",
@@ -195,7 +189,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 905
+      "elapsedMs": 1226
     },
     {
       "id": "corriere-cultura",
@@ -208,7 +202,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1825
+      "elapsedMs": 1866
     },
     {
       "id": "archeologiaviva",
@@ -221,7 +215,7 @@
       "kept": 1,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 1476
+      "elapsedMs": 2115
     },
     {
       "id": "stilearte",
@@ -231,10 +225,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 10,
+      "kept": 8,
       "droppedOffTopic": 0,
-      "droppedModern": 0,
-      "elapsedMs": 1535
+      "droppedModern": 2,
+      "elapsedMs": 2010
     },
     {
       "id": "live-science-arch",
@@ -247,7 +241,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2494
+      "elapsedMs": 2446
     },
     {
       "id": "bbc-history",
@@ -260,7 +254,7 @@
       "kept": 0,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1326
+      "elapsedMs": 1622
     },
     {
       "id": "sciencedaily-arch",
@@ -273,7 +267,7 @@
       "kept": 7,
       "droppedOffTopic": 23,
       "droppedModern": 0,
-      "elapsedMs": 1509
+      "elapsedMs": 1638
     },
     {
       "id": "ancient-origins",
@@ -286,7 +280,7 @@
       "kept": 4,
       "droppedOffTopic": 5,
       "droppedModern": 1,
-      "elapsedMs": 1443
+      "elapsedMs": 1479
     },
     {
       "id": "guardian-arch",
@@ -299,7 +293,7 @@
       "kept": 11,
       "droppedOffTopic": 7,
       "droppedModern": 2,
-      "elapsedMs": 1831
+      "elapsedMs": 1818
     },
     {
       "id": "current-archaeology",
@@ -309,10 +303,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 23,
-      "droppedOffTopic": 6,
+      "kept": 24,
+      "droppedOffTopic": 5,
       "droppedModern": 1,
-      "elapsedMs": 1553
+      "elapsedMs": 1463
     },
     {
       "id": "jas-reports",
@@ -325,7 +319,7 @@
       "kept": 7,
       "droppedOffTopic": 2,
       "droppedModern": 21,
-      "elapsedMs": 1565
+      "elapsedMs": 1422
     },
     {
       "id": "plos-one-arch",
@@ -338,7 +332,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1763
+      "elapsedMs": 1667
     },
     {
       "id": "pnas-arch",
@@ -351,7 +345,7 @@
       "kept": 22,
       "droppedOffTopic": 6,
       "droppedModern": 2,
-      "elapsedMs": 2206
+      "elapsedMs": 2476
     },
     {
       "id": "sciencedirect-jas",
@@ -364,7 +358,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 21,
-      "elapsedMs": 1569
+      "elapsedMs": 1527
     },
     {
       "id": "spal-us",
@@ -377,7 +371,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2293
+      "elapsedMs": 2558
     },
     {
       "id": "complutum-ucm",
@@ -385,12 +379,9 @@
       "lang": "es",
       "region": "iberia",
       "kind": "research",
-      "ok": true,
-      "fetched": 15,
-      "kept": 10,
-      "droppedOffTopic": 0,
-      "droppedModern": 5,
-      "elapsedMs": 2428
+      "ok": false,
+      "error": "Request timed out after 15000ms",
+      "elapsedMs": 49502
     },
     {
       "id": "archeoarte",
@@ -403,7 +394,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2423
+      "elapsedMs": 2593
     },
     {
       "id": "cypsela",
@@ -416,7 +407,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2209
+      "elapsedMs": 2336
     },
     {
       "id": "cambridge-antiquity",
@@ -429,7 +420,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2112
+      "elapsedMs": 2424
     },
     {
       "id": "cambridge-caj",
@@ -442,7 +433,7 @@
       "kept": 18,
       "droppedOffTopic": 7,
       "droppedModern": 5,
-      "elapsedMs": 2134
+      "elapsedMs": 2791
     },
     {
       "id": "cambridge-ejarc",
@@ -455,7 +446,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 2158
+      "elapsedMs": 2364
     },
     {
       "id": "aquitania-persee",
@@ -468,7 +459,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3157
+      "elapsedMs": 3250
     },
     {
       "id": "cuadernos-arq-unav",
@@ -481,7 +472,7 @@
       "kept": 19,
       "droppedOffTopic": 2,
       "droppedModern": 9,
-      "elapsedMs": 4141
+      "elapsedMs": 3923
     },
     {
       "id": "veleia-ehu",
@@ -494,7 +485,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3248
+      "elapsedMs": 3410
     },
     {
       "id": "flv-navarra",
@@ -507,7 +498,7 @@
       "kept": 17,
       "droppedOffTopic": 2,
       "droppedModern": 11,
-      "elapsedMs": 2381
+      "elapsedMs": 2548
     },
     {
       "id": "munibe-aa",
@@ -520,7 +511,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 2370
+      "elapsedMs": 2844
     },
     {
       "id": "trabajos-prehistoria",
@@ -533,7 +524,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 2401
+      "elapsedMs": 2643
     },
     {
       "id": "openalex-archaeology",
@@ -546,7 +537,7 @@
       "kept": 13,
       "droppedOffTopic": 8,
       "droppedModern": 9,
-      "elapsedMs": 2413
+      "elapsedMs": 2712
     }
   ],
   "items": [
@@ -8452,6 +8443,241 @@
       "topics": []
     },
     {
+      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326000993?dgcid=rss_sd_all",
+      "title": "Amber workshops in Central Europe during the Early Iron Age. Technology, chemical analyses, and Amber Roads",
+      "summary": "Publication date: July 2026 Source: Journal of Archaeological Science, Volume 191 Author(s): Zuzana Golec Mírová, Martin Golec, Lukáš Kučera, Miloslav Chytráček, Katja Hagemann, Doris Mischka, Michal Dienstpier, Jan Martínek, Vojtěch Zemek, Michal Přichystal, Hana Čižmářová,…",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326000993?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-06-28T05:49:52.436Z",
+      "source": {
+        "id": "sciencedirect-jas",
+        "name": "Journal of Archaeological Science (ScienceDirect)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326001548?dgcid=rss_sd_all",
+      "title": "Old-growth forest and sacred landscape with Middle Neolithic non-megalithic barrows in western Poland during the 4th millennium BCE",
+      "summary": "Publication date: August 2026 Source: Journal of Archaeological Science, Volume 192 Author(s): Danuta Żurkiewicz, Daria Wochal, Iwona Hidebrandt-Radke, Mariusz Lamentowicz, Jakub Niebieszczański, Monika Karpińska-Kołaczek, Piotr Kołaczek",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326001548?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-06-28T05:49:52.435Z",
+      "source": {
+        "id": "sciencedirect-jas",
+        "name": "Journal of Archaeological Science (ScienceDirect)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X2600297X?dgcid=rss_sd_all",
+      "title": "Geochemical study of bituminous mixtures from sickles of the Pre-pottery neolithic B site of Motza (Israel): Composition and origin of bitumen",
+      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): By Jacques Connan, Michael Engel, Renaud Gley, Alex Zumberge, Ferran Borrell, Avraham Levy, Jacob Vardi",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X2600297X?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-06-28T05:49:52.305Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003147?dgcid=rss_sd_all",
+      "title": "Lithic technology and obsidian procurement at Erbaba Höyük: A techno-typological and geochemical perspective on late neolithic exchange networks in Central Anatolia",
+      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): M. Dirican, M. Karakoç, K. Sayıt, C. Atakuman",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26003147?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-06-28T05:49:52.304Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/shorts/objects/finds-tray-coin-hoard/",
+      "title": "Finds Tray: Coin hoard",
+      "summary": "This early medieval coin hoard was discovered near Maldon in Essex, in January 2025, by a metal-detecting group. Found dispersed across a field, its contents comprise 14 silver pennies, all the Long",
+      "url": "https://the-past.com/shorts/objects/finds-tray-coin-hoard/",
+      "image": null,
+      "publishedAt": "2026-06-27T15:00:11.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/shorts/groups/the-gibberd-garden-trust/",
+      "title": "The Gibberd Garden Trust",
+      "summary": "This year marks the 70th anniversary of the creation of the Grade II-listed house and garden at Marsh Lane, Harlow, by the architect Sir Frederick Gibberd and his wife. He is remembered",
+      "url": "https://the-past.com/shorts/groups/the-gibberd-garden-trust/",
+      "image": null,
+      "publishedAt": "2026-06-27T12:00:00.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/news/science-notes-unlocking-iron-age-funerary-traditions-in-scotland/",
+      "title": "Science Notes: Unlocking Iron Age funerary traditions in Scotland",
+      "summary": "Iron Age burial practices in Britain are among the most enigmatic, as few ‘formal’ cemeteries are known from this period (with some exceptions, such as among the Durotriges in Dorset; see CA",
+      "url": "https://the-past.com/news/science-notes-unlocking-iron-age-funerary-traditions-in-scotland/",
+      "image": null,
+      "publishedAt": "2026-06-27T11:45:36.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/news/iron-age-votive-site-uncovered-near-cirencester/",
+      "title": "Iron Age votive site uncovered near Cirencester",
+      "summary": "Archaeological investigations near Cirencester in Gloucestershire have revealed the remains of what may have been a major religious, or ‘votive’, centre dating to the late Iron Age (c.100 BC-AD 43). The first",
+      "url": "https://the-past.com/news/iron-age-votive-site-uncovered-near-cirencester/",
+      "image": null,
+      "publishedAt": "2026-06-27T11:00:54.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/milione-dollari-leggere-papiri-ercolano-intelligenza-artificiale/",
+      "title": "Un milione di dollari a chi leggerà i papiri di Ercolano. Dopo la prima lettura completa di un papiro carbonizzato di Ercolano, la Vesuvius Challenge lancia un premio per decifrare altri rotoli di 2mila anni",
+      "summary": "Per quasi duemila anni sono rimasti lì, ridotti a fragili cilindri di carbone dall’eruzione del Vesuvio del 79 d.C. Sopravvissuti al fuoco ma condannati al silenzio, i papiri di Ercolano hanno rappresentato uno dei più grandi enigmi dell’archeologia mondiale. Ogni tentativo di…",
+      "url": "https://www.stilearte.it/milione-dollari-leggere-papiri-ercolano-intelligenza-artificiale/",
+      "image": null,
+      "publishedAt": "2026-06-27T10:52:52.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/news/archaeological-landscape-revealed-near-newark-on-trent/",
+      "title": "Archaeological landscape revealed near Newark-on-Trent",
+      "summary": "Archaeological investigations in advance of the A46 Newark Bypass scheme in Nottinghamshire have revealed a landscape scattered with features spanning six millennia. Archaeological Management Solutions (AMS) was contracted on behalf of National",
+      "url": "https://the-past.com/news/archaeological-landscape-revealed-near-newark-on-trent/",
+      "image": null,
+      "publishedAt": "2026-06-27T10:15:59.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/news/illicit-distilling-equipment-found-in-ben-lawers-bothy/",
+      "title": "Illicit distilling equipment found in Ben Lawers bothy",
+      "summary": "The recent excavation of a clandestine stone bothy at Ben Lawers National Nature Reserve (NNR) has uncovered a rare piece of a copper still, providing concrete proof that the site was once",
+      "url": "https://the-past.com/news/illicit-distilling-equipment-found-in-ben-lawers-bothy/",
+      "image": null,
+      "publishedAt": "2026-06-27T10:00:40.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "amerika",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/news/world-news-40/",
+      "title": "World news",
+      "summary": "Unusual religious monument uncovered in Egypt Excavations at the ancient Egyptian port city of Pelusium (modern-day Tell el-Farama) have uncovered the remains of a unique 2,000-year-old temple that is believed to have",
+      "url": "https://the-past.com/news/world-news-40/",
+      "image": null,
+      "publishedAt": "2026-06-27T08:45:00.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/news-in-brief/uk-news-in-brief-31/",
+      "title": "UK news in brief",
+      "summary": "Exploring the archaeology of Sandwich Bay The Nautical Archaeology Society has launched a new project: ‘Coastal Pasts – Connecting Community with Coastal Heritage at Sandwich Bay’. This initiative, largely funded by a",
+      "url": "https://the-past.com/news-in-brief/uk-news-in-brief-31/",
+      "image": null,
+      "publishedAt": "2026-06-27T08:30:41.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/mitreo-zerzevan-iscrizione-cristiana-sigillatura-mitraismo/",
+      "title": "La scoperta. Trovano e decifrano scritta all’interno del tempio di Mitra in un forte romano. E scoprono perchè quel culto è così vicino a noi, 2000 anni dopo",
+      "summary": "Impero romano – Per quasi dieci anni quella breve iscrizione incisa nella pietra è rimasta muta. Gli archeologi la osservavano all’ingresso del Mitreo di Zerzevan, la fotografavano, la confrontavano con altri testi dell’Oriente romano, ma nessuno riusciva a comprenderne il…",
+      "url": "https://www.stilearte.it/mitreo-zerzevan-iscrizione-cristiana-sigillatura-mitraismo/",
+      "image": null,
+      "publishedAt": "2026-06-27T08:00:32.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
       "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326001214?dgcid=rss_sd_all",
       "title": "Protein evidence for animal sacrifice and shared ritual practices in Bronze Age Sanxingdui, Southwest China",
       "summary": "Publication date: August 2026 Source: Journal of Archaeological Science, Volume 192 Author(s): Xuekai Qi, Ruru Chen, Chengwei Wang, Yue Li, Fei Tang, Zhenbin Xie, Honglin Ran, Qing Xiao, Yulai Chen, Ruoyu Shi, Ganyu Zhang, Chong Wang, Furen Hou, Matthew Collins, Rui Wen",
@@ -8626,241 +8852,6 @@
       "topics": [
         "erromatarrak",
         "erdi-aroa"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/case-pente-sulmona-ritrovamenti-archeologici-capanne-preistoriche-terme-romane/",
-      "title": "Sulmona, scoperti un complesso termale romano e 52 capanne preistoriche. Perchè in quel punto? Gli scavi, la storia. Le strutture saranno conservate e aperte al pubblico",
-      "summary": "A Case Pente, nella periferia meridionale di Sulmona, in Abruzzo, proseguono le indagini archeologiche che stanno riportando alla luce una delle più articolate sequenze di occupazione del territorio mai documentate nella Valle Peligna. Gli scavi, avviati nel marzo 2023…",
-      "url": "https://www.stilearte.it/case-pente-sulmona-ritrovamenti-archeologici-capanne-preistoriche-terme-romane/",
-      "image": null,
-      "publishedAt": "2026-06-26T12:18:45.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/calcidico-ercolano-riapertura-augusteum/",
-      "title": "Ercolano | Per quasi vent’anni nessuno ha potuto attraversarlo. Riapre il Calcidico dell’Augusteum, luogo dove furono trovate alcune delle statue romane più conosciute al mondo. A Ercolano si torna a entrare nel monumentale ingresso",
-      "summary": "Per quasi due decenni i visitatori hanno potuto soltanto osservarlo da lontano. Oggi il Calcidico dell’Augusteum torna finalmente percorribile, restituendo alla città una delle sue soglie più solenni: il luogo dove iniziava il percorso verso il santuario del culto imperiale e da…",
-      "url": "https://www.stilearte.it/calcidico-ercolano-riapertura-augusteum/",
-      "image": null,
-      "publishedAt": "2026-06-26T09:19:05.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak",
-        "museoak"
-      ]
-    },
-    {
-      "id": "archeologiaviva:https://www.archeologiaviva.it/25611/grotte-di-castelcivita/",
-      "title": "Grotte di Castelcivita: un microcosmo di Preistoria",
-      "summary": "Archeologia Viva n. 238 – luglio/agosto 2026 pp. 18-31 di Simona Arrighi, Jacopo Crezzini, Armando Falcucci, Giulia Marciani, Matteo Rossini e Adriana Moroni a cura di Adriana Moroni foto di Alfio Giannotti e Altri In provincia di Salerno ai piedi dei monti Alburni una cavità…",
-      "url": "https://www.archeologiaviva.it/25611/grotte-di-castelcivita/",
-      "image": null,
-      "publishedAt": "2026-06-26T08:30:58.000Z",
-      "source": {
-        "id": "archeologiaviva",
-        "name": "Archeologia Viva"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326001391?dgcid=rss_sd_all",
-      "title": "Defining local 87 Sr/ 86 Sr baselines using high-resolution bioavailable strontium isoscapes: Implications for short-range prehistoric mobility in southwestern Iberia",
-      "summary": "Publication date: July 2026 Source: Journal of Archaeological Science, Volume 191 Author(s): Döbereiner Chala-Aldana, Leopoldo Pena, Javier Escudero Carrillo, Marta Díaz-Zorita Bonilla",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326001391?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-06-26T05:42:52.770Z",
-      "source": {
-        "id": "sciencedirect-jas",
-        "name": "Journal of Archaeological Science (ScienceDirect)"
-      },
-      "lang": "en",
-      "region": "iberia",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326001032?dgcid=rss_sd_all",
-      "title": "Detecting architectural features and stratigraphic deposits at a Pastoral Neolithic site using ground-penetrating radar",
-      "summary": "Publication date: July 2026 Source: Journal of Archaeological Science, Volume 191 Author(s): Brenna McWhorter Fennessey, Sylvia Wemanya, Audax Z.P. Mabulla, Agness O. Gidna, Mary E. Prendergast, Katherine M. Grillo",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326001032?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-06-26T05:42:52.770Z",
-      "source": {
-        "id": "sciencedirect-jas",
-        "name": "Journal of Archaeological Science (ScienceDirect)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "complutum-ucm:https://revistas.ucm.es/index.php/CMPL/article/view/109585",
-      "title": "Los equipos de molienda rupestre (EMR) en el noroeste ibérico: Hacia una caracterización territorial",
-      "summary": "Este trabajo presenta los resultados de un estudio sistemático sobre más de 170 emplazamientos con Equipos de Molienda Rupestre (EMR) ubicados en el noroeste peninsular analizados en los últimos años. Hasta ahora, la ausencia de estudios detallados dificultaba la comprensión y…",
-      "url": "https://revistas.ucm.es/index.php/CMPL/article/view/109585",
-      "image": null,
-      "publishedAt": "2026-06-26T00:00:00.000Z",
-      "source": {
-        "id": "complutum-ucm",
-        "name": "Complutum (UCM)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "complutum-ucm:https://revistas.ucm.es/index.php/CMPL/article/view/109587",
-      "title": "El cráneo como receptáculo del alma en la Edad del Bronce y I Edad del Hierro en el Suroeste de la Península Ibérica",
-      "summary": "En la presente publicación se analiza el tratamiento especial que recibió el cráneo en varios contextos funerarios de la Edad del Bronce y la I Edad del Hierro en el suroeste de la península ibérica. Tras abordar los casos de estudio, se propone a partir de múltiples paralelos…",
-      "url": "https://revistas.ucm.es/index.php/CMPL/article/view/109587",
-      "image": null,
-      "publishedAt": "2026-06-26T00:00:00.000Z",
-      "source": {
-        "id": "complutum-ucm",
-        "name": "Complutum (UCM)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "amerika"
-      ]
-    },
-    {
-      "id": "complutum-ucm:https://revistas.ucm.es/index.php/CMPL/article/view/109586",
-      "title": "Discursos de poder (también) en femenino en las necrópolis ibéricas del sureste de la península ibérica (siglos VI-III a.n.e.)",
-      "summary": "Este artículo tiene como objetivo proponer nuevas interpretaciones sobre el papel de la mujer en las comunidades de la Edad del Hierro ibérica en el sureste de la Península Ibérica. A partir del estudio de varias necrópolis situadas en esta zona, se propone un modelo de…",
-      "url": "https://revistas.ucm.es/index.php/CMPL/article/view/109586",
-      "image": null,
-      "publishedAt": "2026-06-26T00:00:00.000Z",
-      "source": {
-        "id": "complutum-ucm",
-        "name": "Complutum (UCM)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": []
-    },
-    {
-      "id": "complutum-ucm:https://revistas.ucm.es/index.php/CMPL/article/view/109588",
-      "title": "El papel de las bellotas en la cotidianeidad y en el imaginario de los pueblos prerromanos de la Meseta: el caso de Numancia (s. IV-II a. C.)",
-      "summary": "Este artículo analiza el papel de las bellotas en la vida cotidiana y en el imaginario colectivo de las comunidades meseteñas de la II Edad del Hierro, centrado especialmente en el oppidum de Numancia. A partir del estudio de fuentes clásicas se examina el clima y el consumo de…",
-      "url": "https://revistas.ucm.es/index.php/CMPL/article/view/109588",
-      "image": null,
-      "publishedAt": "2026-06-26T00:00:00.000Z",
-      "source": {
-        "id": "complutum-ucm",
-        "name": "Complutum (UCM)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "complutum-ucm:https://revistas.ucm.es/index.php/CMPL/article/view/109592",
-      "title": "¿Combates incruentos y danzas guerreras en Iberia? Reflexiones y aportaciones desde las fuentes literarias e iconográficas",
-      "summary": "Este trabajo examina la hipótesis de la existencia de combates singulares incruentos y danzas guerreras entre las sociedades ibéricas. A través de una metodología multidisciplinar, combinando el análisis de fuentes literarias grecorromanas con el de las fuentes iconográficas y…",
-      "url": "https://revistas.ucm.es/index.php/CMPL/article/view/109592",
-      "image": null,
-      "publishedAt": "2026-06-26T00:00:00.000Z",
-      "source": {
-        "id": "complutum-ucm",
-        "name": "Complutum (UCM)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "erromatarrak",
-        "greziarrak"
-      ]
-    },
-    {
-      "id": "complutum-ucm:https://revistas.ucm.es/index.php/CMPL/article/view/109593",
-      "title": "La Ossigitania y Ossigi Latonium: estado de la cuestión y propuestas para su definición arqueológica",
-      "summary": "El topónimo pliniano Ossigitania se muestra en la actualidad como un ámbito ambiguo, vagamente definido por las fuentes escritas y por su aparente constatación epigráfica, que lo sitúa en el Alto Guadalquivir. La ubicación y delimitación de este territorio y su teórica capital,…",
-      "url": "https://revistas.ucm.es/index.php/CMPL/article/view/109593",
-      "image": null,
-      "publishedAt": "2026-06-26T00:00:00.000Z",
-      "source": {
-        "id": "complutum-ucm",
-        "name": "Complutum (UCM)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": []
-    },
-    {
-      "id": "complutum-ucm:https://revistas.ucm.es/index.php/CMPL/article/view/109594",
-      "title": "Neomaterialismos: fuentes de cambio para la arqueología",
-      "summary": "Uno de los debates intelectuales más relevantes es el planteado por los nuevos materialismos y realismos en filosofía, sociología y ciencias naturales. Desde una pluralidad de disciplinas, se vindica el papel de los objetos materiales en la producción de mundo y de sociedad, y…",
-      "url": "https://revistas.ucm.es/index.php/CMPL/article/view/109594",
-      "image": null,
-      "publishedAt": "2026-06-26T00:00:00.000Z",
-      "source": {
-        "id": "complutum-ucm",
-        "name": "Complutum (UCM)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "ekialde-hurbila",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "complutum-ucm:https://revistas.ucm.es/index.php/CMPL/article/view/109602",
-      "title": "Martín Almagro-Gorbea. El monumento orientalizante de Pozo Moro (Albacete). Alacant: Publicacions Universitat d’Alacant (Studia Hispano-Phoenicia 12); Albacete: Instituto de Estudios Albacetenses “Don Juan Manuel” (Serie VI – Varios, 31), 2025, 722 páginas. ISBN 978-84-9717-903-4 (Universitat d’Alacant). ISBN 978-84-10056-36-7 (IEA). ISBN 978-84-10056-37-4 (IEA, Libro digital, https://iealbacetenses.dipualba.es/viewer.vm?id=0000100280)",
-      "summary": "",
-      "url": "https://revistas.ucm.es/index.php/CMPL/article/view/109602",
-      "image": null,
-      "publishedAt": "2026-06-26T00:00:00.000Z",
-      "source": {
-        "id": "complutum-ucm",
-        "name": "Complutum (UCM)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": []
-    },
-    {
-      "id": "complutum-ucm:https://revistas.ucm.es/index.php/CMPL/article/view/109607",
-      "title": "Román Rodríguez Calleja. El poblamiento del Bronce Final al Alto Imperio romano en la región de los Torozos (valle medio del Duero): un estudio desde la Arqueología del Paisaje y el análisis estadístico multivariante. Studia Arqueológica nº 104. Universidad de Valladolid. 2024, 404 páginas. ISBN: 978-84-1320-286-0",
-      "summary": "",
-      "url": "https://revistas.ucm.es/index.php/CMPL/article/view/109607",
-      "image": null,
-      "publishedAt": "2026-06-26T00:00:00.000Z",
-      "source": {
-        "id": "complutum-ucm",
-        "name": "Complutum (UCM)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "erromatarrak"
       ]
     }
   ]
