@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T05:59:34.258Z",
+  "generatedAt": "2026-07-02T05:14:33.747Z",
   "count": 500,
   "sources": [
     {
@@ -13,7 +13,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 428
+      "elapsedMs": 700
     },
     {
       "id": "naiz",
@@ -26,7 +26,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 998
+      "elapsedMs": 922
     },
     {
       "id": "argia-kultura",
@@ -39,7 +39,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1172
+      "elapsedMs": 4133
     },
     {
       "id": "eitb-kultura",
@@ -52,7 +52,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 756
+      "elapsedMs": 602
     },
     {
       "id": "berria-bsky",
@@ -62,10 +62,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1779
+      "elapsedMs": 2479
     },
     {
       "id": "aranzadi-bsky",
@@ -78,7 +78,7 @@
       "kept": 5,
       "droppedOffTopic": 25,
       "droppedModern": 0,
-      "elapsedMs": 1703
+      "elapsedMs": 2419
     },
     {
       "id": "vianako-printzea",
@@ -91,7 +91,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1184
+      "elapsedMs": 1280
     },
     {
       "id": "labrujulaverde",
@@ -101,10 +101,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 15,
+      "kept": 14,
       "droppedOffTopic": 0,
-      "droppedModern": 5,
-      "elapsedMs": 1383
+      "droppedModern": 6,
+      "elapsedMs": 1472
     },
     {
       "id": "desperta-ferro",
@@ -117,7 +117,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 3,
-      "elapsedMs": 949
+      "elapsedMs": 1058
     },
     {
       "id": "elpais-cultura",
@@ -127,10 +127,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 2,
-      "droppedOffTopic": 28,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1423
+      "elapsedMs": 1563
     },
     {
       "id": "lemonde-sciences",
@@ -143,7 +143,7 @@
       "kept": 1,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 671
+      "elapsedMs": 763
     },
     {
       "id": "lemonde-archeo",
@@ -156,7 +156,7 @@
       "kept": 10,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 1274
+      "elapsedMs": 1494
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -165,11 +165,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 20,
-      "kept": 7,
-      "droppedOffTopic": 13,
+      "fetched": 18,
+      "kept": 6,
+      "droppedOffTopic": 12,
       "droppedModern": 0,
-      "elapsedMs": 735
+      "elapsedMs": 1202
     },
     {
       "id": "inrap-bsky",
@@ -182,7 +182,7 @@
       "kept": 3,
       "droppedOffTopic": 12,
       "droppedModern": 3,
-      "elapsedMs": 1731
+      "elapsedMs": 2366
     },
     {
       "id": "sudouest-culture",
@@ -192,10 +192,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 0,
+      "kept": 1,
       "droppedOffTopic": 19,
-      "droppedModern": 1,
-      "elapsedMs": 921
+      "droppedModern": 0,
+      "elapsedMs": 1031
     },
     {
       "id": "corriere-cultura",
@@ -208,7 +208,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1268
+      "elapsedMs": 1621
     },
     {
       "id": "archeologiaviva",
@@ -221,7 +221,7 @@
       "kept": 1,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 1624
+      "elapsedMs": 1887
     },
     {
       "id": "stilearte",
@@ -231,10 +231,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 9,
+      "kept": 7,
       "droppedOffTopic": 0,
-      "droppedModern": 1,
-      "elapsedMs": 1574
+      "droppedModern": 3,
+      "elapsedMs": 2068
     },
     {
       "id": "live-science-arch",
@@ -244,10 +244,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 2,
-      "droppedOffTopic": 28,
+      "kept": 3,
+      "droppedOffTopic": 27,
       "droppedModern": 0,
-      "elapsedMs": 1918
+      "elapsedMs": 2272
     },
     {
       "id": "bbc-history",
@@ -258,9 +258,9 @@
       "ok": true,
       "fetched": 10,
       "kept": 0,
-      "droppedOffTopic": 10,
-      "droppedModern": 0,
-      "elapsedMs": 952
+      "droppedOffTopic": 9,
+      "droppedModern": 1,
+      "elapsedMs": 1519
     },
     {
       "id": "sciencedaily-arch",
@@ -273,7 +273,7 @@
       "kept": 7,
       "droppedOffTopic": 23,
       "droppedModern": 0,
-      "elapsedMs": 1198
+      "elapsedMs": 1479
     },
     {
       "id": "ancient-origins",
@@ -286,7 +286,7 @@
       "kept": 4,
       "droppedOffTopic": 5,
       "droppedModern": 1,
-      "elapsedMs": 1060
+      "elapsedMs": 1379
     },
     {
       "id": "guardian-arch",
@@ -299,7 +299,7 @@
       "kept": 11,
       "droppedOffTopic": 7,
       "droppedModern": 2,
-      "elapsedMs": 1363
+      "elapsedMs": 1799
     },
     {
       "id": "current-archaeology",
@@ -309,10 +309,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 20,
-      "droppedOffTopic": 8,
+      "kept": 17,
+      "droppedOffTopic": 11,
       "droppedModern": 2,
-      "elapsedMs": 1136
+      "elapsedMs": 3529
     },
     {
       "id": "jas-reports",
@@ -325,7 +325,7 @@
       "kept": 7,
       "droppedOffTopic": 2,
       "droppedModern": 21,
-      "elapsedMs": 1008
+      "elapsedMs": 1343
     },
     {
       "id": "plos-one-arch",
@@ -338,7 +338,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1259
+      "elapsedMs": 1663
     },
     {
       "id": "pnas-arch",
@@ -351,7 +351,7 @@
       "kept": 21,
       "droppedOffTopic": 6,
       "droppedModern": 3,
-      "elapsedMs": 2176
+      "elapsedMs": 2831
     },
     {
       "id": "sciencedirect-jas",
@@ -364,7 +364,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 21,
-      "elapsedMs": 1091
+      "elapsedMs": 1443
     },
     {
       "id": "spal-us",
@@ -377,7 +377,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 1991
+      "elapsedMs": 2252
     },
     {
       "id": "complutum-ucm",
@@ -400,7 +400,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 1956
+      "elapsedMs": 2685
     },
     {
       "id": "cypsela",
@@ -413,7 +413,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 1737
+      "elapsedMs": 2299
     },
     {
       "id": "cambridge-antiquity",
@@ -426,7 +426,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 1901
+      "elapsedMs": 2370
     },
     {
       "id": "cambridge-caj",
@@ -439,7 +439,7 @@
       "kept": 18,
       "droppedOffTopic": 7,
       "droppedModern": 5,
-      "elapsedMs": 1942
+      "elapsedMs": 2498
     },
     {
       "id": "cambridge-ejarc",
@@ -452,7 +452,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 1951
+      "elapsedMs": 2320
     },
     {
       "id": "aquitania-persee",
@@ -465,7 +465,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2718
+      "elapsedMs": 3160
     },
     {
       "id": "cuadernos-arq-unav",
@@ -478,7 +478,7 @@
       "kept": 19,
       "droppedOffTopic": 2,
       "droppedModern": 9,
-      "elapsedMs": 3092
+      "elapsedMs": 3676
     },
     {
       "id": "veleia-ehu",
@@ -491,7 +491,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 2609
+      "elapsedMs": 3238
     },
     {
       "id": "flv-navarra",
@@ -501,10 +501,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 17,
+      "kept": 18,
       "droppedOffTopic": 2,
-      "droppedModern": 11,
-      "elapsedMs": 1869
+      "droppedModern": 10,
+      "elapsedMs": 2570
     },
     {
       "id": "munibe-aa",
@@ -517,7 +517,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 1851
+      "elapsedMs": 2558
     },
     {
       "id": "trabajos-prehistoria",
@@ -530,7 +530,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 1965
+      "elapsedMs": 2621
     },
     {
       "id": "openalex-archaeology",
@@ -543,7 +543,7 @@
       "kept": 13,
       "droppedOffTopic": 8,
       "droppedModern": 9,
-      "elapsedMs": 1921
+      "elapsedMs": 2603
     }
   ],
   "items": [
@@ -4372,40 +4372,6 @@
       "region": "world",
       "topics": [
         "aurkikuntza"
-      ]
-    },
-    {
-      "id": "guardian-arch:https://www.theguardian.com/science/2026/apr/02/archaeologists-discover-wreck-danish-warship-sunk-admiral-nelson",
-      "title": "Archaeologists discover wreck of Danish warship sunk by Nelson 225 years ago",
-      "summary": "Divers in race against time to unearth wreck of the Dannebroge before seabed becomes construction site More than 200 years after being sunk by Adm Horatio Nelson and the British fleet, a Danish warship has been discovered on the seabed of Copenhagen harbour by marine…",
-      "url": "https://www.theguardian.com/science/2026/apr/02/archaeologists-discover-wreck-danish-warship-sunk-admiral-nelson",
-      "image": "https://i.guim.co.uk/img/media/aac3c077ba59be59d61708d9fb105c28c2bf17d7/115_0_3871_3097/master/3871.jpg?width=140&quality=85&auto=format&fit=max&s=cbb691c83e10bb1a68d6b0f179d0d359",
-      "publishedAt": "2026-04-02T10:42:22.000Z",
-      "source": {
-        "id": "guardian-arch",
-        "name": "The Guardian — Archaeology"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/magazines/current-archaeology-434/",
-      "title": "Current Archaeology 434",
-      "summary": "Sizewell C: tracing 6,000 years of history in Suffolk Buildings of the Temperance movement Unusual ditch burials at Venta Icenorum Woodworking tools of Late Bronze Age Britain Pointing to the past: arrowheads, experimental archaeology and CA awards",
-      "url": "https://the-past.com/magazines/current-archaeology-434/",
-      "image": null,
-      "publishedAt": "2026-04-02T08:55:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
       ]
     },
     {
@@ -8352,6 +8318,194 @@
       "topics": []
     },
     {
+      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326001032?dgcid=rss_sd_all",
+      "title": "Detecting architectural features and stratigraphic deposits at a Pastoral Neolithic site using ground-penetrating radar",
+      "summary": "Publication date: July 2026 Source: Journal of Archaeological Science, Volume 191 Author(s): Brenna McWhorter Fennessey, Sylvia Wemanya, Audax Z.P. Mabulla, Agness O. Gidna, Mary E. Prendergast, Katherine M. Grillo",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326001032?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-07-02T05:13:45.671Z",
+      "source": {
+        "id": "sciencedirect-jas",
+        "name": "Journal of Archaeological Science (ScienceDirect)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326001391?dgcid=rss_sd_all",
+      "title": "Defining local 87 Sr/ 86 Sr baselines using high-resolution bioavailable strontium isoscapes: Implications for short-range prehistoric mobility in southwestern Iberia",
+      "summary": "Publication date: July 2026 Source: Journal of Archaeological Science, Volume 191 Author(s): Döbereiner Chala-Aldana, Leopoldo Pena, Javier Escudero Carrillo, Marta Díaz-Zorita Bonilla",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326001391?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-07-02T05:13:45.670Z",
+      "source": {
+        "id": "sciencedirect-jas",
+        "name": "Journal of Archaeological Science (ScienceDirect)"
+      },
+      "lang": "en",
+      "region": "iberia",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/feature/scotlands-first-warriors-interpreting-evidence-of-conflict-from-the-neolithic-to-the-coming-of-the-romans/",
+      "title": "Scotland’s first warriors: Interpreting evidence of conflict from the Neolithic to the coming of the Romans",
+      "summary": "Interpersonal violence has been a fact of human existence for much of our long history – but how far is this reflected in the archaeological record? With a major new exhibition now open at the National Museum of Scotland, Matthew G Knight and Hannah Boddy examine traces of past…",
+      "url": "https://the-past.com/feature/scotlands-first-warriors-interpreting-evidence-of-conflict-from-the-neolithic-to-the-coming-of-the-romans/",
+      "image": null,
+      "publishedAt": "2026-07-02T05:00:17.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria",
+        "erromatarrak",
+        "museoak"
+      ]
+    },
+    {
+      "id": "sudouest-culture:https://www.sudouest.fr/lot-et-garonne/agen/ce-four-est-encore-plein-de-mystere-sous-l-ancien-cinema-carnot-d-agen-ville-antique-et-ville-medievale-se-melangent-29726920.php",
+      "title": "« Ce four est encore plein de mystère », sous l’ancien cinéma Carnot d’Agen, les fouilles archéologiques dévoilent le passé antique et médiéval de la ville",
+      "summary": "Elles se terminent ce vendredi 3 juillet. Le public pourra venir visiter le chantier ce jeudi. Aucune découverte majeure, mais un enrichissement certain de la connaissance du passé de la cité",
+      "url": "https://www.sudouest.fr/lot-et-garonne/agen/ce-four-est-encore-plein-de-mystere-sous-l-ancien-cinema-carnot-d-agen-ville-antique-et-ville-medievale-se-melangent-29726920.php",
+      "image": null,
+      "publishedAt": "2026-07-01T18:30:00.000Z",
+      "source": {
+        "id": "sudouest-culture",
+        "name": "Sud Ouest — Culture"
+      },
+      "lang": "fr",
+      "region": "basque",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/comment/excavating-the-ca-archive-great-religious-buildings/",
+      "title": "Excavating the CA archive: Great religious buildings",
+      "summary": "Joe Flatman explores over half a century of reports from the past.",
+      "url": "https://the-past.com/comment/excavating-the-ca-archive-great-religious-buildings/",
+      "image": null,
+      "publishedAt": "2026-07-01T17:00:41.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/animals/dinosaurs/antarcticas-first-dinosaur-fossil-belonged-to-a-group-of-the-largest-animals-ever",
+      "title": "Antarctica's first dinosaur fossil belonged to a group of the largest land animals ever",
+      "summary": "Researchers have identified the first-ever dinosaur fossil discovered on Antarctica, revealing it belonged to a titanosaur.",
+      "url": "https://www.livescience.com/animals/dinosaurs/antarcticas-first-dinosaur-fossil-belonged-to-a-group-of-the-largest-animals-ever",
+      "image": "https://cdn.mos.cms.futurecdn.net/x9VjcbjKf6yNENju9kgUnB-1280-80.jpg",
+      "publishedAt": "2026-07-01T16:45:38.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/scavo-archeologico-pirna-sobborgo-medievale/",
+      "title": "Scavano prima di costruire un hotel e sotto il terreno riaffiorano i resti di un quartiere medievale. Che cosa hanno trovato gli archeologi",
+      "summary": "Nelle scorse ore l’Ufficio statale per l’Archeologia della Sassonia (Landesamt für Archäologie Sachsen) ha presentato i primi risultati di uno scavo destinato a lasciare presto il posto a un nuovo complesso alberghiero. Sotto l’edificio demolito gli archeologi hanno riportato…",
+      "url": "https://www.stilearte.it/scavo-archeologico-pirna-sobborgo-medievale/",
+      "image": null,
+      "publishedAt": "2026-07-01T10:14:30.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa",
+        "amerika"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/descubren-que-un-yacimiento-de-irlanda-es-uno-de-los-primeros-asentamientos-urbanos-organizados-de-la-edad-del-bronce-en-europa-occidental",
+      "title": "Descubren que un yacimiento de Irlanda es uno de los primeros asentamientos urbanos organizados de la Edad del Bronce en Europa occidental",
+      "summary": "La investigación, publicada en la revista Antiquity, sitúa a Haughey’s Fort, próximo a Armagh en Irlanda del Norte, como el eje de un paisaje meticulosamente ordenado donde la vida doméstica, la producción artesanal y las prácticas rituales confluyeron a una escala hasta ahora…",
+      "url": "https://www.labrujulaverde.com/2026/07/descubren-que-un-yacimiento-de-irlanda-es-uno-de-los-primeros-asentamientos-urbanos-organizados-de-la-edad-del-bronce-en-europa-occidental",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/Media_1279924_smxx.webp",
+      "publishedAt": "2026-07-01T08:57:58.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/alabarda-trecastell-eta-rame-galles/",
+      "title": "Ma cos’è questo antico oggetto di rame con il manico ancora conservato? Ha 4.500 anni ed è una delle sole 64 conosciute in tutta la Gran Bretagna. L’approfondimento",
+      "summary": "LA NOTIZIA, L’APPROFONDIMENTO – Una lama verdastra affiora dal terreno insieme a frammenti di legno ormai mineralizzati. Gli archeologi rallentano il lavoro, liberano il reperto con piccoli strumenti e comprendono subito di trovarsi davanti a qualcosa di fuori dal comune. La…",
+      "url": "https://www.stilearte.it/alabarda-trecastell-eta-rame-galles/",
+      "image": null,
+      "publishedAt": "2026-07-01T08:34:48.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/neolitico-biodiversita-studio-nature-agricoltura-tradizionale/",
+      "title": "Uomo contro la natura? Macché. Dal Neolitico e per 7.600 anni ha aumentato la biodiversità. Lo studio di Nature che ribalta un luogo comune. Ce ne saranno altri da rivedere?",
+      "summary": "Una ricerca pubblicata su Nature Communications ribalta uno dei luoghi comuni più radicati nel dibattito contemporaneo sul rapporto tra uomo e ambiente. Analizzando l’evoluzione della vegetazione dell’Altopiano svizzero negli ultimi 7.600 anni, un gruppo internazionale di…",
+      "url": "https://www.stilearte.it/neolitico-biodiversita-studio-nature-agricoltura-tradizionale/",
+      "image": null,
+      "publishedAt": "2026-07-01T08:09:42.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/nuovo-cerchio-preistorico-scoperto-machrie-moor-scozia/",
+      "title": "Ma cosa c’è, lì sotto? Indagini geofisiche riportano alla luce un mondo. Un mondo che fiorì tra Neolitico ed Età del Bronzo. A che servivano davvero i megaliti?",
+      "summary": "Una nuova indagine condotta da Historic Environment Scotland (HES) ha portato all’individuazione di un inedito cerchio monumentale sepolto nel sottosuolo di Machrie Moor, uno dei più importanti paesaggi megalitici della Scozia. La scoperta, annunciata il 30 giugno 2026…",
+      "url": "https://www.stilearte.it/nuovo-cerchio-preistorico-scoperto-machrie-moor-scozia/",
+      "image": null,
+      "publishedAt": "2026-07-01T06:06:12.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
       "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326000993?dgcid=rss_sd_all",
       "title": "Amber workshops in Central Europe during the Early Iron Age. Technology, chemical analyses, and Amber Roads",
       "summary": "Publication date: July 2026 Source: Journal of Archaeological Science, Volume 191 Author(s): Zuzana Golec Mírová, Martin Golec, Lukáš Kučera, Miloslav Chytráček, Katja Hagemann, Doris Mischka, Michal Dienstpier, Jan Martínek, Vojtěch Zemek, Michal Přichystal, Hana Čižmářová,…",
@@ -8702,152 +8856,6 @@
       "topics": [
         "prehistoria"
       ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003159?dgcid=rss_sd_all",
-      "title": "Plaster production in the Late-Seventh Millennium BCE: the earliest Arabian Neolithic plaster processing pit kilns discovered on GHG0063, Ghagha Island, Abu Dhabi, United Arab Emirates",
-      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Noura Hamad Al Hameli, Richard Thorburn Cuttler, Rémy Crassard, Kevin Lidour, Caterina Zaggia, Ahmed Abdalla Elfaki, Mark Jonathan Beech, Lucie Dingwall, Peter Magee",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26003159?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-06-30T05:38:43.484Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002944?dgcid=rss_sd_all",
-      "title": "The impact of “Romanisation” on agriculture at the ancient Greek colony of Pharos, Hvar Island, Croatia",
-      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Rudolph Alagich, Antonela Barbir, Marina Ugarković, Samantha Greeves, Colin Smith",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002944?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-06-30T05:38:43.484Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "erromatarrak",
-        "greziarrak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/cavalli-sacrificati-balti-occidentali-mistero/",
-      "title": "Sepolti vivi. Perché un popolo pacifico sacrificava i cavalli? Il mistero degli ultimi pagani d’Europa riemerge da un grande scavo e da una ricerca scientifica",
-      "summary": "Per quale motivo una comunità di agricoltori, allevatori, pescatori, mercanti e piccoli artigiani avrebbe dovuto rinunciare al bene economicamente più prezioso che possedeva? Perché allevare un cavallo per anni, nutrirlo durante i lunghi inverni del Baltico, utilizzarlo nei…",
-      "url": "https://www.stilearte.it/cavalli-sacrificati-balti-occidentali-mistero/",
-      "image": null,
-      "publishedAt": "2026-06-30T03:58:36.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "elpais-cultura:https://elpais.com/cultura/2026-06-30/mary-beard-historiadora-la-ultraderecha-se-esta-apropiando-de-los-romanos.html",
-      "title": "Mary Beard, historiadora: “La ultraderecha se está apropiando de los romanos”",
-      "summary": "La gran divulgadora del mundo antiguo, que publica ‘Clásicos sin filtro’, retrata cómo Trump, como en su tiempo Hitler y Mussolini, lo utilizan símbolo",
-      "url": "https://elpais.com/cultura/2026-06-30/mary-beard-historiadora-la-ultraderecha-se-esta-apropiando-de-los-romanos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/NQ6KKXOW6RAK3EEL6WJ544PTVI.jpg?auth=d6ac720678519ebae50b482aae5bf6ccd250a050ac4ef7a4c04c3276ba85b4d6",
-      "publishedAt": "2026-06-30T03:30:01.000Z",
-      "source": {
-        "id": "elpais-cultura",
-        "name": "El País — Cultura"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "cambridge-antiquity:https://openalex.org/W7166547643",
-      "title": "Haughey’s Fort: a major complex of power, production and ritual in Late Bronze Age Europe",
-      "summary": "Before Navan Fort became the mythological capital of the Irish province of Ulster, construction of the monumental Haughey’s Fort around 1200 BC marked the foundation of an important prehistoric centre. Here, the authors report on research integrating remote sensing, excavation…",
-      "url": "https://doi.org/10.15184/aqy.2026.10382",
-      "image": null,
-      "publishedAt": "2026-06-30T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-antiquity",
-        "name": "Antiquity (Cambridge)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/metal-detector-legge-italia-reperti-archeologici/",
-      "title": "Ho comprato un metal detector. Posso davvero andare a cercare un tesoro in Italia? Cosa dice la legge, cosa rischio e quando ho diritto a un premio",
-      "summary": "Il corriere consegna il pacco in tarda mattinata. All’interno ci sono un’asta telescopica, una bobina di ricerca, una centralina elettronica e un manuale d’uso. Il montaggio richiede pochi minuti. Inserite le batterie, il metal detector è pronto per essere utilizzato. A questo…",
-      "url": "https://www.stilearte.it/metal-detector-legge-italia-reperti-archeologici/",
-      "image": null,
-      "publishedAt": "2026-06-29T22:30:00.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/archaeology/2-000-year-old-scrolls-buried-by-mount-vesuvius-eruption-finally-deciphered-with-help-from-ai",
-      "title": "2,000-year-old scrolls buried by Mount Vesuvius eruption finally deciphered with help from AI",
-      "summary": "Experts have unraveled substantial new text from two carbonized Herculaneum scrolls, including what may be a previously unknown work by a Stoic philosopher.",
-      "url": "https://www.livescience.com/archaeology/2-000-year-old-scrolls-buried-by-mount-vesuvius-eruption-finally-deciphered-with-help-from-ai",
-      "image": "https://cdn.mos.cms.futurecdn.net/9N83hFnTBD99UFMhWfLpj-1280-80.jpg",
-      "publishedAt": "2026-06-29T21:14:58.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/feature/community-and-congregations-exploring-wall-paintings-in-cornish-churches/",
-      "title": "Community and congregations: Exploring wall paintings in Cornish churches",
-      "summary": "Many of Cornwall’s churches preserve centuries-old murals of saints and religious scenes. Laura Miucci shares some of the stories behind these colourful creations, and explores how organised Community Archaeology visits to sites like these can boost the well-being of…",
-      "url": "https://the-past.com/feature/community-and-congregations-exploring-wall-paintings-in-cornish-churches/",
-      "image": null,
-      "publishedAt": "2026-06-29T15:00:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/comment/seeing-red-2/",
-      "title": "Balti curry",
-      "summary": "Does ‘balti’, the Birmingham-created curry named after the steel bowl in which the dish is cooked and served, count as part of the UK’s intangible heritage?",
-      "url": "https://the-past.com/comment/seeing-red-2/",
-      "image": null,
-      "publishedAt": "2026-06-29T13:00:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
     }
   ]
 }
