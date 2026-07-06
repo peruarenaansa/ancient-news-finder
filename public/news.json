@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T05:32:30.503Z",
+  "generatedAt": "2026-07-06T05:49:13.754Z",
   "count": 500,
   "sources": [
     {
@@ -13,7 +13,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 556
+      "elapsedMs": 713
     },
     {
       "id": "naiz",
@@ -26,7 +26,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 594
+      "elapsedMs": 754
     },
     {
       "id": "argia-kultura",
@@ -39,7 +39,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 688
+      "elapsedMs": 3788
     },
     {
       "id": "eitb-kultura",
@@ -52,7 +52,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 557
+      "elapsedMs": 681
     },
     {
       "id": "berria-bsky",
@@ -65,7 +65,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2474
+      "elapsedMs": 3067
     },
     {
       "id": "aranzadi-bsky",
@@ -78,7 +78,7 @@
       "kept": 6,
       "droppedOffTopic": 24,
       "droppedModern": 0,
-      "elapsedMs": 2542
+      "elapsedMs": 3065
     },
     {
       "id": "vianako-printzea",
@@ -91,7 +91,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1007
+      "elapsedMs": 1256
     },
     {
       "id": "labrujulaverde",
@@ -104,7 +104,7 @@
       "kept": 15,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 1421
+      "elapsedMs": 1577
     },
     {
       "id": "desperta-ferro",
@@ -117,7 +117,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 3,
-      "elapsedMs": 858
+      "elapsedMs": 1702
     },
     {
       "id": "elpais-cultura",
@@ -130,7 +130,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 606
+      "elapsedMs": 780
     },
     {
       "id": "lemonde-sciences",
@@ -143,7 +143,7 @@
       "kept": 1,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 814
+      "elapsedMs": 888
     },
     {
       "id": "lemonde-archeo",
@@ -156,7 +156,7 @@
       "kept": 10,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 1269
+      "elapsedMs": 973
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -165,11 +165,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 20,
-      "kept": 8,
+      "fetched": 19,
+      "kept": 7,
       "droppedOffTopic": 12,
       "droppedModern": 0,
-      "elapsedMs": 1098
+      "elapsedMs": 1451
     },
     {
       "id": "inrap-bsky",
@@ -182,7 +182,7 @@
       "kept": 4,
       "droppedOffTopic": 12,
       "droppedModern": 2,
-      "elapsedMs": 2559
+      "elapsedMs": 3068
     },
     {
       "id": "sudouest-culture",
@@ -192,10 +192,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 1,
-      "droppedOffTopic": 19,
+      "kept": 0,
+      "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1077
+      "elapsedMs": 1441
     },
     {
       "id": "corriere-cultura",
@@ -208,7 +208,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1528
+      "elapsedMs": 1753
     },
     {
       "id": "archeologiaviva",
@@ -221,7 +221,7 @@
       "kept": 1,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 1755
+      "elapsedMs": 2123
     },
     {
       "id": "stilearte",
@@ -234,7 +234,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 1,
-      "elapsedMs": 1674
+      "elapsedMs": 2278
     },
     {
       "id": "live-science-arch",
@@ -247,7 +247,7 @@
       "kept": 5,
       "droppedOffTopic": 25,
       "droppedModern": 0,
-      "elapsedMs": 2455
+      "elapsedMs": 3150
     },
     {
       "id": "bbc-history",
@@ -260,7 +260,7 @@
       "kept": 0,
       "droppedOffTopic": 9,
       "droppedModern": 1,
-      "elapsedMs": 1488
+      "elapsedMs": 1780
     },
     {
       "id": "sciencedaily-arch",
@@ -270,10 +270,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 7,
-      "droppedOffTopic": 23,
+      "kept": 8,
+      "droppedOffTopic": 22,
       "droppedModern": 0,
-      "elapsedMs": 1599
+      "elapsedMs": 1854
     },
     {
       "id": "ancient-origins",
@@ -281,12 +281,9 @@
       "lang": "en",
       "region": "world",
       "kind": "news",
-      "ok": true,
-      "fetched": 10,
-      "kept": 4,
-      "droppedOffTopic": 5,
-      "droppedModern": 1,
-      "elapsedMs": 1462
+      "ok": false,
+      "error": "Unable to parse XML.",
+      "elapsedMs": 6418
     },
     {
       "id": "guardian-arch",
@@ -299,7 +296,7 @@
       "kept": 12,
       "droppedOffTopic": 6,
       "droppedModern": 2,
-      "elapsedMs": 1728
+      "elapsedMs": 2174
     },
     {
       "id": "current-archaeology",
@@ -309,10 +306,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 17,
-      "droppedOffTopic": 10,
-      "droppedModern": 3,
-      "elapsedMs": 1482
+      "kept": 15,
+      "droppedOffTopic": 9,
+      "droppedModern": 6,
+      "elapsedMs": 1817
     },
     {
       "id": "jas-reports",
@@ -325,7 +322,7 @@
       "kept": 7,
       "droppedOffTopic": 2,
       "droppedModern": 21,
-      "elapsedMs": 1588
+      "elapsedMs": 2111
     },
     {
       "id": "plos-one-arch",
@@ -338,7 +335,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1556
+      "elapsedMs": 2137
     },
     {
       "id": "pnas-arch",
@@ -351,7 +348,7 @@
       "kept": 21,
       "droppedOffTopic": 6,
       "droppedModern": 3,
-      "elapsedMs": 2048
+      "elapsedMs": 2876
     },
     {
       "id": "sciencedirect-jas",
@@ -364,7 +361,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 21,
-      "elapsedMs": 1587
+      "elapsedMs": 1986
     },
     {
       "id": "spal-us",
@@ -377,7 +374,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2331
+      "elapsedMs": 2692
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +384,7 @@
       "kind": "research",
       "ok": false,
       "error": "Feed not recognized as RSS 1 or 2.",
-      "elapsedMs": 7762
+      "elapsedMs": 8628
     },
     {
       "id": "archeoarte",
@@ -400,7 +397,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2340
+      "elapsedMs": 2955
     },
     {
       "id": "cypsela",
@@ -408,9 +405,12 @@
       "lang": "ca",
       "region": "iberia",
       "kind": "research",
-      "ok": false,
-      "error": "Request timed out after 15000ms",
-      "elapsedMs": 49507
+      "ok": true,
+      "fetched": 8,
+      "kept": 8,
+      "droppedOffTopic": 0,
+      "droppedModern": 0,
+      "elapsedMs": 2817
     },
     {
       "id": "cambridge-antiquity",
@@ -423,7 +423,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2065
+      "elapsedMs": 2862
     },
     {
       "id": "cambridge-caj",
@@ -436,7 +436,7 @@
       "kept": 18,
       "droppedOffTopic": 7,
       "droppedModern": 5,
-      "elapsedMs": 2080
+      "elapsedMs": 2779
     },
     {
       "id": "cambridge-ejarc",
@@ -449,7 +449,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 2056
+      "elapsedMs": 2748
     },
     {
       "id": "aquitania-persee",
@@ -462,7 +462,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 4860
+      "elapsedMs": 3604
     },
     {
       "id": "cuadernos-arq-unav",
@@ -475,7 +475,7 @@
       "kept": 19,
       "droppedOffTopic": 2,
       "droppedModern": 9,
-      "elapsedMs": 3384
+      "elapsedMs": 4077
     },
     {
       "id": "veleia-ehu",
@@ -488,7 +488,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3238
+      "elapsedMs": 3916
     },
     {
       "id": "flv-navarra",
@@ -501,7 +501,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2270
+      "elapsedMs": 3101
     },
     {
       "id": "munibe-aa",
@@ -514,7 +514,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 2285
+      "elapsedMs": 3088
     },
     {
       "id": "trabajos-prehistoria",
@@ -527,7 +527,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 2381
+      "elapsedMs": 2980
     },
     {
       "id": "openalex-archaeology",
@@ -540,7 +540,7 @@
       "kept": 13,
       "droppedOffTopic": 8,
       "droppedModern": 9,
-      "elapsedMs": 2315
+      "elapsedMs": 3109
     }
   ],
   "items": [
@@ -4444,55 +4444,6 @@
       ]
     },
     {
-      "id": "lemonde-archeo:https://www.lemonde.fr/sciences/article/2026/04/06/catacombes-musees-laboratoires-les-restes-humains-des-sujets-sensibles_6677506_1650684.html",
-      "title": "Catacombes, musées, laboratoires : les restes humains, des vestiges pas comme les autres",
-      "summary": "Les catacombes de Paris rouvrent au public mercredi 8 avril après cinq mois de rénovation. L’occasion de s’interroger sur la façon dont les dépouilles humaines sont prises en charge dans les lieux de culture et de recherche. Entre questions éthiques, techniques et juridiques,…",
-      "url": "https://www.lemonde.fr/sciences/article/2026/04/06/catacombes-musees-laboratoires-les-restes-humains-des-sujets-sensibles_6677506_1650684.html",
-      "image": "https://img.lemde.fr/2026/04/03/412/0/6000/3000/644/322/60/0/3e8c314_upload-1-yycwl1k7krsm-7-christophe-bertolin-ip3.JPG",
-      "publishedAt": "2026-04-06T16:00:06.000Z",
-      "source": {
-        "id": "lemonde-archeo",
-        "name": "Le Monde — Archéologie"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": [
-        "museoak"
-      ]
-    },
-    {
-      "id": "lemonde-archeo:https://www.lemonde.fr/sciences/article/2026/04/06/des-restes-d-amerindiens-kalina-guyanais-dans-les-limbes-du-musee-de-l-homme_6677501_1650684.html",
-      "title": "Des restes d’Amérindiens kaliña guyanais dans les limbes du Musée de l’homme",
-      "summary": "La loi française permet désormais la restitution à d’autres Etats de restes humains détenus dans des collections publiques. Mais ce n’est toujours pas le cas pour les territoires ultramarins.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/04/06/des-restes-d-amerindiens-kalina-guyanais-dans-les-limbes-du-musee-de-l-homme_6677501_1650684.html",
-      "image": "https://img.lemde.fr/2026/04/01/482/0/4500/2250/644/322/60/0/e9c5966_upload-1-vxb4ke5rg9pm-mfache-17092024-ce-re-monie-chamanique-au-muse-e-de-l-homme-pour-l-apaisement-des-a-mes-le-monde-france-025.jpg",
-      "publishedAt": "2026-04-06T15:30:09.000Z",
-      "source": {
-        "id": "lemonde-archeo",
-        "name": "Le Monde — Archéologie"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": [
-        "museoak"
-      ]
-    },
-    {
-      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/archeologie/enfance-ce-que-l-archeologie-raconte-des-premiers-ages-de-la-vie_191653?xtor=RSS-4",
-      "title": "Enfance : ce que l'archéologie raconte des premiers âges de la vie",
-      "summary": "Les enfants ont toujours été considérés par les historiens comme des figures secondaires des sociétés anciennes. Des chercheurs ont commencé à traquer leur présence dans les tombeaux, les objets du quotidien ou les représentations artistiques. Leur conclusion : ils n'ont jamais…",
-      "url": "https://www.sciencesetavenir.fr/archeo-paleo/archeologie/enfance-ce-que-l-archeologie-raconte-des-premiers-ages-de-la-vie_191653?xtor=RSS-4",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/03/26/cover-r4x3w1200-69c4f482cf5ec-12109-680216-k2-k1-1620779-jpg.jpg",
-      "publishedAt": "2026-04-06T12:00:00.000Z",
-      "source": {
-        "id": "sciencesetavenir-archeo",
-        "name": "Sciences et Avenir — Archéo & Paléo"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": []
-    },
-    {
       "id": "cambridge-antiquity:https://openalex.org/W7147418232",
       "title": "Impact of climate change on human occupation of the Ecuadorian Amazon over the past 4500 years",
       "summary": "Changes in settlement patterns are often argued to reflect climatic change, which may make certain areas more or less hospitable depending on the adaptability of subsistence practices. This study models the impact of El Niño-Southern Oscillation (ENSO) events on phases of…",
@@ -6761,21 +6712,6 @@
       ]
     },
     {
-      "id": "aranzadi-bsky:https://bsky.app/profile/aranzadi.bsky.social/post/3mit7rcafc52r",
-      "title": "",
-      "summary": "🌿🏡 Oma harana, ondarea bizirik! Josu Narbartek paisaiaren arkeologia ikertu du, harana adibide hartuta, giza eta ingurumen faktoreen arteko erlazioak denbora luzean ulertzeko. 🏠 Etxe, nekazaritza eta ur azpiegiturek osatzen dute kultur paisaia; baina etorkizuna ezjakina da.",
-      "url": "https://bsky.app/profile/aranzadi.bsky.social/post/3mit7rcafc52r",
-      "image": null,
-      "publishedAt": "2026-04-06T12:01:00.000Z",
-      "source": {
-        "id": "aranzadi-bsky",
-        "name": "Aranzadi (Bluesky)"
-      },
-      "lang": "eu",
-      "region": "basque",
-      "topics": []
-    },
-    {
       "id": "vianako-printzea:https://revistas.navarra.es/index.php/PV/article/view/4185",
       "title": "Ser artista en Navarra ¿Una profesión posible?",
       "summary": "",
@@ -8436,6 +8372,137 @@
       "topics": []
     },
     {
+      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326001032?dgcid=rss_sd_all",
+      "title": "Detecting architectural features and stratigraphic deposits at a Pastoral Neolithic site using ground-penetrating radar",
+      "summary": "Publication date: July 2026 Source: Journal of Archaeological Science, Volume 191 Author(s): Brenna McWhorter Fennessey, Sylvia Wemanya, Audax Z.P. Mabulla, Agness O. Gidna, Mary E. Prendergast, Katherine M. Grillo",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326001032?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-07-06T05:49:07.106Z",
+      "source": {
+        "id": "sciencedirect-jas",
+        "name": "Journal of Archaeological Science (ScienceDirect)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326001391?dgcid=rss_sd_all",
+      "title": "Defining local 87 Sr/ 86 Sr baselines using high-resolution bioavailable strontium isoscapes: Implications for short-range prehistoric mobility in southwestern Iberia",
+      "summary": "Publication date: July 2026 Source: Journal of Archaeological Science, Volume 191 Author(s): Döbereiner Chala-Aldana, Leopoldo Pena, Javier Escudero Carrillo, Marta Díaz-Zorita Bonilla",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326001391?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-07-06T05:49:07.105Z",
+      "source": {
+        "id": "sciencedirect-jas",
+        "name": "Journal of Archaeological Science (ScienceDirect)"
+      },
+      "lang": "en",
+      "region": "iberia",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/06/260625060216.htm",
+      "title": "Ancient bees turned tooth sockets into tiny nurseries 20,000 years ago",
+      "summary": "A stunning fossil discovery shows that ancient bees used the empty tooth sockets of mammal bones as tiny nests after owls scattered the bones across a cave floor 20,000 years ago. It's the first known evidence of bees nesting inside animal bones, revealing an astonishingly…",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260625060216.htm",
+      "image": null,
+      "publishedAt": "2026-07-05T19:23:32.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/descubren-en-el-noroeste-de-egipto-sepulcros-sellados-con-losas-que-permanecen-intactos-desde-la-antiguedad-y-una-estela-con-un-hombre-sentado-portando-un-ave",
+      "title": "Descubren en el noroeste de Egipto sepulcros sellados con losas que permanecen intactos desde la Antigüedad y una estela con un hombre sentado portando un ave",
+      "summary": "La misión arqueológica egipcia que trabaja en la ciudad antigua de Marina Al-Alamein, ubicada en la costa noroeste del país, ha logrado un descubrimiento de singular importancia durante las excavaciones realizadas en el yacimiento. Los trabajos de campo han permitido exhumar…",
+      "url": "https://www.labrujulaverde.com/2026/07/descubren-en-el-noroeste-de-egipto-sepulcros-sellados-con-losas-que-permanecen-intactos-desde-la-antiguedad-y-una-estela-con-un-hombre-sentado-portando-un-ave",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/737401577_1435182248643317_4589808883807467335_n.webp",
+      "publishedAt": "2026-07-05T17:17:41.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "egiptoarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/strumento-chirurgico-romano-scoperto-heraclea-sintica-tempio-ercole/",
+      "title": "Impero romano. A Heraclea Sintica trovato un rarissimo e particolare strumento chirurgico di 1800 anni fa. Il tempio di Ercole fungeva forse da centro di cura. A cosa serviva esattamente. Il suo “gemello” è nella Rimini romana?",
+      "summary": "Il reperto, datato al III secolo d.C., è stato portato alla luce in un ambiente adiacente al tempio di Ercole. Si conserva il manico in bronzo di un doppio uncino chirurgico, decorato con anelli in rilievo. Il direttore degli scavi avanza una possibilità affascinante: accanto al…",
+      "url": "https://www.stilearte.it/strumento-chirurgico-romano-scoperto-heraclea-sintica-tempio-ercole/",
+      "image": null,
+      "publishedAt": "2026-07-05T11:02:40.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/perche-alcune-statue-sembrano-prendere-vita-allalba-il-sorprendente-gioco-di-luce-che-gli-antichi-conoscevano-benissimo/",
+      "title": "Perché alcune statue sembrano prendere vita all’alba? Il sorprendente gioco di luce che gli antichi conoscevano benissimo",
+      "summary": "L’alba, oggi come migliaia di anni fa, torna a sfiorare le statue con la stessa luce dorata. Per qualche istante il marmo, freddo e immobile, sembra dimenticare la propria natura: le superfici si scaldano di tonalità che ricordano la pelle, le ombre ridisegnano i lineamenti, gli…",
+      "url": "https://www.stilearte.it/perche-alcune-statue-sembrano-prendere-vita-allalba-il-sorprendente-gioco-di-luce-che-gli-antichi-conoscevano-benissimo/",
+      "image": null,
+      "publishedAt": "2026-07-05T09:41:34.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/review/books/hammer-of-the-gods/",
+      "title": "Hammer of the Gods",
+      "summary": "Don Hollway’s account of the life of the Norse warlord Olaf Tryggvason (king of Norway in the years c.995-1000) covers a period of momentous social and religious change in the lands bordering",
+      "url": "https://the-past.com/review/books/hammer-of-the-gods/",
+      "image": null,
+      "publishedAt": "2026-07-05T09:30:01.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/review/books/in-brief-11/",
+      "title": "In Brief",
+      "summary": "MHM’s round-up of the latest military history releases.",
+      "url": "https://the-past.com/review/books/in-brief-11/",
+      "image": null,
+      "publishedAt": "2026-07-05T08:00:33.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
       "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326000993?dgcid=rss_sd_all",
       "title": "Amber workshops in Central Europe during the Early Iron Age. Technology, chemical analyses, and Amber Roads",
       "summary": "Publication date: July 2026 Source: Journal of Archaeological Science, Volume 191 Author(s): Zuzana Golec Mírová, Martin Golec, Lukáš Kučera, Miloslav Chytráček, Katja Hagemann, Doris Mischka, Michal Dienstpier, Jan Martínek, Vojtěch Zemek, Michal Přichystal, Hana Čižmářová,…",
@@ -8788,70 +8855,6 @@
         "erromatarrak",
         "greziarrak"
       ]
-    },
-    {
-      "id": "desperta-ferro:https://www.despertaferro-ediciones.com/2026/4-de-julio-1776-250-anos-revolucion-declaracion-de-independencia-estados-unidos/",
-      "title": "250 años de la revolución que cambió el mundo",
-      "summary": "En el 250.º aniversario de la Declaración de Independencia de Estados Unidos no recordamos solo el nacimiento de una nueva nación. Recordamos uno de los momentos claves en los que la historia de la Humanidad cambia de dirección. La entrada 250 años de la revolución que cambió el…",
-      "url": "https://www.despertaferro-ediciones.com/2026/4-de-julio-1776-250-anos-revolucion-declaracion-de-independencia-estados-unidos/",
-      "image": null,
-      "publishedAt": "2026-07-02T18:08:33.000Z",
-      "source": {
-        "id": "desperta-ferro",
-        "name": "Desperta Ferro Ediciones"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": []
-    },
-    {
-      "id": "aranzadi-bsky:https://bsky.app/profile/aranzadi.bsky.social/post/3mpojbsbrua2n",
-      "title": "",
-      "summary": "⛏️ Abian dira Aranzadiren udako indusketak! Aranzadiko kideak eta bolondresak lanean ari dira Resan (Andosilla), San Adrian–Lizarraten eta Koskobilon (Olazti). Gure ondare arkeologikoa ikertu, ezagutu eta babesten jarraitzen dugu.",
-      "url": "https://bsky.app/profile/aranzadi.bsky.social/post/3mpojbsbrua2n",
-      "image": null,
-      "publishedAt": "2026-07-02T17:05:00.000Z",
-      "source": {
-        "id": "aranzadi-bsky",
-        "name": "Aranzadi (Bluesky)"
-      },
-      "lang": "eu",
-      "region": "basque",
-      "topics": [
-        "asia"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/descubren-la-funcion-de-las-estelas-de-la-edad-del-hierro-encontradas-a-lo-largo-de-una-ruta-prehistorica-en-el-sur-de-la-peninsula-iberica",
-      "title": "Descubren la función de las estelas de la Edad del Hierro encontradas a lo largo de una ruta prehistórica en el sur de la península Ibérica",
-      "summary": "Un equipo internacional de investigadores, liderado por la Universidad de Sevilla, ha desenterrado en el suroeste de España un complejo funerario que arroja luz sobre uno de los debates más antiguos de la arqueología peninsular: la función de las enigmáticas estelas decoradas de…",
-      "url": "https://www.labrujulaverde.com/2026/07/descubren-la-funcion-de-las-estelas-de-la-edad-del-hierro-encontradas-a-lo-largo-de-una-ruta-prehistorica-en-el-sur-de-la-peninsula-iberica",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/Stela-photograph-for-MDG-article-2.webp",
-      "publishedAt": "2026-07-02T14:50:42.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/medici-malaria-dna-francesco-primo-firenze/",
-      "title": "La scoperta.”Maremma… !”. Per 439 anni abbiamo creduto che fossero omicidi di corte a Firenze. Il Dna racconta un’altra storia sulla morte dei Medici. Ecco cosa hanno trovato",
-      "summary": "Una ricerca internazionale pubblicata su iScience identifica il parassita nelle ossa di Francesco I de’ Medici e del fratello Giovanni. Cade una delle più celebri ipotesi di omicidio del Rinascimento e riaffiora la lunga storia della malaria in Italia. Per oltre quattro secoli…",
-      "url": "https://www.stilearte.it/medici-malaria-dna-francesco-primo-firenze/",
-      "image": null,
-      "publishedAt": "2026-07-02T14:48:47.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
     }
   ]
 }
