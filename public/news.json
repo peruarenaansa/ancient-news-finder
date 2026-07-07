@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T05:49:13.754Z",
+  "generatedAt": "2026-07-07T05:29:03.431Z",
   "count": 500,
   "sources": [
     {
@@ -13,7 +13,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 713
+      "elapsedMs": 582
     },
     {
       "id": "naiz",
@@ -26,7 +26,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 754
+      "elapsedMs": 587
     },
     {
       "id": "argia-kultura",
@@ -39,7 +39,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3788
+      "elapsedMs": 691
     },
     {
       "id": "eitb-kultura",
@@ -52,7 +52,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 681
+      "elapsedMs": 596
     },
     {
       "id": "berria-bsky",
@@ -61,11 +61,11 @@
       "region": "basque",
       "kind": "news",
       "ok": true,
-      "fetched": 30,
+      "fetched": 29,
       "kept": 0,
-      "droppedOffTopic": 30,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 3067
+      "elapsedMs": 2245
     },
     {
       "id": "aranzadi-bsky",
@@ -78,7 +78,7 @@
       "kept": 6,
       "droppedOffTopic": 24,
       "droppedModern": 0,
-      "elapsedMs": 3065
+      "elapsedMs": 2246
     },
     {
       "id": "vianako-printzea",
@@ -91,7 +91,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1256
+      "elapsedMs": 1126
     },
     {
       "id": "labrujulaverde",
@@ -104,7 +104,7 @@
       "kept": 15,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 1577
+      "elapsedMs": 1526
     },
     {
       "id": "desperta-ferro",
@@ -117,7 +117,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 3,
-      "elapsedMs": 1702
+      "elapsedMs": 1343
     },
     {
       "id": "elpais-cultura",
@@ -127,10 +127,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 0,
-      "droppedOffTopic": 30,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 780
+      "elapsedMs": 1152
     },
     {
       "id": "lemonde-sciences",
@@ -140,10 +140,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 1,
-      "droppedOffTopic": 19,
+      "kept": 0,
+      "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 888
+      "elapsedMs": 724
     },
     {
       "id": "lemonde-archeo",
@@ -156,7 +156,7 @@
       "kept": 10,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 973
+      "elapsedMs": 1235
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -169,7 +169,7 @@
       "kept": 7,
       "droppedOffTopic": 12,
       "droppedModern": 0,
-      "elapsedMs": 1451
+      "elapsedMs": 872
     },
     {
       "id": "inrap-bsky",
@@ -182,7 +182,7 @@
       "kept": 4,
       "droppedOffTopic": 12,
       "droppedModern": 2,
-      "elapsedMs": 3068
+      "elapsedMs": 2326
     },
     {
       "id": "sudouest-culture",
@@ -195,7 +195,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1441
+      "elapsedMs": 1054
     },
     {
       "id": "corriere-cultura",
@@ -208,7 +208,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1753
+      "elapsedMs": 1541
     },
     {
       "id": "archeologiaviva",
@@ -221,7 +221,7 @@
       "kept": 1,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 2123
+      "elapsedMs": 1604
     },
     {
       "id": "stilearte",
@@ -232,9 +232,9 @@
       "ok": true,
       "fetched": 10,
       "kept": 8,
-      "droppedOffTopic": 1,
-      "droppedModern": 1,
-      "elapsedMs": 2278
+      "droppedOffTopic": 0,
+      "droppedModern": 2,
+      "elapsedMs": 1784
     },
     {
       "id": "live-science-arch",
@@ -244,10 +244,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 5,
-      "droppedOffTopic": 25,
+      "kept": 4,
+      "droppedOffTopic": 26,
       "droppedModern": 0,
-      "elapsedMs": 3150
+      "elapsedMs": 2105
     },
     {
       "id": "bbc-history",
@@ -258,9 +258,9 @@
       "ok": true,
       "fetched": 10,
       "kept": 0,
-      "droppedOffTopic": 9,
-      "droppedModern": 1,
-      "elapsedMs": 1780
+      "droppedOffTopic": 10,
+      "droppedModern": 0,
+      "elapsedMs": 1317
     },
     {
       "id": "sciencedaily-arch",
@@ -273,7 +273,7 @@
       "kept": 8,
       "droppedOffTopic": 22,
       "droppedModern": 0,
-      "elapsedMs": 1854
+      "elapsedMs": 1463
     },
     {
       "id": "ancient-origins",
@@ -281,9 +281,12 @@
       "lang": "en",
       "region": "world",
       "kind": "news",
-      "ok": false,
-      "error": "Unable to parse XML.",
-      "elapsedMs": 6418
+      "ok": true,
+      "fetched": 10,
+      "kept": 4,
+      "droppedOffTopic": 5,
+      "droppedModern": 1,
+      "elapsedMs": 1347
     },
     {
       "id": "guardian-arch",
@@ -296,7 +299,7 @@
       "kept": 12,
       "droppedOffTopic": 6,
       "droppedModern": 2,
-      "elapsedMs": 2174
+      "elapsedMs": 1662
     },
     {
       "id": "current-archaeology",
@@ -307,9 +310,9 @@
       "ok": true,
       "fetched": 30,
       "kept": 15,
-      "droppedOffTopic": 9,
-      "droppedModern": 6,
-      "elapsedMs": 1817
+      "droppedOffTopic": 8,
+      "droppedModern": 7,
+      "elapsedMs": 1454
     },
     {
       "id": "jas-reports",
@@ -322,7 +325,7 @@
       "kept": 7,
       "droppedOffTopic": 2,
       "droppedModern": 21,
-      "elapsedMs": 2111
+      "elapsedMs": 1386
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +338,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2137
+      "elapsedMs": 1443
     },
     {
       "id": "pnas-arch",
@@ -348,7 +351,7 @@
       "kept": 21,
       "droppedOffTopic": 6,
       "droppedModern": 3,
-      "elapsedMs": 2876
+      "elapsedMs": 1814
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +364,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 21,
-      "elapsedMs": 1986
+      "elapsedMs": 1379
     },
     {
       "id": "spal-us",
@@ -374,7 +377,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2692
+      "elapsedMs": 2277
     },
     {
       "id": "complutum-ucm",
@@ -384,7 +387,7 @@
       "kind": "research",
       "ok": false,
       "error": "Feed not recognized as RSS 1 or 2.",
-      "elapsedMs": 8628
+      "elapsedMs": 7450
     },
     {
       "id": "archeoarte",
@@ -397,7 +400,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2955
+      "elapsedMs": 1926
     },
     {
       "id": "cypsela",
@@ -410,7 +413,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2817
+      "elapsedMs": 2024
     },
     {
       "id": "cambridge-antiquity",
@@ -423,7 +426,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2862
+      "elapsedMs": 1880
     },
     {
       "id": "cambridge-caj",
@@ -436,7 +439,7 @@
       "kept": 18,
       "droppedOffTopic": 7,
       "droppedModern": 5,
-      "elapsedMs": 2779
+      "elapsedMs": 1922
     },
     {
       "id": "cambridge-ejarc",
@@ -449,7 +452,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 2748
+      "elapsedMs": 1863
     },
     {
       "id": "aquitania-persee",
@@ -462,7 +465,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3604
+      "elapsedMs": 2816
     },
     {
       "id": "cuadernos-arq-unav",
@@ -475,7 +478,7 @@
       "kept": 19,
       "droppedOffTopic": 2,
       "droppedModern": 9,
-      "elapsedMs": 4077
+      "elapsedMs": 3026
     },
     {
       "id": "veleia-ehu",
@@ -488,7 +491,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3916
+      "elapsedMs": 2979
     },
     {
       "id": "flv-navarra",
@@ -501,7 +504,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 3101
+      "elapsedMs": 2124
     },
     {
       "id": "munibe-aa",
@@ -514,7 +517,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 3088
+      "elapsedMs": 2221
     },
     {
       "id": "trabajos-prehistoria",
@@ -527,7 +530,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 2980
+      "elapsedMs": 2149
     },
     {
       "id": "openalex-archaeology",
@@ -540,7 +543,7 @@
       "kept": 13,
       "droppedOffTopic": 8,
       "droppedModern": 9,
-      "elapsedMs": 3109
+      "elapsedMs": 2161
     }
   ],
   "items": [
@@ -8372,6 +8375,171 @@
       "topics": []
     },
     {
+      "id": "elpais-cultura:https://elpais.com/cultura/2026-07-07/ulises-llega-cuando-quiere.html",
+      "title": "Ulises llega cuando quiere",
+      "summary": "Siempre quedará el hombre ordinario y la dignidad de lo cotidiano, el saber sumergirse en las cosas comunes para darles un sentido",
+      "url": "https://elpais.com/cultura/2026-07-07/ulises-llega-cuando-quiere.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/5GSKTTPHX5HLXCOXZEQSS7TKLA.jpg?auth=12a8e7df7b5fd55d9369ce1ca139b448221a089394e488cdad4a768bdded968f",
+      "publishedAt": "2026-07-07T03:30:01.000Z",
+      "source": {
+        "id": "elpais-cultura",
+        "name": "El País — Cultura"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "ekialde-hurbila"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/neanderthals/modern-humans-and-neanderthals-may-have-shared-long-term-cultural-continuity",
+      "title": "Neanderthals and modern humans may have shared culture 59,000 years ago in Turkey, study finds",
+      "summary": "Fossils, stone tools and seashells in Turkey show that Neanderthals and the Homo sapiens who moved in later had the same hunting strategies and symbolic traditions even without overlapping at the site, suggesting they may have shared information.",
+      "url": "https://www.livescience.com/archaeology/neanderthals/modern-humans-and-neanderthals-may-have-shared-long-term-cultural-continuity",
+      "image": "https://cdn.mos.cms.futurecdn.net/utoSE5ACGwfAskzKi7eVwT-1280-80.png",
+      "publishedAt": "2026-07-06T22:25:04.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/los-emperadores-romanos-murieron-asesinados-casi-el-doble-que-los-chinos-un-estudio-desvela-la-trampa-militar",
+      "title": "Los emperadores romanos murieron asesinados casi el doble que los chinos: un estudio desvela la «trampa militar»",
+      "summary": "El destino de los emperadores en la antigüedad no fue en absoluto parecido. Mientras que en Roma gobernar solía significar una muerte prematura y violenta, en China los monarcas gozaron de una supervivencia bastante mayor. Así lo constata un estudio publicado por Zhao Dong,…",
+      "url": "https://www.labrujulaverde.com/2026/07/los-emperadores-romanos-murieron-asesinados-casi-el-doble-que-los-chinos-un-estudio-desvela-la-trampa-militar",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/Lawrence_Alma-Tadema_06.webp",
+      "publishedAt": "2026-07-06T17:15:40.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak",
+        "asia"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/shorts/people/sir-lawrence-freedman/",
+      "title": "Sir Lawrence Freedman",
+      "summary": "The academic, historian, and author on war stories, shifting interests, and some memorable moments.",
+      "url": "https://the-past.com/shorts/people/sir-lawrence-freedman/",
+      "image": null,
+      "publishedAt": "2026-07-06T15:00:35.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/inscripciones-en-la-antigua-ciudad-frigia-de-acmonia-revelan-estatuas-portadoras-de-antorchas-durante-la-noche-y-el-poder-de-las-sacerdotisas",
+      "title": "Inscripciones en la antigua ciudad frigia de Acmonia revelan estatuas portadoras de antorchas durante la noche y el poder de las sacerdotisas",
+      "summary": "Investigadores han dado a conocer el descubrimiento de nueve inscripciones en la antigua ciudad de Acmonia, situada en la actual Turquía, que ofrecen una ventana excepcional a la vida cotidiana, las creencias religiosas y las costumbres funerarias de esta urbe durante el Imperio…",
+      "url": "https://www.labrujulaverde.com/2026/07/inscripciones-en-la-antigua-ciudad-frigia-de-acmonia-revelan-estatuas-portadoras-de-antorchas-durante-la-noche-y-el-poder-de-las-sacerdotisas",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/20190918110213820_akmonya-46.webp",
+      "publishedAt": "2026-07-06T12:14:31.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/cuore-mosaico-smyrna-foglia-edera/",
+      "title": "In questo mosaico di 1.500 anni fa è raffigurato un simbolo che ricorda un cuore. Cos’è in realtà? La spiegazione degli archeologi",
+      "summary": "Un pavimento musivo di circa cinque metri per due torna lentamente alla luce durante gli scavi archeologici. Tra una fitta trama di figure geometriche emerge un motivo che, a uno sguardo moderno, ricorda immediatamente un cuore. È davvero il simbolo che oggi associamo all’amore…",
+      "url": "https://www.stilearte.it/cuore-mosaico-smyrna-foglia-edera/",
+      "image": null,
+      "publishedAt": "2026-07-06T10:26:08.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/fare-il-bagno-con-catullo-spiaggia-giamaica-grotte-catullo-sirmione/",
+      "title": "Archeologia al freschissimo. Fare il bagno con Catullo. Sui lastroni dove il blu è dipinto di blu. Alle spalle la grande villa romana. Meraviglioso Garda. Dove si accede e la storia della spiaggia della Giamaica",
+      "summary": "L’acqua è trasparente, fresca e vibrante, assume sfumature turchesi, il fondo è chiaro e pochi metri più in alto si alzano muri costruiti quasi duemila anni fa. È la Giamaica, la celebre spiaggia delle Grotte di Catullo. Qui, in estate, si può fare il bagno, letteralmente ai…",
+      "url": "https://www.stilearte.it/fare-il-bagno-con-catullo-spiaggia-giamaica-grotte-catullo-sirmione/",
+      "image": null,
+      "publishedAt": "2026-07-06T10:05:05.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/la-ciencia-descubre-la-localizacion-exacta-un-estudio-demuestra-que-la-itaca-de-odiseo-nunca-fue-una-isla",
+      "title": "La ciencia descubre la localización exacta: un estudio demuestra que la Ítaca de Odiseo nunca fue una isla",
+      "summary": "La imagen que durante milenios ha sostenido la erudición homérica se desmorona ante la evidencia filológica y geológica. Una investigación publicada en la revista digital Antigone sostiene que el concepto de Ítaca como una isla, mantenido por estudiosos desde la antigüedad, es…",
+      "url": "https://www.labrujulaverde.com/2026/07/la-ciencia-descubre-la-localizacion-exacta-un-estudio-demuestra-que-la-itaca-de-odiseo-nunca-fue-una-isla",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/1280px-Arnold_Bocklin_-_Odysseus_and_Polyphemus-2.webp",
+      "publishedAt": "2026-07-06T09:04:33.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "greziarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/el-tsunami-que-salvo-a-la-ciudad-griega-de-potidea-del-asedio-persa-es-la-primera-ola-gigante-documentada-de-la-historia",
+      "title": "El tsunami que salvó a la ciudad griega de Potidea del asedio persa es la primera ola gigante documentada de la historia",
+      "summary": "El mar Egeo guarda secretos que ni los propios dioses olímpicos podrían imaginar. Bajo sus aguas, las placas tectónicas bailan un peligroso vals que, cada cierto tiempo, sacude la tierra con violencia y desata furias marinas capaces de borrar ciudades del mapa. Pero en el año…",
+      "url": "https://www.labrujulaverde.com/2026/07/el-tsunami-que-salvo-a-la-ciudad-griega-de-potidea-del-asedio-persa-es-la-primera-ola-gigante-documentada-de-la-historia",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/851FAA55-AF13-4E82-A552-DB9D38218838-labrujulaverde.com_.webp",
+      "publishedAt": "2026-07-06T07:44:21.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/lingotto-romano-piombo-brilon-officina-germania/",
+      "title": "Impero romano. Trovano un lingotto di 2000 fa venuto male. “Questo è un bell’indizio. Se è uno scarto, la fabbrica è vicina!”. Ed ecco riemergere l’opificio. A che serviva e il prodotto che funzioni aveva? Rispondono gli archeologi",
+      "summary": "Un oggetto, errore di fusione, abbandonato circa duemila anni fa, è diventato la traccia decisiva per ritrovare il luogo in cui il metallo veniva lavorato. Sulle alture del Sauerland, in Germania, gli archeologi hanno individuato una stazione per la produzione del piombo…",
+      "url": "https://www.stilearte.it/lingotto-romano-piombo-brilon-officina-germania/",
+      "image": null,
+      "publishedAt": "2026-07-06T07:09:21.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
       "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326001032?dgcid=rss_sd_all",
       "title": "Detecting architectural features and stratigraphic deposits at a Pastoral Neolithic site using ground-penetrating radar",
       "summary": "Publication date: July 2026 Source: Journal of Archaeological Science, Volume 191 Author(s): Brenna McWhorter Fennessey, Sylvia Wemanya, Audax Z.P. Mabulla, Agness O. Gidna, Mary E. Prendergast, Katherine M. Grillo",
@@ -8687,173 +8855,6 @@
       "region": "europe",
       "topics": [
         "museoak"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/analisis-del-adn-del-hombre-de-oro-revela-que-unas-pocas-familias-de-elite-gobernaban-la-sociedad-nomada-escita-hace-2500-anos",
-      "title": "Análisis del ADN del “Hombre de oro” revela que unas pocas familias de élite gobernaban la sociedad nómada escita hace 2500 años",
-      "summary": "El hallazgo del Hombre de Oro en los túmulos de Issyk, en Kazajistán, se había convertido en un símbolo nacional y en una de las piezas arqueológicas más relevantes de la estepa euroasiática. Pero hasta ahora, los investigadores desconocían su composición genética y su relación…",
-      "url": "https://www.labrujulaverde.com/2026/07/analisis-del-adn-del-hombre-de-oro-revela-que-unas-pocas-familias-de-elite-gobernaban-la-sociedad-nomada-escita-hace-2500-anos",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/Kazakhstan_P9130265_40084936951.webp",
-      "publishedAt": "2026-07-04T16:17:48.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "ekialde-hurbila"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/el-hallazgo-de-un-lingote-defectuoso-abandonado-lleva-al-descubrimiento-de-un-taller-de-fundicion-de-plomo-de-epoca-romana-en-alemania",
-      "title": "El hallazgo de un lingote defectuoso abandonado lleva al descubrimiento de un taller de fundición de plomo de época romana en Alemania",
-      "summary": "Las primeras excavaciones sistemáticas en un altozano del macizo del Rothaargebirge, próximo a la localidad de Brilon, en el distrito alemán del Alto Sauerland, han permitido documentar un taller metalúrgico de hace dos mil años que los especialistas del Landschaftsverband…",
-      "url": "https://www.labrujulaverde.com/2026/07/el-hallazgo-de-un-lingote-defectuoso-abandonado-lleva-al-descubrimiento-de-un-taller-de-fundicion-de-plomo-de-epoca-romana-en-alemania",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/113455.webp",
-      "publishedAt": "2026-07-04T15:33:26.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "europe",
-      "topics": [
-        "erromatarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/come-mangiavano-antichi-romani-piatti-condivisi/",
-      "title": "Roma. A un certo punto i nostri antichi antenati smisero di mangiare dal proprio piatto. Che cosa stava accadendo ai romani? Cosa si usava, tra moda e comodità, a tavola?",
-      "summary": "Per secoli abbiamo immaginato la cena romana attraverso i grandi banchetti, i triclini, i letti disposti secondo il rango, i servi e le portate spettacolari descritte dagli scrittori antichi. Ma l’archeologia sta raccontando una storia diversa e molto più complessa. Tra i primi…",
-      "url": "https://www.stilearte.it/come-mangiavano-antichi-romani-piatti-condivisi/",
-      "image": null,
-      "publishedAt": "2026-07-04T14:35:01.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/news/cannons-from-the-american-revolution-go-on-display/",
-      "title": "Cannons from the American Revolution go on display",
-      "summary": "A collection of large cannons from the American Revolutionary War has returned to Savannah, Georgia, after several years of conservation work, as part of a project led by the US Army Corps",
-      "url": "https://the-past.com/news/cannons-from-the-american-revolution-go-on-display/",
-      "image": null,
-      "publishedAt": "2026-07-04T09:00:47.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/news/hidden-coins-discovered-beneath-foremast-of-hms-victory/",
-      "title": "Hidden coins discovered beneath foremast of HMS Victory",
-      "summary": "Six coins have been recovered from beneath the foremast of Nelson’s famous flagship during an ongoing conservation project. Over several nights in April, a 750-tonne crane was used to remove the Victory’s",
-      "url": "https://the-past.com/news/hidden-coins-discovered-beneath-foremast-of-hms-victory/",
-      "image": null,
-      "publishedAt": "2026-07-04T08:45:29.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/news/divers-find-wwi-wreck-of-us-coast-guard-cutter/",
-      "title": "Divers find WWI wreck of US Coast Guard cutter",
-      "summary": "A team of divers believe they have identified the wreck of the USCGC Tampa off the English coast. The vessel was one of six United States Coast Guard cutters sent to Europe",
-      "url": "https://the-past.com/news/divers-find-wwi-wreck-of-us-coast-guard-cutter/",
-      "image": null,
-      "publishedAt": "2026-07-04T08:30:02.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/shorts/ideas/war-of-words-doodlebug/",
-      "title": "War of Words – ‘Doodlebug’",
-      "summary": "With Marc DeSantis",
-      "url": "https://the-past.com/shorts/ideas/war-of-words-doodlebug/",
-      "image": null,
-      "publishedAt": "2026-07-04T08:00:16.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/vino-italiano-esportato-gallia-anfore-romane/",
-      "title": "Vino e olio nostrum di duemila anni fa. 7.076 anfore svelano il grande affare dell’Italia in Gallia. Tra i grandi produttori Lazio, Campania, Puglia e Toscana. Poi il “crac”. Che avvenne? Lo spiegano gli studiosi",
-      "summary": "Un nuovo studio quantitativo ricostruisce cinque secoli di commerci tra Italia, Gallia, Hispania e Africa. Il vino italico domina il mercato nella tarda Repubblica, penetra lungo il Rodano e raggiunge persino le fattorie. Ma la conquista romana produce un effetto inatteso: la…",
-      "url": "https://www.stilearte.it/vino-italiano-esportato-gallia-anfore-romane/",
-      "image": null,
-      "publishedAt": "2026-07-04T07:12:15.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003159?dgcid=rss_sd_all",
-      "title": "Plaster production in the Late-Seventh Millennium BCE: the earliest Arabian Neolithic plaster processing pit kilns discovered on GHG0063, Ghagha Island, Abu Dhabi, United Arab Emirates",
-      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Noura Hamad Al Hameli, Richard Thorburn Cuttler, Rémy Crassard, Kevin Lidour, Caterina Zaggia, Ahmed Abdalla Elfaki, Mark Jonathan Beech, Lucie Dingwall, Peter Magee",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26003159?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-07-03T05:08:59.786Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002944?dgcid=rss_sd_all",
-      "title": "The impact of “Romanisation” on agriculture at the ancient Greek colony of Pharos, Hvar Island, Croatia",
-      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Rudolph Alagich, Antonela Barbir, Marina Ugarković, Samantha Greeves, Colin Smith",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002944?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-07-03T05:08:59.786Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "erromatarrak",
-        "greziarrak"
       ]
     }
   ]
