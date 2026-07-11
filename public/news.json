@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T05:29:58.925Z",
+  "generatedAt": "2026-07-11T04:38:15.823Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 6026
+      "elapsedMs": 6647
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 774
+      "elapsedMs": 839
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 979
+      "elapsedMs": 1253
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 651
+      "elapsedMs": 989
     },
     {
       "id": "berria-bsky",
@@ -59,10 +59,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 0,
-      "droppedOffTopic": 30,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 3186
+      "elapsedMs": 3814
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 6,
       "droppedOffTopic": 24,
       "droppedModern": 0,
-      "elapsedMs": 3180
+      "elapsedMs": 3851
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1335
+      "elapsedMs": 1627
     },
     {
       "id": "labrujulaverde",
@@ -98,10 +98,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 19,
+      "kept": 20,
       "droppedOffTopic": 0,
-      "droppedModern": 1,
-      "elapsedMs": 1665
+      "droppedModern": 0,
+      "elapsedMs": 1727
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 3,
-      "elapsedMs": 1846
+      "elapsedMs": 1941
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1172
+      "elapsedMs": 1890
     },
     {
       "id": "lemonde-sciences",
@@ -137,10 +137,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 1,
-      "droppedOffTopic": 19,
+      "kept": 2,
+      "droppedOffTopic": 18,
       "droppedModern": 0,
-      "elapsedMs": 987
+      "elapsedMs": 1197
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 11,
       "droppedOffTopic": 6,
       "droppedModern": 3,
-      "elapsedMs": 983
+      "elapsedMs": 1921
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +162,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 18,
+      "fetched": 19,
       "kept": 5,
-      "droppedOffTopic": 13,
+      "droppedOffTopic": 14,
       "droppedModern": 0,
-      "elapsedMs": 1408
+      "elapsedMs": 1696
     },
     {
       "id": "inrap-bsky",
@@ -175,11 +175,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 19,
+      "fetched": 20,
       "kept": 3,
-      "droppedOffTopic": 14,
+      "droppedOffTopic": 15,
       "droppedModern": 2,
-      "elapsedMs": 3174
+      "elapsedMs": 3802
     },
     {
       "id": "sudouest-culture",
@@ -192,7 +192,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1230
+      "elapsedMs": 2074
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2098
+      "elapsedMs": 2299
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 1,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 1941
+      "elapsedMs": 2814
     },
     {
       "id": "stilearte",
@@ -228,10 +228,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 9,
+      "kept": 5,
       "droppedOffTopic": 0,
-      "droppedModern": 1,
-      "elapsedMs": 2123
+      "droppedModern": 5,
+      "elapsedMs": 2763
     },
     {
       "id": "live-science-arch",
@@ -241,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 3,
-      "droppedOffTopic": 27,
+      "kept": 4,
+      "droppedOffTopic": 26,
       "droppedModern": 0,
-      "elapsedMs": 3101
+      "elapsedMs": 3891
     },
     {
       "id": "bbc-history",
@@ -254,10 +254,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 1,
-      "droppedOffTopic": 9,
+      "kept": 0,
+      "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 2074
+      "elapsedMs": 2347
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +270,7 @@
       "kept": 8,
       "droppedOffTopic": 22,
       "droppedModern": 0,
-      "elapsedMs": 1850
+      "elapsedMs": 2314
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 4,
       "droppedOffTopic": 5,
       "droppedModern": 1,
-      "elapsedMs": 2118
+      "elapsedMs": 2459
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 12,
       "droppedOffTopic": 6,
       "droppedModern": 2,
-      "elapsedMs": 2446
+      "elapsedMs": 2750
     },
     {
       "id": "current-archaeology",
@@ -309,7 +309,7 @@
       "kept": 16,
       "droppedOffTopic": 5,
       "droppedModern": 9,
-      "elapsedMs": 2050
+      "elapsedMs": 4598
     },
     {
       "id": "jas-reports",
@@ -322,7 +322,7 @@
       "kept": 10,
       "droppedOffTopic": 5,
       "droppedModern": 15,
-      "elapsedMs": 2139
+      "elapsedMs": 2464
     },
     {
       "id": "plos-one-arch",
@@ -332,10 +332,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 0,
-      "droppedOffTopic": 30,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2371
+      "elapsedMs": 2723
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 20,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 2861
+      "elapsedMs": 3225
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +361,7 @@
       "kept": 8,
       "droppedOffTopic": 2,
       "droppedModern": 20,
-      "elapsedMs": 2274
+      "elapsedMs": 2571
     },
     {
       "id": "spal-us",
@@ -374,7 +374,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 3108
+      "elapsedMs": 3569
     },
     {
       "id": "complutum-ucm",
@@ -384,7 +384,7 @@
       "kind": "research",
       "ok": false,
       "error": "Request timed out after 15000ms",
-      "elapsedMs": 49509
+      "elapsedMs": 49508
     },
     {
       "id": "archeoarte",
@@ -397,7 +397,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2987
+      "elapsedMs": 3561
     },
     {
       "id": "cypsela",
@@ -410,7 +410,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3108
+      "elapsedMs": 3526
     },
     {
       "id": "cambridge-antiquity",
@@ -423,7 +423,7 @@
       "kept": 18,
       "droppedOffTopic": 3,
       "droppedModern": 9,
-      "elapsedMs": 2689
+      "elapsedMs": 3542
     },
     {
       "id": "cambridge-caj",
@@ -436,7 +436,7 @@
       "kept": 19,
       "droppedOffTopic": 7,
       "droppedModern": 4,
-      "elapsedMs": 3122
+      "elapsedMs": 3482
     },
     {
       "id": "cambridge-ejarc",
@@ -449,7 +449,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 2895
+      "elapsedMs": 3329
     },
     {
       "id": "aquitania-persee",
@@ -462,7 +462,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3679
+      "elapsedMs": 4446
     },
     {
       "id": "cuadernos-arq-unav",
@@ -475,7 +475,7 @@
       "kept": 20,
       "droppedOffTopic": 2,
       "droppedModern": 8,
-      "elapsedMs": 4487
+      "elapsedMs": 4976
     },
     {
       "id": "veleia-ehu",
@@ -488,7 +488,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 4220
+      "elapsedMs": 5004
     },
     {
       "id": "flv-navarra",
@@ -501,7 +501,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2979
+      "elapsedMs": 3731
     },
     {
       "id": "munibe-aa",
@@ -514,7 +514,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 3097
+      "elapsedMs": 3783
     },
     {
       "id": "trabajos-prehistoria",
@@ -527,7 +527,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 3128
+      "elapsedMs": 3797
     },
     {
       "id": "openalex-archaeology",
@@ -540,7 +540,7 @@
       "kept": 13,
       "droppedOffTopic": 8,
       "droppedModern": 9,
-      "elapsedMs": 3137
+      "elapsedMs": 3701
     }
   ],
   "items": [
@@ -4346,36 +4346,6 @@
       "topics": [
         "erromatarrak"
       ]
-    },
-    {
-      "id": "repubblica-cultura:https://www.repubblica.it/robinson/2026/04/12/news/aurelio_picca_mario_schifano_quadro_ritrovato_dipinto_in_prigione_madonna-425277614/?rss",
-      "title": "La Regina dei carcerati: come ho ritrovato la Madonna dipinta da Mario Schifano in prigione",
-      "summary": "Una grande tela conservata per decenni in un penitenziario del frusinate, dedicata dal pittore ai compagni reclusi. Qui lo scrittore racconta come ne ha seguito le tracce. E ricostruisce la vita tumultuosa del grande artista",
-      "url": "https://www.repubblica.it/robinson/2026/04/12/news/aurelio_picca_mario_schifano_quadro_ritrovato_dipinto_in_prigione_madonna-425277614/?rss",
-      "image": "https://www.repstatic.it/content/nazionale/img/2026/04/11/195313891-bed186d5-25e4-49a9-827a-50778613acc2.jpg",
-      "publishedAt": "2026-04-12T04:00:00.000Z",
-      "source": {
-        "id": "repubblica-cultura",
-        "name": "La Repubblica — Cultura"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "guardian-arch:https://www.theguardian.com/science/2026/apr/11/dice-discovery-start-of-gambling-native-americans-archaeology",
-      "title": "Native Americans were gambling with dice 6,000 years earlier than anyone else, study says",
-      "summary": "Archaeological record suggests hunter gatherers were playing games of chance at the end of the last ice age Native American hunter gatherers were using dice for gaming and gambling more than 6,000 years before the practice appeared anywhere else, a new study argues. It says dice…",
-      "url": "https://www.theguardian.com/science/2026/apr/11/dice-discovery-start-of-gambling-native-americans-archaeology",
-      "image": "https://i.guim.co.uk/img/media/8a9e793b98cf9b2f8cd27a7ef90a81e8f4615623/0_27_1446_1157/master/1446.jpg?width=140&quality=85&auto=format&fit=max&s=09fe5cf7565668404a62172abbb41d99",
-      "publishedAt": "2026-04-11T11:00:47.000Z",
-      "source": {
-        "id": "guardian-arch",
-        "name": "The Guardian — Archaeology"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
     },
     {
       "id": "cambridge-caj:https://openalex.org/W7151361545",
@@ -8323,6 +8293,227 @@
       "topics": []
     },
     {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003159?dgcid=rss_sd_all",
+      "title": "Plaster production in the Late-Seventh Millennium BCE: the earliest Arabian Neolithic plaster processing pit kilns discovered on GHG0063, Ghagha Island, Abu Dhabi, United Arab Emirates",
+      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Noura Hamad Al Hameli, Richard Thorburn Cuttler, Rémy Crassard, Kevin Lidour, Caterina Zaggia, Ahmed Abdalla Elfaki, Mark Jonathan Beech, Lucie Dingwall, Peter Magee",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26003159?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-07-11T04:37:28.746Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002944?dgcid=rss_sd_all",
+      "title": "The impact of “Romanisation” on agriculture at the ancient Greek colony of Pharos, Hvar Island, Croatia",
+      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Rudolph Alagich, Antonela Barbir, Marina Ugarković, Samantha Greeves, Colin Smith",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002944?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-07-11T04:37:28.746Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "erromatarrak",
+        "greziarrak"
+      ]
+    },
+    {
+      "id": "lemonde-sciences:https://www.lemonde.fr/sciences/article/2026/07/11/les-expositions-et-rendez-vous-scientifiques-a-voir-pendant-l-ete_6722622_1650684.html",
+      "title": "Les expositions et rendez-vous scientifiques à voir pendant l’été",
+      "summary": "Que ce soit par temps pluvieux ou caniculaire, ou tout simplement pour le plaisir de s’instruire pendant l’été, le service Sciences du « Monde » vous propose sa sélection d’événements à découvrir, de l’archéologie à la chimie, en passant par la photographie. Sans oublier…",
+      "url": "https://www.lemonde.fr/sciences/article/2026/07/11/les-expositions-et-rendez-vous-scientifiques-a-voir-pendant-l-ete_6722622_1650684.html",
+      "image": "https://img.lemde.fr/2026/07/07/147/0/1916/958/644/322/60/0/fa618fe_upload-1-or7z2j70ln0x-renanc2019-venus-4vuescstephane-lancelot-inrap.jpg",
+      "publishedAt": "2026-07-11T03:00:20.000Z",
+      "source": {
+        "id": "lemonde-sciences",
+        "name": "Le Monde — Sciences"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/fare-il-bagno-con-catullo-spiaggia-giamaica-grotte-catullo-sirmione/",
+      "title": "Fare il bagno con Catullo a Sirmione: la spiaggia della Giamaica tra le rovine romane",
+      "summary": "L’acqua è trasparente, fresca e vibrante, assume sfumature turchesi, il fondo è chiaro e pochi metri più in alto si alzano muri costruiti quasi duemila anni fa. È la Giamaica, la celebre spiaggia delle Grotte di Catullo. Qui, in estate, si può fare il bagno, letteralmente ai…",
+      "url": "https://www.stilearte.it/fare-il-bagno-con-catullo-spiaggia-giamaica-grotte-catullo-sirmione/",
+      "image": null,
+      "publishedAt": "2026-07-11T02:36:28.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/torre-mozza-pavimentazione-sotto-mare/",
+      "title": "Il mistero della spiaggia in Toscana con il fondale che sembra una strada romana: ecco dove si trova",
+      "summary": "Entrate in mare convinti di sentire soltanto la sabbia sotto i piedi. L’acqua è limpida, il fondale degrada dolcemente e nulla lascia immaginare ciò che accadrà pochi metri più avanti. All’improvviso, sotto i piedi, qualcosa cambia. La consistenza soffice della spiaggia scompare…",
+      "url": "https://www.stilearte.it/torre-mozza-pavimentazione-sotto-mare/",
+      "image": null,
+      "publishedAt": "2026-07-11T01:53:38.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/medieval-babies-and-adults-buried-together-in-sweden-were-not-related-archaeologists-discover-raising-big-questions-about-early-christian-burial-practices",
+      "title": "Medieval babies and adults buried together in Sweden were not related, archaeologists discover — raising big questions about early Christian burial practices",
+      "summary": "In an unexpected discovery, researchers found that three medieval Swedish cemeteries held children buried with unrelated adults.",
+      "url": "https://www.livescience.com/archaeology/medieval-babies-and-adults-buried-together-in-sweden-were-not-related-archaeologists-discover-raising-big-questions-about-early-christian-burial-practices",
+      "image": "https://cdn.mos.cms.futurecdn.net/rEWyU7NSyHmumYt8Gciw7f-1280-80.png",
+      "publishedAt": "2026-07-10T18:57:14.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "erdi-aroa",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "berria-bsky:https://bsky.app/profile/berria.eus/post/3mqcdjzmpwc2j",
+      "title": "",
+      "summary": "Osasuna: gutxiago sufritzeko helburua du. Talde gorritxoak hasi ditu lan saioak. Entrenatzaile berria du taldeak: Luis Miguel Ramis. Celtaren aurka jokatuko du ligako lehen partida, Balaidos futbol zelaian. Oraingoz ez du fitxaketarik egin. https://b.eus/4916c430DL",
+      "url": "https://bsky.app/profile/berria.eus/post/3mqcdjzmpwc2j",
+      "image": null,
+      "publishedAt": "2026-07-10T14:15:00.000Z",
+      "source": {
+        "id": "berria-bsky",
+        "name": "Berria (Bluesky)"
+      },
+      "lang": "eu",
+      "region": "basque",
+      "topics": []
+    },
+    {
+      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353292",
+      "title": "The effect of social media interaction on consumer engagement: The role of psychological ownership",
+      "summary": "by Yue Yin, Chunjia Han, Yushan Chen Social media interaction plays a crucial role in shaping consumer–brand relationships and enhancing engagement behavior. Drawing on social exchange theory, this study investigates how social media interaction fosters psychological ownership,…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353292",
+      "image": null,
+      "publishedAt": "2026-07-10T14:00:00.000Z",
+      "source": {
+        "id": "plos-one-arch",
+        "name": "PLOS ONE — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "ekialde-hurbila"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/scoperta-archeologica-fabbrica-sale-piscina-torta-roma/",
+      "title": "Un orologio-bussola nelle ceramiche. L’enigma dell’antica fabbrica del sale di Roma risolto grazie al magnetismo. La scoperta a Piscina Torta",
+      "summary": "Una notevole ricerca scientifica ha appena svelato i segreti cronologici di Piscina Torta, un immenso sito archeologico di oltre 20 ettari situato nei pressi di Ostia, a circa 30 chilometri a sud-ovest dal centro di Roma. Considerato una vera e propria fabbrica del sale della…",
+      "url": "https://www.stilearte.it/scoperta-archeologica-fabbrica-sale-piscina-torta-roma/",
+      "image": null,
+      "publishedAt": "2026-07-10T11:34:13.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/la-ley-contra-el-pelo-largo-en-la-roma-del-ano-416-por-que-el-imperio-romano-prohibio-las-melenas",
+      "title": "La ley contra el pelo largo en la Roma del año 416: ¿Por qué el Imperio romano prohibió las melenas?",
+      "summary": "En el año 416, los emperadores Honorio y Teodosio II promulgaron una ley que prohibía llevar el pelo largo en la ciudad de Roma y sus alrededores. Esta norma, que también vetaba el uso de vestidos de pieles, ha intrigado a los historiadores durante décadas. ¿Por qué el poder…",
+      "url": "https://www.labrujulaverde.com/2026/07/la-ley-contra-el-pelo-largo-en-la-roma-del-ano-416-por-que-el-imperio-romano-prohibio-las-melenas",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/A23CEA1A-5086-4972-labrujulaverde.com-B2DB-6FDDCCC828A9.webp",
+      "publishedAt": "2026-07-10T10:35:08.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/tre-re-assiri-dimenticati-scoperta-tavolette/",
+      "title": "Tre re assiri dimenticati riemergono dopo 2.700 anni: la clamorosa scoperta nascosta tra alcune tavolette cuneiformi",
+      "summary": "Per secoli gli studiosi hanno creduto di conoscere la successione dei sovrani dell’Impero assiro. Oggi, grazie a una nuova lettura di antiche tavolette cuneiformi, emergono tre nomi mai identificati prima. Non è stato necessario scavare una nuova città o aprire una tomba reale:…",
+      "url": "https://www.stilearte.it/tre-re-assiri-dimenticati-scoperta-tavolette/",
+      "image": null,
+      "publishedAt": "2026-07-10T10:22:19.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/objetos-de-poder-en-tumbas-de-reyes-los-anillos-de-la-elite-micenica-y-minoica-estaban-forjados-con-hierro-de-meteoritos",
+      "title": "Objetos de poder en tumbas de reyes: los anillos de la élite micénica y minoica estaban forjados con hierro de meteoritos",
+      "summary": "Durante cinco años, un equipo franco-griego ha recorrido diecinueve museos y treinta y tres yacimientos arqueológicos para resolver un enigma que llevaba décadas sin respuesta: ¿usaron los micénicos y los minoicos hierro de meteoritos para fabricar sus objetos, igual que…",
+      "url": "https://www.labrujulaverde.com/2026/07/objetos-de-poder-en-tumbas-de-reyes-los-anillos-de-la-elite-micenica-y-minoica-estaban-forjados-con-hierro-de-meteoritos",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/1-s2.0-S0305440326001524-gr2_lrg.webp",
+      "publishedAt": "2026-07-10T09:18:10.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "greziarrak",
+        "museoak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/descubren-en-tablillas-cuneiformes-los-nombres-de-tres-reyes-del-imperio-asirio-de-los-siglos-x-al-viii-ac-hasta-ahora-desconocidos",
+      "title": "Descubren en tablillas cuneiformes los nombres de tres reyes del Imperio Asirio de los siglos X al VIII a.C. hasta ahora desconocidos",
+      "summary": "La imagen de un reino asirio estable, con una línea dinástica ordenada y sucesiones mayoritariamente pacíficas de padre a hijo, ha sido durante décadas el relato predominante entre los especialistas del antiguo Oriente Próximo. Pero el hallazgo publicado recientemente en el…",
+      "url": "https://www.labrujulaverde.com/2026/07/descubren-en-tablillas-cuneiformes-los-nombres-de-tres-reyes-del-imperio-asirio-de-los-siglos-x-al-viii-ac-hasta-ahora-desconocidos",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/YN-5_Rm_75_obv.webp",
+      "publishedAt": "2026-07-10T08:04:00.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "ekialde-hurbila",
+        "aurkikuntza"
+      ]
+    },
+    {
       "id": "live-science-arch:https://www.livescience.com/archaeology/vikings/dirty-button-unearthed-by-metal-detectorist-turns-out-to-be-a-rare-900-year-old-coin-from-norways-last-viking-king-magnus-barefoot",
       "title": "Dirty 'button' unearthed by metal detectorist turns out to be a rare 900-year-old coin from Norway's last Viking king, Magnus Barefoot",
       "summary": "A rare coin from the reign of Magnus Barefoot — sometimes called Norway's last Viking king, was mistaken for a button before researchers realized it was the first of its kind found on Norwegian soil.",
@@ -8669,192 +8860,6 @@
       "url": "https://www.stilearte.it/come-passavano-estate-antichi-romani/",
       "image": null,
       "publishedAt": "2026-07-09T00:57:11.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "cuadernos-arq-unav:https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/55480",
-      "title": "Martínez Chico, David (2025). Los tesoros imperiales de Hispania. Moneda, metal y riqueza. Servicio de Investigación Prehistórica del Museo de Prehistoria de Valencia, Serie de Trabajos Varios, n.º 132. Museu de Prehistòria de València-Diputació de Valènc",
-      "summary": "Book Review",
-      "url": "https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/55480",
-      "image": null,
-      "publishedAt": "2026-07-08T22:00:00.000Z",
-      "source": {
-        "id": "cuadernos-arq-unav",
-        "name": "Cuadernos de Arqueología — Univ. de Navarra"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "prehistoria",
-        "museoak"
-      ]
-    },
-    {
-      "id": "cuadernos-arq-unav:https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/55205",
-      "title": "El miliario augústeo de la legio «IIII Macedonica» en Castiliscar: revisión epigráfica, material y patrimonial",
-      "summary": "Este trabajo revisa el miliario augústeo de Castiliscar atribuido a la legio IIII Macedonica mediante autopsia directa y documentación fotogramétrica. El análisis de los dos fragmentos conservados en los fondos de Arqueología de la Dirección General de Cultura-Institución…",
-      "url": "https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/55205",
-      "image": null,
-      "publishedAt": "2026-07-08T22:00:00.000Z",
-      "source": {
-        "id": "cuadernos-arq-unav",
-        "name": "Cuadernos de Arqueología — Univ. de Navarra"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "erromatarrak",
-        "iberiarrak",
-        "museoak"
-      ]
-    },
-    {
-      "id": "cuadernos-arq-unav:https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/55023",
-      "title": "Los olcades en la tradición hagiográfica de Eugenio de Toledo",
-      "summary": "El pueblo prerromano de los olcades, cuya ubicación geográf ica exacta desconocemos, es mencionado por los historiadores grecorromanos en contadas ocasiones y siempre en el contexto del dominio car taginés en la península ibérica y los prolegómenos de la Segunda Guerra Púnica.…",
-      "url": "https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/55023",
-      "image": null,
-      "publishedAt": "2026-07-08T22:00:00.000Z",
-      "source": {
-        "id": "cuadernos-arq-unav",
-        "name": "Cuadernos de Arqueología — Univ. de Navarra"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "erromatarrak",
-        "greziarrak"
-      ]
-    },
-    {
-      "id": "cuadernos-arq-unav:https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/54510",
-      "title": "Inteligencia artificial generativa y documentación sintética en el estudio del arte rupestre",
-      "summary": "La aplicación del machine learning (ML) al estudio del ar te rupestre se ve condicionada por la limitada disponibilidad de conjuntos de datos amplios y representativos. Este trabajo analiza el potencial de la inteligencia artificial (IA) generativa para producir documentación…",
-      "url": "https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/54510",
-      "image": null,
-      "publishedAt": "2026-07-08T22:00:00.000Z",
-      "source": {
-        "id": "cuadernos-arq-unav",
-        "name": "Cuadernos de Arqueología — Univ. de Navarra"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "cuadernos-arq-unav:https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/54124",
-      "title": "Molino de época romana procedente del Alto de la Cruz (Cortes, Navarra)",
-      "summary": "El artículo da a conocer un molino manual circular de arenisca de época romana, para la molienda del cereal, depositado en el Ayuntamiento de Cortes, de Navarra en el año 1944. La pieza, que ha permanecido inédita hasta la actualidad, aporta nueva información sobre la presencia…",
-      "url": "https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/54124",
-      "image": null,
-      "publishedAt": "2026-07-08T22:00:00.000Z",
-      "source": {
-        "id": "cuadernos-arq-unav",
-        "name": "Cuadernos de Arqueología — Univ. de Navarra"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "erromatarrak",
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "cuadernos-arq-unav:https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/53702",
-      "title": "Principios metodológicos para el estudio del proceso de implantación urbana y territorial en el noreste de la «provincia Citerior». El caso de la ciudad romanade Iesso (Guissona, Catalunya)",
-      "summary": "El presente artículo desarrolla una propuesta metodológica para el estudio del proceso de ocupación romano a escala urbana y territorial en el nordeste de la provincia Citerior, utilizando el caso de la ciudad romana de Iesso (actual Guissona, Lleida). Para este fin, se propone…",
-      "url": "https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/53702",
-      "image": null,
-      "publishedAt": "2026-07-08T22:00:00.000Z",
-      "source": {
-        "id": "cuadernos-arq-unav",
-        "name": "Cuadernos de Arqueología — Univ. de Navarra"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/feature/from-biplane-to-b-52/",
-      "title": "From biplane to B-52",
-      "summary": "In the second part of our special feature, Graham Goodlad examines the changes in design and technology that underpinned the 20th-century transformation of US airpower.",
-      "url": "https://the-past.com/feature/from-biplane-to-b-52/",
-      "image": null,
-      "publishedAt": "2026-07-08T19:10:15.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/feature/us-airpower/",
-      "title": "US airpower",
-      "summary": "Onwards and upwards a timeline tracing the developing fortunes and many incarnations of America's air force in the 2oth century.",
-      "url": "https://the-past.com/feature/us-airpower/",
-      "image": null,
-      "publishedAt": "2026-07-08T19:05:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "amerika"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/feature/american-thunderbolt/",
-      "title": "American thunderbolt",
-      "summary": "In the first part of our special feature, Graham Goodlad charts the development of America’s air-arm from its earliest beginnings, while in our second article he focuses on the hardware deployed by American forces.",
-      "url": "https://the-past.com/feature/american-thunderbolt/",
-      "image": null,
-      "publishedAt": "2026-07-08T19:00:03.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/en-el-lugar-donde-se-encontraron-los-primeros-enterramientos-humanos-un-craneo-revela-el-primer-apunalamiento-documentado-en-el-paleolitico-medio-hace-145000-anos",
-      "title": "En el lugar donde se encontraron los primeros enterramientos humanos, un cráneo revela el primer apuñalamiento documentado en el Paleolítico medio hace 145000 años",
-      "summary": "La cueva de Qafzeh, en el actual Israel, ha devuelto a la luz uno de los conjuntos fósiles más relevantes para trazar los primeros pasos de Homo sapiens fuera de África, pero un nuevo examen del cráneo conocido como Qafzeh 25 ha añadido una arista inesperada a su historia: una…",
-      "url": "https://www.labrujulaverde.com/2026/07/en-el-lugar-donde-se-encontraron-los-primeros-enterramientos-humanos-un-craneo-revela-el-primer-apunalamiento-documentado-en-el-paleolitico-medio-hace-145000-anos",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/Eingang_der_Qafzeh-Hohle.webp",
-      "publishedAt": "2026-07-08T17:32:00.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "ekialde-hurbila"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/che-cos-e-questo-oggetto-romano-mestolo-scoperta-magna/",
-      "title": "Che cosa sarà mai questo oggetto? È appena riemerso dagli scavi e ha quasi 2.000 anni. Apparteneva a un ufficiale dell’esercito romano",
-      "summary": "Se qualcuno lo trovasse in un campo, probabilmente lo scambierebbe per un pezzo di ferro ormai senza valore. La ruggine lo ha deformato, il tempo lo ha ricoperto di incrostazioni e solo un occhio esperto riesce a intuire che cosa fosse in origine. Eppure l’oggetto appena…",
-      "url": "https://www.stilearte.it/che-cos-e-questo-oggetto-romano-mestolo-scoperta-magna/",
-      "image": null,
-      "publishedAt": "2026-07-08T17:14:55.000Z",
       "source": {
         "id": "stilearte",
         "name": "Stile Arte — Archeologia"
