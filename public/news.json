@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T04:38:15.823Z",
+  "generatedAt": "2026-07-12T04:47:29.906Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 6647
+      "elapsedMs": 7037
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 839
+      "elapsedMs": 831
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1253
+      "elapsedMs": 939
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 989
+      "elapsedMs": 825
     },
     {
       "id": "berria-bsky",
@@ -59,10 +59,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3814
+      "elapsedMs": 4134
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 6,
       "droppedOffTopic": 24,
       "droppedModern": 0,
-      "elapsedMs": 3851
+      "elapsedMs": 4111
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1627
+      "elapsedMs": 4222
     },
     {
       "id": "labrujulaverde",
@@ -96,12 +96,9 @@
       "lang": "es",
       "region": "world",
       "kind": "news",
-      "ok": true,
-      "fetched": 20,
-      "kept": 20,
-      "droppedOffTopic": 0,
-      "droppedModern": 0,
-      "elapsedMs": 1727
+      "ok": false,
+      "error": "Status code 415",
+      "elapsedMs": 7195
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +111,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 3,
-      "elapsedMs": 1941
+      "elapsedMs": 1511
     },
     {
       "id": "elpais-cultura",
@@ -123,11 +120,11 @@
       "region": "iberia",
       "kind": "news",
       "ok": true,
-      "fetched": 30,
+      "fetched": 29,
       "kept": 1,
-      "droppedOffTopic": 29,
+      "droppedOffTopic": 28,
       "droppedModern": 0,
-      "elapsedMs": 1890
+      "elapsedMs": 811
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +137,7 @@
       "kept": 2,
       "droppedOffTopic": 18,
       "droppedModern": 0,
-      "elapsedMs": 1197
+      "elapsedMs": 873
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +150,7 @@
       "kept": 11,
       "droppedOffTopic": 6,
       "droppedModern": 3,
-      "elapsedMs": 1921
+      "elapsedMs": 1523
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +159,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 19,
+      "fetched": 18,
       "kept": 5,
-      "droppedOffTopic": 14,
+      "droppedOffTopic": 13,
       "droppedModern": 0,
-      "elapsedMs": 1696
+      "elapsedMs": 1132
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +176,7 @@
       "kept": 3,
       "droppedOffTopic": 15,
       "droppedModern": 2,
-      "elapsedMs": 3802
+      "elapsedMs": 4160
     },
     {
       "id": "sudouest-culture",
@@ -192,7 +189,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 2074
+      "elapsedMs": 1400
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +202,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2299
+      "elapsedMs": 2193
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +215,7 @@
       "kept": 1,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 2814
+      "elapsedMs": 2624
     },
     {
       "id": "stilearte",
@@ -228,10 +225,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 5,
+      "kept": 6,
       "droppedOffTopic": 0,
-      "droppedModern": 5,
-      "elapsedMs": 2763
+      "droppedModern": 4,
+      "elapsedMs": 2769
     },
     {
       "id": "live-science-arch",
@@ -241,10 +238,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 4,
-      "droppedOffTopic": 26,
+      "kept": 5,
+      "droppedOffTopic": 25,
       "droppedModern": 0,
-      "elapsedMs": 3891
+      "elapsedMs": 4084
     },
     {
       "id": "bbc-history",
@@ -257,7 +254,7 @@
       "kept": 0,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 2347
+      "elapsedMs": 2452
     },
     {
       "id": "sciencedaily-arch",
@@ -267,10 +264,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 8,
-      "droppedOffTopic": 22,
+      "kept": 9,
+      "droppedOffTopic": 21,
       "droppedModern": 0,
-      "elapsedMs": 2314
+      "elapsedMs": 2604
     },
     {
       "id": "ancient-origins",
@@ -283,7 +280,7 @@
       "kept": 4,
       "droppedOffTopic": 5,
       "droppedModern": 1,
-      "elapsedMs": 2459
+      "elapsedMs": 2658
     },
     {
       "id": "guardian-arch",
@@ -296,7 +293,7 @@
       "kept": 12,
       "droppedOffTopic": 6,
       "droppedModern": 2,
-      "elapsedMs": 2750
+      "elapsedMs": 3101
     },
     {
       "id": "current-archaeology",
@@ -309,7 +306,7 @@
       "kept": 16,
       "droppedOffTopic": 5,
       "droppedModern": 9,
-      "elapsedMs": 4598
+      "elapsedMs": 2786
     },
     {
       "id": "jas-reports",
@@ -319,10 +316,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 10,
+      "kept": 9,
       "droppedOffTopic": 5,
-      "droppedModern": 15,
-      "elapsedMs": 2464
+      "droppedModern": 16,
+      "elapsedMs": 2861
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +332,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2723
+      "elapsedMs": 2990
     },
     {
       "id": "pnas-arch",
@@ -348,7 +345,7 @@
       "kept": 20,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 3225
+      "elapsedMs": 3478
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +358,7 @@
       "kept": 8,
       "droppedOffTopic": 2,
       "droppedModern": 20,
-      "elapsedMs": 2571
+      "elapsedMs": 3045
     },
     {
       "id": "spal-us",
@@ -374,7 +371,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 3569
+      "elapsedMs": 3746
     },
     {
       "id": "complutum-ucm",
@@ -382,9 +379,12 @@
       "lang": "es",
       "region": "iberia",
       "kind": "research",
-      "ok": false,
-      "error": "Request timed out after 15000ms",
-      "elapsedMs": 49508
+      "ok": true,
+      "fetched": 30,
+      "kept": 19,
+      "droppedOffTopic": 1,
+      "droppedModern": 10,
+      "elapsedMs": 5109
     },
     {
       "id": "archeoarte",
@@ -397,7 +397,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 3561
+      "elapsedMs": 3737
     },
     {
       "id": "cypsela",
@@ -410,7 +410,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3526
+      "elapsedMs": 3872
     },
     {
       "id": "cambridge-antiquity",
@@ -420,10 +420,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 18,
-      "droppedOffTopic": 3,
+      "kept": 19,
+      "droppedOffTopic": 2,
       "droppedModern": 9,
-      "elapsedMs": 3542
+      "elapsedMs": 3725
     },
     {
       "id": "cambridge-caj",
@@ -436,7 +436,7 @@
       "kept": 19,
       "droppedOffTopic": 7,
       "droppedModern": 4,
-      "elapsedMs": 3482
+      "elapsedMs": 3778
     },
     {
       "id": "cambridge-ejarc",
@@ -449,7 +449,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 3329
+      "elapsedMs": 3732
     },
     {
       "id": "aquitania-persee",
@@ -462,7 +462,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 4446
+      "elapsedMs": 4916
     },
     {
       "id": "cuadernos-arq-unav",
@@ -475,7 +475,7 @@
       "kept": 20,
       "droppedOffTopic": 2,
       "droppedModern": 8,
-      "elapsedMs": 4976
+      "elapsedMs": 5237
     },
     {
       "id": "veleia-ehu",
@@ -488,7 +488,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 5004
+      "elapsedMs": 4876
     },
     {
       "id": "flv-navarra",
@@ -501,7 +501,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 3731
+      "elapsedMs": 3928
     },
     {
       "id": "munibe-aa",
@@ -514,7 +514,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 3783
+      "elapsedMs": 3939
     },
     {
       "id": "trabajos-prehistoria",
@@ -527,7 +527,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 3797
+      "elapsedMs": 4021
     },
     {
       "id": "openalex-archaeology",
@@ -540,7 +540,7 @@
       "kept": 13,
       "droppedOffTopic": 8,
       "droppedModern": 9,
-      "elapsedMs": 3701
+      "elapsedMs": 3993
     }
   ],
   "items": [
@@ -4309,42 +4309,6 @@
       "region": "europe",
       "topics": [
         "erdi-aroa"
-      ]
-    },
-    {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/04/260412071005.htm",
-      "title": "110,000-year-old discovery rewrites human history: Neanderthals and Homo sapiens worked together",
-      "summary": "The first-ever published research on Tinshemet Cave reveals that Neanderthals and Homo sapiens in the mid-Middle Paleolithic Levant not only coexisted but actively interacted, sharing technology, lifestyles, and burial customs. These interactions fostered cultural exchange,…",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260412071005.htm",
-      "image": null,
-      "publishedAt": "2026-04-12T11:32:05.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria",
-        "ekialde-hurbila",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/como-una-jirafa-con-la-que-lorenzo-de-medici-quiso-emular-a-julio-cesar-termino-salvando-a-la-familia",
-      "title": "Cómo una jirafa con la que Lorenzo de Médici quiso emular a Julio César terminó salvando a la familia",
-      "summary": "Es casi seguro que ningún lector sabrá qué animal es un camelopardo. En sentido estricto, ninguno; pero, si lo decimos en latín, se trata de la denominación científica de una especie: Giraffa camelopardalis, que así llamaron los romanos a la jirafa, al considerarla un híbrido de…",
-      "url": "https://www.labrujulaverde.com/2026/04/como-una-jirafa-con-la-que-lorenzo-de-medici-quiso-emular-a-julio-cesar-termino-salvando-a-la-familia",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/Giorgio_Vasari_-_Lorenzo_the_Magnificent_receives_the_tribute_of_the_ambassadors_-_Google_Art_Project.webp",
-      "publishedAt": "2026-04-12T09:11:02.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "erromatarrak"
       ]
     },
     {
@@ -8293,6 +8257,107 @@
       "topics": []
     },
     {
+      "id": "stilearte:https://www.stilearte.it/costruiscono-garage-trovano-cuore-della-citta-romana-lago-costanza/",
+      "title": "Costruiscono un garage e trovano il cuore della città romana: sul Lago di Costanza riemerge Tasgetium. Cos’era",
+      "summary": "Nel Canton Turgovia, in Svizzera, un cantiere edilizio ha restituito il settore finora sconosciuto del principale vicus romano affacciato sul Reno. È emersa la strada che attraversava il centro abitato, con cinque fasi costruttive, case-bottega perfettamente conservate dal…",
+      "url": "https://www.stilearte.it/costruiscono-garage-trovano-cuore-della-citta-romana-lago-costanza/",
+      "image": null,
+      "publishedAt": "2026-07-12T00:32:04.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/frammento-oro-eta-del-bronzo-norfolk-tesoro/",
+      "title": "Un sottile nastro d’oro riemerge dopo tremila anni: era un gioiello e una “banca personale”",
+      "summary": "Il frammento, scoperto da un appassionato con il metal detector nei pressi di Hilborough, potrebbe entrare nelle collezioni del Norwich Castle Museum. È una preziosa testimonianza di un’epoca in cui l’oro non era soltanto ornamento, ma anche protezione, prestigio sociale e…",
+      "url": "https://www.stilearte.it/frammento-oro-eta-del-bronzo-norfolk-tesoro/",
+      "image": null,
+      "publishedAt": "2026-07-11T23:25:41.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa",
+        "museoak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/dna-tombe-medievali-sepolture-bisome-bambini-estranei/",
+      "title": "Il Dna cambia la storia delle sepolture medievali: adulti e bambini sepolti insieme erano quasi sempre estranei",
+      "summary": "Uno studio pubblicato su Science Advances ribalta una convinzione radicata nell’archeologia medievale. Analizzando il DNA antico di 142 individui provenienti da tre cimiteri della Svezia, il team guidato dalla paleogenetista Maja Krzewińska dimostra che le sepolture bisome,…",
+      "url": "https://www.stilearte.it/dna-tombe-medievali-sepolture-bisome-bambini-estranei/",
+      "image": null,
+      "publishedAt": "2026-07-11T22:50:14.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/genius-romano-vindolanda-fortuna-scultura/",
+      "title": "Sollevano una pietra e vedono il volto di una scultura romana di 1300 anni fa. Una divinità nel forte. Chi rappresenta",
+      "summary": "Un bassorilievo in arenaria, rimasto nascosto sotto il pavimento di una caserma del IV secolo lungo il Vallo di Adriano, torna alla luce in uno dei siti archeologici più importanti della Britannia romana. Gli studiosi lo identificano con un Genius, lo spirito protettore del…",
+      "url": "https://www.stilearte.it/genius-romano-vindolanda-fortuna-scultura/",
+      "image": null,
+      "publishedAt": "2026-07-11T22:03:00.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/some-people-called-it-horrifying-dinner-with-king-tut-author-on-using-egyptian-mummification-techniques-on-a-modern-day-human-body",
+      "title": "'Some people called it horrifying': 'Dinner with King Tut' author on using Egyptian mummification techniques on a modern-day human body",
+      "summary": "\"A lot of the book was actually me floundering around, failing to complete the projects or figuring out what I was doing wrong,\" author Sam Kean says about his experimental archaeology adventures.",
+      "url": "https://www.livescience.com/archaeology/some-people-called-it-horrifying-dinner-with-king-tut-author-on-using-egyptian-mummification-techniques-on-a-modern-day-human-body",
+      "image": "https://cdn.mos.cms.futurecdn.net/4bCjppo5MpfmXyb74ZU5NV-1280-80.png",
+      "publishedAt": "2026-07-11T14:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "egiptoarrak"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/ancient-egyptians/he-looked-like-ramses-the-great-how-experimental-archaeologists-used-ancient-techniques-to-mummify-a-modern-day-person",
+      "title": "'He looked like Ramses the Great': How experimental archaeologists used ancient techniques to mummify a modern-day person",
+      "summary": "In his new book, \"Dinner with King Tut: How Rogue Archaeologists Are Re-creating the Sights, Sounds, Smells, and Tastes of Lost Civilizations,\" science writer Sam Kean explains the odd and intriguing world of experimental archaeologists.",
+      "url": "https://www.livescience.com/archaeology/ancient-egyptians/he-looked-like-ramses-the-great-how-experimental-archaeologists-used-ancient-techniques-to-mummify-a-modern-day-person",
+      "image": "https://cdn.mos.cms.futurecdn.net/pUxnHDbS3uPSFfxr7oFQJ7-1280-80.jpg",
+      "publishedAt": "2026-07-11T14:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003159?dgcid=rss_sd_all",
       "title": "Plaster production in the Late-Seventh Millennium BCE: the earliest Arabian Neolithic plaster processing pit kilns discovered on GHG0063, Ghagha Island, Abu Dhabi, United Arab Emirates",
       "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Noura Hamad Al Hameli, Richard Thorburn Cuttler, Rémy Crassard, Kevin Lidour, Caterina Zaggia, Ahmed Abdalla Elfaki, Mark Jonathan Beech, Lucie Dingwall, Peter Magee",
@@ -8358,6 +8423,23 @@
       "region": "europe",
       "topics": [
         "erromatarrak"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/07/260709160637.htm",
+      "title": "Rare fossil goose rewrites the story of New Zealand's giant birds",
+      "summary": "Scientists have discovered a previously unknown fossil goose that challenges a decades-old theory about the evolution of New Zealand's birds. The find suggests the country's giant flightless geese evolved from much more recent arrivals, revealing a far more dynamic evolutionary…",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260709160637.htm",
+      "image": null,
+      "publishedAt": "2026-07-11T01:57:14.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
       ]
     },
     {
@@ -8512,6 +8594,36 @@
         "ekialde-hurbila",
         "aurkikuntza"
       ]
+    },
+    {
+      "id": "cambridge-antiquity:https://openalex.org/W7167894449",
+      "title": "An early lead-smelting tradition in north-east Iberia: a short-lived innovation of the third millennium BC",
+      "summary": "The polymetallic origins and non-linear development of metallurgy have only relatively recently attracted more scholarly attention. Within this framework, the identification of three lead-smelting slag nodules in early second-millennium BC contexts at Minferri (Catalonia, Spain)…",
+      "url": "https://doi.org/10.15184/aqy.2026.10388",
+      "image": null,
+      "publishedAt": "2026-07-10T00:00:00.000Z",
+      "source": {
+        "id": "cambridge-antiquity",
+        "name": "Antiquity (Cambridge)"
+      },
+      "lang": "en",
+      "region": "iberia",
+      "topics": []
+    },
+    {
+      "id": "cambridge-antiquity:https://openalex.org/W7167919223",
+      "title": "Białowieża Forest and its archaeological heritage – CORRIGENDUM",
+      "summary": "Białowieża Forest and its archaeological heritage – CORRIGENDUM",
+      "url": "https://doi.org/10.15184/aqy.2026.10383",
+      "image": null,
+      "publishedAt": "2026-07-10T00:00:00.000Z",
+      "source": {
+        "id": "cambridge-antiquity",
+        "name": "Antiquity (Cambridge)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
     },
     {
       "id": "live-science-arch:https://www.livescience.com/archaeology/vikings/dirty-button-unearthed-by-metal-detectorist-turns-out-to-be-a-rare-900-year-old-coin-from-norways-last-viking-king-magnus-barefoot",
@@ -8748,126 +8860,6 @@
       "topics": [
         "erromatarrak",
         "ekialde-hurbila"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003445?dgcid=rss_sd_all",
-      "title": "Plant consumption versus agricultural production in the Jianghan Plain, central China: Starch and phytolith evidence from the Neolithic Zhaizishan site",
-      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Muslim Khan, Binggui Sun, Ling Yao, Xin Jia, Chengqiu Lu, Yuzhang Yang",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26003445?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-07-09T05:31:19.791Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria",
-        "asia"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003640?dgcid=rss_sd_all",
-      "title": "On the Amber Road. Bioarchaeological and archaeometric studies of raw materials identified in the artifacts from an Early Iron Age biritual cemetery in Opole-Groszowice (southern Poland)",
-      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Tomasz Purowski, Agata Hałuszko, Paweł Gan, Barbara Łydżba-Kopczyńska, Kamil Nowak, Mateusz Osiadacz, Grzegorz Skrzyński",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26003640?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-07-09T05:31:19.790Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003494?dgcid=rss_sd_all",
-      "title": "Dietary transition in the western inner Asian mountain corridor: preliminary stable isotope perspective from early iron age Fergana populations",
-      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Nasibilo Kambarov, Guanhan Chen, Xinying Zhou, Junchi Liu, Junjie Zhang, Keliang Zhao, Jiacheng Ma, Bakhtiyor Abdullayev, Jianxin Wang, Xue Ling, Liangliang Hou, Dongyue Zhao,…",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26003494?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-07-09T05:31:19.790Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X2600355X?dgcid=rss_sd_all",
-      "title": "Investigating cremation practice in Early Iron Age central Macedonia, Greece, through a multi-proxy analysis",
-      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Vasso Papathanasiou, Elisavet Stamataki, Christophe Snoeck, Asterios Lioutas, Vasiliki Misailidou-Despotidou, Sevasti Triantaphyllou",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X2600355X?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-07-09T05:31:19.790Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X2600324X?dgcid=rss_sd_all",
-      "title": "Use of horses in the funeral events by members of the Scythian culture in Ciscaucasia in the early Iron Age: Sex and age aspects",
-      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Natalya N. Spasskaya, Olga P. Bachura, Andrei G. Bush, Anatoliy R. Kantorovich, Vladimir E. Maslov, Natalya E. Prilepskaya",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X2600324X?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-07-09T05:31:19.790Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/feature/hastings-revisited/",
-      "title": "Hastings revisited",
-      "summary": "As the Bayeux Tapestry returns to England for a major new exhibition, Edmund West assesses the latest thinking about 1066 and all that.",
-      "url": "https://the-past.com/feature/hastings-revisited/",
-      "image": null,
-      "publishedAt": "2026-07-09T05:00:31.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "museoak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/come-passavano-estate-antichi-romani/",
-      "title": "Che cosa facevano gli antichi Romani quando arrivava il caldo? Scappavano dalla città e andavano al mare",
-      "summary": "Le finestre restano aperte per tutta la notte, ma il fresco non arriva. Le pareti continuano a restituire il calore assorbito durante il giorno, le strade sembrano trattenere il sole anche dopo il tramonto e l’aria rimane immobile. Quando arriva l’estate, milioni di italiani…",
-      "url": "https://www.stilearte.it/come-passavano-estate-antichi-romani/",
-      "image": null,
-      "publishedAt": "2026-07-09T00:57:11.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
       ]
     }
   ]
