@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T04:22:57.247Z",
+  "generatedAt": "2026-07-15T04:23:44.628Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5389
+      "elapsedMs": 5951
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 592
+      "elapsedMs": 885
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 707
+      "elapsedMs": 4020
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 509
+      "elapsedMs": 834
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2453
+      "elapsedMs": 3102
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 6,
       "droppedOffTopic": 24,
       "droppedModern": 0,
-      "elapsedMs": 2548
+      "elapsedMs": 3274
     },
     {
       "id": "vianako-printzea",
@@ -83,12 +83,9 @@
       "lang": "es",
       "region": "basque",
       "kind": "research",
-      "ok": true,
-      "fetched": 25,
-      "kept": 9,
-      "droppedOffTopic": 3,
-      "droppedModern": 13,
-      "elapsedMs": 841
+      "ok": false,
+      "error": "Request timed out after 15000ms",
+      "elapsedMs": 49514
     },
     {
       "id": "labrujulaverde",
@@ -98,10 +95,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 19,
+      "kept": 18,
       "droppedOffTopic": 0,
-      "droppedModern": 1,
-      "elapsedMs": 1335
+      "droppedModern": 2,
+      "elapsedMs": 1604
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +111,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 3,
-      "elapsedMs": 716
+      "elapsedMs": 1014
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +124,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1550
+      "elapsedMs": 1617
     },
     {
       "id": "lemonde-sciences",
@@ -137,10 +134,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 4,
-      "droppedOffTopic": 16,
+      "kept": 5,
+      "droppedOffTopic": 15,
       "droppedModern": 0,
-      "elapsedMs": 488
+      "elapsedMs": 888
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +150,7 @@
       "kept": 11,
       "droppedOffTopic": 6,
       "droppedModern": 3,
-      "elapsedMs": 979
+      "elapsedMs": 919
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -166,7 +163,7 @@
       "kept": 6,
       "droppedOffTopic": 13,
       "droppedModern": 0,
-      "elapsedMs": 719
+      "elapsedMs": 1331
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +176,7 @@
       "kept": 3,
       "droppedOffTopic": 15,
       "droppedModern": 2,
-      "elapsedMs": 2548
+      "elapsedMs": 3238
     },
     {
       "id": "sudouest-culture",
@@ -189,10 +186,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 0,
-      "droppedOffTopic": 20,
+      "kept": 1,
+      "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 972
+      "elapsedMs": 1347
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +202,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1477
+      "elapsedMs": 1782
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +215,7 @@
       "kept": 1,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 1532
+      "elapsedMs": 2163
     },
     {
       "id": "stilearte",
@@ -228,10 +225,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 10,
-      "droppedOffTopic": 0,
-      "droppedModern": 0,
-      "elapsedMs": 1699
+      "kept": 8,
+      "droppedOffTopic": 1,
+      "droppedModern": 1,
+      "elapsedMs": 2256
     },
     {
       "id": "live-science-arch",
@@ -244,7 +241,7 @@
       "kept": 5,
       "droppedOffTopic": 25,
       "droppedModern": 0,
-      "elapsedMs": 2538
+      "elapsedMs": 3120
     },
     {
       "id": "bbc-history",
@@ -257,7 +254,7 @@
       "kept": 0,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1317
+      "elapsedMs": 1802
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +267,7 @@
       "kept": 9,
       "droppedOffTopic": 21,
       "droppedModern": 0,
-      "elapsedMs": 1352
+      "elapsedMs": 1827
     },
     {
       "id": "ancient-origins",
@@ -278,12 +275,9 @@
       "lang": "en",
       "region": "world",
       "kind": "news",
-      "ok": true,
-      "fetched": 10,
-      "kept": 4,
-      "droppedOffTopic": 5,
-      "droppedModern": 1,
-      "elapsedMs": 1448
+      "ok": false,
+      "error": "Unable to parse XML.",
+      "elapsedMs": 6503
     },
     {
       "id": "guardian-arch",
@@ -293,10 +287,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 12,
-      "droppedOffTopic": 6,
+      "kept": 13,
+      "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1838
+      "elapsedMs": 2200
     },
     {
       "id": "current-archaeology",
@@ -309,7 +303,7 @@
       "kept": 16,
       "droppedOffTopic": 5,
       "droppedModern": 9,
-      "elapsedMs": 1414
+      "elapsedMs": 1697
     },
     {
       "id": "jas-reports",
@@ -320,9 +314,9 @@
       "ok": true,
       "fetched": 30,
       "kept": 9,
-      "droppedOffTopic": 5,
-      "droppedModern": 16,
-      "elapsedMs": 1456
+      "droppedOffTopic": 6,
+      "droppedModern": 15,
+      "elapsedMs": 1757
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +329,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1509
+      "elapsedMs": 1820
     },
     {
       "id": "pnas-arch",
@@ -348,7 +342,7 @@
       "kept": 20,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 2001
+      "elapsedMs": 2517
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +355,7 @@
       "kept": 8,
       "droppedOffTopic": 2,
       "droppedModern": 20,
-      "elapsedMs": 1417
+      "elapsedMs": 1821
     },
     {
       "id": "spal-us",
@@ -374,7 +368,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2122
+      "elapsedMs": 3384
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +381,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 3469
+      "elapsedMs": 4269
     },
     {
       "id": "archeoarte",
@@ -400,7 +394,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2301
+      "elapsedMs": 2896
     },
     {
       "id": "cypsela",
@@ -413,7 +407,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2098
+      "elapsedMs": 3090
     },
     {
       "id": "cambridge-antiquity",
@@ -423,10 +417,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 19,
+      "kept": 18,
       "droppedOffTopic": 2,
-      "droppedModern": 9,
-      "elapsedMs": 1927
+      "droppedModern": 10,
+      "elapsedMs": 3054
     },
     {
       "id": "cambridge-caj",
@@ -439,7 +433,7 @@
       "kept": 19,
       "droppedOffTopic": 7,
       "droppedModern": 4,
-      "elapsedMs": 2052
+      "elapsedMs": 3071
     },
     {
       "id": "cambridge-ejarc",
@@ -452,7 +446,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 1939
+      "elapsedMs": 3003
     },
     {
       "id": "aquitania-persee",
@@ -465,7 +459,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2740
+      "elapsedMs": 3853
     },
     {
       "id": "cuadernos-arq-unav",
@@ -478,7 +472,7 @@
       "kept": 20,
       "droppedOffTopic": 2,
       "droppedModern": 8,
-      "elapsedMs": 3600
+      "elapsedMs": 4639
     },
     {
       "id": "veleia-ehu",
@@ -491,7 +485,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3251
+      "elapsedMs": 4166
     },
     {
       "id": "flv-navarra",
@@ -504,7 +498,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2397
+      "elapsedMs": 3285
     },
     {
       "id": "munibe-aa",
@@ -517,7 +511,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 2366
+      "elapsedMs": 3168
     },
     {
       "id": "trabajos-prehistoria",
@@ -530,7 +524,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 2332
+      "elapsedMs": 3302
     },
     {
       "id": "openalex-archaeology",
@@ -543,7 +537,7 @@
       "kept": 13,
       "droppedOffTopic": 8,
       "droppedModern": 9,
-      "elapsedMs": 2310
+      "elapsedMs": 3273
     }
   ],
   "items": [
@@ -693,6 +687,130 @@
       "lang": "en",
       "region": "world",
       "topics": []
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/science/2026/jul/14/ancient-dna-analysis-reveals-upton-lovell-shaman-was-woman-wiltshire",
+      "title": "Ancient DNA analysis reveals Wiltshire’s Upton Lovell Shaman was a woman",
+      "summary": "Exclusive: Analysis offers ‘smoking gun evidence’ that overturns previous assumption that bronze age individual was male The Upton Lovell Shaman, a bronze age individual who has been depicted in museum exhibits as a bearded spiritual leader and metalworker, was female, an…",
+      "url": "https://www.theguardian.com/science/2026/jul/14/ancient-dna-analysis-reveals-upton-lovell-shaman-was-woman-wiltshire",
+      "image": "https://i.guim.co.uk/img/media/6eebbd409e3fc481a8dfc6b9f85fb640d8381bd6/0_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=dcaff3b54b68c751e650d3a9877a22f1",
+      "publishedAt": "2026-07-14T19:01:47.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria",
+        "museoak"
+      ]
+    },
+    {
+      "id": "sudouest-culture:https://www.sudouest.fr/charente-maritime/saint-cesaire/la-prehistoire-c-est-un-outil-de-reflexion-sur-notre-rapport-a-l-environnement-au-paleosite-de-saint-cesaire-l-incroyable-quete-de-gestes-millenaires-29930668.php",
+      "title": "« La préhistoire, c’est un outil de réflexion sur notre rapport à l’environnement » : au Paléosite de Saint-Césaire, l’incroyable quête de gestes millénaires",
+      "summary": "À la préhistoire, comment pratiquait-on la cuisine, la musique, la poterie, la construction de bateaux ? Le festival Préhisto’Mania apporte des réponses avec des passionnés de reconstitutions, mercredi 15",
+      "url": "https://www.sudouest.fr/charente-maritime/saint-cesaire/la-prehistoire-c-est-un-outil-de-reflexion-sur-notre-rapport-a-l-environnement-au-paleosite-de-saint-cesaire-l-incroyable-quete-de-gestes-millenaires-29930668.php",
+      "image": null,
+      "publishedAt": "2026-07-14T18:50:00.000Z",
+      "source": {
+        "id": "sudouest-culture",
+        "name": "Sud Ouest — Culture"
+      },
+      "lang": "fr",
+      "region": "basque",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "lemonde-sciences:https://www.lemonde.fr/series-d-ete/article/2026/07/14/de-l-oasis-au-desert-martien-sur-les-traces-de-l-air-et-de-l-eau_6723329_3451060.html",
+      "title": "« A la conquête de Mars » : de l’oasis au désert martien, sur les traces de l’air et de l’eau",
+      "summary": "« A la conquête de Mars » (3/6). Depuis la mission Viking lancée en 1976, les scientifiques ont pu retracer le passé géologique de la Planète rouge, de ses immenses volcans aux traces laissées par des mers et rivières disparues. Reste à savoir quand les échantillons recueillis…",
+      "url": "https://www.lemonde.fr/series-d-ete/article/2026/07/14/de-l-oasis-au-desert-martien-sur-les-traces-de-l-air-et-de-l-eau_6723329_3451060.html",
+      "image": "https://img.lemde.fr/2026/07/03/1162/0/4798/2399/644/322/60/0/4b30559_upload-1-o95dadk4tq4y-mars-globe-valles-marineris-enhanced.jpg",
+      "publishedAt": "2026-07-14T16:00:02.000Z",
+      "source": {
+        "id": "lemonde-sciences",
+        "name": "Le Monde — Sciences"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/arqueologos-descifran-una-inscripcion-del-siglo-viii-en-guatemala-y-descubren-el-nombre-del-primer-astronomo-maya-conocido",
+      "title": "Arqueólogos descifran una inscripción del siglo VIII en Guatemala y descubren el nombre del primer astrónomo maya conocido",
+      "summary": "Las civilizaciones antiguas de todo el mundo desarrollaron sofisticados sistemas de cálculo astronómico, pero mientras que en Grecia, India, China o Irak es posible atribuir estos avances a pensadores concretos, la tradición científica maya había permanecido en el anonimato en…",
+      "url": "https://www.labrujulaverde.com/2026/07/arqueologos-descifran-una-inscripcion-del-siglo-viii-en-guatemala-y-descubren-el-nombre-del-primer-astronomo-maya-conocido",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/urn-cambridge.org-id-labrujulaverde.com-binary-alt-20260629111341-91813-optimisedImage-png-S0003598X26103780_fig3.jpg.webp",
+      "publishedAt": "2026-07-14T15:05:35.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "greziarrak",
+        "amerika",
+        "asia",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/5-grilletes-de-hierro-encontrados-en-el-yacimiento-de-allonnes-prueban-el-comercio-de-esclavos-por-parte-de-los-galos-antes-de-la-conquista-romana",
+      "title": "5 grilletes de hierro encontrados en el yacimiento de Allonnes prueban el comercio de esclavos por parte de los galos antes de la conquista romana",
+      "summary": "La aglomeración secundaria de Allonnes, ubicada en el cruce de varias vías de comunicación de primer orden en el valle del Loira francés, ocupaba una extensión estimada en una veintena de hectáreas que la convertían en un enclave estratégico para los intercambios comerciales en…",
+      "url": "https://www.labrujulaverde.com/2026/07/5-grilletes-de-hierro-encontrados-en-el-yacimiento-de-allonnes-prueban-el-comercio-de-esclavos-por-parte-de-los-galos-antes-de-la-conquista-romana",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/2-1-entraves_result.webp",
+      "publishedAt": "2026-07-14T14:21:50.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/una-letrina-de-la-villa-de-adriano-revela-que-la-carbonatacion-es-la-clave-de-la-durabilidad-milenaria-del-hormigon-romano",
+      "title": "Una letrina de la villa de Adriano revela que la carbonatación es la clave de la durabilidad milenaria del hormigón romano",
+      "summary": "El hormigón romano ha desafiado el paso del tiempo durante casi dos milenios. Puertos, acueductos, mercados y edificios enteros siguen en pie, mientras que muchas construcciones modernas muestran signos de deterioro en pocas décadas. Durante años, los científicos han atribuido…",
+      "url": "https://www.labrujulaverde.com/2026/07/una-letrina-de-la-villa-de-adriano-revela-que-la-carbonatacion-es-la-clave-de-la-durabilidad-milenaria-del-hormigon-romano",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/Tivoli_-_Villa_Adriana_-_2025-09-07_23-03-00_001.webp",
+      "publishedAt": "2026-07-14T08:17:47.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/giove-dolicheno-lamina-oro-apsaros-gonio-georgia/",
+      "title": "Il fulmine d’oro e il soldato romano Thrasymedes: i segreti di Giove Dolicheno nel forte di Apsaros. A che serviva questa foglia",
+      "summary": "Una rarissima lamina votiva in oro, pubblicata sulla Zeitschrift für Papyrologie und Epigraphik, rivela la presenza del culto di Giove Dolicheno nell’estremo Oriente dell’Impero Romano e apre la ricerca del tempio perduto della divinità dei legionari. Doveva essere poggiata a un…",
+      "url": "https://www.stilearte.it/giove-dolicheno-lamina-oro-apsaros-gonio-georgia/",
+      "image": null,
+      "publishedAt": "2026-07-14T07:27:55.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
     },
     {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003512?dgcid=rss_sd_all",
@@ -3867,303 +3985,6 @@
       "region": "europe",
       "topics": [
         "egiptoarrak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/feature/w-a-stewarts-reconstruction-of-hetepheres-furniture/",
-      "title": "W A Stewart’s reconstruction of Hetepheres’ furniture",
-      "summary": "In the last issue, AE 153, Peter Lacovara celebrated the meticulous work of Dows Dunham in excavating the Fourth Dynasty (c.2613-2494 BC) Tomb of Queen Hetepheres I at Giza. In this issue, marking the 100th anniversary of the tomb’s discovery, Geoffrey Killen explains how…",
-      "url": "https://the-past.com/feature/w-a-stewarts-reconstruction-of-hetepheres-furniture/",
-      "image": null,
-      "publishedAt": "2026-04-15T20:00:42.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "archaeology-mag:https://archaeology.org/news/2026/04/15/tombs-yield-clues-to-neolithic-family-structure/",
-      "title": "Tombs Yield Clues to Neolithic Family Structure",
-      "summary": "CARDIFF, WALES—An international team of researchers has conducted a genetic study of human remains recovered […] The post Tombs Yield Clues to Neolithic Family Structure appeared first on Archaeology Magazine.",
-      "url": "https://archaeology.org/news/2026/04/15/tombs-yield-clues-to-neolithic-family-structure/",
-      "image": null,
-      "publishedAt": "2026-04-15T18:00:00.000Z",
-      "source": {
-        "id": "archaeology-mag",
-        "name": "Archaeology Magazine"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "archaeology-mag:https://archaeology.org/news/2026/04/15/who-suffered-during-a-plague-outbreak/",
-      "title": "Who Suffered During a Plague Outbreak?",
-      "summary": "BASEL, SWITZERLAND—According to a statement released by Antiquity, analysis of skeletal remains recovered from a […] The post Who Suffered During a Plague Outbreak? appeared first on Archaeology Magazine.",
-      "url": "https://archaeology.org/news/2026/04/15/who-suffered-during-a-plague-outbreak/",
-      "image": "https://archaeology.org/wp-content/uploads/2026/04/News-20260415-Switzerland-Basel-Plague-Graves-1024x573.jpg",
-      "publishedAt": "2026-04-15T17:30:00.000Z",
-      "source": {
-        "id": "archaeology-mag",
-        "name": "Archaeology Magazine"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "archaeology-mag:https://archaeology.org/news/2026/04/15/undetonated-mortar-shell-recovered-from-scotlands-culloden-battlefield/",
-      "title": "Undetonated Mortar Shell Recovered from Scotland’s Culloden Battlefield",
-      "summary": "GLASGOW, SCOTLAND—An intact mortar shell has been discovered at Scotland’s Culloden Battlefield by a team […] The post Undetonated Mortar Shell Recovered from Scotland’s Culloden Battlefield appeared first on Archaeology Magazine.",
-      "url": "https://archaeology.org/news/2026/04/15/undetonated-mortar-shell-recovered-from-scotlands-culloden-battlefield/",
-      "image": "https://archaeology.org/wp-content/uploads/2026/04/News-20260415-Scotland-Culloden-Mortar-Shell.jpg",
-      "publishedAt": "2026-04-15T17:00:00.000Z",
-      "source": {
-        "id": "archaeology-mag",
-        "name": "Archaeology Magazine"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/animals/extinct-species/strange-mammal-ancestor-laid-huge-leathery-eggs-and-it-was-key-to-surviving-the-worlds-worst-mass-extinction",
-      "title": "Strange mammal ancestor laid huge, leathery eggs —‬ and it was key to surviving the world's worst mass extinction",
-      "summary": "Using synchrotron X-ray CT scans of a fossilized, intact embryo, researchers found evidence that the plant-eating mammal Lystrosaurus laid eggs, which answers a key question about mammalian evolution.",
-      "url": "https://www.livescience.com/animals/extinct-species/strange-mammal-ancestor-laid-huge-leathery-eggs-and-it-was-key-to-surviving-the-worlds-worst-mass-extinction",
-      "image": "https://cdn.mos.cms.futurecdn.net/H5KqFSt7L4HRdcxnRor7Zm-1280-80.jpg",
-      "publishedAt": "2026-04-15T16:15:56.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/un-peine-triple-de-hueso-de-la-elite-germanica-tardorromana-y-un-collar-de-156-cuentas-de-ambar-baltico-de-la-edad-del-bronce-encontrados-en-alemania",
-      "title": "Un peine triple de hueso de la élite germánica tardorromana y un collar de 156 cuentas de ámbar báltico de la Edad del Bronce, encontrados en Alemania",
-      "summary": "La construcción de un nuevo parque eólico en las inmediaciones de las pedanías alemanas de Ahlum y Dettum, un proyecto impulsado por la empresa SAB WindTeam GmbH que contempla la instalación de diecinueve aerogeneradores, ha destapado un capítulo insospechado de la prehistoria…",
-      "url": "https://www.labrujulaverde.com/2026/04/un-peine-triple-de-hueso-de-la-elite-germanica-tardorromana-y-un-collar-de-156-cuentas-de-ambar-baltico-de-la-edad-del-bronce-encontrados-en-alemania",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/274081.webp",
-      "publishedAt": "2026-04-15T16:11:57.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "europe",
-      "topics": [
-        "prehistoria",
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "inrap:https://www.inrap.fr/prehistoire-entre-utopie-et-realite-20679",
-      "title": "Préhistoire : entre utopie et réalité",
-      "summary": "La nouvelle exposition du Collège de France, en partenariat avec l'Inrap, invite à un voyage dans la science préhistorique, ses inventeurs, ses débats, les résistances qui l'ont façonnée. Photographies de fouilles archéologiques, ouvrages imprimés, arbres de l’évolution humaine,…",
-      "url": "https://www.inrap.fr/prehistoire-entre-utopie-et-realite-20679",
-      "image": null,
-      "publishedAt": "2026-04-15T16:04:47.000Z",
-      "source": {
-        "id": "inrap",
-        "name": "Inrap — Archéologie préventive"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/feature/the-tentmakers-of-old-cairo/",
-      "title": "The tentmakers of Old Cairo",
-      "summary": "Sandra Hardy explores the work of skilled artisans who continue the long tradition of pharaonic textile production.",
-      "url": "https://the-past.com/feature/the-tentmakers-of-old-cairo/",
-      "image": null,
-      "publishedAt": "2026-04-15T16:00:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "inrap:https://www.inrap.fr/feminin-masculin-20681",
-      "title": "Féminin – Masculin",
-      "summary": "Découvrez librement l’exposition « Féminin – Masculin » au Musée départemental de la Céramique avec une Archéocapsule (exposition légère) sur l'archéologie des sexes conçue par l’Inrap.",
-      "url": "https://www.inrap.fr/feminin-masculin-20681",
-      "image": null,
-      "publishedAt": "2026-04-15T14:46:13.000Z",
-      "source": {
-        "id": "inrap",
-        "name": "Inrap — Archéologie préventive"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": [
-        "museoak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/shorts/the-picture-desk/the-temple-of-esna-restored-to-splendour/",
-      "title": "The Temple of Esna restored to splendour",
-      "summary": "Once hidden beneath layers of soot and bird faeces, the stunningly colourful painted scenes and elaborately carved columns adorning the Temple of Khnum at Esna (Latopolis) can now be seen in all",
-      "url": "https://the-past.com/shorts/the-picture-desk/the-temple-of-esna-restored-to-splendour/",
-      "image": null,
-      "publishedAt": "2026-04-15T13:50:21.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/los-cazadores-recolectores-de-hace-800000-anos-seleccionaban-sus-asentamientos-segun-cuanta-madera-podian-conseguir-sin-esfuerzo-para-el-fuego",
-      "title": "Los cazadores-recolectores de hace 800.000 años seleccionaban sus asentamientos según cuánta madera podían conseguir sin esfuerzo para el fuego",
-      "summary": "Un nuevo análisis de los restos vegetales carbonizados recuperados en el yacimiento achelense de Gesher Benot Ya’aqov, ubicado en lo que hoy es el norte de Israel, ha demostrado que los primeros humanos que habitaron las orillas del paleo-Lago Hula hace aproximadamente 780.000…",
-      "url": "https://www.labrujulaverde.com/2026/04/los-cazadores-recolectores-de-hace-800000-anos-seleccionaban-sus-asentamientos-segun-cuanta-madera-podian-conseguir-sin-esfuerzo-para-el-fuego",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/A-general-view-of-the-excavation-of-Gesher-Benot-Ya‘aqov-Acheulian-site.-Note-that-the-original-occupation-surfaces-are-tilted-due-to-tectonics.-Credit_-GBY-Expedition.webp",
-      "publishedAt": "2026-04-15T10:52:01.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/news-in-brief/ancient-egypt-news-in-brief-18/",
-      "title": "Ancient Egypt news in brief",
-      "summary": "Researchers at the Fitzwilliam Museum, University of Cambridge, have spotted an ancient form of ‘Tipp-Ex’ in a Book of the Dead vignette, where a white fluid was used to make the",
-      "url": "https://the-past.com/news-in-brief/ancient-egypt-news-in-brief-18/",
-      "image": null,
-      "publishedAt": "2026-04-15T09:15:24.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "egiptoarrak",
-        "museoak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/news/aswan-tombs/",
-      "title": "Aswan tombs",
-      "summary": "A group of rock-cut Old Kingdom tombs has been uncovered by an Egyptian mission working at Qubbet el-Hawa, near Aswan. The tombs contained burial chambers that were reused in the First Intermediate",
-      "url": "https://the-past.com/news/aswan-tombs/",
-      "image": null,
-      "publishedAt": "2026-04-15T09:00:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "egiptoarrak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/news/oldest-bow-drill/",
-      "title": "Oldest bow drill",
-      "summary": "A joint British-Austrian team has identified Egypt’s oldest known rotary tool. The small metal drill was found at Badari more than 100 years ago, and had attracted little attention until now. The",
-      "url": "https://the-past.com/news/oldest-bow-drill/",
-      "image": null,
-      "publishedAt": "2026-04-15T08:50:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "egiptoarrak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/news/coffin-cache-at-qurna/",
-      "title": "Coffin cache at Qurna",
-      "summary": "A cache of 22 Third Intermediate Period painted coffins containing mummies has been discovered by an Egyptian mission at Qurna, on Luxor’s West Bank. During excavation work in the courtyard of the",
-      "url": "https://the-past.com/news/coffin-cache-at-qurna/",
-      "image": null,
-      "publishedAt": "2026-04-15T08:10:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "egiptoarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/la-tumba-de-un-guerrero-de-la-edad-del-hierro-en-italia-contenia-un-alambre-de-plata-de-la-peninsula-iberica-y-restos-de-una-bebida-medicinal",
-      "title": "La tumba de un guerrero de la Edad del Hierro en Italia contenía un alambre de plata de la península ibérica y restos de una bebida medicinal",
-      "summary": "El yacimiento de Bisenzio, situado junto al lago Bolsena, a unos 90 kilómetros al noroeste de Roma, ha sido tradicionalmente considerado un centro secundario y dependiente de las grandes ciudades costeras etruscas como Vulci, Tarquinia o Cerveteri. Sin embargo, un estudio…",
-      "url": "https://www.labrujulaverde.com/2026/04/la-tumba-de-un-guerrero-de-la-edad-del-hierro-en-italia-contenia-un-alambre-de-plata-de-la-peninsula-iberica-y-restos-de-una-bebida-medicinal",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/1-s2.0-S2352409X26001859-gr18_lrg.webp",
-      "publishedAt": "2026-04-15T07:41:07.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "amerika"
-      ]
-    },
-    {
-      "id": "inrap:https://www.inrap.fr/du-marais-la-ville-autour-du-site-des-halles-de-chambery-savoie-20674",
-      "title": "Du marais à la ville : autour du site des halles de Chambéry (Savoie)",
-      "summary": "Première synthèse archéologique sur le centre de Chambéry, publiée sous la direction de Sylvie Bocquet, dans la collection des \"Documents d'archéologie en Rhônes-Alpes et en Auvergne\" (DARA).",
-      "url": "https://www.inrap.fr/du-marais-la-ville-autour-du-site-des-halles-de-chambery-savoie-20674",
-      "image": null,
-      "publishedAt": "2026-04-15T06:03:28.000Z",
-      "source": {
-        "id": "inrap",
-        "name": "Inrap — Archéologie préventive"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/04/260415011643.htm",
-      "title": "Scientists just solved a 160-million-year fossil mystery “I’ve never seen anything like it”",
-      "summary": "A rare fossil discovery is shedding light on the “missing years” of early sponge evolution. Scientists found a 550-million-year-old sponge that likely lacked hard skeletal parts, explaining why earlier fossils are so scarce. This supports the idea that the earliest sponges were…",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260415011643.htm",
-      "image": null,
-      "publishedAt": "2026-04-15T06:02:43.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
       ]
     },
     {
@@ -8882,6 +8703,187 @@
       "lang": "en",
       "region": "world",
       "topics": []
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/vikings/dirty-button-unearthed-by-metal-detectorist-turns-out-to-be-a-rare-900-year-old-coin-from-norways-last-viking-king-magnus-barefoot",
+      "title": "Dirty 'button' unearthed by metal detectorist turns out to be a rare 900-year-old coin from Norway's last Viking king, Magnus Barefoot",
+      "summary": "A rare coin from the reign of Magnus Barefoot — sometimes called Norway's last Viking king, was mistaken for a button before researchers realized it was the first of its kind found on Norwegian soil.",
+      "url": "https://www.livescience.com/archaeology/vikings/dirty-button-unearthed-by-metal-detectorist-turns-out-to-be-a-rare-900-year-old-coin-from-norways-last-viking-king-magnus-barefoot",
+      "image": "https://cdn.mos.cms.futurecdn.net/5PKvBiKnNUpfAe7AUFRkJd-1280-80.jpg",
+      "publishedAt": "2026-07-09T21:19:16.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "erdi-aroa",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/encuentran-calzado-de-esparto-usado-en-las-minas-de-riotinto-en-la-edad-del-hierro-hace-2400-anos",
+      "title": "Encuentran calzado de esparto usado en las minas de Riotinto en la Edad del Hierro hace 2400 años",
+      "summary": "Un equipo de la Universidad de Granada ha sometido a examen un conjunto de ocho suelas de sandalias elaboradas con esparto, recuperadas en el sector Nuevo Filón Norte 1 del antiguo distrito minero de Riotinto, en el municipio onubense de Minas de Riotinto. Estas piezas, cuyas…",
+      "url": "https://www.labrujulaverde.com/2026/07/encuentran-calzado-de-esparto-usado-en-las-minas-de-riotinto-en-la-edad-del-hierro-hace-2400-anos",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/imagen_2026-07-05_140118519.webp",
+      "publishedAt": "2026-07-09T17:59:24.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/el-misterio-de-metsamor-un-enterramiento-unico-en-la-armenia-del-siglo-vii-ac-replantea-el-papel-de-la-mujer-en-el-reino-de-urartu",
+      "title": "El misterio de Metsamor: un enterramiento único en la Armenia del siglo VII a.C. replantea el papel de la mujer en el reino de Urartu",
+      "summary": "Un equipo de arqueólogos de la Universidad de Varsovia ha desenterrado en el yacimiento de Metsamor, en la actual Armenia, los restos de una mujer de unos cuarenta años, sepultada hace aproximadamente 2.700 años en el patio de una casa, en una posición que los expertos califican…",
+      "url": "https://www.labrujulaverde.com/2026/07/el-misterio-de-metsamor-un-enterramiento-unico-en-la-armenia-del-siglo-vii-ac-replantea-el-papel-de-la-mujer-en-el-reino-de-urartu",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/1-s2.0-S2352409X26003627-gr3_lrg.webp",
+      "publishedAt": "2026-07-09T10:15:08.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "ekialde-hurbila"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/magazines/military-history-matters-153/",
+      "title": "Military History Matters 153",
+      "summary": "1066 and all that: the battle for England American thunderbolt: the rise of US airpower Seizing the state: a curious history of the military coup The Kaiser’s secret weapons ‘Destroy the foreigners’: the Boxer rebellion",
+      "url": "https://the-past.com/magazines/military-history-matters-153/",
+      "image": null,
+      "publishedAt": "2026-07-09T10:00:00.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "lemonde-sciences:https://www.lemonde.fr/sciences/article/2026/07/09/a-la-decouverte-de-chartres-des-derniers-romains-aux-premiers-chretiens_6722060_1650684.html",
+      "title": "A la découverte de Chartres, des derniers Romains aux premiers chrétiens",
+      "summary": "A l’occasion de la réouverture de l’église Saint-Martin-au-Val, une exposition revient sur cette époque troublée entre Antiquité et Moyen Age, qui a notamment été marquée par une profonde transformation de l’espace urbain.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/07/09/a-la-decouverte-de-chartres-des-derniers-romains-aux-premiers-chretiens_6722060_1650684.html",
+      "image": "https://img.lemde.fr/2026/07/07/392/0/3154/1577/644/322/60/0/6ee052a_upload-1-hdbhzzff7j1w-figure7.jpg",
+      "publishedAt": "2026-07-09T09:30:08.000Z",
+      "source": {
+        "id": "lemonde-sciences",
+        "name": "Le Monde — Sciences"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": [
+        "erromatarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/encuentran-en-un-yacimiento-de-la-edad-del-bronce-en-madrid-las-evidencias-mas-antiguas-de-caballos-montados-en-la-peninsula-iberica",
+      "title": "Encuentran en un yacimiento de la Edad del Bronce en Madrid las evidencias más antiguas de caballos montados en la Península Ibérica",
+      "summary": "Un equipo de investigadores de la Universidad de Córdoba, el CSIC y otras instituciones ha documentado en el yacimiento de Castillo Reyes, en Pinto (Madrid), el conjunto de evidencias más antiguo conocido hasta la fecha sobre el uso de caballos domésticos para la monta y el…",
+      "url": "https://www.labrujulaverde.com/2026/07/encuentran-en-un-yacimiento-de-la-edad-del-bronce-en-madrid-las-evidencias-mas-antiguas-de-caballos-montados-en-la-peninsula-iberica",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/1-s2.0-S2352409X26003482-gr4_lrg.webp",
+      "publishedAt": "2026-07-09T07:47:04.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "erdi-aroa"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/feature/hastings-revisited/",
+      "title": "Hastings revisited",
+      "summary": "As the Bayeux Tapestry returns to England for a major new exhibition, Edmund West assesses the latest thinking about 1066 and all that.",
+      "url": "https://the-past.com/feature/hastings-revisited/",
+      "image": null,
+      "publishedAt": "2026-07-09T05:00:31.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "museoak"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/feature/from-biplane-to-b-52/",
+      "title": "From biplane to B-52",
+      "summary": "In the second part of our special feature, Graham Goodlad examines the changes in design and technology that underpinned the 20th-century transformation of US airpower.",
+      "url": "https://the-past.com/feature/from-biplane-to-b-52/",
+      "image": null,
+      "publishedAt": "2026-07-08T19:10:15.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/feature/us-airpower/",
+      "title": "US airpower",
+      "summary": "Onwards and upwards a timeline tracing the developing fortunes and many incarnations of America's air force in the 2oth century.",
+      "url": "https://the-past.com/feature/us-airpower/",
+      "image": null,
+      "publishedAt": "2026-07-08T19:05:00.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "amerika"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/feature/american-thunderbolt/",
+      "title": "American thunderbolt",
+      "summary": "In the first part of our special feature, Graham Goodlad charts the development of America’s air-arm from its earliest beginnings, while in our second article he focuses on the hardware deployed by American forces.",
+      "url": "https://the-past.com/feature/american-thunderbolt/",
+      "image": null,
+      "publishedAt": "2026-07-08T19:00:03.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/en-el-lugar-donde-se-encontraron-los-primeros-enterramientos-humanos-un-craneo-revela-el-primer-apunalamiento-documentado-en-el-paleolitico-medio-hace-145000-anos",
+      "title": "En el lugar donde se encontraron los primeros enterramientos humanos, un cráneo revela el primer apuñalamiento documentado en el Paleolítico medio hace 145000 años",
+      "summary": "La cueva de Qafzeh, en el actual Israel, ha devuelto a la luz uno de los conjuntos fósiles más relevantes para trazar los primeros pasos de Homo sapiens fuera de África, pero un nuevo examen del cráneo conocido como Qafzeh 25 ha añadido una arista inesperada a su historia: una…",
+      "url": "https://www.labrujulaverde.com/2026/07/en-el-lugar-donde-se-encontraron-los-primeros-enterramientos-humanos-un-craneo-revela-el-primer-apunalamiento-documentado-en-el-paleolitico-medio-hace-145000-anos",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/Eingang_der_Qafzeh-Hohle.webp",
+      "publishedAt": "2026-07-08T17:32:00.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "ekialde-hurbila"
+      ]
     }
   ]
 }
