@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T04:23:44.628Z",
+  "generatedAt": "2026-07-16T04:33:51.972Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5951
+      "elapsedMs": 6332
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 885
+      "elapsedMs": 709
     },
     {
       "id": "argia-kultura",
@@ -31,12 +31,9 @@
       "lang": "eu",
       "region": "basque",
       "kind": "news",
-      "ok": true,
-      "fetched": 30,
-      "kept": 0,
-      "droppedOffTopic": 30,
-      "droppedModern": 0,
-      "elapsedMs": 4020
+      "ok": false,
+      "error": "Request timed out after 15000ms",
+      "elapsedMs": 49517
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +46,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 834
+      "elapsedMs": 702
     },
     {
       "id": "berria-bsky",
@@ -62,7 +59,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3102
+      "elapsedMs": 3548
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +72,7 @@
       "kept": 6,
       "droppedOffTopic": 24,
       "droppedModern": 0,
-      "elapsedMs": 3274
+      "elapsedMs": 3552
     },
     {
       "id": "vianako-printzea",
@@ -83,9 +80,12 @@
       "lang": "es",
       "region": "basque",
       "kind": "research",
-      "ok": false,
-      "error": "Request timed out after 15000ms",
-      "elapsedMs": 49514
+      "ok": true,
+      "fetched": 25,
+      "kept": 9,
+      "droppedOffTopic": 3,
+      "droppedModern": 13,
+      "elapsedMs": 1250
     },
     {
       "id": "labrujulaverde",
@@ -98,7 +98,7 @@
       "kept": 18,
       "droppedOffTopic": 0,
       "droppedModern": 2,
-      "elapsedMs": 1604
+      "elapsedMs": 1453
     },
     {
       "id": "desperta-ferro",
@@ -108,10 +108,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 12,
-      "kept": 8,
+      "kept": 9,
       "droppedOffTopic": 1,
-      "droppedModern": 3,
-      "elapsedMs": 1014
+      "droppedModern": 2,
+      "elapsedMs": 1612
     },
     {
       "id": "elpais-cultura",
@@ -124,7 +124,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1617
+      "elapsedMs": 640
     },
     {
       "id": "lemonde-sciences",
@@ -137,7 +137,7 @@
       "kept": 5,
       "droppedOffTopic": 15,
       "droppedModern": 0,
-      "elapsedMs": 888
+      "elapsedMs": 741
     },
     {
       "id": "lemonde-archeo",
@@ -150,7 +150,7 @@
       "kept": 11,
       "droppedOffTopic": 6,
       "droppedModern": 3,
-      "elapsedMs": 919
+      "elapsedMs": 1465
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -159,11 +159,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 19,
-      "kept": 6,
-      "droppedOffTopic": 13,
+      "fetched": 18,
+      "kept": 7,
+      "droppedOffTopic": 11,
       "droppedModern": 0,
-      "elapsedMs": 1331
+      "elapsedMs": 3101
     },
     {
       "id": "inrap-bsky",
@@ -176,7 +176,7 @@
       "kept": 3,
       "droppedOffTopic": 15,
       "droppedModern": 2,
-      "elapsedMs": 3238
+      "elapsedMs": 3529
     },
     {
       "id": "sudouest-culture",
@@ -186,10 +186,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 1,
-      "droppedOffTopic": 19,
+      "kept": 0,
+      "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1347
+      "elapsedMs": 1529
     },
     {
       "id": "corriere-cultura",
@@ -202,7 +202,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1782
+      "elapsedMs": 1949
     },
     {
       "id": "archeologiaviva",
@@ -215,7 +215,7 @@
       "kept": 1,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 2163
+      "elapsedMs": 1910
     },
     {
       "id": "stilearte",
@@ -228,7 +228,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 1,
-      "elapsedMs": 2256
+      "elapsedMs": 2042
     },
     {
       "id": "live-science-arch",
@@ -238,10 +238,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 5,
-      "droppedOffTopic": 25,
+      "kept": 4,
+      "droppedOffTopic": 26,
       "droppedModern": 0,
-      "elapsedMs": 3120
+      "elapsedMs": 3366
     },
     {
       "id": "bbc-history",
@@ -254,7 +254,7 @@
       "kept": 0,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1802
+      "elapsedMs": 1637
     },
     {
       "id": "sciencedaily-arch",
@@ -264,10 +264,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 9,
-      "droppedOffTopic": 21,
+      "kept": 10,
+      "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1827
+      "elapsedMs": 1817
     },
     {
       "id": "ancient-origins",
@@ -275,9 +275,12 @@
       "lang": "en",
       "region": "world",
       "kind": "news",
-      "ok": false,
-      "error": "Unable to parse XML.",
-      "elapsedMs": 6503
+      "ok": true,
+      "fetched": 10,
+      "kept": 4,
+      "droppedOffTopic": 5,
+      "droppedModern": 1,
+      "elapsedMs": 1865
     },
     {
       "id": "guardian-arch",
@@ -290,7 +293,7 @@
       "kept": 13,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 2200
+      "elapsedMs": 2037
     },
     {
       "id": "current-archaeology",
@@ -303,7 +306,7 @@
       "kept": 16,
       "droppedOffTopic": 5,
       "droppedModern": 9,
-      "elapsedMs": 1697
+      "elapsedMs": 1731
     },
     {
       "id": "jas-reports",
@@ -316,7 +319,7 @@
       "kept": 9,
       "droppedOffTopic": 6,
       "droppedModern": 15,
-      "elapsedMs": 1757
+      "elapsedMs": 1761
     },
     {
       "id": "plos-one-arch",
@@ -329,7 +332,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1820
+      "elapsedMs": 1991
     },
     {
       "id": "pnas-arch",
@@ -342,7 +345,7 @@
       "kept": 20,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 2517
+      "elapsedMs": 2694
     },
     {
       "id": "sciencedirect-jas",
@@ -355,7 +358,7 @@
       "kept": 8,
       "droppedOffTopic": 2,
       "droppedModern": 20,
-      "elapsedMs": 1821
+      "elapsedMs": 1847
     },
     {
       "id": "spal-us",
@@ -368,7 +371,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 3384
+      "elapsedMs": 2609
     },
     {
       "id": "complutum-ucm",
@@ -381,7 +384,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 4269
+      "elapsedMs": 4551
     },
     {
       "id": "archeoarte",
@@ -394,7 +397,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2896
+      "elapsedMs": 2599
     },
     {
       "id": "cypsela",
@@ -407,7 +410,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3090
+      "elapsedMs": 2734
     },
     {
       "id": "cambridge-antiquity",
@@ -420,7 +423,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 3054
+      "elapsedMs": 2621
     },
     {
       "id": "cambridge-caj",
@@ -433,7 +436,7 @@
       "kept": 19,
       "droppedOffTopic": 7,
       "droppedModern": 4,
-      "elapsedMs": 3071
+      "elapsedMs": 2533
     },
     {
       "id": "cambridge-ejarc",
@@ -446,7 +449,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 3003
+      "elapsedMs": 2388
     },
     {
       "id": "aquitania-persee",
@@ -459,7 +462,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3853
+      "elapsedMs": 3211
     },
     {
       "id": "cuadernos-arq-unav",
@@ -472,7 +475,7 @@
       "kept": 20,
       "droppedOffTopic": 2,
       "droppedModern": 8,
-      "elapsedMs": 4639
+      "elapsedMs": 3955
     },
     {
       "id": "veleia-ehu",
@@ -485,7 +488,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 4166
+      "elapsedMs": 3691
     },
     {
       "id": "flv-navarra",
@@ -498,7 +501,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 3285
+      "elapsedMs": 2649
     },
     {
       "id": "munibe-aa",
@@ -511,7 +514,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 3168
+      "elapsedMs": 3116
     },
     {
       "id": "trabajos-prehistoria",
@@ -524,7 +527,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 3302
+      "elapsedMs": 2632
     },
     {
       "id": "openalex-archaeology",
@@ -537,7 +540,7 @@
       "kept": 13,
       "droppedOffTopic": 8,
       "droppedModern": 9,
-      "elapsedMs": 3273
+      "elapsedMs": 2677
     }
   ],
   "items": [
@@ -687,6 +690,1490 @@
       "lang": "en",
       "region": "world",
       "topics": []
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X2600372X?dgcid=rss_sd_all",
+      "title": "Tracing the influence of Western Mediterranean innovations in Neolithic Europe through directly radiocarbon-dated naked wheat ( Triticum aestivum/durum/turgidum )",
+      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Guillem Salvador-Baiges, Irka Hajdas, Natàlia Alonso, Laurent Bouby, Francisca Follmann, Isabel Figueiral, Claudia Gerling, Stefanie Jacomet, Lucie Martin, Héctor…",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X2600372X?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-07-16T04:33:04.222Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003639?dgcid=rss_sd_all",
+      "title": "Born to be broken? deliberate fragmentation and its pattern and mechanics in the case of Neolithic anthropomorphic figurines from the settlement site Těšetice-Kyjovice – Sutny (South Moravia, Lengyel culture, 4800–4500 BCE)",
+      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Ludmila Kaňáková, Vojtěch Nosek, Peter Tóth, Martin Košťál",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26003639?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-07-16T04:33:04.221Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/gioco-liubo-tavolieri-dinastia-han-scoperta/",
+      "title": "Scoperti reperti di un misterioso gioco da tavolo di 2.000 anni fa. Era diffusissimo durante la dinastia Han, tanto da essere presente nel corredo funebre degli imperatori, ma oggi nessuno conosce più le sue regole",
+      "summary": "È difficile immaginare un gioco tanto popolare da essere deposto nelle tombe insieme ai suoi proprietari e, allo stesso tempo, tanto misterioso da aver perduto completamente le proprie regole. Eppure è proprio ciò che è accaduto al Liubo, uno dei passatempi più amati dell’antica…",
+      "url": "https://www.stilearte.it/gioco-liubo-tavolieri-dinastia-han-scoperta/",
+      "image": null,
+      "publishedAt": "2026-07-15T22:21:45.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/el-hallazgo-arqueologico-de-los-ligures-baebiani-revela-como-roma-uso-las-deportaciones-masivas-para-controlar-su-imperio",
+      "title": "El hallazgo arqueológico de los Ligures Baebiani revela cómo Roma usó las deportaciones masivas para controlar su imperio",
+      "summary": "En el año 180 antes de Cristo, aproximadamente 47.000 personas fueron arrancadas de sus hogares en los valles de la Magra y el Vara, en el noroeste de Italia, y obligadas a trasladarse cientos de kilómetros al sur, a la región de Samnio. Eran los ligures apuanos, una población…",
+      "url": "https://www.labrujulaverde.com/2026/07/el-hallazgo-arqueologico-de-los-ligures-baebiani-revela-como-roma-uso-las-deportaciones-masivas-para-controlar-su-imperio",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/A171E192-C102-labrujulaverde.com-40A3-BDC8-E42EAC80CD49.webp",
+      "publishedAt": "2026-07-15T14:49:03.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/07/260713084918.htm",
+      "title": "Archaeologists found Homer's Iliad inside a 1,600-year-old Egyptian mummy",
+      "summary": "A 1,600-year-old mummy discovered in Egypt has revealed something archaeologists had never seen before: a fragment of Homer’s Iliad used during embalming. The papyrus was identified as part of the famous \"Catalogue of Ships,\" one of the best-known sections of the ancient epic.…",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713084918.htm",
+      "image": null,
+      "publishedAt": "2026-07-15T12:21:11.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "egiptoarrak",
+        "greziarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/renard-a-poitrine-blanche-des-archeologues-dechiffrent-le-nom-d-un-scientifique-maya-une-premiere_193739?xtor=RSS-4",
+      "title": "\"Zorro de Pecho Blanco\": le scientifique maya identifié pour la première fois",
+      "summary": "Pour la première fois, des archéologues ont déchiffré le nom complet d'un astronome et mathématicien de la civilisation maya. Surnommé « Renard à poitrine blanche », ce savant a été identifié grâce à la transcription de symboles muraux découverts sur le site archéologique de San…",
+      "url": "https://www.sciencesetavenir.fr/archeo-paleo/renard-a-poitrine-blanche-des-archeologues-dechiffrent-le-nom-d-un-scientifique-maya-une-premiere_193739?xtor=RSS-4",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/15/cover-r4x3w1200-6a574cd397483-guatemala.jpg",
+      "publishedAt": "2026-07-15T11:04:43.000Z",
+      "source": {
+        "id": "sciencesetavenir-archeo",
+        "name": "Sciences et Avenir — Archéo & Paléo"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": [
+        "amerika",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/la-materia-oscura-reside-en-una-dimension-extra-oculta-junto-con-una-particula-portadora-de-fuerza-conocida-como-foton-oscuro-segun-una-nueva-teoria",
+      "title": "La materia oscura reside en una dimensión extra oculta junto con una partícula portadora de fuerza conocida como “fotón oscuro”, según una nueva teoría",
+      "summary": "La materia oscura, esa sustancia misteriosa que mantiene unidas a las galaxias, podría estar naturalmente «en sintonía» con una quinta dimensión oculta, según una nueva teoría desarrollada por científicos de la Universidad de Sheffield que busca arrojar luz sobre uno de los…",
+      "url": "https://www.labrujulaverde.com/2026/07/la-materia-oscura-reside-en-una-dimension-extra-oculta-junto-con-una-particula-portadora-de-fuerza-conocida-como-foton-oscuro-segun-una-nueva-teoria",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/Hubble_Abell209_potw2527a_sm.webp",
+      "publishedAt": "2026-07-15T09:56:28.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/donne-manager-ville-romane-antiche-donne-vino-donne-olio/",
+      "title": "Donne in carriera. Da semplici governanti a super manager dell’economia agricola romana: uno studio rivoluziona il ruolo delle vilicae, strepitose amministratrici delegate",
+      "summary": "Una ricerca appena pubblicata dimostra che la donna alla guida delle ville romane dirigeva produzione, lavoratori e riti religiosi, occupando una posizione centrale nell’organizzazione economica dell’Impero. Per oltre un secolo gli studiosi hanno immaginato la vilica, la…",
+      "url": "https://www.stilearte.it/donne-manager-ville-romane-antiche-donne-vino-donne-olio/",
+      "image": null,
+      "publishedAt": "2026-07-15T09:32:48.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak",
+        "egiptoarrak",
+        "amerika"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/las-mujeres-que-administraban-las-villas-romanas-eran-mucho-mas-que-simples-amas-de-llaves-un-estudio-revela-las-funciones-de-la-vilica",
+      "title": "Las mujeres que administraban las villas romanas eran mucho más que simples amas de llaves: un estudio revela las funciones de la “vilica”",
+      "summary": "Durante décadas, los historiadores han descrito a la vilica —la administradora de una villa romana— como una figura encargada de las labores domésticas: cocinar, limpiar y cuidar de la casa. Sin embargo, un análisis minucioso de los textos agrícolas romanos, combinado con los…",
+      "url": "https://www.labrujulaverde.com/2026/07/las-mujeres-que-administraban-las-villas-romanas-eran-mucho-mas-que-simples-amas-de-llaves-un-estudio-revela-las-funciones-de-la-vilica",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/urn-cambridge.org-id-binary-alt-20260710143613-81281-optimisedImage-png-S1047759426100804_fig10.jpg.webp",
+      "publishedAt": "2026-07-15T08:00:16.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "desperta-ferro:https://www.despertaferro-ediciones.com/2026/plantas-y-paisajes-del-ii-milenio-al-i-milenio-a-n-e-en-el-noroeste-de-la-peninsula-iberica/",
+      "title": "Plantas y paisajes del II milenio al I milenio a.n.e. en el noroeste de la Península Ibérica",
+      "summary": "Un proyecto arqueológico financiado por la Fundación Palarq estudia los vestigios vegetales preservados en tres yacimientos de Lugo, Pontevedra y León a fin de obtener datos ambientales e información sobre las interacciones establecidas entre plantas y personas en la Edad del…",
+      "url": "https://www.despertaferro-ediciones.com/2026/plantas-y-paisajes-del-ii-milenio-al-i-milenio-a-n-e-en-el-noroeste-de-la-peninsula-iberica/",
+      "image": null,
+      "publishedAt": "2026-07-15T06:51:44.000Z",
+      "source": {
+        "id": "desperta-ferro",
+        "name": "Desperta Ferro Ediciones"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/07/260707054108.htm",
+      "title": "Ancient DNA reveals the mysterious collapse of Europe's megalith builders",
+      "summary": "DNA from a 5,000-year-old French megalithic tomb reveals that the people buried before and after a population collapse were genetically unrelated, pointing to a major migration after a devastating crisis. The shift coincided with new social traditions and the disappearance of…",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260707054108.htm",
+      "image": null,
+      "publishedAt": "2026-07-08T07:50:55.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/shorts/letters/mhm-153-letters-june/",
+      "title": "MHM 153 Letters – June",
+      "summary": "Your thoughts on issues raised by the magazine.",
+      "url": "https://the-past.com/shorts/letters/mhm-153-letters-june/",
+      "image": null,
+      "publishedAt": "2026-07-07T15:00:25.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/06/260626030443.htm",
+      "title": "The Neanderthal “love story” isn’t what the DNA actually shows",
+      "summary": "Claims that Neanderthal men \"preferred\" Homo sapiens women may make for catchy headlines, but the underlying research does not actually show prehistoric romance. The genetic evidence only points to an uneven pattern of DNA inheritance, which could have been shaped by biology,…",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260626030443.htm",
+      "image": null,
+      "publishedAt": "2026-07-07T06:47:40.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/shorts/people/sir-lawrence-freedman/",
+      "title": "Sir Lawrence Freedman",
+      "summary": "The academic, historian, and author on war stories, shifting interests, and some memorable moments.",
+      "url": "https://the-past.com/shorts/people/sir-lawrence-freedman/",
+      "image": null,
+      "publishedAt": "2026-07-06T15:00:35.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/06/260625060216.htm",
+      "title": "Ancient bees turned tooth sockets into tiny nurseries 20,000 years ago",
+      "summary": "A stunning fossil discovery shows that ancient bees used the empty tooth sockets of mammal bones as tiny nests after owls scattered the bones across a cave floor 20,000 years ago. It's the first known evidence of bees nesting inside animal bones, revealing an astonishingly…",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260625060216.htm",
+      "image": null,
+      "publishedAt": "2026-07-05T19:23:32.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/review/books/hammer-of-the-gods/",
+      "title": "Hammer of the Gods",
+      "summary": "Don Hollway’s account of the life of the Norse warlord Olaf Tryggvason (king of Norway in the years c.995-1000) covers a period of momentous social and religious change in the lands bordering",
+      "url": "https://the-past.com/review/books/hammer-of-the-gods/",
+      "image": null,
+      "publishedAt": "2026-07-05T09:30:01.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/review/books/in-brief-11/",
+      "title": "In Brief",
+      "summary": "MHM’s round-up of the latest military history releases.",
+      "url": "https://the-past.com/review/books/in-brief-11/",
+      "image": null,
+      "publishedAt": "2026-07-05T08:00:33.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
+      "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
+      "summary": "Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activities Archaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western desert. The fourth-century quarters had residential and religious structures,…",
+      "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
+      "image": "https://i.guim.co.uk/img/media/143b8d47a8a54be65405a4fe6d0bb23cf02fe1f2/146_0_716_573/master/716.jpg?width=140&quality=85&auto=format&fit=max&s=8edc3dc6eea3352f53f37e661884deb9",
+      "publishedAt": "2026-07-04T20:32:52.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/review/whats-on/beauty-and-destruction-wartime-london-in-art/",
+      "title": "Beauty and Destruction: wartime London in art",
+      "summary": "Reviewing the best military history exhibitions, with Peter Popham.",
+      "url": "https://the-past.com/review/whats-on/beauty-and-destruction-wartime-london-in-art/",
+      "image": null,
+      "publishedAt": "2026-07-04T17:00:10.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "museoak"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/news/cannons-from-the-american-revolution-go-on-display/",
+      "title": "Cannons from the American Revolution go on display",
+      "summary": "A collection of large cannons from the American Revolutionary War has returned to Savannah, Georgia, after several years of conservation work, as part of a project led by the US Army Corps",
+      "url": "https://the-past.com/news/cannons-from-the-american-revolution-go-on-display/",
+      "image": null,
+      "publishedAt": "2026-07-04T09:00:47.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/news/hidden-coins-discovered-beneath-foremast-of-hms-victory/",
+      "title": "Hidden coins discovered beneath foremast of HMS Victory",
+      "summary": "Six coins have been recovered from beneath the foremast of Nelson’s famous flagship during an ongoing conservation project. Over several nights in April, a 750-tonne crane was used to remove the Victory’s",
+      "url": "https://the-past.com/news/hidden-coins-discovered-beneath-foremast-of-hms-victory/",
+      "image": null,
+      "publishedAt": "2026-07-04T08:45:29.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/news/divers-find-wwi-wreck-of-us-coast-guard-cutter/",
+      "title": "Divers find WWI wreck of US Coast Guard cutter",
+      "summary": "A team of divers believe they have identified the wreck of the USCGC Tampa off the English coast. The vessel was one of six United States Coast Guard cutters sent to Europe",
+      "url": "https://the-past.com/news/divers-find-wwi-wreck-of-us-coast-guard-cutter/",
+      "image": null,
+      "publishedAt": "2026-07-04T08:30:02.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/shorts/ideas/war-of-words-doodlebug/",
+      "title": "War of Words – ‘Doodlebug’",
+      "summary": "With Marc DeSantis",
+      "url": "https://the-past.com/shorts/ideas/war-of-words-doodlebug/",
+      "image": null,
+      "publishedAt": "2026-07-04T08:00:16.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "desperta-ferro:https://www.despertaferro-ediciones.com/2026/4-de-julio-1776-250-anos-revolucion-declaracion-de-independencia-estados-unidos/",
+      "title": "250 años de la revolución que cambió el mundo",
+      "summary": "En el 250.º aniversario de la Declaración de Independencia de Estados Unidos no recordamos solo el nacimiento de una nueva nación. Recordamos uno de los momentos clave en los que la historia de la Humanidad cambia de dirección. La entrada 250 años de la revolución que cambió el…",
+      "url": "https://www.despertaferro-ediciones.com/2026/4-de-julio-1776-250-anos-revolucion-declaracion-de-independencia-estados-unidos/",
+      "image": null,
+      "publishedAt": "2026-07-02T18:08:33.000Z",
+      "source": {
+        "id": "desperta-ferro",
+        "name": "Desperta Ferro Ediciones"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": []
+    },
+    {
+      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/d-artagnan-de-nouvelles-analyses-archeologiques-et-genetiques-pour-identifier-les-ossements-decouverts-a-maastricht_193538?xtor=RSS-4",
+      "title": "D'Artagnan : les analyses se poursuivent sur le squelette de Maastricht",
+      "summary": "Les premières analyses des ossements découverts sous une église de Maastricht n'ont pas permis de confirmer qu'ils appartiennent à D'Artagnan. Les chercheurs vont désormais recourir à des investigations archéologiques, historiques et génétiques complémentaires pour tenter de…",
+      "url": "https://www.sciencesetavenir.fr/archeo-paleo/d-artagnan-de-nouvelles-analyses-archeologiques-et-genetiques-pour-identifier-les-ossements-decouverts-a-maastricht_193538?xtor=RSS-4",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/02/cover-r4x3w1200-6a463b95d58ef-afp-20260327-a4xa233-v1-highres-netherlandsfrancearchaeologyleteraturemusketeer.jpg",
+      "publishedAt": "2026-07-02T10:21:10.000Z",
+      "source": {
+        "id": "sciencesetavenir-archeo",
+        "name": "Sciences et Avenir — Archéo & Paléo"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/un-t-rex-parmi-les-mieux-conserves-presente-a-new-york-avant-sa-vente_193534?xtor=RSS-4",
+      "title": "Un T-Rex parmi les mieux conservés présenté à New York avant sa vente",
+      "summary": "Avant sa mise aux enchères, le squelette de « Gus », un Tyrannosaurus rex vieux de 67 millions d'années considéré comme l'un des plus grands et des plus complets spécimens jamais découverts, a été dévoilé mercredi 1er juillet à New York. Ce géant de près de 12 mètres de long…",
+      "url": "https://www.sciencesetavenir.fr/archeo-paleo/un-t-rex-parmi-les-mieux-conserves-presente-a-new-york-avant-sa-vente_193534?xtor=RSS-4",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/01/cover-r4x3w1200-6a4575c199fa9-26b2a9a1b009929109c5e42d104e9ea7bc827633-jpg.jpg",
+      "publishedAt": "2026-07-02T09:04:26.000Z",
+      "source": {
+        "id": "sciencesetavenir-archeo",
+        "name": "Sciences et Avenir — Archéo & Paléo"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/feature/scotlands-first-warriors-interpreting-evidence-of-conflict-from-the-neolithic-to-the-coming-of-the-romans/",
+      "title": "Scotland’s first warriors: Interpreting evidence of conflict from the Neolithic to the coming of the Romans",
+      "summary": "Interpersonal violence has been a fact of human existence for much of our long history – but how far is this reflected in the archaeological record? With a major new exhibition now open at the National Museum of Scotland, Matthew G Knight and Hannah Boddy examine traces of past…",
+      "url": "https://the-past.com/feature/scotlands-first-warriors-interpreting-evidence-of-conflict-from-the-neolithic-to-the-coming-of-the-romans/",
+      "image": null,
+      "publishedAt": "2026-07-02T05:00:17.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria",
+        "erromatarrak",
+        "museoak"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/comment/excavating-the-ca-archive-great-religious-buildings/",
+      "title": "Excavating the CA archive: Great religious buildings",
+      "summary": "After last month’s column on Westminster Abbey, St Paul’s Cathedral, and Canterbury Cathedral, I will continue my ecclesiastical theme this month by exploring three of the great religious buildings in the north of England: York Minster, Durham Cathedral, and Whitby Abbey.",
+      "url": "https://the-past.com/comment/excavating-the-ca-archive-great-religious-buildings/",
+      "image": null,
+      "publishedAt": "2026-07-01T17:00:41.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/news/audio/2026/jun/29/they-take-you-out-of-life-out-of-time-a-journey-into-spains-astonishing-cave-paintings-podcast",
+      "title": "‘They take you out of life, out of time’: a journey into Spain’s astonishing cave paintings – podcast",
+      "summary": "For tens of thousands of years, these Palaeolithic artworks were unseen. When they were rediscovered, onlookers marvelled at their vivid beauty. One of the world’s leading experts took me up close Written and read by Stephen Phelan Continue reading...",
+      "url": "https://www.theguardian.com/news/audio/2026/jun/29/they-take-you-out-of-life-out-of-time-a-journey-into-spains-astonishing-cave-paintings-podcast",
+      "image": "https://i.guim.co.uk/img/media/db4296279f4240844d21f55c68453a548aa10595/112_0_3619_2896/master/3619.jpg?width=140&quality=85&auto=format&fit=max&s=90ede0ca3a45cb6bb1c14134c90005f5",
+      "publishedAt": "2026-06-29T04:00:29.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "iberia",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "pnas-arch:https://openalex.org/W7166554937",
+      "title": "Late Pleistocene Clovis atlatl hunting fails a chronological modeling test",
+      "summary": "Late Pleistocene North American foragers assigned to the Clovis culture have long been assumed to have hunted megafauna with the atlatl, which would have provided several advantages. Yet, we chronologically modeled radiocarbon ages from preserved Holocene atlatls and show that…",
+      "url": "https://doi.org/10.1073/pnas.2607964123",
+      "image": null,
+      "publishedAt": "2026-06-29T00:00:00.000Z",
+      "source": {
+        "id": "pnas-arch",
+        "name": "PNAS — Arkeologia"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "archeologiaviva:https://www.archeologiaviva.it/25611/grotte-di-castelcivita/",
+      "title": "Grotte di Castelcivita: un microcosmo di Preistoria",
+      "summary": "Archeologia Viva n. 238 – luglio/agosto 2026 pp. 18-31 di Simona Arrighi, Jacopo Crezzini, Armando Falcucci, Giulia Marciani, Matteo Rossini e Adriana Moroni a cura di Adriana Moroni foto di Alfio Giannotti e Altri In provincia di Salerno ai piedi dei monti Alburni una cavità…",
+      "url": "https://www.archeologiaviva.it/25611/grotte-di-castelcivita/",
+      "image": null,
+      "publishedAt": "2026-06-26T08:30:58.000Z",
+      "source": {
+        "id": "archeologiaviva",
+        "name": "Archeologia Viva"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "complutum-ucm:https://revistas.ucm.es/index.php/CMPL/es/article/view/109585",
+      "title": "Los equipos de molienda rupestre (EMR) en el noroeste ibérico: Hacia una caracterización territorial",
+      "summary": "Este trabajo presenta los resultados de un estudio sistemático sobre más de 170 emplazamientos con Equipos de Molienda Rupestre (EMR) ubicados en el noroeste peninsular analizados en los últimos años. Hasta ahora, la ausencia de estudios detallados dificultaba la comprensión y…",
+      "url": "https://revistas.ucm.es/index.php/CMPL/es/article/view/109585",
+      "image": null,
+      "publishedAt": "2026-06-26T00:00:00.000Z",
+      "source": {
+        "id": "complutum-ucm",
+        "name": "Complutum (UCM)"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "complutum-ucm:https://revistas.ucm.es/index.php/CMPL/es/article/view/109586",
+      "title": "Discursos de poder (también) en femenino en las necrópolis ibéricas del sureste de la península ibérica (siglos VI-III a.n.e.)",
+      "summary": "Este artículo tiene como objetivo proponer nuevas interpretaciones sobre el papel de la mujer en las comunidades de la Edad del Hierro ibérica en el sureste de la Península Ibérica. A partir del estudio de varias necrópolis situadas en esta zona, se propone un modelo de…",
+      "url": "https://revistas.ucm.es/index.php/CMPL/es/article/view/109586",
+      "image": null,
+      "publishedAt": "2026-06-26T00:00:00.000Z",
+      "source": {
+        "id": "complutum-ucm",
+        "name": "Complutum (UCM)"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": []
+    },
+    {
+      "id": "complutum-ucm:https://revistas.ucm.es/index.php/CMPL/es/article/view/109587",
+      "title": "El cráneo como receptáculo del alma en la Edad del Bronce y I Edad del Hierro en el Suroeste de la Península Ibérica",
+      "summary": "En la presente publicación se analiza el tratamiento especial que recibió el cráneo en varios contextos funerarios de la Edad del Bronce y la I Edad del Hierro en el suroeste de la península ibérica. Tras abordar los casos de estudio, se propone a partir de múltiples paralelos…",
+      "url": "https://revistas.ucm.es/index.php/CMPL/es/article/view/109587",
+      "image": null,
+      "publishedAt": "2026-06-26T00:00:00.000Z",
+      "source": {
+        "id": "complutum-ucm",
+        "name": "Complutum (UCM)"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "amerika"
+      ]
+    },
+    {
+      "id": "complutum-ucm:https://revistas.ucm.es/index.php/CMPL/es/article/view/109588",
+      "title": "El papel de las bellotas en la cotidianeidad y en el imaginario de los pueblos prerromanos de la Meseta: el caso de Numancia (s. IV-II a. C.)",
+      "summary": "Este artículo analiza el papel de las bellotas en la vida cotidiana y en el imaginario colectivo de las comunidades meseteñas de la II Edad del Hierro, centrado especialmente en el oppidum de Numancia. A partir del estudio de fuentes clásicas se examina el clima y el consumo de…",
+      "url": "https://revistas.ucm.es/index.php/CMPL/es/article/view/109588",
+      "image": null,
+      "publishedAt": "2026-06-26T00:00:00.000Z",
+      "source": {
+        "id": "complutum-ucm",
+        "name": "Complutum (UCM)"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "complutum-ucm:https://revistas.ucm.es/index.php/CMPL/es/article/view/109592",
+      "title": "¿Combates incruentos y danzas guerreras en Iberia? Reflexiones y aportaciones desde las fuentes literarias e iconográficas",
+      "summary": "Este trabajo examina la hipótesis de la existencia de combates singulares incruentos y danzas guerreras entre las sociedades ibéricas. A través de una metodología multidisciplinar, combinando el análisis de fuentes literarias grecorromanas con el de las fuentes iconográficas y…",
+      "url": "https://revistas.ucm.es/index.php/CMPL/es/article/view/109592",
+      "image": null,
+      "publishedAt": "2026-06-26T00:00:00.000Z",
+      "source": {
+        "id": "complutum-ucm",
+        "name": "Complutum (UCM)"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "erromatarrak",
+        "greziarrak"
+      ]
+    },
+    {
+      "id": "complutum-ucm:https://revistas.ucm.es/index.php/CMPL/es/article/view/109593",
+      "title": "La Ossigitania y Ossigi Latonium: estado de la cuestión y propuestas para su definición arqueológica",
+      "summary": "El topónimo pliniano Ossigitania se muestra en la actualidad como un ámbito ambiguo, vagamente definido por las fuentes escritas y por su aparente constatación epigráfica, que lo sitúa en el Alto Guadalquivir. La ubicación y delimitación de este territorio y su teórica capital,…",
+      "url": "https://revistas.ucm.es/index.php/CMPL/es/article/view/109593",
+      "image": null,
+      "publishedAt": "2026-06-26T00:00:00.000Z",
+      "source": {
+        "id": "complutum-ucm",
+        "name": "Complutum (UCM)"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": []
+    },
+    {
+      "id": "complutum-ucm:https://revistas.ucm.es/index.php/CMPL/es/article/view/109594",
+      "title": "Neomaterialismos: fuentes de cambio para la arqueología",
+      "summary": "Uno de los debates intelectuales más relevantes es el planteado por los nuevos materialismos y realismos en filosofía, sociología y ciencias naturales. Desde una pluralidad de disciplinas, se vindica el papel de los objetos materiales en la producción de mundo y de sociedad, y…",
+      "url": "https://revistas.ucm.es/index.php/CMPL/es/article/view/109594",
+      "image": null,
+      "publishedAt": "2026-06-26T00:00:00.000Z",
+      "source": {
+        "id": "complutum-ucm",
+        "name": "Complutum (UCM)"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "ekialde-hurbila",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "complutum-ucm:https://revistas.ucm.es/index.php/CMPL/es/article/view/109602",
+      "title": "Martín Almagro-Gorbea. El monumento orientalizante de Pozo Moro (Albacete). Alacant: Publicacions Universitat d’Alacant (Studia Hispano-Phoenicia 12); Albacete: Instituto de Estudios Albacetenses “Don Juan Manuel” (Serie VI – Varios, 31), 2025, 722 páginas. ISBN 978-84-9717-903-4 (Universitat d’Alacant). ISBN 978-84-10056-36-7 (IEA). ISBN 978-84-10056-37-4 (IEA, Libro digital, https://iealbacetenses.dipualba.es/viewer.vm?id=0000100280)",
+      "summary": "",
+      "url": "https://revistas.ucm.es/index.php/CMPL/es/article/view/109602",
+      "image": null,
+      "publishedAt": "2026-06-26T00:00:00.000Z",
+      "source": {
+        "id": "complutum-ucm",
+        "name": "Complutum (UCM)"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": []
+    },
+    {
+      "id": "complutum-ucm:https://revistas.ucm.es/index.php/CMPL/es/article/view/110599",
+      "title": "Los celtíberos y la guerra. Jornadas científicas en homenaje a Francisco Burillo Mozota. Daroca – Aranda del Moncayo, 8 -9 de mayo de 2026",
+      "summary": "",
+      "url": "https://revistas.ucm.es/index.php/CMPL/es/article/view/110599",
+      "image": null,
+      "publishedAt": "2026-06-26T00:00:00.000Z",
+      "source": {
+        "id": "complutum-ucm",
+        "name": "Complutum (UCM)"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "iberiarrak"
+      ]
+    },
+    {
+      "id": "complutum-ucm:https://revistas.ucm.es/index.php/CMPL/es/article/view/109607",
+      "title": "Román Rodríguez Calleja. El poblamiento del Bronce Final al Alto Imperio romano en la región de los Torozos (valle medio del Duero): un estudio desde la Arqueología del Paisaje y el análisis estadístico multivariante. Studia Arqueológica nº 104. Universidad de Valladolid. 2024, 404 páginas. ISBN: 978-84-1320-286-0",
+      "summary": "",
+      "url": "https://revistas.ucm.es/index.php/CMPL/es/article/view/109607",
+      "image": null,
+      "publishedAt": "2026-06-26T00:00:00.000Z",
+      "source": {
+        "id": "complutum-ucm",
+        "name": "Complutum (UCM)"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/anthropologie/ce-que-les-squelettes-decapites-de-vrable-nous-apprennent-sur-les-premiers-agriculteurs-europeens_193340?xtor=RSS-4",
+      "title": "Les archéologues percent peu à peu les secrets des squelettes décapités de Vráble",
+      "summary": "Vráble doit être rapproché d’autres sites européens où l’on a retrouvé des corps sans tête ou des centaines de crânes.",
+      "url": "https://www.sciencesetavenir.fr/archeo-paleo/anthropologie/ce-que-les-squelettes-decapites-de-vrable-nous-apprennent-sur-les-premiers-agriculteurs-europeens_193340?xtor=RSS-4",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/06/22/cover-r4x3w1200-6a395c405b41f-vrable-neolithique-squelettes-sans-tete.jpg",
+      "publishedAt": "2026-06-23T13:56:26.000Z",
+      "source": {
+        "id": "sciencesetavenir-archeo",
+        "name": "Sciences et Avenir — Archéo & Paléo"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/06/260621060311.htm",
+      "title": "This four-winged dinosaur may have terrorized Earth's earliest birds",
+      "summary": "A newly discovered feathered dinosaur called Jian changmaensis may be the missing predator responsible for mysterious piles of crushed prehistoric bird bones in China. The four-winged glider, a close cousin of Velociraptor, helps reveal how early birds and their dinosaur…",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260621060311.htm",
+      "image": null,
+      "publishedAt": "2026-06-23T12:58:10.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "asia",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/archeologie/au-mexique-decouverte-de-vestiges-prehispaniques-uniques_193337?xtor=RSS-4",
+      "title": "Au Mexique, découverte de vestiges préhispaniques \"uniques\"",
+      "summary": "Des archéologues ont mis au jour dans l'est du Mexique les vestiges d'un édifice et une sculpture aux caractéristiques inédites, une découverte qui pourrait témoigner de l'existence d'une culture locale encore inconnue ou jusqu'ici mal documentée.",
+      "url": "https://www.sciencesetavenir.fr/archeo-paleo/archeologie/au-mexique-decouverte-de-vestiges-prehispaniques-uniques_193337?xtor=RSS-4",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/06/22/cover-r4x3w1200-6a39327dc40c1-mexique.jpg",
+      "publishedAt": "2026-06-22T14:15:52.000Z",
+      "source": {
+        "id": "sciencesetavenir-archeo",
+        "name": "Sciences et Avenir — Archéo & Paléo"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/uk-news/2026/jun/18/solstice-aligned-monument-archaeology-wiltshire-stonehenge-prototype",
+      "title": "Solstice-aligned 5,000-year-old monument ‘once in a lifetime find’, say archaeologists",
+      "summary": "Wessex Archaeology suspect they have uncovered a prototype for world-famous Stonehenge site in Wiltshire A 5,000-year-old monument that was aligned with the summer and winter solstices and may have served as a prototype for the later solar alignment at Stonehenge has been…",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/18/solstice-aligned-monument-archaeology-wiltshire-stonehenge-prototype",
+      "image": "https://i.guim.co.uk/img/media/a72f6f0d3edec6c42c006f31c8ec5e28b30c364b/346_0_4853_3883/master/4853.jpg?width=140&quality=85&auto=format&fit=max&s=e707e8739c2dbebb2a5232bf37d5401f",
+      "publishedAt": "2026-06-17T23:00:47.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "inrap-bsky:https://bsky.app/profile/inrap.fr/post/3moiokxbiws2h",
+      "title": "",
+      "summary": "Questionnaire : L’archéologie et vous🔍 L'archéologie vous intéresse ? Dites-le nous en 3 minutes en répondant à ce questionnaire : Répondre au questionnaire 👉 https://docs.google.com/forms/d/e/1FAIpQLSdJziov5M2Iik_e66pOZe3nanzaBxIA0B-nZpFEEvj450Mrpg/viewform",
+      "url": "https://bsky.app/profile/inrap.fr/post/3moiokxbiws2h",
+      "image": null,
+      "publishedAt": "2026-06-17T15:58:00.000Z",
+      "source": {
+        "id": "inrap-bsky",
+        "name": "Inrap (Bluesky)"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/science/2026/jun/17/ancient-dna-evidence-earliest-known-plague-outbreak",
+      "title": "Ancient DNA provides evidence of earliest known plague outbreak",
+      "summary": "Discovery in Siberia suggests bacterium from raw marmots devastated hunter-gatherer tribes about 5,500 years ago The earliest evidence for an outbreak of plague has been uncovered at late stone age cemeteries in south-eastern Siberia where dozens of hunter-gatherers and their…",
+      "url": "https://www.theguardian.com/science/2026/jun/17/ancient-dna-evidence-earliest-known-plague-outbreak",
+      "image": "https://i.guim.co.uk/img/media/c0ab2b64cb083c4f8f5c28d4469da316e3e8ee0c/161_0_2431_1944/master/2431.jpg?width=140&quality=85&auto=format&fit=max&s=faf4af03453ebe673abf016c7b44cb2a",
+      "publishedAt": "2026-06-17T15:00:36.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "iberia",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "desperta-ferro:https://www.despertaferro-ediciones.com/2026/la-historia-que-no-escribieron-los-reyes-2200-anos-de-paisajes-en-la-montana-vasca/",
+      "title": "La historia que no escribieron los reyes. 2200 años de paisajes en la montaña vasca",
+      "summary": "Los documentos hablan de reyes, guerras y fronteras. El paisaje, en cambio, conserva la historia de quienes trabajaron la tierra, cuidaron los bosques y transformaron el territorio generación tras generación. En la montaña alavesa, esa memoria permite reconstruir más de dos…",
+      "url": "https://www.despertaferro-ediciones.com/2026/la-historia-que-no-escribieron-los-reyes-2200-anos-de-paisajes-en-la-montana-vasca/",
+      "image": null,
+      "publishedAt": "2026-06-17T11:36:05.000Z",
+      "source": {
+        "id": "desperta-ferro",
+        "name": "Desperta Ferro Ediciones"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "iberiarrak"
+      ]
+    },
+    {
+      "id": "lemonde-archeo:https://www.lemonde.fr/sciences/article/2026/06/15/en-inde-le-patrimoine-culturel-naturel-et-archeologique-neglige-par-les-autorites_6703228_1650684.html",
+      "title": "En Inde, le patrimoine culturel, naturel et archéologique négligé par les autorités",
+      "summary": "Alors qu’une cinquantaine de monuments officiellement protégés ont disparu, le gouvernement de Narendra Modi est plus enclin à promouvoir le patrimoine hindou et la création de nouveaux temples qu’à protéger l’héritage musulman.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/06/15/en-inde-le-patrimoine-culturel-naturel-et-archeologique-neglige-par-les-autorites_6703228_1650684.html",
+      "image": "https://img.lemde.fr/2026/06/10/250/0/3000/1500/644/322/60/0/e8c592d_upload-1-knekklff9dmv-bhimbetka-31.jpg",
+      "publishedAt": "2026-06-15T15:30:01.000Z",
+      "source": {
+        "id": "lemonde-archeo",
+        "name": "Le Monde — Archéologie"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/06/260604044252.htm",
+      "title": "Goethe never knew this 40-million-year-old ant was hidden in his collection",
+      "summary": "Scientists examining amber from Goethe’s personal collection discovered three hidden fossil insects, including an extinct ant preserved in extraordinary detail. Advanced 3D imaging allowed researchers to see not only the ant’s outer features but also structures inside its body.…",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260604044252.htm",
+      "image": null,
+      "publishedAt": "2026-06-04T12:30:55.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "inrap-bsky:https://bsky.app/profile/inrap.fr/post/3mnfhmxddd22i",
+      "title": "",
+      "summary": "⏳ Plus que quelques jours pour découvrir l’exposition « Les maîtres du feu » au Musée d’Archéologie nationale ! Jusqu’au 15 juin 2026, plongez au cœur de l’âge du Bronze et découvrez comment la métallurgie a transformé les sociétés d’Europe occidentale 👉…",
+      "url": "https://bsky.app/profile/inrap.fr/post/3mnfhmxddd22i",
+      "image": null,
+      "publishedAt": "2026-06-03T15:51:00.000Z",
+      "source": {
+        "id": "inrap-bsky",
+        "name": "Inrap (Bluesky)"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": [
+        "prehistoria",
+        "museoak"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/06/260603023914.htm",
+      "title": "A child's tooth and strange green stones uncover a 5,500-year-old mystery",
+      "summary": "An ancient mountain cave in the Pyrenees may have served as one of the earliest high-altitude mining camps ever discovered, with evidence of repeated visits spanning thousands of years. The find becomes even more intriguing with the discovery of a child’s remains and clues that…",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260603023914.htm",
+      "image": null,
+      "publishedAt": "2026-06-03T09:10:16.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/world/2026/jun/02/shipwrecks-evidence-real-pirates-of-the-caribbean-nassau-harbour-bahamas",
+      "title": "Musket balls and a burnt hull: evidence of real pirates of the Caribbean found in Bahamas",
+      "summary": "Exclusive: First shipwrecks found in Nassau harbour on New Providence, once the hideout of Blackbeard and Calico Jack The first shipwrecks linked to the real pirates of the Caribbean in the Bahamas have been discovered by an international team co-directed by a British marine…",
+      "url": "https://www.theguardian.com/world/2026/jun/02/shipwrecks-evidence-real-pirates-of-the-caribbean-nassau-harbour-bahamas",
+      "image": "https://i.guim.co.uk/img/media/65febb5df464f0a4fff48b9f6d00f01c2c86f89d/168_55_1681_1344/master/1681.jpg?width=140&quality=85&auto=format&fit=max&s=6f104ea5b96f422d4744b59b6dc777d2",
+      "publishedAt": "2026-06-02T08:00:42.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/science/2026/jun/02/journey-into-spain-palaeolithic-cave-paintings-altamira",
+      "title": "‘They take you out of life, out of time’: a journey into Spain’s astonishing cave paintings",
+      "summary": "For tens of thousands of years, these Palaeolithic artworks were unseen. When they were rediscovered, onlookers marvelled at their vivid beauty. One of the world’s leading experts took me up close The aurochs, the mammoth and the steppe bison are long extinct, but their painted…",
+      "url": "https://www.theguardian.com/science/2026/jun/02/journey-into-spain-palaeolithic-cave-paintings-altamira",
+      "image": "https://i.guim.co.uk/img/media/db4296279f4240844d21f55c68453a548aa10595/638_152_3151_2521/master/3151.jpg?width=140&quality=85&auto=format&fit=max&s=994849a29827fb0c14336623d2ae4400",
+      "publishedAt": "2026-06-02T04:00:38.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "basque",
+      "topics": [
+        "prehistoria",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/science/2026/may/31/excavations-casting-light-on-stone-age-life",
+      "title": "Excavations casting light on stone age life | Letters",
+      "summary": "La Brea in Los Angeles is not the only urban, active ice age excavation site in world, writes Prof Martin K Jones Your article on the archaeology of La Brea Tar Pits in Los Angeles makes for engaging reading, but La Brea is far from being the “only urban, active ice age…",
+      "url": "https://www.theguardian.com/science/2026/may/31/excavations-casting-light-on-stone-age-life",
+      "image": "https://i.guim.co.uk/img/media/1b6fc46b0ae64613c930b91c7d72fcdbfda35161/0_0_4264_3413/master/4264.jpg?width=140&quality=85&auto=format&fit=max&s=5b0f5be586c10d5778ddd9aa1918ad92",
+      "publishedAt": "2026-05-31T16:36:14.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "erromatarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/05/260529043649.htm",
+      "title": "Ancient DNA reveals how women helped transform prehistoric Europe",
+      "summary": "New DNA evidence shows that Europe’s hunter-gatherers and early farmers interacted far more closely than previously thought, with women likely playing a crucial role in spreading farming across northwestern Europe. Centuries later, the arrival of Bell Beaker migrants triggered…",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260529043649.htm",
+      "image": null,
+      "publishedAt": "2026-05-30T08:02:43.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/05/260525000459.htm",
+      "title": "This prehistoric fish may explain how animals first walked on Earth",
+      "summary": "Scientists have peered inside the skull of a 380-million-year-old Antarctic fish that was closely related to the first animals to walk on land, revealing surprising clues about how life began its move out of the water. Using advanced neutron imaging, researchers discovered that…",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260525000459.htm",
+      "image": null,
+      "publishedAt": "2026-05-25T13:30:01.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/science/2026/may/24/anna-ritchie-obituary",
+      "title": "Anna Ritchie obituary",
+      "summary": "Archaeologist whose excavations in Orkney included Knap of Howar, with domestic buildings more than 5,000 years old In 1970, on the far north-west corner of Mainland, Orkney, erosion threatened a low mound opposite the tidal island of the Brough of Birsay, a site of Pictish and…",
+      "url": "https://www.theguardian.com/science/2026/may/24/anna-ritchie-obituary",
+      "image": "https://i.guim.co.uk/img/media/b7be43ea2689fe467cf1b4b7d80f791a07f7e6d3/161_140_1678_1342/master/1678.jpg?width=140&quality=85&auto=format&fit=max&s=5bc1c2b3eb1cccdc25294ae023100b64",
+      "publishedAt": "2026-05-24T10:35:16.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/uk-news/2026/may/22/english-heritage-neolithic-kusuma-hall-stonehenge",
+      "title": "English Heritage unveils recreation of 4,500-year-old Neolithic hall near Stonehenge",
+      "summary": "The Kusuma Neolithic Hall, based on Durrington 68 site, will allow visitors to ‘step back in time’ into the lives of those who built the stone circle It may have been a place for ceremony or a barn for pack animals. It could have been a place for weary labourers to rest their…",
+      "url": "https://www.theguardian.com/uk-news/2026/may/22/english-heritage-neolithic-kusuma-hall-stonehenge",
+      "image": "https://i.guim.co.uk/img/media/86d29aa7e256e05be847cb3d402419417a5c54b7/681_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=df51dd0d1b1cda8137311db1e8c4697b",
+      "publishedAt": "2026-05-22T07:00:54.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "vianako-printzea:https://revistas.navarra.es/index.php/PV/article/view/4317",
+      "title": "Presentación",
+      "summary": "",
+      "url": "https://revistas.navarra.es/index.php/PV/article/view/4317",
+      "image": null,
+      "publishedAt": "2026-05-21T22:00:00.000Z",
+      "source": {
+        "id": "vianako-printzea",
+        "name": "Príncipe de Viana (Vianako Printzea)"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": []
+    },
+    {
+      "id": "vianako-printzea:https://revistas.navarra.es/index.php/PV/article/view/4167",
+      "title": "Las colecciones del Museo de Navarra. Apuntes, reflexiones y retos",
+      "summary": "El coleccionismo es inherente al ser humano y se considera el origen de los museos. Las colecciones que se custodian en ellos son un elemento nuclear de la institución y sobre ellas giran funciones básicas como el incremento y la documentación, entre otras. El Museo de Navarra…",
+      "url": "https://revistas.navarra.es/index.php/PV/article/view/4167",
+      "image": null,
+      "publishedAt": "2026-05-21T22:00:00.000Z",
+      "source": {
+        "id": "vianako-printzea",
+        "name": "Príncipe de Viana (Vianako Printzea)"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "prehistoria",
+        "iberiarrak",
+        "museoak"
+      ]
+    },
+    {
+      "id": "vianako-printzea:https://revistas.navarra.es/index.php/PV/article/view/4148",
+      "title": "El Centro de Documentación del Museo del Carlismo. Un lance de preservación y difusión de la investigación histórica sobre el carlismo",
+      "summary": "Tras quince años de andadura, este artículo muestra la labor llevada a cabo en el Centro de Documentación del Museo del Carlismo con el fin de posicionarse como un espacio de referencia para la investigación de la historia del carlismo, el más longevo movimiento…",
+      "url": "https://revistas.navarra.es/index.php/PV/article/view/4148",
+      "image": null,
+      "publishedAt": "2026-05-21T22:00:00.000Z",
+      "source": {
+        "id": "vianako-printzea",
+        "name": "Príncipe de Viana (Vianako Printzea)"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "museoak"
+      ]
+    },
+    {
+      "id": "vianako-printzea:https://revistas.navarra.es/index.php/PV/article/view/4153",
+      "title": "Museo de Tudela. Pasado, presente y futuro",
+      "summary": "La ubicación del Museo de Tudela, en un espacio histórico singular como es el Palacio Decanal, vinculado a la Catedral de Santa María ha dado desde sus orígenes un valor excepcional a la institución museística que tratamos. De la misma forma la variada procedencia y eclecticismo…",
+      "url": "https://revistas.navarra.es/index.php/PV/article/view/4153",
+      "image": null,
+      "publishedAt": "2026-05-21T22:00:00.000Z",
+      "source": {
+        "id": "vianako-printzea",
+        "name": "Príncipe de Viana (Vianako Printzea)"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "museoak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "vianako-printzea:https://revistas.navarra.es/index.php/PV/article/view/4202",
+      "title": "Territorios con alas. Museo-Centro Lenaerts y Jardín de Paulette",
+      "summary": "Este artículo tiene como objetivo presentar la trayectoria y los retos del Museo-Centro Lenaerts como proyecto al servicio del territorio, con vocación de servicio público y simbólicamente vinculado a iniciativas y propuestas relacionadas con la atención, el cuidado y la escucha…",
+      "url": "https://revistas.navarra.es/index.php/PV/article/view/4202",
+      "image": null,
+      "publishedAt": "2026-05-21T22:00:00.000Z",
+      "source": {
+        "id": "vianako-printzea",
+        "name": "Príncipe de Viana (Vianako Printzea)"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "museoak"
+      ]
+    },
+    {
+      "id": "vianako-printzea:https://revistas.navarra.es/index.php/PV/article/view/4169",
+      "title": "Museo Arqueológico Las Eretas: historia del compromiso de una comunidad con su patrimonio cultural",
+      "summary": "La localidad navarra de Berbinzana cuenta con uno de los yacimientos de la Edad de Hierro más importantes de Navarra que actualmente, gracias al empeño de su ayuntamiento y vecindario, se puede comprender por el proyecto de musealización que se llevó a cabo y por la exposición…",
+      "url": "https://revistas.navarra.es/index.php/PV/article/view/4169",
+      "image": null,
+      "publishedAt": "2026-05-21T22:00:00.000Z",
+      "source": {
+        "id": "vianako-printzea",
+        "name": "Príncipe de Viana (Vianako Printzea)"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "prehistoria",
+        "iberiarrak",
+        "museoak"
+      ]
+    },
+    {
+      "id": "vianako-printzea:https://revistas.navarra.es/index.php/PV/article/view/4156",
+      "title": "Museo del Castillo de Javier (Navarra). Trayectoria, obras y retos",
+      "summary": "El artículo presenta el recorrido que cualquier visitante puede realizar en el Castillo y Museo de Javier (Navarra). Se recoge la trayectoria histórica y las principales obras artísticas del lugar, poniendo en valor la riqueza del patrimonio material e inmaterial del castillo de…",
+      "url": "https://revistas.navarra.es/index.php/PV/article/view/4156",
+      "image": null,
+      "publishedAt": "2026-05-21T22:00:00.000Z",
+      "source": {
+        "id": "vianako-printzea",
+        "name": "Príncipe de Viana (Vianako Printzea)"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "erdi-aroa",
+        "iberiarrak",
+        "museoak"
+      ]
+    },
+    {
+      "id": "vianako-printzea:https://revistas.navarra.es/index.php/PV/article/view/4201",
+      "title": "Casa-Museo Julián Gayarre. El recuerdo de una gran voz",
+      "summary": "El siguiente documento explica la relevancia tanto de la Casa-Museo como de la Fundación Julián Gayarre a la hora de preservar y difundir la figura del tenor lírico roncalés: dos piezas fundamentales para la pervivencia de su memoria y patrimonio. El amor y el orgullo que…",
+      "url": "https://revistas.navarra.es/index.php/PV/article/view/4201",
+      "image": null,
+      "publishedAt": "2026-05-21T22:00:00.000Z",
+      "source": {
+        "id": "vianako-printzea",
+        "name": "Príncipe de Viana (Vianako Printzea)"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "museoak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "vianako-printzea:https://revistas.navarra.es/index.php/PV/article/view/4159",
+      "title": "Repensar la formación museológica: la mediación cultural como marco profesional crítico",
+      "summary": "Este artículo parte de una pregunta central: ¿cómo formar a los y las profesionales que necesitan los museos del presente y del futuro? Frente a una formación tradicional centrada en los objetos y los saberes técnicos, se propone integrar la mediación cultural como eje…",
+      "url": "https://revistas.navarra.es/index.php/PV/article/view/4159",
+      "image": null,
+      "publishedAt": "2026-05-21T22:00:00.000Z",
+      "source": {
+        "id": "vianako-printzea",
+        "name": "Príncipe de Viana (Vianako Printzea)"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "museoak"
+      ]
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/uk-news/2026/may/21/iron-age-objects-in-the-melsonby-hoard-may-offer-a-lesson-for-today",
+      "title": "Iron age objects in the Melsonby hoard may offer a lesson for today | Letters",
+      "summary": "Pete Clarkson wonders if attempts were made 2,000 years ago to bury the hatchet – and the cauldron Your fascinating article concerning the discovery of many buried artefacts near my home says that the big question is why the objects were buried (‘Magical’ objects from iron age…",
+      "url": "https://www.theguardian.com/uk-news/2026/may/21/iron-age-objects-in-the-melsonby-hoard-may-offer-a-lesson-for-today",
+      "image": "https://i.guim.co.uk/img/media/136772dda00a354cc6942164f42dfb7d1c299cec/400_0_3998_3200/master/3998.jpg?width=140&quality=85&auto=format&fit=max&s=53ccada76aec0f462b9d27aa173c70e4",
+      "publishedAt": "2026-05-21T16:36:54.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "desperta-ferro:https://www.despertaferro-ediciones.com/2026/investigacion-arqueologica-cuando-el-hielo-asolaba-europa-clima-y-subsistencia-durante-la-ultima-glaciacion-edad-de-hielo-fundacion-palarq/",
+      "title": "Cuando el hielo asolaba Europa. Clima y subsistencia durante la última glaciación",
+      "summary": "El clima ha cambiado constantemente a lo largo de la historia de la Tierra, obligando a las poblaciones humanas a adaptarse para sobrevivir. La llegada de nuestra especie a Eurasia y a la península ibérica coincidió con un periodo de gran inestabilidad climática y temperaturas…",
+      "url": "https://www.despertaferro-ediciones.com/2026/investigacion-arqueologica-cuando-el-hielo-asolaba-europa-clima-y-subsistencia-durante-la-ultima-glaciacion-edad-de-hielo-fundacion-palarq/",
+      "image": null,
+      "publishedAt": "2026-05-21T09:57:04.000Z",
+      "source": {
+        "id": "desperta-ferro",
+        "name": "Desperta Ferro Ediciones"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/science/2026/may/19/dingo-burial-site-first-nations-people-relationship-to-animals",
+      "title": "Signs of ‘feeding’ ritual at dingo burial site shed new light on bond between First Nations people and canines",
+      "summary": "Never documented archaeologically before, evidence points to First Nations people caring for and nursing the animal Get our breaking news email, free app or daily news podcast The discovery of a millennium-old dingo burial site in western New South Wales, including evidence of a…",
+      "url": "https://www.theguardian.com/science/2026/may/19/dingo-burial-site-first-nations-people-relationship-to-animals",
+      "image": "https://i.guim.co.uk/img/media/7fef4223e3684427188374586c52fe5486fdbe2c/126_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=1a5c3651aa9653c8d353b00002cf48cb",
+      "publishedAt": "2026-05-18T14:01:49.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "lemonde-archeo:https://www.lemonde.fr/idees/article/2026/05/18/anne-augereau-archeologue-ce-n-est-pas-parce-que-l-inclination-vers-le-patriarcat-de-l-espece-humaine-semble-ancienne-qu-elle-est-indepassable_6690557_3232.html",
+      "title": "Anne Augereau, archéologue : « Ce n’est pas parce que l’inclination vers le patriarcat de l’espèce humaine semble ancienne qu’elle est indépassable »",
+      "summary": "L’autrice d’« Une préhistoire des femmes » dresse un état des lieux dépassionné et exhaustif des connaissances sur la sulfureuse question des origines de la domination masculine. Elle en conclut que cette dernière s’exerçait déjà durant la préhistoire.",
+      "url": "https://www.lemonde.fr/idees/article/2026/05/18/anne-augereau-archeologue-ce-n-est-pas-parce-que-l-inclination-vers-le-patriarcat-de-l-espece-humaine-semble-ancienne-qu-elle-est-indepassable_6690557_3232.html",
+      "image": "https://img.lemde.fr/2026/05/14/1150/0/3335/1667/644/322/60/0/8001a82_upload-1-qcbiwq6pqkjl-anne-augereau.jpg",
+      "publishedAt": "2026-05-18T04:00:15.000Z",
+      "source": {
+        "id": "lemonde-archeo",
+        "name": "Le Monde — Archéologie"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "pnas-arch:https://openalex.org/W7161592211",
+      "title": "Isotopic evidence for dietary variability among eastern Africa’s first pastoralists",
+      "summary": "During the terminal Pleistocene through Holocene, changes in dietary diversity signaled fundamental shifts in the way humans related to food resources in many parts of the globe. To understand local and regional dietary variation across the transition to food production in Kenya…",
+      "url": "https://doi.org/10.1073/pnas.2532741123",
+      "image": null,
+      "publishedAt": "2026-05-18T00:00:00.000Z",
+      "source": {
+        "id": "pnas-arch",
+        "name": "PNAS — Arkeologia"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "pnas-arch:https://openalex.org/W7161599226",
+      "title": "Seasonal shellfish exploitation by Neanderthals 115,000 years ago",
+      "summary": "The southern coast of Europe has been at the center of archaeological debates contrasting the social and cognitive capabilities of Neanderthals and modern humans. Early evidence of marine resource exploitation by Neanderthals in this region challenged some views that coastal…",
+      "url": "https://doi.org/10.1073/pnas.2531880123",
+      "image": null,
+      "publishedAt": "2026-05-18T00:00:00.000Z",
+      "source": {
+        "id": "pnas-arch",
+        "name": "PNAS — Arkeologia"
+      },
+      "lang": "en",
+      "region": "iberia",
+      "topics": [
+        "iberiarrak"
+      ]
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/science/2026/may/14/melsonby-hoard-iron-age-metalwork-on-display-exhibition-yorkshire-museum",
+      "title": "‘Magical’ objects from iron age hoard found in UK go on display",
+      "summary": "Exhibition of Melsonby hoard in York challenges ideas about life in northern Britain 2,000 years ago Iron age objects that tell a dramatic story of female power and that dispel the myth that northern Britain was a left-behind backwater have gone on display for the first time.…",
+      "url": "https://www.theguardian.com/science/2026/may/14/melsonby-hoard-iron-age-metalwork-on-display-exhibition-yorkshire-museum",
+      "image": "https://i.guim.co.uk/img/media/97aee816e7cfd22e3633d057b4e88dfecd2fef6a/797_708_3114_2492/master/3114.jpg?width=140&quality=85&auto=format&fit=max&s=9bed973b265357600083ad7e3fd2c29b",
+      "publishedAt": "2026-05-14T15:18:54.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria",
+        "museoak"
+      ]
+    },
+    {
+      "id": "lemonde-archeo:https://www.lemonde.fr/sciences/article/2026/05/04/en-turquie-gobeklitepe-le-nombril-du-monde-n-en-finit-pas-de-fasciner-les-archeologues_6685396_1650684.html",
+      "title": "En Turquie, Göbeklitepe, le « nombril » du monde, n’en finit pas de fasciner les archéologues",
+      "summary": "Ce site préhistorique témoigne d’une sédentarisation de chasseurs-cueilleurs lors de la transition du paléolithique vers le néolithique. Considéré comme l’une des plus formidables révélations archéologiques de ces trente dernières années, il donne le vertige avec ses nombreux…",
+      "url": "https://www.lemonde.fr/sciences/article/2026/05/04/en-turquie-gobeklitepe-le-nombril-du-monde-n-en-finit-pas-de-fasciner-les-archeologues_6685396_1650684.html",
+      "image": "https://img.lemde.fr/2026/04/29/393/0/3153/1576/644/322/60/0/69e96f8_upload-1-uqbk62fhlmf1-3.JPG",
+      "publishedAt": "2026-05-04T16:00:16.000Z",
+      "source": {
+        "id": "lemonde-archeo",
+        "name": "Le Monde — Archéologie"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "pnas-arch:https://openalex.org/W7155897983",
+      "title": "Holocene Nile dynamics shaped the physical and cultural landscape of ancient Nubia",
+      "summary": "The Nile River played a central role in ancient civilizations of Northeast Africa, yet its response to Holocene climate change and its impact on societies along its course remain poorly understood. Here we show how climatic and environmental changes over the past 12,500 y shaped…",
+      "url": "https://doi.org/10.1073/pnas.2529986123",
+      "image": null,
+      "publishedAt": "2026-04-27T00:00:00.000Z",
+      "source": {
+        "id": "pnas-arch",
+        "name": "PNAS — Arkeologia"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "egiptoarrak"
+      ]
+    },
+    {
+      "id": "pnas-arch:https://openalex.org/W7155769382",
+      "title": "An independent center for the origin of bread wheat in the Neolithic period of Georgia in the South Caucasus",
+      "summary": "Bread wheat ( Triticum aestivum L.) is the most popular wheat species in the world today. However, studies on the domestication of wheat have rarely focused on the evolution of this specific species of Triticum . The discussions that have emerged have focused on the evolution of…",
+      "url": "https://doi.org/10.1073/pnas.2537697123",
+      "image": null,
+      "publishedAt": "2026-04-27T00:00:00.000Z",
+      "source": {
+        "id": "pnas-arch",
+        "name": "PNAS — Arkeologia"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "complutum-ucm:https://revistas.ucm.es/index.php/CMPL/es/article/view/105649",
+      "title": "Las primeras etapas del arte rupestre paleolítico en el sur de Iberia. Región de Málaga",
+      "summary": "En este trabajo proponemos un registro de cuevas del sur de Iberia que presentan manifestaciones gráficas paleolíticas compuestas por una variedad de signos, predominantemente digitaciones y puntuaciones, trazos, proyecciones de pigmentos sobre formaciones geológicas, o marcas…",
+      "url": "https://revistas.ucm.es/index.php/CMPL/es/article/view/105649",
+      "image": null,
+      "publishedAt": "mié., 03 dic. 2025 00:00:00 +0000",
+      "source": {
+        "id": "complutum-ucm",
+        "name": "Complutum (UCM)"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": []
+    },
+    {
+      "id": "complutum-ucm:https://revistas.ucm.es/index.php/CMPL/es/article/view/105650",
+      "title": "Las pinturas rupestres levantinas del Rincón de la Zorra, en la Hoz de la Vieja (Teruel, Aragón)",
+      "summary": "Este artículo presenta el abrigo con pinturas rupestres del Rincón de la Zorra, recientemente descubierto en el término municipal de Hoz de la Vieja, provincia de Teruel, en la cuenca hidrográfica del río Martín. Este abrigo vendría a sumarse a los localizados en el valle del…",
+      "url": "https://revistas.ucm.es/index.php/CMPL/es/article/view/105650",
+      "image": null,
+      "publishedAt": "mié., 03 dic. 2025 00:00:00 +0000",
+      "source": {
+        "id": "complutum-ucm",
+        "name": "Complutum (UCM)"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "ekialde-hurbila"
+      ]
+    },
+    {
+      "id": "complutum-ucm:https://revistas.ucm.es/index.php/CMPL/es/article/view/105652",
+      "title": "Sistemas de fortificación calcolíticos en la cuenca baja del río Almanzora: Almizaraque, Zájara, Campos y Puente de Santa Bárbara (Almería, sureste de la península ibérica)",
+      "summary": "Los poblados de Campos (1881) y Almizaraque (1905-06) en el Bajo Almanzora y Los Millares (1892) en el Bajo Andarax permitieron a Luis Siret sistematizar el Calcolítico del Sureste de la península ibérica. En la década de los años setenta y ochenta del siglo XX se retomaron las…",
+      "url": "https://revistas.ucm.es/index.php/CMPL/es/article/view/105652",
+      "image": null,
+      "publishedAt": "mié., 03 dic. 2025 00:00:00 +0000",
+      "source": {
+        "id": "complutum-ucm",
+        "name": "Complutum (UCM)"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "museoak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "complutum-ucm:https://revistas.ucm.es/index.php/CMPL/es/article/view/105653",
+      "title": "El Tholos de Peñarroyo I (Benalup-Casas Viejas, Cádiz). Dataciones absolutas, estudio arquitectónico y aproximación a sus evidencias materiales",
+      "summary": "Se presentan los resultados de la excavación arqueológica desarrollada en el tholos de Peñarroyo I (Benalup-Casas Viejas, Cádiz), que pertenece a la necrópolis del Celemín y se localiza en el extremo sur de la península Ibérica. Analizamos su arquitectura, las dataciones…",
+      "url": "https://revistas.ucm.es/index.php/CMPL/es/article/view/105653",
+      "image": null,
+      "publishedAt": "mié., 03 dic. 2025 00:00:00 +0000",
+      "source": {
+        "id": "complutum-ucm",
+        "name": "Complutum (UCM)"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "complutum-ucm:https://revistas.ucm.es/index.php/CMPL/es/article/view/105654",
+      "title": "El Rippenvase de la cista 2 de Los Torcales 6, Beas, Huelva. Propuesta cronológica para esta clase de vasos",
+      "summary": "Durante los trabajos de control de movimientos de tierras para la ejecución de la variante de la N-435, Trigueros-Beas (2015) se descubrieron los restos de cinco cistas en las entidades arqueológicas denominadas «Los Torcales 1 y 6». Como parte del ajuar de la reducción ósea de…",
+      "url": "https://revistas.ucm.es/index.php/CMPL/es/article/view/105654",
+      "image": null,
+      "publishedAt": "mié., 03 dic. 2025 00:00:00 +0000",
+      "source": {
+        "id": "complutum-ucm",
+        "name": "Complutum (UCM)"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "complutum-ucm:https://revistas.ucm.es/index.php/CMPL/es/article/view/105655",
+      "title": "Tarteso: pasado, presente y futuro de una construcción histórica",
+      "summary": "Actualmente, Tarteso es, sin duda, uno de los temas más controvertidos de nuestra historia. Su aparición en las fuentes clásicas y su posterior identificación con una cultura arqueológica, ha derivado en un intenso debate en el que hoy podemos avanzar gracias a las últimas…",
+      "url": "https://revistas.ucm.es/index.php/CMPL/es/article/view/105655",
+      "image": null,
+      "publishedAt": "mié., 03 dic. 2025 00:00:00 +0000",
+      "source": {
+        "id": "complutum-ucm",
+        "name": "Complutum (UCM)"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": []
+    },
+    {
+      "id": "complutum-ucm:https://revistas.ucm.es/index.php/CMPL/es/article/view/105657",
+      "title": "Hacia una definición de la secuencia “iberorromana” de Plaza de Armas de Sevilleja (Espeluy-Bailén): nuevas propuestas interpretativas para un asentamiento excepcional del Alto Guadalquivir (Jaén)",
+      "summary": "Plaza de Armas de Sevilleja (Espeluy-Bailén) es un yacimiento arqueológico de destacada relevancia en la literatura científica sobre la Prehistoria Reciente en el Alto Guadalquivir. Sin embargo, su cultura material advierte la presencia de una secuencia cronológica mucho más…",
+      "url": "https://revistas.ucm.es/index.php/CMPL/es/article/view/105657",
+      "image": null,
+      "publishedAt": "mié., 03 dic. 2025 00:00:00 +0000",
+      "source": {
+        "id": "complutum-ucm",
+        "name": "Complutum (UCM)"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "prehistoria",
+        "erromatarrak",
+        "iberiarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "complutum-ucm:https://revistas.ucm.es/index.php/CMPL/es/article/view/105658",
+      "title": "Qui portat lanceam. Sobre la hermenéutica de la lanza en las estelas de lanzas del nordeste hispánico",
+      "summary": "Al parecer, fue Marco Terencio Varrón, el erudito universal romano, quien sostuvo que el término lancea no tenía un origen latino, sino hispano. Según los testimonios de la toponimia y la antroponimia, dicho término debería buscarse en el ámbito lusitano, como lo ha señalado la…",
+      "url": "https://revistas.ucm.es/index.php/CMPL/es/article/view/105658",
+      "image": null,
+      "publishedAt": "mié., 03 dic. 2025 00:00:00 +0000",
+      "source": {
+        "id": "complutum-ucm",
+        "name": "Complutum (UCM)"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "complutum-ucm:https://revistas.ucm.es/index.php/CMPL/es/article/view/105659",
+      "title": "Arte rupestre troglodita y al aire libre en el asentamiento canario-amazige de Birbique (Agaete, isla de Gran Canaria). Discusión y propuesta sobre sus cronologías",
+      "summary": "El presente estudio ofrece una revisión integral del yacimiento troglodita de Birbique, localizado en el noroeste de Gran Canaria, a partir de una documentación detallada del arte rupestre y su contexto arqueológico. A través de metodologías especializadas, incluyendo…",
+      "url": "https://revistas.ucm.es/index.php/CMPL/es/article/view/105659",
+      "image": null,
+      "publishedAt": "mié., 03 dic. 2025 00:00:00 +0000",
+      "source": {
+        "id": "complutum-ucm",
+        "name": "Complutum (UCM)"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": []
+    },
+    {
+      "id": "cambridge-antiquity:https://openalex.org/W7168289987",
+      "title": "Multiproxy analysis reveals migration and potential origins of the first Christians in medieval Vilnius",
+      "summary": "Before Catholicism was officially adopted in AD 1387, the Lithuanian city of Vilnius was assumed to be largely pagan. Identification of Christian burials within a large medieval cemetery (late thirteenth–fourteenth centuries) in the city was therefore unexpected. Here, the…",
+      "url": "https://doi.org/10.15184/aqy.2026.10389",
+      "image": null,
+      "publishedAt": "2026-07-15T00:00:00.000Z",
+      "source": {
+        "id": "cambridge-antiquity",
+        "name": "Antiquity (Cambridge)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa"
+      ]
     },
     {
       "id": "guardian-arch:https://www.theguardian.com/science/2026/jul/14/ancient-dna-analysis-reveals-upton-lovell-shaman-was-woman-wiltshire",
@@ -965,6 +2452,42 @@
       "lang": "en",
       "region": "europe",
       "topics": []
+    },
+    {
+      "id": "cambridge-antiquity:https://openalex.org/W7168295935",
+      "title": "The identification and work of an eighth-century Maya mathematician",
+      "summary": "Maya glyphic texts from the Classic period (250–900 CE) typically chronicle the exploits of historical or divine characters; everyday or functional records are rare. Here, the authors offer a reconstruction and transcription of a ‘microtext’ painted on an interior wall of…",
+      "url": "https://doi.org/10.15184/aqy.2026.10378",
+      "image": null,
+      "publishedAt": "2026-07-14T00:00:00.000Z",
+      "source": {
+        "id": "cambridge-antiquity",
+        "name": "Antiquity (Cambridge)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "amerika"
+      ]
+    },
+    {
+      "id": "cambridge-antiquity:https://openalex.org/W7168252888",
+      "title": "Spear-throwers from Caleta Huelén 42 (northern Chile): implications for south-central Andean hunting technologies",
+      "summary": "Museum collections represent a vast archive of archaeological objects and the excavations from which they were recovered. The research presented here stems from re-examination of spear-throwers excavated in the 1970s from Caleta Huelén 42, located on the Atacama Desert coast…",
+      "url": "https://doi.org/10.15184/aqy.2026.10398",
+      "image": null,
+      "publishedAt": "2026-07-14T00:00:00.000Z",
+      "source": {
+        "id": "cambridge-antiquity",
+        "name": "Antiquity (Cambridge)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "amerika",
+        "museoak",
+        "aurkikuntza"
+      ]
     },
     {
       "id": "lemonde-sciences:https://www.lemonde.fr/series-d-ete/article/2026/07/13/on-a-roule-sur-mars-de-sojourner-a-perseverance-l-invasion-des-rovers_6723115_3451060.html",
@@ -3576,415 +5099,6 @@
       "region": "europe",
       "topics": [
         "prehistoria"
-      ]
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/archaeology/anglo-saxon-burial-holds-an-older-sister-cradling-her-little-brother-after-they-both-died-1-400-years-ago-possibly-of-an-infectious-disease",
-      "title": "Anglo-Saxon burial holds an older sister cradling her little brother after they both died 1,400 years ago, possibly of an infectious disease",
-      "summary": "An ancient-DNA analysis of a rare Anglo-Saxon double burial revealed the people in the grave were brother and sister.",
-      "url": "https://www.livescience.com/archaeology/anglo-saxon-burial-holds-an-older-sister-cradling-her-little-brother-after-they-both-died-1-400-years-ago-possibly-of-an-infectious-disease",
-      "image": "https://cdn.mos.cms.futurecdn.net/qCFZXF7Ni7YRZPh5bEffrj-1280-80.png",
-      "publishedAt": "2026-04-16T20:42:58.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "medievalists:https://www.medievalists.net/2026/04/new-online-course-exploring-the-troubadours-trobairitz-and-trouveres/",
-      "title": "New Online Course: Exploring the Troubadours, Trobairitz, and Trouvères",
-      "summary": "This three-week course begins on April 18th, with live sessions each Saturday from 1:00 to 3:00 pm EST.",
-      "url": "https://www.medievalists.net/2026/04/new-online-course-exploring-the-troubadours-trobairitz-and-trouveres/",
-      "image": null,
-      "publishedAt": "2026-04-16T19:15:47.000Z",
-      "source": {
-        "id": "medievalists",
-        "name": "Medievalists.net"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "archaeology-mag:https://archaeology.org/news/2026/04/16/u-s-museum-repatriates-marble-head-to-turkey/",
-      "title": "U.S. Museum Repatriates Marble Head to Turkey",
-      "summary": "İZMIR, TURKEY—The Denver Art Museum has repatriated a marble sculpture head of a bearded man […] The post U.S. Museum Repatriates Marble Head to Turkey appeared first on Archaeology Magazine.",
-      "url": "https://archaeology.org/news/2026/04/16/u-s-museum-repatriates-marble-head-to-turkey/",
-      "image": "https://archaeology.org/wp-content/uploads/2026/04/News-20260416-Turkey-Smyrna-Marble-Head.jpg",
-      "publishedAt": "2026-04-16T18:30:00.000Z",
-      "source": {
-        "id": "archaeology-mag",
-        "name": "Archaeology Magazine"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "museoak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/pompei-terremoto-62-orti-vigneti-strategia-economica/",
-      "title": "La scoperta. Perchè non ricostruire? Perché a Pompei vigne e giardini, orti e frutteti presero il posto della case cadute nel terremoto del 62? Uno studio sulla rioccupazione del suolo dopo il sisma che precedette il disastro finale",
-      "summary": "Non furono solo le ceneri del Vesuvio a cancellare la città. Prima della catastrofe del 79 d.C., Pompei aveva già attraversato una crisi profonda provocata dal grande terremoto del 62 d.C. Interi isolati lesionati, edifici collassati, infrastrutture compromesse. Eppure, proprio…",
-      "url": "https://www.stilearte.it/pompei-terremoto-62-orti-vigneti-strategia-economica/",
-      "image": null,
-      "publishedAt": "2026-04-16T17:53:50.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "archaeology-mag:https://archaeology.org/news/2026/04/16/nazi-ammunition-depot-identified-in-slovakia/",
-      "title": "Nazi Ammunition Depot Identified in Slovakia",
-      "summary": "BRATISLAVA, SLOVAKIA—According to a report in The Slovak Spectator, the site of an ammunition depot […] The post Nazi Ammunition Depot Identified in Slovakia appeared first on Archaeology Magazine.",
-      "url": "https://archaeology.org/news/2026/04/16/nazi-ammunition-depot-identified-in-slovakia/",
-      "image": "https://archaeology.org/wp-content/uploads/2026/04/News-20260416-Slovakia-Concrete-Mine-1024x466.jpg",
-      "publishedAt": "2026-04-16T17:30:00.000Z",
-      "source": {
-        "id": "archaeology-mag",
-        "name": "Archaeology Magazine"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/space/meteoroids/we-all-screamed-when-it-happened-bright-green-fireball-meteor-caught-exploding-over-famous-viking-raid-site-in-uk",
-      "title": "'We all screamed when it happened': Bright-green fireball meteor caught exploding over famous Viking raid site in UK",
-      "summary": "Photographers caught a spectacular emerald-green fireball meteor streaking above Lindisfarne in northeast England, where Viking raiders famously killed and robbed Christian monks in the eighth century.",
-      "url": "https://www.livescience.com/space/meteoroids/we-all-screamed-when-it-happened-bright-green-fireball-meteor-caught-exploding-over-famous-viking-raid-site-in-uk",
-      "image": "https://cdn.mos.cms.futurecdn.net/m3hN2hwAjdhWwuwqLGiTWb-1280-80.jpg",
-      "publishedAt": "2026-04-16T17:24:57.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "erdi-aroa"
-      ]
-    },
-    {
-      "id": "archaeology-mag:https://archaeology.org/news/2026/04/16/shipwrecks-mapped-in-the-bay-of-gibraltar/",
-      "title": "Shipwrecks Mapped in the Bay of Gibraltar",
-      "summary": "MADRID, SPAIN—The Guardian reports that more than 130 shipwrecks have been found in the Bay […] The post Shipwrecks Mapped in the Bay of Gibraltar appeared first on Archaeology Magazine.",
-      "url": "https://archaeology.org/news/2026/04/16/shipwrecks-mapped-in-the-bay-of-gibraltar/",
-      "image": "https://archaeology.org/wp-content/uploads/2026/04/News-20260416-Spain-Gibraltar-Nit-Comb-1024x768.jpg",
-      "publishedAt": "2026-04-16T17:00:00.000Z",
-      "source": {
-        "id": "archaeology-mag",
-        "name": "Archaeology Magazine"
-      },
-      "lang": "en",
-      "region": "iberia",
-      "topics": []
-    },
-    {
-      "id": "inrap:https://www.inrap.fr/rencontre-l-occasion-de-l-exposition-vestiges-archeologiques-de-l-oise-autour-20675",
-      "title": "Rencontre à l'occasion de l'exposition « Vestiges archéologiques de l’Oise : autour des chantiers du canal Seine-Nord Europe »",
-      "summary": "Vendredi 3 avril, à Compiègne (Oise), Pascal Perrault, directeur général délégué de l’Inrap, s’est rendu à la Maison du Canal à l’occasion de l’exposition « Vestiges archéologiques de l’Oise autour des chantiers du Canal » et d'une rencontre institutionnelle réunissant les…",
-      "url": "https://www.inrap.fr/rencontre-l-occasion-de-l-exposition-vestiges-archeologiques-de-l-oise-autour-20675",
-      "image": null,
-      "publishedAt": "2026-04-16T15:17:07.000Z",
-      "source": {
-        "id": "inrap",
-        "name": "Inrap — Archéologie préventive"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/descubren-por-que-los-propietarios-decidieron-plantar-vinedos-y-huertos-en-lugar-de-reconstruir-sus-edificios-tras-el-terremoto-del-62-dc-en-pompeya",
-      "title": "Descubren por qué los propietarios decidieron plantar viñedos y huertos en lugar de reconstruir sus edificios tras el terremoto del 62 d.C. en Pompeya",
-      "summary": "Pompeya no murió de repente. Antes de que el Vesubio la sepultara en el año 79 d.C., la ciudad ya había sobrevivido a otra catástrofe: un terremoto devastador en el año 62 que derribó edificios, agrietó calles y dejó barrios enteros en ruinas. Durante años, la arqueología ha…",
-      "url": "https://www.labrujulaverde.com/2026/04/descubren-por-que-los-propietarios-decidieron-plantar-vinedos-y-huertos-en-lugar-de-reconstruir-sus-edificios-tras-el-terremoto-del-62-dc-en-pompeya",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/urn-cambridge.org-id-binary-alt-20260413031631-76893-optimisedImage-png-S1047759425100573_fig10.jpg.webp",
-      "publishedAt": "2026-04-16T15:03:16.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "inrap:https://www.inrap.fr/le-camp-de-la-legio-viii-augusta-strasbourg-9394",
-      "title": "Le camp de la Legio VIII Augusta à Strasbourg",
-      "summary": "Visite du site avec Gertrud Kuhnle, archéologue responsable d'opération, et Heidi Cicutta, archéologue, Inrap",
-      "url": "https://www.inrap.fr/le-camp-de-la-legio-viii-augusta-strasbourg-9394",
-      "image": null,
-      "publishedAt": "2026-04-16T14:39:29.000Z",
-      "source": {
-        "id": "inrap",
-        "name": "Inrap — Archéologie préventive"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/chiave-romana-vindolanda-scoperta-serrature-antiche/",
-      "title": "Meravigliosa potenza. Scoperta ora nel terreno del forte romano di Vindolanda. Cos’è? Non è un amo, né un ancoretto, né un’ancora. Perchè così lunga? In che anni venne usata? Come funzionava?",
-      "summary": "Impero romano e Roma – Tremano un po’ le mani, nel tenerla sul palmo. E’ ingombrante, possente. Immagini le notti nel forte e questo ferro, in saccoccia. I rumori delle porte. Immagini all’esterno, nel momento in cui la fortezza fu abbandonata. I suoni inquietanti di qualcuno…",
-      "url": "https://www.stilearte.it/chiave-romana-vindolanda-scoperta-serrature-antiche/",
-      "image": null,
-      "publishedAt": "2026-04-16T13:39:03.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/magazines/ancient-egypt-magazine-154/",
-      "title": "Ancient Egypt Magazine 154",
-      "summary": "Libyan Pharaohs: how foreign kings came to rule Egypt Auguste Mariette: founder of Egypt’s first museum and antiquities service Old Kingdom tomb scenes: rare painted scenes from Dahshur Reconstructing the furniture found in the Tomb of Hetepheres I Reassembling Tutankhamun’s…",
-      "url": "https://the-past.com/magazines/ancient-egypt-magazine-154/",
-      "image": null,
-      "publishedAt": "2026-04-16T11:50:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "egiptoarrak",
-        "museoak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/whats-on/ancient-egypt-april-listings-4/",
-      "title": "Ancient Egypt April listings",
-      "summary": "A BESTIARY OF ANCIENT NUBIA A Bestiary of Ancient Nubia reveals the animal world of ancient Nubia from the A-Group culture to the medieval period, including lions, crocodiles, birds, cattle, and insects",
-      "url": "https://the-past.com/review/whats-on/ancient-egypt-april-listings-4/",
-      "image": null,
-      "publishedAt": "2026-04-16T11:15:55.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "erdi-aroa",
-        "egiptoarrak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/shorts/competitions/win-a-copy-of-rewriting-the-history-of-the-great-sphinx-by-colin-d-reader/",
-      "title": "Win a copy of Rewriting the History of the Great Sphinx by Colin D Reader",
-      "summary": "Where is this? If you know, email the Editor peter@ancientegyptmagazine.com before 30 June with your answer, giving your full name, address, and a contact phone number. One lucky reader’s name will be",
-      "url": "https://the-past.com/shorts/competitions/win-a-copy-of-rewriting-the-history-of-the-great-sphinx-by-colin-d-reader/",
-      "image": null,
-      "publishedAt": "2026-04-16T10:39:15.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "egiptoarrak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/books/love-war-and-diplomacy-the-discovery-of-the-amarna-letters-and-the-bronze-age-world-they-revealed/",
-      "title": "Love, War, and Diplomacy: The Discovery of the Amarna Letters and the Bronze Age World They Revealed",
-      "summary": "After exploring the Bronze Age Collapse of 1177 BC in his previous two books (reviewed in AE 85 and AE 143), Eric Cline travels back some 200 years to investigate the inter-relationships",
-      "url": "https://the-past.com/review/books/love-war-and-diplomacy-the-discovery-of-the-amarna-letters-and-the-bronze-age-world-they-revealed/",
-      "image": null,
-      "publishedAt": "2026-04-16T10:15:49.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "inrap:https://www.inrap.fr/site-archeologique-de-bibracte-20688",
-      "title": "Site archéologique de Bibracte",
-      "summary": "",
-      "url": "https://www.inrap.fr/site-archeologique-de-bibracte-20688",
-      "image": null,
-      "publishedAt": "2026-04-16T10:05:53.000Z",
-      "source": {
-        "id": "inrap",
-        "name": "Inrap — Archéologie préventive"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "inrap:https://www.inrap.fr/musee-d-art-moderne-troyes-lavau-un-prince-celte-en-bord-de-seine-20687",
-      "title": "Musée d’Art moderne (Troyes) : Lavau, un prince celte en bord de Seine",
-      "summary": "",
-      "url": "https://www.inrap.fr/musee-d-art-moderne-troyes-lavau-un-prince-celte-en-bord-de-seine-20687",
-      "image": null,
-      "publishedAt": "2026-04-16T09:56:42.000Z",
-      "source": {
-        "id": "inrap",
-        "name": "Inrap — Archéologie préventive"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": [
-        "museoak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/books/rewriting-the-history-of-the-great-sphinx/",
-      "title": "Rewriting the History of the Great Sphinx",
-      "summary": "Colin Reader is a geologist by profession, but became fascinated by ancient Egypt, particularly the earliest phases of the civilisation. He has studied the Great Sphinx of Giza for nearly 30 years,",
-      "url": "https://the-past.com/review/books/rewriting-the-history-of-the-great-sphinx/",
-      "image": null,
-      "publishedAt": "2026-04-16T09:45:21.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "egiptoarrak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/hippos-secondo-battistero-blocco-marmo-misterioso/",
-      "title": "Scoperta unica. Una città cristiana distrutta da un terremoto e un rito sorprendente. Gli archeologi trovano un blocco di marmo misterioso. A cosa serviva?",
-      "summary": "All’inizio è solo una stanza che riemerge lentamente dalla terra. Le superfici si delineano, le murature si ricompongono, lo spazio sembra appartenere a una funzione già nota. Poi emergono dettagli che non coincidono con nessun modello conosciuto: una vasca collocata in…",
-      "url": "https://www.stilearte.it/hippos-secondo-battistero-blocco-marmo-misterioso/",
-      "image": null,
-      "publishedAt": "2026-04-16T09:39:32.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/books/whos-who-at-deir-el-medina-a-prosopography-of-the-necropolis-workmen-during-the-ramesside-period/",
-      "title": "Who’s Who at Deir el-Medina: A Prosopography of the Necropolis Workmen during the Ramesside Period",
-      "summary": "A site as intensely studied as Deir el-Medina, with its wealth of written sources, has produced a huge literature – the navigation of which is immeasurably eased by the present volume. Originally",
-      "url": "https://the-past.com/review/books/whos-who-at-deir-el-medina-a-prosopography-of-the-necropolis-workmen-during-the-ramesside-period/",
-      "image": null,
-      "publishedAt": "2026-04-16T09:30:14.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/books/excavating-ancient-egypt-fifty-years-of-archaeological-memories/",
-      "title": "Excavating Ancient Egypt: Fifty Years of Archaeological Memories",
-      "summary": "This is an unusual book that focuses not on excavation results and discoveries (although these are covered), but on life excavating in Egypt. Jeffrey Spencer, who directed many seasons of fieldwork for",
-      "url": "https://the-past.com/review/books/excavating-ancient-egypt-fifty-years-of-archaeological-memories/",
-      "image": null,
-      "publishedAt": "2026-04-16T09:15:43.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "egiptoarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/travel/amarna-part-i/",
-      "title": "Amarna (Part I)",
-      "summary": "Continuing his ‘Travels in an Antique Land’, Karl Harris presents the first part of his visitor’s guide to Amarna.",
-      "url": "https://the-past.com/review/travel/amarna-part-i/",
-      "image": null,
-      "publishedAt": "2026-04-16T09:00:54.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/gerulata-acquedotti-romani-rusovce-scoperta/",
-      "title": "Grazie, Roma. Acqua, mattoni, soldati, case e un mondo nuovo. Gerulata romana emerge come città, non solo come campo militare. Cos’è stato scoperto? E cos’era Gerulata? Perché nomi simili tra Bresciano e Bergamasca?",
-      "summary": "Impero di Roma – Una rete idrica costruita con pendenze calibrate, rivestimenti in laterizio e canalizzazioni in pietra può raccontare molto più di una semplice infrastruttura: restituisce il livello tecnologico, la densità insediativa e persino la gerarchia sociale di un…",
-      "url": "https://www.stilearte.it/gerulata-acquedotti-romani-rusovce-scoperta/",
-      "image": null,
-      "publishedAt": "2026-04-16T08:03:59.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "desperta-ferro:https://www.despertaferro-ediciones.com/2026/vida-y-muerte-en-camino-del-molino/",
-      "title": "Vida y muerte en Camino del Molino",
-      "summary": "En Camino del Molino, un extraordinario enterramiento colectivo del III milenio a.C., la arqueología ha logrado reconstruir con una precisión inédita la vida, la muerte y los cuidados de una comunidad calcolítica. Descubierto de forma accidental en Caravaca de la Cruz, este…",
-      "url": "https://www.despertaferro-ediciones.com/2026/vida-y-muerte-en-camino-del-molino/",
-      "image": null,
-      "publishedAt": "2026-04-16T07:47:28.000Z",
-      "source": {
-        "id": "desperta-ferro",
-        "name": "Desperta Ferro Ediciones"
-      },
-      "lang": "es",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/feature/the-libyan-pharaohs-of-egypt/",
-      "title": "The Libyan pharaohs of Egypt",
-      "summary": "Aidan Dodson explores the history of the kings of Libyan ancestry who dominated Egypt during the 10th to 7th centuries BC.",
-      "url": "https://the-past.com/feature/the-libyan-pharaohs-of-egypt/",
-      "image": null,
-      "publishedAt": "2026-04-16T05:00:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "egiptoarrak"
       ]
     },
     {
@@ -7792,1097 +8906,6 @@
         "erdi-aroa",
         "iberiarrak",
         "aurkikuntza"
-      ]
-    },
-    {
-      "id": "aquitania-persee:https://www.persee.fr/issue/aquit_0758-9670_2016_num_32_1",
-      "title": "Aquitania : une revue inter-régionale d'archéologie, tome 32, 2016.",
-      "summary": "Aquitania : une revue inter-régionale d'archéologie, tome 32, 2016. Sommaire p. 3 Auteurs pp. 5 - 6 Le groupement d’enclos fossoyés de Bellevue à Châteaubernard (Charente). pp. 7 - 33 Seguin, Guillaume, Zipper, Katinka Les perles en pâte de verre de l’oppidum de Monte Bernorio…",
-      "url": "https://www.persee.fr/issue/aquit_0758-9670_2016_num_32_1",
-      "image": "https://www.persee.fr/renderIssueCoverThumbnail/aquit_0758-9670_2016_num_32_1.jpg",
-      "publishedAt": "2022-03-01T00:00:00.000Z",
-      "source": {
-        "id": "aquitania-persee",
-        "name": "Aquitania (Persée)"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": [
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "aquitania-persee:https://www.persee.fr/issue/aquit_0758-9670_2015_num_31_1",
-      "title": "Aquitania : une revue inter-régionale d'archéologie, tome 31, 2015.",
-      "summary": "Aquitania : une revue inter-régionale d'archéologie, tome 31, 2015. Sommaire pp. 3 - 4 Auteurs pp. 5 - 6 Dossier : Nouvelles recherches sur le Médoc et la plaine fluvio-maritime de la Garonne, de l’âge du Fer à l’Antiquité pp. 9 - 236 Avant-propos pp. 9 - 10 Verdin, Florence,…",
-      "url": "https://www.persee.fr/issue/aquit_0758-9670_2015_num_31_1",
-      "image": "https://www.persee.fr/renderIssueCoverThumbnail/aquit_0758-9670_2015_num_31_1.jpg",
-      "publishedAt": "2022-03-01T00:00:00.000Z",
-      "source": {
-        "id": "aquitania-persee",
-        "name": "Aquitania (Persée)"
-      },
-      "lang": "fr",
-      "region": "basque",
-      "topics": [
-        "erromatarrak",
-        "erdi-aroa",
-        "iberiarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "aquitania-persee:https://www.persee.fr/issue/aquit_0758-9670_2014_num_30_1",
-      "title": "Aquitania : une revue inter-régionale d'archéologie, tome 30, 2014.",
-      "summary": "Aquitania : une revue inter-régionale d'archéologie, tome 30, 2014. Sommaire pp. 3 - 4 Auteurs pp. 5 - 6 Dossier : Occupation du sol et cultures matérielles au Premier âge du Fer dans l’ouest de la Gaule. Actualités du Premier âge du Fer dans l’ouest de la France. Publication du…",
-      "url": "https://www.persee.fr/issue/aquit_0758-9670_2014_num_30_1",
-      "image": "https://www.persee.fr/renderIssueCoverThumbnail/aquit_0758-9670_2014_num_30_1.jpg",
-      "publishedAt": "2022-03-01T00:00:00.000Z",
-      "source": {
-        "id": "aquitania-persee",
-        "name": "Aquitania (Persée)"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": [
-        "erdi-aroa",
-        "iberiarrak",
-        "amerika",
-        "museoak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "aquitania-persee:https://www.persee.fr/issue/aquit_0758-9670_2013_num_29_1",
-      "title": "Aquitania : une revue inter-régionale d'archéologie, tome 29, 2013.",
-      "summary": "Aquitania : une revue inter-régionale d'archéologie, tome 29, 2013. La pointe de lance du type de Tréboul d’Ouzilly (Vienne) pp. 7 - 17 Maitay, Christophe, Gomez de Soto, José, Mélin, Muriel Espacios convivales en las viviendas urbanas del Valle medio del Ebro desde la etapa…",
-      "url": "https://www.persee.fr/issue/aquit_0758-9670_2013_num_29_1",
-      "image": "https://www.persee.fr/renderIssueCoverThumbnail/aquit_0758-9670_2013_num_29_1.jpg",
-      "publishedAt": "2021-11-30T00:00:00.000Z",
-      "source": {
-        "id": "aquitania-persee",
-        "name": "Aquitania (Persée)"
-      },
-      "lang": "fr",
-      "region": "basque",
-      "topics": [
-        "erromatarrak",
-        "erdi-aroa",
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "cuadernos-arq-unav:https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/54477",
-      "title": "Una inscripción romana procedente de las proximidades del río Lácara (Badajoz): epigrafía, datación y representación digital",
-      "summary": "El artículo analiza una inscripción romana hallada cerca del río Lácara (Badajoz), abordando su estudio epigráfico, datación y documentación digital mediante fotogrametría y escaneado 3D. Se trata de una publicación reciente (editio princeps) que incluye un unicum. El trabajo…",
-      "url": "https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/54477",
-      "image": null,
-      "publishedAt": "vie., 24 abr. 2026 00:00:00 +0200",
-      "source": {
-        "id": "cuadernos-arq-unav",
-        "name": "Cuadernos de Arqueología — Univ. de Navarra"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "openalex-archaeology:https://openalex.org/W4404260255",
-      "title": "Comportement des sols d'assise des fondations face au retrait-gonflement des argiles",
-      "summary": "In France, one in two single-family homes is affected by the shrink-swell phenomenon of clay soils, which causes cracks in buildings. This issue is particularly acute during periods of drought, as clay soils contract in the absence of water and expand during wetter periods,…",
-      "url": "https://univ-eiffel.hal.science/tel-04772492",
-      "image": null,
-      "publishedAt": "2027-10-30T00:00:00.000Z",
-      "source": {
-        "id": "openalex-archaeology",
-        "name": "OpenAlex — Arkeologia (mundua)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "openalex-archaeology:https://openalex.org/W7135953145",
-      "title": "Tree ring-width data Drumclay alder chronology",
-      "summary": "This data consists of the tree-ring measurements from alder timbers from Drumclay crannog, Co. Fermanagh. Between 2012 and 2013 an archaeological excavation was carried out which revealed almost 7 m of vertical archaeological stratigraphy. A large quantity of wood samples were…",
-      "url": "https://pure.qub.ac.uk/en/datasets/d6b82ffb-f929-45cb-b1e5-2ef93a1f1506",
-      "image": null,
-      "publishedAt": "2027-07-01T00:00:00.000Z",
-      "source": {
-        "id": "openalex-archaeology",
-        "name": "OpenAlex — Arkeologia (mundua)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "erdi-aroa",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "openalex-archaeology:https://openalex.org/W7131340849",
-      "title": "Roshan Lama and children: Jackal and Crow, reported speech",
-      "summary": "Roshan Lama and children: Jackal and Crow, reported speech",
-      "url": "https://openalex.org/W7131340849",
-      "image": null,
-      "publishedAt": "2027-01-01T00:00:00.000Z",
-      "source": {
-        "id": "openalex-archaeology",
-        "name": "OpenAlex — Arkeologia (mundua)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "openalex-archaeology:https://openalex.org/W7126335142",
-      "title": "Resilience and Antifragility in History and Archaeology – Reconstructing the Complexity of Human-Environmental Interactions in the Past",
-      "summary": "Resilience and Antifragility in History and Archaeology – Reconstructing the Complexity of Human-Environmental Interactions in the Past",
-      "url": "http://hdl.handle.net/2078.1/310146",
-      "image": null,
-      "publishedAt": "2027-01-01T00:00:00.000Z",
-      "source": {
-        "id": "openalex-archaeology",
-        "name": "OpenAlex — Arkeologia (mundua)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "openalex-archaeology:https://openalex.org/W7134916209",
-      "title": "Ochre Archaeomicrobiology: Provenancing Australian Pigments through Microbial Fingerprinting Investigations into Sample Size and Temporal Variation",
-      "summary": "Ochre is an important component of many archaeological assemblages however the assignment of provenance remains a challenge due to its variable mineral composition and formation. While previous characterisations utilising elemental, chemical, and magnetic measurements have…",
-      "url": "https://doi.org/10.60867/00000081",
-      "image": null,
-      "publishedAt": "2027-01-01T00:00:00.000Z",
-      "source": {
-        "id": "openalex-archaeology",
-        "name": "OpenAlex — Arkeologia (mundua)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "openalex-archaeology:https://openalex.org/W7119053681",
-      "title": "TAXONOMIC DOCUMENTATION OF SPIDER FAUNA (ARANEAE) FROM YEDASI–RAMALING WILDLIFE SANCTUARY, OSMANABAD DISTRICT, MAHARASHTRA, INDIA",
-      "summary": "TAXONOMIC DOCUMENTATION OF SPIDER FAUNA (ARANEAE) FROM YEDASI–RAMALING WILDLIFE SANCTUARY, OSMANABAD DISTRICT, MAHARASHTRA, INDIA",
-      "url": "https://doi.org/10.5281/zenodo.18160531",
-      "image": null,
-      "publishedAt": "2026-12-31T00:00:00.000Z",
-      "source": {
-        "id": "openalex-archaeology",
-        "name": "OpenAlex — Arkeologia (mundua)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "asia"
-      ]
-    },
-    {
-      "id": "openalex-archaeology:https://openalex.org/W7118428292",
-      "title": "TAXONOMIC DOCUMENTATION OF SPIDER FAUNA (ARANEAE) FROM YEDASI–RAMALING WILDLIFE SANCTUARY, OSMANABAD DISTRICT, MAHARASHTRA, INDIA",
-      "summary": "TAXONOMIC DOCUMENTATION OF SPIDER FAUNA (ARANEAE) FROM YEDASI–RAMALING WILDLIFE SANCTUARY, OSMANABAD DISTRICT, MAHARASHTRA, INDIA",
-      "url": "https://doi.org/10.5281/zenodo.18160530",
-      "image": null,
-      "publishedAt": "2026-12-31T00:00:00.000Z",
-      "source": {
-        "id": "openalex-archaeology",
-        "name": "OpenAlex — Arkeologia (mundua)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "asia"
-      ]
-    },
-    {
-      "id": "openalex-archaeology:https://openalex.org/W7161684293",
-      "title": "Whispers to the Sky: Invoking the Rain God in the Hoodoom Puja of Koch-Rajbangshis of Western Assam",
-      "summary": "The folk life of the Koch-Rajbangshi community of Assam serves as an archive of their inherited values, traditions, and spiritual worldviews. Deeply grounded in agrarian practices and nature-worship, their folk life reflects a combination of Vedic customs and indigenous beliefs.…",
-      "url": "https://doi.org/10.5281/zenodo.20291712",
-      "image": null,
-      "publishedAt": "2026-12-25T00:00:00.000Z",
-      "source": {
-        "id": "openalex-archaeology",
-        "name": "OpenAlex — Arkeologia (mundua)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "openalex-archaeology:https://openalex.org/W7161689166",
-      "title": "Whispers to the Sky: Invoking the Rain God in the Hoodoom Puja of Koch-Rajbangshis of Western Assam",
-      "summary": "The folk life of the Koch-Rajbangshi community of Assam serves as an archive of their inherited values, traditions, and spiritual worldviews. Deeply grounded in agrarian practices and nature-worship, their folk life reflects a combination of Vedic customs and indigenous beliefs.…",
-      "url": "https://doi.org/10.5281/zenodo.20291713",
-      "image": null,
-      "publishedAt": "2026-12-25T00:00:00.000Z",
-      "source": {
-        "id": "openalex-archaeology",
-        "name": "OpenAlex — Arkeologia (mundua)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "openalex-archaeology:https://openalex.org/W7121581458",
-      "title": "The Toponymic Stratification of Quattrocento Umbria: A Philological and Historical Validation of 'Ameria' in Beinecke MS 408",
-      "summary": "AbstractThis paper addresses the alleged toponymic anachronism of the term \"Ameria\" as identified in the decipherment of the Voynich Manuscript (Beinecke MS 408). Critics have argued that the medieval vernacular \"Amelia\" renders the classical \"Ameria\" an impossibility for a…",
-      "url": "https://doi.org/10.5281/zenodo.18112794",
-      "image": null,
-      "publishedAt": "2026-12-01T00:00:00.000Z",
-      "source": {
-        "id": "openalex-archaeology",
-        "name": "OpenAlex — Arkeologia (mundua)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "erdi-aroa",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "openalex-archaeology:https://openalex.org/W7121273465",
-      "title": "The Toponymic Stratification of Quattrocento Umbria: A Philological and Historical Validation of 'Ameria' in Beinecke MS 408",
-      "summary": "AbstractThis paper addresses the alleged toponymic anachronism of the term \"Ameria\" as identified in the decipherment of the Voynich Manuscript (Beinecke MS 408). Critics have argued that the medieval vernacular \"Amelia\" renders the classical \"Ameria\" an impossibility for a…",
-      "url": "https://doi.org/10.5281/zenodo.18112793",
-      "image": null,
-      "publishedAt": "2026-12-01T00:00:00.000Z",
-      "source": {
-        "id": "openalex-archaeology",
-        "name": "OpenAlex — Arkeologia (mundua)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "erdi-aroa",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "openalex-archaeology:https://openalex.org/W7124670267",
-      "title": "Bronze Age béton brut: the display and interpretation of Cairnpapple Hill, West Lothian, Scotland",
-      "summary": "A study of the 20th century life history of the prehistoric monument Cairnpapple Hill in West Lothian, Scotland, a rare example of an exploded diagram form of heritage presentation from the middle of the century.",
-      "url": "https://eprints.gla.ac.uk/view/author/60489.html>",
-      "image": null,
-      "publishedAt": "2026-11-30T00:00:00.000Z",
-      "source": {
-        "id": "openalex-archaeology",
-        "name": "OpenAlex — Arkeologia (mundua)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "openalex-archaeology:https://openalex.org/W7155419633",
-      "title": "Dataset for \"Assessing the cultural heritage of historical ferries: A case study from the Czech Republic\"",
-      "summary": "Fig. 2: The ferry grounds on the Morava and Dyje rivers, with both the cultural-historical values relating to the individual types and theoverall cultural-historical value – sorted by river flow (Notes: A – typology value; B – technological flow value; C – system links value; D…",
-      "url": "https://doi.org/10.5281/zenodo.19706035",
-      "image": null,
-      "publishedAt": "2026-09-15T00:00:00.000Z",
-      "source": {
-        "id": "openalex-archaeology",
-        "name": "OpenAlex — Arkeologia (mundua)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "openalex-archaeology:https://openalex.org/W7155372998",
-      "title": "Dataset for \"Assessing the cultural heritage of historical ferries: A case study from the Czech Republic\"",
-      "summary": "Fig. 2: The ferry grounds on the Morava and Dyje rivers, with both the cultural-historical values relating to the individual types and theoverall cultural-historical value – sorted by river flow (Notes: A – typology value; B – technological flow value; C – system links value; D…",
-      "url": "https://doi.org/10.5281/zenodo.19706034",
-      "image": null,
-      "publishedAt": "2026-09-15T00:00:00.000Z",
-      "source": {
-        "id": "openalex-archaeology",
-        "name": "OpenAlex — Arkeologia (mundua)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "openalex-archaeology:https://openalex.org/W7142583175",
-      "title": "From Ruins to Rural Modernity: Experiencing Reconstruction in postwar Vosges",
-      "summary": "International audience",
-      "url": "https://hal.univ-lorraine.fr/hal-05568998",
-      "image": null,
-      "publishedAt": "2026-09-02T00:00:00.000Z",
-      "source": {
-        "id": "openalex-archaeology",
-        "name": "OpenAlex — Arkeologia (mundua)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X2600355X?dgcid=rss_sd_all",
-      "title": "Investigating cremation practice in Early Iron Age central Macedonia, Greece, through a multi-proxy analysis",
-      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Vasso Papathanasiou, Elisavet Stamataki, Christophe Snoeck, Asterios Lioutas, Vasiliki Misailidou-Despotidou, Sevasti Triantaphyllou",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X2600355X?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-07-13T04:54:47.932Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X2600324X?dgcid=rss_sd_all",
-      "title": "Use of horses in the funeral events by members of the Scythian culture in Ciscaucasia in the early Iron Age: Sex and age aspects",
-      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Natalya N. Spasskaya, Olga P. Bachura, Andrei G. Bush, Anatoliy R. Kantorovich, Vladimir E. Maslov, Natalya E. Prilepskaya",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X2600324X?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-07-13T04:54:47.932Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003445?dgcid=rss_sd_all",
-      "title": "Plant consumption versus agricultural production in the Jianghan Plain, central China: Starch and phytolith evidence from the Neolithic Zhaizishan site",
-      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Muslim Khan, Binggui Sun, Ling Yao, Xin Jia, Chengqiu Lu, Yuzhang Yang",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26003445?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-07-13T04:54:47.932Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria",
-        "asia"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003640?dgcid=rss_sd_all",
-      "title": "On the Amber Road. Bioarchaeological and archaeometric studies of raw materials identified in the artifacts from an Early Iron Age biritual cemetery in Opole-Groszowice (southern Poland)",
-      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Tomasz Purowski, Agata Hałuszko, Paweł Gan, Barbara Łydżba-Kopczyńska, Kamil Nowak, Mateusz Osiadacz, Grzegorz Skrzyński",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26003640?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-07-13T04:54:47.931Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003494?dgcid=rss_sd_all",
-      "title": "Dietary transition in the western inner Asian mountain corridor: preliminary stable isotope perspective from early iron age Fergana populations",
-      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Nasibilo Kambarov, Guanhan Chen, Xinying Zhou, Junchi Liu, Junjie Zhang, Keliang Zhao, Jiacheng Ma, Bakhtiyor Abdullayev, Jianxin Wang, Xue Ling, Liangliang Hou, Dongyue Zhao,…",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26003494?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-07-13T04:54:47.931Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/statue-teste-separate-heraclea-sintica-rituale/",
-      "title": "Perché gli antichi seppellivano separate testa e corpo delle statue? Una scoperta in Bulgaria offre una risposta",
-      "summary": "Per anni gli archeologi hanno rinvenuto teste di sculture monumentali a grande distanza dai rispettivi torsi, senza riuscire a tracciare una spiegazione scientifica univoca. Oggi, una piccola perforazione praticata alla base del collo di un torso marmoreo potrebbe aver risolto…",
-      "url": "https://www.stilearte.it/statue-teste-separate-heraclea-sintica-rituale/",
-      "image": null,
-      "publishedAt": "2026-07-13T02:00:00.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/sfera-pietra-neolitica-azerbaigian-pasatepe/",
-      "title": "Misteriosa sfera di pietra trovata in Azerbaigian. Senza fori né incisioni, emerge da un sito neolitico: non se ne conoscono altre simili. A cosa serviva?",
-      "summary": "È grande appena una decina di centimetri, pesa quasi due chilogrammi e la sua superficie è sorprendentemente liscia. Non presenta fori, non mostra tracce di percussione e non reca incisioni che possano suggerirne l’uso. Eppure qualcuno, migliaia di anni fa, impiegò tempo e…",
-      "url": "https://www.stilearte.it/sfera-pietra-neolitica-azerbaigian-pasatepe/",
-      "image": null,
-      "publishedAt": "2026-07-12T22:32:00.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "lemonde-sciences:https://www.lemonde.fr/series-d-ete/article/2026/07/12/juillet-1976-viking-debarque-sur-mars-le-jour-ou-la-planete-rouge-est-devenue-un-lieu-bien-reel_6722918_3451060.html",
-      "title": "Juillet 1976, Viking débarque sur Mars : le jour où la Planète rouge est devenue « un lieu bien réel »",
-      "summary": "« A la conquête de Mars » (1/6). Cinquante ans après la première mission d’exploration spatiale sur la Planète rouge, les scientifiques ignorent encore si des organismes vivants l’ont un jour peuplée. Malgré l’échec de ses expériences biologiques, le programme Viking permit…",
-      "url": "https://www.lemonde.fr/series-d-ete/article/2026/07/12/juillet-1976-viking-debarque-sur-mars-le-jour-ou-la-planete-rouge-est-devenue-un-lieu-bien-reel_6722918_3451060.html",
-      "image": "https://img.lemde.fr/2026/07/09/145/0/1041/520/644/322/60/0/ef233bd_upload-1-2od9qwhcu0dd-151106main-image-feature-599-ys-full-copie.jpg",
-      "publishedAt": "2026-07-12T16:00:00.000Z",
-      "source": {
-        "id": "lemonde-sciences",
-        "name": "Le Monde — Sciences"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": [
-        "erdi-aroa"
-      ]
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/archaeology/ancient-egyptians/18-ancient-egyptian-tombs-with-dozens-of-gold-tongues-discovered-along-the-mediterranean-coast",
-      "title": "18 ancient Egyptian tombs with dozens of gold 'tongues' discovered along the Mediterranean coast",
-      "summary": "Archaeologists have found 18 tombs at an ancient Egyptian site by the Mediterranean coast of Egypt.",
-      "url": "https://www.livescience.com/archaeology/ancient-egyptians/18-ancient-egyptian-tombs-with-dozens-of-gold-tongues-discovered-along-the-mediterranean-coast",
-      "image": "https://cdn.mos.cms.futurecdn.net/ZUiX45UwNHnWk78yPjRVGZ-1280-80.jpg",
-      "publishedAt": "2026-07-12T14:05:00.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "egiptoarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/archeologie/a-pompei-272-graffitis-devoilent-la-vie-quotidienne-des-romains-avant-le-vesuve_193262?xtor=RSS-4",
-      "title": "Les murs de Pompéi se remettent à parler",
-      "summary": "Si la cité romaine est largement connue depuis l'éruption qui l'a figée dans le temps, ce sont désormais ses habitants qui se révèlent, avec le projet \"Bruits de couloir\" mené par Sorbonne Université et l'université du Québec à Montréal. Les centaines d'inscriptions laissées…",
-      "url": "https://www.sciencesetavenir.fr/archeo-paleo/archeologie/a-pompei-272-graffitis-devoilent-la-vie-quotidienne-des-romains-avant-le-vesuve_193262?xtor=RSS-4",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/06/18/cover-r4x3w1200-6a3d1fa2241d2-12956-726492-k2-k1-1727167-jpg.jpg",
-      "publishedAt": "2026-07-12T08:00:00.000Z",
-      "source": {
-        "id": "sciencesetavenir-archeo",
-        "name": "Sciences et Avenir — Archéo & Paléo"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/costruiscono-garage-trovano-cuore-della-citta-romana-lago-costanza/",
-      "title": "Costruiscono un garage e trovano il cuore della città romana: sul Lago di Costanza riemerge Tasgetium. Cos’era",
-      "summary": "Nel Canton Turgovia, in Svizzera, un cantiere edilizio ha restituito il settore finora sconosciuto del principale vicus romano affacciato sul Reno. È emersa la strada che attraversava il centro abitato, con cinque fasi costruttive, case-bottega perfettamente conservate dal…",
-      "url": "https://www.stilearte.it/costruiscono-garage-trovano-cuore-della-citta-romana-lago-costanza/",
-      "image": null,
-      "publishedAt": "2026-07-12T00:32:04.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/frammento-oro-eta-del-bronzo-norfolk-tesoro/",
-      "title": "Un sottile nastro d’oro riemerge dopo tremila anni: era un gioiello e una “banca personale”",
-      "summary": "Il frammento, scoperto da un appassionato con il metal detector nei pressi di Hilborough, potrebbe entrare nelle collezioni del Norwich Castle Museum. È una preziosa testimonianza di un’epoca in cui l’oro non era soltanto ornamento, ma anche protezione, prestigio sociale e…",
-      "url": "https://www.stilearte.it/frammento-oro-eta-del-bronzo-norfolk-tesoro/",
-      "image": null,
-      "publishedAt": "2026-07-11T23:25:41.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erdi-aroa",
-        "museoak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/dna-tombe-medievali-sepolture-bisome-bambini-estranei/",
-      "title": "Il Dna cambia la storia delle sepolture medievali: adulti e bambini sepolti insieme erano quasi sempre estranei",
-      "summary": "Uno studio pubblicato su Science Advances ribalta una convinzione radicata nell’archeologia medievale. Analizzando il DNA antico di 142 individui provenienti da tre cimiteri della Svezia, il team guidato dalla paleogenetista Maja Krzewińska dimostra che le sepolture bisome,…",
-      "url": "https://www.stilearte.it/dna-tombe-medievali-sepolture-bisome-bambini-estranei/",
-      "image": null,
-      "publishedAt": "2026-07-11T22:50:14.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erdi-aroa"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/genius-romano-vindolanda-fortuna-scultura/",
-      "title": "Sollevano una pietra e vedono il volto di una scultura romana di 1300 anni fa. Una divinità nel forte. Chi rappresenta",
-      "summary": "Un bassorilievo in arenaria, rimasto nascosto sotto il pavimento di una caserma del IV secolo lungo il Vallo di Adriano, torna alla luce in uno dei siti archeologici più importanti della Britannia romana. Gli studiosi lo identificano con un Genius, lo spirito protettore del…",
-      "url": "https://www.stilearte.it/genius-romano-vindolanda-fortuna-scultura/",
-      "image": null,
-      "publishedAt": "2026-07-11T22:03:00.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/archaeology/some-people-called-it-horrifying-dinner-with-king-tut-author-on-using-egyptian-mummification-techniques-on-a-modern-day-human-body",
-      "title": "'Some people called it horrifying': 'Dinner with King Tut' author on using Egyptian mummification techniques on a modern-day human body",
-      "summary": "\"A lot of the book was actually me floundering around, failing to complete the projects or figuring out what I was doing wrong,\" author Sam Kean says about his experimental archaeology adventures.",
-      "url": "https://www.livescience.com/archaeology/some-people-called-it-horrifying-dinner-with-king-tut-author-on-using-egyptian-mummification-techniques-on-a-modern-day-human-body",
-      "image": "https://cdn.mos.cms.futurecdn.net/4bCjppo5MpfmXyb74ZU5NV-1280-80.png",
-      "publishedAt": "2026-07-11T14:00:00.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "egiptoarrak"
-      ]
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/archaeology/ancient-egyptians/he-looked-like-ramses-the-great-how-experimental-archaeologists-used-ancient-techniques-to-mummify-a-modern-day-person",
-      "title": "'He looked like Ramses the Great': How experimental archaeologists used ancient techniques to mummify a modern-day person",
-      "summary": "In his new book, \"Dinner with King Tut: How Rogue Archaeologists Are Re-creating the Sights, Sounds, Smells, and Tastes of Lost Civilizations,\" science writer Sam Kean explains the odd and intriguing world of experimental archaeologists.",
-      "url": "https://www.livescience.com/archaeology/ancient-egyptians/he-looked-like-ramses-the-great-how-experimental-archaeologists-used-ancient-techniques-to-mummify-a-modern-day-person",
-      "image": "https://cdn.mos.cms.futurecdn.net/pUxnHDbS3uPSFfxr7oFQJ7-1280-80.jpg",
-      "publishedAt": "2026-07-11T14:00:00.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/como-de-antiguo-es-ser-diestro-descubren-las-primeras-evidencias-de-diestralidad-en-un-fosil-de-hace-550-millones-de-anos",
-      "title": "¿Cómo de antiguo es ser diestro? Descubren las primeras evidencias de “diestralidad” en un fósil de hace 550 millones de años",
-      "summary": "Científicos del Museo Americano de Historia Natural, la Universidad Estatal de Florida, la Universidad de Harvard y la Universidad de California en Riverside han documentado lo que podría constituir la evidencia más temprana de «diestralidad» en el reino animal, con una…",
-      "url": "https://www.labrujulaverde.com/2026/07/como-de-antiguo-es-ser-diestro-descubren-las-primeras-evidencias-de-diestralidad-en-un-fosil-de-hace-550-millones-de-anos",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/spriggina-flounderesi-2460-1384_wideexact_1230.webp",
-      "publishedAt": "2026-07-11T08:38:25.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "museoak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/5-errores-comunes-que-te-hacen-perder-dinero-al-viajar",
-      "title": "5 errores comunes que te hacen perder dinero al viajar",
-      "summary": "Descubre los errores económicos más comunes al viajar y cómo evitar gastos innecesarios en cambios de moneda, roaming, seguros y compras.",
-      "url": "https://www.labrujulaverde.com/2026/07/5-errores-comunes-que-te-hacen-perder-dinero-al-viajar",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/pexels-olly-3979185.webp",
-      "publishedAt": "2026-07-11T08:37:42.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003159?dgcid=rss_sd_all",
-      "title": "Plaster production in the Late-Seventh Millennium BCE: the earliest Arabian Neolithic plaster processing pit kilns discovered on GHG0063, Ghagha Island, Abu Dhabi, United Arab Emirates",
-      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Noura Hamad Al Hameli, Richard Thorburn Cuttler, Rémy Crassard, Kevin Lidour, Caterina Zaggia, Ahmed Abdalla Elfaki, Mark Jonathan Beech, Lucie Dingwall, Peter Magee",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26003159?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-07-11T04:37:28.746Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26002944?dgcid=rss_sd_all",
-      "title": "The impact of “Romanisation” on agriculture at the ancient Greek colony of Pharos, Hvar Island, Croatia",
-      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Rudolph Alagich, Antonela Barbir, Marina Ugarković, Samantha Greeves, Colin Smith",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26002944?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-07-11T04:37:28.746Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "erromatarrak",
-        "greziarrak"
-      ]
-    },
-    {
-      "id": "lemonde-sciences:https://www.lemonde.fr/sciences/article/2026/07/11/les-expositions-et-rendez-vous-scientifiques-a-voir-pendant-l-ete_6722622_1650684.html",
-      "title": "Les expositions et rendez-vous scientifiques à voir pendant l’été",
-      "summary": "Que ce soit par temps pluvieux ou caniculaire, ou tout simplement pour le plaisir de s’instruire pendant l’été, le service Sciences du « Monde » vous propose sa sélection d’événements à découvrir, de l’archéologie à la chimie, en passant par la photographie. Sans oublier…",
-      "url": "https://www.lemonde.fr/sciences/article/2026/07/11/les-expositions-et-rendez-vous-scientifiques-a-voir-pendant-l-ete_6722622_1650684.html",
-      "image": "https://img.lemde.fr/2026/07/07/147/0/1916/958/644/322/60/0/fa618fe_upload-1-or7z2j70ln0x-renanc2019-venus-4vuescstephane-lancelot-inrap.jpg",
-      "publishedAt": "2026-07-11T03:00:20.000Z",
-      "source": {
-        "id": "lemonde-sciences",
-        "name": "Le Monde — Sciences"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/fare-il-bagno-con-catullo-spiaggia-giamaica-grotte-catullo-sirmione/",
-      "title": "Fare il bagno con Catullo a Sirmione: la spiaggia della Giamaica tra le rovine romane",
-      "summary": "L’acqua è trasparente, fresca e vibrante, assume sfumature turchesi, il fondo è chiaro e pochi metri più in alto si alzano muri costruiti quasi duemila anni fa. È la Giamaica, la celebre spiaggia delle Grotte di Catullo. Qui, in estate, si può fare il bagno, letteralmente ai…",
-      "url": "https://www.stilearte.it/fare-il-bagno-con-catullo-spiaggia-giamaica-grotte-catullo-sirmione/",
-      "image": null,
-      "publishedAt": "2026-07-11T02:36:28.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/07/260709160637.htm",
-      "title": "Rare fossil goose rewrites the story of New Zealand's giant birds",
-      "summary": "Scientists have discovered a previously unknown fossil goose that challenges a decades-old theory about the evolution of New Zealand's birds. The find suggests the country's giant flightless geese evolved from much more recent arrivals, revealing a far more dynamic evolutionary…",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260709160637.htm",
-      "image": null,
-      "publishedAt": "2026-07-11T01:57:14.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/torre-mozza-pavimentazione-sotto-mare/",
-      "title": "Il mistero della spiaggia in Toscana con il fondale che sembra una strada romana: ecco dove si trova",
-      "summary": "Entrate in mare convinti di sentire soltanto la sabbia sotto i piedi. L’acqua è limpida, il fondale degrada dolcemente e nulla lascia immaginare ciò che accadrà pochi metri più avanti. All’improvviso, sotto i piedi, qualcosa cambia. La consistenza soffice della spiaggia scompare…",
-      "url": "https://www.stilearte.it/torre-mozza-pavimentazione-sotto-mare/",
-      "image": null,
-      "publishedAt": "2026-07-11T01:53:38.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/archaeology/medieval-babies-and-adults-buried-together-in-sweden-were-not-related-archaeologists-discover-raising-big-questions-about-early-christian-burial-practices",
-      "title": "Medieval babies and adults buried together in Sweden were not related, archaeologists discover — raising big questions about early Christian burial practices",
-      "summary": "In an unexpected discovery, researchers found that three medieval Swedish cemeteries held children buried with unrelated adults.",
-      "url": "https://www.livescience.com/archaeology/medieval-babies-and-adults-buried-together-in-sweden-were-not-related-archaeologists-discover-raising-big-questions-about-early-christian-burial-practices",
-      "image": "https://cdn.mos.cms.futurecdn.net/rEWyU7NSyHmumYt8Gciw7f-1280-80.png",
-      "publishedAt": "2026-07-10T18:57:14.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "erdi-aroa",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "berria-bsky:https://bsky.app/profile/berria.eus/post/3mqcdjzmpwc2j",
-      "title": "",
-      "summary": "Osasuna: gutxiago sufritzeko helburua du. Talde gorritxoak hasi ditu lan saioak. Entrenatzaile berria du taldeak: Luis Miguel Ramis. Celtaren aurka jokatuko du ligako lehen partida, Balaidos futbol zelaian. Oraingoz ez du fitxaketarik egin. https://b.eus/4916c430DL",
-      "url": "https://bsky.app/profile/berria.eus/post/3mqcdjzmpwc2j",
-      "image": null,
-      "publishedAt": "2026-07-10T14:15:00.000Z",
-      "source": {
-        "id": "berria-bsky",
-        "name": "Berria (Bluesky)"
-      },
-      "lang": "eu",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353292",
-      "title": "The effect of social media interaction on consumer engagement: The role of psychological ownership",
-      "summary": "by Yue Yin, Chunjia Han, Yushan Chen Social media interaction plays a crucial role in shaping consumer–brand relationships and enhancing engagement behavior. Drawing on social exchange theory, this study investigates how social media interaction fosters psychological ownership,…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353292",
-      "image": null,
-      "publishedAt": "2026-07-10T14:00:00.000Z",
-      "source": {
-        "id": "plos-one-arch",
-        "name": "PLOS ONE — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "ekialde-hurbila"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/scoperta-archeologica-fabbrica-sale-piscina-torta-roma/",
-      "title": "Un orologio-bussola nelle ceramiche. L’enigma dell’antica fabbrica del sale di Roma risolto grazie al magnetismo. La scoperta a Piscina Torta",
-      "summary": "Una notevole ricerca scientifica ha appena svelato i segreti cronologici di Piscina Torta, un immenso sito archeologico di oltre 20 ettari situato nei pressi di Ostia, a circa 30 chilometri a sud-ovest dal centro di Roma. Considerato una vera e propria fabbrica del sale della…",
-      "url": "https://www.stilearte.it/scoperta-archeologica-fabbrica-sale-piscina-torta-roma/",
-      "image": null,
-      "publishedAt": "2026-07-10T11:34:13.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/la-ley-contra-el-pelo-largo-en-la-roma-del-ano-416-por-que-el-imperio-romano-prohibio-las-melenas",
-      "title": "La ley contra el pelo largo en la Roma del año 416: ¿Por qué el Imperio romano prohibió las melenas?",
-      "summary": "En el año 416, los emperadores Honorio y Teodosio II promulgaron una ley que prohibía llevar el pelo largo en la ciudad de Roma y sus alrededores. Esta norma, que también vetaba el uso de vestidos de pieles, ha intrigado a los historiadores durante décadas. ¿Por qué el poder…",
-      "url": "https://www.labrujulaverde.com/2026/07/la-ley-contra-el-pelo-largo-en-la-roma-del-ano-416-por-que-el-imperio-romano-prohibio-las-melenas",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/A23CEA1A-5086-4972-labrujulaverde.com-B2DB-6FDDCCC828A9.webp",
-      "publishedAt": "2026-07-10T10:35:08.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/tre-re-assiri-dimenticati-scoperta-tavolette/",
-      "title": "Tre re assiri dimenticati riemergono dopo 2.700 anni: la clamorosa scoperta nascosta tra alcune tavolette cuneiformi",
-      "summary": "Per secoli gli studiosi hanno creduto di conoscere la successione dei sovrani dell’Impero assiro. Oggi, grazie a una nuova lettura di antiche tavolette cuneiformi, emergono tre nomi mai identificati prima. Non è stato necessario scavare una nuova città o aprire una tomba reale:…",
-      "url": "https://www.stilearte.it/tre-re-assiri-dimenticati-scoperta-tavolette/",
-      "image": null,
-      "publishedAt": "2026-07-10T10:22:19.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/objetos-de-poder-en-tumbas-de-reyes-los-anillos-de-la-elite-micenica-y-minoica-estaban-forjados-con-hierro-de-meteoritos",
-      "title": "Objetos de poder en tumbas de reyes: los anillos de la élite micénica y minoica estaban forjados con hierro de meteoritos",
-      "summary": "Durante cinco años, un equipo franco-griego ha recorrido diecinueve museos y treinta y tres yacimientos arqueológicos para resolver un enigma que llevaba décadas sin respuesta: ¿usaron los micénicos y los minoicos hierro de meteoritos para fabricar sus objetos, igual que…",
-      "url": "https://www.labrujulaverde.com/2026/07/objetos-de-poder-en-tumbas-de-reyes-los-anillos-de-la-elite-micenica-y-minoica-estaban-forjados-con-hierro-de-meteoritos",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/1-s2.0-S0305440326001524-gr2_lrg.webp",
-      "publishedAt": "2026-07-10T09:18:10.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "greziarrak",
-        "museoak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/descubren-en-tablillas-cuneiformes-los-nombres-de-tres-reyes-del-imperio-asirio-de-los-siglos-x-al-viii-ac-hasta-ahora-desconocidos",
-      "title": "Descubren en tablillas cuneiformes los nombres de tres reyes del Imperio Asirio de los siglos X al VIII a.C. hasta ahora desconocidos",
-      "summary": "La imagen de un reino asirio estable, con una línea dinástica ordenada y sucesiones mayoritariamente pacíficas de padre a hijo, ha sido durante décadas el relato predominante entre los especialistas del antiguo Oriente Próximo. Pero el hallazgo publicado recientemente en el…",
-      "url": "https://www.labrujulaverde.com/2026/07/descubren-en-tablillas-cuneiformes-los-nombres-de-tres-reyes-del-imperio-asirio-de-los-siglos-x-al-viii-ac-hasta-ahora-desconocidos",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/YN-5_Rm_75_obv.webp",
-      "publishedAt": "2026-07-10T08:04:00.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "ekialde-hurbila",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "cambridge-antiquity:https://openalex.org/W7167894449",
-      "title": "An early lead-smelting tradition in north-east Iberia: a short-lived innovation of the third millennium BC",
-      "summary": "The polymetallic origins and non-linear development of metallurgy have only relatively recently attracted more scholarly attention. Within this framework, the identification of three lead-smelting slag nodules in early second-millennium BC contexts at Minferri (Catalonia, Spain)…",
-      "url": "https://doi.org/10.15184/aqy.2026.10388",
-      "image": null,
-      "publishedAt": "2026-07-10T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-antiquity",
-        "name": "Antiquity (Cambridge)"
-      },
-      "lang": "en",
-      "region": "iberia",
-      "topics": []
-    },
-    {
-      "id": "cambridge-antiquity:https://openalex.org/W7167919223",
-      "title": "Białowieża Forest and its archaeological heritage – CORRIGENDUM",
-      "summary": "Białowieża Forest and its archaeological heritage – CORRIGENDUM",
-      "url": "https://doi.org/10.15184/aqy.2026.10383",
-      "image": null,
-      "publishedAt": "2026-07-10T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-antiquity",
-        "name": "Antiquity (Cambridge)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/archaeology/vikings/dirty-button-unearthed-by-metal-detectorist-turns-out-to-be-a-rare-900-year-old-coin-from-norways-last-viking-king-magnus-barefoot",
-      "title": "Dirty 'button' unearthed by metal detectorist turns out to be a rare 900-year-old coin from Norway's last Viking king, Magnus Barefoot",
-      "summary": "A rare coin from the reign of Magnus Barefoot — sometimes called Norway's last Viking king, was mistaken for a button before researchers realized it was the first of its kind found on Norwegian soil.",
-      "url": "https://www.livescience.com/archaeology/vikings/dirty-button-unearthed-by-metal-detectorist-turns-out-to-be-a-rare-900-year-old-coin-from-norways-last-viking-king-magnus-barefoot",
-      "image": "https://cdn.mos.cms.futurecdn.net/5PKvBiKnNUpfAe7AUFRkJd-1280-80.jpg",
-      "publishedAt": "2026-07-09T21:19:16.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "erdi-aroa",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/encuentran-calzado-de-esparto-usado-en-las-minas-de-riotinto-en-la-edad-del-hierro-hace-2400-anos",
-      "title": "Encuentran calzado de esparto usado en las minas de Riotinto en la Edad del Hierro hace 2400 años",
-      "summary": "Un equipo de la Universidad de Granada ha sometido a examen un conjunto de ocho suelas de sandalias elaboradas con esparto, recuperadas en el sector Nuevo Filón Norte 1 del antiguo distrito minero de Riotinto, en el municipio onubense de Minas de Riotinto. Estas piezas, cuyas…",
-      "url": "https://www.labrujulaverde.com/2026/07/encuentran-calzado-de-esparto-usado-en-las-minas-de-riotinto-en-la-edad-del-hierro-hace-2400-anos",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/imagen_2026-07-05_140118519.webp",
-      "publishedAt": "2026-07-09T17:59:24.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/el-misterio-de-metsamor-un-enterramiento-unico-en-la-armenia-del-siglo-vii-ac-replantea-el-papel-de-la-mujer-en-el-reino-de-urartu",
-      "title": "El misterio de Metsamor: un enterramiento único en la Armenia del siglo VII a.C. replantea el papel de la mujer en el reino de Urartu",
-      "summary": "Un equipo de arqueólogos de la Universidad de Varsovia ha desenterrado en el yacimiento de Metsamor, en la actual Armenia, los restos de una mujer de unos cuarenta años, sepultada hace aproximadamente 2.700 años en el patio de una casa, en una posición que los expertos califican…",
-      "url": "https://www.labrujulaverde.com/2026/07/el-misterio-de-metsamor-un-enterramiento-unico-en-la-armenia-del-siglo-vii-ac-replantea-el-papel-de-la-mujer-en-el-reino-de-urartu",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/1-s2.0-S2352409X26003627-gr3_lrg.webp",
-      "publishedAt": "2026-07-09T10:15:08.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "ekialde-hurbila"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/magazines/military-history-matters-153/",
-      "title": "Military History Matters 153",
-      "summary": "1066 and all that: the battle for England American thunderbolt: the rise of US airpower Seizing the state: a curious history of the military coup The Kaiser’s secret weapons ‘Destroy the foreigners’: the Boxer rebellion",
-      "url": "https://the-past.com/magazines/military-history-matters-153/",
-      "image": null,
-      "publishedAt": "2026-07-09T10:00:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "lemonde-sciences:https://www.lemonde.fr/sciences/article/2026/07/09/a-la-decouverte-de-chartres-des-derniers-romains-aux-premiers-chretiens_6722060_1650684.html",
-      "title": "A la découverte de Chartres, des derniers Romains aux premiers chrétiens",
-      "summary": "A l’occasion de la réouverture de l’église Saint-Martin-au-Val, une exposition revient sur cette époque troublée entre Antiquité et Moyen Age, qui a notamment été marquée par une profonde transformation de l’espace urbain.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/07/09/a-la-decouverte-de-chartres-des-derniers-romains-aux-premiers-chretiens_6722060_1650684.html",
-      "image": "https://img.lemde.fr/2026/07/07/392/0/3154/1577/644/322/60/0/6ee052a_upload-1-hdbhzzff7j1w-figure7.jpg",
-      "publishedAt": "2026-07-09T09:30:08.000Z",
-      "source": {
-        "id": "lemonde-sciences",
-        "name": "Le Monde — Sciences"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": [
-        "erromatarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/encuentran-en-un-yacimiento-de-la-edad-del-bronce-en-madrid-las-evidencias-mas-antiguas-de-caballos-montados-en-la-peninsula-iberica",
-      "title": "Encuentran en un yacimiento de la Edad del Bronce en Madrid las evidencias más antiguas de caballos montados en la Península Ibérica",
-      "summary": "Un equipo de investigadores de la Universidad de Córdoba, el CSIC y otras instituciones ha documentado en el yacimiento de Castillo Reyes, en Pinto (Madrid), el conjunto de evidencias más antiguo conocido hasta la fecha sobre el uso de caballos domésticos para la monta y el…",
-      "url": "https://www.labrujulaverde.com/2026/07/encuentran-en-un-yacimiento-de-la-edad-del-bronce-en-madrid-las-evidencias-mas-antiguas-de-caballos-montados-en-la-peninsula-iberica",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/1-s2.0-S2352409X26003482-gr4_lrg.webp",
-      "publishedAt": "2026-07-09T07:47:04.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "erdi-aroa"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/feature/hastings-revisited/",
-      "title": "Hastings revisited",
-      "summary": "As the Bayeux Tapestry returns to England for a major new exhibition, Edmund West assesses the latest thinking about 1066 and all that.",
-      "url": "https://the-past.com/feature/hastings-revisited/",
-      "image": null,
-      "publishedAt": "2026-07-09T05:00:31.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "museoak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/feature/from-biplane-to-b-52/",
-      "title": "From biplane to B-52",
-      "summary": "In the second part of our special feature, Graham Goodlad examines the changes in design and technology that underpinned the 20th-century transformation of US airpower.",
-      "url": "https://the-past.com/feature/from-biplane-to-b-52/",
-      "image": null,
-      "publishedAt": "2026-07-08T19:10:15.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/feature/us-airpower/",
-      "title": "US airpower",
-      "summary": "Onwards and upwards a timeline tracing the developing fortunes and many incarnations of America's air force in the 2oth century.",
-      "url": "https://the-past.com/feature/us-airpower/",
-      "image": null,
-      "publishedAt": "2026-07-08T19:05:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "amerika"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/feature/american-thunderbolt/",
-      "title": "American thunderbolt",
-      "summary": "In the first part of our special feature, Graham Goodlad charts the development of America’s air-arm from its earliest beginnings, while in our second article he focuses on the hardware deployed by American forces.",
-      "url": "https://the-past.com/feature/american-thunderbolt/",
-      "image": null,
-      "publishedAt": "2026-07-08T19:00:03.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/en-el-lugar-donde-se-encontraron-los-primeros-enterramientos-humanos-un-craneo-revela-el-primer-apunalamiento-documentado-en-el-paleolitico-medio-hace-145000-anos",
-      "title": "En el lugar donde se encontraron los primeros enterramientos humanos, un cráneo revela el primer apuñalamiento documentado en el Paleolítico medio hace 145000 años",
-      "summary": "La cueva de Qafzeh, en el actual Israel, ha devuelto a la luz uno de los conjuntos fósiles más relevantes para trazar los primeros pasos de Homo sapiens fuera de África, pero un nuevo examen del cráneo conocido como Qafzeh 25 ha añadido una arista inesperada a su historia: una…",
-      "url": "https://www.labrujulaverde.com/2026/07/en-el-lugar-donde-se-encontraron-los-primeros-enterramientos-humanos-un-craneo-revela-el-primer-apunalamiento-documentado-en-el-paleolitico-medio-hace-145000-anos",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/Eingang_der_Qafzeh-Hohle.webp",
-      "publishedAt": "2026-07-08T17:32:00.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "ekialde-hurbila"
       ]
     }
   ]
