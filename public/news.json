@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T04:43:26.320Z",
+  "generatedAt": "2026-07-20T05:01:21.697Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 6123
+      "elapsedMs": 5459
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 773
+      "elapsedMs": 690
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 4132
+      "elapsedMs": 865
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 807
+      "elapsedMs": 609
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3232
+      "elapsedMs": 2660
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 6,
       "droppedOffTopic": 24,
       "droppedModern": 0,
-      "elapsedMs": 3235
+      "elapsedMs": 2672
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1373
+      "elapsedMs": 1095
     },
     {
       "id": "labrujulaverde",
@@ -101,7 +101,7 @@
       "kept": 17,
       "droppedOffTopic": 0,
       "droppedModern": 3,
-      "elapsedMs": 1771
+      "elapsedMs": 1529
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 9,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 1964
+      "elapsedMs": 1041
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1853
+      "elapsedMs": 1339
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 4,
       "droppedOffTopic": 16,
       "droppedModern": 0,
-      "elapsedMs": 1179
+      "elapsedMs": 704
     },
     {
       "id": "lemonde-archeo",
@@ -150,10 +150,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 11,
-      "droppedOffTopic": 6,
+      "kept": 10,
+      "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 1683
+      "elapsedMs": 874
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +162,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 18,
+      "fetched": 16,
       "kept": 7,
-      "droppedOffTopic": 11,
+      "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1495
+      "elapsedMs": 831
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +179,7 @@
       "kept": 3,
       "droppedOffTopic": 16,
       "droppedModern": 3,
-      "elapsedMs": 3348
+      "elapsedMs": 2633
     },
     {
       "id": "sudouest-culture",
@@ -189,10 +189,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 1,
-      "droppedOffTopic": 19,
+      "kept": 0,
+      "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1549
+      "elapsedMs": 1145
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1813
+      "elapsedMs": 1828
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 1,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 2381
+      "elapsedMs": 1751
     },
     {
       "id": "stilearte",
@@ -228,10 +228,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 9,
+      "kept": 10,
       "droppedOffTopic": 0,
-      "droppedModern": 1,
-      "elapsedMs": 2293
+      "droppedModern": 0,
+      "elapsedMs": 1963
     },
     {
       "id": "live-science-arch",
@@ -244,7 +244,7 @@
       "kept": 3,
       "droppedOffTopic": 27,
       "droppedModern": 0,
-      "elapsedMs": 3325
+      "elapsedMs": 2485
     },
     {
       "id": "bbc-history",
@@ -254,10 +254,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 0,
-      "droppedOffTopic": 10,
+      "kept": 3,
+      "droppedOffTopic": 7,
       "droppedModern": 0,
-      "elapsedMs": 2254
+      "elapsedMs": 1621
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +270,7 @@
       "kept": 10,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1919
+      "elapsedMs": 1708
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 4,
       "droppedOffTopic": 5,
       "droppedModern": 1,
-      "elapsedMs": 2038
+      "elapsedMs": 1791
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 13,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 2421
+      "elapsedMs": 2131
     },
     {
       "id": "current-archaeology",
@@ -306,10 +306,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 13,
+      "kept": 15,
       "droppedOffTopic": 9,
-      "droppedModern": 8,
-      "elapsedMs": 2033
+      "droppedModern": 6,
+      "elapsedMs": 1736
     },
     {
       "id": "jas-reports",
@@ -320,9 +320,9 @@
       "ok": true,
       "fetched": 30,
       "kept": 8,
-      "droppedOffTopic": 5,
-      "droppedModern": 17,
-      "elapsedMs": 2132
+      "droppedOffTopic": 3,
+      "droppedModern": 19,
+      "elapsedMs": 1763
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +335,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2361
+      "elapsedMs": 1886
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 20,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 2796
+      "elapsedMs": 2522
     },
     {
       "id": "sciencedirect-jas",
@@ -358,10 +358,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 7,
+      "kept": 6,
       "droppedOffTopic": 2,
-      "droppedModern": 21,
-      "elapsedMs": 2244
+      "droppedModern": 22,
+      "elapsedMs": 1807
     },
     {
       "id": "spal-us",
@@ -374,7 +374,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2996
+      "elapsedMs": 2806
     },
     {
       "id": "complutum-ucm",
@@ -382,12 +382,9 @@
       "lang": "es",
       "region": "iberia",
       "kind": "research",
-      "ok": true,
-      "fetched": 30,
-      "kept": 19,
-      "droppedOffTopic": 1,
-      "droppedModern": 10,
-      "elapsedMs": 4489
+      "ok": false,
+      "error": "Request timed out after 15000ms",
+      "elapsedMs": 49513
     },
     {
       "id": "archeoarte",
@@ -400,7 +397,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 3147
+      "elapsedMs": 2686
     },
     {
       "id": "cypsela",
@@ -413,7 +410,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3077
+      "elapsedMs": 2661
     },
     {
       "id": "cambridge-antiquity",
@@ -426,7 +423,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 3131
+      "elapsedMs": 2419
     },
     {
       "id": "cambridge-caj",
@@ -439,7 +436,7 @@
       "kept": 19,
       "droppedOffTopic": 7,
       "droppedModern": 4,
-      "elapsedMs": 3072
+      "elapsedMs": 2480
     },
     {
       "id": "cambridge-ejarc",
@@ -452,7 +449,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 2957
+      "elapsedMs": 2387
     },
     {
       "id": "aquitania-persee",
@@ -465,7 +462,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3887
+      "elapsedMs": 3381
     },
     {
       "id": "cuadernos-arq-unav",
@@ -478,7 +475,7 @@
       "kept": 20,
       "droppedOffTopic": 2,
       "droppedModern": 8,
-      "elapsedMs": 4589
+      "elapsedMs": 4189
     },
     {
       "id": "veleia-ehu",
@@ -491,7 +488,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 4104
+      "elapsedMs": 3602
     },
     {
       "id": "flv-navarra",
@@ -504,7 +501,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 3283
+      "elapsedMs": 2721
     },
     {
       "id": "munibe-aa",
@@ -517,7 +514,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 3262
+      "elapsedMs": 2538
     },
     {
       "id": "trabajos-prehistoria",
@@ -530,7 +527,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 3273
+      "elapsedMs": 2591
     },
     {
       "id": "openalex-archaeology",
@@ -543,7 +540,7 @@
       "kept": 14,
       "droppedOffTopic": 8,
       "droppedModern": 8,
-      "elapsedMs": 3349
+      "elapsedMs": 2575
     }
   ],
   "items": [
@@ -5603,121 +5600,6 @@
       ]
     },
     {
-      "id": "stilearte:https://www.stilearte.it/birra-romana-produzione-malto-suffolk/",
-      "title": "Birra romana: scoperto l’antico “laboratorio” nascosto sotto la costa. Come la producevano? Cosa hanno trovato? Quale differenza di sapore rispetto alle nostre birre? Le risposte tra scavi, studi e analisi",
-      "summary": "Un odore caldo e dolciastro si alzava nell’aria, denso di vapori e di fumo, mentre il terreno restituiva il calore accumulato durante le ore di lavoro. Figure chine si muovevano con gesti precisi, alimentavano il fuoco, controllavano aperture, osservavano il colore dei chicchi.…",
-      "url": "https://www.stilearte.it/birra-romana-produzione-malto-suffolk/",
-      "image": null,
-      "publishedAt": "2026-04-21T04:10:00.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "lemonde-sciences:https://www.lemonde.fr/sciences/article/2026/04/20/monnaies-anciennes-objets-precieux-comment-le-pillage-archeologique-fait-disparaitre-l-histoire_6681743_1650684.html",
-      "title": "Monnaies anciennes, fossiles… Comment les fouilles archéologiques clandestines font « disparaître l’histoire »",
-      "summary": "En France, chercheurs, douaniers, gendarmes et policiers tentent d’enrayer un trafic en pleine expansion, tandis que les pilleurs mettent à profit de nouveaux outils pour déterrer les vestiges et les écouler en masse. Enquête sur une hémorragie patrimoniale.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/04/20/monnaies-anciennes-objets-precieux-comment-le-pillage-archeologique-fait-disparaitre-l-histoire_6681743_1650684.html",
-      "image": "https://img.lemde.fr/2026/04/20/1421/0/2681/1340/644/322/60/0/9e1bd40_upload-1-sp2iveru5s99-le-monde-science-medecine-pillage-hd.jpg",
-      "publishedAt": "2026-04-20T16:00:09.000Z",
-      "source": {
-        "id": "lemonde-sciences",
-        "name": "Le Monde — Sciences"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": [
-        "amerika"
-      ]
-    },
-    {
-      "id": "lemonde-sciences:https://www.lemonde.fr/sciences/article/2026/04/20/biens-archeologiques-voles-cinq-histoires-de-tresors-retrouves_6681739_1650684.html",
-      "title": "Biens archéologiques volés : cinq histoires de trésors retrouvés",
-      "summary": "Pièces d’or, blocs antiques, figurine du Moyen Age… Ces objets, d’une grande valeur historique et patrimoniale, ont pu être étudiés et rendus à l’Etat après être sortis du marché noir ou de réseaux douteux par les services des douanes. Retour sur cinq enquêtes marquantes.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/04/20/biens-archeologiques-voles-cinq-histoires-de-tresors-retrouves_6681739_1650684.html",
-      "image": "https://img.lemde.fr/2026/04/17/324/0/3888/1944/644/322/60/0/51fe756_upload-1-6y3e1bkahazd-000-par2293165.jpg",
-      "publishedAt": "2026-04-20T15:30:03.000Z",
-      "source": {
-        "id": "lemonde-sciences",
-        "name": "Le Monde — Sciences"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/descubren-en-bosnia-un-santuario-ceremonial-de-la-edad-del-bronce-cubierto-con-una-extrana-muralla-en-forma-de-l-que-no-defendia-nada",
-      "title": "Descubren en Bosnia un santuario ceremonial de la Edad del Bronce cubierto con una extraña muralla en forma de L que no defendía nada",
-      "summary": "Durante décadas, la colina de Begića Glavica permaneció en silencio. Ni los arqueólogos ni los mapas del patrimonio bosnio la registraban como un lugar de interés. Su modesta elevación sobre el valle del río Lašva, en la región central de Bosnia, parecía una más entre las…",
-      "url": "https://www.labrujulaverde.com/2026/04/descubren-en-bosnia-un-santuario-ceremonial-de-la-edad-del-bronce-cubierto-con-una-extrana-muralla-en-forma-de-l-que-no-defendia-nada",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/ArchA_SR_Gavranovic_etal_final-1-labrujulaverde-com.webp",
-      "publishedAt": "2026-04-20T11:06:25.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/monete-false-phanagoria-incendio-portafogli-antichi/",
-      "title": "“Qui è successo il dramma”. Fuggono tra le fiamme. Cadono i borselli. Dentro, monete vecchie di due secoli… e alcune persino false. Che cosa stava succedendo davvero a Phanagoria nel suo ultimo giorno? Le scoperte degli archeologi",
-      "summary": "Sulle coste meridionali della Russia, tra il Mar Nero e il Mar d’Azov, la terra ha restituito una scena che sembra sospesa nel tempo: piccoli gruppi di monete, serrati tra loro, come se qualcuno li avesse ancora in mano un attimo prima di perderli. Non sono tesori nascosti né…",
-      "url": "https://www.stilearte.it/monete-false-phanagoria-incendio-portafogli-antichi/",
-      "image": null,
-      "publishedAt": "2026-04-20T08:53:36.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/en-una-tumba-anglosajona-de-hace-1400-anos-una-hermana-mayor-cuida-de-su-hermano-pequeno-ambos-fallecidos-por-una-enfermedad-contagiosa",
-      "title": "En una tumba anglosajona de hace 1400 años una hermana mayor “cuida” de su hermano pequeño, ambos fallecidos por una enfermedad contagiosa",
-      "summary": "El avance de la genética antigua ha permitido resolver un enigma arqueológico de décadas: el doble enterramiento descubierto en Cherington, Gloucestershire, durante una intervención del programa Time Team y la iniciativa Operation Nightingale, cuyos detalles fueron difundidos…",
-      "url": "https://www.labrujulaverde.com/2026/04/en-una-tumba-anglosajona-de-hace-1400-anos-una-hermana-mayor-cuida-de-su-hermano-pequeno-ambos-fallecidos-por-una-enfermedad-contagiosa",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/Cherington-Double-Grave.webp",
-      "publishedAt": "2026-04-20T08:21:20.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/mas-de-1300-postes-a-5-metros-de-profundidad-revelan-que-una-tormenta-e-inundaciones-arrasaron-hace-5860-anos-un-poblado-neolitico-a-orillas-del-lago-biel",
-      "title": "Más de 1300 postes a 5 metros de profundidad revelan que una tormenta e inundaciones arrasaron hace 5860 años un poblado neolítico a orillas del lago Biel",
-      "summary": "Las excavaciones para la construcción del nuevo campus de la Universidad de Ciencias Aplicadas de Berna en la localidad de Biel han sacado a la luz los restos de un asentamiento de la Edad de Piedra que tuvo una existencia efímera, de apenas cinco años, antes de ser destruido…",
-      "url": "https://www.labrujulaverde.com/2026/04/mas-de-1300-postes-a-5-metros-de-profundidad-revelan-que-una-tormenta-e-inundaciones-arrasaron-hace-5860-anos-un-poblado-neolitico-a-orillas-del-lago-biel",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/mm-bkd-publikation-biel-campus-abb-3-gross.webp",
-      "publishedAt": "2026-04-20T07:36:03.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001987?dgcid=rss_sd_all",
       "title": "Alcoholic drinking practices at Pingliangtai during the Late Neolithic Longshan culture, North China",
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Lina Li, Chunyang Liu, Yanpeng Cao, Shuzheng Zhu, Jiyin Wei, Chunguang Gu, Li Liu",
@@ -8390,6 +8272,188 @@
       ]
     },
     {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/descubren-en-saqqara-tres-tumbas-de-funcionarios-y-militares-de-la-xviii-dinastia-entre-ellas-la-del-gran-comerciante-de-la-casa-de-ptah",
+      "title": "Descubren en Saqqara tres tumbas de funcionarios y militares de la XVIII dinastía, entre ellas la del “gran comerciante de la casa de Ptah”",
+      "summary": "La misión arqueológica egipcia que opera en la necrópolis de los Bubasteion, en el sector oriental del borde montañoso del yacimiento de Saqqara, ha dado a conocer el hallazgo de tres sepulturas excavadas en la roca correspondientes al período del Imperio Nuevo. El…",
+      "url": "https://www.labrujulaverde.com/2026/07/descubren-en-saqqara-tres-tumbas-de-funcionarios-y-militares-de-la-xviii-dinastia-entre-ellas-la-del-gran-comerciante-de-la-casa-de-ptah",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/Imagen-WebP.webp",
+      "publishedAt": "2026-07-19T16:37:06.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/review/museum/the-plaster-casts-of-pompeii/",
+      "title": "The plaster casts of Pompeii",
+      "summary": "The first permanent exhibition of the plaster casts of Pompeii has opened at the Archaeological Park.",
+      "url": "https://the-past.com/review/museum/the-plaster-casts-of-pompeii/",
+      "image": null,
+      "publishedAt": "2026-07-19T11:30:00.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "erromatarrak",
+        "museoak"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/review/books/surviving-rome-the-economic-lives-of-the-ninety-percent/",
+      "title": "Surviving Rome: the economic lives of the ninety percent",
+      "summary": "Sometime in the 1st century AD, a crass graffiti artist carved a 2m-long graffito into the wall of a stairwell within the House of Julia Felix at Pompeii. The mudslinger didn’t mince",
+      "url": "https://the-past.com/review/books/surviving-rome-the-economic-lives-of-the-ninety-percent/",
+      "image": null,
+      "publishedAt": "2026-07-19T10:00:00.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/review/books/surviving-rome-the-economic-lives-of-the-ninety-percent-2/",
+      "title": "Alexander: god, king, man",
+      "summary": "Every new book about Alexander the Great needs to have its own unique selling point if it is to fight its way successfully into public consciousness. In the case of Edmund Richardson’s",
+      "url": "https://the-past.com/review/books/surviving-rome-the-economic-lives-of-the-ninety-percent-2/",
+      "image": null,
+      "publishedAt": "2026-07-19T09:30:00.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/scoperta-una-spada-delleta-del-bronzo-sul-fondale/",
+      "title": "Il mare dei demoni con la cresta bianca. Scoperta una spada dell’Età del Bronzo sul fondale. Un filone prezioso di relitti da studiare. Monete e armi",
+      "summary": "Le acque grigie del Canale della Manica continuano a restituire frammenti di una storia rimasta nascosta per oltre tremila anni. Sotto le creste candide delle onde, in un punto bello ma insidiose è stata ora recuperata una spada in bronzo, rimasta sepolta sotto concrezioni…",
+      "url": "https://www.stilearte.it/scoperta-una-spada-delleta-del-bronzo-sul-fondale/",
+      "image": null,
+      "publishedAt": "2026-07-19T09:04:02.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/review/books/travels-through-prehistoric-spain-a-guide/",
+      "title": "Travels through Prehistoric Spain: a guide",
+      "summary": "In Travels through Prehistoric Spain, Jude Brown and Gary Lock provide a richly rewarding and deeply engaging exploration of Spain’s prehistoric heritage. Written with enthusiasm, knowledge, and genuine affection for both archaeology and",
+      "url": "https://the-past.com/review/books/travels-through-prehistoric-spain-a-guide/",
+      "image": null,
+      "publishedAt": "2026-07-19T09:00:00.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "iberia",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/bartolomeo-colleoni-el-mercenario-de-los-tres-pares-de-coglioni",
+      "title": "Bartolomeo Colleoni, el mercenario de los tres pares de «coglioni»",
+      "summary": "Resulta curioso que dos de las estatuas más famosas y representativas del Quattrocento no se hayan hecho en honor de un príncipe o un literato ni de un personaje religioso o mitológico, sino de mercenarios. Una está en Padua y fue hecha por el célebre Donatello; la otra se alza…",
+      "url": "https://www.labrujulaverde.com/2026/07/bartolomeo-colleoni-el-mercenario-de-los-tres-pares-de-coglioni",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/Bartolomeo_Colleoni_by_Andrea_del_Verrocchio.webp",
+      "publishedAt": "2026-07-19T08:48:21.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/libia-apollonia-scoperta-teatro-ippodromo-greco/",
+      "title": "In Libia riaffiora l’antico volto di Apollonia: scoperti un teatro e un misterioso ippodromo senza confronti nel Mediterraneo",
+      "summary": "Per molto tempo gli archeologi hanno creduto di conoscere Apollonia, l’antico porto greco della Cirenaica. Le sue mura, il porto sommerso, le terme e i templi sembravano aver raccontato quasi tutto. Poi gli scavi hanno imboccato una direzione diversa. Sotto una distesa di terra…",
+      "url": "https://www.stilearte.it/libia-apollonia-scoperta-teatro-ippodromo-greco/",
+      "image": null,
+      "publishedAt": "2026-07-19T08:44:18.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "greziarrak"
+      ]
+    },
+    {
+      "id": "bbc-history:https://www.historyextra.com/membership/odyssey-podcast-series-episode-4/",
+      "title": "The Odyssey’s forgotten epilogue",
+      "summary": "How did the Odyssey shape the lives of the ancient Greeks who read it? Daisy Dunn considers the poem’s cultural afterlife – and its chaotic sequel",
+      "url": "https://www.historyextra.com/membership/odyssey-podcast-series-episode-4/",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/07/OdysseyWL-Ep4-5897aac.jpg",
+      "publishedAt": "2026-07-19T06:31:49.000Z",
+      "source": {
+        "id": "bbc-history",
+        "name": "BBC History Extra"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "greziarrak"
+      ]
+    },
+    {
+      "id": "bbc-history:https://www.historyextra.com/membership/odyssey-podcast-series-episode-3/",
+      "title": "Is the Odyssey myth or memory?",
+      "summary": "What happens when you go looking for the real world behind Homer's Odyssey? Daisy Dunn explores the archaeology of Bronze Age Greece",
+      "url": "https://www.historyextra.com/membership/odyssey-podcast-series-episode-3/",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/07/OdysseyWL-Ep3-7da66f3.jpg",
+      "publishedAt": "2026-07-19T06:30:06.000Z",
+      "source": {
+        "id": "bbc-history",
+        "name": "BBC History Extra"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "bbc-history:https://www.historyextra.com/membership/odyssey-podcast-series-episode-2/",
+      "title": "Gods and monsters: the hidden stories of the Odyssey",
+      "summary": "Daisy Dunn explores the Odyssey's greatest hits – and how each tells us as much about ancient Greek civilisation as it does about Odysseus himself",
+      "url": "https://www.historyextra.com/membership/odyssey-podcast-series-episode-2/",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/07/OdysseyWL-Ep2-4b4a729.jpg",
+      "publishedAt": "2026-07-19T06:29:58.000Z",
+      "source": {
+        "id": "bbc-history",
+        "name": "BBC History Extra"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "greziarrak"
+      ]
+    },
+    {
       "id": "trabajos-prehistoria:https://openalex.org/W4416108229",
       "title": "Recensión de: Linda Boutoille y Rebeca Peake (Eds.). Metalworkers and their tools. Symbolism, Function, and Technology in the Bronze and Iron Ages. Archaeopress. Oxford, 2023, 186 pp., 114 figs., 6 tabs. ISBN: 978-1-80327-624-3, 978-1-80327-625-0 (pdf). DOI: https://doi.org/10.32028/9781803276243",
       "summary": "La obra que nos ocupa ofrece un ttulo prometedor, pero afronta el reto de un registro arqueolgico limitado.En efecto, nuestro conocimiento sobre los espacios de trabajo (talleres) y el instrumental empleado en la produccin de objetos de metal tiene todava muchas carencias.En…",
@@ -8812,66 +8876,6 @@
       },
       "lang": "ca",
       "region": "iberia",
-      "topics": []
-    },
-    {
-      "id": "cypsela:https://raco.cat/index.php/Cypsela/article/view/435259",
-      "title": "Técnicas de manufactura para la producción cerámica de la necrópolis de Can Missert (Terrassa, Vallés Occidental) durante el Bronce Final (1052-819 cal. ANE). Primeros resultados.",
-      "summary": "",
-      "url": "https://raco.cat/index.php/Cypsela/article/view/435259",
-      "image": null,
-      "publishedAt": "2025-02-08T00:00:00.000Z",
-      "source": {
-        "id": "cypsela",
-        "name": "Cypsela (RACO, Catalunya)"
-      },
-      "lang": "ca",
-      "region": "iberia",
-      "topics": []
-    },
-    {
-      "id": "cypsela:https://raco.cat/index.php/Cypsela/article/view/435260",
-      "title": "Un nou bloc amb inscripció ibèrica monumental del Puig de Sant Andreu (Ullastret)",
-      "summary": "",
-      "url": "https://raco.cat/index.php/Cypsela/article/view/435260",
-      "image": null,
-      "publishedAt": "2025-02-08T00:00:00.000Z",
-      "source": {
-        "id": "cypsela",
-        "name": "Cypsela (RACO, Catalunya)"
-      },
-      "lang": "ca",
-      "region": "iberia",
-      "topics": []
-    },
-    {
-      "id": "cypsela:https://raco.cat/index.php/Cypsela/article/view/435261",
-      "title": "Els gravats rupestres de Colera i Llançà",
-      "summary": "",
-      "url": "https://raco.cat/index.php/Cypsela/article/view/435261",
-      "image": null,
-      "publishedAt": "2025-02-08T00:00:00.000Z",
-      "source": {
-        "id": "cypsela",
-        "name": "Cypsela (RACO, Catalunya)"
-      },
-      "lang": "ca",
-      "region": "iberia",
-      "topics": []
-    },
-    {
-      "id": "munibe-aa:https://openalex.org/W4405629454",
-      "title": "El aprovechamiento de los recursos cárnicos en el Castro Celtibérico de Peña Moñuz (Dehesa de Olmeda, Guadalajara)",
-      "summary": "En este artículo se presenta el estudio zooarqueológico y tafonómico de Peña Moñuz (Olmeda de Cobeta, Guadalajara), un asentamiento celtibérico del s. IV-II a.C. Nuestros datos complementan las evidencias descritas para otros yacimientos celtibéricos con una economía…",
-      "url": "https://doi.org/10.21630/maa.2024.75.08",
-      "image": null,
-      "publishedAt": "2024-12-20T00:00:00.000Z",
-      "source": {
-        "id": "munibe-aa",
-        "name": "Munibe Antropologia-Arkeologia (Aranzadi)"
-      },
-      "lang": "es",
-      "region": "basque",
       "topics": []
     }
   ]
