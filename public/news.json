@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T05:01:21.697Z",
+  "generatedAt": "2026-07-21T04:42:23.922Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5459
+      "elapsedMs": 5289
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 690
+      "elapsedMs": 602
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 865
+      "elapsedMs": 709
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 609
+      "elapsedMs": 543
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2660
+      "elapsedMs": 2425
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 6,
       "droppedOffTopic": 24,
       "droppedModern": 0,
-      "elapsedMs": 2672
+      "elapsedMs": 2482
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1095
+      "elapsedMs": 1157
     },
     {
       "id": "labrujulaverde",
@@ -98,10 +98,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 17,
+      "kept": 19,
       "droppedOffTopic": 0,
-      "droppedModern": 3,
-      "elapsedMs": 1529
+      "droppedModern": 1,
+      "elapsedMs": 1527
     },
     {
       "id": "desperta-ferro",
@@ -112,9 +112,9 @@
       "ok": true,
       "fetched": 12,
       "kept": 9,
-      "droppedOffTopic": 1,
-      "droppedModern": 2,
-      "elapsedMs": 1041
+      "droppedOffTopic": 2,
+      "droppedModern": 1,
+      "elapsedMs": 1011
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1339
+      "elapsedMs": 1242
     },
     {
       "id": "lemonde-sciences",
@@ -137,10 +137,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 4,
-      "droppedOffTopic": 16,
+      "kept": 3,
+      "droppedOffTopic": 17,
       "droppedModern": 0,
-      "elapsedMs": 704
+      "elapsedMs": 724
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 10,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 874
+      "elapsedMs": 1314
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +162,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 16,
+      "fetched": 15,
       "kept": 7,
-      "droppedOffTopic": 9,
+      "droppedOffTopic": 8,
       "droppedModern": 0,
-      "elapsedMs": 831
+      "elapsedMs": 1362
     },
     {
       "id": "inrap-bsky",
@@ -175,11 +175,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 22,
-      "kept": 3,
+      "fetched": 23,
+      "kept": 4,
       "droppedOffTopic": 16,
       "droppedModern": 3,
-      "elapsedMs": 2633
+      "elapsedMs": 2460
     },
     {
       "id": "sudouest-culture",
@@ -189,10 +189,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 0,
-      "droppedOffTopic": 20,
+      "kept": 1,
+      "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1145
+      "elapsedMs": 970
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1828
+      "elapsedMs": 1669
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 1,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 1751
+      "elapsedMs": 1714
     },
     {
       "id": "stilearte",
@@ -228,10 +228,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 10,
-      "droppedOffTopic": 0,
+      "kept": 9,
+      "droppedOffTopic": 1,
       "droppedModern": 0,
-      "elapsedMs": 1963
+      "elapsedMs": 1852
     },
     {
       "id": "live-science-arch",
@@ -244,7 +244,7 @@
       "kept": 3,
       "droppedOffTopic": 27,
       "droppedModern": 0,
-      "elapsedMs": 2485
+      "elapsedMs": 2293
     },
     {
       "id": "bbc-history",
@@ -254,10 +254,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 3,
-      "droppedOffTopic": 7,
+      "kept": 0,
+      "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1621
+      "elapsedMs": 1496
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +270,7 @@
       "kept": 10,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1708
+      "elapsedMs": 1625
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 4,
       "droppedOffTopic": 5,
       "droppedModern": 1,
-      "elapsedMs": 1791
+      "elapsedMs": 1637
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 13,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 2131
+      "elapsedMs": 1858
     },
     {
       "id": "current-archaeology",
@@ -306,10 +306,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 15,
+      "kept": 16,
       "droppedOffTopic": 9,
-      "droppedModern": 6,
-      "elapsedMs": 1736
+      "droppedModern": 5,
+      "elapsedMs": 1614
     },
     {
       "id": "jas-reports",
@@ -322,7 +322,7 @@
       "kept": 8,
       "droppedOffTopic": 3,
       "droppedModern": 19,
-      "elapsedMs": 1763
+      "elapsedMs": 1604
     },
     {
       "id": "plos-one-arch",
@@ -332,10 +332,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 0,
-      "droppedOffTopic": 30,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1886
+      "elapsedMs": 1738
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 20,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 2522
+      "elapsedMs": 2223
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +361,7 @@
       "kept": 6,
       "droppedOffTopic": 2,
       "droppedModern": 22,
-      "elapsedMs": 1807
+      "elapsedMs": 1629
     },
     {
       "id": "spal-us",
@@ -374,7 +374,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2806
+      "elapsedMs": 2389
     },
     {
       "id": "complutum-ucm",
@@ -382,9 +382,12 @@
       "lang": "es",
       "region": "iberia",
       "kind": "research",
-      "ok": false,
-      "error": "Request timed out after 15000ms",
-      "elapsedMs": 49513
+      "ok": true,
+      "fetched": 30,
+      "kept": 19,
+      "droppedOffTopic": 1,
+      "droppedModern": 10,
+      "elapsedMs": 21802
     },
     {
       "id": "archeoarte",
@@ -397,7 +400,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2686
+      "elapsedMs": 2295
     },
     {
       "id": "cypsela",
@@ -410,7 +413,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2661
+      "elapsedMs": 2377
     },
     {
       "id": "cambridge-antiquity",
@@ -423,7 +426,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2419
+      "elapsedMs": 2014
     },
     {
       "id": "cambridge-caj",
@@ -436,7 +439,7 @@
       "kept": 19,
       "droppedOffTopic": 7,
       "droppedModern": 4,
-      "elapsedMs": 2480
+      "elapsedMs": 2030
     },
     {
       "id": "cambridge-ejarc",
@@ -449,7 +452,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 2387
+      "elapsedMs": 2004
     },
     {
       "id": "aquitania-persee",
@@ -462,7 +465,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3381
+      "elapsedMs": 2959
     },
     {
       "id": "cuadernos-arq-unav",
@@ -475,7 +478,7 @@
       "kept": 20,
       "droppedOffTopic": 2,
       "droppedModern": 8,
-      "elapsedMs": 4189
+      "elapsedMs": 3762
     },
     {
       "id": "veleia-ehu",
@@ -488,7 +491,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3602
+      "elapsedMs": 4127
     },
     {
       "id": "flv-navarra",
@@ -501,7 +504,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2721
+      "elapsedMs": 2306
     },
     {
       "id": "munibe-aa",
@@ -514,7 +517,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 2538
+      "elapsedMs": 2336
     },
     {
       "id": "trabajos-prehistoria",
@@ -527,7 +530,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 2591
+      "elapsedMs": 2324
     },
     {
       "id": "openalex-archaeology",
@@ -540,7 +543,7 @@
       "kept": 14,
       "droppedOffTopic": 8,
       "droppedModern": 8,
-      "elapsedMs": 2575
+      "elapsedMs": 2347
     }
   ],
   "items": [
@@ -690,6 +693,217 @@
       "lang": "en",
       "region": "world",
       "topics": []
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003950?dgcid=rss_sd_all",
+      "title": "The supply of copper to the settlement of Leceia (Portugal) and the Estremadura region during the third millennium BC",
+      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Pedro Valério, João Luís Cardoso, Luís C. Alves, António M. Monge Soares",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26003950?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-07-21T04:42:03.660Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "iberia",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/gran-carro-bolsena-villaggio-sommerso-visite/",
+      "title": "Brividi. Tutti di notte sul villaggio sommerso del Gran Carro. Il lago di Bolsena si illumina e riporta in vita 3000 anni di storia. Maschere e pinne. Barca con vetri. Cosa si vede. Come partecipare",
+      "summary": "Italia centrale – Sabato 26 luglio ultima apertura diurna del sito archeologico sommerso di Bolsena. Intanto l’esperienza serale conquista visitatori italiani e stranieri, che osservano da pochi metri di distanza uno dei più straordinari paesaggi archeologici nascosti sotto le…",
+      "url": "https://www.stilearte.it/gran-carro-bolsena-villaggio-sommerso-visite/",
+      "image": null,
+      "publishedAt": "2026-07-20T22:25:19.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/feature/in-a-matter-of-minutes-his-life-was-over-the-violent-death-of-a-mesolithic-man/",
+      "title": "In a matter of minutes, his life was over: The violent death of a Mesolithic man",
+      "summary": "A recent discovery in Sweden has revealed details about the final moments of a Mesolithic man. Caroline Arcini, Ann Westmark, Gracijela Bozovic, and Marie-Louise Aurumskjöld take us through what unfolded.",
+      "url": "https://the-past.com/feature/in-a-matter-of-minutes-his-life-was-over-the-violent-death-of-a-mesolithic-man/",
+      "image": null,
+      "publishedAt": "2026-07-20T19:00:00.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sudouest-culture:https://www.sudouest.fr/charente-maritime/saintes/charente-maritime-somme-de-payer-pour-l-amphitheatre-et-de-rendre-des-comptes-blues-in-saintes-jette-le-gant-et-demenage-a-saujon-30002907.php",
+      "title": "Charente-Maritime : sommé de payer pour l’amphithéâtre et de rendre des comptes, Blues in Saintes jette le gant et déménage à Saujon",
+      "summary": "La Ville réclame à l’association Blues event un bilan financier et une participation pour l’utilisation de l’amphithéâtre gallo-romain. L’organisateur parle « d’injustice » et renonce au site",
+      "url": "https://www.sudouest.fr/charente-maritime/saintes/charente-maritime-somme-de-payer-pour-l-amphitheatre-et-de-rendre-des-comptes-blues-in-saintes-jette-le-gant-et-demenage-a-saujon-30002907.php",
+      "image": null,
+      "publishedAt": "2026-07-20T18:00:00.000Z",
+      "source": {
+        "id": "sudouest-culture",
+        "name": "Sud Ouest — Culture"
+      },
+      "lang": "fr",
+      "region": "basque",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/egitto-tre-tombe-nuovo-regno-pozzo-funerario-saqqara/",
+      "title": "Sorprendente scoperta in Egitto: trovate tre tombe del Nuovo Regno. Una conserva un pozzo funerario ancora sigillato. Cosa potrebbe svelare dopo millenni?",
+      "summary": "Nella necropoli di Saqqara una missione archeologica egiziana ha riportato alla luce tre tombe scavate nella roccia, appartenute ad alti funzionari vissuti oltre 3.300 anni fa. Tra rilievi, iscrizioni e scene di vita quotidiana, uno dei ritrovamenti custodisce ancora un mistero:…",
+      "url": "https://www.stilearte.it/egitto-tre-tombe-nuovo-regno-pozzo-funerario-saqqara/",
+      "image": null,
+      "publishedAt": "2026-07-20T15:46:20.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "inrap-bsky:https://bsky.app/profile/inrap.fr/post/3mr3ljryb6g23",
+      "title": "",
+      "summary": "Questionnaire : L’archéologie et vous 🔍 Vous êtes déjà plus de 3 500 à avoir répondu à notre questionnaire. Un grand merci ! 👉 N'hésitez pas à le relayer autour de vous : https://docs.google.com/forms/d/e/1FAIpQLSdJziov5M2Iik_e66pOZe3nanzaBxIA0B-nZpFEEvj450Mrpg/viewform",
+      "url": "https://bsky.app/profile/inrap.fr/post/3mr3ljryb6g23",
+      "image": null,
+      "publishedAt": "2026-07-20T15:15:00.000Z",
+      "source": {
+        "id": "inrap-bsky",
+        "name": "Inrap (Bluesky)"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354037",
+      "title": "Effect of ethyl methane sulfonate mutagenesis on phenological, yield-related and yield traits in cowpea (Vigna unguiculata (L.) Walp)",
+      "summary": "by Henry K. Mensah, Ralieva A. K. Nortey, Isaac K. Asante, Felicia Oppong-Adjei This study investigated the mutagenic effects of ethyl methane sulfonate (EMS) on the M₁ generation of cowpea (Vigna unguiculata (L.) Walp.) cultivar ‘Wang Kae.’ A total of 275 M₀ seeds were treated…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354037",
+      "image": null,
+      "publishedAt": "2026-07-20T14:00:00.000Z",
+      "source": {
+        "id": "plos-one-arch",
+        "name": "PLOS ONE — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "ekialde-hurbila"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/encuentran-en-eslovaquia-un-campamento-romano-de-la-epoca-de-marco-aurelio-y-las-guerras-marcomanas-con-extranos-enterramientos-de-legionarios",
+      "title": "Encuentran en Eslovaquia un campamento romano de la época de Marco Aurelio y las guerras marcomanas con extraños enterramientos de legionarios",
+      "summary": "El extenso proyecto arqueológico vinculado al futuro parque industrial de Šurany, en el suroeste de Eslovaquia, ha proporcionado uno de los descubrimientos más relevantes de los últimos años para la comprensión de la presencia romana al norte del Danubio. Los trabajos, que…",
+      "url": "https://www.labrujulaverde.com/2026/07/encuentran-en-eslovaquia-un-campamento-romano-de-la-epoca-de-marco-aurelio-y-las-guerras-marcomanas-con-extranos-enterramientos-de-legionarios",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/749197891_122189465678919968_2476330680486722023_n.webp",
+      "publishedAt": "2026-07-20T12:05:28.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak",
+        "ekialde-hurbila",
+        "asia",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/comment/living-among-ruins/",
+      "title": "Living among ruins",
+      "summary": "Most CWA readers will have visited some ruined cities for one reason or another; the majority of us will have let ourselves be fascinated by imagining how life in the past might have been, and how much or how little it would have resembled the modern equivalent, with its venues…",
+      "url": "https://the-past.com/comment/living-among-ruins/",
+      "image": null,
+      "publishedAt": "2026-07-20T12:00:00.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/en-el-siglo-iii-ac-pueblos-germanos-cooperaron-para-construir-la-gran-fortificacion-de-wittekindsburg-ahora-han-encontrado-sus-casas",
+      "title": "En el siglo III a.C. pueblos germanos cooperaron para construir la gran fortificación de Wittekindsburg, ahora han encontrado sus casas",
+      "summary": "Las prospecciones arqueológicas desarrolladas en el entorno de la ciudad alemana de Minden, en el este de Renania del Norte-Westfalia, están transformando la comprensión que se tenía hasta ahora sobre la ocupación humana en esta zona durante la Edad del Hierro. Los trabajos de…",
+      "url": "https://www.labrujulaverde.com/2026/07/en-el-siglo-iii-ac-pueblos-germanos-cooperaron-para-construir-la-gran-fortificacion-de-wittekindsburg-ahora-han-encontrado-sus-casas",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/113930.webp",
+      "publishedAt": "2026-07-20T09:44:55.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/tenerife-playas-de-arena-negra-calas-escondidas-y-un-volcan-en-el-centro",
+      "title": "Tenerife, playas de arena negra, calas escondidas y un volcán en el centro",
+      "summary": "Tenerife reparte sus encantos entre un norte verde y húmedo y un sur seco y soleado, y esa dualidad es precisamente lo que explica por qué la isla mantiene visitantes durante los doce meses del año. Con una temperatura media que ronda los 21°C incluso en pleno invierno, el…",
+      "url": "https://www.labrujulaverde.com/2026/07/tenerife-playas-de-arena-negra-calas-escondidas-y-un-volcan-en-el-centro",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/aerial-drone-view-puerto-de-la-cruz-tenerife-canary-islands-multiple-residential-buildings-2.webp",
+      "publishedAt": "2026-07-20T09:44:11.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/scoperta-gerusalemme-legno-primo-tempio/",
+      "title": "L’incendio che distrusse Gerusalemme 2600 anni fa: scoperto il legno biblico sigillato dal fuoco nella Città di Davide",
+      "summary": "È stata annunciata nelle ultime ore una scoperta che riporta agli ultimi istanti della Gerusalemme del Primo Tempio. Sotto l’attuale parcheggio Givati, nella Città di Davide, gli archeologi hanno trovato grandi travi di legno carbonizzate rimaste nel punto in cui crollarono…",
+      "url": "https://www.stilearte.it/scoperta-gerusalemme-legno-primo-tempio/",
+      "image": null,
+      "publishedAt": "2026-07-20T08:05:16.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "ekialde-hurbila"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/arqueologos-descubren-trampas-para-peces-de-hace-7000-anos-en-las-montanas-noruegas",
+      "title": "Arqueólogos descubren trampas para peces de hace 7000 años en las montañas noruegas",
+      "summary": "Un equipo de investigadores ha desenterrado en las montañas del sur de Noruega los restos de varias trampas para peces de madera con una antigüedad de 7.000 años, un hallazgo que demuestra que las sociedades de cazadores-recolectores-pescadores del Mesolítico escandinavo…",
+      "url": "https://www.labrujulaverde.com/2026/07/arqueologos-descubren-trampas-para-peces-de-hace-7000-anos-en-las-montanas-noruegas",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/urn-cambridge.org-id-binary-alt-20260709143518-66573-optimisedImage-png-S0003598X26103925_fig3.jpg.webp",
+      "publishedAt": "2026-07-20T07:59:29.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
     },
     {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X2600372X?dgcid=rss_sd_all",
@@ -5439,167 +5653,6 @@
       ]
     },
     {
-      "id": "ansa-cultura:https://www.ansa.it/canale_viaggi/regione/piemonte/2026/04/21/gaza-oltre-la-guerra-la-mostra-alla-fondazione-merz_1fccbd1c-2472-44d2-b315-1aa6d27d13bf.html",
-      "title": "Gaza oltre la guerra, la mostra alla Fondazione Merz",
-      "summary": "Una mostra internazionale intreccia archeologia e arte",
-      "url": "https://www.ansa.it/canale_viaggi/regione/piemonte/2026/04/21/gaza-oltre-la-guerra-la-mostra-alla-fondazione-merz_1fccbd1c-2472-44d2-b315-1aa6d27d13bf.html",
-      "image": null,
-      "publishedAt": "2026-04-21T16:25:08.000Z",
-      "source": {
-        "id": "ansa-cultura",
-        "name": "ANSA — Cultura"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/descubren-en-sacsayhuaman-un-sistema-urbano-oculto-de-vias-terrazas-y-estructuras-que-replantea-el-origen-de-la-capital-del-imperio-inca",
-      "title": "Descubren en Sacsayhuamán un sistema urbano oculto de vías, terrazas y estructuras, que replantea el origen de la capital del imperio Inca",
-      "summary": "Un extenso programa de teledetección ejecutado sobre la densa cubierta vegetal del Parque Arqueológico de Sacsayhuamán ha sacado a la luz una red de trazados viarios, sistemas de terrazas y estructuras arquitectónicas hasta ahora invisibles que obligan a reconsiderar las fases…",
-      "url": "https://www.labrujulaverde.com/2026/04/descubren-en-sacsayhuaman-un-sistema-urbano-oculto-de-vias-terrazas-y-estructuras-que-replantea-el-origen-de-la-capital-del-imperio-inca",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/02.Sacsayhuaman.webp",
-      "publishedAt": "2026-04-21T15:10:21.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "amerika",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "inrap:https://www.inrap.fr/du-rapport-soustelle-au-rapport-demoule-pecheur-poignant-23-ans-de-reflexion-sur-9135",
-      "title": "Du rapport Soustelle au rapport Demoule-Pêcheur-Poignant : 23 ans de réflexion sur l'organisation de l'archéologie",
-      "summary": "La fabrique de l'archéologie en France par Marc-Olivier Baruch, EHESS",
-      "url": "https://www.inrap.fr/du-rapport-soustelle-au-rapport-demoule-pecheur-poignant-23-ans-de-reflexion-sur-9135",
-      "image": null,
-      "publishedAt": "2026-04-21T14:14:28.000Z",
-      "source": {
-        "id": "inrap",
-        "name": "Inrap — Archéologie préventive"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "inrap:https://www.inrap.fr/la-taille-du-silex-dans-la-prehistoire-20699",
-      "title": "La taille du silex dans la Préhistoire",
-      "summary": "À l’occasion du 10e anniversaire du Musée Espace GAÏA de Montereau-Fault-Yonne, Miguel Biard animera un atelier-conférence consacré à la taille du silex dans la préhistoire. Il y présentera les méthodes et techniques de production d’outils mises en évidence lors de fouilles…",
-      "url": "https://www.inrap.fr/la-taille-du-silex-dans-la-prehistoire-20699",
-      "image": null,
-      "publishedAt": "2026-04-21T13:28:25.000Z",
-      "source": {
-        "id": "inrap",
-        "name": "Inrap — Archéologie préventive"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": [
-        "prehistoria",
-        "museoak"
-      ]
-    },
-    {
-      "id": "inrap:https://www.inrap.fr/remonter-le-temps-remonter-le-verdon-20694",
-      "title": "Remonter le temps, remonter le Verdon",
-      "summary": "Au fil de cette conférence, nous vous proposons de remonter le cours du Verdon et le temps afin de dresser un bilan des recherches menées sur ce vaste territoire. De site en site, au rythme de l’eau, se dessine une histoire humaine riche et complexe, encore en cours d’écriture,…",
-      "url": "https://www.inrap.fr/remonter-le-temps-remonter-le-verdon-20694",
-      "image": null,
-      "publishedAt": "2026-04-21T13:15:47.000Z",
-      "source": {
-        "id": "inrap",
-        "name": "Inrap — Archéologie préventive"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": [
-        "prehistoria",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/santuario-eta-del-bronzo-bosnia-muro-sigilla-passato-carbonizzato/",
-      "title": "Si cerca col metal detector. «Guarda!». Affiorano bronzi, una struttura enigmatica e una “porta verso l’inferno”. Gli archeologi scavano: «È un santuario dell’Età del Bronzo». Ma quel muro? È a guardia di un passato carbonizzato. Perché? Cosa volevano sigillare?",
-      "summary": "Un segnale metallico, un suono secco tra l’erba. Poi la voce: «Guarda». È così che, su una collina della Bosnia centrale, sopra la valle del fiume Lašva, qualcosa riemerge dal passato. Non solo oggetti. Non solo frammenti. Ma un’intera storia rimasta sepolta — e forse…",
-      "url": "https://www.stilearte.it/santuario-eta-del-bronzo-bosnia-muro-sigilla-passato-carbonizzato/",
-      "image": null,
-      "publishedAt": "2026-04-21T10:30:00.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/hallan-en-peru-una-estructura-de-observacion-astronomica-que-permitia-prever-cambios-de-mareas-y-clima-hace-5000-anos",
-      "title": "Hallan en Perú una estructura de observación astronómica que permitía prever cambios de mareas y clima hace 5.000 años",
-      "summary": "Tras dos décadas de trabajos ininterrumpidos en el asentamiento pesquero de Áspero, ubicado en Supe Puerto, provincia de Barranca (Perú), el equipo dirigido por la doctora Ruth Shady Solís ha identificado una estructura arquitectónica compleja asociada al registro de fenómenos…",
-      "url": "https://www.labrujulaverde.com/2026/04/hallan-en-peru-una-estructura-de-observacion-astronomica-que-permitia-prever-cambios-de-mareas-y-clima-hace-5000-anos",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/1381248-civilizacion-caral-descubren-en-aspero-estructura-vinculada-a-la-observacion-astronomica-4.webp",
-      "publishedAt": "2026-04-21T09:37:16.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/archeologie/un-site-megalithique-au-nord-de-paris-revele-un-remplacement-de-population-au-neolithique_192019?xtor=RSS-4",
-      "title": "Un site mégalithique au nord de Paris révèle un remplacement de population au Néolithique",
-      "summary": "En Europe de l’Ouest, le \"déclin du Néolithique\" se caractérise par la disparition de la population locale qui cède la place à de nouveaux arrivants, venus du Sud.",
-      "url": "https://www.sciencesetavenir.fr/archeo-paleo/archeologie/un-site-megalithique-au-nord-de-paris-revele-un-remplacement-de-population-au-neolithique_192019?xtor=RSS-4",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/04/20/cover-r4x3w1200-69e67937c36df-guiry-en-vexin-allee-du-bois-couturier.jpg",
-      "publishedAt": "2026-04-21T09:00:11.000Z",
-      "source": {
-        "id": "sciencesetavenir-archeo",
-        "name": "Sciences et Avenir — Archéo & Paléo"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/04/una-intrigante-sombra-de-ceniza-oscura-se-extiende-por-marte-en-apenas-cincuenta-anos-captada-por-las-camaras-de-la-sonda-mars-express",
-      "title": "Una intrigante sombra de ceniza oscura se extiende por Marte en apenas cincuenta años captada por las cámaras de la sonda Mars Express",
-      "summary": "Los cambios geológicos perceptibles en la superficie de Marte suelen medirse en escalas temporales que abarcan millones de años, un ritmo dictado por la lentitud de la erosión eólica en una atmósfera extremadamente tenue y la ausencia de una tectónica de placas activa como la…",
-      "url": "https://www.labrujulaverde.com/2026/04/una-intrigante-sombra-de-ceniza-oscura-se-extiende-por-marte-en-apenas-cincuenta-anos-captada-por-las-camaras-de-la-sonda-mars-express",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/A_crater_at_the_boundary.webp",
-      "publishedAt": "2026-04-21T08:31:07.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/declino-neolitico-crisi-scoperta-discontinuita-genetica/",
-      "title": "Perchè l’Europa entrò in una crisi spaventosa, dopo il boom del Neolitico? Risolto il mistero delle tombe abbandonate e poi rioccupate. Ci porta a capire di cosa dobbiamo diffidare",
-      "summary": "Una vasta analisi genetica su resti umani provenienti dal sito neolitico di Bury, nel Bacino di Parigi, dimostra per la prima volta una netta discontinuità demografica tra comunità separate da pochi secoli, collegandola al cosiddetto declino neolitico e alla fine della…",
-      "url": "https://www.stilearte.it/declino-neolitico-crisi-scoperta-discontinuita-genetica/",
-      "image": null,
-      "publishedAt": "2026-04-21T05:34:02.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001987?dgcid=rss_sd_all",
       "title": "Alcoholic drinking practices at Pingliangtai during the Late Neolithic Longshan culture, North China",
       "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Lina Li, Chunyang Liu, Yanpeng Cao, Shuzheng Zhu, Jiyin Wei, Chunguang Gu, Li Liu",
@@ -8823,51 +8876,6 @@
       "title": "Les pràctiques funeràries durant el gravetià final a Catalunya",
       "summary": "",
       "url": "https://raco.cat/index.php/Cypsela/article/view/435255",
-      "image": null,
-      "publishedAt": "2025-02-08T00:00:00.000Z",
-      "source": {
-        "id": "cypsela",
-        "name": "Cypsela (RACO, Catalunya)"
-      },
-      "lang": "ca",
-      "region": "iberia",
-      "topics": []
-    },
-    {
-      "id": "cypsela:https://raco.cat/index.php/Cypsela/article/view/435256",
-      "title": "Població i megalitisme: una aproximació a partir de les anàlisis de dentició a les zones del Moianès i Osona",
-      "summary": "",
-      "url": "https://raco.cat/index.php/Cypsela/article/view/435256",
-      "image": null,
-      "publishedAt": "2025-02-08T00:00:00.000Z",
-      "source": {
-        "id": "cypsela",
-        "name": "Cypsela (RACO, Catalunya)"
-      },
-      "lang": "ca",
-      "region": "iberia",
-      "topics": []
-    },
-    {
-      "id": "cypsela:https://raco.cat/index.php/Cypsela/article/view/435257",
-      "title": "La “biografia” d’un megàlit: el dolmen de Cal Xinquet (Odèn, Solsonès).",
-      "summary": "",
-      "url": "https://raco.cat/index.php/Cypsela/article/view/435257",
-      "image": null,
-      "publishedAt": "2025-02-08T00:00:00.000Z",
-      "source": {
-        "id": "cypsela",
-        "name": "Cypsela (RACO, Catalunya)"
-      },
-      "lang": "ca",
-      "region": "iberia",
-      "topics": []
-    },
-    {
-      "id": "cypsela:https://raco.cat/index.php/Cypsela/article/view/435258",
-      "title": "La necròpolis tumulària del Mas Baleta-III (la Jonquera, Alt Empordà) i el període de transició a l’edat del ferro al NE de Catalunya",
-      "summary": "",
-      "url": "https://raco.cat/index.php/Cypsela/article/view/435258",
       "image": null,
       "publishedAt": "2025-02-08T00:00:00.000Z",
       "source": {
