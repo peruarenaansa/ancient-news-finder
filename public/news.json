@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T04:42:15.634Z",
+  "generatedAt": "2026-07-23T04:46:24.212Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 6185
+      "elapsedMs": 5008
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 896
+      "elapsedMs": 1001
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1214
+      "elapsedMs": 1271
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 996
+      "elapsedMs": 17098
     },
     {
       "id": "berria-bsky",
@@ -59,10 +59,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3536
+      "elapsedMs": 2395
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 7,
       "droppedOffTopic": 23,
       "droppedModern": 0,
-      "elapsedMs": 3468
+      "elapsedMs": 2376
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1419
+      "elapsedMs": 1503
     },
     {
       "id": "labrujulaverde",
@@ -98,10 +98,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 19,
+      "kept": 18,
       "droppedOffTopic": 0,
-      "droppedModern": 1,
-      "elapsedMs": 1901
+      "droppedModern": 2,
+      "elapsedMs": 1581
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 9,
       "droppedOffTopic": 2,
       "droppedModern": 1,
-      "elapsedMs": 1218
+      "elapsedMs": 1095
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1941
+      "elapsedMs": 1667
     },
     {
       "id": "lemonde-sciences",
@@ -137,10 +137,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 1,
-      "droppedOffTopic": 19,
+      "kept": 0,
+      "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1060
+      "elapsedMs": 1033
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 10,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 1095
+      "elapsedMs": 1533
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +162,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 16,
+      "fetched": 17,
       "kept": 7,
-      "droppedOffTopic": 9,
+      "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1618
+      "elapsedMs": 1278
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +179,7 @@
       "kept": 4,
       "droppedOffTopic": 17,
       "droppedModern": 3,
-      "elapsedMs": 3572
+      "elapsedMs": 2391
     },
     {
       "id": "sudouest-culture",
@@ -189,10 +189,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 1,
-      "droppedOffTopic": 19,
+      "kept": 0,
+      "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1981
+      "elapsedMs": 1109
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2711
+      "elapsedMs": 1460
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 1,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 2379
+      "elapsedMs": 2012
     },
     {
       "id": "stilearte",
@@ -228,10 +228,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 8,
-      "droppedOffTopic": 1,
+      "kept": 9,
+      "droppedOffTopic": 0,
       "droppedModern": 1,
-      "elapsedMs": 2623
+      "elapsedMs": 1889
     },
     {
       "id": "live-science-arch",
@@ -241,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3339
+      "elapsedMs": 2080
     },
     {
       "id": "bbc-history",
@@ -257,7 +257,7 @@
       "kept": 0,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 2019
+      "elapsedMs": 1293
     },
     {
       "id": "sciencedaily-arch",
@@ -267,10 +267,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 10,
-      "droppedOffTopic": 20,
+      "kept": 11,
+      "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 2386
+      "elapsedMs": 1473
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 4,
       "droppedOffTopic": 5,
       "droppedModern": 1,
-      "elapsedMs": 2212
+      "elapsedMs": 1516
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 13,
       "droppedOffTopic": 6,
       "droppedModern": 1,
-      "elapsedMs": 2543
+      "elapsedMs": 1836
     },
     {
       "id": "current-archaeology",
@@ -306,10 +306,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 15,
+      "kept": 16,
       "droppedOffTopic": 11,
-      "droppedModern": 4,
-      "elapsedMs": 2258
+      "droppedModern": 3,
+      "elapsedMs": 1462
     },
     {
       "id": "jas-reports",
@@ -322,7 +322,7 @@
       "kept": 8,
       "droppedOffTopic": 3,
       "droppedModern": 19,
-      "elapsedMs": 2352
+      "elapsedMs": 1419
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +335,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2575
+      "elapsedMs": 1604
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 20,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 3203
+      "elapsedMs": 2249
     },
     {
       "id": "sciencedirect-jas",
@@ -358,10 +358,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 6,
+      "kept": 5,
       "droppedOffTopic": 2,
-      "droppedModern": 22,
-      "elapsedMs": 2409
+      "droppedModern": 23,
+      "elapsedMs": 1418
     },
     {
       "id": "spal-us",
@@ -374,7 +374,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 3707
+      "elapsedMs": 2336
     },
     {
       "id": "complutum-ucm",
@@ -382,12 +382,9 @@
       "lang": "es",
       "region": "iberia",
       "kind": "research",
-      "ok": true,
-      "fetched": 30,
-      "kept": 19,
-      "droppedOffTopic": 1,
-      "droppedModern": 10,
-      "elapsedMs": 4558
+      "ok": false,
+      "error": "connect ECONNREFUSED 147.96.240.53:443",
+      "elapsedMs": 6639
     },
     {
       "id": "archeoarte",
@@ -400,7 +397,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 3379
+      "elapsedMs": 2255
     },
     {
       "id": "cypsela",
@@ -413,7 +410,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3380
+      "elapsedMs": 2214
     },
     {
       "id": "cambridge-antiquity",
@@ -426,7 +423,7 @@
       "kept": 19,
       "droppedOffTopic": 2,
       "droppedModern": 9,
-      "elapsedMs": 3489
+      "elapsedMs": 2030
     },
     {
       "id": "cambridge-caj",
@@ -439,7 +436,7 @@
       "kept": 19,
       "droppedOffTopic": 7,
       "droppedModern": 4,
-      "elapsedMs": 3483
+      "elapsedMs": 2154
     },
     {
       "id": "cambridge-ejarc",
@@ -452,7 +449,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 3392
+      "elapsedMs": 2102
     },
     {
       "id": "aquitania-persee",
@@ -465,7 +462,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 4106
+      "elapsedMs": 3072
     },
     {
       "id": "cuadernos-arq-unav",
@@ -478,7 +475,7 @@
       "kept": 20,
       "droppedOffTopic": 2,
       "droppedModern": 8,
-      "elapsedMs": 4922
+      "elapsedMs": 3884
     },
     {
       "id": "veleia-ehu",
@@ -491,7 +488,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 4374
+      "elapsedMs": 3516
     },
     {
       "id": "flv-navarra",
@@ -504,7 +501,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 3583
+      "elapsedMs": 2245
     },
     {
       "id": "munibe-aa",
@@ -517,7 +514,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 3611
+      "elapsedMs": 2303
     },
     {
       "id": "trabajos-prehistoria",
@@ -530,7 +527,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 3633
+      "elapsedMs": 2356
     },
     {
       "id": "openalex-archaeology",
@@ -543,7 +540,7 @@
       "kept": 14,
       "droppedOffTopic": 8,
       "droppedModern": 8,
-      "elapsedMs": 3641
+      "elapsedMs": 2225
     }
   ],
   "items": [
@@ -2482,6 +2479,203 @@
       "region": "world",
       "topics": [
         "asia"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003792?dgcid=rss_sd_all",
+      "title": "Reassessing metal supply during the Early Iron Age at Can Roqueta (Sabadell, Barcelona): isotopic insights from pivotal and double-spring fibulæ",
+      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Gerard Fernàndez Molina, M. Carme Rovira Hortalà, F.Javier López-Cachero",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26003792?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-07-23T04:46:08.537Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/review/travel/homage-to-gallarus-oratory/",
+      "title": "Homage to Gallarus Oratory",
+      "summary": "Fifty years ago, one of the most daring expeditions in modern times left Ireland’s Dingle Peninsula. Tim Severin set out with a crew of three in a curragh – a skin-boat shaped",
+      "url": "https://the-past.com/review/travel/homage-to-gallarus-oratory/",
+      "image": null,
+      "publishedAt": "2026-07-22T16:00:00.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/descubren-en-egipto-una-tumba-con-560-estatuillas-de-ushebtis-ceramica-de-rodas-y-enterramientos-en-posicion-osiriaca",
+      "title": "Descubren en Egipto una tumba con 560 estatuillas de ushebtis, cerámica de Rodas y enterramientos en posición osiríaca",
+      "summary": "La misión arqueológica egipcia dependiente del Consejo Supremo de Antigüedades que desarrolla sus trabajos de excavación en la necrópolis del tell de Quwaysna, ubicada en la gobernación de Menufia, ha documentado el descubrimiento de una nueva unidad funeraria acompañada de un…",
+      "url": "https://www.labrujulaverde.com/2026/07/descubren-en-egipto-una-tumba-con-560-estatuillas-de-ushebtis-ceramica-de-rodas-y-enterramientos-en-posicion-osiriaca",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/751186353_1450383723789836_4136399631464509234_n.webp",
+      "publishedAt": "2026-07-22T15:38:22.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "egiptoarrak",
+        "ekialde-hurbila",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/scoperta-egitto-tomba-560-ushabti/",
+      "title": "Scoperta in Egitto: trovato un edificio con 560 ushabti. Il Delta del Nilo restituisce riti funerari e commerci con il Mediterraneo. Cosa sono gli oggetti trovati ora",
+      "summary": "Splendide, queste statuette ushabti. Sono lo specchio dell’ultimo periodo dell’Egitto dei faraoni, quando le antiche tradizioni religiose continuavano a convivere con gli intensi scambi commerciali che collegavano il Delta del Nilo al Mediterraneo. La missione archeologica…",
+      "url": "https://www.stilearte.it/scoperta-egitto-tomba-560-ushabti/",
+      "image": null,
+      "publishedAt": "2026-07-22T14:26:27.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak"
+      ]
+    },
+    {
+      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/des-falaises-danoises-abritant-des-fossiles-de-poissons-bientot-classees-a-l-unesco_193893?xtor=RSS-4",
+      "title": "Deux falaises danoises unique au monde classées à l'Unesco",
+      "summary": "Réputées pour leurs fossiles d'insectes, d'oiseaux et de poissons vieux de 55 millions d'années, deux falaises danoises devraient bientôt être classées à l'Unesco.",
+      "url": "https://www.sciencesetavenir.fr/archeo-paleo/des-falaises-danoises-abritant-des-fossiles-de-poissons-bientot-classees-a-l-unesco_193893?xtor=RSS-4",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/22/cover-r4x3w1200-6a60c9169c856-fossiles-2.jpg",
+      "publishedAt": "2026-07-22T14:06:31.000Z",
+      "source": {
+        "id": "sciencesetavenir-archeo",
+        "name": "Sciences et Avenir — Archéo & Paléo"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/07/260722032105.htm",
+      "title": "Ancient ferns turned Triassic Europe into a wildfire inferno",
+      "summary": "Ancient fern savannahs may have transformed parts of Europe into a wildfire-prone inferno during the end-Triassic mass extinction. New fossil evidence suggests the ferns repeatedly regrew after fires, creating fresh fuel that helped prolong the devastation.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260722032105.htm",
+      "image": null,
+      "publishedAt": "2026-07-22T13:10:01.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/comment/the-copper-road/",
+      "title": "The copper road",
+      "summary": "For the first time in human experience, a substance could be melted and converted into something new. If you set off by car from the Volga River to Hungary, you will have",
+      "url": "https://the-past.com/comment/the-copper-road/",
+      "image": null,
+      "publishedAt": "2026-07-22T12:00:00.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/la-estatua-de-una-bacante-encontrada-en-tusculum-pudo-pertenecer-a-ciceron-y-ser-la-primera-obra-descubierta-del-famoso-escultor-evandros",
+      "title": "La estatua de una bacante encontrada en Tusculum pudo pertenecer a Cicerón y es la primera obra descubierta del famoso escultor Evandros",
+      "summary": "Un equipo de arqueólogos de la Escuela Española de Historia y Arqueología en Roma (EEHAR-CSIC) ha desenterrado en la antigua ciudad de Tusculum una estatua femenina de mármol de extraordinaria calidad que, según los investigadores, podría ser una de las piezas que el propio…",
+      "url": "https://www.labrujulaverde.com/2026/07/la-estatua-de-una-bacante-encontrada-en-tusculum-pudo-pertenecer-a-ciceron-y-ser-la-primera-obra-descubierta-del-famoso-escultor-evandros",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/estatua_bacante_labrujulaverde.com_tusculum_ciceron-2.webp",
+      "publishedAt": "2026-07-22T10:10:46.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/florida-vaso-400-anni-ceramica-sconosciuta-scoperta/",
+      "title": "Uno studente trova un raro vaso di 400 anni fa che “non dovrebbe essere lì”: la ceramica non appartiene a nessuna tradizione locale nota e apre un nuovo enigma archeologico",
+      "summary": "Un recipiente grande quanto il palmo di una mano, rimasto intatto per quattro secoli, sta facendo discutere gli archeologi. Non è solo il suo eccezionale stato di conservazione a stupire, ma soprattutto uno stile che non assomiglia a nessuna delle ceramiche finora conosciute nel…",
+      "url": "https://www.stilearte.it/florida-vaso-400-anni-ceramica-sconosciuta-scoperta/",
+      "image": null,
+      "publishedAt": "2026-07-22T09:52:00.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/piscina-romana-tralleis-natatio-37-metri/",
+      "title": "Una piscina romana di 37 metri riemerge dagli scavi: così ci si rinfrescava duemila anni fa",
+      "summary": "LA NOTIZIA, L’APPROFONDIMENTO — In Turchia completato lo scavo della monumentale “natatio” di Tralleis: un imponente complesso terme-ginnasio tra ingegneria idraulica, sport e refrigerio estivo. Un tuffo nell’acqua fredda dopo il caldo soffocante dell’estate. Il brusio delle…",
+      "url": "https://www.stilearte.it/piscina-romana-tralleis-natatio-37-metri/",
+      "image": null,
+      "publishedAt": "2026-07-22T08:18:31.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/descubren-un-campamento-romano-con-proyectiles-inscritos-que-marca-el-lugar-exacto-de-la-represion-de-la-revuelta-cerretana-en-el-39-ac",
+      "title": "Descubren un campamento romano con proyectiles inscritos que marca el lugar exacto de la represión de la revuelta cerretana en el 39 a.C.",
+      "summary": "Investigadores de la Universitat Autònoma de Barcelona (UAB) han documentado en el Collet de Jovell, dentro del término municipal de Urús en la provincia de Lleida, un conjunto de materiales arqueológicos que permiten identificar con un alto grado de certeza la presencia de un…",
+      "url": "https://www.labrujulaverde.com/2026/07/descubren-un-campamento-romano-con-proyectiles-inscritos-que-marca-el-lugar-exacto-de-la-represion-de-la-revuelta-cerretana-en-el-39-ac",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/COLL_DE_JOVELL_DES_DEL_CADINELL.webp",
+      "publishedAt": "2026-07-22T08:13:33.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/pompei-scavi-bottega-osso-avorio/",
+      "title": "A Pompei scavi nella casa-bottega dell’artigiano dell’osso e dell’avorio. Impegno, tecnica e benessere. Come viveva e come lavorava",
+      "summary": "Un piccolo edificio della Regio I è uno dei rarissimi laboratori pompeiani dedicati alla produzione di oggetti di lusso e di uso quotidiano. Il nuovo scavo, condotto con tecniche estremamente raffinate, punta a ricostruire i gesti dell’artigiano duemila anni fa. Dal 6 al 25…",
+      "url": "https://www.stilearte.it/pompei-scavi-bottega-osso-avorio/",
+      "image": null,
+      "publishedAt": "2026-07-22T07:14:28.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
       ]
     },
     {
@@ -8688,204 +8882,6 @@
       "lang": "en",
       "region": "europe",
       "topics": []
-    },
-    {
-      "id": "cambridge-ejarc:https://openalex.org/W4413336700",
-      "title": "Archaeology, Eurocentrism, and the British Historical Worldview",
-      "summary": "Archaeology has been closely entangled with dominant power structures since its formal emergence in the nineteenth century. Recent scholarly work has sought to challenge this relationship and destabilize the fundamental Eurocentrism of archaeological theory and praxis. The…",
-      "url": "https://doi.org/10.1017/eaa.2025.10012",
-      "image": null,
-      "publishedAt": "2025-08-20T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-ejarc",
-        "name": "European Journal of Archaeology"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "munibe-aa:https://openalex.org/W4413005354",
-      "title": "Un broche de cinturón tardoantiguo de la cueva de Lazaldai (Zuia, Álava/Araba)",
-      "summary": "Este artículo presenta el hallazgo de un broche de cinturón tardoantiguo en la cueva de Lazaldai (Zuia, Álava/Araba), descubierto durante una intervención arqueológica realizada en 2022. La pieza, datada en el siglo VII, fue localizada en la galería activa de la cavidad y…",
-      "url": "https://doi.org/10.21630/maa.2025.76.05",
-      "image": null,
-      "publishedAt": "2025-08-06T00:00:00.000Z",
-      "source": {
-        "id": "munibe-aa",
-        "name": "Munibe Antropologia-Arkeologia (Aranzadi)"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "cambridge-ejarc:https://openalex.org/W4413943991",
-      "title": "Matthew J. Walsh, Sean O’Neill and Lasse Sørensen, eds. In the Darkest of Days: Exploring Human Sacrifice and Value in Southern Scandinavian Prehistory (Oxford: Oxbow Books, 2024, xxvi and 118 pp, 19 b/w figs, 41 colour plates, 13 tables, pbk, ISBN 978-1-78925-859-2)",
-      "summary": "An abstract is not available for this content so a preview has been provided. Please use the Get access link above for information on how to access this content.",
-      "url": "https://doi.org/10.1017/eaa.2025.7",
-      "image": null,
-      "publishedAt": "2025-08-01T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-ejarc",
-        "name": "European Journal of Archaeology"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "cambridge-ejarc:https://openalex.org/W4413943994",
-      "title": "The Zagros Mousterian in the Zagros, Caucasus, and Armenian Highlands – CORRIGENDUM",
-      "summary": "An abstract is not available for this content. As you have access to this content, full HTML content is provided on this page. A PDF of this content is also available in through the ‘Save PDF’ action button.",
-      "url": "https://doi.org/10.1017/eaa.2025.10007",
-      "image": null,
-      "publishedAt": "2025-08-01T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-ejarc",
-        "name": "European Journal of Archaeology"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "cambridge-ejarc:https://openalex.org/W4413943996",
-      "title": "Editorial",
-      "summary": "An abstract is not available for this content. As you have access to this content, full HTML content is provided on this page. A PDF of this content is also available in through the ‘Save PDF’ action button.",
-      "url": "https://doi.org/10.1017/eaa.2025.10010",
-      "image": null,
-      "publishedAt": "2025-08-01T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-ejarc",
-        "name": "European Journal of Archaeology"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "flv-navarra:https://openalex.org/W4411678341",
-      "title": "(Post)conflicto y uso del memoir: una perspectiva transgeneracional y de género",
-      "summary": "Este artículo explora el (post)conflicto a través de una perspectiva transgeneracional y de género, centrándose en el ámbito norirlandés como ejemplo de un contexto que goza de una vasta producción literaria y es un paradigma en torno a su memorialización. En primer lugar, se…",
-      "url": "https://doi.org/10.35462/flv139.7",
-      "image": null,
-      "publishedAt": "2025-06-26T00:00:00.000Z",
-      "source": {
-        "id": "flv-navarra",
-        "name": "Fontes Linguae Vasconum"
-      },
-      "lang": "eu",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "flv-navarra:https://openalex.org/W4411678313",
-      "title": "Alabatasunetik idazten: aitak eta gatazkak egungo emakume idazleen nobelagintzan",
-      "summary": "Artikulu honen helburua da aztertzea egungo bost nobelatako protagonistek nola bizi dituzten patriarkatutik etor dakieken biolentzia eta borroka armatuaren inguruan sorturiko biolentzia, aitarekin duten harremana irudikatzeko moduaren arabera gatazken memoria egitean.…",
-      "url": "https://doi.org/10.35462/flv139.6",
-      "image": null,
-      "publishedAt": "2025-06-26T00:00:00.000Z",
-      "source": {
-        "id": "flv-navarra",
-        "name": "Fontes Linguae Vasconum"
-      },
-      "lang": "eu",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "flv-navarra:https://openalex.org/W4411707491",
-      "title": "Género y post-violencia: intersecciones entre literaturas vasca e irlandesa",
-      "summary": "Género y post-violencia: intersecciones entre literaturas vasca e irlandesa",
-      "url": "https://doi.org/10.35462/flv139.1",
-      "image": null,
-      "publishedAt": "2025-06-26T00:00:00.000Z",
-      "source": {
-        "id": "flv-navarra",
-        "name": "Fontes Linguae Vasconum"
-      },
-      "lang": "eu",
-      "region": "basque",
-      "topics": [
-        "iberiarrak",
-        "amerika"
-      ]
-    },
-    {
-      "id": "flv-navarra:https://openalex.org/W4411678332",
-      "title": "La mirada feminista sobre la violencia en tres escritoras vascas",
-      "summary": "Este artículo analiza cómo el compromiso feminista en tres novelas vascas –Koaderno gorria de Arantxa Urretabizkaia, El ángulo ciego de Luisa Etxenike y Aitaren etxea de Karmele Jaio– aporta matices a la representación de la violencia en el contexto del terrorismo de ETA. Aunque…",
-      "url": "https://doi.org/10.35462/flv139.4",
-      "image": null,
-      "publishedAt": "2025-06-26T00:00:00.000Z",
-      "source": {
-        "id": "flv-navarra",
-        "name": "Fontes Linguae Vasconum"
-      },
-      "lang": "eu",
-      "region": "basque",
-      "topics": [
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "munibe-aa:https://openalex.org/W4411181182",
-      "title": "New evidences of the cave lion (Panthera spelaea) from the north of the Iberian Peninsula",
-      "summary": "The presence of the cave lion in the Iberian Peninsula is expanding with new finds on the Cantabrian coast. This update is recorded to a total of 56 sites from 44 locations and dated from MIS 10 to the end of the Upper Pleistocene. The new findings are studied and attributed to…",
-      "url": "https://doi.org/10.21630/maa.2025.76.04",
-      "image": null,
-      "publishedAt": "2025-06-10T00:00:00.000Z",
-      "source": {
-        "id": "munibe-aa",
-        "name": "Munibe Antropologia-Arkeologia (Aranzadi)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "cambridge-ejarc:https://openalex.org/W4414888280",
-      "title": "Sharing a Bed but Nothing Else: Bed Burial Traditions in First Millennium ad Europe",
-      "summary": "This article concerns the practice of bed burial, a rare funerary custom found in some sixth- to early tenth-century ad graves ranging from southern Germany to Scandinavia and England. Existing research has often overlooked the diversity of bed burials, focusing mainly on the…",
-      "url": "https://doi.org/10.1017/eaa.2025.10009",
-      "image": null,
-      "publishedAt": "2025-06-05T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-ejarc",
-        "name": "European Journal of Archaeology"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "aquitania-persee:https://www.persee.fr/issue/aquit_0758-9670_2022_num_38_1",
-      "title": "Aquitania : une revue inter-régionale d'archéologie, tome 38, 2022.",
-      "summary": "Aquitania : une revue inter-régionale d'archéologie, tome 38, 2022. Sommaire p. 3 Auteurs pp. 5 - 6 Un premier sanctuaire celtique en Aquitaine. Résultats des fouilles menées en 2020 sur l’agglomération ouverte de La Peyrouse (Saint-Félix-de-Villadeix, Dordogne) pp. 7 - 52…",
-      "url": "https://www.persee.fr/issue/aquit_0758-9670_2022_num_38_1",
-      "image": "https://www.persee.fr/renderIssueCoverThumbnail/aquit_0758-9670_2022_num_38_1.jpg",
-      "publishedAt": "2025-04-29T00:00:00.000Z",
-      "source": {
-        "id": "aquitania-persee",
-        "name": "Aquitania (Persée)"
-      },
-      "lang": "fr",
-      "region": "basque",
-      "topics": [
-        "erromatarrak",
-        "erdi-aroa",
-        "iberiarrak",
-        "aurkikuntza"
-      ]
     }
   ]
 }
