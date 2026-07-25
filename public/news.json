@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T04:43:41.854Z",
+  "generatedAt": "2026-07-25T04:39:02.816Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5039
+      "elapsedMs": 7423
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 616
+      "elapsedMs": 862
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 714
+      "elapsedMs": 1668
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 556
+      "elapsedMs": 1040
     },
     {
       "id": "berria-bsky",
@@ -59,10 +59,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2183
+      "elapsedMs": 4538
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 8,
       "droppedOffTopic": 22,
       "droppedModern": 0,
-      "elapsedMs": 2173
+      "elapsedMs": 4603
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 940
+      "elapsedMs": 1748
     },
     {
       "id": "labrujulaverde",
@@ -98,10 +98,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 17,
-      "droppedOffTopic": 0,
-      "droppedModern": 3,
-      "elapsedMs": 1384
+      "kept": 15,
+      "droppedOffTopic": 1,
+      "droppedModern": 4,
+      "elapsedMs": 2048
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 8,
       "droppedOffTopic": 3,
       "droppedModern": 1,
-      "elapsedMs": 764
+      "elapsedMs": 2261
     },
     {
       "id": "elpais-cultura",
@@ -124,10 +124,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 0,
-      "droppedOffTopic": 30,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1092
+      "elapsedMs": 2229
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 515
+      "elapsedMs": 1466
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 10,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 1824
+      "elapsedMs": 1981
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +162,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 17,
+      "fetched": 18,
       "kept": 6,
       "droppedOffTopic": 11,
-      "droppedModern": 0,
-      "elapsedMs": 575
+      "droppedModern": 1,
+      "elapsedMs": 1851
     },
     {
       "id": "inrap-bsky",
@@ -176,10 +176,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 24,
-      "kept": 4,
-      "droppedOffTopic": 18,
+      "kept": 5,
+      "droppedOffTopic": 17,
       "droppedModern": 2,
-      "elapsedMs": 2194
+      "elapsedMs": 4601
     },
     {
       "id": "sudouest-culture",
@@ -189,10 +189,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 0,
-      "droppedOffTopic": 20,
+      "kept": 1,
+      "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1125
+      "elapsedMs": 2211
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1104
+      "elapsedMs": 3327
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 1,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 1470
+      "elapsedMs": 2995
     },
     {
       "id": "stilearte",
@@ -228,10 +228,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 9,
+      "kept": 8,
       "droppedOffTopic": 0,
-      "droppedModern": 1,
-      "elapsedMs": 1483
+      "droppedModern": 2,
+      "elapsedMs": 3154
     },
     {
       "id": "live-science-arch",
@@ -244,7 +244,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2136
+      "elapsedMs": 4658
     },
     {
       "id": "bbc-history",
@@ -254,10 +254,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 0,
-      "droppedOffTopic": 10,
+      "kept": 1,
+      "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1043
+      "elapsedMs": 2758
     },
     {
       "id": "sciencedaily-arch",
@@ -267,10 +267,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 11,
-      "droppedOffTopic": 19,
+      "kept": 12,
+      "droppedOffTopic": 18,
       "droppedModern": 0,
-      "elapsedMs": 1318
+      "elapsedMs": 2816
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 4,
       "droppedOffTopic": 5,
       "droppedModern": 1,
-      "elapsedMs": 1118
+      "elapsedMs": 2908
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 13,
       "droppedOffTopic": 6,
       "droppedModern": 1,
-      "elapsedMs": 1422
+      "elapsedMs": 3330
     },
     {
       "id": "current-archaeology",
@@ -309,7 +309,7 @@
       "kept": 18,
       "droppedOffTopic": 11,
       "droppedModern": 1,
-      "elapsedMs": 1193
+      "elapsedMs": 3169
     },
     {
       "id": "jas-reports",
@@ -322,7 +322,7 @@
       "kept": 6,
       "droppedOffTopic": 3,
       "droppedModern": 21,
-      "elapsedMs": 1171
+      "elapsedMs": 3020
     },
     {
       "id": "plos-one-arch",
@@ -332,10 +332,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1238
+      "elapsedMs": 3304
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 20,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 1635
+      "elapsedMs": 3800
     },
     {
       "id": "sciencedirect-jas",
@@ -359,9 +359,9 @@
       "ok": true,
       "fetched": 30,
       "kept": 5,
-      "droppedOffTopic": 2,
-      "droppedModern": 23,
-      "elapsedMs": 1192
+      "droppedOffTopic": 3,
+      "droppedModern": 22,
+      "elapsedMs": 3111
     },
     {
       "id": "spal-us",
@@ -374,7 +374,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2012
+      "elapsedMs": 4361
     },
     {
       "id": "complutum-ucm",
@@ -382,9 +382,12 @@
       "lang": "es",
       "region": "iberia",
       "kind": "research",
-      "ok": false,
-      "error": "connect ECONNREFUSED 147.96.240.53:443",
-      "elapsedMs": 6190
+      "ok": true,
+      "fetched": 30,
+      "kept": 19,
+      "droppedOffTopic": 1,
+      "droppedModern": 10,
+      "elapsedMs": 6041
     },
     {
       "id": "archeoarte",
@@ -397,7 +400,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 1981
+      "elapsedMs": 4142
     },
     {
       "id": "cypsela",
@@ -410,7 +413,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 1993
+      "elapsedMs": 4445
     },
     {
       "id": "cambridge-antiquity",
@@ -423,7 +426,7 @@
       "kept": 20,
       "droppedOffTopic": 2,
       "droppedModern": 8,
-      "elapsedMs": 1734
+      "elapsedMs": 3950
     },
     {
       "id": "cambridge-caj",
@@ -436,7 +439,7 @@
       "kept": 19,
       "droppedOffTopic": 7,
       "droppedModern": 4,
-      "elapsedMs": 1704
+      "elapsedMs": 4014
     },
     {
       "id": "cambridge-ejarc",
@@ -449,7 +452,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 1747
+      "elapsedMs": 3899
     },
     {
       "id": "aquitania-persee",
@@ -462,7 +465,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2722
+      "elapsedMs": 4960
     },
     {
       "id": "cuadernos-arq-unav",
@@ -475,7 +478,7 @@
       "kept": 20,
       "droppedOffTopic": 2,
       "droppedModern": 8,
-      "elapsedMs": 3316
+      "elapsedMs": 6155
     },
     {
       "id": "veleia-ehu",
@@ -488,7 +491,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 2785
+      "elapsedMs": 5257
     },
     {
       "id": "flv-navarra",
@@ -501,7 +504,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 1985
+      "elapsedMs": 4481
     },
     {
       "id": "munibe-aa",
@@ -514,7 +517,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 2019
+      "elapsedMs": 4461
     },
     {
       "id": "trabajos-prehistoria",
@@ -527,7 +530,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 2037
+      "elapsedMs": 4493
     },
     {
       "id": "openalex-archaeology",
@@ -540,7 +543,7 @@
       "kept": 14,
       "droppedOffTopic": 8,
       "droppedModern": 8,
-      "elapsedMs": 1998
+      "elapsedMs": 4635
     }
   ],
   "items": [
@@ -688,6 +691,21 @@
         "name": "OpenAlex — Arkeologia (mundua)"
       },
       "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/hace-1000-anos-existian-decenas-de-miles-de-lenguas-en-el-mundo-hoy-solo-quedan-7500-esto-es-lo-que-sucedio",
+      "title": "Hace 1000 años existían decenas de miles de lenguas en el mundo, hoy solo quedan 7500: esto es lo que sucedió",
+      "summary": "En la actualidad, los seres humanos hablan lenguas o usan signos en aproximadamente 7.500 idiomas diferentes. Sin embargo, esta cifra, por impresionante que resulte, constituye únicamente una instantánea de una historia en constante transformación, y las preguntas sobre la…",
+      "url": "https://www.labrujulaverde.com/2026/07/hace-1000-anos-existian-decenas-de-miles-de-lenguas-en-el-mundo-hoy-solo-quedan-7500-esto-es-lo-que-sucedio",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/7d7736e1-e1f1-482b-8c03-948437c8c00a_labrujulaverde.com_.webp",
+      "publishedAt": "2026-07-24T18:59:47.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
       "region": "world",
       "topics": []
     },
@@ -5863,21 +5881,6 @@
       ]
     },
     {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/04/260424233206.htm",
-      "title": "Giant octopuses may have ruled the oceans 100 million years ago",
-      "summary": "Giant, fearsome octopuses may have once ruled the ancient seas, according to new research that flips the script on their evolutionary past. By uncovering exquisitely preserved fossil jaws hidden inside rock, scientists revealed that early octopuses from the age of dinosaurs…",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260424233206.htm",
-      "image": null,
-      "publishedAt": "2026-04-25T12:59:34.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
       "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348025",
       "title": "Correction: Functional impact of cardiac implanted devices on ipsilateral shoulder range of motion, scapular mobility, and self-reported quality of life",
       "summary": "by Cansu Cosgun, Muharrem Said Cosgun, Oznur Buyukturan, Buket Buyukturan",
@@ -8792,102 +8795,98 @@
       ]
     },
     {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/descubren-en-saqqara-tres-tumbas-de-funcionarios-y-militares-de-la-xviii-dinastia-entre-ellas-la-del-gran-comerciante-de-la-casa-de-ptah",
-      "title": "Descubren en Saqqara tres tumbas de funcionarios y militares de la XVIII dinastía, entre ellas la del “gran comerciante de la casa de Ptah”",
-      "summary": "La misión arqueológica egipcia que opera en la necrópolis de los Bubasteion, en el sector oriental del borde montañoso del yacimiento de Saqqara, ha dado a conocer el hallazgo de tres sepulturas excavadas en la roca correspondientes al período del Imperio Nuevo. El…",
-      "url": "https://www.labrujulaverde.com/2026/07/descubren-en-saqqara-tres-tumbas-de-funcionarios-y-militares-de-la-xviii-dinastia-entre-ellas-la-del-gran-comerciante-de-la-casa-de-ptah",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/Imagen-WebP.webp",
-      "publishedAt": "2026-07-19T16:37:06.000Z",
+      "id": "sudouest-culture:https://www.sudouest.fr/gironde/anglade/anglade-des-fouilles-archeologiques-revelent-une-activite-gauloise-de-production-de-sel-30046347.php",
+      "title": "Anglade : des fouilles archéologiques révèlent une activité gauloise de production de sel",
+      "summary": "Une équipe universitaire explore un site majeur dans les marais du Blayais pour mieux comprendre les techniques de transformation des Santons et le quotidien de cette tribu antique",
+      "url": "https://www.sudouest.fr/gironde/anglade/anglade-des-fouilles-archeologiques-revelent-une-activite-gauloise-de-production-de-sel-30046347.php",
+      "image": null,
+      "publishedAt": "2026-07-24T17:30:00.000Z",
+      "source": {
+        "id": "sudouest-culture",
+        "name": "Sud Ouest — Culture"
+      },
+      "lang": "fr",
+      "region": "basque",
+      "topics": []
+    },
+    {
+      "id": "bbc-history:https://www.historyextra.com/period/ancient-greece/the-odyssey-podcast-series/",
+      "title": "The Odyssey | Podcast series",
+      "summary": "In this four-part podcast series, Dr Daisy Dunn joins Kev Lochun to unpick Homer's Odyssey – from the gods and monsters through to its hidden meanings and real archaeological influences",
+      "url": "https://www.historyextra.com/period/ancient-greece/the-odyssey-podcast-series/",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/07/OdysseyWL-c869749.jpg",
+      "publishedAt": "2026-07-24T15:20:49.000Z",
+      "source": {
+        "id": "bbc-history",
+        "name": "BBC History Extra"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "elpais-cultura:https://elpais.com/cultura/2026-07-24/la-increible-historia-del-hombre-que-construyo-un-falso-teatro-romano-en-italia-y-vendio-entradas-por-visitarlo.html",
+      "title": "La increíble historia del hombre que construyó un falso teatro romano en Italia y vendió entradas para visitarlo",
+      "summary": "La justicia envía a prisión a un hombre que llegó a cobrar hasta 40 euros por visitar el recinto, levantado sin permisos en una colina de Vicenza y presentado como un hallazgo histórico",
+      "url": "https://elpais.com/cultura/2026-07-24/la-increible-historia-del-hombre-que-construyo-un-falso-teatro-romano-en-italia-y-vendio-entradas-por-visitarlo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/CYUB6G6EWVHUXFSZCX4DB2P6KQ.jpg?auth=d885eaa56c774e2d63c75bb1b5ed8e8f387b94da0d28318fd488d65043713051",
+      "publishedAt": "2026-07-24T13:13:54.000Z",
+      "source": {
+        "id": "elpais-cultura",
+        "name": "El País — Cultura"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "erromatarrak",
+        "ekialde-hurbila"
+      ]
+    },
+    {
+      "id": "inrap-bsky:https://bsky.app/profile/inrap.fr/post/3mreyh4eyjm2a",
+      "title": "",
+      "summary": "À l'occasion de la Saison gauloise de l'Inrap, découvrez « Bienvenue chez les Gaulois », un magazine multimédia consacré à la vie quotidienne des sociétés gauloises : habitat, artisanat, agriculture, échanges… 👉 À découvrir ici :…",
+      "url": "https://bsky.app/profile/inrap.fr/post/3mreyh4eyjm2a",
+      "image": null,
+      "publishedAt": "2026-07-24T09:00:00.000Z",
+      "source": {
+        "id": "inrap-bsky",
+        "name": "Inrap (Bluesky)"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/moskstraumen-el-remolino-noruego-que-se-parece-tanto-al-caribdis-de-la-odisea-que-hay-teorias-que-dicen-que-son-el-mismo",
+      "title": "Moskstraumen, el remolino noruego que se parece tanto al Caribdis de la Odisea que hay teorías que dicen que son el mismo",
+      "summary": "Entre las islas de Moskenesøya y Mosken, en el archipiélago noruego de las Lofoten, las aguas hacen algo que en ningún otro lugar del mundo sucede exactamente igual: se retuerce en mar abierto. No en un estrecho, no en un río, sino en pleno océano, frente a la costa, donde nada…",
+      "url": "https://www.labrujulaverde.com/2026/07/moskstraumen-el-remolino-noruego-que-se-parece-tanto-al-caribdis-de-la-odisea-que-hay-teorias-que-dicen-que-son-el-mismo",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/fs1600x1200px-Moskstraumen_6.jpg-2.webp",
+      "publishedAt": "2026-07-24T08:02:08.000Z",
       "source": {
         "id": "labrujulaverde",
         "name": "La Brújula Verde"
       },
       "lang": "es",
       "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/museum/the-plaster-casts-of-pompeii/",
-      "title": "The plaster casts of Pompeii",
-      "summary": "The first permanent exhibition of the plaster casts of Pompeii has opened at the Archaeological Park.",
-      "url": "https://the-past.com/review/museum/the-plaster-casts-of-pompeii/",
-      "image": null,
-      "publishedAt": "2026-07-19T11:30:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "erromatarrak",
-        "museoak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/books/surviving-rome-the-economic-lives-of-the-ninety-percent/",
-      "title": "Surviving Rome: the economic lives of the ninety percent",
-      "summary": "Sometime in the 1st century AD, a crass graffiti artist carved a 2m-long graffito into the wall of a stairwell within the House of Julia Felix at Pompeii. The mudslinger didn’t mince",
-      "url": "https://the-past.com/review/books/surviving-rome-the-economic-lives-of-the-ninety-percent/",
-      "image": null,
-      "publishedAt": "2026-07-19T10:00:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/books/surviving-rome-the-economic-lives-of-the-ninety-percent-2/",
-      "title": "Alexander: god, king, man",
-      "summary": "Every new book about Alexander the Great needs to have its own unique selling point if it is to fight its way successfully into public consciousness. In the case of Edmund Richardson’s",
-      "url": "https://the-past.com/review/books/surviving-rome-the-economic-lives-of-the-ninety-percent-2/",
-      "image": null,
-      "publishedAt": "2026-07-19T09:30:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
       "topics": []
     },
     {
-      "id": "stilearte:https://www.stilearte.it/scoperta-una-spada-delleta-del-bronzo-sul-fondale/",
-      "title": "Il mare dei demoni con la cresta bianca. Scoperta una spada dell’Età del Bronzo sul fondale. Un filone prezioso di relitti da studiare. Monete e armi",
-      "summary": "Le acque grigie del Canale della Manica continuano a restituire frammenti di una storia rimasta nascosta per oltre tremila anni. Sotto le creste candide delle onde, in un punto bello ma insidiose è stata ora recuperata una spada in bronzo, rimasta sepolta sotto concrezioni…",
-      "url": "https://www.stilearte.it/scoperta-una-spada-delleta-del-bronzo-sul-fondale/",
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/07/260723084852.htm",
+      "title": "Ancient ape fossil in Egypt challenges the story of human origins",
+      "summary": "A newly identified fossil ape from northern Egypt is reshaping ideas about where the ancestors of modern apes first emerged. Analyses place it closer to living apes than any known East African species of the same age, pointing to North Africa and the Middle East as a possible…",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260723084852.htm",
       "image": null,
-      "publishedAt": "2026-07-19T09:04:02.000Z",
+      "publishedAt": "2026-07-24T07:03:54.000Z",
       "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/books/travels-through-prehistoric-spain-a-guide/",
-      "title": "Travels through Prehistoric Spain: a guide",
-      "summary": "In Travels through Prehistoric Spain, Jude Brown and Gary Lock provide a richly rewarding and deeply engaging exploration of Spain’s prehistoric heritage. Written with enthusiasm, knowledge, and genuine affection for both archaeology and",
-      "url": "https://the-past.com/review/books/travels-through-prehistoric-spain-a-guide/",
-      "image": null,
-      "publishedAt": "2026-07-19T09:00:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
       },
       "lang": "en",
-      "region": "iberia",
+      "region": "world",
       "topics": [
-        "prehistoria"
+        "egiptoarrak"
       ]
     }
   ]
