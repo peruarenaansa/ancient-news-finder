@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T04:39:02.816Z",
+  "generatedAt": "2026-07-26T04:53:07.817Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 7423
+      "elapsedMs": 6594
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 862
+      "elapsedMs": 914
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1668
+      "elapsedMs": 1282
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1040
+      "elapsedMs": 1052
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 4538
+      "elapsedMs": 3601
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 8,
       "droppedOffTopic": 22,
       "droppedModern": 0,
-      "elapsedMs": 4603
+      "elapsedMs": 3712
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1748
+      "elapsedMs": 1766
     },
     {
       "id": "labrujulaverde",
@@ -101,7 +101,7 @@
       "kept": 15,
       "droppedOffTopic": 1,
       "droppedModern": 4,
-      "elapsedMs": 2048
+      "elapsedMs": 1849
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 8,
       "droppedOffTopic": 3,
       "droppedModern": 1,
-      "elapsedMs": 2261
+      "elapsedMs": 1509
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2229
+      "elapsedMs": 2099
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1466
+      "elapsedMs": 1461
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 10,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 1981
+      "elapsedMs": 1928
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -166,7 +166,7 @@
       "kept": 6,
       "droppedOffTopic": 11,
       "droppedModern": 1,
-      "elapsedMs": 1851
+      "elapsedMs": 1799
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +179,7 @@
       "kept": 5,
       "droppedOffTopic": 17,
       "droppedModern": 2,
-      "elapsedMs": 4601
+      "elapsedMs": 3716
     },
     {
       "id": "sudouest-culture",
@@ -192,7 +192,7 @@
       "kept": 1,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 2211
+      "elapsedMs": 1985
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 3327
+      "elapsedMs": 2127
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 1,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 2995
+      "elapsedMs": 2665
     },
     {
       "id": "stilearte",
@@ -231,7 +231,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 2,
-      "elapsedMs": 3154
+      "elapsedMs": 2690
     },
     {
       "id": "live-science-arch",
@@ -241,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 0,
-      "droppedOffTopic": 30,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 4658
+      "elapsedMs": 3766
     },
     {
       "id": "bbc-history",
@@ -257,7 +257,7 @@
       "kept": 1,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 2758
+      "elapsedMs": 2348
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +270,7 @@
       "kept": 12,
       "droppedOffTopic": 18,
       "droppedModern": 0,
-      "elapsedMs": 2816
+      "elapsedMs": 2234
     },
     {
       "id": "ancient-origins",
@@ -278,12 +278,9 @@
       "lang": "en",
       "region": "world",
       "kind": "news",
-      "ok": true,
-      "fetched": 10,
-      "kept": 4,
-      "droppedOffTopic": 5,
-      "droppedModern": 1,
-      "elapsedMs": 2908
+      "ok": false,
+      "error": "Unable to parse XML.",
+      "elapsedMs": 6878
     },
     {
       "id": "guardian-arch",
@@ -296,7 +293,7 @@
       "kept": 13,
       "droppedOffTopic": 6,
       "droppedModern": 1,
-      "elapsedMs": 3330
+      "elapsedMs": 2620
     },
     {
       "id": "current-archaeology",
@@ -309,7 +306,7 @@
       "kept": 18,
       "droppedOffTopic": 11,
       "droppedModern": 1,
-      "elapsedMs": 3169
+      "elapsedMs": 2313
     },
     {
       "id": "jas-reports",
@@ -319,10 +316,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 6,
-      "droppedOffTopic": 3,
+      "kept": 5,
+      "droppedOffTopic": 4,
       "droppedModern": 21,
-      "elapsedMs": 3020
+      "elapsedMs": 2324
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +332,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3304
+      "elapsedMs": 2583
     },
     {
       "id": "pnas-arch",
@@ -348,7 +345,7 @@
       "kept": 20,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 3800
+      "elapsedMs": 3013
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +358,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 22,
-      "elapsedMs": 3111
+      "elapsedMs": 2538
     },
     {
       "id": "spal-us",
@@ -374,7 +371,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 4361
+      "elapsedMs": 3559
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +384,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 6041
+      "elapsedMs": 5099
     },
     {
       "id": "archeoarte",
@@ -400,7 +397,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 4142
+      "elapsedMs": 3570
     },
     {
       "id": "cypsela",
@@ -413,7 +410,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 4445
+      "elapsedMs": 3527
     },
     {
       "id": "cambridge-antiquity",
@@ -426,7 +423,7 @@
       "kept": 20,
       "droppedOffTopic": 2,
       "droppedModern": 8,
-      "elapsedMs": 3950
+      "elapsedMs": 3374
     },
     {
       "id": "cambridge-caj",
@@ -439,7 +436,7 @@
       "kept": 19,
       "droppedOffTopic": 7,
       "droppedModern": 4,
-      "elapsedMs": 4014
+      "elapsedMs": 3497
     },
     {
       "id": "cambridge-ejarc",
@@ -452,7 +449,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 3899
+      "elapsedMs": 3699
     },
     {
       "id": "aquitania-persee",
@@ -465,7 +462,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 4960
+      "elapsedMs": 4215
     },
     {
       "id": "cuadernos-arq-unav",
@@ -478,7 +475,7 @@
       "kept": 20,
       "droppedOffTopic": 2,
       "droppedModern": 8,
-      "elapsedMs": 6155
+      "elapsedMs": 5327
     },
     {
       "id": "veleia-ehu",
@@ -491,7 +488,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 5257
+      "elapsedMs": 4618
     },
     {
       "id": "flv-navarra",
@@ -504,7 +501,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 4481
+      "elapsedMs": 3590
     },
     {
       "id": "munibe-aa",
@@ -517,7 +514,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 4461
+      "elapsedMs": 3633
     },
     {
       "id": "trabajos-prehistoria",
@@ -530,7 +527,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 4493
+      "elapsedMs": 3577
     },
     {
       "id": "openalex-archaeology",
@@ -543,7 +540,7 @@
       "kept": 14,
       "droppedOffTopic": 8,
       "droppedModern": 8,
-      "elapsedMs": 4635
+      "elapsedMs": 3618
     }
   ],
   "items": [
@@ -692,6 +689,21 @@
       },
       "lang": "en",
       "region": "world",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/collasso-eta-del-bronzo-cause-climatiche-studio/",
+      "title": "3400 anni fa il cambiamento climatico mise in ginocchio gli imperi. Un nuovo studio spiega perché il mondo dell’Età del Bronzo collassò all’improvviso",
+      "summary": "Non fu una sola siccità a travolgere Ittiti, Micenei e le grandi potenze del Mediterraneo orientale. Una ricerca appena pubblicata dimostra che, circa 3200 anni fa, diversi cicli climatici dell’Atlantico entrarono in perfetta sincronia, amplificando una crisi idrica che…",
+      "url": "https://www.stilearte.it/collasso-eta-del-bronzo-cause-climatiche-studio/",
+      "image": null,
+      "publishedAt": "2026-07-25T17:06:50.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
       "topics": []
     },
     {
@@ -8795,6 +8807,72 @@
       ]
     },
     {
+      "id": "sudouest-culture:https://www.sudouest.fr/tourisme/dordogne/vacances-en-dordogne-une-echappee-ferroviaire-au-coeur-de-la-prehistoire-29344297.php",
+      "title": "Vacances en Dordogne : une Échappée ferroviaire au cœur de la préhistoire",
+      "summary": "Depuis l’an dernier, l’office de tourisme intercommunal du Grand Périgueux a mis en place des visites d’un genre particulier où, au départ de Périgueux, un guide-conférencier revient sur l’histoire de",
+      "url": "https://www.sudouest.fr/tourisme/dordogne/vacances-en-dordogne-une-echappee-ferroviaire-au-coeur-de-la-prehistoire-29344297.php",
+      "image": null,
+      "publishedAt": "2026-07-25T15:10:00.000Z",
+      "source": {
+        "id": "sudouest-culture",
+        "name": "Sud Ouest — Culture"
+      },
+      "lang": "fr",
+      "region": "basque",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/come-trovata-seconda-tomba-etrusca-intatta/",
+      "title": "“Così abbiamo trovato una seconda tomba etrusca intatta”. Porta sigillata. Vasi, corredi e una stoffa di 2600 anni fa a San Giuliano",
+      "summary": "Gli archeologi raccontano il momento in cui una porta rimasta sigillata per quasi 2.700 anni si è aperta davanti ai loro occhi. La scoperta di San Giuliano, nella Tuscia laziale, non aggiunge soltanto una nuova sepoltura alla storia dell’Etruria: offre agli studiosi la…",
+      "url": "https://www.stilearte.it/come-trovata-seconda-tomba-etrusca-intatta/",
+      "image": null,
+      "publishedAt": "2026-07-25T13:09:29.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/americas/archaeologists-find-2-800-year-old-burial-of-person-clutching-sea-turtle-vessel-in-el-salvador",
+      "title": "Archaeologists find 2,800-year-old burial of person clutching sea turtle vessel in El Salvador",
+      "summary": "An unusual 2,800-year-old Mesoamerican burial found in El Salvador included a face-down skeleton clutching a sea turtle vessel.",
+      "url": "https://www.livescience.com/archaeology/americas/archaeologists-find-2-800-year-old-burial-of-person-clutching-sea-turtle-vessel-in-el-salvador",
+      "image": "https://cdn.mos.cms.futurecdn.net/zp2qmk9bRAvvNEWa72JjJC-1280-80.png",
+      "publishedAt": "2026-07-25T13:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "amerika"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/denari-repubblica-romana-tesoro-argento-scoperta/",
+      "title": "Archeologia, il giallo delle monete della Repubblica di Roma: trovate nel fango a mille chilometri dall’Italia. Chi le ha nascoste?",
+      "summary": "Cinque denari d’argento dell’antica Repubblica romana sono stati rinvenuti oltre 350 chilometri a nord del Limes, nel cuore dell’Europa continentale, evidenziando l’influenza della civiltà italica. I reperti, risalenti a un’epoca in cui i clan germanici interagivano con Roma,…",
+      "url": "https://www.stilearte.it/denari-repubblica-romana-tesoro-argento-scoperta/",
+      "image": null,
+      "publishedAt": "2026-07-25T06:37:17.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
       "id": "sudouest-culture:https://www.sudouest.fr/gironde/anglade/anglade-des-fouilles-archeologiques-revelent-une-activite-gauloise-de-production-de-sel-30046347.php",
       "title": "Anglade : des fouilles archéologiques révèlent une activité gauloise de production de sel",
       "summary": "Une équipe universitaire explore un site majeur dans les marais du Blayais pour mieux comprendre les techniques de transformation des Santons et le quotidien de cette tribu antique",
@@ -8808,86 +8886,6 @@
       "lang": "fr",
       "region": "basque",
       "topics": []
-    },
-    {
-      "id": "bbc-history:https://www.historyextra.com/period/ancient-greece/the-odyssey-podcast-series/",
-      "title": "The Odyssey | Podcast series",
-      "summary": "In this four-part podcast series, Dr Daisy Dunn joins Kev Lochun to unpick Homer's Odyssey – from the gods and monsters through to its hidden meanings and real archaeological influences",
-      "url": "https://www.historyextra.com/period/ancient-greece/the-odyssey-podcast-series/",
-      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/07/OdysseyWL-c869749.jpg",
-      "publishedAt": "2026-07-24T15:20:49.000Z",
-      "source": {
-        "id": "bbc-history",
-        "name": "BBC History Extra"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "elpais-cultura:https://elpais.com/cultura/2026-07-24/la-increible-historia-del-hombre-que-construyo-un-falso-teatro-romano-en-italia-y-vendio-entradas-por-visitarlo.html",
-      "title": "La increíble historia del hombre que construyó un falso teatro romano en Italia y vendió entradas para visitarlo",
-      "summary": "La justicia envía a prisión a un hombre que llegó a cobrar hasta 40 euros por visitar el recinto, levantado sin permisos en una colina de Vicenza y presentado como un hallazgo histórico",
-      "url": "https://elpais.com/cultura/2026-07-24/la-increible-historia-del-hombre-que-construyo-un-falso-teatro-romano-en-italia-y-vendio-entradas-por-visitarlo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/CYUB6G6EWVHUXFSZCX4DB2P6KQ.jpg?auth=d885eaa56c774e2d63c75bb1b5ed8e8f387b94da0d28318fd488d65043713051",
-      "publishedAt": "2026-07-24T13:13:54.000Z",
-      "source": {
-        "id": "elpais-cultura",
-        "name": "El País — Cultura"
-      },
-      "lang": "es",
-      "region": "europe",
-      "topics": [
-        "erromatarrak",
-        "ekialde-hurbila"
-      ]
-    },
-    {
-      "id": "inrap-bsky:https://bsky.app/profile/inrap.fr/post/3mreyh4eyjm2a",
-      "title": "",
-      "summary": "À l'occasion de la Saison gauloise de l'Inrap, découvrez « Bienvenue chez les Gaulois », un magazine multimédia consacré à la vie quotidienne des sociétés gauloises : habitat, artisanat, agriculture, échanges… 👉 À découvrir ici :…",
-      "url": "https://bsky.app/profile/inrap.fr/post/3mreyh4eyjm2a",
-      "image": null,
-      "publishedAt": "2026-07-24T09:00:00.000Z",
-      "source": {
-        "id": "inrap-bsky",
-        "name": "Inrap (Bluesky)"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/moskstraumen-el-remolino-noruego-que-se-parece-tanto-al-caribdis-de-la-odisea-que-hay-teorias-que-dicen-que-son-el-mismo",
-      "title": "Moskstraumen, el remolino noruego que se parece tanto al Caribdis de la Odisea que hay teorías que dicen que son el mismo",
-      "summary": "Entre las islas de Moskenesøya y Mosken, en el archipiélago noruego de las Lofoten, las aguas hacen algo que en ningún otro lugar del mundo sucede exactamente igual: se retuerce en mar abierto. No en un estrecho, no en un río, sino en pleno océano, frente a la costa, donde nada…",
-      "url": "https://www.labrujulaverde.com/2026/07/moskstraumen-el-remolino-noruego-que-se-parece-tanto-al-caribdis-de-la-odisea-que-hay-teorias-que-dicen-que-son-el-mismo",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/fs1600x1200px-Moskstraumen_6.jpg-2.webp",
-      "publishedAt": "2026-07-24T08:02:08.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/07/260723084852.htm",
-      "title": "Ancient ape fossil in Egypt challenges the story of human origins",
-      "summary": "A newly identified fossil ape from northern Egypt is reshaping ideas about where the ancestors of modern apes first emerged. Analyses place it closer to living apes than any known East African species of the same age, pointing to North Africa and the Middle East as a possible…",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260723084852.htm",
-      "image": null,
-      "publishedAt": "2026-07-24T07:03:54.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "egiptoarrak"
-      ]
     }
   ]
 }
