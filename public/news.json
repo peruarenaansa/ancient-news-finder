@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T04:53:07.817Z",
+  "generatedAt": "2026-07-27T05:04:52.658Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 6594
+      "elapsedMs": 5571
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 914
+      "elapsedMs": 725
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1282
+      "elapsedMs": 955
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1052
+      "elapsedMs": 714
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3601
+      "elapsedMs": 2664
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 8,
       "droppedOffTopic": 22,
       "droppedModern": 0,
-      "elapsedMs": 3712
+      "elapsedMs": 2687
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1766
+      "elapsedMs": 1250
     },
     {
       "id": "labrujulaverde",
@@ -101,7 +101,7 @@
       "kept": 15,
       "droppedOffTopic": 1,
       "droppedModern": 4,
-      "elapsedMs": 1849
+      "elapsedMs": 1684
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 8,
       "droppedOffTopic": 3,
       "droppedModern": 1,
-      "elapsedMs": 1509
+      "elapsedMs": 1218
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2099
+      "elapsedMs": 1762
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1461
+      "elapsedMs": 971
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 10,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 1928
+      "elapsedMs": 990
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -166,7 +166,7 @@
       "kept": 6,
       "droppedOffTopic": 11,
       "droppedModern": 1,
-      "elapsedMs": 1799
+      "elapsedMs": 979
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +179,7 @@
       "kept": 5,
       "droppedOffTopic": 17,
       "droppedModern": 2,
-      "elapsedMs": 3716
+      "elapsedMs": 2679
     },
     {
       "id": "sudouest-culture",
@@ -189,10 +189,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 1,
-      "droppedOffTopic": 19,
+      "kept": 0,
+      "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1985
+      "elapsedMs": 1447
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2127
+      "elapsedMs": 2022
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 1,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 2665
+      "elapsedMs": 2157
     },
     {
       "id": "stilearte",
@@ -228,10 +228,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 8,
+      "kept": 7,
       "droppedOffTopic": 0,
-      "droppedModern": 2,
-      "elapsedMs": 2690
+      "droppedModern": 3,
+      "elapsedMs": 2310
     },
     {
       "id": "live-science-arch",
@@ -241,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 2,
+      "droppedOffTopic": 28,
       "droppedModern": 0,
-      "elapsedMs": 3766
+      "elapsedMs": 2615
     },
     {
       "id": "bbc-history",
@@ -257,7 +257,7 @@
       "kept": 1,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 2348
+      "elapsedMs": 1704
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +270,7 @@
       "kept": 12,
       "droppedOffTopic": 18,
       "droppedModern": 0,
-      "elapsedMs": 2234
+      "elapsedMs": 1953
     },
     {
       "id": "ancient-origins",
@@ -278,9 +278,12 @@
       "lang": "en",
       "region": "world",
       "kind": "news",
-      "ok": false,
-      "error": "Unable to parse XML.",
-      "elapsedMs": 6878
+      "ok": true,
+      "fetched": 10,
+      "kept": 4,
+      "droppedOffTopic": 5,
+      "droppedModern": 1,
+      "elapsedMs": 2010
     },
     {
       "id": "guardian-arch",
@@ -293,7 +296,7 @@
       "kept": 13,
       "droppedOffTopic": 6,
       "droppedModern": 1,
-      "elapsedMs": 2620
+      "elapsedMs": 2151
     },
     {
       "id": "current-archaeology",
@@ -306,7 +309,7 @@
       "kept": 18,
       "droppedOffTopic": 11,
       "droppedModern": 1,
-      "elapsedMs": 2313
+      "elapsedMs": 1944
     },
     {
       "id": "jas-reports",
@@ -319,7 +322,7 @@
       "kept": 5,
       "droppedOffTopic": 4,
       "droppedModern": 21,
-      "elapsedMs": 2324
+      "elapsedMs": 1858
     },
     {
       "id": "plos-one-arch",
@@ -332,7 +335,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2583
+      "elapsedMs": 2003
     },
     {
       "id": "pnas-arch",
@@ -345,7 +348,7 @@
       "kept": 20,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 3013
+      "elapsedMs": 2797
     },
     {
       "id": "sciencedirect-jas",
@@ -358,7 +361,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 22,
-      "elapsedMs": 2538
+      "elapsedMs": 1941
     },
     {
       "id": "spal-us",
@@ -371,7 +374,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 3559
+      "elapsedMs": 2841
     },
     {
       "id": "complutum-ucm",
@@ -384,7 +387,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 5099
+      "elapsedMs": 4233
     },
     {
       "id": "archeoarte",
@@ -397,7 +400,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 3570
+      "elapsedMs": 2734
     },
     {
       "id": "cypsela",
@@ -410,7 +413,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3527
+      "elapsedMs": 2597
     },
     {
       "id": "cambridge-antiquity",
@@ -423,7 +426,7 @@
       "kept": 20,
       "droppedOffTopic": 2,
       "droppedModern": 8,
-      "elapsedMs": 3374
+      "elapsedMs": 2671
     },
     {
       "id": "cambridge-caj",
@@ -436,7 +439,7 @@
       "kept": 19,
       "droppedOffTopic": 7,
       "droppedModern": 4,
-      "elapsedMs": 3497
+      "elapsedMs": 2645
     },
     {
       "id": "cambridge-ejarc",
@@ -449,7 +452,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 3699
+      "elapsedMs": 2752
     },
     {
       "id": "aquitania-persee",
@@ -462,7 +465,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 4215
+      "elapsedMs": 3601
     },
     {
       "id": "cuadernos-arq-unav",
@@ -475,7 +478,7 @@
       "kept": 20,
       "droppedOffTopic": 2,
       "droppedModern": 8,
-      "elapsedMs": 5327
+      "elapsedMs": 4040
     },
     {
       "id": "veleia-ehu",
@@ -488,7 +491,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 4618
+      "elapsedMs": 3512
     },
     {
       "id": "flv-navarra",
@@ -501,7 +504,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 3590
+      "elapsedMs": 2726
     },
     {
       "id": "munibe-aa",
@@ -514,7 +517,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 3633
+      "elapsedMs": 2886
     },
     {
       "id": "trabajos-prehistoria",
@@ -527,7 +530,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 3577
+      "elapsedMs": 2907
     },
     {
       "id": "openalex-archaeology",
@@ -540,7 +543,7 @@
       "kept": 14,
       "droppedOffTopic": 8,
       "droppedModern": 8,
-      "elapsedMs": 3618
+      "elapsedMs": 2776
     }
   ],
   "items": [
@@ -690,6 +693,23 @@
       "lang": "en",
       "region": "world",
       "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/legione-cesare-legionari-brescia-milano-bologna-scoperta-romana/",
+      "title": "Emozioni d’Italia nel campo romano di Vindonissa. Legionari di Brescia, Milano e Bologna in Svizzera con l’unità di Cesare che aveva passato il Rubicone. Gli archeologi trovano il primo forte, monete, bisturi, la vittoria alata e una michetta. L’ombra delle lapidi “lombarde”",
+      "summary": "Gli scavi nel più antico accampamento di Vindonissa riportano alla luce caserme, fortificazioni, un forno, una fucina, un prezioso aureo e nuovi indizi sulla Legio XIII Gemina. È la legione nata per volontà di Giulio Cesare nella Gallia Cisalpina, formata in larga parte da…",
+      "url": "https://www.stilearte.it/legione-cesare-legionari-brescia-milano-bologna-scoperta-romana/",
+      "image": null,
+      "publishedAt": "2026-07-27T04:30:00.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
     },
     {
       "id": "stilearte:https://www.stilearte.it/collasso-eta-del-bronzo-cause-climatiche-studio/",
@@ -5843,38 +5863,6 @@
       ]
     },
     {
-      "id": "aranzadi-bsky:https://bsky.app/profile/aranzadi.bsky.social/post/3mkinpusdaw2w",
-      "title": "",
-      "summary": "🏺⛏️ Indusketa arkeologiko batean parte hartu nahi duzu? 2026an Aranzadik berriz ekingo die indusketei: haitzuloak, trikuharriak, gazteluak eta antzinako kokalekuak. 🔍 Iragana ezagutzeko eta dokumentatzeko aukera 🤝 Zientzialari eta boluntarioekin elkarlanean",
-      "url": "https://bsky.app/profile/aranzadi.bsky.social/post/3mkinpusdaw2w",
-      "image": null,
-      "publishedAt": "2026-04-27T18:02:00.000Z",
-      "source": {
-        "id": "aranzadi-bsky",
-        "name": "Aranzadi (Bluesky)"
-      },
-      "lang": "eu",
-      "region": "basque",
-      "topics": [
-        "asia"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/scoperto-uomo-d-oro-taskopa-kazakistan-sepoltura-elite-nomadi/",
-      "title": "Brillano gioielli nel terreno. Un uomo d’oro e un cavallo di 2400 anni fa. La scoperta sotto un tumulo. Chi era il cavaliere. Il volo di farfalle",
-      "summary": "Nel settore occidentale del Kazakistan, nella regione amministrativa di Aktobe, un nuovo complesso funerario sta restituendo elementi di grande rilievo per la comprensione delle società nomadi dell’età del ferro. L’area indagata si colloca nei pressi del villaggio di Taskopa,…",
-      "url": "https://www.stilearte.it/scoperto-uomo-d-oro-taskopa-kazakistan-sepoltura-elite-nomadi/",
-      "image": null,
-      "publishedAt": "2026-04-27T05:25:47.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
       "id": "cambridge-caj:https://openalex.org/W7156372850",
       "title": "Thinking Through Tradition: Continuity, Architecture, and the Material Grounds of Transformation in the Central Andes and Angkorian Cambodia",
       "summary": "Abstract In this paper, we reconsider the relationship between continuity and change in archaeology by arguing that material continuities do not necessarily imply conservatism or resistance to change but function as precondition for transformation. Drawing on Deleuze and…",
@@ -8807,6 +8795,90 @@
       ]
     },
     {
+      "id": "stilearte:https://www.stilearte.it/moneta-cipriota-2500-anni-scoperta-commerci-mediterraneo-israele-cipro/",
+      "title": "Vede una moneta sulla spiaggia del Mediterraneo. E’ un pezzo raro di 2500 anni fa. Attenti, quando camminate sulla battigia",
+      "summary": "Strano quell’oggetto. Lui pensa, guardandolo tra la sabbia: “Non sembra una cosa moderna”. Poi allunga la mano. Pulisce l'”intruso”.. E’ la più singolare moneta che gli sia capitato di osservare. A questo punto decide di fotografare l’oggetto e di mandare l’immagine agli…",
+      "url": "https://www.stilearte.it/moneta-cipriota-2500-anni-scoperta-commerci-mediterraneo-israele-cipro/",
+      "image": null,
+      "publishedAt": "2026-07-26T22:05:00.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/propulsori-lancia-legno-atacama-5000-anni/",
+      "title": "Nel deserto più arido della Terra riaffiora un’arma di legno di 5.000 anni fa. Era la tecnologia evoluta dei cacciatori “del mare”. Propulsori molto simili sono stati rinvenuti a circa 500 chilometri di distanza",
+      "summary": "Perché un gruppo di pescatori avrebbe dovuto costruire un’arma sofisticata per cacciare sulla terraferma? È la domanda che ha guidato gli archeologi nello studio di alcuni straordinari reperti rinvenuti nel deserto di Atacama, nel nord del Cile. La risposta racconta una storia…",
+      "url": "https://www.stilearte.it/propulsori-lancia-legno-atacama-5000-anni/",
+      "image": null,
+      "publishedAt": "2026-07-26T14:25:39.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/descubren-y-restauran-un-gran-fresco-de-dioniso-y-ariadna-en-el-techo-de-la-casa-con-panificio-de-pompeya",
+      "title": "Descubren y restauran un gran fresco de Dioniso y Ariadna en el techo de la Casa con Panificio de Pompeya",
+      "summary": "La presentación del proyecto tuvo lugar en la Palestra Grande de las Excavaciones, al término del Workshop Internacional Pompeya: excavaciones e investigaciones en curso, celebrado en el Auditorio del Parque. Durante el encuentro, representantes de instituciones y universidades…",
+      "url": "https://www.labrujulaverde.com/2026/07/descubren-y-restauran-un-gran-fresco-de-dioniso-y-ariadna-en-el-techo-de-la-casa-con-panificio-de-pompeya",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/Soffitto-Casa-Panificio-Regio-IX-1-1200x1006-1.webp",
+      "publishedAt": "2026-07-26T10:54:56.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/space/space-exploration/humanitys-first-look-at-the-surface-of-mars-shared-on-50th-anniversary-of-historic-nasa-landing-space-photo-of-the-week",
+      "title": "Humanity's first look at the surface of Mars shared on 50th anniversary of historic NASA landing — Space photo of the week",
+      "summary": "NASA has unearthed the historic photos its Viking 1 lander sent home just after landing on Mars in July, 1976.",
+      "url": "https://www.livescience.com/space/space-exploration/humanitys-first-look-at-the-surface-of-mars-shared-on-50th-anniversary-of-historic-nasa-landing-space-photo-of-the-week",
+      "image": "https://cdn.mos.cms.futurecdn.net/i7v5gbgT9ADphNjr22VcCo-1280-80.jpg",
+      "publishedAt": "2026-07-26T10:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "erdi-aroa",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/las-invasiones-barbaras-obligaron-a-los-legionarios-romanos-en-la-frontera-del-danubio-a-sobrevivir-de-la-caza-y-la-pesca-al-interrumpirse-las-vias-de-suministro",
+      "title": "Las “invasiones bárbaras” obligaron a los legionarios romanos en la frontera del Danubio a sobrevivir de la caza y la pesca, al interrumpirse las vías de suministro",
+      "summary": "Los soldados romanos que vigilaban la frontera del Danubio hace casi dos mil años no comían solo pan y verduras. El análisis de más de 10.000 huesos de animales encontrados en el fuerte de Diana-Karataš, en el este de Serbia, demuestra que la carne formaba parte habitual de su…",
+      "url": "https://www.labrujulaverde.com/2026/07/las-invasiones-barbaras-obligaron-a-los-legionarios-romanos-en-la-frontera-del-danubio-a-sobrevivir-de-la-caza-y-la-pesca-al-interrumpirse-las-vias-de-suministro",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/CD5F2BA0-8AAA-4ED8-labrujulaverde.com_BFAC-40B13EEE084F.webp",
+      "publishedAt": "2026-07-26T09:11:20.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
       "id": "sudouest-culture:https://www.sudouest.fr/tourisme/dordogne/vacances-en-dordogne-une-echappee-ferroviaire-au-coeur-de-la-prehistoire-29344297.php",
       "title": "Vacances en Dordogne : une Échappée ferroviaire au cœur de la préhistoire",
       "summary": "Depuis l’an dernier, l’office de tourisme intercommunal du Grand Périgueux a mis en place des visites d’un genre particulier où, au départ de Périgueux, un guide-conférencier revient sur l’histoire de",
@@ -8822,70 +8894,6 @@
       "topics": [
         "prehistoria"
       ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/come-trovata-seconda-tomba-etrusca-intatta/",
-      "title": "“Così abbiamo trovato una seconda tomba etrusca intatta”. Porta sigillata. Vasi, corredi e una stoffa di 2600 anni fa a San Giuliano",
-      "summary": "Gli archeologi raccontano il momento in cui una porta rimasta sigillata per quasi 2.700 anni si è aperta davanti ai loro occhi. La scoperta di San Giuliano, nella Tuscia laziale, non aggiunge soltanto una nuova sepoltura alla storia dell’Etruria: offre agli studiosi la…",
-      "url": "https://www.stilearte.it/come-trovata-seconda-tomba-etrusca-intatta/",
-      "image": null,
-      "publishedAt": "2026-07-25T13:09:29.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/archaeology/americas/archaeologists-find-2-800-year-old-burial-of-person-clutching-sea-turtle-vessel-in-el-salvador",
-      "title": "Archaeologists find 2,800-year-old burial of person clutching sea turtle vessel in El Salvador",
-      "summary": "An unusual 2,800-year-old Mesoamerican burial found in El Salvador included a face-down skeleton clutching a sea turtle vessel.",
-      "url": "https://www.livescience.com/archaeology/americas/archaeologists-find-2-800-year-old-burial-of-person-clutching-sea-turtle-vessel-in-el-salvador",
-      "image": "https://cdn.mos.cms.futurecdn.net/zp2qmk9bRAvvNEWa72JjJC-1280-80.png",
-      "publishedAt": "2026-07-25T13:00:00.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "amerika"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/denari-repubblica-romana-tesoro-argento-scoperta/",
-      "title": "Archeologia, il giallo delle monete della Repubblica di Roma: trovate nel fango a mille chilometri dall’Italia. Chi le ha nascoste?",
-      "summary": "Cinque denari d’argento dell’antica Repubblica romana sono stati rinvenuti oltre 350 chilometri a nord del Limes, nel cuore dell’Europa continentale, evidenziando l’influenza della civiltà italica. I reperti, risalenti a un’epoca in cui i clan germanici interagivano con Roma,…",
-      "url": "https://www.stilearte.it/denari-repubblica-romana-tesoro-argento-scoperta/",
-      "image": null,
-      "publishedAt": "2026-07-25T06:37:17.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "sudouest-culture:https://www.sudouest.fr/gironde/anglade/anglade-des-fouilles-archeologiques-revelent-une-activite-gauloise-de-production-de-sel-30046347.php",
-      "title": "Anglade : des fouilles archéologiques révèlent une activité gauloise de production de sel",
-      "summary": "Une équipe universitaire explore un site majeur dans les marais du Blayais pour mieux comprendre les techniques de transformation des Santons et le quotidien de cette tribu antique",
-      "url": "https://www.sudouest.fr/gironde/anglade/anglade-des-fouilles-archeologiques-revelent-une-activite-gauloise-de-production-de-sel-30046347.php",
-      "image": null,
-      "publishedAt": "2026-07-24T17:30:00.000Z",
-      "source": {
-        "id": "sudouest-culture",
-        "name": "Sud Ouest — Culture"
-      },
-      "lang": "fr",
-      "region": "basque",
-      "topics": []
     }
   ]
 }
