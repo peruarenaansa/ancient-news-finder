@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T04:42:03.706Z",
+  "generatedAt": "2026-07-30T04:28:01.577Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 7120
+      "elapsedMs": 5166
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 894
+      "elapsedMs": 602
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1227
+      "elapsedMs": 788
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1031
+      "elapsedMs": 591
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 4263
+      "elapsedMs": 2357
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 7,
       "droppedOffTopic": 23,
       "droppedModern": 0,
-      "elapsedMs": 4224
+      "elapsedMs": 2361
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1566
+      "elapsedMs": 1061
     },
     {
       "id": "labrujulaverde",
@@ -98,10 +98,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 13,
+      "kept": 11,
       "droppedOffTopic": 1,
-      "droppedModern": 6,
-      "elapsedMs": 2004
+      "droppedModern": 8,
+      "elapsedMs": 1430
     },
     {
       "id": "desperta-ferro",
@@ -111,10 +111,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 12,
-      "kept": 8,
+      "kept": 7,
       "droppedOffTopic": 3,
-      "droppedModern": 1,
-      "elapsedMs": 1533
+      "droppedModern": 2,
+      "elapsedMs": 792
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1753
+      "elapsedMs": 1101
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1241
+      "elapsedMs": 621
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 10,
       "droppedOffTopic": 8,
       "droppedModern": 2,
-      "elapsedMs": 1675
+      "elapsedMs": 1125
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +162,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 18,
+      "fetched": 17,
       "kept": 6,
-      "droppedOffTopic": 11,
+      "droppedOffTopic": 10,
       "droppedModern": 1,
-      "elapsedMs": 1670
+      "elapsedMs": 936
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +179,7 @@
       "kept": 4,
       "droppedOffTopic": 15,
       "droppedModern": 3,
-      "elapsedMs": 4300
+      "elapsedMs": 2348
     },
     {
       "id": "sudouest-culture",
@@ -189,10 +189,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 0,
-      "droppedOffTopic": 20,
-      "droppedModern": 0,
-      "elapsedMs": 2293
+      "kept": 1,
+      "droppedOffTopic": 17,
+      "droppedModern": 2,
+      "elapsedMs": 1021
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2158
+      "elapsedMs": 1518
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 1,
       "droppedOffTopic": 1,
       "droppedModern": 8,
-      "elapsedMs": 2729
+      "elapsedMs": 1664
     },
     {
       "id": "stilearte",
@@ -231,7 +231,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 1,
-      "elapsedMs": 2954
+      "elapsedMs": 1738
     },
     {
       "id": "live-science-arch",
@@ -241,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 4,
-      "droppedOffTopic": 25,
+      "kept": 2,
+      "droppedOffTopic": 27,
       "droppedModern": 1,
-      "elapsedMs": 4213
+      "elapsedMs": 2290
     },
     {
       "id": "bbc-history",
@@ -254,10 +254,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 2,
-      "droppedOffTopic": 8,
+      "kept": 1,
+      "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 2329
+      "elapsedMs": 1430
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +270,7 @@
       "kept": 11,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 2376
+      "elapsedMs": 1438
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 4,
       "droppedOffTopic": 5,
       "droppedModern": 1,
-      "elapsedMs": 2414
+      "elapsedMs": 1388
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 13,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 2791
+      "elapsedMs": 1756
     },
     {
       "id": "current-archaeology",
@@ -309,7 +309,7 @@
       "kept": 18,
       "droppedOffTopic": 11,
       "droppedModern": 1,
-      "elapsedMs": 2442
+      "elapsedMs": 1408
     },
     {
       "id": "jas-reports",
@@ -322,7 +322,7 @@
       "kept": 6,
       "droppedOffTopic": 4,
       "droppedModern": 20,
-      "elapsedMs": 2483
+      "elapsedMs": 1415
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +335,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2762
+      "elapsedMs": 1578
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 20,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 3385
+      "elapsedMs": 2003
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +361,7 @@
       "kept": 6,
       "droppedOffTopic": 3,
       "droppedModern": 21,
-      "elapsedMs": 2505
+      "elapsedMs": 1455
     },
     {
       "id": "spal-us",
@@ -369,9 +369,12 @@
       "lang": "es",
       "region": "iberia",
       "kind": "research",
-      "ok": false,
-      "error": "read ECONNRESET",
-      "elapsedMs": 8964
+      "ok": true,
+      "fetched": 10,
+      "kept": 7,
+      "droppedOffTopic": 1,
+      "droppedModern": 2,
+      "elapsedMs": 2309
     },
     {
       "id": "complutum-ucm",
@@ -384,7 +387,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 5813
+      "elapsedMs": 3182
     },
     {
       "id": "archeoarte",
@@ -397,7 +400,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 3670
+      "elapsedMs": 2264
     },
     {
       "id": "cypsela",
@@ -410,7 +413,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 4266
+      "elapsedMs": 2143
     },
     {
       "id": "cambridge-antiquity",
@@ -423,7 +426,7 @@
       "kept": 20,
       "droppedOffTopic": 2,
       "droppedModern": 8,
-      "elapsedMs": 3634
+      "elapsedMs": 1992
     },
     {
       "id": "cambridge-caj",
@@ -436,7 +439,7 @@
       "kept": 19,
       "droppedOffTopic": 6,
       "droppedModern": 5,
-      "elapsedMs": 3605
+      "elapsedMs": 2090
     },
     {
       "id": "cambridge-ejarc",
@@ -449,7 +452,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 3624
+      "elapsedMs": 1941
     },
     {
       "id": "aquitania-persee",
@@ -462,7 +465,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 4586
+      "elapsedMs": 3945
     },
     {
       "id": "cuadernos-arq-unav",
@@ -475,7 +478,7 @@
       "kept": 20,
       "droppedOffTopic": 2,
       "droppedModern": 8,
-      "elapsedMs": 5612
+      "elapsedMs": 3463
     },
     {
       "id": "veleia-ehu",
@@ -488,7 +491,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 5003
+      "elapsedMs": 3120
     },
     {
       "id": "flv-navarra",
@@ -501,7 +504,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 4143
+      "elapsedMs": 2154
     },
     {
       "id": "munibe-aa",
@@ -514,7 +517,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 4154
+      "elapsedMs": 2116
     },
     {
       "id": "trabajos-prehistoria",
@@ -527,7 +530,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 4191
+      "elapsedMs": 2134
     },
     {
       "id": "openalex-archaeology",
@@ -540,7 +543,7 @@
       "kept": 14,
       "droppedOffTopic": 8,
       "droppedModern": 8,
-      "elapsedMs": 4163
+      "elapsedMs": 2166
     }
   ],
   "items": [
@@ -8824,32 +8827,32 @@
       ]
     },
     {
-      "id": "stilearte:https://www.stilearte.it/palafitte-garda-dolcetti-lucone-tante-ricette-preistoria/",
-      "title": "Lago di Garda. Dal Lavagnone al Lucone, il sapore della preistoria rivive in tavola. PalaFitFood dimostra che l’archeologia può essere raccontata anche attraverso una pentola. La pizza non pizza. La Nutella non Nutella",
-      "summary": "Ci sono libri di archeologia che spiegano gli oggetti. Altri che illustrano le tecniche di scavo. PalaFitFood. Il sapore della cucina delle palafitte sceglie invece una strada molto più difficile e originale: raccontare la preistoria attraverso il cibo, dimostrando che la…",
-      "url": "https://www.stilearte.it/palafitte-garda-dolcetti-lucone-tante-ricette-preistoria/",
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003962?dgcid=rss_sd_all",
+      "title": "A multi-analytical approach to fetal/neonatal birth trauma and possible metabolic stress in a Neolithic alpine mobility context (3932–3653 cal BCE)",
+      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Omar Larentis, Francesco Carrer, Fabio Cavulli",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26003962?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-07-28T22:05:00.000Z",
+      "publishedAt": "2026-07-30T04:27:57.845Z",
       "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
       },
-      "lang": "it",
+      "lang": "en",
       "region": "europe",
       "topics": [
         "prehistoria"
       ]
     },
     {
-      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354715",
-      "title": "Intentional incisions on Neolithic Obsidian arrowheads from Central Anatolia: A techno-functional and iconographic approach",
-      "summary": "by Alice Vinet, Denis Guilbeau Incised obsidian arrowheads form a rare and geographically restricted artifact class, known exclusively from Neolithic Central Anatolia between the late 8th and 7th millennia BCE. These artifacts, marked by deliberate incisions, have been variously…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354715",
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26004062?dgcid=rss_sd_all",
+      "title": "Sourcing obsidian from Chogha Golan, an Aceramic Neolithic site in west-central Zagros, Iran",
+      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Mohsen Zeidi, Ellery Frahm, Nicholas J. Conard",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26004062?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-07-28T14:00:00.000Z",
+      "publishedAt": "2026-07-30T04:27:57.845Z",
       "source": {
-        "id": "plos-one-arch",
-        "name": "PLOS ONE — Archaeology"
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
       },
       "lang": "en",
       "region": "world",
@@ -8858,37 +8861,37 @@
       ]
     },
     {
-      "id": "bbc-history:https://www.historyextra.com/membership/think-the-odyssey-is-just-a-myth-heres-the-real-history-behind-the-ancient-greek-epic/",
-      "title": "I'm an expert on ancient Greece – here's what you need to know before you watch The Odyssey",
-      "summary": "Featuring Cyclopes, Lotus-Eaters and goddesses that turn men into pigs, the Odyssey reads like a fantastical adventure story. Yet, writes Daisy Dunn, Homer’s epic poem – now a Hollywood blockbuster – offers a fascinating lens onto the reality of life in Bronze Age Greece",
-      "url": "https://www.historyextra.com/membership/think-the-odyssey-is-just-a-myth-heres-the-real-history-behind-the-ancient-greek-epic/",
-      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/07/LEAD-HIS336p026-033Odyssey6sm-web-ready-1-05d69f6-e1784194683296.jpg",
-      "publishedAt": "2026-07-28T13:30:26.000Z",
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003810?dgcid=rss_sd_all",
+      "title": "Ochre and hide-working during the early bronze age at Dhaskalio, central Cyclades: first insights from use-wear analysis",
+      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Diego Capra, Isabella Caricola, Giulio Lucarini, Giuseppina Mutri, Evi Margaritis, Michael J. Boyd, Colin Renfrew",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26003810?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-07-30T04:27:57.844Z",
       "source": {
-        "id": "bbc-history",
-        "name": "BBC History Extra"
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
       },
       "lang": "en",
-      "region": "europe",
+      "region": "world",
       "topics": [
         "prehistoria"
       ]
     },
     {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/07/260727214619.htm",
-      "title": "Hidden charcoal reveals the true age of ancient cave paintings",
-      "summary": "A new analysis has precisely dated paintings in France’s Font-de-Gaume cave for the first time. Scientists discovered charcoal inside black pigments once thought to contain only minerals, allowing them to use radiocarbon dating. The results show that a bison was painted about…",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260727214619.htm",
+      "id": "sudouest-culture:https://www.sudouest.fr/charente-maritime/barzan/barzan-la-grande-semaine-de-l-antiquite-fait-son-retour-au-site-archeologique-du-fa-avec-campement-romain-animations-et-spectacle-30092867.php",
+      "title": "Barzan : la Grande semaine de l’Antiquité fait son retour au site archéologique du Fâ avec campement romain, animations et spectacle",
+      "summary": "Du 3 au 7 août, le site archéologique du Fâ propose des reconstitutions, des ateliers d’artisanat et un spectacle son et lumière mettant en scène des légionnaires, des gladiateurs et des habitants barzanais",
+      "url": "https://www.sudouest.fr/charente-maritime/barzan/barzan-la-grande-semaine-de-l-antiquite-fait-son-retour-au-site-archeologique-du-fa-avec-campement-romain-animations-et-spectacle-30092867.php",
       "image": null,
-      "publishedAt": "2026-07-28T11:16:44.000Z",
+      "publishedAt": "2026-07-29T17:52:00.000Z",
       "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
+        "id": "sudouest-culture",
+        "name": "Sud Ouest — Culture"
       },
-      "lang": "en",
-      "region": "europe",
+      "lang": "fr",
+      "region": "basque",
       "topics": [
-        "aurkikuntza"
+        "erromatarrak"
       ]
     }
   ]
