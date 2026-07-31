@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T04:28:01.577Z",
+  "generatedAt": "2026-07-31T04:54:02.083Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5166
+      "elapsedMs": 5434
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 602
+      "elapsedMs": 660
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 788
+      "elapsedMs": 860
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 591
+      "elapsedMs": 737
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2357
+      "elapsedMs": 2424
     },
     {
       "id": "aranzadi-bsky",
@@ -72,10 +72,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 7,
-      "droppedOffTopic": 23,
+      "kept": 8,
+      "droppedOffTopic": 22,
       "droppedModern": 0,
-      "elapsedMs": 2361
+      "elapsedMs": 2642
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1061
+      "elapsedMs": 1106
     },
     {
       "id": "labrujulaverde",
@@ -98,10 +98,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 11,
+      "kept": 13,
       "droppedOffTopic": 1,
-      "droppedModern": 8,
-      "elapsedMs": 1430
+      "droppedModern": 6,
+      "elapsedMs": 1543
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 7,
       "droppedOffTopic": 3,
       "droppedModern": 2,
-      "elapsedMs": 792
+      "elapsedMs": 870
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1101
+      "elapsedMs": 641
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 621
+      "elapsedMs": 744
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 10,
       "droppedOffTopic": 8,
       "droppedModern": 2,
-      "elapsedMs": 1125
+      "elapsedMs": 1340
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +162,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 17,
-      "kept": 6,
+      "fetched": 18,
+      "kept": 7,
       "droppedOffTopic": 10,
       "droppedModern": 1,
-      "elapsedMs": 936
+      "elapsedMs": 1250
     },
     {
       "id": "inrap-bsky",
@@ -177,9 +177,9 @@
       "ok": true,
       "fetched": 22,
       "kept": 4,
-      "droppedOffTopic": 15,
-      "droppedModern": 3,
-      "elapsedMs": 2348
+      "droppedOffTopic": 14,
+      "droppedModern": 4,
+      "elapsedMs": 2591
     },
     {
       "id": "sudouest-culture",
@@ -190,9 +190,9 @@
       "ok": true,
       "fetched": 20,
       "kept": 1,
-      "droppedOffTopic": 17,
-      "droppedModern": 2,
-      "elapsedMs": 1021
+      "droppedOffTopic": 19,
+      "droppedModern": 0,
+      "elapsedMs": 2529
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1518
+      "elapsedMs": 1803
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 1,
       "droppedOffTopic": 1,
       "droppedModern": 8,
-      "elapsedMs": 1664
+      "elapsedMs": 1795
     },
     {
       "id": "stilearte",
@@ -231,7 +231,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 1,
-      "elapsedMs": 1738
+      "elapsedMs": 1883
     },
     {
       "id": "live-science-arch",
@@ -241,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 2,
-      "droppedOffTopic": 27,
+      "kept": 0,
+      "droppedOffTopic": 29,
       "droppedModern": 1,
-      "elapsedMs": 2290
+      "elapsedMs": 2410
     },
     {
       "id": "bbc-history",
@@ -257,7 +257,7 @@
       "kept": 1,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1430
+      "elapsedMs": 1568
     },
     {
       "id": "sciencedaily-arch",
@@ -267,10 +267,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 11,
-      "droppedOffTopic": 19,
+      "kept": 12,
+      "droppedOffTopic": 18,
       "droppedModern": 0,
-      "elapsedMs": 1438
+      "elapsedMs": 1680
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 4,
       "droppedOffTopic": 5,
       "droppedModern": 1,
-      "elapsedMs": 1388
+      "elapsedMs": 1663
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 13,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1756
+      "elapsedMs": 1789
     },
     {
       "id": "current-archaeology",
@@ -309,7 +309,7 @@
       "kept": 18,
       "droppedOffTopic": 11,
       "droppedModern": 1,
-      "elapsedMs": 1408
+      "elapsedMs": 1711
     },
     {
       "id": "jas-reports",
@@ -320,9 +320,9 @@
       "ok": true,
       "fetched": 30,
       "kept": 6,
-      "droppedOffTopic": 4,
-      "droppedModern": 20,
-      "elapsedMs": 1415
+      "droppedOffTopic": 5,
+      "droppedModern": 19,
+      "elapsedMs": 1740
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +335,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1578
+      "elapsedMs": 1957
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 20,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 2003
+      "elapsedMs": 2084
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +361,7 @@
       "kept": 6,
       "droppedOffTopic": 3,
       "droppedModern": 21,
-      "elapsedMs": 1455
+      "elapsedMs": 1782
     },
     {
       "id": "spal-us",
@@ -374,7 +374,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2309
+      "elapsedMs": 2767
     },
     {
       "id": "complutum-ucm",
@@ -382,12 +382,9 @@
       "lang": "es",
       "region": "iberia",
       "kind": "research",
-      "ok": true,
-      "fetched": 30,
-      "kept": 19,
-      "droppedOffTopic": 1,
-      "droppedModern": 10,
-      "elapsedMs": 3182
+      "ok": false,
+      "error": "connect ECONNREFUSED 147.96.240.53:443",
+      "elapsedMs": 6719
     },
     {
       "id": "archeoarte",
@@ -400,7 +397,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2264
+      "elapsedMs": 2523
     },
     {
       "id": "cypsela",
@@ -413,7 +410,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2143
+      "elapsedMs": 2334
     },
     {
       "id": "cambridge-antiquity",
@@ -426,7 +423,7 @@
       "kept": 20,
       "droppedOffTopic": 2,
       "droppedModern": 8,
-      "elapsedMs": 1992
+      "elapsedMs": 2157
     },
     {
       "id": "cambridge-caj",
@@ -439,7 +436,7 @@
       "kept": 19,
       "droppedOffTopic": 6,
       "droppedModern": 5,
-      "elapsedMs": 2090
+      "elapsedMs": 2174
     },
     {
       "id": "cambridge-ejarc",
@@ -452,7 +449,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 1941
+      "elapsedMs": 2186
     },
     {
       "id": "aquitania-persee",
@@ -465,7 +462,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3945
+      "elapsedMs": 2916
     },
     {
       "id": "cuadernos-arq-unav",
@@ -478,7 +475,7 @@
       "kept": 20,
       "droppedOffTopic": 2,
       "droppedModern": 8,
-      "elapsedMs": 3463
+      "elapsedMs": 3960
     },
     {
       "id": "veleia-ehu",
@@ -491,7 +488,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3120
+      "elapsedMs": 3065
     },
     {
       "id": "flv-navarra",
@@ -504,7 +501,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2154
+      "elapsedMs": 2268
     },
     {
       "id": "munibe-aa",
@@ -517,7 +514,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 2116
+      "elapsedMs": 2256
     },
     {
       "id": "trabajos-prehistoria",
@@ -530,7 +527,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 2134
+      "elapsedMs": 2292
     },
     {
       "id": "openalex-archaeology",
@@ -543,7 +540,7 @@
       "kept": 14,
       "droppedOffTopic": 8,
       "droppedModern": 8,
-      "elapsedMs": 2166
+      "elapsedMs": 2324
     }
   ],
   "items": [
@@ -5794,107 +5791,6 @@
       "topics": []
     },
     {
-      "id": "stilearte:https://www.stilearte.it/porpora-tiria-tombe-neonati-york-scoperta-romana/",
-      "title": "Riappare ora dopo 1700 anni: “Quel colore valeva più dell’oro”. Un dettaglio invisibile svela la ricchezza estrema delle antiche famiglie romane. Di che colore si tratta e cosa serviva per produrlo?",
-      "summary": "Una traccia quasi invisibile, un riflesso bluastro che emerge da una superficie compatta e polverosa. Un segno minimo, quasi casuale, che non suggerisce immediatamente lusso, potere o ricchezza. Eppure, da quel frammento minuscolo, analizzato con strumenti di laboratorio…",
-      "url": "https://www.stilearte.it/porpora-tiria-tombe-neonati-york-scoperta-romana/",
-      "image": null,
-      "publishedAt": "2026-05-01T13:07:55.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "bbc-history:https://www.historyextra.com/membership/what-was-it-like-to-be-viking-great-heathen-army-video/",
-      "title": "What was it like to be a Viking in the Great Heathen Army?",
-      "summary": "When a Viking force unlike any before it landed in England in the 9th century, it changed everything. HistoryExtra’s James Osborne explores how this formidable army was formed…",
-      "url": "https://www.historyextra.com/membership/what-was-it-like-to-be-viking-great-heathen-army-video/",
-      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/04/YT-Thumb-The-Great-Heathen-Army-WL-AN-f370b74.jpg",
-      "publishedAt": "2026-05-01T08:25:29.000Z",
-      "source": {
-        "id": "bbc-history",
-        "name": "BBC History Extra"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "erdi-aroa",
-        "greziarrak"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/05/la-evolucion-ha-reutilizado-los-mismos-genes-durante-120-millones-de-anos-un-estudio-cuestiona-la-aleatoriedad-de-la-naturaleza",
-      "title": "La evolución ha reutilizado los mismos genes durante 120 millones de años: un estudio cuestiona la aleatoriedad de la Naturaleza",
-      "summary": "Un equipo internacional de científicos ha comprobado que la evolución ha empleado el mismo repertorio genético durante más de 120 millones de años, lo que sugiere que los patrones de cambio en la vida sobre la Tierra podrían ser más predecibles de lo que se creía. El hallazgo,…",
-      "url": "https://www.labrujulaverde.com/2026/05/la-evolucion-ha-reutilizado-los-mismos-genes-durante-120-millones-de-anos-un-estudio-cuestiona-la-aleatoriedad-de-la-naturaleza",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/05/Mechanitis_messenoides_deceptus_14893924436.webp",
-      "publishedAt": "2026-05-01T08:18:05.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/05/astronomos-descubren-loki-un-sistema-estelar-antiguo-oculto-en-la-via-lactea",
-      "title": "Astrónomos descubren Loki, un sistema estelar antiguo oculto en la Vía Láctea",
-      "summary": "Investigadores del Reino Unido, Canadá, Chile y otros países han analizado en detalle 20 estrellas muy antiguas ubicadas en el vecindario solar, todas ellas siguiendo órbitas inusuales que las mantienen cerca del plano de la Vía Láctea. Los resultados, publicados en Monthly…",
-      "url": "https://www.labrujulaverde.com/2026/05/astronomos-descubren-loki-un-sistema-estelar-antiguo-oculto-en-la-via-lactea",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/05/Depositphotos_17169935_L.webp",
-      "publishedAt": "2026-05-01T07:29:01.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "europe",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/05/jorge-maniaces-el-genio-militar-bizantino-que-conquisto-dos-veces-sicilia-a-los-musulmanes-ayudado-por-el-vikingo-harald-hardrada-y-mercenarios-normandos",
-      "title": "Jorge Maniaces, el genio militar bizantino que conquistó dos veces Sicilia a los musulmanes ayudado por el vikingo Harald Hardrada y mercenarios normandos",
-      "summary": "Entre los años 1614 y 1618 el militar Joan de Roca Maldonato, que estaba al mando de la fortaleza más importante que los españoles poseían en Siracusa, llevó a cabo una serie de obras de refuerzo en sus defensas que culminó rebautizando el lugar, pasando de llamarse Castello…",
-      "url": "https://www.labrujulaverde.com/2026/05/jorge-maniaces-el-genio-militar-bizantino-que-conquisto-dos-veces-sicilia-a-los-musulmanes-ayudado-por-el-vikingo-harald-hardrada-y-mercenarios-normandos",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/04/jorge-maniaces-labrujulaverde.com_.webp",
-      "publishedAt": "2026-05-01T06:44:15.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "erdi-aroa"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/amuleto-romano-carlisle-scoperta-vicus-luguvalium/",
-      "title": "Potente o ridicolo? Un oggettino di 1800 anni fa trovato dalle archeologhe lungo il muro romano. Minuscolo. Esplicito. Era in un tempio? Fu perduto da un fedele? O era un ex voto?",
-      "summary": "Un ritrovamento particolare, presso gli scavi romani. Procedendo lungo un muro è stato individuato un oggetto metallico. Un amuleto di circa 1800 anni fa. Scivolato lungo il muro stesso? Una sorta di ex voto inserito in quello che avrebbe potuto essere un tempio? L’oggettino ha…",
-      "url": "https://www.stilearte.it/amuleto-romano-carlisle-scoperta-vicus-luguvalium/",
-      "image": null,
-      "publishedAt": "2026-05-01T05:33:49.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
       "id": "cambridge-caj:https://openalex.org/W7156372850",
       "title": "Thinking Through Tradition: Continuity, Architecture, and the Material Grounds of Transformation in the Central Andes and Angkorian Cambodia",
       "summary": "Abstract In this paper, we reconsider the relationship between continuity and change in archaeology by arguing that material continuities do not necessarily imply conservatism or resistance to change but function as precondition for transformation. Drawing on Deleuze and…",
@@ -8827,63 +8723,12 @@
       ]
     },
     {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003962?dgcid=rss_sd_all",
-      "title": "A multi-analytical approach to fetal/neonatal birth trauma and possible metabolic stress in a Neolithic alpine mobility context (3932–3653 cal BCE)",
-      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Omar Larentis, Francesco Carrer, Fabio Cavulli",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26003962?dgcid=rss_sd_all",
+      "id": "sudouest-culture:https://www.sudouest.fr/charente-maritime/barzan/barzan-les-harmonies-de-la-jeunesse-ont-resonne-au-theatre-antique-du-fa-30101492.php",
+      "title": "Barzan : les harmonies de la jeunesse ont résonné au théâtre antique du Fâ",
+      "summary": "L’orchestre d’harmonie des Jeunes des Charentes a réuni près de cent spectateurs dans le cadre historique du site gallo-romain. La programmation culturelle se poursuit dès le dimanche 2 août avec la venue",
+      "url": "https://www.sudouest.fr/charente-maritime/barzan/barzan-les-harmonies-de-la-jeunesse-ont-resonne-au-theatre-antique-du-fa-30101492.php",
       "image": null,
-      "publishedAt": "2026-07-30T04:27:57.845Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26004062?dgcid=rss_sd_all",
-      "title": "Sourcing obsidian from Chogha Golan, an Aceramic Neolithic site in west-central Zagros, Iran",
-      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Mohsen Zeidi, Ellery Frahm, Nicholas J. Conard",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26004062?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-07-30T04:27:57.845Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003810?dgcid=rss_sd_all",
-      "title": "Ochre and hide-working during the early bronze age at Dhaskalio, central Cyclades: first insights from use-wear analysis",
-      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Diego Capra, Isabella Caricola, Giulio Lucarini, Giuseppina Mutri, Evi Margaritis, Michael J. Boyd, Colin Renfrew",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26003810?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-07-30T04:27:57.844Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "sudouest-culture:https://www.sudouest.fr/charente-maritime/barzan/barzan-la-grande-semaine-de-l-antiquite-fait-son-retour-au-site-archeologique-du-fa-avec-campement-romain-animations-et-spectacle-30092867.php",
-      "title": "Barzan : la Grande semaine de l’Antiquité fait son retour au site archéologique du Fâ avec campement romain, animations et spectacle",
-      "summary": "Du 3 au 7 août, le site archéologique du Fâ propose des reconstitutions, des ateliers d’artisanat et un spectacle son et lumière mettant en scène des légionnaires, des gladiateurs et des habitants barzanais",
-      "url": "https://www.sudouest.fr/charente-maritime/barzan/barzan-la-grande-semaine-de-l-antiquite-fait-son-retour-au-site-archeologique-du-fa-avec-campement-romain-animations-et-spectacle-30092867.php",
-      "image": null,
-      "publishedAt": "2026-07-29T17:52:00.000Z",
+      "publishedAt": "2026-07-31T04:45:00.000Z",
       "source": {
         "id": "sudouest-culture",
         "name": "Sud Ouest — Culture"
@@ -8893,6 +8738,166 @@
       "topics": [
         "erromatarrak"
       ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/descubren-un-complejo-termal-con-piscinas-circulares-de-epoca-ptolemaica-y-romana-en-el-este-del-delta-del-nilo",
+      "title": "Descubren un complejo termal con piscinas circulares de época ptolemaica y romana en el este del delta del Nilo",
+      "summary": "La misión arqueológica dependiente del Consejo Supremo de Antigüedades ha desvelado, en el transcurso de su primera campaña de excavaciones en la zona arqueológica de Tell Nasser, un complejo integral de instalaciones destinadas al baño que data de las épocas ptolemaica y…",
+      "url": "https://www.labrujulaverde.com/2026/07/descubren-un-complejo-termal-con-piscinas-circulares-de-epoca-ptolemaica-y-romana-en-el-este-del-delta-del-nilo",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/759391711_1457321733096035_825191687172223396_n.webp",
+      "publishedAt": "2026-07-30T15:48:15.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak",
+        "egiptoarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354821",
+      "title": "From manual counting to YOLO: Using computer vision to automate large-scale fecundity assays in C. elegans",
+      "summary": "by Linyao Peng, Hongyi Shui, Anne Nicole Janisch, Sarah Dede Hesse, Victoria Kathleen Feist, Amanda Kyle Gibson Fecundity measurements play a crucial role in life history research, providing insights into reproductive fitness, population dynamics, and environmental responses. In…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354821",
+      "image": null,
+      "publishedAt": "2026-07-30T14:00:00.000Z",
+      "source": {
+        "id": "plos-one-arch",
+        "name": "PLOS ONE — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "ekialde-hurbila"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/boccale-birra-preistorica-garda-scoperta/",
+      "title": "Bellissimo. Dal Lucone, in provincia di Brescia, recuperano ora un boccale di 4000 anni fa. Forse serviva per la prima birra del lago di Garda. La forma particolare. Che sapore aveva la bevanda? L’aroma alle erbe",
+      "summary": "Un boccale. Sì, un vero boccale, con una grande ansa a sesto acuto, robusta e al tempo stesso elegante, progettata per sostenere il peso del recipiente e del suo contenuto. È il primo ritrovamento avvenuto nelle ore iniziali della nuova campagna di scavo al Lucone di Polpenazze…",
+      "url": "https://www.stilearte.it/boccale-birra-preistorica-garda-scoperta/",
+      "image": null,
+      "publishedAt": "2026-07-30T13:32:03.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "aranzadi-bsky:https://bsky.app/profile/aranzadi.bsky.social/post/3mrukedldq62k",
+      "title": "",
+      "summary": "⛏️ Ezagutu gure komunitatea! Oihane Mendizabal Sandonís historialaria da. 2011n hasi zen Aranzadin boluntario gisa, eta gaur egun Pirinioetako Erromatar Galtzadaren proiektuan eta Zaldua, Donazaharre zein Artziko indusketetan dihardu.…",
+      "url": "https://bsky.app/profile/aranzadi.bsky.social/post/3mrukedldq62k",
+      "image": null,
+      "publishedAt": "2026-07-30T13:30:00.000Z",
+      "source": {
+        "id": "aranzadi-bsky",
+        "name": "Aranzadi (Bluesky)"
+      },
+      "lang": "eu",
+      "region": "basque",
+      "topics": [
+        "erromatarrak",
+        "asia"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/necropoli-iberica-annibale-tanit-alicante/",
+      "title": "Scoperta una necropoli di guerrieri dell’epoca di Annibale: armi, il volto di Tanit e un’élite militare sconosciuta. Chi erano questi combattenti, nemici dei Romani? Una dea condivisa con la Sardegna",
+      "summary": "Le spade erano state deposte accanto ai guerrieri, insieme a lance, giavellotti, finimenti per cavalli e preziosi oggetti di bronzo. Poco distante, una testa femminile modellata in terracotta custodiva ancora il bruciaprofumi destinato ai rituali sacri. Da oltre ventidue secoli…",
+      "url": "https://www.stilearte.it/necropoli-iberica-annibale-tanit-alicante/",
+      "image": null,
+      "publishedAt": "2026-07-30T12:30:00.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak",
+        "egiptoarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/egitto-scoperta-necropoli-tell-el-deir-stele-sarcofagi-amuleti/",
+      "title": "Ultim’ora | Nel Delta del Nilo riemerge dalla necropoli un piccolo tesoro archeologico: 20 stele funerarie antropomorfe, sarcofagi, amuleti e oggetti rituali. Il contatto con il mondo greco e quello romano",
+      "summary": "Non era un semplice luogo di sepoltura. La necropoli di Tell el-Deir, nella provincia egiziana di Damietta, si rivela oggi come un articolato centro funerario capace di raccontare l’evoluzione della società, della religione e dell’identità culturale del Delta del Nilo tra…",
+      "url": "https://www.stilearte.it/egitto-scoperta-necropoli-tell-el-deir-stele-sarcofagi-amuleti/",
+      "image": null,
+      "publishedAt": "2026-07-30T10:31:22.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak",
+        "egiptoarrak",
+        "greziarrak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/descubren-en-la-antigua-panonia-en-austria-dos-grandes-hornos-ceramicos-romanos-y-los-arqueologos-creen-que-hay-100-mas-bajo-tierra",
+      "title": "Descubren en la antigua Panonia en Austria dos grandes hornos cerámicos romanos y los arqueólogos creen que hay 100 más bajo tierra",
+      "summary": "La campaña de excavación docente que la Universidad de Viena desarrolla desde mediados de julio en el término municipal de Hannersdorf, en el distrito de Oberwart al sureste de Viena, ha sacado a la luz los restos de dos hornos de alfarero de época romana en los primeros quince…",
+      "url": "https://www.labrujulaverde.com/2026/07/descubren-en-la-antigua-panonia-en-austria-dos-grandes-hornos-ceramicos-romanos-y-los-arqueologos-creen-que-hay-100-mas-bajo-tierra",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/202608_Hamarneh_1.webp",
+      "publishedAt": "2026-07-30T09:55:17.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak",
+        "amerika",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/descubren-que-la-civilizacion-aquiry-habito-la-amazonia-suroccidental-con-millones-de-personas-durante-1500-anos-y-colapso-al-mismo-tiempo-que-los-mayas",
+      "title": "Descubren que la civilización Aquiry habitó la Amazonia suroccidental con millones de personas durante 1500 años y colapsó al mismo tiempo que los mayas",
+      "summary": "Un equipo internacional de investigadores ha documentado mediante escaneo láser aerotransportado la existencia de una extensa civilización multicultural que prosperó en la Amazonia suroccidental entre el 600 a.C. y el 850 d.C., y que albergó a millones de personas en su momento…",
+      "url": "https://www.labrujulaverde.com/2026/07/descubren-que-la-civilizacion-aquiry-habito-la-amazonia-suroccidental-con-millones-de-personas-durante-1500-anos-y-colapso-al-mismo-tiempo-que-los-mayas",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/Aquiry3_0.jpg.webp",
+      "publishedAt": "2026-07-30T08:40:46.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "amerika",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/son-adn-revele-que-le-chamane-de-stonehenge-etait-une-femme_194004?xtor=RSS-4",
+      "title": "Le “chamane de Stonehenge“ n'était pas celui auquel on pensait",
+      "summary": "Deux siècles durant, on a cru qu’un chamane métallurgiste avait été inhumé dans le tumulus d’Upton Lovell, à moins de 20 kilomètres de Stonehenge. Mais une analyse de son ADN révèle aujourd’hui une tout autre histoire.",
+      "url": "https://www.sciencesetavenir.fr/archeo-paleo/son-adn-revele-que-le-chamane-de-stonehenge-etait-une-femme_194004?xtor=RSS-4",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/07/29/cover-r4x3w1200-6a6a6a08c564b-wiltshire-museum-upton-lovell-chamane.jpg",
+      "publishedAt": "2026-07-30T08:20:16.000Z",
+      "source": {
+        "id": "sciencesetavenir-archeo",
+        "name": "Sciences et Avenir — Archéo & Paléo"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
     }
   ]
 }
