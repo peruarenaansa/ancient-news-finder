@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T04:47:07.759Z",
+  "generatedAt": "2026-08-02T04:49:15.041Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5945
+      "elapsedMs": 5819
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 680
+      "elapsedMs": 775
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 4144
+      "elapsedMs": 1018
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 694
+      "elapsedMs": 778
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3128
+      "elapsedMs": 2992
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 8,
       "droppedOffTopic": 22,
       "droppedModern": 0,
-      "elapsedMs": 3141
+      "elapsedMs": 3027
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1305
+      "elapsedMs": 1225
     },
     {
       "id": "labrujulaverde",
@@ -98,10 +98,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 13,
+      "kept": 14,
       "droppedOffTopic": 1,
-      "droppedModern": 6,
-      "elapsedMs": 1811
+      "droppedModern": 5,
+      "elapsedMs": 1653
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 7,
       "droppedOffTopic": 3,
       "droppedModern": 2,
-      "elapsedMs": 1171
+      "elapsedMs": 1196
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 813
+      "elapsedMs": 749
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 947
+      "elapsedMs": 1027
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 10,
       "droppedOffTopic": 8,
       "droppedModern": 2,
-      "elapsedMs": 1571
+      "elapsedMs": 1392
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +162,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 19,
-      "kept": 7,
+      "fetched": 17,
+      "kept": 5,
       "droppedOffTopic": 11,
       "droppedModern": 1,
-      "elapsedMs": 1446
+      "elapsedMs": 1104
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +179,7 @@
       "kept": 4,
       "droppedOffTopic": 15,
       "droppedModern": 4,
-      "elapsedMs": 3141
+      "elapsedMs": 3119
     },
     {
       "id": "sudouest-culture",
@@ -192,7 +192,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1505
+      "elapsedMs": 1283
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2069
+      "elapsedMs": 1939
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 1,
       "droppedOffTopic": 1,
       "droppedModern": 8,
-      "elapsedMs": 1878
+      "elapsedMs": 1967
     },
     {
       "id": "stilearte",
@@ -231,7 +231,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2016
+      "elapsedMs": 2078
     },
     {
       "id": "live-science-arch",
@@ -244,7 +244,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2969
+      "elapsedMs": 2917
     },
     {
       "id": "bbc-history",
@@ -257,7 +257,7 @@
       "kept": 1,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1750
+      "elapsedMs": 1873
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +270,7 @@
       "kept": 12,
       "droppedOffTopic": 18,
       "droppedModern": 0,
-      "elapsedMs": 1974
+      "elapsedMs": 1862
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 4,
       "droppedOffTopic": 5,
       "droppedModern": 1,
-      "elapsedMs": 1895
+      "elapsedMs": 1780
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 13,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 2283
+      "elapsedMs": 2218
     },
     {
       "id": "current-archaeology",
@@ -306,10 +306,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 18,
-      "droppedOffTopic": 11,
-      "droppedModern": 1,
-      "elapsedMs": 1907
+      "kept": 14,
+      "droppedOffTopic": 14,
+      "droppedModern": 2,
+      "elapsedMs": 1887
     },
     {
       "id": "jas-reports",
@@ -322,7 +322,7 @@
       "kept": 6,
       "droppedOffTopic": 5,
       "droppedModern": 19,
-      "elapsedMs": 1966
+      "elapsedMs": 1911
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +335,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2269
+      "elapsedMs": 2070
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 20,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 2591
+      "elapsedMs": 2538
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +361,7 @@
       "kept": 7,
       "droppedOffTopic": 3,
       "droppedModern": 20,
-      "elapsedMs": 2146
+      "elapsedMs": 1992
     },
     {
       "id": "spal-us",
@@ -374,7 +374,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2870
+      "elapsedMs": 2843
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +387,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 4173
+      "elapsedMs": 4050
     },
     {
       "id": "archeoarte",
@@ -400,7 +400,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2837
+      "elapsedMs": 2719
     },
     {
       "id": "cypsela",
@@ -413,7 +413,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3200
+      "elapsedMs": 2844
     },
     {
       "id": "cambridge-antiquity",
@@ -426,7 +426,7 @@
       "kept": 20,
       "droppedOffTopic": 2,
       "droppedModern": 8,
-      "elapsedMs": 2612
+      "elapsedMs": 2670
     },
     {
       "id": "cambridge-caj",
@@ -439,7 +439,7 @@
       "kept": 19,
       "droppedOffTopic": 6,
       "droppedModern": 5,
-      "elapsedMs": 2752
+      "elapsedMs": 2784
     },
     {
       "id": "cambridge-ejarc",
@@ -452,7 +452,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 2624
+      "elapsedMs": 2613
     },
     {
       "id": "aquitania-persee",
@@ -465,7 +465,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3563
+      "elapsedMs": 3497
     },
     {
       "id": "cuadernos-arq-unav",
@@ -478,7 +478,7 @@
       "kept": 20,
       "droppedOffTopic": 2,
       "droppedModern": 8,
-      "elapsedMs": 4954
+      "elapsedMs": 4616
     },
     {
       "id": "veleia-ehu",
@@ -491,7 +491,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3890
+      "elapsedMs": 4018
     },
     {
       "id": "flv-navarra",
@@ -504,7 +504,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 3065
+      "elapsedMs": 2899
     },
     {
       "id": "munibe-aa",
@@ -517,7 +517,7 @@
       "kept": 17,
       "droppedOffTopic": 4,
       "droppedModern": 9,
-      "elapsedMs": 3018
+      "elapsedMs": 3006
     },
     {
       "id": "trabajos-prehistoria",
@@ -530,7 +530,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 3081
+      "elapsedMs": 2951
     },
     {
       "id": "openalex-archaeology",
@@ -543,7 +543,7 @@
       "kept": 14,
       "droppedOffTopic": 8,
       "droppedModern": 8,
-      "elapsedMs": 3052
+      "elapsedMs": 2793
     }
   ],
   "items": [
@@ -8726,6 +8726,125 @@
       ]
     },
     {
+      "id": "current-archaeology:https://the-past.com/review/books/the-archaeology-of-industrial-cheshire-in-20-digs/",
+      "title": "The Archaeology of Industrial Cheshire in 20 Digs",
+      "summary": "The Archaeology of Industrial Cheshire in 20 Digs is a well-illustrated introduction to Cheshire’s industrial past. Each concise chapter combines documentary evidence with excavation results to trace the development of the county’s",
+      "url": "https://the-past.com/review/books/the-archaeology-of-industrial-cheshire-in-20-digs/",
+      "image": null,
+      "publishedAt": "2026-08-01T13:15:00.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "asia",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/review/whats-on/museum-news-39/",
+      "title": "Museum news",
+      "summary": "The latest on acquisitions, exhibitions, and key decisions.",
+      "url": "https://the-past.com/review/whats-on/museum-news-39/",
+      "image": null,
+      "publishedAt": "2026-08-01T12:00:00.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "museoak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/relitto-antico-andros-600-anfore-grecia/",
+      "title": "Ultim’ora archeologia – Grecia, scoperto un antico relitto al largo di Andros: trasportava oltre 600 anfore di tre tipologie diverse. Cosa resta della nave antica e della sua storia?",
+      "summary": "Un antico mercantile, affondato tra la fine del V e l’inizio del IV secolo a.C., è stato individuato nelle acque dell’isola greca di Andros. Il relitto giace a una profondità compresa tra 39 e 44 metri e conserva un eccezionale carico di circa 600-650 anfore commerciali. La…",
+      "url": "https://www.stilearte.it/relitto-antico-andros-600-anfore-grecia/",
+      "image": null,
+      "publishedAt": "2026-08-01T10:40:15.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "greziarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/scoperta-erebuni-dipinto-murale-colori-vividi-2600-anni/",
+      "title": "Un team di archeologi fa una scoperta sensazionale a Erebuni. Scavano. L’emozione: “I colori del dipinto murario sono incredibilmente vividi dopo oltre 2.600 anni”. Com’è possibile? Le risposte degli archeologi",
+      "summary": "Per più di ventisei secoli è rimasto al buio, schiacciato sotto terra e detriti. Nessuno lo guardava, nessuno poteva immaginare che fosse ancora lì. Poi, a Erebuni, gli archeologi hanno raggiunto una parete antica: non una superficie spenta, non il ricordo sbiadito di un colore,…",
+      "url": "https://www.stilearte.it/scoperta-erebuni-dipinto-murale-colori-vividi-2600-anni/",
+      "image": null,
+      "publishedAt": "2026-08-01T10:20:27.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/08/encuentran-en-la-costa-de-la-isla-de-andros-un-naufragio-de-los-siglos-v-iv-ac-con-un-cargamento-de-anforas-con-vino-de-las-islas-del-norte-y-del-bosforo",
+      "title": "Encuentran en la costa de la isla de Andros un naufragio de los siglos V-IV a.C. con un cargamento de ánforas con vino de las islas del norte y del Bósforo",
+      "summary": "El Eforado de Antigüedades Subacuáticas, dependiente del Ministerio de Cultura de Grecia, ha completado una inspección oficial en un punto del litoral marítimo de la isla de Andros tras la indicación de un particular que alertó sobre la presencia de restos arqueológicos en el…",
+      "url": "https://www.labrujulaverde.com/2026/08/encuentran-en-la-costa-de-la-isla-de-andros-un-naufragio-de-los-siglos-v-iv-ac-con-un-cargamento-de-anforas-con-vino-de-las-islas-del-norte-y-del-bosforo",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/08/3.-anforas-comerciales-de-fondo-puntiagudo.-Detalle-del-cargamento-del-barco.webp",
+      "publishedAt": "2026-08-01T09:35:55.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "greziarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/strada-romana-limes-germanico-autostrada-a8/",
+      "title": "La scoperta | Sotto l’autostrada moderna correva già una strada romana! In Germania riaffiora il percorso scelto dagli ingegneri di Roma quasi 2.000 anni fa. E da noi? L’Italia ha sempre sfruttato le infrastrutture antiche",
+      "summary": "Ogni giorno migliaia di automobili percorrono l’autostrada A8, una delle arterie più trafficate della Germania meridionale. Pochi immaginano che, sotto l’asfalto, si nasconda una storia lunga quasi duemila anni. Molto prima dei camion, delle aree di servizio e degli svincoli,…",
+      "url": "https://www.stilearte.it/strada-romana-limes-germanico-autostrada-a8/",
+      "image": null,
+      "publishedAt": "2026-08-01T09:31:49.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/08/descubren-un-tramo-de-la-calzada-romana-que-conectaba-las-fortificaciones-del-limes-germanico-bajo-el-trazado-de-la-autovia-a8-en-alemania",
+      "title": "Descubren un tramo de la calzada romana que conectaba las fortificaciones del Limes Germánico bajo el trazado de la autovía A8 en Alemania",
+      "summary": "Las obras de la nueva variante de la autovía A8 en el conocido como Albaufstieg, al sur de Stuttgart (Alemania), han dejado al descubierto un vestigio arqueológico de primer orden: un segmento de la antigua vía romana que, hace dos milenios, articulaba la defensa y el comercio…",
+      "url": "https://www.labrujulaverde.com/2026/08/descubren-un-tramo-de-la-calzada-romana-que-conectaba-las-fortificaciones-del-limes-germanico-bajo-el-trazado-de-la-autovia-a8-en-alemania",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/Abb.-22.webp",
+      "publishedAt": "2026-08-01T08:39:39.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "erromatarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
       "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326001901?dgcid=rss_sd_all",
       "title": "Unpacking the burnt building: 3D spatial analysis challenges single-event interpretations of prehistoric house conflagration",
       "summary": "Publication date: September 2026 Source: Journal of Archaeological Science, Volume 193 Author(s): Victor Klinkenberg, Marina Gavryushkina, Maria Hadjigavriel",
@@ -8774,122 +8893,6 @@
       "region": "europe",
       "topics": [
         "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26004062?dgcid=rss_sd_all",
-      "title": "Sourcing obsidian from Chogha Golan, an Aceramic Neolithic site in west-central Zagros, Iran",
-      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Mohsen Zeidi, Ellery Frahm, Nicholas J. Conard",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26004062?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-08-01T04:47:03.797Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/descubren-una-de-las-mas-antiguas-tumbas-de-gigantes-en-el-yacimiento-arqueologico-de-carrarzu-iddia-en-cerdena",
-      "title": "Descubren una de las más antiguas Tumbas de Gigantes en el yacimiento arqueológico de Carrarzu Iddia, en Cerdeña",
-      "summary": "Las tareas de reconocimiento arqueológico desarrolladas en el área de Carrarzu Iddia, en el término municipal de Bortigali en el centro-oeste de Cerdeña, han culminado con el descubrimiento de una nueva Tumba de Gigantes que hasta ahora permanecía completamente oculta por la…",
-      "url": "https://www.labrujulaverde.com/2026/07/descubren-una-de-las-mas-antiguas-tumbas-de-gigantes-en-el-yacimiento-arqueologico-de-carrarzu-iddia-en-cerdena",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/IMG_2887-1-scaled-1.webp",
-      "publishedAt": "2026-07-31T14:05:15.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "bbc-history:https://www.historyextra.com/period/roman/ancient-roman-shopaholics-empire-connected-trade/",
-      "title": "The ancient Romans thrived on consumerism. Here's what was on their shopping lists",
-      "summary": "Ordinary Romans were spending money their expendable money in pursuit of something very familiar: fitting in",
-      "url": "https://www.historyextra.com/period/roman/ancient-roman-shopaholics-empire-connected-trade/",
-      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/07/GettyImages-494798544-fd42ccc-e1785504056167.jpg",
-      "publishedAt": "2026-07-31T13:33:04.000Z",
-      "source": {
-        "id": "bbc-history",
-        "name": "BBC History Extra"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "erromatarrak",
-        "ekialde-hurbila"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/pulisciunghie-romano-fallo-britannia-romana/",
-      "title": "Scoprono un oggetto romano di 1.600 anni con un’insolita impugnatura a forma di fallo. Di cosa si tratta? Quale significato aveva questo simbolo?",
-      "summary": "Un piccolo oggetto in lega di rame, emerso dagli scavi archeologici nei pressi di Cheltenham, nella contea inglese del Gloucestershire, circa 150 chilometri a ovest di Londra, sta offrendo nuovi elementi sulla vita quotidiana nella Britannia romana. L’impugnatura riproduce un…",
-      "url": "https://www.stilearte.it/pulisciunghie-romano-fallo-britannia-romana/",
-      "image": null,
-      "publishedAt": "2026-07-31T11:11:16.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/encuentran-en-bochum-una-aldea-de-la-edad-del-hierro-con-un-extrano-foso-que-desconcierta-a-los-arqueologos",
-      "title": "Encuentran en Bochum una aldea de la Edad del Hierro con un extraño foso que desconcierta a los arqueólogos",
-      "summary": "Un equipo de arqueólogos del Landschaftsverband Westfalen-Lippe (LWL), en colaboración con una empresa especializada, ha confirmado la existencia de la que se considera la primera evidencia de ocupación prehistórica en el municipio alemán de Bochum. El hallazgo se produce en una…",
-      "url": "https://www.labrujulaverde.com/2026/07/encuentran-en-bochum-una-aldea-de-la-edad-del-hierro-con-un-extrano-foso-que-desconcierta-a-los-arqueologos",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/114265.webp",
-      "publishedAt": "2026-07-31T10:12:22.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/descifran-626-marcas-de-canteros-en-las-torres-de-una-puerta-de-las-murallas-de-la-antigua-ciudad-griega-de-ptolemaida-en-libia",
-      "title": "Descifran 626 marcas de canteros en las torres de una puerta de las murallas de la antigua ciudad griega de Ptolemaida en Libia",
-      "summary": "Las paredes de piedra de la puerta de Tauchira, en la antigua ciudad de Ptolemaida (actual Libia), guardan desde hace más de dos mil años un registro mudo de la actividad de sus constructores. Se trata de 626 marcas de cantero grabadas en los bloques de caliza que forman esta…",
-      "url": "https://www.labrujulaverde.com/2026/07/descifran-626-marcas-de-canteros-en-las-torres-de-una-puerta-de-las-murallas-de-la-antigua-ciudad-griega-de-ptolemaida-en-libia",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/urn-cambridge.org-id-binary-alt-20260729073534-66437-optimisedImage-png-S1461957126100382_fig2.jpg.webp",
-      "publishedAt": "2026-07-31T08:43:55.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/fornaci-romane-hannersdorf-burgenland-austria/",
-      "title": "Vicino a un campeggio trovano due fornaci romane. Gli archeologi indagano: nel sottosuolo potrebbero esserci oltre cento strutture ancora sepolte",
-      "summary": "Potrebbero essere oltre cento le fornaci romane ancora sepolte sotto un campo agricolo del Burgenland, nell’Austria orientale. Per ora gli archeologi dell’Università di Vienna ne hanno individuate due, complete delle fosse di lavoro e circondate da migliaia di frammenti…",
-      "url": "https://www.stilearte.it/fornaci-romane-hannersdorf-burgenland-austria/",
-      "image": null,
-      "publishedAt": "2026-07-31T08:39:44.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
       ]
     }
   ]
