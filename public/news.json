@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T02:37:35.761Z",
+  "generatedAt": "2026-08-18T02:33:03.669Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5399
+      "elapsedMs": 9240
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 983
+      "elapsedMs": 5249
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1211
+      "elapsedMs": 1356
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 926
+      "elapsedMs": 1094
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2327
+      "elapsedMs": 6309
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 7,
       "droppedOffTopic": 23,
       "droppedModern": 0,
-      "elapsedMs": 2287
+      "elapsedMs": 6378
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1328
+      "elapsedMs": 1787
     },
     {
       "id": "labrujulaverde",
@@ -96,9 +96,12 @@
       "lang": "es",
       "region": "world",
       "kind": "news",
-      "ok": false,
-      "error": "Status code 415",
-      "elapsedMs": 5695
+      "ok": true,
+      "fetched": 20,
+      "kept": 15,
+      "droppedOffTopic": 1,
+      "droppedModern": 4,
+      "elapsedMs": 2338
     },
     {
       "id": "desperta-ferro",
@@ -111,7 +114,7 @@
       "kept": 6,
       "droppedOffTopic": 4,
       "droppedModern": 2,
-      "elapsedMs": 1042
+      "elapsedMs": 2328
     },
     {
       "id": "elpais-cultura",
@@ -124,7 +127,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1467
+      "elapsedMs": 1568
     },
     {
       "id": "lemonde-sciences",
@@ -137,7 +140,7 @@
       "kept": 1,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 851
+      "elapsedMs": 1649
     },
     {
       "id": "lemonde-archeo",
@@ -147,10 +150,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 8,
-      "droppedOffTopic": 9,
+      "kept": 7,
+      "droppedOffTopic": 10,
       "droppedModern": 3,
-      "elapsedMs": 1591
+      "elapsedMs": 2026
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -163,7 +166,7 @@
       "kept": 3,
       "droppedOffTopic": 14,
       "droppedModern": 1,
-      "elapsedMs": 1256
+      "elapsedMs": 1960
     },
     {
       "id": "inrap-bsky",
@@ -176,7 +179,7 @@
       "kept": 5,
       "droppedOffTopic": 15,
       "droppedModern": 4,
-      "elapsedMs": 2287
+      "elapsedMs": 6385
     },
     {
       "id": "sudouest-culture",
@@ -186,10 +189,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 1,
-      "droppedOffTopic": 19,
+      "kept": 0,
+      "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1096
+      "elapsedMs": 2149
     },
     {
       "id": "corriere-cultura",
@@ -202,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1946
+      "elapsedMs": 2776
     },
     {
       "id": "archeologiaviva",
@@ -215,7 +218,7 @@
       "kept": 2,
       "droppedOffTopic": 1,
       "droppedModern": 7,
-      "elapsedMs": 2161
+      "elapsedMs": 3401
     },
     {
       "id": "stilearte",
@@ -225,10 +228,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 8,
+      "kept": 9,
       "droppedOffTopic": 0,
-      "droppedModern": 2,
-      "elapsedMs": 2131
+      "droppedModern": 1,
+      "elapsedMs": 3450
     },
     {
       "id": "live-science-arch",
@@ -238,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 4,
-      "droppedOffTopic": 26,
+      "kept": 5,
+      "droppedOffTopic": 25,
       "droppedModern": 0,
-      "elapsedMs": 2234
+      "elapsedMs": 6337
     },
     {
       "id": "bbc-history",
@@ -251,10 +254,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 0,
-      "droppedOffTopic": 10,
+      "kept": 1,
+      "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1892
+      "elapsedMs": 3144
     },
     {
       "id": "sciencedaily-arch",
@@ -264,10 +267,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 17,
-      "droppedOffTopic": 13,
+      "kept": 18,
+      "droppedOffTopic": 12,
       "droppedModern": 0,
-      "elapsedMs": 1614
+      "elapsedMs": 3316
     },
     {
       "id": "ancient-origins",
@@ -280,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1702
+      "elapsedMs": 7011
     },
     {
       "id": "guardian-arch",
@@ -293,7 +296,7 @@
       "kept": 11,
       "droppedOffTopic": 7,
       "droppedModern": 2,
-      "elapsedMs": 1872
+      "elapsedMs": 5049
     },
     {
       "id": "current-archaeology",
@@ -303,10 +306,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 19,
-      "droppedOffTopic": 8,
+      "kept": 20,
+      "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 1606
+      "elapsedMs": 4791
     },
     {
       "id": "jas-reports",
@@ -319,7 +322,7 @@
       "kept": 7,
       "droppedOffTopic": 2,
       "droppedModern": 21,
-      "elapsedMs": 1560
+      "elapsedMs": 4882
     },
     {
       "id": "plos-one-arch",
@@ -329,10 +332,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 0,
-      "droppedOffTopic": 30,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1689
+      "elapsedMs": 5104
     },
     {
       "id": "pnas-arch",
@@ -345,7 +348,7 @@
       "kept": 20,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 2399
+      "elapsedMs": 5605
     },
     {
       "id": "sciencedirect-jas",
@@ -358,7 +361,7 @@
       "kept": 7,
       "droppedOffTopic": 3,
       "droppedModern": 20,
-      "elapsedMs": 1634
+      "elapsedMs": 5068
     },
     {
       "id": "spal-us",
@@ -371,7 +374,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2506
+      "elapsedMs": 5973
     },
     {
       "id": "complutum-ucm",
@@ -384,7 +387,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 3658
+      "elapsedMs": 7482
     },
     {
       "id": "archeoarte",
@@ -397,7 +400,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2394
+      "elapsedMs": 5943
     },
     {
       "id": "cypsela",
@@ -410,7 +413,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2212
+      "elapsedMs": 6016
     },
     {
       "id": "cambridge-antiquity",
@@ -423,7 +426,7 @@
       "kept": 21,
       "droppedOffTopic": 3,
       "droppedModern": 6,
-      "elapsedMs": 2301
+      "elapsedMs": 5898
     },
     {
       "id": "cambridge-caj",
@@ -436,7 +439,7 @@
       "kept": 19,
       "droppedOffTopic": 5,
       "droppedModern": 6,
-      "elapsedMs": 2427
+      "elapsedMs": 5938
     },
     {
       "id": "cambridge-ejarc",
@@ -449,7 +452,7 @@
       "kept": 16,
       "droppedOffTopic": 5,
       "droppedModern": 9,
-      "elapsedMs": 2310
+      "elapsedMs": 5907
     },
     {
       "id": "aquitania-persee",
@@ -462,7 +465,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3325
+      "elapsedMs": 6740
     },
     {
       "id": "cuadernos-arq-unav",
@@ -475,7 +478,7 @@
       "kept": 20,
       "droppedOffTopic": 2,
       "droppedModern": 8,
-      "elapsedMs": 3331
+      "elapsedMs": 7649
     },
     {
       "id": "veleia-ehu",
@@ -488,7 +491,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3225
+      "elapsedMs": 7243
     },
     {
       "id": "flv-navarra",
@@ -501,7 +504,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2434
+      "elapsedMs": 6180
     },
     {
       "id": "munibe-aa",
@@ -514,7 +517,7 @@
       "kept": 17,
       "droppedOffTopic": 4,
       "droppedModern": 9,
-      "elapsedMs": 2338
+      "elapsedMs": 6215
     },
     {
       "id": "trabajos-prehistoria",
@@ -527,7 +530,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 2408
+      "elapsedMs": 6232
     },
     {
       "id": "openalex-archaeology",
@@ -540,7 +543,7 @@
       "kept": 16,
       "droppedOffTopic": 8,
       "droppedModern": 6,
-      "elapsedMs": 2445
+      "elapsedMs": 6222
     }
   ],
   "items": [
@@ -4844,6 +4847,218 @@
       ]
     },
     {
+      "id": "bbc-history:https://www.historyextra.com/period/ancient-greece/zeus-law-moral-code-odyssey-christopher-nolan/",
+      "title": "What is 'Zeus's Law'? The ancient moral code of The Odyssey explained",
+      "summary": "Behaving well as a host or visitor wasn’t just a matter of etiquette for the ancient Greeks – it was a sacred duty. Hilary Mitchell explores xenia, the ancient code of hospitality at the heart of Christopher Nolan’s The Odyssey",
+      "url": "https://www.historyextra.com/period/ancient-greece/zeus-law-moral-code-odyssey-christopher-nolan/",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/08/CT-04168MSGCROP-baf9146-e1787008012511.jpg",
+      "publishedAt": "2026-08-18T00:00:47.000Z",
+      "source": {
+        "id": "bbc-history",
+        "name": "BBC History Extra"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "greziarrak"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/feature/the-great-carnelian-mystery/",
+      "title": "The great carnelian mystery",
+      "summary": "James A Harrell looks into the uncertain origins of ancient Egypt’s most popular gemstone: carnelian.",
+      "url": "https://the-past.com/feature/the-great-carnelian-mystery/",
+      "image": null,
+      "publishedAt": "2026-08-17T16:00:43.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/middle-east/1-700-year-old-church-discovered-under-a-lake-in-turkey-may-be-the-location-of-the-first-council-of-nicaea-but-other-experts-disagree",
+      "title": "1,700-year-old church discovered under a lake in Turkey may be the location of the First Council of Nicaea — but other experts disagree",
+      "summary": "A small church discovered beneath a larger one may have hosted one of the most important meetings in the history of Christianity, but some scholars not involved with the excavation disagree.",
+      "url": "https://www.livescience.com/archaeology/middle-east/1-700-year-old-church-discovered-under-a-lake-in-turkey-may-be-the-location-of-the-first-council-of-nicaea-but-other-experts-disagree",
+      "image": "https://cdn.mos.cms.futurecdn.net/CSnvHoHzuHnjSbELg9FzM5-1280-80.png",
+      "publishedAt": "2026-08-17T15:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/08/encuentran-a-mas-de-60-metros-bajo-el-fondo-marino-en-taiwan-los-restos-de-un-gigante-denisovano-que-desafia-las-reglas-de-la-evolucion-humana",
+      "title": "Encuentran a más de 60 metros bajo el fondo marino en Taiwán los restos de un «gigante» denisovano que desafía las reglas de la evolución humana",
+      "summary": "Un equipo internacional de investigadores ha identificado dos huesos de pierna hallados en el Canal de Penghu, Taiwán, como pertenecientes a denisovanos, un grupo extinto de homínidos primos de los neandertales. Los fósiles, que datan de hace aproximadamente 45.000 años, revelan…",
+      "url": "https://www.labrujulaverde.com/2026/08/encuentran-a-mas-de-60-metros-bajo-el-fondo-marino-en-taiwan-los-restos-de-un-gigante-denisovano-que-desafia-las-reglas-de-la-evolucion-humana",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/08/F2.large_.webp",
+      "publishedAt": "2026-08-17T14:32:56.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "amerika"
+      ]
+    },
+    {
+      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355687",
+      "title": "Redefining the design innovation process: Embedding sustainability through AI-generated camping cookware",
+      "summary": "by Guanfang Weng, Chunlei Xu, Jeremy Cenci, Dongmei Peng, Mingjie Shen, Jiazhen Zhang With the increasing interest in glamping, the demand for more functional camping cookware has grown, driving innovation in its design. This study aims to explore innovative solutions for…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355687",
+      "image": null,
+      "publishedAt": "2026-08-17T14:00:00.000Z",
+      "source": {
+        "id": "plos-one-arch",
+        "name": "PLOS ONE — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "ekialde-hurbila"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/scarpe-oro-donna-potente-kazakistan-1500-anni/",
+      "title": "“Sono scarpette d’oro?”. Il terreno scintilla durante lo scavo. Splendide. Appartenevano al meraviglioso corredo di una giovane donna potente. Magnificenza ed eleganza di 1.500 anni fa e una manifattura regale. Le indossava davvero?",
+      "summary": "Il terreno restituisce un bagliore inatteso. Gli archeologi scavano e tra i resti della sepoltura compaiono sottili elementi dorati. Sono le decorazioni di un paio di calzature appartenute alla tomba di una giovane donna di alto rango. Siamo nel Kazakistan occidentale, sulle…",
+      "url": "https://www.stilearte.it/scarpe-oro-donna-potente-kazakistan-1500-anni/",
+      "image": null,
+      "publishedAt": "2026-08-17T13:08:02.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/08/260815064811.htm",
+      "title": "Tiny 1.7-billion-year-old fossils could reveal how complex life began",
+      "summary": "Scientists are searching some of Earth’s oldest rocks for tiny fossils that could reveal how simple microbial life made the extraordinary leap toward plants, animals, and other complex organisms. Solving that ancient mystery may also help determine whether complex life could…",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260815064811.htm",
+      "image": null,
+      "publishedAt": "2026-08-17T12:40:17.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/shorts/the-picture-desk/the-osirion-at-abydos-a-cenotaph-for-sety-i/",
+      "title": "The Osirion at Abydos: A cenotaph for Sety I",
+      "summary": "The Osirion is one of the most intriguing New Kingdom monuments. It is located behind the Sety I temple at Abydos, the burial place of Osiris. Now open to the sky, this",
+      "url": "https://the-past.com/shorts/the-picture-desk/the-osirion-at-abydos-a-cenotaph-for-sety-i/",
+      "image": null,
+      "publishedAt": "2026-08-17T10:00:57.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/fire-flame-vessel-an-exquisitely-crafted-4-500-year-old-pot-from-a-mysterious-culture-in-japan",
+      "title": "Fire-flame vessel: An exquisitely crafted 4,500-year-old pot from a mysterious culture in Japan",
+      "summary": "Archaeologists aren't sure why prehistoric people in Japan made these elaborate vessels decorated with flames.",
+      "url": "https://www.livescience.com/archaeology/fire-flame-vessel-an-exquisitely-crafted-4-500-year-old-pot-from-a-mysterious-culture-in-japan",
+      "image": "https://cdn.mos.cms.futurecdn.net/PdzPmJD8S4dpJyoZbgdQ4T-1280-80.png",
+      "publishedAt": "2026-08-17T10:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "asia"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/ramat-gan-citta-scomparsa-scoperta-archeologica-1300-anni/",
+      "title": "“Fermate gli scavi”. Sotto il parcheggio di uno stadio riaffiora una città scomparsa: strade, botteghe e fornaci di 1.300 anni fa",
+      "summary": "Per mille anni nessuno ha avuto bisogno di parcheggiare qui. Sotto il terreno del Winter Stadium di Ramat Gan, in Israele, non c’era infatti un parcheggio ma una piccola città che lavorava, produceva e commerciava. Gli archeologi l’hanno appena riportata alla luce: un reticolo…",
+      "url": "https://www.stilearte.it/ramat-gan-citta-scomparsa-scoperta-archeologica-1300-anni/",
+      "image": null,
+      "publishedAt": "2026-08-17T09:39:04.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/08/bacterias-de-ocho-millones-de-anos-reviven-en-el-hielo-antartico-y-el-debate-sobre-la-teoria-de-la-panspermia",
+      "title": "Bacterias de ocho millones de años reviven en el hielo antártico y el debate sobre la teoría de la panspermia",
+      "summary": "En los valles secos de las montañas Transantárticas hay hielo que lleva congelado desde antes de que el género Homo existiera sobre la Tierra. Un equipo de la Universidad Rutgers, encabezado por el biogeoquímico Kay D. Bidle, perforó ese hielo, extrajo microorganismos atrapados…",
+      "url": "https://www.labrujulaverde.com/2026/08/bacterias-de-ocho-millones-de-anos-reviven-en-el-hielo-antartico-y-el-debate-sobre-la-teoria-de-la-panspermia",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/08/1280px-Mt_Herschel_Antarctica_Jan_2006.webp",
+      "publishedAt": "2026-08-17T06:29:49.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/08/descubren-una-particula-que-se-compone-solo-de-fuerza-confirman-la-existencia-de-un-estado-de-la-materia-hasta-ahora-desconocido",
+      "title": "Descubren una partícula que se compone solo de fuerza: confirman la existencia de un estado de la materia hasta ahora desconocido",
+      "summary": "Durante más de medio siglo, la física de partículas ha perseguido una de las predicciones más esquivas y fascinantes de la cromodinámica cuántica (QCD), la teoría que describe la fuerza nuclear fuerte. Se trataba de una partícula hipotética compuesta casi en su totalidad por…",
+      "url": "https://www.labrujulaverde.com/2026/08/descubren-una-particula-que-se-compone-solo-de-fuerza-confirman-la-existencia-de-un-estado-de-la-materia-hasta-ahora-desconocido",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/08/Imagen-JPEG-1.webp",
+      "publishedAt": "2026-08-16T17:54:53.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/08/los-emperadores-romanos-si-planificaban-el-futuro-de-sus-dinastias-segun-un-estudio",
+      "title": "Los emperadores romanos sí planificaban el futuro de sus dinastías, según un estudio",
+      "summary": "¿Fueron los emperadores romanos simples improvisadores que esperaban a ver qué pasaba tras su muerte? ¿O planificaron con cuidado el futuro de sus dinastías, pensando no solo en su sucesor inmediato sino en varias generaciones venideras? Un nuevo estudio publicado en el Bulletin…",
+      "url": "https://www.labrujulaverde.com/2026/08/los-emperadores-romanos-si-planificaban-el-futuro-de-sus-dinastias-segun-un-estudio",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/08/The_Triumph_of_Titus_Alma_Tadema.webp",
+      "publishedAt": "2026-08-16T07:00:00.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
       "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326001913?dgcid=rss_sd_all",
       "title": "Ancient Maya settlement abandonment and climate instability in Belize (700–1600 CE): A spatial analysis of adaptive resilience",
       "summary": "Publication date: September 2026 Source: Journal of Archaeological Science, Volume 193 Author(s): Alec McLellan, Sarah E. Metcalfe, Elizabeth A.C. Rushton, Pete D. Akers, Betsabé de la Barreda Bautista, Sofia Márdero, Oriol Ambrogio Gali, Franziska Schrodt, Georgina H. Endfield",
@@ -8696,214 +8911,6 @@
       "topics": [
         "prehistoria"
       ]
-    },
-    {
-      "id": "cambridge-caj:https://openalex.org/W7154081846",
-      "title": "Kinship Analysis in Specified Contexts: When Interdisciplinary Cooperation is Too Narrow, Results Tend to be Misleading",
-      "summary": "Abstract Kinship studies recently have been going through a new wave of attraction in archaeogenetics and archaeology. Interdisciplinary cooperation remains an important challenge in these endeavours. Any research that requires interdisciplinary efforts will lead to reductive…",
-      "url": "https://doi.org/10.1017/s0959774326100390",
-      "image": null,
-      "publishedAt": "2026-04-14T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-caj",
-        "name": "Cambridge Archaeological Journal"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "cambridge-caj:https://openalex.org/W7154178906",
-      "title": "Commentary: Leaning In to Kinship Trouble",
-      "summary": "Abstract In this commentary, I approach ‘kinship trouble’ as a cultural and medical anthropologist with two decades of ethnographic and collaborative engagement with genetics, and as someone deeply committed to and interested in interdisciplinary collaboration. From this…",
-      "url": "https://doi.org/10.1017/s095977432610047x",
-      "image": null,
-      "publishedAt": "2026-04-14T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-caj",
-        "name": "Cambridge Archaeological Journal"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "cambridge-caj:https://openalex.org/W7154137418",
-      "title": "Multi-disciplinary Approaches to Prehistoric Kinship Systems of Europe",
-      "summary": "Abstract There has been much discussion of various lines of evidence—genetic, bioarchaeological, and cultural–phylogenetic—that indicate patrilineal and patrilocal kinship systems predominated in Neolithic to Bronze Age Europe. These patterns were unique to this time and place,…",
-      "url": "https://doi.org/10.1017/s0959774326100365",
-      "image": null,
-      "publishedAt": "2026-04-14T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-caj",
-        "name": "Cambridge Archaeological Journal"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "cambridge-caj:https://openalex.org/W7154030412",
-      "title": "Caring beyond Kinship: Exploring Non-biological Relatedness and Childcare in Burial Contexts across Disciplines",
-      "summary": "Abstract Kinship in archaeology has often been understood through a narrow biological lens, privileging genetic relatedness and the nuclear family as the primary unit of social organization. Yet anthropological and ethnographic studies demonstrate that care and child-rearing are…",
-      "url": "https://doi.org/10.1017/s0959774326100377",
-      "image": null,
-      "publishedAt": "2026-04-14T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-caj",
-        "name": "Cambridge Archaeological Journal"
-      },
-      "lang": "en",
-      "region": "iberia",
-      "topics": [
-        "prehistoria",
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "cambridge-caj:https://openalex.org/W7154008360",
-      "title": "Bringing Kinship Back into the House",
-      "summary": "Abstract Houses and unilineal descent groups have been treated as different types of social phenomena in socio-cultural anthropology, and as borrowed for analysis of households and settlements in archaeology. This paper contends that houses and lineages, especially those…",
-      "url": "https://doi.org/10.1017/s0959774326100419",
-      "image": null,
-      "publishedAt": "2026-04-14T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-caj",
-        "name": "Cambridge Archaeological Journal"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "cambridge-caj:https://openalex.org/W7154052799",
-      "title": "Kinship Trouble: What, When, Where, Why, and How—and So What?",
-      "summary": "Abstract What is kinship trouble? When and where did it emerge? Why does it matter and how can we overcome it? These questions guide our discussion of kinship trouble, a term meant to capture the difficulties in reconstructing ancient kin relations, but also an attempt to…",
-      "url": "https://doi.org/10.1017/s0959774326100389",
-      "image": null,
-      "publishedAt": "2026-04-14T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-caj",
-        "name": "Cambridge Archaeological Journal"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "cambridge-caj:https://openalex.org/W7153997365",
-      "title": "Scrutinizing Kinship and Biological Relatedness Through the Lens of Palaeogenomics",
-      "summary": "Abstract In recent years, palaeogenomics has significantly advanced our understanding of human population history and evolution. Emerging studies now employ ancient genomic data to explore biological relatedness in archaeological contexts, with a growing number of studies on the…",
-      "url": "https://doi.org/10.1017/s0959774326100432",
-      "image": null,
-      "publishedAt": "2026-04-14T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-caj",
-        "name": "Cambridge Archaeological Journal"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "pnas-arch:https://openalex.org/W7153975992",
-      "title": "Halibee member archaeology: Middle Stone Age environment, technology, and postmortem modifications",
-      "summary": "The Middle Awash study area of Ethiopia's Afar Rift features a composite stratigraphic thickness of >1 km. Near the top of this succession lie sediments of the lower Halibee member, comprising the Faro Daba and Chai Baro beds. The former are radioisotopically dated to ~100,000 y…",
-      "url": "https://doi.org/10.1073/pnas.2534441123",
-      "image": null,
-      "publishedAt": "2026-04-13T00:00:00.000Z",
-      "source": {
-        "id": "pnas-arch",
-        "name": "PNAS — Arkeologia"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "cambridge-ejarc:https://openalex.org/W7154147561",
-      "title": "Relationality and Economic Emergence: Ceramic Networks and Urban Assemblages in Medieval ( c. 1250–1400) England",
-      "summary": "This article presents an analysis of the relationship between urbanization as an ongoing process and economic development in medieval ( c. AD 1250–1400) southern and midland England. It is proposed that understanding the distribution of pottery through network analysis provides…",
-      "url": "https://doi.org/10.1017/eaa.2025.10025",
-      "image": null,
-      "publishedAt": "2026-04-13T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-ejarc",
-        "name": "European Journal of Archaeology"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "erdi-aroa"
-      ]
-    },
-    {
-      "id": "cambridge-caj:https://openalex.org/W7151361545",
-      "title": "The Transcontextual Process—Materials, Objects, and Their Changing Meanings Across Contexts",
-      "summary": "Abstract This paper proposes the idea of ‘the transcontextual process’ as a theoretical tool to help interpret materials that have travelled long distances to new contexts. Archaeological literature is often guilty of looking at past movements with a bird’s-eye view and applying…",
-      "url": "https://doi.org/10.1017/s095977432610050x",
-      "image": null,
-      "publishedAt": "2026-04-07T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-caj",
-        "name": "Cambridge Archaeological Journal"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "erdi-aroa"
-      ]
-    },
-    {
-      "id": "cambridge-antiquity:https://openalex.org/W7147418232",
-      "title": "Impact of climate change on human occupation of the Ecuadorian Amazon over the past 4500 years",
-      "summary": "Changes in settlement patterns are often argued to reflect climatic change, which may make certain areas more or less hospitable depending on the adaptability of subsistence practices. This study models the impact of El Niño-Southern Oscillation (ENSO) events on phases of…",
-      "url": "https://doi.org/10.15184/aqy.2026.10321",
-      "image": null,
-      "publishedAt": "2026-04-02T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-antiquity",
-        "name": "Antiquity (Cambridge)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "cambridge-antiquity:https://openalex.org/W7154098332",
-      "title": "Books received",
-      "summary": "Books received",
-      "url": "https://doi.org/10.15184/aqy.2026.10313",
-      "image": null,
-      "publishedAt": "2026-04-01T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-antiquity",
-        "name": "Antiquity (Cambridge)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "cambridge-antiquity:https://openalex.org/W7153979673",
-      "title": "AQY volume 100 issue 410 Cover and Front matter",
-      "summary": "AQY volume 100 issue 410 Cover and Front matter",
-      "url": "https://doi.org/10.15184/aqy.2025.10192",
-      "image": null,
-      "publishedAt": "2026-04-01T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-antiquity",
-        "name": "Antiquity (Cambridge)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
     }
   ]
 }
