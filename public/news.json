@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T02:33:03.669Z",
+  "generatedAt": "2026-08-19T02:35:55.654Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 9240
+      "elapsedMs": 5110
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 5249
+      "elapsedMs": 999
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1356
+      "elapsedMs": 1107
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1094
+      "elapsedMs": 796
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 6309
+      "elapsedMs": 2444
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 7,
       "droppedOffTopic": 23,
       "droppedModern": 0,
-      "elapsedMs": 6378
+      "elapsedMs": 2348
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1787
+      "elapsedMs": 1336
     },
     {
       "id": "labrujulaverde",
@@ -98,10 +98,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 15,
+      "kept": 16,
       "droppedOffTopic": 1,
-      "droppedModern": 4,
-      "elapsedMs": 2338
+      "droppedModern": 3,
+      "elapsedMs": 1673
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 6,
       "droppedOffTopic": 4,
       "droppedModern": 2,
-      "elapsedMs": 2328
+      "elapsedMs": 988
     },
     {
       "id": "elpais-cultura",
@@ -124,10 +124,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 0,
-      "droppedOffTopic": 30,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1568
+      "elapsedMs": 1703
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 1,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1649
+      "elapsedMs": 821
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 7,
       "droppedOffTopic": 10,
       "droppedModern": 3,
-      "elapsedMs": 2026
+      "elapsedMs": 1453
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -166,7 +166,7 @@
       "kept": 3,
       "droppedOffTopic": 14,
       "droppedModern": 1,
-      "elapsedMs": 1960
+      "elapsedMs": 2581
     },
     {
       "id": "inrap-bsky",
@@ -175,11 +175,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 24,
+      "fetched": 26,
       "kept": 5,
-      "droppedOffTopic": 15,
+      "droppedOffTopic": 17,
       "droppedModern": 4,
-      "elapsedMs": 6385
+      "elapsedMs": 2462
     },
     {
       "id": "sudouest-culture",
@@ -189,10 +189,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 0,
-      "droppedOffTopic": 20,
+      "kept": 2,
+      "droppedOffTopic": 18,
       "droppedModern": 0,
-      "elapsedMs": 2149
+      "elapsedMs": 1071
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2776
+      "elapsedMs": 1693
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 2,
       "droppedOffTopic": 1,
       "droppedModern": 7,
-      "elapsedMs": 3401
+      "elapsedMs": 2041
     },
     {
       "id": "stilearte",
@@ -231,7 +231,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 1,
-      "elapsedMs": 3450
+      "elapsedMs": 2154
     },
     {
       "id": "live-science-arch",
@@ -241,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 5,
-      "droppedOffTopic": 25,
+      "kept": 6,
+      "droppedOffTopic": 24,
       "droppedModern": 0,
-      "elapsedMs": 6337
+      "elapsedMs": 3185
     },
     {
       "id": "bbc-history",
@@ -257,7 +257,7 @@
       "kept": 1,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 3144
+      "elapsedMs": 1634
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +270,7 @@
       "kept": 18,
       "droppedOffTopic": 12,
       "droppedModern": 0,
-      "elapsedMs": 3316
+      "elapsedMs": 1657
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 7011
+      "elapsedMs": 1673
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 11,
       "droppedOffTopic": 7,
       "droppedModern": 2,
-      "elapsedMs": 5049
+      "elapsedMs": 1866
     },
     {
       "id": "current-archaeology",
@@ -309,7 +309,7 @@
       "kept": 20,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 4791
+      "elapsedMs": 1844
     },
     {
       "id": "jas-reports",
@@ -319,10 +319,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 7,
+      "kept": 8,
       "droppedOffTopic": 2,
-      "droppedModern": 21,
-      "elapsedMs": 4882
+      "droppedModern": 20,
+      "elapsedMs": 1645
     },
     {
       "id": "plos-one-arch",
@@ -332,10 +332,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 5104
+      "elapsedMs": 1837
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 20,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 5605
+      "elapsedMs": 2932
     },
     {
       "id": "sciencedirect-jas",
@@ -357,11 +357,11 @@
       "region": "world",
       "kind": "research",
       "ok": true,
-      "fetched": 30,
-      "kept": 7,
-      "droppedOffTopic": 3,
-      "droppedModern": 20,
-      "elapsedMs": 5068
+      "fetched": 13,
+      "kept": 3,
+      "droppedOffTopic": 2,
+      "droppedModern": 8,
+      "elapsedMs": 1679
     },
     {
       "id": "spal-us",
@@ -374,7 +374,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 5973
+      "elapsedMs": 2509
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +387,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 7482
+      "elapsedMs": 3685
     },
     {
       "id": "archeoarte",
@@ -400,7 +400,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 5943
+      "elapsedMs": 2421
     },
     {
       "id": "cypsela",
@@ -413,7 +413,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 6016
+      "elapsedMs": 2235
     },
     {
       "id": "cambridge-antiquity",
@@ -426,7 +426,7 @@
       "kept": 21,
       "droppedOffTopic": 3,
       "droppedModern": 6,
-      "elapsedMs": 5898
+      "elapsedMs": 2500
     },
     {
       "id": "cambridge-caj",
@@ -439,7 +439,7 @@
       "kept": 19,
       "droppedOffTopic": 5,
       "droppedModern": 6,
-      "elapsedMs": 5938
+      "elapsedMs": 2417
     },
     {
       "id": "cambridge-ejarc",
@@ -452,7 +452,7 @@
       "kept": 16,
       "droppedOffTopic": 5,
       "droppedModern": 9,
-      "elapsedMs": 5907
+      "elapsedMs": 2402
     },
     {
       "id": "aquitania-persee",
@@ -465,7 +465,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 6740
+      "elapsedMs": 3246
     },
     {
       "id": "cuadernos-arq-unav",
@@ -478,7 +478,7 @@
       "kept": 20,
       "droppedOffTopic": 2,
       "droppedModern": 8,
-      "elapsedMs": 7649
+      "elapsedMs": 3890
     },
     {
       "id": "veleia-ehu",
@@ -491,7 +491,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 7243
+      "elapsedMs": 3225
     },
     {
       "id": "flv-navarra",
@@ -504,7 +504,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 6180
+      "elapsedMs": 2489
     },
     {
       "id": "munibe-aa",
@@ -517,7 +517,7 @@
       "kept": 17,
       "droppedOffTopic": 4,
       "droppedModern": 9,
-      "elapsedMs": 6215
+      "elapsedMs": 2359
     },
     {
       "id": "trabajos-prehistoria",
@@ -530,7 +530,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 6232
+      "elapsedMs": 2463
     },
     {
       "id": "openalex-archaeology",
@@ -543,7 +543,7 @@
       "kept": 16,
       "droppedOffTopic": 8,
       "droppedModern": 6,
-      "elapsedMs": 6222
+      "elapsedMs": 2334
     }
   ],
   "items": [
@@ -723,6 +723,176 @@
       "lang": "en",
       "region": "world",
       "topics": []
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26004347?dgcid=rss_sd_all",
+      "title": "Decoding the hearth: micromorphology and experiment in iron age domestic fire structures (NE Iberian Peninsula)",
+      "summary": "Publication date: November 2026 Source: Journal of Archaeological Science: Reports, Volume 75 Author(s): Maria-Carme Belarte, Marta Mateu, Maria Anguera",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26004347?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-08-19T02:35:52.198Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "iberia",
+      "topics": [
+        "prehistoria",
+        "iberiarrak"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/body-found-at-bottom-of-scottish-well-may-be-from-rare-ritual-burial-performed-centuries-ago",
+      "title": "Body found at bottom of Scottish well may be from rare ritual burial performed centuries ago",
+      "summary": "An Iron Age grave has been discovered in the Scottish Highlands. The person was buried within what may have been a ritual well.",
+      "url": "https://www.livescience.com/archaeology/body-found-at-bottom-of-scottish-well-may-be-from-rare-ritual-burial-performed-centuries-ago",
+      "image": "https://cdn.mos.cms.futurecdn.net/rVHE3h7o4qiZXXKk4K8iH-1280-80.png",
+      "publishedAt": "2026-08-18T21:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sudouest-culture:https://www.sudouest.fr/lot-et-garonne/astaffort/trouver-des-ossements-dans-une-eglise-c-est-normal-pres-d-agen-des-archeologues-sont-venus-deterrer-les-morts-pour-percer-les-mysteres-d-un-village-30192163.php",
+      "title": "« Trouver des ossements dans une église, c’est normal » : près d’Agen, des archéologues sont venus déterrer les morts pour percer les mystères d’un village",
+      "summary": "Longtemps jugée trop modeste pour retenir l’attention, l’ancienne église Saint-Félix conserve pourtant plusieurs siècles de l’histoire d’Astaffort. Sous ses dalles, reposent plusieurs centaines de personnes.",
+      "url": "https://www.sudouest.fr/lot-et-garonne/astaffort/trouver-des-ossements-dans-une-eglise-c-est-normal-pres-d-agen-des-archeologues-sont-venus-deterrer-les-morts-pour-percer-les-mysteres-d-un-village-30192163.php",
+      "image": null,
+      "publishedAt": "2026-08-18T18:30:00.000Z",
+      "source": {
+        "id": "sudouest-culture",
+        "name": "Sud Ouest — Culture"
+      },
+      "lang": "fr",
+      "region": "basque",
+      "topics": []
+    },
+    {
+      "id": "sudouest-culture:https://www.sudouest.fr/charente-maritime/jonzac/jonzac-un-hommage-a-alain-bashung-pour-les-instants-musicaux-au-chateau-30255433.php",
+      "title": "Jonzac : un hommage à Alain Bashung pour les Instants musicaux au château",
+      "summary": "Le spectacle « Encore ton écho », porté par les musiciens Romain Costes et Sylvain Meillan, explore l’œuvre du chanteur disparu en 2009, ce mercredi 19 août au théâtre du château de Jonzac",
+      "url": "https://www.sudouest.fr/charente-maritime/jonzac/jonzac-un-hommage-a-alain-bashung-pour-les-instants-musicaux-au-chateau-30255433.php",
+      "image": null,
+      "publishedAt": "2026-08-18T17:07:00.000Z",
+      "source": {
+        "id": "sudouest-culture",
+        "name": "Sud Ouest — Culture"
+      },
+      "lang": "fr",
+      "region": "basque",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/feature/were-women-literate-in-ancient-egyptian-society/",
+      "title": "Were women literate in ancient Egyptian society?",
+      "summary": "Simone Petacchi explores the often fragmentary evidence for women’s voices in ancient Egypt’s written culture.",
+      "url": "https://the-past.com/feature/were-women-literate-in-ancient-egyptian-society/",
+      "image": null,
+      "publishedAt": "2026-08-18T16:00:26.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/archaeologists-discover-etruscan-well-that-was-ritually-opened-with-offerings-for-a-goddess-and-closed-with-human-bodies",
+      "title": "Archaeologists discover Etruscan well that was ritually opened with offerings for a goddess — and 'closed' with human bodies",
+      "summary": "An ancient Etruscan cult likely left burials and bronze artifacts in a well that was recently discovered in Italy.",
+      "url": "https://www.livescience.com/archaeology/archaeologists-discover-etruscan-well-that-was-ritually-opened-with-offerings-for-a-goddess-and-closed-with-human-bodies",
+      "image": "https://cdn.mos.cms.futurecdn.net/dtX8W6jwQgTYg6nmSpErLV-1280-80.png",
+      "publishedAt": "2026-08-18T12:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/08/la-pelvis-masculina-moderna-es-una-innovacion-evolutiva-para-caminar-largas-distancias-mientras-que-la-femenina-es-como-la-de-los-neandertales",
+      "title": "La pelvis humana masculina es una innovación evolutiva para caminar largas distancias, mientras que la femenina es como la de los neandertales",
+      "summary": "Una investigación desarrollada en el Departamento de Anatomía y Antropología de la Universidad de Tel Aviv, cuyos resultados han sido publicados en la revista Scientific Reports, propone una reinterpretación radical de la evolución de la pelvis humana. El trabajo, liderado por…",
+      "url": "https://www.labrujulaverde.com/2026/08/la-pelvis-masculina-moderna-es-una-innovacion-evolutiva-para-caminar-largas-distancias-mientras-que-la-femenina-es-como-la-de-los-neandertales",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/08/Depositphotos_44256779_L.webp",
+      "publishedAt": "2026-08-18T09:39:35.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/08/el-hubble-descubre-que-la-via-lactea-devoro-la-galaxia-enana-kraken-heracles-hace-11800-millones-de-anos",
+      "title": "El Hubble descubre que la Vía Láctea devoró la galaxia enana Kraken-Heracles hace 11800 millones de años",
+      "summary": "Un equipo internacional de astrofísicos ha logrado identificar, gracias a los archivos del telescopio espacial Hubble, la prueba definitiva de una colisión masiva que sufrió la Vía Láctea en sus primeros dos mil millones de años de existencia. El hallazgo, publicado en la…",
+      "url": "https://www.labrujulaverde.com/2026/08/el-hubble-descubre-que-la-via-lactea-devoro-la-galaxia-enana-kraken-heracles-hace-11800-millones-de-anos",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/08/STScI-01KZ4N4D8G9AK26CF28HD5NT5N.webp",
+      "publishedAt": "2026-08-18T08:16:57.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "amerika",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/08/en-el-monasterio-de-san-juan-de-la-pena-se-regulo-una-de-las-pruebas-mas-brutales-de-la-edad-media-caminar-nueve-pasos-con-un-hierro-al-rojo-vivo",
+      "title": "En el monasterio de San Juan de la Peña se reguló una de las pruebas más brutales de la Edad Media: caminar nueve pasos con un hierro al rojo vivo",
+      "summary": "Uno de los lugares de Huesca que hay que visitar sí o sí es el Real Monasterio de San Juan de la Peña. No sólo por su peculiar ubicación, encajado entre las pétreas paredes de una montaña de Botaya (Huesca), sino también porque fue el cenobio más importante de Aragón durante la…",
+      "url": "https://www.labrujulaverde.com/2026/08/en-el-monasterio-de-san-juan-de-la-pena-se-regulo-una-de-las-pruebas-mas-brutales-de-la-edad-media-caminar-nueve-pasos-con-un-hierro-al-rojo-vivo",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/08/1181AF95-C176-4B53-labrujulaverde.com-A52B-0E83C9A85FED.webp",
+      "publishedAt": "2026-08-18T06:39:43.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erdi-aroa"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/iscrizione-romana-praetorium-magna-carvoran/",
+      "title": "Forte romano di 1800 anni fa, nuove scoperte a Magna. Si scava nella casa del comandante. Iscrizione misteriosa, figure infere, dadi e terme. Come si viveva ai margini della terra delle piogge, attendendo l’arrivo del nemico",
+      "summary": "Un frammento romano inciso, riutilizzato come elemento edilizio e finito dentro un terrazzamento post-romano, è stato scoperto nel praetorium, la dimora del comandante del presidio, in questi giorni, nei pressi del Vallo di Adriano, nell’Inghilterra settentrionale. L’iscrizione,…",
+      "url": "https://www.stilearte.it/iscrizione-romana-praetorium-magna-carvoran/",
+      "image": null,
+      "publishedAt": "2026-08-18T06:07:53.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
     },
     {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003470?dgcid=rss_sd_all",
@@ -5265,6 +5435,23 @@
       ]
     },
     {
+      "id": "elpais-cultura:https://elpais.com/suscripciones/elpaismas/descuentos/2026-07-30/festival-de-zarzuelas-la-corte-del-faraon-en-el-teatro-apolo.html",
+      "title": "‘Festival de Zarzuelas - La corte del Faraón’ en el Teatro Apolo",
+      "summary": "Disfruta de las mejores zarzuelas a un precio único",
+      "url": "https://elpais.com/suscripciones/elpaismas/descuentos/2026-07-30/festival-de-zarzuelas-la-corte-del-faraon-en-el-teatro-apolo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/73G2YG4WPBHRXESCOGYSQR563E.png?auth=e2dcc0bd550c119cfb279084f37f4a499528c5123a64ff7b3dbd833543da11bd",
+      "publishedAt": "2026-07-30T09:31:50.000Z",
+      "source": {
+        "id": "elpais-cultura",
+        "name": "El País — Cultura"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "egiptoarrak"
+      ]
+    },
+    {
       "id": "berria-bsky:https://bsky.app/profile/berria.eus/post/3mrdgjoddan2l",
       "title": "",
       "summary": "Zalduako terma erromatarrak berotzen zituen labearen bila aztarrika segitzen du Aranzadik. Bihar bukatuko dute Zalduako aztarnategiko aurtengo indusketa kanpaina; termen iparraldeko bi sektoretan jarri dute arreta. Iaz labe bat topatu zuten, baina ondorioztatu dute kozinatzeko…",
@@ -8725,192 +8912,6 @@
       "lang": "en",
       "region": "world",
       "topics": []
-    },
-    {
-      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0345940",
-      "title": "Changes in anthropometric indices, lifestyle patterns, and mental stress with ramadan intermittent fasting among healthy students: A prospective cohort study",
-      "summary": "by Anfal AL-Dalaeen, Eman Alhasan, Eman Saleh, Sally Atawneh, Tala Barakat Background The association between Ramadan Intermittent Fasting (RIF) and metabolic diseases has been studied. However, there remains a significant gap in the research regarding the changes in…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0345940",
-      "image": null,
-      "publishedAt": "2026-04-22T14:00:00.000Z",
-      "source": {
-        "id": "plos-one-arch",
-        "name": "PLOS ONE — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001987?dgcid=rss_sd_all",
-      "title": "Alcoholic drinking practices at Pingliangtai during the Late Neolithic Longshan culture, North China",
-      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Lina Li, Chunyang Liu, Yanpeng Cao, Shuzheng Zhu, Jiyin Wei, Chunguang Gu, Li Liu",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001987?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-04-19T06:57:17.752Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria",
-        "asia"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001525?dgcid=rss_sd_all",
-      "title": "Ground obsidian artefacts from an Early Eneolithic site in Nitra-Selenec (Slovakia)",
-      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Adrián Nemergut, Michal Cheben, Ludmila Kaňáková Hladíková, Jan Petřík, Jun Takakura, Antonín Přichystal, Lubomír Prokeš, Monika Gabulová",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001525?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-04-19T06:57:17.752Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001860?dgcid=rss_sd_all",
-      "title": "Bone tool functionality in the Bronze Age copper mines of Great Orme (UK): Preliminary results",
-      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Olga Zagorodnia, Harriet White",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001860?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-04-19T06:57:17.752Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001756?dgcid=rss_sd_all",
-      "title": "Diet, mobility and gendered violence: Integrating multi-isotope analysis with proteomic sex identification at the bi-ritual Early Iron Age cemetery of Statzendorf, lower Austria",
-      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Katharina Rebay-Salisbury, Lukas Waltenberger, Michaela Fritzl, Hannah Skerjanz, Domnika Verdianu, Leslie Quade, Michaela Spannagl-Steiner, Michael Wolf, Fabian Kanz, Anneminne…",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001756?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-04-19T06:57:17.752Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001847?dgcid=rss_sd_all",
-      "title": "ZooMS as a tool for identifying animal remains from Early Medieval Pohansko: A case study",
-      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Weronika Karolina Cieszynska, Ondrej Šedo, Petr Dresler, Gabriela Dreslerová, Jiří Macháček, Renáta Přichystalová, Zuzana Hofmanová",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001847?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-04-19T06:57:17.752Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "erdi-aroa"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001641?dgcid=rss_sd_all",
-      "title": "Materializing gender in Iberian prehistory: sex, age and decubitus in Bronze age burials",
-      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): Alejandra Sánchez-Polo, Angélica Santa Cruz del Barrio, Javier Velasco Vázquez, Miguel del Nogal Sánchez, Ana María Casas-Ferreira, José Luis Pérez Pavón, Carmen Patino Alonso,…",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001641?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-04-19T06:57:17.752Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "iberia",
-      "topics": [
-        "prehistoria",
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26001859?dgcid=rss_sd_all",
-      "title": "Networks and transcultural evidence in late iron age Bisenzio (Capodimonte, VT, Italy, 750–730 BCE)",
-      "summary": "Publication date: June 2026 Source: Journal of Archaeological Science: Reports, Volume 72 Author(s): A. Babbi, A. Celant, G. Germinario, J. Hertzog, M. Lamonaca, F. Michelangeli, P. Schmitt-Kopplin, R. Schwab",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26001859?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-04-19T06:57:17.751Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "cambridge-antiquity:https://openalex.org/W7154457598",
-      "title": "De-monumentalising perceptions of ancient architectural practices",
-      "summary": "Archaeologists often designate certain anthropogenic structures as ‘monumental’, creating an architectural dichotomy that has an ascribed implicit value. This article challenges the usefulness of such differentiation, which, the author argues, does not describe objective…",
-      "url": "https://doi.org/10.15184/aqy.2026.10327",
-      "image": null,
-      "publishedAt": "2026-04-15T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-antiquity",
-        "name": "Antiquity (Cambridge)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "egiptoarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "cambridge-caj:https://openalex.org/W7154015325",
-      "title": "The Tie That Binds Us? Challenging the Primacy of DNA in Kinship Studies and Re-Centring Community in Defining Human Connections across Time",
-      "summary": "Abstract Biological determinism continues to shape how kinship is defined, from research to repatriation proceedings. This privileging of biological relatedness reflects and reinforces dominant ‘Western’ frameworks of kinship, often sidelining culturally-specific, Indigenous,…",
-      "url": "https://doi.org/10.1017/s0959774326100444",
-      "image": null,
-      "publishedAt": "2026-04-14T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-caj",
-        "name": "Cambridge Archaeological Journal"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "cambridge-caj:https://openalex.org/W7154101207",
-      "title": "Commentary: Afterword",
-      "summary": "Abstract This ‘afterword’ offers a critical reflection on the theme of ‘kinship trouble’ which runs through the papers in this special collection. Central to all of them are the questions of what it takes for individuals to be ‘biologically’ related, of what—if anything—this has…",
-      "url": "https://doi.org/10.1017/s0959774326100481",
-      "image": null,
-      "publishedAt": "2026-04-14T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-caj",
-        "name": "Cambridge Archaeological Journal"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
     }
   ]
 }
