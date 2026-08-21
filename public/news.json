@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T02:34:20.933Z",
+  "generatedAt": "2026-08-21T02:40:35.470Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5061
+      "elapsedMs": 5507
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1297
+      "elapsedMs": 718
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1289
+      "elapsedMs": 872
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 910
+      "elapsedMs": 724
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2449
+      "elapsedMs": 2630
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 7,
       "droppedOffTopic": 23,
       "droppedModern": 0,
-      "elapsedMs": 2457
+      "elapsedMs": 2747
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1960
+      "elapsedMs": 1148
     },
     {
       "id": "labrujulaverde",
@@ -101,7 +101,7 @@
       "kept": 16,
       "droppedOffTopic": 1,
       "droppedModern": 3,
-      "elapsedMs": 1557
+      "elapsedMs": 1601
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 6,
       "droppedOffTopic": 4,
       "droppedModern": 2,
-      "elapsedMs": 978
+      "elapsedMs": 1016
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 2,
       "droppedOffTopic": 28,
       "droppedModern": 0,
-      "elapsedMs": 2085
+      "elapsedMs": 915
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 1,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 665
+      "elapsedMs": 874
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 7,
       "droppedOffTopic": 10,
       "droppedModern": 3,
-      "elapsedMs": 675
+      "elapsedMs": 835
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -166,7 +166,7 @@
       "kept": 3,
       "droppedOffTopic": 14,
       "droppedModern": 1,
-      "elapsedMs": 1098
+      "elapsedMs": 1257
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +179,7 @@
       "kept": 5,
       "droppedOffTopic": 17,
       "droppedModern": 4,
-      "elapsedMs": 2536
+      "elapsedMs": 2745
     },
     {
       "id": "sudouest-culture",
@@ -189,10 +189,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 0,
-      "droppedOffTopic": 20,
+      "kept": 1,
+      "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 958
+      "elapsedMs": 1108
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1533
+      "elapsedMs": 1589
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 2,
       "droppedOffTopic": 1,
       "droppedModern": 7,
-      "elapsedMs": 2532
+      "elapsedMs": 1905
     },
     {
       "id": "stilearte",
@@ -231,7 +231,7 @@
       "kept": 9,
       "droppedOffTopic": 1,
       "droppedModern": 0,
-      "elapsedMs": 1962
+      "elapsedMs": 1683
     },
     {
       "id": "live-science-arch",
@@ -244,7 +244,7 @@
       "kept": 6,
       "droppedOffTopic": 24,
       "droppedModern": 0,
-      "elapsedMs": 2212
+      "elapsedMs": 2535
     },
     {
       "id": "bbc-history",
@@ -257,7 +257,7 @@
       "kept": 0,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1486
+      "elapsedMs": 1602
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +270,7 @@
       "kept": 18,
       "droppedOffTopic": 12,
       "droppedModern": 0,
-      "elapsedMs": 1608
+      "elapsedMs": 1527
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1446
+      "elapsedMs": 1567
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 11,
       "droppedOffTopic": 7,
       "droppedModern": 2,
-      "elapsedMs": 1968
+      "elapsedMs": 1841
     },
     {
       "id": "current-archaeology",
@@ -309,7 +309,7 @@
       "kept": 21,
       "droppedOffTopic": 7,
       "droppedModern": 2,
-      "elapsedMs": 1591
+      "elapsedMs": 1506
     },
     {
       "id": "jas-reports",
@@ -319,10 +319,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 9,
+      "kept": 11,
       "droppedOffTopic": 2,
-      "droppedModern": 19,
-      "elapsedMs": 1420
+      "droppedModern": 17,
+      "elapsedMs": 1511
     },
     {
       "id": "plos-one-arch",
@@ -332,10 +332,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1990
+      "elapsedMs": 2041
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 20,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 2824
+      "elapsedMs": 2461
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +361,7 @@
       "kept": 3,
       "droppedOffTopic": 2,
       "droppedModern": 8,
-      "elapsedMs": 1193
+      "elapsedMs": 1807
     },
     {
       "id": "spal-us",
@@ -374,7 +374,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2360
+      "elapsedMs": 2580
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +387,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 3635
+      "elapsedMs": 3763
     },
     {
       "id": "archeoarte",
@@ -400,7 +400,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2294
+      "elapsedMs": 2443
     },
     {
       "id": "cypsela",
@@ -413,7 +413,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2079
+      "elapsedMs": 2511
     },
     {
       "id": "cambridge-antiquity",
@@ -426,7 +426,7 @@
       "kept": 21,
       "droppedOffTopic": 3,
       "droppedModern": 6,
-      "elapsedMs": 2302
+      "elapsedMs": 2254
     },
     {
       "id": "cambridge-caj",
@@ -439,7 +439,7 @@
       "kept": 19,
       "droppedOffTopic": 5,
       "droppedModern": 6,
-      "elapsedMs": 2341
+      "elapsedMs": 2297
     },
     {
       "id": "cambridge-ejarc",
@@ -452,7 +452,7 @@
       "kept": 16,
       "droppedOffTopic": 5,
       "droppedModern": 9,
-      "elapsedMs": 2277
+      "elapsedMs": 2306
     },
     {
       "id": "aquitania-persee",
@@ -465,7 +465,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2927
+      "elapsedMs": 3344
     },
     {
       "id": "cuadernos-arq-unav",
@@ -478,7 +478,7 @@
       "kept": 20,
       "droppedOffTopic": 2,
       "droppedModern": 8,
-      "elapsedMs": 3824
+      "elapsedMs": 4310
     },
     {
       "id": "veleia-ehu",
@@ -491,7 +491,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 2889
+      "elapsedMs": 3547
     },
     {
       "id": "flv-navarra",
@@ -504,7 +504,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2258
+      "elapsedMs": 2584
     },
     {
       "id": "munibe-aa",
@@ -517,7 +517,7 @@
       "kept": 17,
       "droppedOffTopic": 4,
       "droppedModern": 9,
-      "elapsedMs": 2282
+      "elapsedMs": 2551
     },
     {
       "id": "trabajos-prehistoria",
@@ -530,7 +530,7 @@
       "kept": 15,
       "droppedOffTopic": 4,
       "droppedModern": 11,
-      "elapsedMs": 2310
+      "elapsedMs": 2565
     },
     {
       "id": "openalex-archaeology",
@@ -543,7 +543,7 @@
       "kept": 15,
       "droppedOffTopic": 8,
       "droppedModern": 7,
-      "elapsedMs": 2362
+      "elapsedMs": 2627
     }
   ],
   "items": [
@@ -723,6 +723,173 @@
       "lang": "en",
       "region": "world",
       "topics": []
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26004438?dgcid=rss_sd_all",
+      "title": "Archaeometrical results related to Neolithic contact metabasite stone implements from Northeast Hungary",
+      "summary": "Publication date: November 2026 Source: Journal of Archaeological Science: Reports, Volume 75 Author(s): Erika Kereskényi, György Szakmány, Veronika Szilágyi, Zsolt Kasztovszky, Ferenc Kristály, Béla Fehér",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26004438?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-08-21T02:40:31.488Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26004529?dgcid=rss_sd_all",
+      "title": "Complementarity between morphological and proteomic taxonomic identification methods of Late Upper Palaeolithic and Early Neolithic bone fragments from the NE Iberian Peninsula",
+      "summary": "Publication date: November 2026 Source: Journal of Archaeological Science: Reports, Volume 75 Author(s): Jakob Hansen, Krista McGrath, Mar Martínez Miralles, Vanessa Navarrete, Alejandro Sierra, Ingrid Bertin, Martha Munoz Alegre, Tina Ravnsborg, Ole N. Jensen, Xavier Terradas,…",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26004529?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-08-21T02:40:31.488Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "basque",
+      "topics": [
+        "prehistoria",
+        "iberiarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/25-tartarughe-pietra-16500-anni-grotta-turchia/",
+      "title": "Scoperte in una grotta 25 tartarughe di pietra, scolpite 16.500 anni fa: perché le deponevano in questo luogo scuro. Quali Dei erano legati alle testuggini. Il significato simbolico di questi simpatici animali",
+      "summary": "A Gedikkaya, nell’Anatolia nord-occidentale, una scoperta porta indietro di migliaia di anni la storia religiosa della tartaruga. L’animale che in seguito sarà associato a Enki in Mesopotamia, ad Afrodite in Grecia e a Vishnu in India compare qui in un contesto rituale molto più…",
+      "url": "https://www.stilearte.it/25-tartarughe-pietra-16500-anni-grotta-turchia/",
+      "image": null,
+      "publishedAt": "2026-08-20T19:54:59.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "greziarrak",
+        "ekialde-hurbila",
+        "asia"
+      ]
+    },
+    {
+      "id": "sudouest-culture:https://www.sudouest.fr/charente-maritime/saint-sornin/charente-maritime-autour-de-la-tour-de-broue-des-fouilles-archeologiques-pour-comprendre-l-histoire-medievale-des-marais-et-sa-biodiversite-30288801.php",
+      "title": "Charente-Maritime : autour de la tour de Broue, des fouilles archéologiques pour comprendre l’histoire médiévale des marais et sa biodiversité",
+      "summary": "Les fouilles de la dernière partie du site, à Saint-Sornin, ont démarré le 10 août pour trois semaines. La baisse des températures va faciliter le travail",
+      "url": "https://www.sudouest.fr/charente-maritime/saint-sornin/charente-maritime-autour-de-la-tour-de-broue-des-fouilles-archeologiques-pour-comprendre-l-histoire-medievale-des-marais-et-sa-biodiversite-30288801.php",
+      "image": null,
+      "publishedAt": "2026-08-20T16:00:00.000Z",
+      "source": {
+        "id": "sudouest-culture",
+        "name": "Sud Ouest — Culture"
+      },
+      "lang": "fr",
+      "region": "basque",
+      "topics": []
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/americas/1-400-year-old-skeleton-found-in-underground-channel-in-peru-may-have-belonged-to-human-sacrifice-victim",
+      "title": "1,400-year-old skeleton found in underground channel in Peru may have belonged to human sacrifice victim",
+      "summary": "A mysterious burial in an underground water channel may help archaeologists understand a pre-Inca ritual in Peru.",
+      "url": "https://www.livescience.com/archaeology/americas/1-400-year-old-skeleton-found-in-underground-channel-in-peru-may-have-belonged-to-human-sacrifice-victim",
+      "image": "https://cdn.mos.cms.futurecdn.net/SunX3qAama7S5L5LfhFUT-1280-80.png",
+      "publishedAt": "2026-08-20T13:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "amerika"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/prima-morte-trabucco-stirling-scheletro-1304/",
+      "title": "La prima morte da trabucco mai identificata? A Stirling uno scheletro del 1304 svela la potenza della gigantesca catapulta medievale. Forse durante la guerra tra Scozia e Inghilterra. Sai come funziona un trabucco?",
+      "summary": "Per capire come è morto un uomo nel Medioevo, a volte basta guardare le ossa. Ma quelle trovate a Stirling Castle, in Scozia, hanno raccontato qualcosa di davvero insolito: un uomo potrebbe essere stato colpito da un trabucco, la gigantesca macchina da guerra capace di scagliare…",
+      "url": "https://www.stilearte.it/prima-morte-trabucco-stirling-scheletro-1304/",
+      "image": null,
+      "publishedAt": "2026-08-20T10:24:53.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa",
+        "asia"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/08/cientificos-crean-un-pequeno-big-bang-y-consiguen-reproducir-en-laboratorio-el-estado-de-materia-que-lleno-el-cosmos-durante-los-primeros-instantes-del-universo",
+      "title": "Científicos crean un ‘pequeño Big Bang’ y consiguen reproducir en laboratorio el estado de materia que llenó el cosmos durante los primeros instantes del universo",
+      "summary": "Investigadores del Instituto Niels Bohr, en la Universidad de Copenhague, han logrado reproducir en laboratorio el estado de materia que llenó el cosmos durante su primera millonésima de segundo tras el Big Bang, utilizando colisiones entre núcleos atómicos mucho más ligeros de…",
+      "url": "https://www.labrujulaverde.com/2026/08/cientificos-crean-un-pequeno-big-bang-y-consiguen-reproducir-en-laboratorio-el-estado-de-materia-que-lleno-el-cosmos-durante-los-primeros-instantes-del-universo",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/08/CERN_INSIDE_DETECTOR_1100x600.webp",
+      "publishedAt": "2026-08-20T07:57:53.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/lucone-polpenazze-scoperta-arma-bronzo-4000-anni/",
+      "title": "Lago di Garda. Al Lucone emerge ora dal terreno un’arma di bronzo nei pressi della tavoletta enigmatica di 4000 anni fa. Caccia, difesa, commerci. I crogiuoli casalinghi. Tracce di materiali provenienti da lontano. La bellissima storia del villaggio sulle palafitte",
+      "summary": "Dopo la tavoletta enigmatica, un nuovo reperto porta nel villaggio di 4.000 anni fa la tecnologia, il commercio e forse anche la dimensione guerriera dell’antica comunità gardesana Nel video gli archeologi parlano di “poignard”, cioè di un pugnale: la forma del reperto,…",
+      "url": "https://www.stilearte.it/lucone-polpenazze-scoperta-arma-bronzo-4000-anni/",
+      "image": null,
+      "publishedAt": "2026-08-20T07:05:42.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/08/arqueologos-demuestran-que-las-marcas-comerciales-existian-ya-hace-3200-anos-en-los-oasis-de-la-edad-del-bronce",
+      "title": "Arqueólogos demuestran que las marcas comerciales existían ya hace 3.200 años en los oasis de la Edad del Bronce",
+      "summary": "La pregunta de si las marcas comerciales son un invento exclusivo de las sociedades capitalistas modernas ha recibido una respuesta contundente por parte de un equipo internacional de investigadores: ya existían al menos 3.200 años atrás. Un estudio liderado por Marta Luciani,…",
+      "url": "https://www.labrujulaverde.com/2026/08/arqueologos-demuestran-que-las-marcas-comerciales-existian-ya-hace-3200-anos-en-los-oasis-de-la-edad-del-bronce",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/08/Fig1_PLOSOne.webp",
+      "publishedAt": "2026-08-20T06:56:06.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/review/travel/the-grand-egyptian-museum/",
+      "title": "The Grand Egyptian Museum",
+      "summary": "Geoffrey Lenox-Smith pays a return visit to the Grand Egyptian Museum to view the new galleries.",
+      "url": "https://the-past.com/review/travel/the-grand-egyptian-museum/",
+      "image": null,
+      "publishedAt": "2026-08-20T05:00:37.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak",
+        "museoak"
+      ]
     },
     {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26004268?dgcid=rss_sd_all",
@@ -3637,23 +3804,6 @@
       "topics": [
         "erdi-aroa",
         "aurkikuntza"
-      ]
-    },
-    {
-      "id": "guardian-arch:https://www.theguardian.com/uk-news/2026/may/22/english-heritage-neolithic-kusuma-hall-stonehenge",
-      "title": "English Heritage unveils recreation of 4,500-year-old Neolithic hall near Stonehenge",
-      "summary": "The Kusuma Neolithic Hall, based on Durrington 68 site, will allow visitors to ‘step back in time’ into the lives of those who built the stone circle It may have been a place for ceremony or a barn for pack animals. It could have been a place for weary labourers to rest their…",
-      "url": "https://www.theguardian.com/uk-news/2026/may/22/english-heritage-neolithic-kusuma-hall-stonehenge",
-      "image": "https://i.guim.co.uk/img/media/86d29aa7e256e05be847cb3d402419417a5c54b7/681_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=df51dd0d1b1cda8137311db1e8c4697b",
-      "publishedAt": "2026-05-22T07:00:54.000Z",
-      "source": {
-        "id": "guardian-arch",
-        "name": "The Guardian — Archaeology"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
       ]
     },
     {
@@ -8783,149 +8933,6 @@
       "topics": [
         "erdi-aroa"
       ]
-    },
-    {
-      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349032",
-      "title": "Neural and behavioral evidence of free shipping on consumer decision making",
-      "summary": "by Youngju Lee, Yoonsang Lee, Kyeong Seob Song, Ji-Won Chun, Dongha Lee The rise in online shopping has heightened consumer frustration, as many are reluctant to pay additional charges. Understanding the neural mechanisms of decision-making underlying this resistance could…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349032",
-      "image": null,
-      "publishedAt": "2026-05-13T14:00:00.000Z",
-      "source": {
-        "id": "plos-one-arch",
-        "name": "PLOS ONE — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "ekialde-hurbila"
-      ]
-    },
-    {
-      "id": "cambridge-caj:https://openalex.org/W7160843402",
-      "title": "New Dates for the Emergence of the Megalithic Phenomenon on the Iberian Plateau: The Funerary Practices of Valdelasilla, Toledo (Spain)",
-      "summary": "Abstract This study presents an analysis of funerary practices at the site of Valdelasilla (Illescas, Toledo, Spain). The methodology integrates the morphological study of burial structures, anthropological analyses, a consideration of grave goods and the radiocarbon dating of…",
-      "url": "https://doi.org/10.1017/s0959774326100559",
-      "image": null,
-      "publishedAt": "2026-05-11T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-caj",
-        "name": "Cambridge Archaeological Journal"
-      },
-      "lang": "en",
-      "region": "iberia",
-      "topics": [
-        "prehistoria",
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "cambridge-caj:https://openalex.org/W7156372850",
-      "title": "Thinking Through Tradition: Continuity, Architecture, and the Material Grounds of Transformation in the Central Andes and Angkorian Cambodia",
-      "summary": "Abstract In this paper, we reconsider the relationship between continuity and change in archaeology by arguing that material continuities do not necessarily imply conservatism or resistance to change but function as precondition for transformation. Drawing on Deleuze and…",
-      "url": "https://doi.org/10.1017/s0959774325100358",
-      "image": null,
-      "publishedAt": "2026-04-27T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-caj",
-        "name": "Cambridge Archaeological Journal"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "amerika",
-        "asia"
-      ]
-    },
-    {
-      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348025",
-      "title": "Correction: Functional impact of cardiac implanted devices on ipsilateral shoulder range of motion, scapular mobility, and self-reported quality of life",
-      "summary": "by Cansu Cosgun, Muharrem Said Cosgun, Oznur Buyukturan, Buket Buyukturan",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348025",
-      "image": null,
-      "publishedAt": "2026-04-22T14:00:00.000Z",
-      "source": {
-        "id": "plos-one-arch",
-        "name": "PLOS ONE — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348020",
-      "title": "Correction: Combining lenalidomide with IL-2 family of cytokines enhances activating receptor and perforin/granzyme expression in NK cells",
-      "summary": "by Alexandra Calescibetta, Robert Dalton, Nicole Fortenbery, Grace Ward, Sean Christiansen, Xianghong Chen, Pingyan Cheng, Tiffany Razabdouski, Annelise J. Glode, Nhan Tu, Thu Le Trinh, Jinghong Liu, Kenneth L. Wright, Sheng Wei, Erika Adriana Eksioglu",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348020",
-      "image": null,
-      "publishedAt": "2026-04-22T14:00:00.000Z",
-      "source": {
-        "id": "plos-one-arch",
-        "name": "PLOS ONE — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347842",
-      "title": "The role of SPP1 in evaluating the prognosis, immune infiltration, and drug sensitivity of hepatocellular carcinoma",
-      "summary": "by Kai Cui, Xia Li, Yongrun Li, Zhong Li, Du Wang, Xinhong Wang, Shuxin Qin, Junjie Li, Jiaye Long Background Secretory phosphoprotein 1 (SPP1) has been linked to tumor progression and immune regulation, but its prognostic value, impact on the tumor immune microenvironment…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347842",
-      "image": null,
-      "publishedAt": "2026-04-22T14:00:00.000Z",
-      "source": {
-        "id": "plos-one-arch",
-        "name": "PLOS ONE — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347712",
-      "title": "Editorial Note: Cohort profile: The Endometriosis pain QUality aftEr Surgical Treatment (EndoQUEST) Study",
-      "summary": "by The PLOS One Editors",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347712",
-      "image": null,
-      "publishedAt": "2026-04-22T14:00:00.000Z",
-      "source": {
-        "id": "plos-one-arch",
-        "name": "PLOS ONE — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347711",
-      "title": "Expression of Concern: Toll-Like Receptor 2 Targeted Rectification of Impaired CD8 + T Cell Functions in Experimental Leishmania donovani Infection Reinstates Host Protection",
-      "summary": "by The PLOS One Editors",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347711",
-      "image": null,
-      "publishedAt": "2026-04-22T14:00:00.000Z",
-      "source": {
-        "id": "plos-one-arch",
-        "name": "PLOS ONE — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347564",
-      "title": "Beyond Clavulanic Acid biosynthesis: Exploring the broad regulatory impact of BldD in Streptomyces clavuligerus ATCC 27064",
-      "summary": "by Luisa F. Patiño, Carlos Caicedo-Montoya, Rigoberto Ríos-Estepa BldD is a global regulator of morphological development in Streptomyces, usually acting as a repressor of aerial mycelium formation. However, its role in metabolism and secondary biosynthesis in the wild-type…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347564",
-      "image": null,
-      "publishedAt": "2026-04-22T14:00:00.000Z",
-      "source": {
-        "id": "plos-one-arch",
-        "name": "PLOS ONE — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
     }
   ]
 }
