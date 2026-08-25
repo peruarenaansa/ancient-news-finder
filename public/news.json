@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T02:41:16.938Z",
+  "generatedAt": "2026-08-25T02:35:22.411Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5573
+      "elapsedMs": 4917
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 705
+      "elapsedMs": 966
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 833
+      "elapsedMs": 1129
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 660
+      "elapsedMs": 792
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2845
+      "elapsedMs": 2229
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 7,
       "droppedOffTopic": 23,
       "droppedModern": 0,
-      "elapsedMs": 2840
+      "elapsedMs": 2317
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1213
+      "elapsedMs": 1257
     },
     {
       "id": "labrujulaverde",
@@ -98,10 +98,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 13,
+      "kept": 14,
       "droppedOffTopic": 2,
-      "droppedModern": 5,
-      "elapsedMs": 1650
+      "droppedModern": 4,
+      "elapsedMs": 1542
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 6,
       "droppedOffTopic": 4,
       "droppedModern": 2,
-      "elapsedMs": 1182
+      "elapsedMs": 976
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1193
+      "elapsedMs": 2120
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 831
+      "elapsedMs": 627
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 7,
       "droppedOffTopic": 10,
       "droppedModern": 3,
-      "elapsedMs": 1882
+      "elapsedMs": 914
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +162,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 14,
-      "kept": 2,
+      "fetched": 15,
+      "kept": 3,
       "droppedOffTopic": 12,
       "droppedModern": 0,
-      "elapsedMs": 1597
+      "elapsedMs": 1243
     },
     {
       "id": "inrap-bsky",
@@ -176,10 +176,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 26,
-      "kept": 5,
-      "droppedOffTopic": 17,
+      "kept": 6,
+      "droppedOffTopic": 16,
       "droppedModern": 4,
-      "elapsedMs": 2828
+      "elapsedMs": 2308
     },
     {
       "id": "sudouest-culture",
@@ -189,10 +189,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 0,
-      "droppedOffTopic": 20,
+      "kept": 1,
+      "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1132
+      "elapsedMs": 1387
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1665
+      "elapsedMs": 1771
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 2,
       "droppedOffTopic": 1,
       "droppedModern": 7,
-      "elapsedMs": 1901
+      "elapsedMs": 2016
     },
     {
       "id": "stilearte",
@@ -228,10 +228,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 6,
+      "kept": 7,
       "droppedOffTopic": 0,
-      "droppedModern": 4,
-      "elapsedMs": 1713
+      "droppedModern": 3,
+      "elapsedMs": 2023
     },
     {
       "id": "live-science-arch",
@@ -241,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 5,
-      "droppedOffTopic": 25,
+      "kept": 4,
+      "droppedOffTopic": 26,
       "droppedModern": 0,
-      "elapsedMs": 2596
+      "elapsedMs": 2009
     },
     {
       "id": "bbc-history",
@@ -254,10 +254,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 2,
-      "droppedOffTopic": 8,
+      "kept": 1,
+      "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1423
+      "elapsedMs": 1398
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +270,7 @@
       "kept": 18,
       "droppedOffTopic": 12,
       "droppedModern": 0,
-      "elapsedMs": 1605
+      "elapsedMs": 1378
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1667
+      "elapsedMs": 1369
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 11,
       "droppedOffTopic": 7,
       "droppedModern": 2,
-      "elapsedMs": 1895
+      "elapsedMs": 1576
     },
     {
       "id": "current-archaeology",
@@ -306,10 +306,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 21,
-      "droppedOffTopic": 7,
-      "droppedModern": 2,
-      "elapsedMs": 1633
+      "kept": 24,
+      "droppedOffTopic": 5,
+      "droppedModern": 1,
+      "elapsedMs": 1554
     },
     {
       "id": "jas-reports",
@@ -322,7 +322,7 @@
       "kept": 12,
       "droppedOffTopic": 1,
       "droppedModern": 17,
-      "elapsedMs": 1673
+      "elapsedMs": 1359
     },
     {
       "id": "plos-one-arch",
@@ -332,10 +332,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 0,
-      "droppedOffTopic": 30,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1918
+      "elapsedMs": 1521
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 20,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 2616
+      "elapsedMs": 2385
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +361,7 @@
       "kept": 3,
       "droppedOffTopic": 2,
       "droppedModern": 9,
-      "elapsedMs": 1800
+      "elapsedMs": 1324
     },
     {
       "id": "spal-us",
@@ -374,7 +374,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2834
+      "elapsedMs": 2269
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +387,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 3738
+      "elapsedMs": 3353
     },
     {
       "id": "archeoarte",
@@ -400,7 +400,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2587
+      "elapsedMs": 2084
     },
     {
       "id": "cypsela",
@@ -413,7 +413,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2674
+      "elapsedMs": 2052
     },
     {
       "id": "cambridge-antiquity",
@@ -426,7 +426,7 @@
       "kept": 21,
       "droppedOffTopic": 3,
       "droppedModern": 6,
-      "elapsedMs": 2481
+      "elapsedMs": 2021
     },
     {
       "id": "cambridge-caj",
@@ -439,7 +439,7 @@
       "kept": 19,
       "droppedOffTopic": 5,
       "droppedModern": 6,
-      "elapsedMs": 2471
+      "elapsedMs": 2121
     },
     {
       "id": "cambridge-ejarc",
@@ -452,7 +452,7 @@
       "kept": 17,
       "droppedOffTopic": 5,
       "droppedModern": 8,
-      "elapsedMs": 2448
+      "elapsedMs": 2145
     },
     {
       "id": "aquitania-persee",
@@ -465,7 +465,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3365
+      "elapsedMs": 2820
     },
     {
       "id": "cuadernos-arq-unav",
@@ -478,7 +478,7 @@
       "kept": 20,
       "droppedOffTopic": 2,
       "droppedModern": 8,
-      "elapsedMs": 3756
+      "elapsedMs": 3515
     },
     {
       "id": "veleia-ehu",
@@ -491,7 +491,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3548
+      "elapsedMs": 2863
     },
     {
       "id": "flv-navarra",
@@ -504,7 +504,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2764
+      "elapsedMs": 2282
     },
     {
       "id": "munibe-aa",
@@ -517,7 +517,7 @@
       "kept": 17,
       "droppedOffTopic": 4,
       "droppedModern": 9,
-      "elapsedMs": 2778
+      "elapsedMs": 2245
     },
     {
       "id": "trabajos-prehistoria",
@@ -528,9 +528,9 @@
       "ok": true,
       "fetched": 30,
       "kept": 15,
-      "droppedOffTopic": 5,
-      "droppedModern": 10,
-      "elapsedMs": 3270
+      "droppedOffTopic": 6,
+      "droppedModern": 9,
+      "elapsedMs": 2635
     },
     {
       "id": "openalex-archaeology",
@@ -543,7 +543,7 @@
       "kept": 15,
       "droppedOffTopic": 8,
       "droppedModern": 7,
-      "elapsedMs": 3150
+      "elapsedMs": 2255
     }
   ],
   "items": [
@@ -5532,6 +5532,394 @@
       ]
     },
     {
+      "id": "openalex-archaeology:https://openalex.org/W7203913151",
+      "title": "History of Austrian/Austro-Hungarian archaeology in the Balkans and the eastern Mediterranean, mid-19th to mid-20th cent",
+      "summary": "History of Austrian/Austro-Hungarian archaeology in the Balkans and the eastern Mediterranean, mid-19th to mid-20th cent",
+      "url": "https://www.oeaw.ac.at/ikw/veranstaltungen/veranstaltungsdetails/history-of-austrian-austro-hungarian-archaeology-in-the-balkans-and-the-eastern-mediterranean",
+      "image": null,
+      "publishedAt": "2026-09-21T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "sudouest-culture:https://www.sudouest.fr/charente-maritime/royan/les-douves-d-un-chateau-imposant-et-les-vestiges-d-un-village-medieval-se-devoilent-a-saint-georges-de-didonne-30324640.php",
+      "title": "Les douves d’un château imposant et les vestiges d’un village médiéval se dévoilent à Saint-Georges-de-Didonne",
+      "summary": "Une équipe de l’Institut national de recherches archéologiques préventives (Inrap) a démarré des fouilles archéologiques début juin rue Jean-Moulin avant la construction de logements sociaux",
+      "url": "https://www.sudouest.fr/charente-maritime/royan/les-douves-d-un-chateau-imposant-et-les-vestiges-d-un-village-medieval-se-devoilent-a-saint-georges-de-didonne-30324640.php",
+      "image": null,
+      "publishedAt": "2026-08-24T15:30:00.000Z",
+      "source": {
+        "id": "sudouest-culture",
+        "name": "Sud Ouest — Culture"
+      },
+      "lang": "fr",
+      "region": "basque",
+      "topics": []
+    },
+    {
+      "id": "inrap-bsky:https://bsky.app/profile/inrap.fr/post/3mttlxwiru22a",
+      "title": "",
+      "summary": "Questionnaire : L’archéologie et vous 🔍 Vous êtes désormais plus de 6 000 à avoir répondu à notre questionnaire. Merci ! 👉 Vous n’avez pas encore participé ? C’est par ici : https://docs.google.com/forms/d/e/1FAIpQLSdJziov5M2Iik_e66pOZe3nanzaBxIA0B-nZpFEEvj450Mrpg/viewform…",
+      "url": "https://bsky.app/profile/inrap.fr/post/3mttlxwiru22a",
+      "image": null,
+      "publishedAt": "2026-08-24T15:17:00.000Z",
+      "source": {
+        "id": "inrap-bsky",
+        "name": "Inrap (Bluesky)"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/magazines/ancient-egypt-magazine-156/",
+      "title": "Ancient Egypt Magazine 156",
+      "summary": "Tutankhamun galleries: the crowning glory of the Grand Egyptian Museum Carnelian: the uncertain origins of ancient Egypt’s most popular gemstone Pain relief in ancient Egypt: physical and magical interventions The Litany of Ra: an important New Kingdom text Were women literate…",
+      "url": "https://the-past.com/magazines/ancient-egypt-magazine-156/",
+      "image": null,
+      "publishedAt": "2026-08-24T14:55:00.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak",
+        "museoak"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/review/books/religion-and-the-invisible-world-sanctity-and-spiritual-transformation-in-egypt-from-pharaonic-times-to-the-present/",
+      "title": "Religion and the Invisible World: Sanctity and Spiritual Transformation in Egypt from Pharaonic Times to the Present",
+      "summary": "The Classical historian Herodotus described the Egyptians as the most religious of peoples. And, indeed, many people today find themselves wondering about the cross-overs between religious concepts in pharaonic, Christian, and Islamic",
+      "url": "https://the-past.com/review/books/religion-and-the-invisible-world-sanctity-and-spiritual-transformation-in-egypt-from-pharaonic-times-to-the-present/",
+      "image": null,
+      "publishedAt": "2026-08-24T14:55:00.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/review/books/book-reviews-2/",
+      "title": "Urban Life and Form in Ancient Egypt",
+      "summary": "Although there is a rich source of archaeological evidence for towns and cities in ancient Egypt, research into urbanism has, according to Nadine Moeller, often avoided mention of it, because many of",
+      "url": "https://the-past.com/review/books/book-reviews-2/",
+      "image": null,
+      "publishedAt": "2026-08-24T14:50:00.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/review/books/cleopatra-a-reference-guide-to-her-life-and-works/",
+      "title": "Cleopatra: A Reference Guide to her Life and Works",
+      "summary": "Cleopatra VII now joins such luminaries as Nelson Mandela, Winston Churchill, and Henry VIII, as the latest historical celebrity to have her own volume in Bloomsbury’s ‘Significant Figures in World History’ series.",
+      "url": "https://the-past.com/review/books/cleopatra-a-reference-guide-to-her-life-and-works/",
+      "image": null,
+      "publishedAt": "2026-08-24T14:47:28.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/review/books/book-reviews-3/",
+      "title": "The Reconstruction of the Furniture of Queen Hetepheres I, the Mother of the Pharaoh Khufu",
+      "summary": "Following George Reisner’s discovery (in 1925) and meticulous excavation of the Tomb of Queen Hetepheres I at Giza, William Arnold Stewart was engaged by Reisner to reconstruct the furniture (‘the carrying-chair, the",
+      "url": "https://the-past.com/review/books/book-reviews-3/",
+      "image": null,
+      "publishedAt": "2026-08-24T14:45:00.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/shorts/competitions/win-a-copy-of-weaving-for-eternity-ancient-egyptian-textiles-significant-museum-collections-in-the-north-of-england-edited-by-rosalie-david-and-angela-thomas/",
+      "title": "Win a copy of Weaving for Eternity: ancient Egyptian textiles – significant museum collections in the north of England edited by Rosalie David and Angela Thomas",
+      "summary": "Where is this? If you know, email the Editor peter@ancientegyptmagazine.com before 31 October with your answer, giving your full name, address, and a contact phone number. One lucky reader’s name will be",
+      "url": "https://the-past.com/shorts/competitions/win-a-copy-of-weaving-for-eternity-ancient-egyptian-textiles-significant-museum-collections-in-the-north-of-england-edited-by-rosalie-david-and-angela-thomas/",
+      "image": null,
+      "publishedAt": "2026-08-24T14:40:00.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak",
+        "museoak"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/review/books/book-reviews/",
+      "title": "Weaving for Eternity: Ancient Egyptian Textiles – Significant Museum Collections in the North of England",
+      "summary": "Textiles have long remained in the shadow of more conspicuous archaeological finds such as monumental sculpture, decorated coffins, and jewellery. Yet these often-overlooked artefacts offer vital insights into technology, economics, religion, dress,",
+      "url": "https://the-past.com/review/books/book-reviews/",
+      "image": null,
+      "publishedAt": "2026-08-24T14:40:00.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak",
+        "museoak"
+      ]
+    },
+    {
+      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/des-enfants-vikings-enterres-avec-des-adultes-qui-n-etaient-pas-leurs-parents-proches_194369?xtor=RSS-4",
+      "title": "Les Vikings n’étaient pas nécessairement enterrés en famille",
+      "summary": "Selon de nouvelles analyses génétiques effectuées dans des sépultures suédoises, les adultes inhumés avec des enfants n'étaient que rarement leurs parents directs.",
+      "url": "https://www.sciencesetavenir.fr/archeo-paleo/des-enfants-vikings-enterres-avec-des-adultes-qui-n-etaient-pas-leurs-parents-proches_194369?xtor=RSS-4",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/08/20/cover-r4x3w1200-6a871d2705499-sterhus-church-ruins-copy.jpg",
+      "publishedAt": "2026-08-24T14:34:22.000Z",
+      "source": {
+        "id": "sciencesetavenir-archeo",
+        "name": "Sciences et Avenir — Archéo & Paléo"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa"
+      ]
+    },
+    {
+      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356786",
+      "title": "Assessment of IMU-derived lower-limb kinematics in transtibial amputees: A practical and accessible clinical workflow",
+      "summary": "by Jutima Rattanakoch, Weerawat Limroongreungrat, Gary Guerra, Udomporn Manupibul, Harit Apidech, Wisavaporn Niamsang, Mintra Suphab, Thanaphat Laucha, Manunchaya Samala Clinical gait assessment in individuals with transtibial amputation is limited by the cost, technical…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356786",
+      "image": null,
+      "publishedAt": "2026-08-24T14:00:00.000Z",
+      "source": {
+        "id": "plos-one-arch",
+        "name": "PLOS ONE — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "ekialde-hurbila"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/review/whats-on/ancient-egypt-august-listings-4/",
+      "title": "Ancient Egypt August listings",
+      "summary": "UNFOLDING HISTORY. WRITING IN ANCIENT EGYPT An exhibition exploring the origins of writing, featuring papyri from Elephantine that had been stored in the Brooklyn Museum since 1916 and have never before been",
+      "url": "https://the-past.com/review/whats-on/ancient-egypt-august-listings-4/",
+      "image": null,
+      "publishedAt": "2026-08-24T13:36:23.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak",
+        "museoak"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/news/heliopolis-funerary-set/",
+      "title": "Heliopolis funerary set",
+      "summary": "Archaeologists working at ancient Heliopolis (Matariya, Cairo) have uncovered an almost complete funerary assemblage beneath a mud-brick burial structure. The discovery includes a collection of personal and ritual objects, including a copper",
+      "url": "https://the-past.com/news/heliopolis-funerary-set/",
+      "image": null,
+      "publishedAt": "2026-08-24T12:59:57.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/news/tell-quesna-burials/",
+      "title": "Tell Quesna burials",
+      "summary": "An Egyptian mission has documented an unusual funerary practice in a newly discovered tomb at the Tell Quesna necropolis (Menoufia Governorate), in the central Delta. The team discovered several burials with pottery",
+      "url": "https://the-past.com/news/tell-quesna-burials/",
+      "image": null,
+      "publishedAt": "2026-08-24T12:56:45.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/news/newly-discovered-qurna-tomb/",
+      "title": "Newly discovered Qurna tomb",
+      "summary": "A Dutch team from Leiden University has discovered a previously unknown Ramesside tomb in Sheikh Abd el-Qurna. Wall inscriptions name the owner as an official called Paser. The tomb has a typical",
+      "url": "https://the-past.com/news/newly-discovered-qurna-tomb/",
+      "image": null,
+      "publishedAt": "2026-08-24T12:41:49.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/news/byzantine-city-plan-revealed/",
+      "title": "Byzantine city plan revealed",
+      "summary": "An Egyptian mission excavating the Byzantine-era city at Ain el-Sabil in the Dakhla Oasis has uncovered the overall plan of the settlement and several new mud-brick structures. The city was built on",
+      "url": "https://the-past.com/news/byzantine-city-plan-revealed/",
+      "image": null,
+      "publishedAt": "2026-08-24T12:33:44.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/news/hyksos-era-complex/",
+      "title": "Hyksos-era complex",
+      "summary": "A large multi-functional complex dating to the Fifteenth Dynasty (the Hyksos era) has been uncovered by an Egyptian mission at Tell el-Ku’a in Wadi Tumilat (Ismailia Governorate) in the eastern Nile Delta.",
+      "url": "https://the-past.com/news/hyksos-era-complex/",
+      "image": null,
+      "publishedAt": "2026-08-24T12:19:13.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/08/12-puntas-de-flecha-neoliticas-encontradas-en-anatolia-llevan-raras-marcas-geometricas-cuyo-proposito-se-desconoce",
+      "title": "12 puntas de flecha neolíticas encontradas en Anatolia llevan raras marcas geométricas cuyo propósito se desconoce",
+      "summary": "Un equipo de investigadores franceses y turcos ha publicado un exhaustivo análisis de doce puntas de flecha de obsidiana con incisiones intencionales halladas en el yacimiento neolítico de Tepecik-Çiftlik, en la región de Capadocia (Turquía). Estos objetos, que datan de entre el…",
+      "url": "https://www.labrujulaverde.com/2026/08/12-puntas-de-flecha-neoliticas-encontradas-en-anatolia-llevan-raras-marcas-geometricas-cuyo-proposito-se-desconoce",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/08/tepecik-arrowhead-a-vinet.webp",
+      "publishedAt": "2026-08-24T08:44:27.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/come-era-fatto-uno-scudo-antico/",
+      "title": "“È ferro da rottamare?”. Tra le auto spunta un pezzo di scudo antico. Ha 1.800 anni e dentro conserva ancora le ossa del guerriero vandalo. Un reperto dell’epoca romana, riemerso per caso e salvato prima di essere fuso",
+      "summary": "HRUBIESZÓW (Polonia) – A prima vista poteva sembrare soltanto un pezzo di ferro vecchio, uno dei tanti che finiscono tra automobili arrugginite e parti di motociclette. Invece aveva attraversato quasi 1.800 anni di storia. A riconoscerlo è stato Włodzimierz Starykiewicz, che si…",
+      "url": "https://www.stilearte.it/come-era-fatto-uno-scudo-antico/",
+      "image": null,
+      "publishedAt": "2026-08-24T08:29:51.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/pietra-ollare-alpe-pirlo-tesoro-como/",
+      "title": "Dall’Alpe Pirlo al tesoro di Como: lo scavo del tornio riporta alla luce la storia della pietra ollare, la roccia delle pentole e dello “scrigno” d’oro romano. Tracce lombarde anche in Grecia",
+      "summary": "All’Alpe Pirlo, nel territorio di Chiesa in Valmalenco, si è appena conclusa una campagna di scavo archeologico nell’ambito di un antico impianto per la lavorazione della pietra ollare. Gli archeologi hanno lavorato attorno alle strutture di un tornio, cioè uno degli strumenti…",
+      "url": "https://www.stilearte.it/pietra-ollare-alpe-pirlo-tesoro-como/",
+      "image": null,
+      "publishedAt": "2026-08-24T07:53:18.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak",
+        "greziarrak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/08/hace-7000-anos-los-ultimos-cazadores-recolectores-se-encontraron-con-los-primeros-agricultores-en-un-lago-de-alemania-esto-fue-lo-que-sucedio",
+      "title": "Hace 7000 años los últimos cazadores-recolectores se encontraron con los primeros agricultores en un lago de Alemania: esto fue lo que sucedió",
+      "summary": "Las más de 50.000 piezas de cerámica halladas en el yacimiento de Hüde I, en el lago Dümmer (Baja Sajonia, Alemania), están proporcionando una visión sin precedentes sobre cómo se produjo la transición del estilo de vida cazador-recolector a la agricultura en el norte de Europa.…",
+      "url": "https://www.labrujulaverde.com/2026/08/hace-7000-anos-los-ultimos-cazadores-recolectores-se-encontraron-con-los-primeros-agricultores-en-un-lago-de-alemania-esto-fue-lo-que-sucedio",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/08/1-s2.0-S2352409X26003767-gr4_lrg.webp",
+      "publishedAt": "2026-08-24T07:06:52.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/feature/the-grand-egyptian-museum/",
+      "title": "The Grand Egyptian Museum",
+      "summary": "Geoffrey Lenox-Smith pays a return visit to the Grand Egyptian Museum to view the new galleries.",
+      "url": "https://the-past.com/feature/the-grand-egyptian-museum/",
+      "image": null,
+      "publishedAt": "2026-08-20T05:00:37.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak",
+        "museoak"
+      ]
+    },
+    {
       "id": "bbc-history:https://www.historyextra.com/period/ancient-greece/zeus-law-moral-code-odyssey-christopher-nolan/",
       "title": "What is 'Zeus's Law'? The ancient moral code of The Odyssey explained",
       "summary": "Behaving well as a host or visitor wasn’t just a matter of etiquette for the ancient Greeks – it was a sacred duty. Hilary Mitchell explores xenia, the ancient code of hospitality at the heart of Christopher Nolan’s The Odyssey",
@@ -8542,389 +8930,6 @@
         "prehistoria",
         "aurkikuntza"
       ]
-    },
-    {
-      "id": "cambridge-antiquity:https://openalex.org/W7165122204",
-      "title": "Christopher Pare. 2025. Iron and the Iron Age: the introduction of iron in Europe and Western Asia. Oxford: Archaeopress; 978-1-80583-000-9 hardback £70 ebook OpenAccess http://doi.org/10.32028/9781805830009",
-      "summary": "An abstract is not available for this content. As you have access to this content, full HTML content is provided on this page. A PDF of this content is also available in through the ‘Save PDF’ action button.",
-      "url": "https://doi.org/10.15184/aqy.2026.10363",
-      "image": null,
-      "publishedAt": "2026-06-19T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-antiquity",
-        "name": "Antiquity (Cambridge)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/come-romani-producevano-calce-fornace-bicske/",
-      "title": "Ma cosa c’è lì sotto? Scoprono una struttura dei tempi di Roma antica. Gli archeologi seguono una traccia biancastra nel terreno. Perchè quella cavità? Cosa producevano?",
-      "summary": "Una parete circolare emerge lentamente dalla terra. Poi compare una cavità profonda, scavata nel pendio della collina, con pareti annerite dal fuoco e uno strano velo biancastro ancora aderente alla superficie. Gli archeologi lavorano centimetro dopo centimetro e, mentre la…",
-      "url": "https://www.stilearte.it/come-romani-producevano-calce-fornace-bicske/",
-      "image": null,
-      "publishedAt": "2026-06-18T23:43:18.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/spada-eta-del-bronzo-polonia-foresta-danzica/",
-      "title": "Infissa per la punta, come la spada nella roccia. Nel bosco un appassionato cercatore trova questa splendida arma. Chi la piantò nel terreno? Come fu costruita? Rito dell’Età del Bronzo",
-      "summary": "Una rara spada di bronzo databile tra il 900 e il 700 a.C. è stata scoperta in questi gioirni in una foresta della Pomerania, nel nord della Polonia, a pochi chilometri da Danzica (Gdańsk) e a circa 340 chilometri da Varsavia, la capitale del Paese. Il ritrovamento è avvenuto…",
-      "url": "https://www.stilearte.it/spada-eta-del-bronzo-polonia-foresta-danzica/",
-      "image": null,
-      "publishedAt": "2026-06-18T22:44:33.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/06/encuentran-en-la-antigua-aspendo-un-excepcional-mosaico-del-dios-rio-eurimedonte-del-siglo-iii-dc",
-      "title": "Encuentran en la antigua Aspendo un excepcional mosaico del dios río Eurimedonte del siglo III d.C.",
-      "summary": "Las excavaciones arqueológicas que el Ministerio de Cultura y Turismo de Turquía lleva a cabo en la antigua ciudad de Aspendo, ubicada en la provincia de Antalya, han deparado un descubrimiento de excepcional valor para la historia del arte romano en Anatolia. Los trabajos…",
-      "url": "https://www.labrujulaverde.com/2026/06/encuentran-en-la-antigua-aspendo-un-excepcional-mosaico-del-dios-rio-eurimedonte-del-siglo-iii-dc",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/06/509208-25BC8E0482B06C83E734D45E0433B8FC8E0C7387-0.webp",
-      "publishedAt": "2026-06-18T16:09:44.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "erromatarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/scoperto-mosaico-dio-fluviale-eurimedonte-aspendos/",
-      "title": "Meraviglioso mosaico romano scoperto ora in un edificio di 1800 anni fa. Chi è il flessuoso giovane? Cosa rappresentano i pannelli? Un viaggio tra la luce e l’acqua. Che danno gioia",
-      "summary": "Dal terreno emerge un giovane dio delle acque. E’ inserito placidamente, in una pozza, alla sorgente, in un punto in cui le sue acqua placide consentono alla vegetazione di prosperare. Tutto è dominato da una tonalità verde azzurrina, com’è nei luoghi ombrosi presso le pozze. È…",
-      "url": "https://www.stilearte.it/scoperto-mosaico-dio-fluviale-eurimedonte-aspendos/",
-      "image": null,
-      "publishedAt": "2026-06-18T14:13:33.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352028",
-      "title": "Quantifying and modeling fabric surface roughness discrepancy: Consistency between physical and digital textures in online shopping",
-      "summary": "by Eugene Lee, Youngjoo Chae In digital textile commerce, the absence of tactile interaction limits consumers’ ability to perceive fabric properties, often leading to mismatched expectations and product dissatisfaction. This study aimed to quantify the perceptual discrepancy in…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352028",
-      "image": null,
-      "publishedAt": "2026-06-18T14:00:00.000Z",
-      "source": {
-        "id": "plos-one-arch",
-        "name": "PLOS ONE — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "ekialde-hurbila"
-      ]
-    },
-    {
-      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351962",
-      "title": "Harvester perceptions of pesticide impacts on snail collection along Cameroon’s Atlantic coast",
-      "summary": "by Yannick Elysée Ewane Epée, Annick Niquaise Enangue Njembele, Christian Bernard Kaldjob Mbeh, Emmanuel Ndinga Go’o, Alexis Hamdja Ngoniri, Kingsley Agbor Etchu The coastal regions of Cameroon comprising South-West, Littoral, and South are major agricultural hubs and important…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351962",
-      "image": null,
-      "publishedAt": "2026-06-18T14:00:00.000Z",
-      "source": {
-        "id": "plos-one-arch",
-        "name": "PLOS ONE — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "ekialde-hurbila"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/tavoletta-maledizione-romana-greco-egizia-heerlen/",
-      "title": "Due donne e due uomini uniti da una maledizione. Decifrata una rara tavoletta magica romana nascosta per 1800 anni. Caratteri magici, rinvii egizi, nomi in greco e in latino. Cosa voleva dire?",
-      "summary": "Impero romano – Oggi quella voce è tornata a parlare. Grazie a una sofisticata indagine condotta dall’Università di Heidelberg, una rara tavoletta di maledizione romana è stata finalmente decifrata, rivelando un sorprendente intreccio di magia egizia, lingua greca e società…",
-      "url": "https://www.stilearte.it/tavoletta-maledizione-romana-greco-egizia-heerlen/",
-      "image": null,
-      "publishedAt": "2026-06-18T12:58:40.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak",
-        "greziarrak"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/06/descubren-en-veracruz-una-extrana-escultura-monolitica-con-dos-personajes-que-reciben-un-fluido-proveniente-de-una-entidad-divina",
-      "title": "Descubren en Veracruz una extraña escultura monolítica con dos personajes que reciben un “fluido proveniente de una entidad divina”",
-      "summary": "Las excavaciones, realizadas por el Instituto Nacional de Antropología e Historia (INAH) como parte del proyecto de salvamento arqueológico en un predio de aproximadamente 12 hectáreas destinado a uso habitacional, han puesto al descubierto vestigios que amplían el conocimiento…",
-      "url": "https://www.labrujulaverde.com/2026/06/descubren-en-veracruz-una-extrana-escultura-monolitica-con-dos-personajes-que-reciben-un-fluido-proveniente-de-una-entidad-divina",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/06/foto_home.webp",
-      "publishedAt": "2026-06-18T10:18:13.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/sepoltura-medievale-coltello-collo-polonia/",
-      "title": "Inquietante scoperta. Coltello sotto il collo e un chiodo nel petto. Il mistero della tomba medievale che divide gli archeologi. Gli studiosi: “Non pensiamo sempre ai vampiri”. Chi era, allora?",
-      "summary": "Su un’altura che domina un lago della Masuria occidentale, gli archeologi hanno appena riportato alla luce una sepoltura capace di riaccendere interrogativi antichi quanto l’umanità stessa: che cosa accade dopo la morte? E come si affronta la paura del ritorno dei defunti? O di…",
-      "url": "https://www.stilearte.it/sepoltura-medievale-coltello-collo-polonia/",
-      "image": null,
-      "publishedAt": "2026-06-18T10:05:10.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erdi-aroa"
-      ]
-    },
-    {
-      "id": "lemonde-sciences:https://www.lemonde.fr/sciences/article/2026/06/18/le-rouge-comme-objet-archeologique-des-premieres-grottes-ornees-au-symbole-revolutionnaire_6704528_1650684.html",
-      "title": "Le rouge comme objet archéologique, des premières grottes ornées au symbole révolutionnaire",
-      "summary": "L’exposition « Rouge ! Archéologie d’une couleur », au Musée Archéa, dans le Val-d’Oise, décline l’ocre et la pourpre dans tous les tons.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/06/18/le-rouge-comme-objet-archeologique-des-premieres-grottes-ornees-au-symbole-revolutionnaire_6704528_1650684.html",
-      "image": "https://img.lemde.fr/2026/06/16/684/0/8192/4096/644/322/60/0/3d115b2_upload-1-ihexwrrt66ro-48a2050.jpg",
-      "publishedAt": "2026-06-18T09:30:10.000Z",
-      "source": {
-        "id": "lemonde-sciences",
-        "name": "Le Monde — Sciences"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": [
-        "museoak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/magazines/ancient-egypt-magazine-155/",
-      "title": "Ancient Egypt Magazine 155",
-      "summary": "The mineral wealth of Pharaonic Egypt: how geology led to wealth Jacques de Morgan, French mining engineer and archaeologist, at Dahshur Pain relief in ancient Egypt: plant-based remedies The Lost Kingdom of Yam: in search of a mysterious land Beyond Montet: new discoveries in…",
-      "url": "https://the-past.com/magazines/ancient-egypt-magazine-155/",
-      "image": null,
-      "publishedAt": "2026-06-18T08:15:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "egiptoarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/06/arqueologos-descifran-una-tablilla-de-maldicion-romana-con-simbolos-magicos-encontrada-en-la-antigua-coriovallum",
-      "title": "Arqueólogos descifran una tablilla de maldición romana con símbolos mágicos encontrada en la antigua Coriovallum",
-      "summary": "Un equipo de investigación de la Universidad de Heidelberg ha logrado descifrar el contenido de una tablilla de maldición de época romana hallada en el municipio neerlandés de Heerlen, un descubrimiento que aporta nuevas claves sobre la difusión de prácticas mágicas sincréticas…",
-      "url": "https://www.labrujulaverde.com/2026/06/arqueologos-descifran-una-tablilla-de-maldicion-romana-con-simbolos-magicos-encontrada-en-la-antigua-coriovallum",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/06/eerlencursetablet.webp",
-      "publishedAt": "2026-06-18T08:06:28.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "erromatarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/argento-arabo-monete-vichinghe-damhus/",
-      "title": "Scoperto uno strano “tintinnio” degli isotopi delle monete vichinghe. Quale segreto nascondono? Come furono prodotte? Come hanno fatto gli studiosi ad accertare l’anomalia? Le risposte degli esperti",
-      "summary": "Nell’Europa del IX secolo, quando i regni carolingi consolidavano il proprio potere e le rotte commerciali iniziavano a collegare stabilmente il Baltico con l’Asia centrale e il mondo islamico, una piccola città della costa occidentale danese divenne il punto d’incontro di…",
-      "url": "https://www.stilearte.it/argento-arabo-monete-vichinghe-damhus/",
-      "image": null,
-      "publishedAt": "2026-06-18T08:01:26.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/06/descubren-un-antiguo-santuario-alineado-con-el-solsticio-construido-como-prototipo-500-anos-antes-de-stonehenge",
-      "title": "Descubren un antiguo santuario alineado con el solsticio, construido como «prototipo» 500 años antes de Stonehenge",
-      "summary": "A pocos días de que miles de personas se congreguen en Stonehenge para celebrar el solsticio de verano el próximo 21 de junio, un equipo de arqueólogos de Wessex Archaeology liderado por Phil Harding ha anunciado el descubrimiento de una estructura ancestral que podría haber…",
-      "url": "https://www.labrujulaverde.com/2026/06/descubren-un-antiguo-santuario-alineado-con-el-solsticio-construido-como-prototipo-500-anos-antes-de-stonehenge",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/06/A-reconstruction-of-summer-solstice-celebrations-Bulford-5000-years-ago.webp",
-      "publishedAt": "2026-06-18T07:27:35.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/veracruz-scoperta-piattaforma-monolite-civilta-sconosciuta/",
-      "title": "Controllo prima dei lavori edilizi. Ed ecco apparire una civiltà sconosciuta. Un tempio e uno strano bassorilievo. Un dio che consegna un liquido. Ma che popolo era? La risposta degli archeologi",
-      "summary": "Per secoli è rimasto nascosto sotto terreni destinati all’espansione edilizia, in una zona collinare ricca di vegetazione tropicale e di coltivazioni di caffè. Oggi, da quello stesso sottosuolo, emerge un complesso archeologico che potrebbe modificare la conoscenza delle culture…",
-      "url": "https://www.stilearte.it/veracruz-scoperta-piattaforma-monolite-civilta-sconosciuta/",
-      "image": null,
-      "publishedAt": "2026-06-18T07:22:09.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "cambridge-caj:https://openalex.org/W7165206646",
-      "title": "Gold Mask Burials in Archaic Macedonia: Between Mortuary Practice and Social Performance",
-      "summary": "Abstract Gold mask burials constitute a remarkable cultural phenomenon linking diverse landscapes between the northern Aegean and the central Balkans. Their primary manifestation includes full-face masks and gold foils used to cover the body, accompanied by an ostentatious,…",
-      "url": "https://doi.org/10.1017/s0959774326100663",
-      "image": null,
-      "publishedAt": "2026-06-18T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-caj",
-        "name": "Cambridge Archaeological Journal"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "cambridge-antiquity:https://openalex.org/W7164919299",
-      "title": "Assessment of the threatened geoglyphs of Alto Caramucho, in the Atacama Desert, using new technologies",
-      "summary": "Photographed over more than two decades, alterations to the Alto Caramucho geoglyphs in the Atacama Desert show the unfolding of a heritage disaster. This article presents research that integrates new digital technologies (photogrammetry and artificial intelligence) for the…",
-      "url": "https://doi.org/10.15184/aqy.2026.10372",
-      "image": null,
-      "publishedAt": "2026-06-16T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-antiquity",
-        "name": "Antiquity (Cambridge)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "cambridge-antiquity:https://openalex.org/W7165044043",
-      "title": "Understanding a first attempt at pottery: early fired containers at Çemka Höyük",
-      "summary": "This study examines clay fragments found at Çemka Höyük, a Pre-Pottery Neolithic site in Mardin, Türkiye (tenth millennium BC). Analysis of mineral inclusions in the clay matrix indicates that these fragments may have been deliberately fired, representing an early example of…",
-      "url": "https://doi.org/10.15184/aqy.2026.10371",
-      "image": null,
-      "publishedAt": "2026-06-15T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-antiquity",
-        "name": "Antiquity (Cambridge)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "cambridge-antiquity:https://openalex.org/W7164170862",
-      "title": "Reconnecting the dead in Iron Age Britain: funerary processing and long-distance connectivity at Loch Borralie, Scotland",
-      "summary": "Though mortuary practices seem largely archaeologically invisible in Iron Age Britain, the visible dead were subject to diverse treatment. Here, the authors report the results of a multi-strand analysis of two Iron Age skeletons buried in a stone cairn at Loch Borralie,…",
-      "url": "https://doi.org/10.15184/aqy.2026.10353",
-      "image": null,
-      "publishedAt": "2026-06-10T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-antiquity",
-        "name": "Antiquity (Cambridge)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "cambridge-caj:https://openalex.org/W7164181232",
-      "title": "‘The Bells Are Harmonious and Resonant’: Numinous Ancestors, Resonant Bells and the Personhood of Lord Qiu of Zeng in Tomb M190 at Zaoshulin, Hubei",
-      "summary": "Abstract Although bronze bells from the Zhou dynasty ( c. 1046–256 bce ) have been widely studied, their roles within their ontological contexts remain underexplored. This article integrates archaeological evidence, textual records and posthumanist theories to reconsider how the…",
-      "url": "https://doi.org/10.1017/s0959774326100651",
-      "image": null,
-      "publishedAt": "2026-06-10T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-caj",
-        "name": "Cambridge Archaeological Journal"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S030544032600124X?dgcid=rss_sd_all",
-      "title": "Combining elemental analysis and molecular techniques to characterize Ancient Egyptian mummification balms",
-      "summary": "Publication date: July 2026 Source: Journal of Archaeological Science, Volume 191 Author(s): Marta Colmenares-Prado, Antonio Martínez Cortizas, Joeri Kaal, María Benito Sánchez, María García Velasco, Olalla López-Costas",
-      "url": "https://www.sciencedirect.com/science/article/pii/S030544032600124X?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-06-07T05:57:00.410Z",
-      "source": {
-        "id": "sciencedirect-jas",
-        "name": "Journal of Archaeological Science (ScienceDirect)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "egiptoarrak"
-      ]
-    },
-    {
-      "id": "cambridge-caj:https://openalex.org/W7163376842",
-      "title": "Dehumanization, Segregation and Emotions in Past European Psychiatric Institutions",
-      "summary": "Abstract This paper investigates the lived experiences of individuals confined within two major European psychiatric institutions, Miguel Bombarda Hospital in Portugal and the Cadillac-sur-Garonne psychiatric hospital in France, between the nineteenth and twentieth centuries.…",
-      "url": "https://doi.org/10.1017/s0959774326100614",
-      "image": null,
-      "publishedAt": "2026-06-03T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-caj",
-        "name": "Cambridge Archaeological Journal"
-      },
-      "lang": "en",
-      "region": "iberia",
-      "topics": []
     }
   ]
 }
