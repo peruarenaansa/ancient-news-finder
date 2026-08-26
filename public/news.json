@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T02:35:22.411Z",
+  "generatedAt": "2026-08-26T02:43:13.064Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 4917
+      "elapsedMs": 6340
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 966
+      "elapsedMs": 982
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1129
+      "elapsedMs": 5500
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 792
+      "elapsedMs": 763
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2229
+      "elapsedMs": 3689
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 7,
       "droppedOffTopic": 23,
       "droppedModern": 0,
-      "elapsedMs": 2317
+      "elapsedMs": 3774
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1257
+      "elapsedMs": 1417
     },
     {
       "id": "labrujulaverde",
@@ -98,10 +98,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 14,
-      "droppedOffTopic": 2,
-      "droppedModern": 4,
-      "elapsedMs": 1542
+      "kept": 16,
+      "droppedOffTopic": 1,
+      "droppedModern": 3,
+      "elapsedMs": 1770
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 6,
       "droppedOffTopic": 4,
       "droppedModern": 2,
-      "elapsedMs": 976
+      "elapsedMs": 1374
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2120
+      "elapsedMs": 1938
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 627
+      "elapsedMs": 1181
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 7,
       "droppedOffTopic": 10,
       "droppedModern": 3,
-      "elapsedMs": 914
+      "elapsedMs": 1654
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +162,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 15,
+      "fetched": 16,
       "kept": 3,
-      "droppedOffTopic": 12,
+      "droppedOffTopic": 13,
       "droppedModern": 0,
-      "elapsedMs": 1243
+      "elapsedMs": 1725
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +179,7 @@
       "kept": 6,
       "droppedOffTopic": 16,
       "droppedModern": 4,
-      "elapsedMs": 2308
+      "elapsedMs": 3706
     },
     {
       "id": "sudouest-culture",
@@ -192,7 +192,7 @@
       "kept": 1,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1387
+      "elapsedMs": 1643
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1771
+      "elapsedMs": 2318
     },
     {
       "id": "archeologiaviva",
@@ -215,10 +215,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 2,
+      "kept": 0,
       "droppedOffTopic": 1,
-      "droppedModern": 7,
-      "elapsedMs": 2016
+      "droppedModern": 9,
+      "elapsedMs": 2694
     },
     {
       "id": "stilearte",
@@ -228,10 +228,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 7,
+      "kept": 8,
       "droppedOffTopic": 0,
-      "droppedModern": 3,
-      "elapsedMs": 2023
+      "droppedModern": 2,
+      "elapsedMs": 2837
     },
     {
       "id": "live-science-arch",
@@ -241,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 4,
-      "droppedOffTopic": 26,
+      "kept": 3,
+      "droppedOffTopic": 27,
       "droppedModern": 0,
-      "elapsedMs": 2009
+      "elapsedMs": 3389
     },
     {
       "id": "bbc-history",
@@ -254,10 +254,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 1,
-      "droppedOffTopic": 9,
+      "kept": 0,
+      "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1398
+      "elapsedMs": 2732
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +270,7 @@
       "kept": 18,
       "droppedOffTopic": 12,
       "droppedModern": 0,
-      "elapsedMs": 1378
+      "elapsedMs": 2300
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1369
+      "elapsedMs": 2335
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 11,
       "droppedOffTopic": 7,
       "droppedModern": 2,
-      "elapsedMs": 1576
+      "elapsedMs": 2454
     },
     {
       "id": "current-archaeology",
@@ -309,7 +309,7 @@
       "kept": 24,
       "droppedOffTopic": 5,
       "droppedModern": 1,
-      "elapsedMs": 1554
+      "elapsedMs": 2250
     },
     {
       "id": "jas-reports",
@@ -322,7 +322,7 @@
       "kept": 12,
       "droppedOffTopic": 1,
       "droppedModern": 17,
-      "elapsedMs": 1359
+      "elapsedMs": 2128
     },
     {
       "id": "plos-one-arch",
@@ -332,10 +332,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1521
+      "elapsedMs": 2466
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 20,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 2385
+      "elapsedMs": 3263
     },
     {
       "id": "sciencedirect-jas",
@@ -357,11 +357,11 @@
       "region": "world",
       "kind": "research",
       "ok": true,
-      "fetched": 14,
-      "kept": 3,
+      "fetched": 15,
+      "kept": 4,
       "droppedOffTopic": 2,
       "droppedModern": 9,
-      "elapsedMs": 1324
+      "elapsedMs": 2378
     },
     {
       "id": "spal-us",
@@ -374,7 +374,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2269
+      "elapsedMs": 3401
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +387,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 3353
+      "elapsedMs": 4804
     },
     {
       "id": "archeoarte",
@@ -400,7 +400,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2084
+      "elapsedMs": 3545
     },
     {
       "id": "cypsela",
@@ -413,7 +413,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2052
+      "elapsedMs": 3680
     },
     {
       "id": "cambridge-antiquity",
@@ -426,7 +426,7 @@
       "kept": 21,
       "droppedOffTopic": 3,
       "droppedModern": 6,
-      "elapsedMs": 2021
+      "elapsedMs": 3488
     },
     {
       "id": "cambridge-caj",
@@ -436,10 +436,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 19,
+      "kept": 18,
       "droppedOffTopic": 5,
-      "droppedModern": 6,
-      "elapsedMs": 2121
+      "droppedModern": 7,
+      "elapsedMs": 3537
     },
     {
       "id": "cambridge-ejarc",
@@ -452,7 +452,7 @@
       "kept": 17,
       "droppedOffTopic": 5,
       "droppedModern": 8,
-      "elapsedMs": 2145
+      "elapsedMs": 3404
     },
     {
       "id": "aquitania-persee",
@@ -465,7 +465,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2820
+      "elapsedMs": 4324
     },
     {
       "id": "cuadernos-arq-unav",
@@ -478,7 +478,7 @@
       "kept": 20,
       "droppedOffTopic": 2,
       "droppedModern": 8,
-      "elapsedMs": 3515
+      "elapsedMs": 4947
     },
     {
       "id": "veleia-ehu",
@@ -491,7 +491,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 2863
+      "elapsedMs": 4671
     },
     {
       "id": "flv-navarra",
@@ -504,7 +504,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2282
+      "elapsedMs": 3839
     },
     {
       "id": "munibe-aa",
@@ -514,10 +514,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 17,
-      "droppedOffTopic": 4,
+      "kept": 18,
+      "droppedOffTopic": 3,
       "droppedModern": 9,
-      "elapsedMs": 2245
+      "elapsedMs": 3747
     },
     {
       "id": "trabajos-prehistoria",
@@ -527,10 +527,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 15,
-      "droppedOffTopic": 6,
+      "kept": 14,
+      "droppedOffTopic": 7,
       "droppedModern": 9,
-      "elapsedMs": 2635
+      "elapsedMs": 3873
     },
     {
       "id": "openalex-archaeology",
@@ -543,7 +543,7 @@
       "kept": 15,
       "droppedOffTopic": 8,
       "droppedModern": 7,
-      "elapsedMs": 2255
+      "elapsedMs": 4014
     }
   ],
   "items": [
@@ -4473,6 +4473,208 @@
       "topics": [
         "erdi-aroa",
         "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326001962?dgcid=rss_sd_all",
+      "title": "Multiphase human cannibalism in Neolithic southern Iberia: Chronological and taphonomic evidence from Malalmuerzo, Carigüela, and Majolicas Caves",
+      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science, Volume 194 Author(s): Palmira Saladié, Antonio Rodríguez-Hidalgo, Francesc Marginedas, Ana Solari, Miguel C. Botella",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326001962?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-08-26T02:43:09.125Z",
+      "source": {
+        "id": "sciencedirect-jas",
+        "name": "Journal of Archaeological Science (ScienceDirect)"
+      },
+      "lang": "en",
+      "region": "iberia",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "sudouest-culture:https://www.sudouest.fr/culture/histoire/le-bassin-d-arcachon-est-tout-sauf-un-desert-archeologique-dans-son-emission-de-radio-il-fait-decouvrir-l-histoire-du-territoire-29346200.php",
+      "title": "« Le bassin d’Arcachon est tout sauf un désert archéologique » : dans son émission de radio, il fait découvrir l’histoire du territoire",
+      "summary": "Associé au CNRS, le docteur Jean-Olivier Gransard-Desmond anime chaque samedi une chronique radio où il évoque les gisements archéologiques du Bassin et dépoussière les idées reçues sur son métier",
+      "url": "https://www.sudouest.fr/culture/histoire/le-bassin-d-arcachon-est-tout-sauf-un-desert-archeologique-dans-son-emission-de-radio-il-fait-decouvrir-l-histoire-du-territoire-29346200.php",
+      "image": null,
+      "publishedAt": "2026-08-25T16:32:00.000Z",
+      "source": {
+        "id": "sudouest-culture",
+        "name": "Sud Ouest — Culture"
+      },
+      "lang": "fr",
+      "region": "basque",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/08/la-tumba-de-una-joven-vikinga-con-restos-de-tejido-de-un-vestido-de-hace-1300-anos-encontrada-en-jutlandia-occidental",
+      "title": "La tumba de una joven vikinga con restos de tejido de un vestido de hace 1300 años encontrada en Jutlandia Occidental",
+      "summary": "La arqueología danesa se enfrenta a uno de los descubrimientos más singulares de la última década en el ámbito de la indumentaria nórdica antigua. Durante la excavación en el yacimiento conocido como Skonager (ARV 661), llevada a cabo en las proximidades de Varde, en el corazón…",
+      "url": "https://www.labrujulaverde.com/2026/08/la-tumba-de-una-joven-vikinga-con-restos-de-tejido-de-un-vestido-de-hace-1300-anos-encontrada-en-jutlandia-occidental",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/08/784717868_1044821811713432_5080863287916627099_n.png.webp",
+      "publishedAt": "2026-08-25T14:55:24.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erdi-aroa",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/scoperta-karahantepe-statua-11000-anni-uomo-leopardo-dio-metamorfico/",
+      "title": "Meraviglioso ruggito: scoperta ora a Karahantepe la statua di 11.000 anni fa. Un essere metamorfico, uomo e leopardo, con la ferocia che emerge dall’inguine",
+      "summary": "È stata scoperta proprio in questi giorni, durante la campagna di scavo 2026, una delle più enigmatiche sculture del Neolitico: – siamo in un momento di transizione dalla caccia all’agricoltura – un essere umano seduto sul dorso di un leopardo, ma costruito in modo tale che uomo…",
+      "url": "https://www.stilearte.it/scoperta-karahantepe-statua-11000-anni-uomo-leopardo-dio-metamorfico/",
+      "image": null,
+      "publishedAt": "2026-08-25T14:00:26.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/ritual-solstice-structure-1-000-years-older-than-stonehenge-unearthed-in-czech-republic",
+      "title": "Ritual solstice structure 1,000 years older than Stonehenge unearthed in Czech Republic",
+      "summary": "Archaeologists have discovered a prehistoric ritual structure oriented to the sun and moon in the Czech Republic.",
+      "url": "https://www.livescience.com/archaeology/ritual-solstice-structure-1-000-years-older-than-stonehenge-unearthed-in-czech-republic",
+      "image": "https://cdn.mos.cms.futurecdn.net/xqWnn69mpHZ9kQ7c4Y7KwW-1280-80.png",
+      "publishedAt": "2026-08-25T14:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/porto-etrusco-sommerso-santa-marinella/",
+      "title": "A Santa Marinella scoperto un approdo etrusco di 2.300 anni fa, con un bacino di 3.000 metri. A due metri sotto il mare, davanti al santuario di Minerva",
+      "summary": "Sotto appena un metro e mezzo d’acqua, a circa 90 metri dalla costa di Santa Marinella, in provincia di Roma, è riemersa la traccia di una grande struttura portuale costruita in blocchi di pietra e organizzata intorno a un bacino protetto. A soli 130 metri si trova il santuario…",
+      "url": "https://www.stilearte.it/porto-etrusco-sommerso-santa-marinella/",
+      "image": null,
+      "publishedAt": "2026-08-25T12:24:19.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/danimarca-scoperta-la-tomba-rarissima-di-una-ragazza-vichinga-le-fibule-conservano-stoffa-dellabito-di-1-300-anni-fa-e-parente-anche-di-tanti-italiani-perche-inizia-la-ricostruzione-te/",
+      "title": "Danimarca, scoperta la tomba rarissima di una ragazza vichinga: le fibule conservano stoffa dell’abito di 1.300 anni fa. E’ parente anche di tanti italiani. Perché? Inizia la ricostruzione tessile",
+      "summary": "A Skonager, nello Jutland occidentale, in Danimarca, una sepoltura eccezionalmente rara sta restituendo qualcosa che normalmente scompare quasi completamente dall’archeologia: l’abito di una giovane donna vissuta circa 1.300 anni fa. Sotto la terra sono sopravvissuti frammenti…",
+      "url": "https://www.stilearte.it/danimarca-scoperta-la-tomba-rarissima-di-una-ragazza-vichinga-le-fibule-conservano-stoffa-dellabito-di-1-300-anni-fa-e-parente-anche-di-tanti-italiani-perche-inizia-la-ricostruzione-te/",
+      "image": null,
+      "publishedAt": "2026-08-25T09:46:56.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/08/encuentran-en-yucatan-el-asentamiento-maya-de-koxol-jaii-que-revela-como-era-la-vida-cotidiana-entre-las-poblaciones-no-privilegiadas",
+      "title": "Encuentran en Yucatán el asentamiento maya de K’oxol Ja’II que revela como era la vida cotidiana entre las poblaciones no privilegiadas",
+      "summary": "En el interior de la península de Yucatán, donde la vegetación selvática se entrelaza con la roca caliza característica de la región, un equipo de arqueólogos del Instituto Nacional de Antropología e Historia ha sacado a la luz un asentamiento que viene a completar el complejo…",
+      "url": "https://www.labrujulaverde.com/2026/08/encuentran-en-yucatan-el-asentamiento-maya-de-koxol-jaii-que-revela-como-era-la-vida-cotidiana-entre-las-poblaciones-no-privilegiadas",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/08/foto1.webp",
+      "publishedAt": "2026-08-25T09:30:49.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "amerika"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/08/descubren-sumergido-a-dos-metros-de-profundidad-en-la-costa-de-roma-un-puerto-etrusco-del-siglo-iv-ac-el-mas-antiguo-vinculado-a-un-templo",
+      "title": "Descubren sumergido a dos metros de profundidad en la costa de Roma un puerto etrusco del siglo IV a.C., el más antiguo vinculado a un templo",
+      "summary": "Un equipo de arqueólogos submarinos y geólogos de la Universidad Sapienza de Roma y del Centro de Estudios Marítimos ha localizado frente a la localidad de Santa Marinella, al norte de Roma, los restos de un antiguo muelle y dársena que, según los investigadores, constituyen la…",
+      "url": "https://www.labrujulaverde.com/2026/08/descubren-sumergido-a-dos-metros-de-profundidad-en-la-costa-de-roma-un-puerto-etrusco-del-siglo-iv-ac-el-mas-antiguo-vinculado-a-un-templo",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/08/1-s2.0-S1296207426000932-gr4_lrg.webp",
+      "publishedAt": "2026-08-25T08:48:22.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak",
+        "ekialde-hurbila",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/08/la-batalla-de-navarino-el-dia-que-la-flota-otomana-fue-borrada-del-mapa-y-grecia-consiguio-su-independencia",
+      "title": "La Batalla de Navarino, el día que la flota otomana fue borrada del mapa y Grecia consiguió su independencia",
+      "summary": "«Le he enviado una cinta cuando, en realidad, lo que merecía era una soga». Esta frase se atribuye al rey Jorge IV de Inglaterra y la cinta en cuestión sería la de la Orden del Baño, que acababa de conceder a Edward Codrington, el almirante que había obtenido la victoria en la…",
+      "url": "https://www.labrujulaverde.com/2026/08/la-batalla-de-navarino-el-dia-que-la-flota-otomana-fue-borrada-del-mapa-y-grecia-consiguio-su-independencia",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/08/Navarino.webp",
+      "publishedAt": "2026-08-25T07:05:56.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "greziarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/statua-romana-recuperata-danubio-intercisa-dunaaujvaros/",
+      "title": "Il Danubio restituisce una grande statua romana quasi intatta: centinaia di chili di pietra riemergono dall’antica Intercisa in Ungheria. Cosa c’era in quel punto",
+      "summary": "Una grande statua romana, quasi completamente integra e del peso di diverse centinaia di chilogrammi, è stata recuperata dal Danubio presso Dunaújváros, in Ungheria. Il ritrovamento è avvenuto ora nell’area dell’antica Intercisa, importante fortezza e insediamento civile romano…",
+      "url": "https://www.stilearte.it/statua-romana-recuperata-danubio-intercisa-dunaaujvaros/",
+      "image": null,
+      "publishedAt": "2026-08-25T06:54:35.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/scoperte-abitazioni-maya-circolari-yucatan/",
+      "title": "Ma cosa sono quelli? Cerchi millenari di pietra scoperti durante i lavori per la ferrovia. Il luogo si chiama Acqua delle zanzare ed è avvinto a uno sperone roccioso. Cosa hanno trovato",
+      "summary": "Sembrano grandi cerchi di pietra appoggiati sulla roccia. Sono invece le tracce di K’oxol Ja’ II, un insediamento maya sconosciuto fino a poco tempo fa, individuato durante i lavori archeologici legati al Tren Maya de Carga. Il sito si trova nell’area di Progreso, sulla costa…",
+      "url": "https://www.stilearte.it/scoperte-abitazioni-maya-circolari-yucatan/",
+      "image": null,
+      "publishedAt": "2026-08-25T05:57:47.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "amerika"
       ]
     },
     {
@@ -8728,207 +8930,6 @@
       "region": "basque",
       "topics": [
         "iberiarrak"
-      ]
-    },
-    {
-      "id": "flv-navarra:https://openalex.org/W7166645163",
-      "title": "Euskarazko hizkuntza-jolasak",
-      "summary": "Artikulu honetan, munduan zehar deskribatu izan diren hizkuntza-jolasen nolakota­sunak aipatu ondoren, euskarari begiratu zaio. Euskal Herrian aipatu izan da han-hemenka hizkera sekretuen eta hizkuntza-jolasen gaia, baina orain arte ez da egon saio sendorik horien dokumentazio-…",
-      "url": "https://doi.org/10.35462/flv141.2",
-      "image": null,
-      "publishedAt": "2026-06-30T00:00:00.000Z",
-      "source": {
-        "id": "flv-navarra",
-        "name": "Fontes Linguae Vasconum"
-      },
-      "lang": "eu",
-      "region": "basque",
-      "topics": [
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "flv-navarra:https://openalex.org/W7166706681",
-      "title": "Erdialdeko euskararen presentzia Irungo gazteen euskaran",
-      "summary": "Lan honek Irungo gazteen euskaran erdialdeko euskarak duen eragina neurtu nahi du. Euskal lan bariazionistetan ia beti aipatu da euskara batuaren eragina, baina gutxitan beste hizkuntza-barietate batzuena. Horretarako, Irungo euskaran eta euskara batuan era batera eta erdialdeko…",
-      "url": "https://doi.org/10.35462/flv141.3",
-      "image": null,
-      "publishedAt": "2026-06-30T00:00:00.000Z",
-      "source": {
-        "id": "flv-navarra",
-        "name": "Fontes Linguae Vasconum"
-      },
-      "lang": "eu",
-      "region": "basque",
-      "topics": [
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "flv-navarra:https://openalex.org/W7166740284",
-      "title": "Egitura arazleak mendebaldeko euskaraz: arazo eta eragin",
-      "summary": "Artikulu honetan mendebaldeko euskararen egitura arazleak aztertuko dira, zehazki, arazo morfemak eta eragin aditzak, gainerako hizkeretako arazi arazlearekiko antzekotasunik edo alderik ote duten ikusteko. Batetik, mendebaldeko egitura arazleen perpaus-bakuntasuna erakutsiko…",
-      "url": "https://doi.org/10.35462/flv141.5",
-      "image": null,
-      "publishedAt": "2026-06-30T00:00:00.000Z",
-      "source": {
-        "id": "flv-navarra",
-        "name": "Fontes Linguae Vasconum"
-      },
-      "lang": "eu",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "cambridge-antiquity:https://openalex.org/W7166077123",
-      "title": "The death jar: a new mortuary tradition at the Plain of Jars, Lao PDR – CORRIGENDUM",
-      "summary": "An abstract is not available for this content. As you have access to this content, full HTML content is provided on this page. A PDF of this content is also available in through the ‘Save PDF’ action button.",
-      "url": "https://doi.org/10.15184/aqy.2026.10387",
-      "image": null,
-      "publishedAt": "2026-06-26T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-antiquity",
-        "name": "Antiquity (Cambridge)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "cambridge-antiquity:https://openalex.org/W7165639239",
-      "title": "Surgical anaesthesia in Ming China: scientific analysis of aconitine residues on medical instruments – CORRIGENDUM",
-      "summary": "An abstract is not available for this content. As you have access to this content, full HTML content is provided on this page. A PDF of this content is also available in through the ‘Save PDF’ action button.",
-      "url": "https://doi.org/10.15184/aqy.2026.10386",
-      "image": null,
-      "publishedAt": "2026-06-23T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-antiquity",
-        "name": "Antiquity (Cambridge)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "asia"
-      ]
-    },
-    {
-      "id": "cambridge-antiquity:https://openalex.org/W7165551011",
-      "title": "The anonymous protagonist? Agency and abstraction in Kyushu decorated tombs of the Japanese Late Kofun period",
-      "summary": "Mortuary traditions offer a wealth of insights into the social landscapes of human communities. Here, the author examines anthropomorphic representations in the decorated tombs of Kyushu Island, Japan, dating from the Late Kofun period (sixth–seventh centuries AD). The…",
-      "url": "https://doi.org/10.15184/aqy.2026.10377",
-      "image": null,
-      "publishedAt": "2026-06-22T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-antiquity",
-        "name": "Antiquity (Cambridge)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "asia"
-      ]
-    },
-    {
-      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326001512?dgcid=rss_sd_all",
-      "title": "Sophisticated millet-pig agriculture fueled asynchronous social complexity in the Neolithic Chinese Loess Plateau",
-      "summary": "Publication date: August 2026 Source: Journal of Archaeological Science, Volume 192 Author(s): Jiajia Dong, Guoke Chen, Yishi Yang, Gang Li, Junhui Zhang, Kaidi Ren, Yongxiu Lu, Linyao Du, Wenyu Wei, Huihui Cao, Jixiao Wang, Lele Ren, Minmin Ma, Guanghui Dong, Fahu Chen",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326001512?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-06-20T05:49:23.550Z",
-      "source": {
-        "id": "sciencedirect-jas",
-        "name": "Journal of Archaeological Science (ScienceDirect)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003214?dgcid=rss_sd_all",
-      "title": "Care work, craft work: maternal production of ceramic urns for perinatal burials in Late Iron Age Mallorca (Balearic Islands)",
-      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Margalida A. Coll Sabater, Jaume García Rosselló",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26003214?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-06-19T06:35:19.234Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003044?dgcid=rss_sd_all",
-      "title": "Exploring human-animal interactions in Middle/Late Neolithic Nea Makri (Attica) through zooarchaeology",
-      "summary": "Publication date: September 2026 Source: Journal of Archaeological Science: Reports, Volume 73 Author(s): Dimitris Filioglou",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26003044?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-06-19T06:35:19.234Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/prototipo-stonehenge-monumento-solstizi-legno/",
-      "title": "Scoperta incredibile a Stonehenge. Un antico santuario. Prima delle pietre c’erano il cielo, il sole e due enormi pali di legno. Perché migliaia di persone raggiungevano questo luogo sacro 5.000 anni fa?",
-      "summary": "Molto prima che i giganteschi megaliti di Stonehenge dominassero l’orizzonte della piana di Salisbury, un altro monumento attirava lo sguardo e probabilmente la devozione delle comunità neolitiche. Non era fatto di pietra. Non possedeva triliti monumentali né imponenti cerchi…",
-      "url": "https://www.stilearte.it/prototipo-stonehenge-monumento-solstizi-legno/",
-      "image": null,
-      "publishedAt": "2026-06-19T06:31:58.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/scoperta-gemma-romana-bonus-eventus-vindolanda/",
-      "title": "Ma come brilla! Cos’é? Scoperta ora durante gli scavi all’interno del forte romano. Era in un anello? Chi rappresenta? Cosa augura? Dove porta? Era di un soldato? Le prime risposte dopo il ritrovamento.",
-      "summary": "Gli archeologi impegnati negli scavi di Vindolanda, il celebre sito romano dell’Inghilterra settentrionale, hanno annunciato il ritrovamento di una raffinata gemma incisa in agata a bande, una varietà di calcedonio particolarmente apprezzata nell’antichità per la produzione di…",
-      "url": "https://www.stilearte.it/scoperta-gemma-romana-bonus-eventus-vindolanda/",
-      "image": null,
-      "publishedAt": "2026-06-19T04:00:00.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "cambridge-antiquity:https://openalex.org/W7165149043",
-      "title": "Destruction and resilience at Panaztepe: archaeoseismological evidence for third-millennium BC earthquakes in Western Anatolia",
-      "summary": "Earthquakes and the destruction they wreak on communities and landscapes are regular features of both modern news output and historical accounts. Archaeology can add to our understanding of such disasters, demonstrated here in the discussion of architectural damage noted during…",
-      "url": "https://doi.org/10.15184/aqy.2026.10376",
-      "image": null,
-      "publishedAt": "2026-06-19T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-antiquity",
-        "name": "Antiquity (Cambridge)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria",
-        "aurkikuntza"
       ]
     }
   ]
