@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T13:04:46.316Z",
+  "generatedAt": "2026-08-29T08:00:14.415Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5052
+      "elapsedMs": 5888
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 586
+      "elapsedMs": 910
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 698
+      "elapsedMs": 1510
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 546
+      "elapsedMs": 852
     },
     {
       "id": "berria-bsky",
@@ -59,10 +59,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2190
+      "elapsedMs": 2987
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 7,
       "droppedOffTopic": 23,
       "droppedModern": 0,
-      "elapsedMs": 2207
+      "elapsedMs": 3031
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1117
+      "elapsedMs": 1520
     },
     {
       "id": "labrujulaverde",
@@ -101,7 +101,7 @@
       "kept": 15,
       "droppedOffTopic": 1,
       "droppedModern": 4,
-      "elapsedMs": 1522
+      "elapsedMs": 1874
     },
     {
       "id": "desperta-ferro",
@@ -111,10 +111,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 12,
-      "kept": 5,
+      "kept": 4,
       "droppedOffTopic": 4,
-      "droppedModern": 3,
-      "elapsedMs": 1397
+      "droppedModern": 4,
+      "elapsedMs": 1812
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 2,
       "droppedOffTopic": 28,
       "droppedModern": 0,
-      "elapsedMs": 532
+      "elapsedMs": 1669
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 656
+      "elapsedMs": 1020
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 7,
       "droppedOffTopic": 10,
       "droppedModern": 3,
-      "elapsedMs": 740
+      "elapsedMs": 2123
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -166,7 +166,7 @@
       "kept": 4,
       "droppedOffTopic": 12,
       "droppedModern": 0,
-      "elapsedMs": 3922
+      "elapsedMs": 1874
     },
     {
       "id": "inrap-bsky",
@@ -176,10 +176,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 27,
-      "kept": 6,
-      "droppedOffTopic": 17,
+      "kept": 5,
+      "droppedOffTopic": 18,
       "droppedModern": 4,
-      "elapsedMs": 2235
+      "elapsedMs": 3006
     },
     {
       "id": "sudouest-culture",
@@ -192,7 +192,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1182
+      "elapsedMs": 1875
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1952
+      "elapsedMs": 1608
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 0,
       "droppedOffTopic": 1,
       "droppedModern": 9,
-      "elapsedMs": 1576
+      "elapsedMs": 2108
     },
     {
       "id": "stilearte",
@@ -231,7 +231,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 1721
+      "elapsedMs": 2351
     },
     {
       "id": "live-science-arch",
@@ -244,7 +244,7 @@
       "kept": 4,
       "droppedOffTopic": 26,
       "droppedModern": 0,
-      "elapsedMs": 2166
+      "elapsedMs": 2728
     },
     {
       "id": "bbc-history",
@@ -257,7 +257,7 @@
       "kept": 1,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1324
+      "elapsedMs": 1927
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +270,7 @@
       "kept": 18,
       "droppedOffTopic": 12,
       "droppedModern": 0,
-      "elapsedMs": 1479
+      "elapsedMs": 1897
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1382
+      "elapsedMs": 1839
     },
     {
       "id": "guardian-arch",
@@ -293,10 +293,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 11,
-      "droppedOffTopic": 7,
+      "kept": 10,
+      "droppedOffTopic": 8,
       "droppedModern": 2,
-      "elapsedMs": 1651
+      "elapsedMs": 2371
     },
     {
       "id": "current-archaeology",
@@ -309,7 +309,7 @@
       "kept": 24,
       "droppedOffTopic": 5,
       "droppedModern": 1,
-      "elapsedMs": 1369
+      "elapsedMs": 1786
     },
     {
       "id": "jas-reports",
@@ -322,7 +322,7 @@
       "kept": 11,
       "droppedOffTopic": 1,
       "droppedModern": 18,
-      "elapsedMs": 1407
+      "elapsedMs": 1845
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +335,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1532
+      "elapsedMs": 2047
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 20,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 2067
+      "elapsedMs": 2945
     },
     {
       "id": "sciencedirect-jas",
@@ -357,11 +357,11 @@
       "region": "world",
       "kind": "research",
       "ok": true,
-      "fetched": 17,
+      "fetched": 18,
       "kept": 6,
-      "droppedOffTopic": 2,
+      "droppedOffTopic": 3,
       "droppedModern": 9,
-      "elapsedMs": 1479
+      "elapsedMs": 1925
     },
     {
       "id": "spal-us",
@@ -374,7 +374,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2264
+      "elapsedMs": 2771
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +387,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 3106
+      "elapsedMs": 4772
     },
     {
       "id": "archeoarte",
@@ -400,7 +400,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2167
+      "elapsedMs": 2711
     },
     {
       "id": "cypsela",
@@ -413,7 +413,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2041
+      "elapsedMs": 2819
     },
     {
       "id": "cambridge-antiquity",
@@ -426,7 +426,7 @@
       "kept": 20,
       "droppedOffTopic": 2,
       "droppedModern": 8,
-      "elapsedMs": 1887
+      "elapsedMs": 2641
     },
     {
       "id": "cambridge-caj",
@@ -439,7 +439,7 @@
       "kept": 18,
       "droppedOffTopic": 5,
       "droppedModern": 7,
-      "elapsedMs": 1912
+      "elapsedMs": 2723
     },
     {
       "id": "cambridge-ejarc",
@@ -452,7 +452,7 @@
       "kept": 17,
       "droppedOffTopic": 5,
       "droppedModern": 8,
-      "elapsedMs": 1950
+      "elapsedMs": 2563
     },
     {
       "id": "aquitania-persee",
@@ -465,7 +465,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2831
+      "elapsedMs": 4072
     },
     {
       "id": "cuadernos-arq-unav",
@@ -478,7 +478,7 @@
       "kept": 20,
       "droppedOffTopic": 2,
       "droppedModern": 8,
-      "elapsedMs": 3465
+      "elapsedMs": 4273
     },
     {
       "id": "veleia-ehu",
@@ -491,7 +491,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 2875
+      "elapsedMs": 4021
     },
     {
       "id": "flv-navarra",
@@ -504,7 +504,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2066
+      "elapsedMs": 2977
     },
     {
       "id": "munibe-aa",
@@ -517,7 +517,7 @@
       "kept": 18,
       "droppedOffTopic": 3,
       "droppedModern": 9,
-      "elapsedMs": 2192
+      "elapsedMs": 3704
     },
     {
       "id": "trabajos-prehistoria",
@@ -528,9 +528,9 @@
       "ok": true,
       "fetched": 30,
       "kept": 22,
-      "droppedOffTopic": 2,
-      "droppedModern": 6,
-      "elapsedMs": 2081
+      "droppedOffTopic": 3,
+      "droppedModern": 5,
+      "elapsedMs": 3153
     },
     {
       "id": "openalex-archaeology",
@@ -543,7 +543,7 @@
       "kept": 15,
       "droppedOffTopic": 8,
       "droppedModern": 7,
-      "elapsedMs": 2140
+      "elapsedMs": 2960
     }
   ],
   "items": [
@@ -616,6 +616,21 @@
       "title": "15th International Congress on the Archaeology on the Ancient Near East",
       "summary": "15th International Congress on the Archaeology on the Ancient Near East",
       "url": "https://doi.org/10.25798/sm1n-jf05",
+      "image": null,
+      "publishedAt": "2027-05-04T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7163548145",
+      "title": "15th International Congress on the Archaeology on the Ancient Near East",
+      "summary": "15th International Congress on the Archaeology on the Ancient Near East",
+      "url": "https://doi.org/10.25798/m3dd-rr70",
       "image": null,
       "publishedAt": "2027-05-04T00:00:00.000Z",
       "source": {
@@ -4459,6 +4474,40 @@
       ]
     },
     {
+      "id": "elpais-cultura:https://elpais.com/cultura/2026-08-29/cadaver-un-libro-de-terror-contemporaneo-escrito-por-turnos-por-nueve-autores-iberoamericanos.html",
+      "title": "‘Cadáver’: un libro de terror contemporáneo escrito por turnos por nueve autores iberoamericanos",
+      "summary": "Lava edita una historia coral sobre los horrores de los avances tecnológicos y la violencia machista, con agentes que invaden la mente de personas muertas en una nueva forma de turismo",
+      "url": "https://elpais.com/cultura/2026-08-29/cadaver-un-libro-de-terror-contemporaneo-escrito-por-turnos-por-nueve-autores-iberoamericanos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/6HSBNXHIQVEMBJVL56YUMHQKVE.jpeg?auth=aca7f028ca6104e9164f039a902bfd1289b86252865dd120bb643c2a0361ebbd",
+      "publishedAt": "2026-08-29T03:30:01.000Z",
+      "source": {
+        "id": "elpais-cultura",
+        "name": "El País — Cultura"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "iberiarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/scoperta-villa-romana-adramytteion-mosaici-cane-gatto/",
+      "title": "Impero romano: scoperta una grande residenza di 1.800 anni fa. Anche il cane e il gatto di casa – con i loro nomi – tra i protagonisti dei mosaici. Perché? Tutto ciò che è stato trovato. Le curiosità e l’approfondimento",
+      "summary": "A Ören, nell’antica Adramytteion, in Turchia, gli archeologi hanno portato alla luce un complesso residenziale romano con atrio, sale di rappresentanza, mosaici figurati, pitture murali e sofisticati sistemi per la gestione dell’acqua. Fra le immagini compare il cavallo alato…",
+      "url": "https://www.stilearte.it/scoperta-villa-romana-adramytteion-mosaici-cane-gatto/",
+      "image": null,
+      "publishedAt": "2026-08-28T13:36:04.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26004530?dgcid=rss_sd_all",
       "title": "Bringing Home the Bacon: Carcass transport, butchery, and food preparation decisions at PPNA Körtiktepe, upper Mesopotamia",
       "summary": "Publication date: November 2026 Source: Journal of Archaeological Science: Reports, Volume 75 Author(s): Stephanie Emra, Marion Benz, Abu B. Siddiq, Vecihi Özkaya",
@@ -4639,6 +4688,25 @@
       "lang": "en",
       "region": "world",
       "topics": []
+    },
+    {
+      "id": "trabajos-prehistoria:https://openalex.org/W7204229040",
+      "title": "Emma Blake. Identity studies in Archaeology. Elements in Anthropological Archaeology in the 21st Century. Cambridge University Press. Cambridge, 2024, 94 pp. ISBN: 978-1-009-45970-9",
+      "summary": "Reconocimiento 4.0 Internacional (CC BY 4.0) Cada paradigma arqueológico conceptualiza la identidad, personal y colectiva, de una forma particular, analizando, dando por obvios, o rechazando explorar determinados aspectos.El libro de Emma Blake presenta una revisión general de…",
+      "url": "https://doi.org/10.3989/tp.2026.1111",
+      "image": null,
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "source": {
+        "id": "trabajos-prehistoria",
+        "name": "Trabajos de Prehistoria (CSIC)"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "ekialde-hurbila",
+        "amerika",
+        "aurkikuntza"
+      ]
     },
     {
       "id": "aranzadi-bsky:https://bsky.app/profile/aranzadi.bsky.social/post/3mpojbsbrua2n",
@@ -8825,75 +8893,6 @@
       "topics": [
         "prehistoria",
         "asia"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003640?dgcid=rss_sd_all",
-      "title": "On the Amber Road. Bioarchaeological and archaeometric studies of raw materials identified in the artifacts from an Early Iron Age biritual cemetery in Opole-Groszowice (southern Poland)",
-      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Tomasz Purowski, Agata Hałuszko, Paweł Gan, Barbara Łydżba-Kopczyńska, Kamil Nowak, Mateusz Osiadacz, Grzegorz Skrzyński",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26003640?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-07-17T04:36:30.454Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003494?dgcid=rss_sd_all",
-      "title": "Dietary transition in the western inner Asian mountain corridor: preliminary stable isotope perspective from early iron age Fergana populations",
-      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Nasibilo Kambarov, Guanhan Chen, Xinying Zhou, Junchi Liu, Junjie Zhang, Keliang Zhao, Jiacheng Ma, Bakhtiyor Abdullayev, Jianxin Wang, Xue Ling, Liangliang Hou, Dongyue Zhao,…",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26003494?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-07-17T04:36:30.454Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/archaeology/ancient-egyptians/did-ancient-egyptian-princesses-use-weapons-controversial-study-claims-they-hunted-or-trained-with-the-military-but-not-all-experts-agree",
-      "title": "Did ancient Egyptian princesses use weapons? Controversial study claims they hunted or trained with the military, but not all experts agree.",
-      "summary": "Nearly 4,000-year-old skeletal remains show that several royal women repeatedly used their upper-body muscles. Researchers link those changes to archery and weapon training, but outside experts urge caution.",
-      "url": "https://www.livescience.com/archaeology/ancient-egyptians/did-ancient-egyptian-princesses-use-weapons-controversial-study-claims-they-hunted-or-trained-with-the-military-but-not-all-experts-agree",
-      "image": "https://cdn.mos.cms.futurecdn.net/ZLiJzee29CeZYxjQCdSGQM-1280-80.jpg",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "egiptoarrak"
-      ]
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/archaeology/ancient-chariot-emerges-among-remains-of-mysterious-society-that-burned-down-its-own-buildings-and-then-disappeared",
-      "title": "Ancient chariot emerges among remains of mysterious society that burned down its own buildings and then disappeared",
-      "summary": "An ancient bronze chariot recently discovered in Spain was used by a culture that mysteriously disappeared from the archaeological record.",
-      "url": "https://www.livescience.com/archaeology/ancient-chariot-emerges-among-remains-of-mysterious-society-that-burned-down-its-own-buildings-and-then-disappeared",
-      "image": "https://cdn.mos.cms.futurecdn.net/uhEhx2wmBeJNpowD5ZUERX-1280-80.jpg",
-      "publishedAt": "2026-07-16T20:04:45.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "iberia",
-      "topics": [
-        "prehistoria",
-        "aurkikuntza"
       ]
     }
   ]
