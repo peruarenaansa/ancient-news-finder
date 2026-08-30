@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T08:00:14.415Z",
+  "generatedAt": "2026-08-30T06:57:54.854Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5888
+      "elapsedMs": 5577
     },
     {
       "id": "naiz",
@@ -20,10 +20,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 0,
-      "droppedOffTopic": 30,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 910
+      "elapsedMs": 684
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1510
+      "elapsedMs": 1486
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 852
+      "elapsedMs": 842
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2987
+      "elapsedMs": 2649
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 7,
       "droppedOffTopic": 23,
       "droppedModern": 0,
-      "elapsedMs": 3031
+      "elapsedMs": 2713
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1520
+      "elapsedMs": 1339
     },
     {
       "id": "labrujulaverde",
@@ -96,12 +96,9 @@
       "lang": "es",
       "region": "world",
       "kind": "news",
-      "ok": true,
-      "fetched": 20,
-      "kept": 15,
-      "droppedOffTopic": 1,
-      "droppedModern": 4,
-      "elapsedMs": 1874
+      "ok": false,
+      "error": "Status code 415",
+      "elapsedMs": 5610
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +111,7 @@
       "kept": 4,
       "droppedOffTopic": 4,
       "droppedModern": 4,
-      "elapsedMs": 1812
+      "elapsedMs": 1849
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +124,7 @@
       "kept": 2,
       "droppedOffTopic": 28,
       "droppedModern": 0,
-      "elapsedMs": 1669
+      "elapsedMs": 1960
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +137,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1020
+      "elapsedMs": 1011
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +150,7 @@
       "kept": 7,
       "droppedOffTopic": 10,
       "droppedModern": 3,
-      "elapsedMs": 2123
+      "elapsedMs": 1487
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +159,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 16,
-      "kept": 4,
+      "fetched": 15,
+      "kept": 3,
       "droppedOffTopic": 12,
       "droppedModern": 0,
-      "elapsedMs": 1874
+      "elapsedMs": 1366
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +176,7 @@
       "kept": 5,
       "droppedOffTopic": 18,
       "droppedModern": 4,
-      "elapsedMs": 3006
+      "elapsedMs": 2721
     },
     {
       "id": "sudouest-culture",
@@ -192,7 +189,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1875
+      "elapsedMs": 1605
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +202,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1608
+      "elapsedMs": 1783
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +215,7 @@
       "kept": 0,
       "droppedOffTopic": 1,
       "droppedModern": 9,
-      "elapsedMs": 2108
+      "elapsedMs": 2111
     },
     {
       "id": "stilearte",
@@ -231,7 +228,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2351
+      "elapsedMs": 2181
     },
     {
       "id": "live-science-arch",
@@ -241,10 +238,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 4,
-      "droppedOffTopic": 26,
+      "kept": 3,
+      "droppedOffTopic": 27,
       "droppedModern": 0,
-      "elapsedMs": 2728
+      "elapsedMs": 2612
     },
     {
       "id": "bbc-history",
@@ -254,10 +251,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 1,
-      "droppedOffTopic": 9,
+      "kept": 0,
+      "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1927
+      "elapsedMs": 1759
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +267,7 @@
       "kept": 18,
       "droppedOffTopic": 12,
       "droppedModern": 0,
-      "elapsedMs": 1897
+      "elapsedMs": 1827
     },
     {
       "id": "ancient-origins",
@@ -283,7 +280,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1839
+      "elapsedMs": 1868
     },
     {
       "id": "guardian-arch",
@@ -296,7 +293,7 @@
       "kept": 10,
       "droppedOffTopic": 8,
       "droppedModern": 2,
-      "elapsedMs": 2371
+      "elapsedMs": 2190
     },
     {
       "id": "current-archaeology",
@@ -306,10 +303,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 24,
-      "droppedOffTopic": 5,
+      "kept": 22,
+      "droppedOffTopic": 7,
       "droppedModern": 1,
-      "elapsedMs": 1786
+      "elapsedMs": 1813
     },
     {
       "id": "jas-reports",
@@ -322,7 +319,7 @@
       "kept": 11,
       "droppedOffTopic": 1,
       "droppedModern": 18,
-      "elapsedMs": 1845
+      "elapsedMs": 1846
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +332,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2047
+      "elapsedMs": 2102
     },
     {
       "id": "pnas-arch",
@@ -348,7 +345,7 @@
       "kept": 20,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 2945
+      "elapsedMs": 2697
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +358,7 @@
       "kept": 6,
       "droppedOffTopic": 3,
       "droppedModern": 9,
-      "elapsedMs": 1925
+      "elapsedMs": 1940
     },
     {
       "id": "spal-us",
@@ -374,7 +371,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2771
+      "elapsedMs": 2683
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +384,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 4772
+      "elapsedMs": 3787
     },
     {
       "id": "archeoarte",
@@ -400,7 +397,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2711
+      "elapsedMs": 2743
     },
     {
       "id": "cypsela",
@@ -413,7 +410,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2819
+      "elapsedMs": 2676
     },
     {
       "id": "cambridge-antiquity",
@@ -426,7 +423,7 @@
       "kept": 20,
       "droppedOffTopic": 2,
       "droppedModern": 8,
-      "elapsedMs": 2641
+      "elapsedMs": 2509
     },
     {
       "id": "cambridge-caj",
@@ -439,7 +436,7 @@
       "kept": 18,
       "droppedOffTopic": 5,
       "droppedModern": 7,
-      "elapsedMs": 2723
+      "elapsedMs": 2606
     },
     {
       "id": "cambridge-ejarc",
@@ -452,7 +449,7 @@
       "kept": 17,
       "droppedOffTopic": 5,
       "droppedModern": 8,
-      "elapsedMs": 2563
+      "elapsedMs": 2489
     },
     {
       "id": "aquitania-persee",
@@ -465,7 +462,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 4072
+      "elapsedMs": 3238
     },
     {
       "id": "cuadernos-arq-unav",
@@ -478,7 +475,7 @@
       "kept": 20,
       "droppedOffTopic": 2,
       "droppedModern": 8,
-      "elapsedMs": 4273
+      "elapsedMs": 3973
     },
     {
       "id": "veleia-ehu",
@@ -491,7 +488,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 4021
+      "elapsedMs": 3698
     },
     {
       "id": "flv-navarra",
@@ -504,7 +501,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2977
+      "elapsedMs": 2620
     },
     {
       "id": "munibe-aa",
@@ -517,7 +514,7 @@
       "kept": 18,
       "droppedOffTopic": 3,
       "droppedModern": 9,
-      "elapsedMs": 3704
+      "elapsedMs": 2630
     },
     {
       "id": "trabajos-prehistoria",
@@ -530,7 +527,7 @@
       "kept": 22,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 3153
+      "elapsedMs": 2721
     },
     {
       "id": "openalex-archaeology",
@@ -543,7 +540,7 @@
       "kept": 15,
       "droppedOffTopic": 8,
       "droppedModern": 7,
-      "elapsedMs": 2960
+      "elapsedMs": 2640
     }
   ],
   "items": [
@@ -3917,24 +3914,6 @@
       ]
     },
     {
-      "id": "guardian-arch:https://www.theguardian.com/science/2026/may/31/excavations-casting-light-on-stone-age-life",
-      "title": "Excavations casting light on stone age life | Letters",
-      "summary": "La Brea in Los Angeles is not the only urban, active ice age excavation site in world, writes Prof Martin K Jones Your article on the archaeology of La Brea Tar Pits in Los Angeles makes for engaging reading, but La Brea is far from being the “only urban, active ice age…",
-      "url": "https://www.theguardian.com/science/2026/may/31/excavations-casting-light-on-stone-age-life",
-      "image": "https://i.guim.co.uk/img/media/1b6fc46b0ae64613c930b91c7d72fcdbfda35161/0_0_4264_3413/master/4264.jpg?width=140&quality=85&auto=format&fit=max&s=5b0f5be586c10d5778ddd9aa1918ad92",
-      "publishedAt": "2026-05-31T16:36:14.000Z",
-      "source": {
-        "id": "guardian-arch",
-        "name": "The Guardian — Archaeology"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "erromatarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
       "id": "vianako-printzea:https://revistas.navarra.es/index.php/PV/article/view/4317",
       "title": "Presentación",
       "summary": "",
@@ -4474,6 +4453,90 @@
       ]
     },
     {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26004189?dgcid=rss_sd_all",
+      "title": "Filling in some gaps: A reappraisal of the upper Paleolithic sequences at Bistricioara-Lutărie III and Bistricioara-La Mal (Eastern Carpathians, NE Romania)",
+      "summary": "Publication date: November 2026 Source: Journal of Archaeological Science: Reports, Volume 75 Author(s): Mircea Anghelinu, Loredana Niță, Cristina Cordoș, Daniel Veres, Läetitia Demay, Magdalena Moskal-del Hoyo, Monica Mărgărit, Maria Luca Ilie, Alexandru Petre, Marc Händel",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26004189?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-08-30T06:57:51.092Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "naiz:https://www.naiz.eus/info/noticia/20260830/la-arqueologia-demuestra-que-el-franquismo-intento-quitar-la-condicion-humana-a-los-vencidos",
+      "title": "«La arqueología demuestra que el franquismo intentó quitar la condición humana a los vencidos»",
+      "summary": "",
+      "url": "https://www.naiz.eus/info/noticia/20260830/la-arqueologia-demuestra-que-el-franquismo-intento-quitar-la-condicion-humana-a-los-vencidos",
+      "image": "https://www.naiz.eus/media/asset_publics/resources/001/365/069/news_landscape/ruibal.jpg",
+      "publishedAt": "2026-08-30T03:33:00.000Z",
+      "source": {
+        "id": "naiz",
+        "name": "Naiz"
+      },
+      "lang": "eu",
+      "region": "basque",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/splendida-scoperta-nel-mare-di-olbia-i-sommozzatori-della-polizia-vedono-un-coccio-sul-fondale-e-trovano-tre-anfore-romane/",
+      "title": "Splendida scoperta nel mare di Olbia. I sommozzatori della Polizia vedono un coccio sul fondale e trovano tre anfore romane",
+      "summary": "Un piccolo frammento di terracotta sul fondo del mare. Apparentemente soltanto un coccio. Ma quel dettaglio, notato durante una normale immersione dedicata alla sicurezza delle acque, ha aperto la strada a una splendida scoperta archeologica nelle acque di Porto Rotondo, nel…",
+      "url": "https://www.stilearte.it/splendida-scoperta-nel-mare-di-olbia-i-sommozzatori-della-polizia-vedono-un-coccio-sul-fondale-e-trovano-tre-anfore-romane/",
+      "image": null,
+      "publishedAt": "2026-08-29T12:40:56.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/piramide-cestia-roma-moda-egizia-romani-visite-gratis/",
+      "title": "Perché c’è una piramide nel cuore di Roma? Non è egizia. Fu costruita (in 330 giorni) quando gli antichi romani impazzirono per l’Egitto. Una «moda» del tempo. Ora si visita gratis (fino a esaurimento posti)",
+      "summary": "Chi passa davanti alla Piramide Cestia, tra Porta San Paolo e il traffico di Roma, difficilmente riesce a non rivolgersi sempre la stessa domanda: che cosa ci fa una piramide egizia nel cuore della capitale dell’Impero romano? La risposta è sorprendente. Non è una piramide…",
+      "url": "https://www.stilearte.it/piramide-cestia-roma-moda-egizia-romani-visite-gratis/",
+      "image": null,
+      "publishedAt": "2026-08-29T09:43:40.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/villaggio-medievale-vasai-francia-600-anni-ceramica-tesoro/",
+      "title": "Il villaggio medievale che visse di ceramica per 600 anni. Ritrovati gli errori dei vasai (“vasi impazziti”) e le tracce di un inatteso benessere: case migliori, carne pregiata e un piccolo tesoro di monete",
+      "summary": "Per circa seicento anni, la vita di un piccolo villaggio della Francia occidentale ha ruotato attorno alla stessa materia prima: l’argilla. Veniva estratta dal terreno, lavorata, modellata e cotta nei forni. Generazioni di artigiani hanno prodotto pentole, brocche, piatti,…",
+      "url": "https://www.stilearte.it/villaggio-medievale-vasai-francia-600-anni-ceramica-tesoro/",
+      "image": null,
+      "publishedAt": "2026-08-29T09:31:44.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa"
+      ]
+    },
+    {
       "id": "elpais-cultura:https://elpais.com/cultura/2026-08-29/cadaver-un-libro-de-terror-contemporaneo-escrito-por-turnos-por-nueve-autores-iberoamericanos.html",
       "title": "‘Cadáver’: un libro de terror contemporáneo escrito por turnos por nueve autores iberoamericanos",
       "summary": "Lava edita una historia coral sobre los horrores de los avances tecnológicos y la violencia machista, con agentes que invaden la mente de personas muertas en una nueva forma de turismo",
@@ -4588,6 +4651,21 @@
       },
       "lang": "eu",
       "region": "basque",
+      "topics": []
+    },
+    {
+      "id": "cambridge-antiquity:https://openalex.org/W7204569133",
+      "title": "Beyond the mole: redefining harbour capacity for the ancient Mediterranean",
+      "summary": "The SHIPs project examines ancient harbours from a maritime perspective, analysing integrated harbour systems across contrasting environments in the Mediterranean region. Application of standardised analyses demonstrates that extra-basin anchorage zones played a decisive role in…",
+      "url": "https://doi.org/10.15184/aqy.2026.10424",
+      "image": null,
+      "publishedAt": "2026-08-28T00:00:00.000Z",
+      "source": {
+        "id": "cambridge-antiquity",
+        "name": "Antiquity (Cambridge)"
+      },
+      "lang": "en",
+      "region": "world",
       "topics": []
     },
     {
@@ -8809,90 +8887,6 @@
         "erdi-aroa",
         "asia",
         "aurkikuntza"
-      ]
-    },
-    {
-      "id": "cambridge-antiquity:https://openalex.org/W7169809099",
-      "title": "The introduction of fish to the Scandinavian mountains by hunter-fisher-gatherers 5000 BC",
-      "summary": "Deglaciation of the Fennoscandian Ice Sheet ( c . 8000 BC) opened the mountainous areas of inland southern Norway for human habitation, but topographic barriers prevented the migration of fish into upland watercourses. Dates from four fish traps found in the exposed bed of Lake…",
-      "url": "https://doi.org/10.15184/aqy.2026.10392",
-      "image": null,
-      "publishedAt": "2026-07-20T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-antiquity",
-        "name": "Antiquity (Cambridge)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "cambridge-antiquity:https://openalex.org/W7169775497",
-      "title": "Pleistocene occupations of Northern Khorasan: first evidence from Esfarayen Plain, north-eastern Iranian Plateau",
-      "summary": "Field surveys in the Esfarayen Plain, north-eastern Iran, documented evidence of hominin occupations at 24 localities in Northern Khorasan. These findings help transform our understanding of Palaeolithic populations in north-eastern Iran and underscore the importance of this…",
-      "url": "https://doi.org/10.15184/aqy.2026.10401",
-      "image": null,
-      "publishedAt": "2026-07-20T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-antiquity",
-        "name": "Antiquity (Cambridge)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X2600355X?dgcid=rss_sd_all",
-      "title": "Investigating cremation practice in Early Iron Age central Macedonia, Greece, through a multi-proxy analysis",
-      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Vasso Papathanasiou, Elisavet Stamataki, Christophe Snoeck, Asterios Lioutas, Vasiliki Misailidou-Despotidou, Sevasti Triantaphyllou",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X2600355X?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-07-17T04:36:30.455Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X2600324X?dgcid=rss_sd_all",
-      "title": "Use of horses in the funeral events by members of the Scythian culture in Ciscaucasia in the early Iron Age: Sex and age aspects",
-      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Natalya N. Spasskaya, Olga P. Bachura, Andrei G. Bush, Anatoliy R. Kantorovich, Vladimir E. Maslov, Natalya E. Prilepskaya",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X2600324X?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-07-17T04:36:30.455Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003445?dgcid=rss_sd_all",
-      "title": "Plant consumption versus agricultural production in the Jianghan Plain, central China: Starch and phytolith evidence from the Neolithic Zhaizishan site",
-      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Muslim Khan, Binggui Sun, Ling Yao, Xin Jia, Chengqiu Lu, Yuzhang Yang",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26003445?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-07-17T04:36:30.455Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria",
-        "asia"
       ]
     }
   ]
