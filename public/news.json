@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T05:59:22.587Z",
+  "generatedAt": "2026-09-06T06:11:04.606Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 7288
+      "elapsedMs": 5424
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1072
+      "elapsedMs": 665
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1322
+      "elapsedMs": 857
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1083
+      "elapsedMs": 644
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 4523
+      "elapsedMs": 2681
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 8,
       "droppedOffTopic": 22,
       "droppedModern": 0,
-      "elapsedMs": 4524
+      "elapsedMs": 2694
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1919
+      "elapsedMs": 1225
     },
     {
       "id": "labrujulaverde",
@@ -101,7 +101,7 @@
       "kept": 15,
       "droppedOffTopic": 2,
       "droppedModern": 3,
-      "elapsedMs": 1850
+      "elapsedMs": 1489
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 4,
       "droppedOffTopic": 4,
       "droppedModern": 4,
-      "elapsedMs": 1377
+      "elapsedMs": 877
     },
     {
       "id": "elpais-cultura",
@@ -124,10 +124,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 0,
-      "droppedOffTopic": 30,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2202
+      "elapsedMs": 1548
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1250
+      "elapsedMs": 782
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 7,
       "droppedOffTopic": 10,
       "droppedModern": 3,
-      "elapsedMs": 1679
+      "elapsedMs": 1793
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +162,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 12,
+      "fetched": 13,
       "kept": 4,
-      "droppedOffTopic": 8,
+      "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1732
+      "elapsedMs": 1033
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +179,7 @@
       "kept": 6,
       "droppedOffTopic": 18,
       "droppedModern": 3,
-      "elapsedMs": 4604
+      "elapsedMs": 2713
     },
     {
       "id": "sudouest-culture",
@@ -192,7 +192,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 2823
+      "elapsedMs": 1225
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2506
+      "elapsedMs": 1887
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 0,
       "droppedOffTopic": 1,
       "droppedModern": 9,
-      "elapsedMs": 2820
+      "elapsedMs": 1860
     },
     {
       "id": "stilearte",
@@ -229,9 +229,9 @@
       "ok": true,
       "fetched": 10,
       "kept": 8,
-      "droppedOffTopic": 0,
-      "droppedModern": 2,
-      "elapsedMs": 3056
+      "droppedOffTopic": 1,
+      "droppedModern": 1,
+      "elapsedMs": 2077
     },
     {
       "id": "live-science-arch",
@@ -244,7 +244,7 @@
       "kept": 3,
       "droppedOffTopic": 27,
       "droppedModern": 0,
-      "elapsedMs": 4503
+      "elapsedMs": 2615
     },
     {
       "id": "bbc-history",
@@ -257,7 +257,7 @@
       "kept": 2,
       "droppedOffTopic": 8,
       "droppedModern": 0,
-      "elapsedMs": 2544
+      "elapsedMs": 1580
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +270,7 @@
       "kept": 17,
       "droppedOffTopic": 13,
       "droppedModern": 0,
-      "elapsedMs": 2450
+      "elapsedMs": 1605
     },
     {
       "id": "ancient-origins",
@@ -278,9 +278,12 @@
       "lang": "en",
       "region": "world",
       "kind": "news",
-      "ok": false,
-      "error": "Status code 403",
-      "elapsedMs": 7358
+      "ok": true,
+      "fetched": 10,
+      "kept": 3,
+      "droppedOffTopic": 5,
+      "droppedModern": 2,
+      "elapsedMs": 1680
     },
     {
       "id": "guardian-arch",
@@ -293,7 +296,7 @@
       "kept": 10,
       "droppedOffTopic": 8,
       "droppedModern": 2,
-      "elapsedMs": 2982
+      "elapsedMs": 1876
     },
     {
       "id": "current-archaeology",
@@ -306,7 +309,7 @@
       "kept": 21,
       "droppedOffTopic": 6,
       "droppedModern": 3,
-      "elapsedMs": 2727
+      "elapsedMs": 1594
     },
     {
       "id": "jas-reports",
@@ -316,10 +319,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 9,
+      "kept": 10,
       "droppedOffTopic": 1,
-      "droppedModern": 20,
-      "elapsedMs": 2771
+      "droppedModern": 19,
+      "elapsedMs": 1616
     },
     {
       "id": "plos-one-arch",
@@ -332,7 +335,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3049
+      "elapsedMs": 1808
     },
     {
       "id": "pnas-arch",
@@ -345,7 +348,7 @@
       "kept": 19,
       "droppedOffTopic": 8,
       "droppedModern": 3,
-      "elapsedMs": 3416
+      "elapsedMs": 2007
     },
     {
       "id": "sciencedirect-jas",
@@ -358,7 +361,7 @@
       "kept": 7,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 2966
+      "elapsedMs": 1613
     },
     {
       "id": "spal-us",
@@ -366,9 +369,12 @@
       "lang": "es",
       "region": "iberia",
       "kind": "research",
-      "ok": false,
-      "error": "read ECONNRESET",
-      "elapsedMs": 20735
+      "ok": true,
+      "fetched": 10,
+      "kept": 7,
+      "droppedOffTopic": 1,
+      "droppedModern": 2,
+      "elapsedMs": 2516
     },
     {
       "id": "complutum-ucm",
@@ -381,7 +387,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 5484
+      "elapsedMs": 3771
     },
     {
       "id": "archeoarte",
@@ -394,7 +400,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 4117
+      "elapsedMs": 2558
     },
     {
       "id": "cypsela",
@@ -407,7 +413,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 6164
+      "elapsedMs": 4563
     },
     {
       "id": "cambridge-antiquity",
@@ -420,7 +426,7 @@
       "kept": 20,
       "droppedOffTopic": 3,
       "droppedModern": 7,
-      "elapsedMs": 3836
+      "elapsedMs": 2524
     },
     {
       "id": "cambridge-caj",
@@ -433,7 +439,7 @@
       "kept": 18,
       "droppedOffTopic": 5,
       "droppedModern": 7,
-      "elapsedMs": 3954
+      "elapsedMs": 2358
     },
     {
       "id": "cambridge-ejarc",
@@ -446,7 +452,7 @@
       "kept": 17,
       "droppedOffTopic": 5,
       "droppedModern": 8,
-      "elapsedMs": 3936
+      "elapsedMs": 2452
     },
     {
       "id": "aquitania-persee",
@@ -459,7 +465,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 4757
+      "elapsedMs": 2956
     },
     {
       "id": "cuadernos-arq-unav",
@@ -472,7 +478,7 @@
       "kept": 21,
       "droppedOffTopic": 1,
       "droppedModern": 8,
-      "elapsedMs": 5435
+      "elapsedMs": 3692
     },
     {
       "id": "veleia-ehu",
@@ -485,7 +491,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 5340
+      "elapsedMs": 5177
     },
     {
       "id": "flv-navarra",
@@ -498,7 +504,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 4486
+      "elapsedMs": 2440
     },
     {
       "id": "munibe-aa",
@@ -511,7 +517,7 @@
       "kept": 18,
       "droppedOffTopic": 3,
       "droppedModern": 9,
-      "elapsedMs": 4375
+      "elapsedMs": 2550
     },
     {
       "id": "trabajos-prehistoria",
@@ -524,7 +530,7 @@
       "kept": 22,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 4417
+      "elapsedMs": 2507
     },
     {
       "id": "openalex-archaeology",
@@ -537,7 +543,7 @@
       "kept": 15,
       "droppedOffTopic": 8,
       "droppedModern": 7,
-      "elapsedMs": 4506
+      "elapsedMs": 2531
     }
   ],
   "items": [
@@ -4676,6 +4682,143 @@
       "topics": []
     },
     {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26004578?dgcid=rss_sd_all",
+      "title": "Reconstructing institutional food practices in early Mesopotamia using multi-proxy biomolecular evidence",
+      "summary": "Publication date: November 2026 Source: Journal of Archaeological Science: Reports, Volume 75 Author(s): Cavazzin Bianca, Erskine Neil, Heimvik Synnøve, Bendrey Robin, Hald Mette Marie, Asouti Eleni, Sameen Salah Mohammed, Glatz Claudia",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26004578?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-09-06T06:11:00.814Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "ekialde-hurbila"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26004554?dgcid=rss_sd_all",
+      "title": "Food remains from Late Chalcolithic and Early Bronze Age Hama, Syria: exploring the cooking practices and culinary catchment zone of an ancient city",
+      "summary": "Publication date: November 2026 Source: Journal of Archaeological Science: Reports, Volume 75 Author(s): Mette Marie Hald, Pernille Bangsgaard, Martin N. Mortensen, Jacob Frydendahl, Stephen Lumsden, Georges Mouamar",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26004554?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-09-06T06:11:00.814Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/sistema-militare-romano-venationes-animali/",
+      "title": "Traffici di animali verso le arene romane. Un nuovo studio rivela la macchina militare e le truffe dietro l’organizzazione ferrea. I leoni erano di pertinenza imperiale?",
+      "summary": "Impero romano. Dietro le venationes c’erano soldati specializzati, funzionari, trasporti, spese a carico delle province e severe sanzioni. Un nuovo studio di Rosa M. Carreño Sánchez ricostruisce, attraverso due costituzioni imperiali, l’organizzazione che permetteva alle fiere…",
+      "url": "https://www.stilearte.it/sistema-militare-romano-venationes-animali/",
+      "image": null,
+      "publishedAt": "2026-09-06T05:23:40.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak",
+        "asia"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/09/260903064233.htm",
+      "title": "80,000-year-old “arrowheads” rewrite human history",
+      "summary": "Archaeologists have identified tiny 80,000-year-old projectile points in Uzbekistan that may have been used like arrowheads. Their size, design, and impact damage closely resemble weapons found much later at a Homo sapiens site in France. The discovery suggests sophisticated…",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260903064233.htm",
+      "image": null,
+      "publishedAt": "2026-09-06T00:46:25.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/excavation-in-poland-reveals-stone-age-man-buried-with-decapitated-heads-and-a-tooth-necklace",
+      "title": "Excavation in Poland reveals Stone Age man buried with decapitated heads and a tooth necklace",
+      "summary": "A Stone Age burial of a man with a toothy necklace and human skulls surprised archaeologists excavating in Poland.",
+      "url": "https://www.livescience.com/archaeology/excavation-in-poland-reveals-stone-age-man-buried-with-decapitated-heads-and-a-tooth-necklace",
+      "image": "https://cdn.mos.cms.futurecdn.net/booNSpbUxMVRLzpQZAVJBj-1280-80.png",
+      "publishedAt": "2026-09-05T12:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "elpais-cultura:https://elpais.com/cultura/2026-09-05/hallada-en-albacete-la-cabeza-de-una-escultura-de-un-joven-ibero-del-siglo-iv-a-c.html",
+      "title": "Hallada en Albacete la cabeza de una escultura de un joven íbero del siglo IV a. C.",
+      "summary": "La pieza encontrada en el yacimiento de Libisosa fue reutilizada por los romanos cuatro siglos después para levantar un muro del foro",
+      "url": "https://elpais.com/cultura/2026-09-05/hallada-en-albacete-la-cabeza-de-una-escultura-de-un-joven-ibero-del-siglo-iv-a-c.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/WFBPNK63MBD37ANJVVWVVVWJ6I.jpg?auth=7399c9101666f62430fac442988a0f0bdf113f04f03e226eefc538c694fae41c",
+      "publishedAt": "2026-09-05T09:21:10.000Z",
+      "source": {
+        "id": "elpais-cultura",
+        "name": "El País — Cultura"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "erromatarrak",
+        "iberiarrak",
+        "ekialde-hurbila"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/hallan-el-primer-caso-arqueologico-de-amputacion-nasal-como-castigo-en-la-historia-de-china-en-una-mujer-enterrada-boca-abajo",
+      "title": "Hallan el primer caso arqueológico de amputación nasal como castigo en la historia de China en una mujer enterrada boca abajo",
+      "summary": "Un equipo de arqueólogos y antropólogos ha documentado el que podría ser el primer caso arqueológico de amputación nasal punitiva en la historia de China. Los restos de una mujer, datados entre 1298 y 1404 d.C., fueron encontrados en el cementerio de Sanzhiyuan, en la ciudad de…",
+      "url": "https://www.labrujulaverde.com/2026/09/hallan-el-primer-caso-arqueologico-de-amputacion-nasal-como-castigo-en-la-historia-de-china-en-una-mujer-enterrada-boca-abajo",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/1-s2.0-S2352409X26004669-gr3_lrg.webp",
+      "publishedAt": "2026-09-05T09:19:40.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "asia"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/bambino-trova-cranio-balena-3000-anni-eta-bronzo/",
+      "title": "Un bambino di 10 anni passeggia sulla spiaggia e trova una testa di balena nascosta nella terra da forse 3.000 anni. «Non sembrava una roccia»",
+      "summary": "Stava passeggiando lungo la spiaggia con i genitori, osservando il terreno alla ricerca di fossili. Poi, su una scarpata di terra che si affacciava sul mare, qualcosa ha attirato la sua attenzione. Non sembrava una pietra. Aveva una forma strana, superfici irregolari, dettagli…",
+      "url": "https://www.stilearte.it/bambino-trova-cranio-balena-3000-anni-eta-bronzo/",
+      "image": null,
+      "publishedAt": "2026-09-05T07:40:18.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
       "id": "current-archaeology:https://the-past.com/feature/staffas-past-signatures-uncovering-the-hidden-human-history-of-a-celebrated-scottish-island/",
       "title": "Staffa’s past signatures: Uncovering the hidden human history of a celebrated Scottish island",
       "summary": "A small team of archaeologists has been undertaking research into the island of Staffa in the Inner Hebrides. Camping for a few days at a time over a number of years, they have carried out both survey and excavation work. Derek Alexander, Daniel Rhodes, Stuart Jeffrey, Tessa…",
@@ -8733,143 +8876,6 @@
       "topics": [
         "erdi-aroa"
       ]
-    },
-    {
-      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356786",
-      "title": "Assessment of IMU-derived lower-limb kinematics in transtibial amputees: A practical and accessible clinical workflow",
-      "summary": "by Jutima Rattanakoch, Weerawat Limroongreungrat, Gary Guerra, Udomporn Manupibul, Harit Apidech, Wisavaporn Niamsang, Mintra Suphab, Thanaphat Laucha, Manunchaya Samala Clinical gait assessment in individuals with transtibial amputation is limited by the cost, technical…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356786",
-      "image": null,
-      "publishedAt": "2026-08-24T14:00:00.000Z",
-      "source": {
-        "id": "plos-one-arch",
-        "name": "PLOS ONE — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "ekialde-hurbila"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/whats-on/ancient-egypt-august-listings-4/",
-      "title": "Ancient Egypt August listings",
-      "summary": "UNFOLDING HISTORY. WRITING IN ANCIENT EGYPT An exhibition exploring the origins of writing, featuring papyri from Elephantine that had been stored in the Brooklyn Museum since 1916 and have never before been",
-      "url": "https://the-past.com/review/whats-on/ancient-egypt-august-listings-4/",
-      "image": null,
-      "publishedAt": "2026-08-24T13:36:23.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "egiptoarrak",
-        "museoak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/news/heliopolis-funerary-set/",
-      "title": "Heliopolis funerary set",
-      "summary": "Archaeologists working at ancient Heliopolis (Matariya, Cairo) have uncovered an almost complete funerary assemblage beneath a mud-brick burial structure. The discovery includes a collection of personal and ritual objects, including a copper",
-      "url": "https://the-past.com/news/heliopolis-funerary-set/",
-      "image": null,
-      "publishedAt": "2026-08-24T12:59:57.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/news/tell-quesna-burials/",
-      "title": "Tell Quesna burials",
-      "summary": "An Egyptian mission has documented an unusual funerary practice in a newly discovered tomb at the Tell Quesna necropolis (Menoufia Governorate), in the central Delta. The team discovered several burials with pottery",
-      "url": "https://the-past.com/news/tell-quesna-burials/",
-      "image": null,
-      "publishedAt": "2026-08-24T12:56:45.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "egiptoarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/news/newly-discovered-qurna-tomb/",
-      "title": "Newly discovered Qurna tomb",
-      "summary": "A Dutch team from Leiden University has discovered a previously unknown Ramesside tomb in Sheikh Abd el-Qurna. Wall inscriptions name the owner as an official called Paser. The tomb has a typical",
-      "url": "https://the-past.com/news/newly-discovered-qurna-tomb/",
-      "image": null,
-      "publishedAt": "2026-08-24T12:41:49.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/news/byzantine-city-plan-revealed/",
-      "title": "Byzantine city plan revealed",
-      "summary": "An Egyptian mission excavating the Byzantine-era city at Ain el-Sabil in the Dakhla Oasis has uncovered the overall plan of the settlement and several new mud-brick structures. The city was built on",
-      "url": "https://the-past.com/news/byzantine-city-plan-revealed/",
-      "image": null,
-      "publishedAt": "2026-08-24T12:33:44.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "egiptoarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/news/hyksos-era-complex/",
-      "title": "Hyksos-era complex",
-      "summary": "A large multi-functional complex dating to the Fifteenth Dynasty (the Hyksos era) has been uncovered by an Egyptian mission at Tell el-Ku’a in Wadi Tumilat (Ismailia Governorate) in the eastern Nile Delta.",
-      "url": "https://the-past.com/news/hyksos-era-complex/",
-      "image": null,
-      "publishedAt": "2026-08-24T12:19:13.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "egiptoarrak"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/08/12-puntas-de-flecha-neoliticas-encontradas-en-anatolia-llevan-raras-marcas-geometricas-cuyo-proposito-se-desconoce",
-      "title": "12 puntas de flecha neolíticas encontradas en Anatolia llevan raras marcas geométricas cuyo propósito se desconoce",
-      "summary": "Un equipo de investigadores franceses y turcos ha publicado un exhaustivo análisis de doce puntas de flecha de obsidiana con incisiones intencionales halladas en el yacimiento neolítico de Tepecik-Çiftlik, en la región de Capadocia (Turquía). Estos objetos, que datan de entre el…",
-      "url": "https://www.labrujulaverde.com/2026/08/12-puntas-de-flecha-neoliticas-encontradas-en-anatolia-llevan-raras-marcas-geometricas-cuyo-proposito-se-desconoce",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/08/tepecik-arrowhead-a-vinet.webp",
-      "publishedAt": "2026-08-24T08:44:27.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "europe",
-      "topics": []
     }
   ]
 }
