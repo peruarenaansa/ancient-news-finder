@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T06:19:00.609Z",
+  "generatedAt": "2026-09-08T06:08:46.347Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 6949
+      "elapsedMs": 5964
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 597
+      "elapsedMs": 971
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3578
+      "elapsedMs": 6031
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 409
+      "elapsedMs": 1504
     },
     {
       "id": "berria-bsky",
@@ -59,10 +59,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 4076
+      "elapsedMs": 3273
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 8,
       "droppedOffTopic": 22,
       "droppedModern": 0,
-      "elapsedMs": 4137
+      "elapsedMs": 3275
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1221
+      "elapsedMs": 1509
     },
     {
       "id": "labrujulaverde",
@@ -96,12 +96,9 @@
       "lang": "es",
       "region": "world",
       "kind": "news",
-      "ok": true,
-      "fetched": 20,
-      "kept": 15,
-      "droppedOffTopic": 2,
-      "droppedModern": 3,
-      "elapsedMs": 1581
+      "ok": false,
+      "error": "Status code 415",
+      "elapsedMs": 6240
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +111,7 @@
       "kept": 4,
       "droppedOffTopic": 4,
       "droppedModern": 4,
-      "elapsedMs": 884
+      "elapsedMs": 1266
     },
     {
       "id": "elpais-cultura",
@@ -124,10 +121,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 2,
-      "droppedOffTopic": 28,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 617
+      "elapsedMs": 2013
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +137,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 643
+      "elapsedMs": 1048
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +150,7 @@
       "kept": 7,
       "droppedOffTopic": 10,
       "droppedModern": 3,
-      "elapsedMs": 1506
+      "elapsedMs": 1462
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -166,7 +163,7 @@
       "kept": 4,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1132
+      "elapsedMs": 1657
     },
     {
       "id": "inrap-bsky",
@@ -177,9 +174,9 @@
       "ok": true,
       "fetched": 27,
       "kept": 6,
-      "droppedOffTopic": 18,
-      "droppedModern": 3,
-      "elapsedMs": 4131
+      "droppedOffTopic": 17,
+      "droppedModern": 4,
+      "elapsedMs": 3314
     },
     {
       "id": "sudouest-culture",
@@ -192,7 +189,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 962
+      "elapsedMs": 1837
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +202,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1323
+      "elapsedMs": 2350
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +215,7 @@
       "kept": 0,
       "droppedOffTopic": 1,
       "droppedModern": 9,
-      "elapsedMs": 1581
+      "elapsedMs": 2071
     },
     {
       "id": "stilearte",
@@ -228,10 +225,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 8,
+      "kept": 7,
       "droppedOffTopic": 2,
-      "droppedModern": 0,
-      "elapsedMs": 1761
+      "droppedModern": 1,
+      "elapsedMs": 2507
     },
     {
       "id": "live-science-arch",
@@ -244,7 +241,7 @@
       "kept": 4,
       "droppedOffTopic": 26,
       "droppedModern": 0,
-      "elapsedMs": 4035
+      "elapsedMs": 3093
     },
     {
       "id": "bbc-history",
@@ -254,10 +251,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 2,
-      "droppedOffTopic": 8,
+      "kept": 1,
+      "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1302
+      "elapsedMs": 1906
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +267,7 @@
       "kept": 17,
       "droppedOffTopic": 13,
       "droppedModern": 0,
-      "elapsedMs": 1435
+      "elapsedMs": 1823
     },
     {
       "id": "ancient-origins",
@@ -283,7 +280,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1422
+      "elapsedMs": 1896
     },
     {
       "id": "guardian-arch",
@@ -293,10 +290,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 11,
+      "kept": 10,
       "droppedOffTopic": 7,
-      "droppedModern": 2,
-      "elapsedMs": 1736
+      "droppedModern": 3,
+      "elapsedMs": 2130
     },
     {
       "id": "current-archaeology",
@@ -306,10 +303,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 21,
+      "kept": 19,
       "droppedOffTopic": 7,
-      "droppedModern": 2,
-      "elapsedMs": 1414
+      "droppedModern": 4,
+      "elapsedMs": 2041
     },
     {
       "id": "jas-reports",
@@ -322,7 +319,7 @@
       "kept": 8,
       "droppedOffTopic": 2,
       "droppedModern": 20,
-      "elapsedMs": 1495
+      "elapsedMs": 1867
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +332,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1648
+      "elapsedMs": 1985
     },
     {
       "id": "pnas-arch",
@@ -348,7 +345,7 @@
       "kept": 19,
       "droppedOffTopic": 8,
       "droppedModern": 3,
-      "elapsedMs": 2233
+      "elapsedMs": 3118
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +358,7 @@
       "kept": 7,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1584
+      "elapsedMs": 1890
     },
     {
       "id": "spal-us",
@@ -374,7 +371,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2286
+      "elapsedMs": 2884
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +384,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 5074
+      "elapsedMs": 4857
     },
     {
       "id": "archeoarte",
@@ -400,7 +397,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2409
+      "elapsedMs": 3075
     },
     {
       "id": "cypsela",
@@ -413,7 +410,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 6446
+      "elapsedMs": 5523
     },
     {
       "id": "cambridge-antiquity",
@@ -426,7 +423,7 @@
       "kept": 20,
       "droppedOffTopic": 3,
       "droppedModern": 7,
-      "elapsedMs": 2133
+      "elapsedMs": 3113
     },
     {
       "id": "cambridge-caj",
@@ -439,7 +436,7 @@
       "kept": 18,
       "droppedOffTopic": 5,
       "droppedModern": 7,
-      "elapsedMs": 2175
+      "elapsedMs": 3148
     },
     {
       "id": "cambridge-ejarc",
@@ -452,7 +449,7 @@
       "kept": 17,
       "droppedOffTopic": 5,
       "droppedModern": 8,
-      "elapsedMs": 2145
+      "elapsedMs": 3121
     },
     {
       "id": "aquitania-persee",
@@ -465,7 +462,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 4403
+      "elapsedMs": 3821
     },
     {
       "id": "cuadernos-arq-unav",
@@ -478,7 +475,7 @@
       "kept": 21,
       "droppedOffTopic": 1,
       "droppedModern": 8,
-      "elapsedMs": 5171
+      "elapsedMs": 4557
     },
     {
       "id": "veleia-ehu",
@@ -491,7 +488,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 4724
+      "elapsedMs": 4193
     },
     {
       "id": "flv-navarra",
@@ -504,7 +501,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 3893
+      "elapsedMs": 3378
     },
     {
       "id": "munibe-aa",
@@ -517,7 +514,7 @@
       "kept": 18,
       "droppedOffTopic": 3,
       "droppedModern": 9,
-      "elapsedMs": 3909
+      "elapsedMs": 3369
     },
     {
       "id": "trabajos-prehistoria",
@@ -530,7 +527,7 @@
       "kept": 22,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 3932
+      "elapsedMs": 3429
     },
     {
       "id": "openalex-archaeology",
@@ -543,7 +540,7 @@
       "kept": 15,
       "droppedOffTopic": 8,
       "droppedModern": 7,
-      "elapsedMs": 3949
+      "elapsedMs": 3352
     }
   ],
   "items": [
@@ -8526,6 +8523,72 @@
       "topics": []
     },
     {
+      "id": "current-archaeology:https://the-past.com/shorts/letters/mhm-154-letters-june/",
+      "title": "MHM 154 Letters – September",
+      "summary": "Your thoughts on issues raised by the magazine.",
+      "url": "https://the-past.com/shorts/letters/mhm-154-letters-june/",
+      "image": null,
+      "publishedAt": "2026-09-07T13:30:21.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/reticella-romana-capelli-vindolanda-sprang/",
+      "title": "Sai cos’è questo groviglio di fili? Ha quasi 2.000 anni e racconta un segreto di bellezza delle donne romane. Tendere i fili, usare le dita e ripetere lo stesso gesto, ancora e ancora.",
+      "summary": "A prima vista sembra soltanto un fragile ammasso di fibre. In realtà è una raffinatissima reticella per capelli, realizzata con una tecnica antichissima che non prevedeva né telaio né tessitura nel senso tradizionale. Il reperto, conservato a Vindolanda, racconta quanto potesse…",
+      "url": "https://www.stilearte.it/reticella-romana-capelli-vindolanda-sprang/",
+      "image": null,
+      "publishedAt": "2026-09-07T10:51:00.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/guldhoj-folding-chair-the-only-completely-preserved-chair-from-bronze-age-europe",
+      "title": "Guldhøj folding chair: The only completely preserved chair from Bronze Age Europe",
+      "summary": "The remarkably preserved wooden folding chair was likely a status symbol and was found in the grave of a Bronze Age chieftain.",
+      "url": "https://www.livescience.com/archaeology/guldhoj-folding-chair-the-only-completely-preserved-chair-from-bronze-age-europe",
+      "image": "https://cdn.mos.cms.futurecdn.net/4SL6x6sxtmZnKTPoNeV5k5-1280-80.png",
+      "publishedAt": "2026-09-07T10:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/scoperte-archeologiche-lucone-evento-preistoria-2026/",
+      "title": "Avete letto delle misteriose tavolette del Lucone in provincia di Brescia? Domenica potrete entrare gratuitamente nel luogo delle nuove scoperte. Laboratori e archeologia sperimentale per tutti",
+      "summary": "Le tavolette enigmatiche di quattromila anni fa, la lama in bronzo appena emersa dagli scavi, il grande boccale e i reperti che stanno raccontando una nuova stagione di ricerche. Domenica 13 settembre il pubblico potrà entrare nel sito archeologico del Lucone di Polpenazze del…",
+      "url": "https://www.stilearte.it/scoperte-archeologiche-lucone-evento-preistoria-2026/",
+      "image": null,
+      "publishedAt": "2026-09-07T08:27:49.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
       "id": "berria-bsky:https://bsky.app/profile/berria.eus/post/3muvthiy25o2m",
       "title": "",
       "summary": "Gaur hasiko da Parisen Loik Le Priolen eta Romain Bouvierren kontrako epaiketa, Federico Martin Aramburu hiltzea egotzita. Eskuin muturreko talde bortitz bateko kideak dira biak.…",
@@ -8813,71 +8876,6 @@
       "region": "basque",
       "topics": [
         "greziarrak"
-      ]
-    },
-    {
-      "id": "sudouest-culture:https://www.sudouest.fr/charente-maritime/royan/les-douves-d-un-chateau-imposant-et-les-vestiges-d-un-village-medieval-se-devoilent-a-saint-georges-de-didonne-30324640.php",
-      "title": "Les douves d’un château imposant et les vestiges d’un village médiéval se dévoilent à Saint-Georges-de-Didonne",
-      "summary": "Une équipe de l’Institut national de recherches archéologiques préventives (Inrap) a démarré des fouilles archéologiques début juin rue Jean-Moulin avant la construction de logements sociaux",
-      "url": "https://www.sudouest.fr/charente-maritime/royan/les-douves-d-un-chateau-imposant-et-les-vestiges-d-un-village-medieval-se-devoilent-a-saint-georges-de-didonne-30324640.php",
-      "image": null,
-      "publishedAt": "2026-08-24T15:30:00.000Z",
-      "source": {
-        "id": "sudouest-culture",
-        "name": "Sud Ouest — Culture"
-      },
-      "lang": "fr",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "inrap-bsky:https://bsky.app/profile/inrap.fr/post/3mttlxwiru22a",
-      "title": "",
-      "summary": "Questionnaire : L’archéologie et vous 🔍 Vous êtes désormais plus de 6 000 à avoir répondu à notre questionnaire. Merci ! 👉 Vous n’avez pas encore participé ? C’est par ici : https://docs.google.com/forms/d/e/1FAIpQLSdJziov5M2Iik_e66pOZe3nanzaBxIA0B-nZpFEEvj450Mrpg/viewform…",
-      "url": "https://bsky.app/profile/inrap.fr/post/3mttlxwiru22a",
-      "image": null,
-      "publishedAt": "2026-08-24T15:17:00.000Z",
-      "source": {
-        "id": "inrap-bsky",
-        "name": "Inrap (Bluesky)"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/magazines/ancient-egypt-magazine-156/",
-      "title": "Ancient Egypt Magazine 156",
-      "summary": "Tutankhamun galleries: the crowning glory of the Grand Egyptian Museum Carnelian: the uncertain origins of ancient Egypt’s most popular gemstone Pain relief in ancient Egypt: physical and magical interventions The Litany of Ra: an important New Kingdom text Were women literate…",
-      "url": "https://the-past.com/magazines/ancient-egypt-magazine-156/",
-      "image": null,
-      "publishedAt": "2026-08-24T14:55:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "egiptoarrak",
-        "museoak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/books/religion-and-the-invisible-world-sanctity-and-spiritual-transformation-in-egypt-from-pharaonic-times-to-the-present/",
-      "title": "Religion and the Invisible World: Sanctity and Spiritual Transformation in Egypt from Pharaonic Times to the Present",
-      "summary": "The Classical historian Herodotus described the Egyptians as the most religious of peoples. And, indeed, many people today find themselves wondering about the cross-overs between religious concepts in pharaonic, Christian, and Islamic",
-      "url": "https://the-past.com/review/books/religion-and-the-invisible-world-sanctity-and-spiritual-transformation-in-egypt-from-pharaonic-times-to-the-present/",
-      "image": null,
-      "publishedAt": "2026-08-24T14:55:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "egiptoarrak"
       ]
     }
   ]
