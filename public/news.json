@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T06:14:20.372Z",
+  "generatedAt": "2026-09-10T06:14:52.943Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5291
+      "elapsedMs": 4919
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 591
+      "elapsedMs": 1047
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 7128
+      "elapsedMs": 1313
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 499
+      "elapsedMs": 879
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2381
+      "elapsedMs": 2424
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 9,
       "droppedOffTopic": 21,
       "droppedModern": 0,
-      "elapsedMs": 2479
+      "elapsedMs": 2389
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1117
+      "elapsedMs": 1508
     },
     {
       "id": "labrujulaverde",
@@ -98,10 +98,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 10,
-      "droppedOffTopic": 3,
-      "droppedModern": 7,
-      "elapsedMs": 1469
+      "kept": 11,
+      "droppedOffTopic": 4,
+      "droppedModern": 5,
+      "elapsedMs": 1651
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 4,
       "droppedOffTopic": 4,
       "droppedModern": 4,
-      "elapsedMs": 1580
+      "elapsedMs": 1452
     },
     {
       "id": "elpais-cultura",
@@ -124,10 +124,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 0,
-      "droppedOffTopic": 30,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 620
+      "elapsedMs": 1399
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 645
+      "elapsedMs": 703
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 7,
       "droppedOffTopic": 10,
       "droppedModern": 3,
-      "elapsedMs": 1261
+      "elapsedMs": 1727
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +162,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 15,
+      "fetched": 14,
       "kept": 4,
-      "droppedOffTopic": 11,
+      "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 816
+      "elapsedMs": 1109
     },
     {
       "id": "inrap-bsky",
@@ -176,10 +176,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 27,
-      "kept": 6,
-      "droppedOffTopic": 17,
+      "kept": 5,
+      "droppedOffTopic": 18,
       "droppedModern": 4,
-      "elapsedMs": 2520
+      "elapsedMs": 2350
     },
     {
       "id": "sudouest-culture",
@@ -189,10 +189,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 1,
-      "droppedOffTopic": 19,
+      "kept": 0,
+      "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1201
+      "elapsedMs": 1455
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1171
+      "elapsedMs": 1637
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 0,
       "droppedOffTopic": 1,
       "droppedModern": 9,
-      "elapsedMs": 1679
+      "elapsedMs": 1925
     },
     {
       "id": "stilearte",
@@ -231,7 +231,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 1,
-      "elapsedMs": 1825
+      "elapsedMs": 2148
     },
     {
       "id": "live-science-arch",
@@ -244,7 +244,7 @@
       "kept": 4,
       "droppedOffTopic": 26,
       "droppedModern": 0,
-      "elapsedMs": 2330
+      "elapsedMs": 1964
     },
     {
       "id": "bbc-history",
@@ -257,7 +257,7 @@
       "kept": 0,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1426
+      "elapsedMs": 1458
     },
     {
       "id": "sciencedaily-arch",
@@ -267,10 +267,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 16,
-      "droppedOffTopic": 14,
+      "kept": 17,
+      "droppedOffTopic": 13,
       "droppedModern": 0,
-      "elapsedMs": 1540
+      "elapsedMs": 1406
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1477
+      "elapsedMs": 1430
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 10,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 1711
+      "elapsedMs": 1682
     },
     {
       "id": "current-archaeology",
@@ -306,10 +306,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 15,
-      "droppedOffTopic": 8,
-      "droppedModern": 7,
-      "elapsedMs": 1527
+      "kept": 12,
+      "droppedOffTopic": 6,
+      "droppedModern": 12,
+      "elapsedMs": 1545
     },
     {
       "id": "jas-reports",
@@ -322,7 +322,7 @@
       "kept": 7,
       "droppedOffTopic": 2,
       "droppedModern": 21,
-      "elapsedMs": 1471
+      "elapsedMs": 1348
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +335,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1651
+      "elapsedMs": 1715
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 19,
       "droppedOffTopic": 8,
       "droppedModern": 3,
-      "elapsedMs": 2242
+      "elapsedMs": 2620
     },
     {
       "id": "sciencedirect-jas",
@@ -357,11 +357,11 @@
       "region": "world",
       "kind": "research",
       "ok": true,
-      "fetched": 23,
-      "kept": 7,
+      "fetched": 24,
+      "kept": 8,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1520
+      "elapsedMs": 1486
     },
     {
       "id": "spal-us",
@@ -369,9 +369,12 @@
       "lang": "es",
       "region": "iberia",
       "kind": "research",
-      "ok": false,
-      "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: E",
-      "elapsedMs": 6654
+      "ok": true,
+      "fetched": 10,
+      "kept": 7,
+      "droppedOffTopic": 1,
+      "droppedModern": 2,
+      "elapsedMs": 2480
     },
     {
       "id": "complutum-ucm",
@@ -384,7 +387,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 3478
+      "elapsedMs": 3517
     },
     {
       "id": "archeoarte",
@@ -397,7 +400,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2224
+      "elapsedMs": 2536
     },
     {
       "id": "cypsela",
@@ -410,7 +413,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 4393
+      "elapsedMs": 4485
     },
     {
       "id": "cambridge-antiquity",
@@ -420,10 +423,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 20,
-      "droppedOffTopic": 3,
+      "kept": 19,
+      "droppedOffTopic": 4,
       "droppedModern": 7,
-      "elapsedMs": 1932
+      "elapsedMs": 2226
     },
     {
       "id": "cambridge-caj",
@@ -436,7 +439,7 @@
       "kept": 18,
       "droppedOffTopic": 5,
       "droppedModern": 7,
-      "elapsedMs": 1959
+      "elapsedMs": 2382
     },
     {
       "id": "cambridge-ejarc",
@@ -449,7 +452,7 @@
       "kept": 17,
       "droppedOffTopic": 5,
       "droppedModern": 8,
-      "elapsedMs": 1920
+      "elapsedMs": 2314
     },
     {
       "id": "aquitania-persee",
@@ -462,7 +465,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2981
+      "elapsedMs": 3061
     },
     {
       "id": "cuadernos-arq-unav",
@@ -470,12 +473,9 @@
       "lang": "es",
       "region": "basque",
       "kind": "research",
-      "ok": true,
-      "fetched": 30,
-      "kept": 21,
-      "droppedOffTopic": 1,
-      "droppedModern": 8,
-      "elapsedMs": 3728
+      "ok": false,
+      "error": "Request timed out after 15000ms",
+      "elapsedMs": 49513
     },
     {
       "id": "veleia-ehu",
@@ -488,7 +488,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3240
+      "elapsedMs": 3156
     },
     {
       "id": "flv-navarra",
@@ -501,7 +501,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2320
+      "elapsedMs": 2435
     },
     {
       "id": "munibe-aa",
@@ -514,7 +514,7 @@
       "kept": 18,
       "droppedOffTopic": 3,
       "droppedModern": 9,
-      "elapsedMs": 2333
+      "elapsedMs": 2450
     },
     {
       "id": "trabajos-prehistoria",
@@ -527,7 +527,7 @@
       "kept": 22,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 2354
+      "elapsedMs": 2465
     },
     {
       "id": "openalex-archaeology",
@@ -540,7 +540,7 @@
       "kept": 15,
       "droppedOffTopic": 8,
       "droppedModern": 7,
-      "elapsedMs": 2416
+      "elapsedMs": 2481
     }
   ],
   "items": [
@@ -713,6 +713,21 @@
       "url": "https://doi.org/10.17632/hjhwz5n6r8.1",
       "image": null,
       "publishedAt": "2027-01-01T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7210336858",
+      "title": "Connections through collections: linking archaeological and epigraphic archives through places and people",
+      "summary": "International audience",
+      "url": "https://hal.science/hal-05738769",
+      "image": null,
+      "publishedAt": "2026-10-08T00:00:00.000Z",
       "source": {
         "id": "openalex-archaeology",
         "name": "OpenAlex — Arkeologia (mundua)"
@@ -8523,6 +8538,257 @@
       "topics": []
     },
     {
+      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326002190?dgcid=rss_sd_all",
+      "title": "Close to the edge: A chronometric approach to Early-Late Iron Age transition (450-350 BCE) in the Iberian Peninsula",
+      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science, Volume 194 Author(s): Samuel Nión-Álvarez",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326002190?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-09-10T06:14:04.903Z",
+      "source": {
+        "id": "sciencedirect-jas",
+        "name": "Journal of Archaeological Science (ScienceDirect)"
+      },
+      "lang": "en",
+      "region": "iberia",
+      "topics": [
+        "prehistoria",
+        "iberiarrak"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/feature/an-unequal-contest/",
+      "title": "An unequal contest?",
+      "summary": "In the second part of our series, Graham Goodlad reviews the organisation, tactics, and weaponry of the two armies.",
+      "url": "https://the-past.com/feature/an-unequal-contest/",
+      "image": null,
+      "publishedAt": "2026-09-10T05:00:50.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/feature/the-jacobite-wars/",
+      "title": "The Jacobite Wars",
+      "summary": "In the first part of our new series, Graham Goodlad explores the Jacobite movement’s early attempts to overthrow Britain’s ruling Protestant monarchy.",
+      "url": "https://the-past.com/feature/the-jacobite-wars/",
+      "image": null,
+      "publishedAt": "2026-09-10T04:55:08.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/feature/road-to-culloden/",
+      "title": "Road to Culloden",
+      "summary": "Onwards and upwards a timeline tracing the developing fortunes and many incarnations of America's air force in the 2oth century.",
+      "url": "https://the-past.com/feature/road-to-culloden/",
+      "image": null,
+      "publishedAt": "2026-09-10T04:50:00.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "amerika"
+      ]
+    },
+    {
+      "id": "berria-bsky:https://bsky.app/profile/berria.eus/post/3mv3zkqrt5a24",
+      "title": "",
+      "summary": "🚤🇵🇸 Gazarantz doa berriro Askatasunaren Flotilla. Vigon egingo du hurrengo geldialdia, eta haraino joango da Maddi Iztueta Olano BERRIAko kazetaria. Frank Romano eta Elisabeth Murray Flotillako aktibistak elkarrizketatu ditu.",
+      "url": "https://bsky.app/profile/berria.eus/post/3mv3zkqrt5a24",
+      "image": null,
+      "publishedAt": "2026-09-09T17:07:00.000Z",
+      "source": {
+        "id": "berria-bsky",
+        "name": "Berria (Bluesky)"
+      },
+      "lang": "eu",
+      "region": "basque",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/encuentran-en-dakota-del-norte-el-primer-rastro-de-huellas-fosilizadas-de-un-t-rex-adulto-que-permite-reconstruir-su-paso-hace-665-millones-de-anos",
+      "title": "Encuentran en Dakota del Norte el primer rastro de huellas fosilizadas de un T. rex adulto que permite reconstruir su paso hace 66,5 millones de años",
+      "summary": "Un equipo de paleontólogos ha documentado en el suroeste de Dakota del Norte el primer rastro continuo de huellas atribuido a un ejemplar adulto de Tyrannosaurus rex, un hallazgo que aporta datos inéditos sobre la locomoción y el comportamiento de este depredador emblemático del…",
+      "url": "https://www.labrujulaverde.com/2026/09/encuentran-en-dakota-del-norte-el-primer-rastro-de-huellas-fosilizadas-de-un-t-rex-adulto-que-permite-reconstruir-su-paso-hace-665-millones-de-anos",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/Untitled-design-3.webp",
+      "publishedAt": "2026-09-09T15:25:37.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/human-evolution/enigmatic-denisovans-lived-by-cave-in-what-is-now-china-for-100-000-years-rare-fossils-and-handcrafted-tools-reveal",
+      "title": "Enigmatic Denisovans lived by cave in what is now China for 100,000 years, rare fossils and handcrafted tools reveal",
+      "summary": "Anthropologists have discovered the first-ever Denisovan arm bone in a cave in southwest China, which also held thousands of prehistoric animal bones and stone tools.",
+      "url": "https://www.livescience.com/archaeology/human-evolution/enigmatic-denisovans-lived-by-cave-in-what-is-now-china-for-100-000-years-rare-fossils-and-handcrafted-tools-reveal",
+      "image": "https://cdn.mos.cms.futurecdn.net/F7KyUPduoN8bKvB2b8W3yV-1280-80.png",
+      "publishedAt": "2026-09-09T15:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "asia",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/en-los-confines-del-sistema-solar-los-telescopios-hubble-y-webb-descubrieron-27-objetos-transneptunianos-que-desafian-los-modelos-de-formacion-planetaria",
+      "title": "En los confines del sistema solar los telescopios Hubble y Webb descubrieron 27 objetos transneptunianos que desafían los modelos de formación planetaria",
+      "summary": "Por primera vez en la historia de la astronomía, los dos grandes observatorios espaciales de la NASA, el Hubble y el James Webb, han trabajado de forma coordinada para desentrañar los secretos de los objetos transneptunianos (TNO, por sus siglas en inglés), esos cuerpos helados…",
+      "url": "https://www.labrujulaverde.com/2026/09/en-los-confines-del-sistema-solar-los-telescopios-hubble-y-webb-descubrieron-27-objetos-transneptunianos-que-desafian-los-modelos-de-formacion-planetaria",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/STScI-01KZC81GGE6DAJKS1C8KAXHZ2M.webp",
+      "publishedAt": "2026-09-09T14:15:22.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "amerika",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "elpais-cultura:https://elpais.com/cultura/2026-09-09/conclave-de-egiptologos-en-barcelona-un-apasionante-bano-de-tumbas-templos-momias-y-cocodrilos.html",
+      "title": "Cónclave de egiptólogos en Barcelona: un apasionante baño de tumbas, templos, momias y cocodrilos",
+      "summary": "El VIII Congreso Iberoamericano de Egiptología en la UAB, en el que se ha anunciado el hallazgo de una tumba inédita en Saqqara, reúne a directores de misiones arqueológicas españolas en el país del Nilo",
+      "url": "https://elpais.com/cultura/2026-09-09/conclave-de-egiptologos-en-barcelona-un-apasionante-bano-de-tumbas-templos-momias-y-cocodrilos.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/GDJ4VNQ22RFHBAHJ6UFJ76EQVA.jpg?auth=129468da1594033ba9c60c482aaf31967c51261906dcb01212eb5b1b1d04870a",
+      "publishedAt": "2026-09-09T13:43:06.000Z",
+      "source": {
+        "id": "elpais-cultura",
+        "name": "El País — Cultura"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "egiptoarrak",
+        "iberiarrak"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/review/books/in-brief-12/",
+      "title": "In Brief",
+      "summary": "MHM’s round-up of the latest military history releases.",
+      "url": "https://the-past.com/review/books/in-brief-12/",
+      "image": null,
+      "publishedAt": "2026-09-09T11:00:48.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/cientificos-resuelven-el-enigma-de-los-megalitos-del-diablo-de-yorkshire-piedras-de-25-toneladas-fueron-transportadas-18-kilometros-por-constructores-neoliticos",
+      "title": "Científicos resuelven el enigma de los megalitos del Diablo de Yorkshire: piedras de 25 toneladas fueron transportadas 18 kilómetros por constructores neolíticos",
+      "summary": "Un equipo de investigación de la Universidad de York y la Universidad de Curtin, en Australia, ha logrado despejar una de las incógnitas más persistentes de la arqueología británica al determinar el origen exacto de las colosales piedras erguidas conocidas como las Flechas del…",
+      "url": "https://www.labrujulaverde.com/2026/09/cientificos-resuelven-el-enigma-de-los-megalitos-del-diablo-de-yorkshire-piedras-de-25-toneladas-fueron-transportadas-18-kilometros-por-constructores-neoliticos",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/Devils_Arrows_Boroughbridge_-_geograph.org_.uk_-_5891600.webp",
+      "publishedAt": "2026-09-09T10:52:18.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/incendios-prehistoricos-en-el-levante-sur-pudieron-inspirar-la-invencion-de-la-ceramica",
+      "title": "Incendios prehistóricos en el Levante sur pudieron inspirar la invención de la cerámica",
+      "summary": "Una investigación publicada en la revista Geomorphology propone que los grandes incendios y la posterior erosión de los suelos ocurridos hace más de nueve mil años en la región del Levante sur crearon las condiciones ambientales y visuales que permitieron a las comunidades…",
+      "url": "https://www.labrujulaverde.com/2026/09/incendios-prehistoricos-en-el-levante-sur-pudieron-inspirar-la-invencion-de-la-ceramica",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/1-s2.0-S0169555X26003570-gr10_lrg.webp",
+      "publishedAt": "2026-09-09T09:29:45.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "ekialde-hurbila",
+        "amerika",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/review/books/nineteen-days-in-autumn-a-new-history-of-1066/",
+      "title": "Nineteen Days in Autumn: a new history of 1066",
+      "summary": "It’s a rip-roaring start, with three deaths in five pages as Harald Hardrada (or Haraldr Sigurdarson as he’s termed here), Tostig (wayward brother of Harold Godwinson), and an unnamed farmer all get",
+      "url": "https://the-past.com/review/books/nineteen-days-in-autumn-a-new-history-of-1066/",
+      "image": null,
+      "publishedAt": "2026-09-09T09:20:36.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/monumenti-funerari-neolitici-dohlen-kapellenberg-prima-piramidi/",
+      "title": "Scoperto un misterioso trapezio funerario del Neolitico. Anche in Europa gli antenati delle piramidi? Tra monumenti e tumuli a gradoni. Le migrazioni che cambiarono l’Europa",
+      "summary": "A Döhlen, presso Markranstädt, nel territorio di Lipsia, gli archeologi hanno appena riportato alla luce una monumentale struttura funeraria trapezoidale della cultura di Baalberg. A circa 350 chilometri più a sud-ovest, sul Kapellenberg presso Hofheim am Taunus, le ricerche del…",
+      "url": "https://www.stilearte.it/monumenti-funerari-neolitici-dohlen-kapellenberg-prima-piramidi/",
+      "image": null,
+      "publishedAt": "2026-09-09T08:46:24.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
+      "title": "Devil’s Arrows: Ancient builders hauled 55,000-pound stones 11 miles for Britain’s tallest stone row",
+      "summary": "Britain’s towering Devil’s Arrows were built from 25-tonne stones hauled at least 18 kilometers from Brimham Rocks around 4,000 years ago. The discovery reveals an astonishing feat of prehistoric engineering and suggests the stones’ distant source may have been chosen for…",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
+      "image": null,
+      "publishedAt": "2026-09-09T07:41:21.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "aurkikuntza"
+      ]
+    },
+    {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26004542?dgcid=rss_sd_all",
       "title": "The utilisation of Alpine and per-Alpine landscapes in the 5th millennium BC – Neolithic economy and settlement between the Alpine Rhine and Salzach rivers",
       "summary": "Publication date: November 2026 Source: Journal of Archaeological Science: Reports, Volume 75 Author(s): Joachim Pechtl",
@@ -8605,272 +8871,6 @@
       "topics": [
         "erdi-aroa",
         "aurkikuntza"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/whats-on/drawn-on-the-western-front-paul-sarrut-and-the-indian-army/",
-      "title": "Drawn on the Western Front: Paul Sarrut and the Indian Army",
-      "summary": "Reviewing the best military history exhibitions, with Peter Popham.",
-      "url": "https://the-past.com/review/whats-on/drawn-on-the-western-front-paul-sarrut-and-the-indian-army/",
-      "image": null,
-      "publishedAt": "2026-09-08T13:07:27.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "asia",
-        "museoak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/news/wwi-military-cemetery-found-in-the-carpathian-mountains/",
-      "title": "WWI military cemetery found in the Carpathian Mountains",
-      "summary": "Researchers from the Warsaw University of Technology and the Jagiellonian University Institute of Archaeology have located a military cemetery containing the remains of soldiers killed during battles in the Carpathian Mountains between",
-      "url": "https://the-past.com/news/wwi-military-cemetery-found-in-the-carpathian-mountains/",
-      "image": null,
-      "publishedAt": "2026-09-08T12:32:49.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/shorts/ideas/war-of-words-frank/",
-      "title": "War of Words – ‘Frank’",
-      "summary": "with Marc DeSantis",
-      "url": "https://the-past.com/shorts/ideas/war-of-words-frank/",
-      "image": null,
-      "publishedAt": "2026-09-08T11:50:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/vindolanda-chape-celtico-cohors-iv-gallorum-urbicus-brixia/",
-      "title": "Impero romano. Un oggetto misterioso scoperto ora nel forte di 1800 anni fa. Era dei Galli di “Lombardia”? L’altare del comandante bresciano Urbicus",
-      "summary": "Un puntale di fodero, in lega di rame, decorato con smalto, è stato scoperto in queste ore a Vindolanda, il grande forte dell’Impero romano sul confine settentrionale della Britannia. La decorazione richiama la tradizione celtica e riporta al centro dell’attenzione i soldati…",
-      "url": "https://www.stilearte.it/vindolanda-chape-celtico-cohors-iv-gallorum-urbicus-brixia/",
-      "image": null,
-      "publishedAt": "2026-09-08T08:56:19.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/nuovo-tesoro-vichingo-monete-argento-sysma-finlandia/",
-      "title": "Sorpresa. Scoperto un altro tesoro millenario. Altri 4 chili e mezzo di monete antiche. Verifiche al via. L’argento nascosto in contenitori di cortecce. Cosa c’era nell’area",
-      "summary": "A Sysmä, nella Finlandia meridionale, è stato scoperto un nuovo grande tesoro della tarda età del Ferro: migliaia di monete d’argento, insieme a un bracciale e ad altri oggetti preziosi, per un peso complessivo di circa 4,5 chilogrammi. Il ritrovamento, effettuato il 3 settembre…",
-      "url": "https://www.stilearte.it/nuovo-tesoro-vichingo-monete-argento-sysma-finlandia/",
-      "image": null,
-      "publishedAt": "2026-09-08T08:10:29.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/villa-romana-positano-nuovi-scavi-cantiere-aperto-pubblico/",
-      "title": "Cosa sta riemergendo sotto Positano? Gli archeologi scavano nella villa romana sepolta nel 79 d.C. e aprono il cantiere al pubblico. Entro fine settembre il cantiere sarà visitabile",
-      "summary": "Archeologi al lavoro a dieci metri di profondità sotto la città. Il cantiere, avviato alcuni mesi fa, diventerà visitabile entro la fine di settembre. Tra le prime strutture emerse, un tratto di muro in opus mixtum Sotto Positano si continua a scavare. E questa volta il pubblico…",
-      "url": "https://www.stilearte.it/villa-romana-positano-nuovi-scavi-cantiere-aperto-pubblico/",
-      "image": null,
-      "publishedAt": "2026-09-08T08:02:34.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/tesoro-vichingo-monete-argento-sysma-finlandia/",
-      "title": "Un appassionato con il metal detector trova nel terreno migliaia di monete vichinghe: è il più grande tesoro monetale dell’Età del Ferro mai scoperto in Finlandia. Nascosto nella corteccia di una betulla. “All’inizio il segnale era sporco. Poi la sorpresa”",
-      "summary": "Pensava di poter trovare, come spesso accade con il metal detector, un pezzo di metallo senza particolare interesse. Invece, sotto il terreno, sono cominciate a comparire migliaia di monete d’argento. La scoperta è avvenuta a Sysmä, nella Finlandia meridionale, e si è rivelata…",
-      "url": "https://www.stilearte.it/tesoro-vichingo-monete-argento-sysma-finlandia/",
-      "image": null,
-      "publishedAt": "2026-09-08T07:10:26.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/un-papiro-egipcio-de-hace-2000-anos-desvela-cuanto-le-copio-a-grecia-el-poeta-romano-que-inspiro-a-karl-marx",
-      "title": "Un papiro egipcio de hace 2000 años desvela cuánto le copió a Grecia el poeta romano que inspiró a Karl Marx",
-      "summary": "Durante años, un pequeño fragmento de papiro durmió sin que nadie reparase en él en los fondos del Instituto Francés de Arqueología Oriental de El Cairo. Nadie lo había mirado con atención hasta que, a comienzos de 2026, el papirólogo belga Nathan Carlig, de la Universidad de…",
-      "url": "https://www.labrujulaverde.com/2026/09/un-papiro-egipcio-de-hace-2000-anos-desvela-cuanto-le-copio-a-grecia-el-poeta-romano-que-inspiro-a-karl-marx",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/Death_of_Empedocles.webp",
-      "publishedAt": "2026-09-08T06:36:32.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "europe",
-      "topics": [
-        "erromatarrak",
-        "greziarrak"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/aparece-un-sorprendente-mosaico-de-105-metros-cuadrados-en-una-basilica-romana-de-pompeyopolis-convertida-en-iglesia",
-      "title": "Aparece un sorprendente mosaico de 105 metros cuadrados en una basílica romana de Pompeyópolis convertida en iglesia",
-      "summary": "Hay una ciudad romana en la costa turca del mar Negro que se llama Pompeyópolis. No la fundó nadie relacionado con la erupción del Vesubio del año 79 ni tiene ninguna relación con la Pompeya italiana: el nombre viene de Pompeyo Magno, que la creó en el 64 o 63 a.C. como una de…",
-      "url": "https://www.labrujulaverde.com/2026/09/aparece-un-sorprendente-mosaico-de-105-metros-cuadrados-en-una-basilica-romana-de-pompeyopolis-convertida-en-iglesia",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/515009-D2890686520112CDC143A7E7D90D14E1F45BA981-0.webp",
-      "publishedAt": "2026-09-07T15:09:04.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "europe",
-      "topics": [
-        "erromatarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/shorts/letters/mhm-154-letters-june/",
-      "title": "MHM 154 Letters – September",
-      "summary": "Your thoughts on issues raised by the magazine.",
-      "url": "https://the-past.com/shorts/letters/mhm-154-letters-june/",
-      "image": null,
-      "publishedAt": "2026-09-07T13:30:21.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/reticella-romana-capelli-vindolanda-sprang/",
-      "title": "Sai cos’è questo groviglio di fili? Ha quasi 2.000 anni e racconta un segreto di bellezza delle donne romane. Tendere i fili, usare le dita e ripetere lo stesso gesto, ancora e ancora.",
-      "summary": "A prima vista sembra soltanto un fragile ammasso di fibre. In realtà è una raffinatissima reticella per capelli, realizzata con una tecnica antichissima che non prevedeva né telaio né tessitura nel senso tradizionale. Il reperto, conservato a Vindolanda, racconta quanto potesse…",
-      "url": "https://www.stilearte.it/reticella-romana-capelli-vindolanda-sprang/",
-      "image": null,
-      "publishedAt": "2026-09-07T10:51:00.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/archaeology/guldhoj-folding-chair-the-only-completely-preserved-chair-from-bronze-age-europe",
-      "title": "Guldhøj folding chair: The only completely preserved chair from Bronze Age Europe",
-      "summary": "The remarkably preserved wooden folding chair was likely a status symbol and was found in the grave of a Bronze Age chieftain.",
-      "url": "https://www.livescience.com/archaeology/guldhoj-folding-chair-the-only-completely-preserved-chair-from-bronze-age-europe",
-      "image": "https://cdn.mos.cms.futurecdn.net/4SL6x6sxtmZnKTPoNeV5k5-1280-80.png",
-      "publishedAt": "2026-09-07T10:00:00.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/scoperte-archeologiche-lucone-evento-preistoria-2026/",
-      "title": "Avete letto delle misteriose tavolette del Lucone in provincia di Brescia? Domenica potrete entrare gratuitamente nel luogo delle nuove scoperte. Laboratori e archeologia sperimentale per tutti",
-      "summary": "Le tavolette enigmatiche di quattromila anni fa, la lama in bronzo appena emersa dagli scavi, il grande boccale e i reperti che stanno raccontando una nuova stagione di ricerche. Domenica 13 settembre il pubblico potrà entrare nel sito archeologico del Lucone di Polpenazze del…",
-      "url": "https://www.stilearte.it/scoperte-archeologiche-lucone-evento-preistoria-2026/",
-      "image": null,
-      "publishedAt": "2026-09-07T08:27:49.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "berria-bsky:https://bsky.app/profile/berria.eus/post/3muvthiy25o2m",
-      "title": "",
-      "summary": "Gaur hasiko da Parisen Loik Le Priolen eta Romain Bouvierren kontrako epaiketa, Federico Martin Aramburu hiltzea egotzita. Eskuin muturreko talde bortitz bateko kideak dira biak.…",
-      "url": "https://bsky.app/profile/berria.eus/post/3muvthiy25o2m",
-      "image": null,
-      "publishedAt": "2026-09-07T06:01:00.000Z",
-      "source": {
-        "id": "berria-bsky",
-        "name": "Berria (Bluesky)"
-      },
-      "lang": "eu",
-      "region": "basque",
-      "topics": [
-        "erromatarrak",
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "guardian-arch:https://www.theguardian.com/environment/2026/sep/07/country-diary-a-dreadful-den-of-and-thievery-or-is-it",
-      "title": "Country diary: A dreadful den of murder and thievery – or is it? | Merryn Glover",
-      "summary": "Lynchat, Spey Valley: So many stories fill the iron age Raitts Cave, from wild legend to the more quotidian truth of its history The word “cave” is full of possibility. It speaks of darkness, secrets, treasures and escapees, all of which can be found in the stories of Raitts…",
-      "url": "https://www.theguardian.com/environment/2026/sep/07/country-diary-a-dreadful-den-of-and-thievery-or-is-it",
-      "image": "https://i.guim.co.uk/img/media/4b4e1fc0006687e2de4998c3ef6aea1a09097be5/755_0_2835_2268/master/2835.jpg?width=140&quality=85&auto=format&fit=max&s=d7bdfac1cc7f68dfd3708bcaa587f9c2",
-      "publishedAt": "2026-09-07T04:30:24.000Z",
-      "source": {
-        "id": "guardian-arch",
-        "name": "The Guardian — Archaeology"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "elpais-cultura:https://elpais.com/cultura/2026-09-07/vuelve-el-vikingo-vikingo-un-libro-centrado-en-el-energico-olaf-haraldsson-muestra-toda-la-violencia-y-brutalidad-de-los-guerreros-del-norte.html",
-      "title": "Vuelve el vikingo-vikingo: un libro centrado en el enérgico Olaf Haraldsson muestra toda la violencia y brutalidad de los guerreros del Norte",
-      "summary": "El historiador noruego Tore Skeie analiza en ’La era del lobo’ la pugna en el siglo XI por consolidar un reino a través del mar en Inglaterra y Escandinavia",
-      "url": "https://elpais.com/cultura/2026-09-07/vuelve-el-vikingo-vikingo-un-libro-centrado-en-el-energico-olaf-haraldsson-muestra-toda-la-violencia-y-brutalidad-de-los-guerreros-del-norte.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/I4WPFYBQCBBWZBLKGFK5FO6S7I.JPG?auth=aed0e8403aefb2839d38651eed279b5ac66835b2049c709dc4c770609254778a",
-      "publishedAt": "2026-09-07T03:30:01.000Z",
-      "source": {
-        "id": "elpais-cultura",
-        "name": "El País — Cultura"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "erdi-aroa"
       ]
     }
   ]
