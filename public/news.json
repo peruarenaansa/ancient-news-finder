@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T06:14:52.943Z",
+  "generatedAt": "2026-09-11T06:17:27.877Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 4919
+      "elapsedMs": 5893
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1047
+      "elapsedMs": 790
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1313
+      "elapsedMs": 4165
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 879
+      "elapsedMs": 950
     },
     {
       "id": "berria-bsky",
@@ -59,10 +59,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2424
+      "elapsedMs": 3080
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 9,
       "droppedOffTopic": 21,
       "droppedModern": 0,
-      "elapsedMs": 2389
+      "elapsedMs": 3084
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1508
+      "elapsedMs": 1424
     },
     {
       "id": "labrujulaverde",
@@ -99,9 +99,9 @@
       "ok": true,
       "fetched": 20,
       "kept": 11,
-      "droppedOffTopic": 4,
-      "droppedModern": 5,
-      "elapsedMs": 1651
+      "droppedOffTopic": 3,
+      "droppedModern": 6,
+      "elapsedMs": 1938
     },
     {
       "id": "desperta-ferro",
@@ -112,9 +112,9 @@
       "ok": true,
       "fetched": 12,
       "kept": 4,
-      "droppedOffTopic": 4,
-      "droppedModern": 4,
-      "elapsedMs": 1452
+      "droppedOffTopic": 3,
+      "droppedModern": 5,
+      "elapsedMs": 1334
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1399
+      "elapsedMs": 970
     },
     {
       "id": "lemonde-sciences",
@@ -137,10 +137,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 0,
-      "droppedOffTopic": 20,
+      "kept": 1,
+      "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 703
+      "elapsedMs": 1054
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 7,
       "droppedOffTopic": 10,
       "droppedModern": 3,
-      "elapsedMs": 1727
+      "elapsedMs": 1765
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -166,7 +166,7 @@
       "kept": 4,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1109
+      "elapsedMs": 1651
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +179,7 @@
       "kept": 5,
       "droppedOffTopic": 18,
       "droppedModern": 4,
-      "elapsedMs": 2350
+      "elapsedMs": 3092
     },
     {
       "id": "sudouest-culture",
@@ -192,7 +192,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1455
+      "elapsedMs": 1638
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1637
+      "elapsedMs": 2132
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 0,
       "droppedOffTopic": 1,
       "droppedModern": 9,
-      "elapsedMs": 1925
+      "elapsedMs": 2190
     },
     {
       "id": "stilearte",
@@ -228,10 +228,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 8,
-      "droppedOffTopic": 1,
+      "kept": 9,
+      "droppedOffTopic": 0,
       "droppedModern": 1,
-      "elapsedMs": 2148
+      "elapsedMs": 2406
     },
     {
       "id": "live-science-arch",
@@ -241,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 4,
-      "droppedOffTopic": 26,
+      "kept": 3,
+      "droppedOffTopic": 27,
       "droppedModern": 0,
-      "elapsedMs": 1964
+      "elapsedMs": 2964
     },
     {
       "id": "bbc-history",
@@ -257,7 +257,7 @@
       "kept": 0,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1458
+      "elapsedMs": 2024
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +270,7 @@
       "kept": 17,
       "droppedOffTopic": 13,
       "droppedModern": 0,
-      "elapsedMs": 1406
+      "elapsedMs": 1949
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1430
+      "elapsedMs": 2037
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 10,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 1682
+      "elapsedMs": 2455
     },
     {
       "id": "current-archaeology",
@@ -306,10 +306,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 12,
-      "droppedOffTopic": 6,
+      "kept": 11,
+      "droppedOffTopic": 7,
       "droppedModern": 12,
-      "elapsedMs": 1545
+      "elapsedMs": 2088
     },
     {
       "id": "jas-reports",
@@ -319,10 +319,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 7,
+      "kept": 6,
       "droppedOffTopic": 2,
-      "droppedModern": 21,
-      "elapsedMs": 1348
+      "droppedModern": 22,
+      "elapsedMs": 2146
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +335,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1715
+      "elapsedMs": 2439
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 19,
       "droppedOffTopic": 8,
       "droppedModern": 3,
-      "elapsedMs": 2620
+      "elapsedMs": 3223
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +361,7 @@
       "kept": 8,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1486
+      "elapsedMs": 2254
     },
     {
       "id": "spal-us",
@@ -374,7 +374,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2480
+      "elapsedMs": 3109
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +387,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 3517
+      "elapsedMs": 4115
     },
     {
       "id": "archeoarte",
@@ -400,7 +400,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2536
+      "elapsedMs": 2978
     },
     {
       "id": "cypsela",
@@ -413,7 +413,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 4485
+      "elapsedMs": 5045
     },
     {
       "id": "cambridge-antiquity",
@@ -426,7 +426,7 @@
       "kept": 19,
       "droppedOffTopic": 4,
       "droppedModern": 7,
-      "elapsedMs": 2226
+      "elapsedMs": 2754
     },
     {
       "id": "cambridge-caj",
@@ -439,7 +439,7 @@
       "kept": 18,
       "droppedOffTopic": 5,
       "droppedModern": 7,
-      "elapsedMs": 2382
+      "elapsedMs": 2850
     },
     {
       "id": "cambridge-ejarc",
@@ -452,7 +452,7 @@
       "kept": 17,
       "droppedOffTopic": 5,
       "droppedModern": 8,
-      "elapsedMs": 2314
+      "elapsedMs": 2769
     },
     {
       "id": "aquitania-persee",
@@ -465,7 +465,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3061
+      "elapsedMs": 3516
     },
     {
       "id": "cuadernos-arq-unav",
@@ -473,9 +473,12 @@
       "lang": "es",
       "region": "basque",
       "kind": "research",
-      "ok": false,
-      "error": "Request timed out after 15000ms",
-      "elapsedMs": 49513
+      "ok": true,
+      "fetched": 30,
+      "kept": 21,
+      "droppedOffTopic": 1,
+      "droppedModern": 8,
+      "elapsedMs": 4191
     },
     {
       "id": "veleia-ehu",
@@ -488,7 +491,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3156
+      "elapsedMs": 4043
     },
     {
       "id": "flv-navarra",
@@ -501,7 +504,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2435
+      "elapsedMs": 3114
     },
     {
       "id": "munibe-aa",
@@ -514,7 +517,7 @@
       "kept": 18,
       "droppedOffTopic": 3,
       "droppedModern": 9,
-      "elapsedMs": 2450
+      "elapsedMs": 2857
     },
     {
       "id": "trabajos-prehistoria",
@@ -527,7 +530,7 @@
       "kept": 22,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 2465
+      "elapsedMs": 2874
     },
     {
       "id": "openalex-archaeology",
@@ -540,7 +543,7 @@
       "kept": 15,
       "droppedOffTopic": 8,
       "droppedModern": 7,
-      "elapsedMs": 2481
+      "elapsedMs": 2887
     }
   ],
   "items": [
@@ -4694,6 +4697,174 @@
       "topics": []
     },
     {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26004773?dgcid=rss_sd_all",
+      "title": "An archaeology of natural dyes and mordants: bridging gaps in Iron Age textile chaînes opératoires",
+      "summary": "Publication date: November 2026 Source: Journal of Archaeological Science: Reports, Volume 75 Author(s): Paul T. Thacker, Carlos M.C. Pereira, Jeff T. Amoss",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26004773?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-09-11T06:17:24.145Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "elpais-cultura:https://elpais.com/cultura/2026-09-11/marc-orriols-egiptologo-hollywood-ha-hecho-mucho-dano-a-nuestra-vision-del-sexo-en-el-antiguo-egipto.html",
+      "title": "Marc Orriols, egiptólogo: “Hollywood ha hecho mucho daño a nuestra visión del sexo en el Antiguo Egipto”",
+      "summary": "El investigador, que ha presentado una intensa ponencia sobre el papiro erótico de Turín en el congreso de Egiptología en Barcelona, apunta que la sociedad faraónica era binaria y heteronormativa",
+      "url": "https://elpais.com/cultura/2026-09-11/marc-orriols-egiptologo-hollywood-ha-hecho-mucho-dano-a-nuestra-vision-del-sexo-en-el-antiguo-egipto.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/TBOY3XNQNNEHLLCINJARRDPP44.jpg?auth=cf630661f168915baddda409146ffd1fbd69bc49d80edc1379531f9787e54f99",
+      "publishedAt": "2026-09-11T03:30:01.000Z",
+      "source": {
+        "id": "elpais-cultura",
+        "name": "El País — Cultura"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "egiptoarrak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/los-romanos-enterraban-los-rayos-como-si-fueran-cadaveres-sagrados-dedicados-al-desconocido-dios-sumanno-lo-confirma-un-hallazgo-en-la-villa-de-adriano",
+      "title": "Los romanos enterraban los rayos como si fueran cadáveres sagrados dedicados al desconocido dios Sumano: lo confirma un hallazgo en la villa de Adriano",
+      "summary": "En un rincón de Villa Adriana, entre el llamado Anfiteatro y un banco de toba, hay una losa de mármol de apenas 40 por 35 centímetros que sigue exactamente donde la dejaron hace unos 1.900 años. Dos líneas de letras capitales bastan para explicar por qué el hallazgo interesa…",
+      "url": "https://www.labrujulaverde.com/2026/09/los-romanos-enterraban-los-rayos-como-si-fueran-cadaveres-sagrados-dedicados-al-desconocido-dios-sumanno-lo-confirma-un-hallazgo-en-la-villa-de-adriano",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/area-ritrovamento.webp",
+      "publishedAt": "2026-09-10T16:18:15.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/scoperta-marche-tomba-tomba-picena-vi-secolo-a-c/",
+      "title": "Meravigliosa. Sant’Elpidio a Mare, riaffiora una tomba picena del VI secolo a.C.: il corredo porta alla luce l’antico mondo dell’Adriatico. Cosa stanno trovando. Chi viveva lì attorno",
+      "summary": "Una sepoltura con vasi e recipienti ceramici è emersa nei pressi del cimitero di Sant’Elpidio a Mare, sulle colline fra il Chienti e il Tenna. La Soprintendenza ha recuperato e messo in sicurezza i reperti: ora il restauro e lo studio potranno chiarire la natura del corredo e il…",
+      "url": "https://www.stilearte.it/scoperta-marche-tomba-tomba-picena-vi-secolo-a-c/",
+      "image": null,
+      "publishedAt": "2026-09-10T15:40:56.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/villa-adriana-iscrizione-fulmine-summano-fulgur-submanium/",
+      "title": "Boato. Villa Adriana, Tivoli. Scoperta l’iscrizione di un fulmine consacrato a Summano: cos’era il raro rito romano che trasformava in sacra la terra colpita dalla folgore",
+      "summary": "Una lastra di marmo ancora nella sua posizione originaria conserva una formula sorprendente: FVLGVR SVBMANIVM, “fulmine di Summano”. La scoperta, avvenuta nell’area del cosiddetto Anfiteatro di Villa Adriana, documenta il rapporto fra la caduta della folgore e il fulgur…",
+      "url": "https://www.stilearte.it/villa-adriana-iscrizione-fulmine-summano-fulgur-submanium/",
+      "image": null,
+      "publishedAt": "2026-09-10T13:13:51.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/kulhoyuk-semi-centaurea-tchihatcheffii-4000-anni/",
+      "title": "Gli archeologi scoprono semi di un fiore rarissimo in un vaso di 4000 anni fa. Era un medicinale? Era la pianta del paradiso? I semi potrebbero germogliare? L’approfondimento",
+      "summary": "A Külhöyük, nel distretto di Gölbaşı presso Ankara, gli archeologi hanno identificato in un recipiente di circa 4.000 anni semi attribuiti alla Centaurea tchihatcheffii, il Sevgi Çiçeği oggi endemico di un’area molto ristretta. Il ritrovamento proviene dagli scavi di un antico…",
+      "url": "https://www.stilearte.it/kulhoyuk-semi-centaurea-tchihatcheffii-4000-anni/",
+      "image": null,
+      "publishedAt": "2026-09-10T12:41:01.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "lemonde-sciences:https://www.lemonde.fr/international/article/2026/09/10/espace-emmanuel-macron-plaide-pour-une-gouvernance-partagee-et-une-europe-puissante_6769738_3210.html",
+      "title": "« Notre Europe spatiale reste fragile et nous devons accélérer » : Emmanuel Macron appelle à une « gouvernance partagée » de l’espace",
+      "summary": "Le président français a insisté sur la nécessité d’« assumer pleinement la préférence européenne », alors que la course à l’espace fait rage, avec les Etats-Unis et la Chine en première ligne. « Ce n’est ni un gros mot ni du protectionnisme, c’est un refus de naïveté », a-t-il…",
+      "url": "https://www.lemonde.fr/international/article/2026/09/10/espace-emmanuel-macron-plaide-pour-une-gouvernance-partagee-et-une-europe-puissante_6769738_3210.html",
+      "image": "https://img.lemde.fr/2026/09/09/643/0/7705/3852/644/322/60/0/1bbb9f8_ftp-1-ynq34pbow1hp-5037556-01-06.jpg",
+      "publishedAt": "2026-09-10T10:55:15.000Z",
+      "source": {
+        "id": "lemonde-sciences",
+        "name": "Le Monde — Sciences"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": [
+        "ekialde-hurbila"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/antes-de-la-fundacion-de-roma-una-tribu-de-la-edad-del-bronce-en-polonia-ya-comia-un-cereal-traido-de-china",
+      "title": "Una tribu de la Edad del Bronce en Polonia ya comía un cereal traído de China cuando Roma ni siquiera se había fundado",
+      "summary": "Hacia el año 1590 a.C., más de ochocientos años antes de que Roma existiera siquiera como aldea y con Tutankamón todavía sin nacer, un puñado de personas en el sureste de Polonia empezó a comer un cereal que no era suyo. No procedía de los campos que sus vecinos llevaban…",
+      "url": "https://www.labrujulaverde.com/2026/09/antes-de-la-fundacion-de-roma-una-tribu-de-la-edad-del-bronce-en-polonia-ya-comia-un-cereal-traido-de-china",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/Panicum_miliaceum_subsp._miliaceum_sl14.webp",
+      "publishedAt": "2026-09-10T10:27:55.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak",
+        "asia",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/graffito-romano-tungriv-vindolanda-2000-anni/",
+      "title": "“È mio”: quasi 2.000 anni fa un romano scrisse il suo ‘nome’ su questo piatto ritrovato tra gli scavi a Vindolanda. Racconta qualcosa di molto umano della vita quotidiana al confine dell’Impero",
+      "summary": "A Vindolanda è riemerso un frammento di ceramica con la scritta TVNGRI. Un gesto semplicissimo, quello di segnare una propria stoviglia, che racconta però qualcosa di molto umano della vita quotidiana al confine dell’Impero. A volte basta una sola parola per accorciare di quasi…",
+      "url": "https://www.stilearte.it/graffito-romano-tungriv-vindolanda-2000-anni/",
+      "image": null,
+      "publishedAt": "2026-09-10T09:34:29.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/antes-de-la-cerveza-y-mucho-antes-de-la-agricultura-asi-se-drogaban-los-cazadores-de-la-edad-de-hielo",
+      "title": "Antes de la cerveza y mucho antes de la agricultura: así se drogaban los cazadores de la Edad de Hielo",
+      "summary": "Dos esqueletos hallados en la isla indonesia de Sulawesi tenían algo raro en la boca. No eran caries, ni el desgaste habitual de una dieta dura. Eran unos surcos profundos y redondeados en los dientes, un patrón que ningún arqueólogo había visto antes y que nadie sabía explicar.…",
+      "url": "https://www.labrujulaverde.com/2026/09/antes-de-la-cerveza-y-mucho-antes-de-la-agricultura-asi-se-drogaban-los-cazadores-de-la-edad-de-hielo",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/IMG_4341.jpg-2.webp",
+      "publishedAt": "2026-09-10T09:08:05.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26004578?dgcid=rss_sd_all",
       "title": "Reconstructing institutional food practices in early Mesopotamia using multi-proxy biomolecular evidence",
       "summary": "Publication date: November 2026 Source: Journal of Archaeological Science: Reports, Volume 75 Author(s): Cavazzin Bianca, Erskine Neil, Heimvik Synnøve, Bendrey Robin, Hald Mette Marie, Asouti Eleni, Sameen Salah Mohammed, Glatz Claudia",
@@ -8703,175 +8874,6 @@
       "lang": "en",
       "region": "europe",
       "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/cientificos-resuelven-el-enigma-de-los-megalitos-del-diablo-de-yorkshire-piedras-de-25-toneladas-fueron-transportadas-18-kilometros-por-constructores-neoliticos",
-      "title": "Científicos resuelven el enigma de los megalitos del Diablo de Yorkshire: piedras de 25 toneladas fueron transportadas 18 kilómetros por constructores neolíticos",
-      "summary": "Un equipo de investigación de la Universidad de York y la Universidad de Curtin, en Australia, ha logrado despejar una de las incógnitas más persistentes de la arqueología británica al determinar el origen exacto de las colosales piedras erguidas conocidas como las Flechas del…",
-      "url": "https://www.labrujulaverde.com/2026/09/cientificos-resuelven-el-enigma-de-los-megalitos-del-diablo-de-yorkshire-piedras-de-25-toneladas-fueron-transportadas-18-kilometros-por-constructores-neoliticos",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/Devils_Arrows_Boroughbridge_-_geograph.org_.uk_-_5891600.webp",
-      "publishedAt": "2026-09-09T10:52:18.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/incendios-prehistoricos-en-el-levante-sur-pudieron-inspirar-la-invencion-de-la-ceramica",
-      "title": "Incendios prehistóricos en el Levante sur pudieron inspirar la invención de la cerámica",
-      "summary": "Una investigación publicada en la revista Geomorphology propone que los grandes incendios y la posterior erosión de los suelos ocurridos hace más de nueve mil años en la región del Levante sur crearon las condiciones ambientales y visuales que permitieron a las comunidades…",
-      "url": "https://www.labrujulaverde.com/2026/09/incendios-prehistoricos-en-el-levante-sur-pudieron-inspirar-la-invencion-de-la-ceramica",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/1-s2.0-S0169555X26003570-gr10_lrg.webp",
-      "publishedAt": "2026-09-09T09:29:45.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "ekialde-hurbila",
-        "amerika",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/books/nineteen-days-in-autumn-a-new-history-of-1066/",
-      "title": "Nineteen Days in Autumn: a new history of 1066",
-      "summary": "It’s a rip-roaring start, with three deaths in five pages as Harald Hardrada (or Haraldr Sigurdarson as he’s termed here), Tostig (wayward brother of Harold Godwinson), and an unnamed farmer all get",
-      "url": "https://the-past.com/review/books/nineteen-days-in-autumn-a-new-history-of-1066/",
-      "image": null,
-      "publishedAt": "2026-09-09T09:20:36.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/monumenti-funerari-neolitici-dohlen-kapellenberg-prima-piramidi/",
-      "title": "Scoperto un misterioso trapezio funerario del Neolitico. Anche in Europa gli antenati delle piramidi? Tra monumenti e tumuli a gradoni. Le migrazioni che cambiarono l’Europa",
-      "summary": "A Döhlen, presso Markranstädt, nel territorio di Lipsia, gli archeologi hanno appena riportato alla luce una monumentale struttura funeraria trapezoidale della cultura di Baalberg. A circa 350 chilometri più a sud-ovest, sul Kapellenberg presso Hofheim am Taunus, le ricerche del…",
-      "url": "https://www.stilearte.it/monumenti-funerari-neolitici-dohlen-kapellenberg-prima-piramidi/",
-      "image": null,
-      "publishedAt": "2026-09-09T08:46:24.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
-      "title": "Devil’s Arrows: Ancient builders hauled 55,000-pound stones 11 miles for Britain’s tallest stone row",
-      "summary": "Britain’s towering Devil’s Arrows were built from 25-tonne stones hauled at least 18 kilometers from Brimham Rocks around 4,000 years ago. The discovery reveals an astonishing feat of prehistoric engineering and suggests the stones’ distant source may have been chosen for…",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
-      "image": null,
-      "publishedAt": "2026-09-09T07:41:21.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26004542?dgcid=rss_sd_all",
-      "title": "The utilisation of Alpine and per-Alpine landscapes in the 5th millennium BC – Neolithic economy and settlement between the Alpine Rhine and Salzach rivers",
-      "summary": "Publication date: November 2026 Source: Journal of Archaeological Science: Reports, Volume 75 Author(s): Joachim Pechtl",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26004542?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-09-09T06:14:14.720Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "sudouest-culture:https://www.sudouest.fr/dordogne/montignac/dordogne-dans-les-coulisses-de-lascaux-iv-en-images-30478582.php",
-      "title": "Dordogne - Dans les coulisses de Lascaux IV en images",
-      "summary": "PORTFOLIO - Lascaux IV, en Dordogne, fête ses dix ans de son ouverture. Immergeons-nous, en images, dans les entrailles du plus célèbre fac-similé d’art rupestre au monde",
-      "url": "https://www.sudouest.fr/dordogne/montignac/dordogne-dans-les-coulisses-de-lascaux-iv-en-images-30478582.php",
-      "image": null,
-      "publishedAt": "2026-09-09T06:00:00.000Z",
-      "source": {
-        "id": "sudouest-culture",
-        "name": "Sud Ouest — Culture"
-      },
-      "lang": "fr",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "aranzadi-bsky:https://bsky.app/profile/aranzadi.bsky.social/post/3muziqqcvlc2f",
-      "title": "",
-      "summary": "🏺 «Irulegitik Pompelora. Hiri baten sustraiak» nazioarteko ikastaroak adituak bilduko ditu. Duela 2.100 urte Pompelo nola sortu zen eta erromatarren etorrerak lurraldea nola eraldatu zuen aztertuko da modu dibulgatiboan. 📅 Irailak 24-27 · 📍 Civivox Pompelo · Iruña 🎟️ Doan,…",
-      "url": "https://bsky.app/profile/aranzadi.bsky.social/post/3muziqqcvlc2f",
-      "image": null,
-      "publishedAt": "2026-09-08T17:00:00.000Z",
-      "source": {
-        "id": "aranzadi-bsky",
-        "name": "Aranzadi (Bluesky)"
-      },
-      "lang": "eu",
-      "region": "basque",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "berria-bsky:https://bsky.app/profile/berria.eus/post/3muzc5tipgj2o",
-      "title": "",
-      "summary": "Romain Bouvieren nortasuna ikertu dute epaiketaren bigarren egunean. Bere eskuin muturreko militantzia eta egindako indarkeriak bereizten ahalegindu da Bouvier.…",
-      "url": "https://bsky.app/profile/berria.eus/post/3muzc5tipgj2o",
-      "image": null,
-      "publishedAt": "2026-09-08T15:02:00.000Z",
-      "source": {
-        "id": "berria-bsky",
-        "name": "Berria (Bluesky)"
-      },
-      "lang": "eu",
-      "region": "basque",
-      "topics": [
-        "erromatarrak",
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/descubren-mas-de-40-hornos-subterraneos-en-un-castillo-medieval-en-armenia-para-que-servian",
-      "title": "Descubren más de 40 hornos subterráneos en un castillo medieval en Armenia, ¿para qué servían?",
-      "summary": "En la meseta de Aragatsotn, al pie del monte homónimo, se alza el yacimiento de Aruch, un lugar que fue mucho más que una fortaleza. Entre los siglos XII y XIII, sus muros albergaron una residencia de alto rango con pavimentos de losas y cisternas; pero con el tiempo, ese…",
-      "url": "https://www.labrujulaverde.com/2026/09/descubren-mas-de-40-hornos-subterraneos-en-un-castillo-medieval-en-armenia-para-que-servian",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/1-s2.0-S2352409X2600458X-gr5_lrg.webp",
-      "publishedAt": "2026-09-08T14:46:06.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "erdi-aroa",
-        "aurkikuntza"
-      ]
     }
   ]
 }
