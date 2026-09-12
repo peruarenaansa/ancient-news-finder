@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T06:17:27.877Z",
+  "generatedAt": "2026-09-12T06:03:43.031Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5893
+      "elapsedMs": 5283
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 790
+      "elapsedMs": 492
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 4165
+      "elapsedMs": 713
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 950
+      "elapsedMs": 577
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3080
+      "elapsedMs": 2424
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 9,
       "droppedOffTopic": 21,
       "droppedModern": 0,
-      "elapsedMs": 3084
+      "elapsedMs": 2431
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1424
+      "elapsedMs": 981
     },
     {
       "id": "labrujulaverde",
@@ -96,12 +96,9 @@
       "lang": "es",
       "region": "world",
       "kind": "news",
-      "ok": true,
-      "fetched": 20,
-      "kept": 11,
-      "droppedOffTopic": 3,
-      "droppedModern": 6,
-      "elapsedMs": 1938
+      "ok": false,
+      "error": "Status code 415",
+      "elapsedMs": 5436
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +111,7 @@
       "kept": 4,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 1334
+      "elapsedMs": 824
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +124,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 970
+      "elapsedMs": 621
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +137,7 @@
       "kept": 1,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1054
+      "elapsedMs": 673
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +150,7 @@
       "kept": 7,
       "droppedOffTopic": 10,
       "droppedModern": 3,
-      "elapsedMs": 1765
+      "elapsedMs": 754
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +159,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 14,
-      "kept": 4,
+      "fetched": 15,
+      "kept": 5,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1651
+      "elapsedMs": 1248
     },
     {
       "id": "inrap-bsky",
@@ -175,11 +172,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 27,
+      "fetched": 28,
       "kept": 5,
-      "droppedOffTopic": 18,
+      "droppedOffTopic": 19,
       "droppedModern": 4,
-      "elapsedMs": 3092
+      "elapsedMs": 2472
     },
     {
       "id": "sudouest-culture",
@@ -192,7 +189,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1638
+      "elapsedMs": 949
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +202,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2132
+      "elapsedMs": 1463
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +215,7 @@
       "kept": 0,
       "droppedOffTopic": 1,
       "droppedModern": 9,
-      "elapsedMs": 2190
+      "elapsedMs": 1585
     },
     {
       "id": "stilearte",
@@ -228,10 +225,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 9,
+      "kept": 10,
       "droppedOffTopic": 0,
-      "droppedModern": 1,
-      "elapsedMs": 2406
+      "droppedModern": 0,
+      "elapsedMs": 1717
     },
     {
       "id": "live-science-arch",
@@ -244,7 +241,7 @@
       "kept": 3,
       "droppedOffTopic": 27,
       "droppedModern": 0,
-      "elapsedMs": 2964
+      "elapsedMs": 2329
     },
     {
       "id": "bbc-history",
@@ -254,10 +251,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 0,
-      "droppedOffTopic": 10,
+      "kept": 1,
+      "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 2024
+      "elapsedMs": 1279
     },
     {
       "id": "sciencedaily-arch",
@@ -267,10 +264,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 17,
-      "droppedOffTopic": 13,
+      "kept": 18,
+      "droppedOffTopic": 12,
       "droppedModern": 0,
-      "elapsedMs": 1949
+      "elapsedMs": 1569
     },
     {
       "id": "ancient-origins",
@@ -283,7 +280,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 2037
+      "elapsedMs": 1446
     },
     {
       "id": "guardian-arch",
@@ -296,7 +293,7 @@
       "kept": 10,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 2455
+      "elapsedMs": 1711
     },
     {
       "id": "current-archaeology",
@@ -309,7 +306,7 @@
       "kept": 11,
       "droppedOffTopic": 7,
       "droppedModern": 12,
-      "elapsedMs": 2088
+      "elapsedMs": 1505
     },
     {
       "id": "jas-reports",
@@ -319,10 +316,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 6,
+      "kept": 7,
       "droppedOffTopic": 2,
-      "droppedModern": 22,
-      "elapsedMs": 2146
+      "droppedModern": 21,
+      "elapsedMs": 1491
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +332,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2439
+      "elapsedMs": 1679
     },
     {
       "id": "pnas-arch",
@@ -348,7 +345,7 @@
       "kept": 19,
       "droppedOffTopic": 8,
       "droppedModern": 3,
-      "elapsedMs": 3223
+      "elapsedMs": 2143
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +358,7 @@
       "kept": 8,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 2254
+      "elapsedMs": 1609
     },
     {
       "id": "spal-us",
@@ -374,7 +371,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 3109
+      "elapsedMs": 2414
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +384,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 4115
+      "elapsedMs": 3404
     },
     {
       "id": "archeoarte",
@@ -400,7 +397,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2978
+      "elapsedMs": 2518
     },
     {
       "id": "cypsela",
@@ -413,7 +410,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 5045
+      "elapsedMs": 4228
     },
     {
       "id": "cambridge-antiquity",
@@ -426,7 +423,7 @@
       "kept": 19,
       "droppedOffTopic": 4,
       "droppedModern": 7,
-      "elapsedMs": 2754
+      "elapsedMs": 2076
     },
     {
       "id": "cambridge-caj",
@@ -439,7 +436,7 @@
       "kept": 18,
       "droppedOffTopic": 5,
       "droppedModern": 7,
-      "elapsedMs": 2850
+      "elapsedMs": 2233
     },
     {
       "id": "cambridge-ejarc",
@@ -449,10 +446,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 17,
+      "kept": 16,
       "droppedOffTopic": 5,
-      "droppedModern": 8,
-      "elapsedMs": 2769
+      "droppedModern": 9,
+      "elapsedMs": 2094
     },
     {
       "id": "aquitania-persee",
@@ -465,7 +462,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3516
+      "elapsedMs": 3022
     },
     {
       "id": "cuadernos-arq-unav",
@@ -478,7 +475,7 @@
       "kept": 21,
       "droppedOffTopic": 1,
       "droppedModern": 8,
-      "elapsedMs": 4191
+      "elapsedMs": 3695
     },
     {
       "id": "veleia-ehu",
@@ -491,7 +488,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 4043
+      "elapsedMs": 3120
     },
     {
       "id": "flv-navarra",
@@ -504,7 +501,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 3114
+      "elapsedMs": 2317
     },
     {
       "id": "munibe-aa",
@@ -517,7 +514,7 @@
       "kept": 18,
       "droppedOffTopic": 3,
       "droppedModern": 9,
-      "elapsedMs": 2857
+      "elapsedMs": 2328
     },
     {
       "id": "trabajos-prehistoria",
@@ -530,7 +527,7 @@
       "kept": 22,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 2874
+      "elapsedMs": 2358
     },
     {
       "id": "openalex-archaeology",
@@ -543,7 +540,7 @@
       "kept": 15,
       "droppedOffTopic": 8,
       "droppedModern": 7,
-      "elapsedMs": 2887
+      "elapsedMs": 2417
     }
   ],
   "items": [
@@ -8709,109 +8706,63 @@
       "topics": []
     },
     {
-      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326002190?dgcid=rss_sd_all",
-      "title": "Close to the edge: A chronometric approach to Early-Late Iron Age transition (450-350 BCE) in the Iberian Peninsula",
-      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science, Volume 194 Author(s): Samuel Nión-Álvarez",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326002190?dgcid=rss_sd_all",
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26004542?dgcid=rss_sd_all",
+      "title": "The utilisation of Alpine and per-Alpine landscapes in the 5th millennium BC – Neolithic economy and settlement between the Alpine Rhine and Salzach rivers",
+      "summary": "Publication date: November 2026 Source: Journal of Archaeological Science: Reports, Volume 75 Author(s): Joachim Pechtl",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26004542?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-09-10T06:14:04.903Z",
+      "publishedAt": "2026-09-12T06:03:39.089Z",
       "source": {
-        "id": "sciencedirect-jas",
-        "name": "Journal of Archaeological Science (ScienceDirect)"
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
       },
       "lang": "en",
-      "region": "iberia",
-      "topics": [
-        "prehistoria",
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/feature/an-unequal-contest/",
-      "title": "An unequal contest?",
-      "summary": "In the second part of our series, Graham Goodlad reviews the organisation, tactics, and weaponry of the two armies.",
-      "url": "https://the-past.com/feature/an-unequal-contest/",
-      "image": null,
-      "publishedAt": "2026-09-10T05:00:50.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/feature/the-jacobite-wars/",
-      "title": "The Jacobite Wars",
-      "summary": "In the first part of our new series, Graham Goodlad explores the Jacobite movement’s early attempts to overthrow Britain’s ruling Protestant monarchy.",
-      "url": "https://the-past.com/feature/the-jacobite-wars/",
-      "image": null,
-      "publishedAt": "2026-09-10T04:55:08.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/feature/road-to-culloden/",
-      "title": "Road to Culloden",
-      "summary": "Onwards and upwards a timeline tracing the developing fortunes and many incarnations of America's air force in the 2oth century.",
-      "url": "https://the-past.com/feature/road-to-culloden/",
-      "image": null,
-      "publishedAt": "2026-09-10T04:50:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "amerika"
-      ]
-    },
-    {
-      "id": "berria-bsky:https://bsky.app/profile/berria.eus/post/3mv3zkqrt5a24",
-      "title": "",
-      "summary": "🚤🇵🇸 Gazarantz doa berriro Askatasunaren Flotilla. Vigon egingo du hurrengo geldialdia, eta haraino joango da Maddi Iztueta Olano BERRIAko kazetaria. Frank Romano eta Elisabeth Murray Flotillako aktibistak elkarrizketatu ditu.",
-      "url": "https://bsky.app/profile/berria.eus/post/3mv3zkqrt5a24",
-      "image": null,
-      "publishedAt": "2026-09-09T17:07:00.000Z",
-      "source": {
-        "id": "berria-bsky",
-        "name": "Berria (Bluesky)"
-      },
-      "lang": "eu",
-      "region": "basque",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/encuentran-en-dakota-del-norte-el-primer-rastro-de-huellas-fosilizadas-de-un-t-rex-adulto-que-permite-reconstruir-su-paso-hace-665-millones-de-anos",
-      "title": "Encuentran en Dakota del Norte el primer rastro de huellas fosilizadas de un T. rex adulto que permite reconstruir su paso hace 66,5 millones de años",
-      "summary": "Un equipo de paleontólogos ha documentado en el suroeste de Dakota del Norte el primer rastro continuo de huellas atribuido a un ejemplar adulto de Tyrannosaurus rex, un hallazgo que aporta datos inéditos sobre la locomoción y el comportamiento de este depredador emblemático del…",
-      "url": "https://www.labrujulaverde.com/2026/09/encuentran-en-dakota-del-norte-el-primer-rastro-de-huellas-fosilizadas-de-un-t-rex-adulto-que-permite-reconstruir-su-paso-hace-665-millones-de-anos",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/Untitled-design-3.webp",
-      "publishedAt": "2026-09-09T15:25:37.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
       "region": "world",
-      "topics": []
+      "topics": [
+        "prehistoria"
+      ]
     },
     {
-      "id": "live-science-arch:https://www.livescience.com/archaeology/human-evolution/enigmatic-denisovans-lived-by-cave-in-what-is-now-china-for-100-000-years-rare-fossils-and-handcrafted-tools-reveal",
-      "title": "Enigmatic Denisovans lived by cave in what is now China for 100,000 years, rare fossils and handcrafted tools reveal",
-      "summary": "Anthropologists have discovered the first-ever Denisovan arm bone in a cave in southwest China, which also held thousands of prehistoric animal bones and stone tools.",
-      "url": "https://www.livescience.com/archaeology/human-evolution/enigmatic-denisovans-lived-by-cave-in-what-is-now-china-for-100-000-years-rare-fossils-and-handcrafted-tools-reveal",
-      "image": "https://cdn.mos.cms.futurecdn.net/F7KyUPduoN8bKvB2b8W3yV-1280-80.png",
-      "publishedAt": "2026-09-09T15:00:00.000Z",
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26004980?dgcid=rss_sd_all",
+      "title": "The start of the Neolithic in the Lower Rhine Basin (Northwestern Europe): Timing, character and impact",
+      "summary": "Publication date: November 2026 Source: Journal of Archaeological Science: Reports, Volume 75 Author(s): D.C.M. Raemaekers, N.Ø. Brusgaard, M. Dreshaj, J.A.M. Erven, M.W. Dee, J.H.M. Peeters, C. Çakirlar",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26004980?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-09-12T06:03:39.088Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/09/260911003849.htm",
+      "title": "66-million-year-old feather in dinosaur poop may reveal why birds survived the asteroid",
+      "summary": "A feather discovered inside 66-million-year-old fossilized dinosaur poop may help explain why modern birds survived the asteroid catastrophe. The extinct bird it came from had more primitive insulating feathers, suggesting superior plumage may have helped the ancestors of living…",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260911003849.htm",
+      "image": null,
+      "publishedAt": "2026-09-11T23:47:16.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/animals/extinct-species/oddly-shaped-rock-unearthed-in-california-turns-out-to-be-immaculate-mastodon-molar",
+      "title": "'Oddly shaped rock' unearthed in California turns out to be 'immaculate' mastodon molar",
+      "summary": "A field survey in San Mateo County, California, has revealed the fossilized tooth of an adult Pacific mastodon, an ice-age giant that was probably native to the West Coast.",
+      "url": "https://www.livescience.com/animals/extinct-species/oddly-shaped-rock-unearthed-in-california-turns-out-to-be-immaculate-mastodon-molar",
+      "image": "https://cdn.mos.cms.futurecdn.net/GxXFA9oDzdEPyFo2fcqHkV-1280-80.jpg",
+      "publishedAt": "2026-09-11T18:11:48.000Z",
       "source": {
         "id": "live-science-arch",
         "name": "Live Science"
@@ -8819,61 +8770,110 @@
       "lang": "en",
       "region": "world",
       "topics": [
-        "prehistoria",
-        "asia",
         "aurkikuntza"
       ]
     },
     {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/en-los-confines-del-sistema-solar-los-telescopios-hubble-y-webb-descubrieron-27-objetos-transneptunianos-que-desafian-los-modelos-de-formacion-planetaria",
-      "title": "En los confines del sistema solar los telescopios Hubble y Webb descubrieron 27 objetos transneptunianos que desafían los modelos de formación planetaria",
-      "summary": "Por primera vez en la historia de la astronomía, los dos grandes observatorios espaciales de la NASA, el Hubble y el James Webb, han trabajado de forma coordinada para desentrañar los secretos de los objetos transneptunianos (TNO, por sus siglas en inglés), esos cuerpos helados…",
-      "url": "https://www.labrujulaverde.com/2026/09/en-los-confines-del-sistema-solar-los-telescopios-hubble-y-webb-descubrieron-27-objetos-transneptunianos-que-desafian-los-modelos-de-formacion-planetaria",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/STScI-01KZC81GGE6DAJKS1C8KAXHZ2M.webp",
-      "publishedAt": "2026-09-09T14:15:22.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "amerika",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "elpais-cultura:https://elpais.com/cultura/2026-09-09/conclave-de-egiptologos-en-barcelona-un-apasionante-bano-de-tumbas-templos-momias-y-cocodrilos.html",
-      "title": "Cónclave de egiptólogos en Barcelona: un apasionante baño de tumbas, templos, momias y cocodrilos",
-      "summary": "El VIII Congreso Iberoamericano de Egiptología en la UAB, en el que se ha anunciado el hallazgo de una tumba inédita en Saqqara, reúne a directores de misiones arqueológicas españolas en el país del Nilo",
-      "url": "https://elpais.com/cultura/2026-09-09/conclave-de-egiptologos-en-barcelona-un-apasionante-bano-de-tumbas-templos-momias-y-cocodrilos.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/GDJ4VNQ22RFHBAHJ6UFJ76EQVA.jpg?auth=129468da1594033ba9c60c482aaf31967c51261906dcb01212eb5b1b1d04870a",
-      "publishedAt": "2026-09-09T13:43:06.000Z",
-      "source": {
-        "id": "elpais-cultura",
-        "name": "El País — Cultura"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "egiptoarrak",
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/books/in-brief-12/",
-      "title": "In Brief",
-      "summary": "MHM’s round-up of the latest military history releases.",
-      "url": "https://the-past.com/review/books/in-brief-12/",
+      "id": "stilearte:https://www.stilearte.it/catacombe-lamapopoli-canosa-scavi-archeologi-santa-sofia/",
+      "title": "Archeologi tra i misteri delle catacombe di Lamapopoli: a Canosa si torna a scavare nella città sotterranea. Perché tante gallerie? Cosa c’era in questo punto?",
+      "summary": "A Canosa di Puglia gli archeologi sono tornati a scavare nella terra che nasconde uno dei più articolati complessi funerari dell’Italia meridionale. È iniziata la 14ª campagna di ricerca nel complesso catacombale di Lamapopoli, lungo l’antico sistema viario che conduceva alla…",
+      "url": "https://www.stilearte.it/catacombe-lamapopoli-canosa-scavi-archeologi-santa-sofia/",
       "image": null,
-      "publishedAt": "2026-09-09T11:00:48.000Z",
+      "publishedAt": "2026-09-11T15:01:21.000Z",
       "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/gravisca-tarquinia-blocchi-macco-edificio-etrusco/",
+      "title": "Emozione. A Gravisca, sotto la città romana, scoperti ora grandi blocchi di macco appartenenti un edificio etrusco. Cosa sono?",
+      "summary": "A Gravisca, l’antico porto di Tarquinia, gli archeologi sono scesi sotto i livelli della colonia romana e hanno raggiunto le fasi etrusche dell’abitato. Qui sono emersi grandi blocchi di macco, alcuni di notevoli dimensioni, che potrebbero appartenere alle fondazioni o al…",
+      "url": "https://www.stilearte.it/gravisca-tarquinia-blocchi-macco-edificio-etrusco/",
+      "image": null,
+      "publishedAt": "2026-09-11T14:12:03.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/decouverte-au-fond-d-un-jardin-du-plus-grand-tresor-viking-en-argent-du-danemark_194795?xtor=RSS-4",
+      "title": "Découverte au fond d’un jardin du plus grand trésor viking en argent du Danemark",
+      "summary": "La découverte d’un important dépôt d‘argent dans le nord du Jutland, au Danemark, place la commune de Rebild au cœur de l’économie de l‘ère viking.",
+      "url": "https://www.sciencesetavenir.fr/archeo-paleo/decouverte-au-fond-d-un-jardin-du-plus-grand-tresor-viking-en-argent-du-danemark_194795?xtor=RSS-4",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/11/cover-r4x3w1200-6aa3df343139a-tresor-argent-viking-rebild-202.jpg",
+      "publishedAt": "2026-09-11T13:25:19.000Z",
+      "source": {
+        "id": "sciencesetavenir-archeo",
+        "name": "Sciences et Avenir — Archéo & Paléo"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/incendio-herdonia-ordona-storia-area-archeologica/",
+      "title": "Foggia, fiamme attorno a Herdonia, una delle più importanti città antiche della Daunia. Storia e tesori del luogo",
+      "summary": "Le fiamme hanno percorso la collina di Herdonia, nel territorio di Ordona, in provincia di Foggia, interessando anche le zone nelle quali sono ancora visibili le strutture dell’antica città. Il sopralluogo della Soprintendenza ha però escluso, nelle prime verifiche, danni alle…",
+      "url": "https://www.stilearte.it/incendio-herdonia-ordona-storia-area-archeologica/",
+      "image": null,
+      "publishedAt": "2026-09-11T13:03:57.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "bbc-history:https://www.historyextra.com/period/medieval/alfred-the-great-versus-guthrum-viking-leader/",
+      "title": "The Vikings mutilated and maimed their defeated enemies. So why did Alfred the Great spare their leader?",
+      "summary": "When confronted with the Viking foe who had threatened to take his land – and his life – King Alfred of Wessex chose to forgive his defeated Norse opponent",
+      "url": "https://www.historyextra.com/period/medieval/alfred-the-great-versus-guthrum-viking-leader/",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/09/GettyImages-624465438-e861f8f-e1789055109335.jpg",
+      "publishedAt": "2026-09-11T10:20:54.000Z",
+      "source": {
+        "id": "bbc-history",
+        "name": "BBC History Extra"
       },
       "lang": "en",
       "region": "europe",
-      "topics": []
+      "topics": [
+        "erdi-aroa"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/vikings/finlands-largest-viking-age-silver-hoard-discovered-by-metal-detectorist-and-it-has-thousands-of-coins-and-pieces-of-jewelry",
+      "title": "Finland's largest Viking Age silver hoard discovered by metal detectorist — and it has thousands of coins and pieces of jewelry",
+      "summary": "The largest Viking Age silver hoard ever found in Finland was unearthed by a metal detectorist north of Helsinki.",
+      "url": "https://www.livescience.com/archaeology/vikings/finlands-largest-viking-age-silver-hoard-discovered-by-metal-detectorist-and-it-has-thousands-of-coins-and-pieces-of-jewelry",
+      "image": "https://cdn.mos.cms.futurecdn.net/vQ7BCE9NQt4c663zxP6367-1280-80.jpg",
+      "publishedAt": "2026-09-11T10:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "erdi-aroa",
+        "aurkikuntza"
+      ]
     }
   ]
 }
