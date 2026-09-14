@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T06:27:07.321Z",
+  "generatedAt": "2026-09-14T06:37:36.345Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5226
+      "elapsedMs": 5231
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 538
+      "elapsedMs": 691
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1021
+      "elapsedMs": 919
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 686
+      "elapsedMs": 681
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2430
+      "elapsedMs": 2404
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 9,
       "droppedOffTopic": 21,
       "droppedModern": 0,
-      "elapsedMs": 2449
+      "elapsedMs": 2421
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1147
+      "elapsedMs": 1248
     },
     {
       "id": "labrujulaverde",
@@ -98,10 +98,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 12,
+      "kept": 14,
       "droppedOffTopic": 2,
-      "droppedModern": 6,
-      "elapsedMs": 1658
+      "droppedModern": 4,
+      "elapsedMs": 1524
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 4,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 1448
+      "elapsedMs": 1583
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1314
+      "elapsedMs": 1266
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 1,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 667
+      "elapsedMs": 809
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 7,
       "droppedOffTopic": 10,
       "droppedModern": 3,
-      "elapsedMs": 735
+      "elapsedMs": 1171
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +162,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 14,
+      "fetched": 13,
       "kept": 4,
-      "droppedOffTopic": 10,
+      "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1144
+      "elapsedMs": 1340
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +179,7 @@
       "kept": 5,
       "droppedOffTopic": 19,
       "droppedModern": 4,
-      "elapsedMs": 2441
+      "elapsedMs": 2445
     },
     {
       "id": "sudouest-culture",
@@ -192,7 +192,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1060
+      "elapsedMs": 1178
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1528
+      "elapsedMs": 1455
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 0,
       "droppedOffTopic": 1,
       "droppedModern": 9,
-      "elapsedMs": 1706
+      "elapsedMs": 1846
     },
     {
       "id": "stilearte",
@@ -231,7 +231,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 1913
+      "elapsedMs": 1886
     },
     {
       "id": "live-science-arch",
@@ -244,7 +244,7 @@
       "kept": 3,
       "droppedOffTopic": 27,
       "droppedModern": 0,
-      "elapsedMs": 2285
+      "elapsedMs": 2307
     },
     {
       "id": "bbc-history",
@@ -257,7 +257,7 @@
       "kept": 1,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1657
+      "elapsedMs": 1573
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +270,7 @@
       "kept": 18,
       "droppedOffTopic": 12,
       "droppedModern": 0,
-      "elapsedMs": 1718
+      "elapsedMs": 1547
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1664
+      "elapsedMs": 1648
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 10,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 1933
+      "elapsedMs": 1774
     },
     {
       "id": "current-archaeology",
@@ -309,7 +309,7 @@
       "kept": 11,
       "droppedOffTopic": 7,
       "droppedModern": 12,
-      "elapsedMs": 1766
+      "elapsedMs": 1478
     },
     {
       "id": "jas-reports",
@@ -322,7 +322,7 @@
       "kept": 6,
       "droppedOffTopic": 3,
       "droppedModern": 21,
-      "elapsedMs": 1697
+      "elapsedMs": 1533
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +335,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1736
+      "elapsedMs": 1707
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 19,
       "droppedOffTopic": 8,
       "droppedModern": 3,
-      "elapsedMs": 2237
+      "elapsedMs": 2346
     },
     {
       "id": "sciencedirect-jas",
@@ -357,11 +357,11 @@
       "region": "world",
       "kind": "research",
       "ok": true,
-      "fetched": 25,
+      "fetched": 27,
       "kept": 8,
       "droppedOffTopic": 4,
-      "droppedModern": 13,
-      "elapsedMs": 1708
+      "droppedModern": 15,
+      "elapsedMs": 1529
     },
     {
       "id": "spal-us",
@@ -374,7 +374,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2576
+      "elapsedMs": 2518
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +387,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 3351
+      "elapsedMs": 3485
     },
     {
       "id": "archeoarte",
@@ -400,7 +400,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2362
+      "elapsedMs": 2448
     },
     {
       "id": "cypsela",
@@ -413,7 +413,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 4485
+      "elapsedMs": 4422
     },
     {
       "id": "cambridge-antiquity",
@@ -423,10 +423,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 19,
-      "droppedOffTopic": 4,
+      "kept": 18,
+      "droppedOffTopic": 5,
       "droppedModern": 7,
-      "elapsedMs": 2093
+      "elapsedMs": 2295
     },
     {
       "id": "cambridge-caj",
@@ -439,7 +439,7 @@
       "kept": 18,
       "droppedOffTopic": 5,
       "droppedModern": 7,
-      "elapsedMs": 2129
+      "elapsedMs": 2229
     },
     {
       "id": "cambridge-ejarc",
@@ -452,7 +452,7 @@
       "kept": 16,
       "droppedOffTopic": 5,
       "droppedModern": 9,
-      "elapsedMs": 2165
+      "elapsedMs": 2246
     },
     {
       "id": "aquitania-persee",
@@ -465,7 +465,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2977
+      "elapsedMs": 2950
     },
     {
       "id": "cuadernos-arq-unav",
@@ -478,7 +478,7 @@
       "kept": 21,
       "droppedOffTopic": 1,
       "droppedModern": 8,
-      "elapsedMs": 3669
+      "elapsedMs": 3745
     },
     {
       "id": "veleia-ehu",
@@ -491,7 +491,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3215
+      "elapsedMs": 3298
     },
     {
       "id": "flv-navarra",
@@ -504,7 +504,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2285
+      "elapsedMs": 2401
     },
     {
       "id": "munibe-aa",
@@ -517,7 +517,7 @@
       "kept": 18,
       "droppedOffTopic": 3,
       "droppedModern": 9,
-      "elapsedMs": 2251
+      "elapsedMs": 2332
     },
     {
       "id": "trabajos-prehistoria",
@@ -530,7 +530,7 @@
       "kept": 22,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 2266
+      "elapsedMs": 2348
     },
     {
       "id": "openalex-archaeology",
@@ -543,7 +543,7 @@
       "kept": 15,
       "droppedOffTopic": 8,
       "droppedModern": 7,
-      "elapsedMs": 2295
+      "elapsedMs": 3006
     }
   ],
   "items": [
@@ -4146,21 +4146,6 @@
       ]
     },
     {
-      "id": "lemonde-archeo:https://www.lemonde.fr/sciences/article/2026/06/15/en-inde-le-patrimoine-culturel-naturel-et-archeologique-neglige-par-les-autorites_6703228_1650684.html",
-      "title": "En Inde, le patrimoine culturel, naturel et archéologique négligé par les autorités",
-      "summary": "Alors qu’une cinquantaine de monuments officiellement protégés ont disparu, le gouvernement de Narendra Modi est plus enclin à promouvoir le patrimoine hindou et la création de nouveaux temples qu’à protéger l’héritage musulman.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/06/15/en-inde-le-patrimoine-culturel-naturel-et-archeologique-neglige-par-les-autorites_6703228_1650684.html",
-      "image": "https://img.lemde.fr/2026/06/10/250/0/3000/1500/644/322/60/0/e8c592d_upload-1-knekklff9dmv-bhimbetka-31.jpg",
-      "publishedAt": "2026-06-15T15:30:01.000Z",
-      "source": {
-        "id": "lemonde-archeo",
-        "name": "Le Monde — Archéologie"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": []
-    },
-    {
       "id": "vianako-printzea:https://revistas.navarra.es/index.php/PV/article/view/4317",
       "title": "Presentación",
       "summary": "",
@@ -4713,6 +4698,93 @@
       "lang": "en",
       "region": "world",
       "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/shipden-citta-medievale-sommersa-cromer/",
+      "title": "Una storia tenebrosa, i subacquei mappano le rovine della città medievale scomparsa nel mare. Per chi suona la campana. Cosa accadde?",
+      "summary": "Un eccessivo accumulo di ricchezza. Il mancato rispetto della Carità. Una campana che suona nelle notti di tempesta o quando il mare assume, inspiegabilmente, una calma imperturbabile. Al largo di Cromer, nel Norfolk settentrionale, in Inghilterra una nuova campagna di…",
+      "url": "https://www.stilearte.it/shipden-citta-medievale-sommersa-cromer/",
+      "image": null,
+      "publishedAt": "2026-09-14T05:35:28.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/descubren-dentro-de-una-vasija-hitita-de-4000-anos-de-antiguedad-restos-de-semillas-de-la-flor-del-amor-que-hoy-solo-sobrevive-en-un-rincon-de-ankara",
+      "title": "Descubren dentro de una vasija hitita de 4.000 años de antigüedad restos de semillas de la flor del amor, que hoy solo sobrevive en un rincón de Ankara",
+      "summary": "El yacimiento se llama Külhöyük y está en el barrio de Oyaca, dentro del distrito de Gölbaşı, a poco más de 20 kilómetros al sur del centro de Ankara. Es un montículo artificial —lo que en arqueología de Oriente Próximo se conoce como tell o, en turco, höyük— de unos 250 metros…",
+      "url": "https://www.labrujulaverde.com/2026/09/descubren-dentro-de-una-vasija-hitita-de-4000-anos-de-antiguedad-restos-de-semillas-de-la-flor-del-amor-que-hoy-solo-sobrevive-en-un-rincon-de-ankara",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/HR1kQUIWkAA8lMN.webp",
+      "publishedAt": "2026-09-13T16:41:29.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "ekialde-hurbila",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/aparece-un-cadaver-romano-enterrado-boca-abajo-con-frascos-de-perfume-lugar-nacimiento-diocleciano-croacia",
+      "title": "Aparece un cadáver romano enterrado boca abajo con frascos de perfume cerca del lugar donde se cree que nació el emperador Diocleciano en Croacia",
+      "summary": "El cuerpo lleva casi dos mil años bocabajo. Cuando los arqueólogos llegaron a la tumba 162, en las afueras de la actual Solin, en Croacia, no tardaron en darse cuenta de que algo no encajaba con el resto del cementerio: el difunto no había sido colocado boca arriba, como marcaba…",
+      "url": "https://www.labrujulaverde.com/2026/09/aparece-un-cadaver-romano-enterrado-boca-abajo-con-frascos-de-perfume-lugar-nacimiento-diocleciano-croacia",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/20260421_105920.webp",
+      "publishedAt": "2026-09-13T15:48:13.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/el-pigmento-de-los-faraones-que-un-romano-escondio-dentro-del-yeso-de-su-villa-un-hallazgo-cambia-lo-que-sabiamos-del-comercio-del-azul-en-la-antiguedad",
+      "title": "El pigmento de los faraones que un romano escondió dentro del yeso de su villa: un hallazgo cambia lo que sabíamos del comercio del azul en la Antigüedad",
+      "summary": "El azul egipcio nació en Egipto antes del año 3100 a.C. y se considera el primer pigmento fabricado por el ser humano. Para obtenerlo, los artesanos calentaban a altas temperaturas una mezcla de sílice, cal, compuestos de cobre y sales alcalinas hasta lograr que cristalizara un…",
+      "url": "https://www.labrujulaverde.com/2026/09/el-pigmento-de-los-faraones-que-un-romano-escondio-dentro-del-yeso-de-su-villa-un-hallazgo-cambia-lo-que-sabiamos-del-comercio-del-azul-en-la-antiguedad",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/arcm70215-fig-0001-m-copia.webp",
+      "publishedAt": "2026-09-13T09:21:59.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak",
+        "egiptoarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/salona-tomba-162-giovane-sepolto-prono-balsamario-dattero/",
+      "title": "Scoperto un giovane romano sepolto prono con un balsamario a forma di dattero. Le anomalie della postura. Chi era.",
+      "summary": "Nella necropoli romana dell’Hortus Metrodori gli archeologi hanno scoperto la Tomba 162, con il corpo di un probabile giovane adulto deposto con il ventre contro il terreno e un corredo composto da vetro, ceramica, gemme e bronzo. Fra i reperti, tre balsamari e un raro…",
+      "url": "https://www.stilearte.it/salona-tomba-162-giovane-sepolto-prono-balsamario-dattero/",
+      "image": null,
+      "publishedAt": "2026-09-13T07:34:14.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
     },
     {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26004773?dgcid=rss_sd_all",
@@ -8805,76 +8877,6 @@
       "region": "world",
       "topics": [
         "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26004980?dgcid=rss_sd_all",
-      "title": "The start of the Neolithic in the Lower Rhine Basin (Northwestern Europe): Timing, character and impact",
-      "summary": "Publication date: November 2026 Source: Journal of Archaeological Science: Reports, Volume 75 Author(s): D.C.M. Raemaekers, N.Ø. Brusgaard, M. Dreshaj, J.A.M. Erven, M.W. Dee, J.H.M. Peeters, C. Çakirlar",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26004980?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-09-12T06:03:39.088Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/09/260911003849.htm",
-      "title": "66-million-year-old feather in dinosaur poop may reveal why birds survived the asteroid",
-      "summary": "A feather discovered inside 66-million-year-old fossilized dinosaur poop may help explain why modern birds survived the asteroid catastrophe. The extinct bird it came from had more primitive insulating feathers, suggesting superior plumage may have helped the ancestors of living…",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260911003849.htm",
-      "image": null,
-      "publishedAt": "2026-09-11T23:47:16.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/animals/extinct-species/oddly-shaped-rock-unearthed-in-california-turns-out-to-be-immaculate-mastodon-molar",
-      "title": "'Oddly shaped rock' unearthed in California turns out to be 'immaculate' mastodon molar",
-      "summary": "A field survey in San Mateo County, California, has revealed the fossilized tooth of an adult Pacific mastodon, an ice-age giant that was probably native to the West Coast.",
-      "url": "https://www.livescience.com/animals/extinct-species/oddly-shaped-rock-unearthed-in-california-turns-out-to-be-immaculate-mastodon-molar",
-      "image": "https://cdn.mos.cms.futurecdn.net/GxXFA9oDzdEPyFo2fcqHkV-1280-80.jpg",
-      "publishedAt": "2026-09-11T18:11:48.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/descubren-en-el-puerto-de-tarquinia-un-edificio-monumental-en-una-capa-aun-mas-antigua-bajo-sus-propias-ruinas-romanas",
-      "title": "Descubren en el puerto de Tarquinia un edificio monumental en una capa aún más antigua bajo sus propias ruinas romanas",
-      "summary": "El yacimiento de Gravisca, en la costa del Lacio, no es precisamente un desconocido para la arqueología mediterránea. Antes de convertirse en colonia romana, fue un emporio frecuentado por mercaderes griegos —sobre todo focenses— que llegaban a comerciar bajo la protección de…",
-      "url": "https://www.labrujulaverde.com/2026/09/descubren-en-el-puerto-de-tarquinia-un-edificio-monumental-en-una-capa-aun-mas-antigua-bajo-sus-propias-ruinas-romanas",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/805121455_1799135997893833_7536979617888644585_n.png.webp",
-      "publishedAt": "2026-09-11T16:52:10.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "erromatarrak",
-        "greziarrak",
-        "aurkikuntza"
       ]
     }
   ]
