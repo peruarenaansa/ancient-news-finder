@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T06:37:36.345Z",
+  "generatedAt": "2026-09-15T06:21:14.561Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5231
+      "elapsedMs": 5534
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 691
+      "elapsedMs": 697
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 919
+      "elapsedMs": 811
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 681
+      "elapsedMs": 652
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2404
+      "elapsedMs": 2645
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 9,
       "droppedOffTopic": 21,
       "droppedModern": 0,
-      "elapsedMs": 2421
+      "elapsedMs": 2659
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1248
+      "elapsedMs": 1196
     },
     {
       "id": "labrujulaverde",
@@ -99,9 +99,9 @@
       "ok": true,
       "fetched": 20,
       "kept": 14,
-      "droppedOffTopic": 2,
-      "droppedModern": 4,
-      "elapsedMs": 1524
+      "droppedOffTopic": 1,
+      "droppedModern": 5,
+      "elapsedMs": 1776
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 4,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 1583
+      "elapsedMs": 1650
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1266
+      "elapsedMs": 954
     },
     {
       "id": "lemonde-sciences",
@@ -137,10 +137,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 1,
-      "droppedOffTopic": 19,
+      "kept": 0,
+      "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 809
+      "elapsedMs": 820
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 7,
       "droppedOffTopic": 10,
       "droppedModern": 3,
-      "elapsedMs": 1171
+      "elapsedMs": 1291
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +162,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 13,
-      "kept": 4,
+      "fetched": 14,
+      "kept": 5,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1340
+      "elapsedMs": 2750
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +179,7 @@
       "kept": 5,
       "droppedOffTopic": 19,
       "droppedModern": 4,
-      "elapsedMs": 2445
+      "elapsedMs": 2670
     },
     {
       "id": "sudouest-culture",
@@ -192,7 +192,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1178
+      "elapsedMs": 1253
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1455
+      "elapsedMs": 1753
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 0,
       "droppedOffTopic": 1,
       "droppedModern": 9,
-      "elapsedMs": 1846
+      "elapsedMs": 1989
     },
     {
       "id": "stilearte",
@@ -231,7 +231,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 1886
+      "elapsedMs": 2111
     },
     {
       "id": "live-science-arch",
@@ -244,7 +244,7 @@
       "kept": 3,
       "droppedOffTopic": 27,
       "droppedModern": 0,
-      "elapsedMs": 2307
+      "elapsedMs": 2496
     },
     {
       "id": "bbc-history",
@@ -257,7 +257,7 @@
       "kept": 1,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1573
+      "elapsedMs": 1862
     },
     {
       "id": "sciencedaily-arch",
@@ -267,10 +267,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 18,
-      "droppedOffTopic": 12,
+      "kept": 17,
+      "droppedOffTopic": 13,
       "droppedModern": 0,
-      "elapsedMs": 1547
+      "elapsedMs": 1738
     },
     {
       "id": "ancient-origins",
@@ -278,12 +278,9 @@
       "lang": "en",
       "region": "world",
       "kind": "news",
-      "ok": true,
-      "fetched": 10,
-      "kept": 3,
-      "droppedOffTopic": 5,
-      "droppedModern": 2,
-      "elapsedMs": 1648
+      "ok": false,
+      "error": "Request timed out after 15000ms",
+      "elapsedMs": 49508
     },
     {
       "id": "guardian-arch",
@@ -296,7 +293,7 @@
       "kept": 10,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 1774
+      "elapsedMs": 2317
     },
     {
       "id": "current-archaeology",
@@ -309,7 +306,7 @@
       "kept": 11,
       "droppedOffTopic": 7,
       "droppedModern": 12,
-      "elapsedMs": 1478
+      "elapsedMs": 1809
     },
     {
       "id": "jas-reports",
@@ -322,7 +319,7 @@
       "kept": 6,
       "droppedOffTopic": 3,
       "droppedModern": 21,
-      "elapsedMs": 1533
+      "elapsedMs": 1840
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +332,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1707
+      "elapsedMs": 2013
     },
     {
       "id": "pnas-arch",
@@ -348,7 +345,7 @@
       "kept": 19,
       "droppedOffTopic": 8,
       "droppedModern": 3,
-      "elapsedMs": 2346
+      "elapsedMs": 2783
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +358,7 @@
       "kept": 8,
       "droppedOffTopic": 4,
       "droppedModern": 15,
-      "elapsedMs": 1529
+      "elapsedMs": 1895
     },
     {
       "id": "spal-us",
@@ -374,7 +371,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2518
+      "elapsedMs": 2706
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +384,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 3485
+      "elapsedMs": 3728
     },
     {
       "id": "archeoarte",
@@ -400,7 +397,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2448
+      "elapsedMs": 2657
     },
     {
       "id": "cypsela",
@@ -413,7 +410,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 4422
+      "elapsedMs": 4778
     },
     {
       "id": "cambridge-antiquity",
@@ -426,7 +423,7 @@
       "kept": 18,
       "droppedOffTopic": 5,
       "droppedModern": 7,
-      "elapsedMs": 2295
+      "elapsedMs": 2532
     },
     {
       "id": "cambridge-caj",
@@ -439,7 +436,7 @@
       "kept": 18,
       "droppedOffTopic": 5,
       "droppedModern": 7,
-      "elapsedMs": 2229
+      "elapsedMs": 2602
     },
     {
       "id": "cambridge-ejarc",
@@ -452,7 +449,7 @@
       "kept": 16,
       "droppedOffTopic": 5,
       "droppedModern": 9,
-      "elapsedMs": 2246
+      "elapsedMs": 2487
     },
     {
       "id": "aquitania-persee",
@@ -465,7 +462,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2950
+      "elapsedMs": 3572
     },
     {
       "id": "cuadernos-arq-unav",
@@ -478,7 +475,7 @@
       "kept": 21,
       "droppedOffTopic": 1,
       "droppedModern": 8,
-      "elapsedMs": 3745
+      "elapsedMs": 4028
     },
     {
       "id": "veleia-ehu",
@@ -491,7 +488,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3298
+      "elapsedMs": 3364
     },
     {
       "id": "flv-navarra",
@@ -504,7 +501,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2401
+      "elapsedMs": 2572
     },
     {
       "id": "munibe-aa",
@@ -517,7 +514,7 @@
       "kept": 18,
       "droppedOffTopic": 3,
       "droppedModern": 9,
-      "elapsedMs": 2332
+      "elapsedMs": 2647
     },
     {
       "id": "trabajos-prehistoria",
@@ -530,7 +527,7 @@
       "kept": 22,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 2348
+      "elapsedMs": 2770
     },
     {
       "id": "openalex-archaeology",
@@ -543,7 +540,7 @@
       "kept": 15,
       "droppedOffTopic": 8,
       "droppedModern": 7,
-      "elapsedMs": 3006
+      "elapsedMs": 2673
     }
   ],
   "items": [
@@ -8799,82 +8796,85 @@
       "topics": []
     },
     {
-      "id": "stilearte:https://www.stilearte.it/tesoro-lussemburgo-monete-eugenio/",
-      "title": "Scoperta. Accanto alla torre romana tracce del professor Eugenio, che fece il golpe a Roma, divenendo imperatore. La sua storia",
-      "summary": "Centotrentuno? No: 141 solidi d’oro, accumulati nell’ultima parte del IV secolo e nascosti nei pressi di una fortificazione dell’Impero Romano. Tra quelle monete ce ne sono tre particolarmente rare, coniate per un imperatore, nostro connazionale, dalla storia singolare: Eugenio,…",
-      "url": "https://www.stilearte.it/tesoro-lussemburgo-monete-eugenio/",
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26004980?dgcid=rss_sd_all",
+      "title": "The start of the Neolithic in the Lower Rhine Basin (Northwestern Europe): Timing, character and impact",
+      "summary": "Publication date: November 2026 Source: Journal of Archaeological Science: Reports, Volume 75 Author(s): D.C.M. Raemaekers, N.Ø. Brusgaard, M. Dreshaj, J.A.M. Erven, M.W. Dee, J.H.M. Peeters, C. Çakirlar",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26004980?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-09-13T05:50:28.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/torres-ancladas-a-la-roca-desnuda-descubren-el-truco-de-ingenieria-que-los-almoravides-usaron-hace-900-anos-en-cuenca",
-      "title": "Torres ancladas a la roca desnuda: descubren el truco de ingeniería que los almorávides usaron hace 900 años en Cuenca",
-      "summary": "El 29 de mayo de 1108, un ejército almorávide derrotó a las tropas de Alfonso VI a las afueras de Uclés. En la batalla murió Sancho Alfónsez, el único hijo varón del rey y su heredero, un golpe que dejó a Castilla sin sucesor directo y que los cronistas de la época consideraron…",
-      "url": "https://www.labrujulaverde.com/2026/09/torres-ancladas-a-la-roca-desnuda-descubren-el-truco-de-ingenieria-que-los-almoravides-usaron-hace-900-anos-en-cuenca",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/DJI_20260826080330_0395_D.webp",
-      "publishedAt": "2026-09-12T11:39:01.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/oltre-600-monete-buca-austria-mistero-deposito/",
-      "title": "Cerca nel giardino di casa. Oltre 600 monete nella stessa buca: il ritrovamento fortuito di un detectorista in Austria. Distintivi tedeschi del periodo del Terzo Reich, sigilli in piombo. Cosa ci facevano li",
-      "summary": "Oltre 600 monete, insieme a distintivi tedeschi del periodo del Terzo Reich, sigilli in piombo, gettoni e altri piccoli oggetti, nascosti nello stesso punto. È il sorprendente ritrovamento raccontato nelle scorse ore da un detectorista austriaco, che ha scoperto il deposito nel…",
-      "url": "https://www.stilearte.it/oltre-600-monete-buca-austria-mistero-deposito/",
-      "image": null,
-      "publishedAt": "2026-09-12T09:13:23.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/bambino-otto-anni-punta-lancia-eta-bronzo-windermere/",
-      "title": "Bambino di 8 anni gioca sulla riva del lago con la mamma e trova un oggetto antichissimo. Gli archeologi: è dell’Età del Bronzo. Cosa c’era in quel punto?",
-      "summary": "Era in gita con la mamma, giocava scavando sulla riva del lago e pensava di aver trovato qualcosa di curioso, forse un anello. Ha tirato fuori l’oggetto dal terreno e quello ha continuato a emergere. Solo dopo gli esperti hanno capito che quel piccolo pezzo di metallo aveva una…",
-      "url": "https://www.stilearte.it/bambino-otto-anni-punta-lancia-eta-bronzo-windermere/",
-      "image": null,
-      "publishedAt": "2026-09-12T08:01:51.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26004542?dgcid=rss_sd_all",
-      "title": "The utilisation of Alpine and per-Alpine landscapes in the 5th millennium BC – Neolithic economy and settlement between the Alpine Rhine and Salzach rivers",
-      "summary": "Publication date: November 2026 Source: Journal of Archaeological Science: Reports, Volume 75 Author(s): Joachim Pechtl",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26004542?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-09-12T06:03:39.089Z",
+      "publishedAt": "2026-09-15T06:20:26.888Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
       },
       "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/pontecagnano-scoperti-tomba-cubo-cratere-corinzio-vi-secolo-ac/",
+      "title": "Pontecagnano, sotto una lastra scoprono un sepolcro del VI secolo a.C. Tra gli Etruschi di confine. Chi erano. Il cratere proveniente da Corinto",
+      "summary": "Un cantiere per una nuova abitazione e un controllo preventivo svolto dalla Soprintendenza. Nel paese è così venuta alla luce una tomba a cubo di 2500 anni fa. Ne ha dato notizia, nelle ore scorse, la Soprintendenza Archeologia Belle Arti e Paesaggio di Salerno e Avellino. Sotto…",
+      "url": "https://www.stilearte.it/pontecagnano-scoperti-tomba-cubo-cratere-corinzio-vi-secolo-ac/",
+      "image": null,
+      "publishedAt": "2026-09-15T05:53:09.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/planet-earth/volcanoes/south-american-pompeii-volcanic-eruption-22-million-years-ago-preserved-a-snapshot-of-the-andes-forming",
+      "title": "South American 'Pompeii': Volcanic eruption 22 million years ago preserved a snapshot of the Andes forming",
+      "summary": "An enormous volcanic eruption buried a snapshot of the baby Andes mountains, revealing a slow-and-steady growth rate.",
+      "url": "https://www.livescience.com/planet-earth/volcanoes/south-american-pompeii-volcanic-eruption-22-million-years-ago-preserved-a-snapshot-of-the-andes-forming",
+      "image": "https://cdn.mos.cms.futurecdn.net/deH5qNERJ5wdNQesMqnbJd-1280-80.jpg",
+      "publishedAt": "2026-09-14T20:51:07.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
       "region": "world",
+      "topics": [
+        "erromatarrak",
+        "amerika"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/descubren-construcciones-neoliticas-y-de-la-edad-del-hierro-bajo-una-fortaleza-eslava-del-siglo-vii-en-alemania",
+      "title": "Descubren construcciones neolíticas y de la Edad del Hierro bajo una legendaria fortaleza eslava del siglo VII en Alemania",
+      "summary": "En la actual región de Brandeburgo, a apenas un centenar de metros de la frontera con Sajonia-Anhalt, el río Havel rodea una pequeña elevación de tierra que sus vecinos llaman Pilatsch. Durante siglos, una leyenda local sostuvo que allí vivió un caballero llamado Pilatus que…",
+      "url": "https://www.labrujulaverde.com/2026/09/descubren-construcciones-neoliticas-y-de-la-edad-del-hierro-bajo-una-fortaleza-eslava-del-siglo-vii-en-alemania",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/csm_Pilatsch_Blick_N__T._Martens_445a21cff5.webp",
+      "publishedAt": "2026-09-14T15:27:49.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/a-l-age-du-bronze-on-cuisinait-deja-avec-art-revele-une-etude_194814?xtor=RSS-4",
+      "title": "Une étude dévoile les pratiques culinaires sophistiquées de l’âge du bronze",
+      "summary": "Il y a 4500 ans, à Hama, en Syrie, la cuisine était déjà une affaire de savoir-faire. Une étude danoise révèle que chèvre, céréales ou gazelle étaient préparées dans des pots en argile différents selon les recettes, témoignant d’une étonnante sophistication culinaire dès l’âge…",
+      "url": "https://www.sciencesetavenir.fr/archeo-paleo/a-l-age-du-bronze-on-cuisinait-deja-avec-art-revele-une-etude_194814?xtor=RSS-4",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/14/cover-r4x3w1200-6aa7c98425158-sipa-01281119-000007.jpg",
+      "publishedAt": "2026-09-14T14:45:34.000Z",
+      "source": {
+        "id": "sciencesetavenir-archeo",
+        "name": "Sciences et Avenir — Archéo & Paléo"
+      },
+      "lang": "fr",
+      "region": "europe",
       "topics": [
         "prehistoria"
       ]
