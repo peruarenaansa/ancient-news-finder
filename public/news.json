@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T06:21:14.561Z",
+  "generatedAt": "2026-09-16T06:19:21.486Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5534
+      "elapsedMs": 5900
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 697
+      "elapsedMs": 1001
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 811
+      "elapsedMs": 24548
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 652
+      "elapsedMs": 966
     },
     {
       "id": "berria-bsky",
@@ -58,11 +58,11 @@
       "region": "basque",
       "kind": "news",
       "ok": true,
-      "fetched": 30,
+      "fetched": 29,
       "kept": 0,
-      "droppedOffTopic": 30,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2645
+      "elapsedMs": 3261
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 9,
       "droppedOffTopic": 21,
       "droppedModern": 0,
-      "elapsedMs": 2659
+      "elapsedMs": 3359
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1196
+      "elapsedMs": 1664
     },
     {
       "id": "labrujulaverde",
@@ -98,10 +98,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 14,
+      "kept": 15,
       "droppedOffTopic": 1,
-      "droppedModern": 5,
-      "elapsedMs": 1776
+      "droppedModern": 4,
+      "elapsedMs": 1677
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 4,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 1650
+      "elapsedMs": 1821
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 954
+      "elapsedMs": 1648
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 820
+      "elapsedMs": 924
     },
     {
       "id": "lemonde-archeo",
@@ -150,10 +150,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 7,
-      "droppedOffTopic": 10,
+      "kept": 6,
+      "droppedOffTopic": 11,
       "droppedModern": 3,
-      "elapsedMs": 1291
+      "elapsedMs": 1357
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -166,7 +166,7 @@
       "kept": 5,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 2750
+      "elapsedMs": 1494
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +179,7 @@
       "kept": 5,
       "droppedOffTopic": 19,
       "droppedModern": 4,
-      "elapsedMs": 2670
+      "elapsedMs": 3235
     },
     {
       "id": "sudouest-culture",
@@ -189,10 +189,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 0,
-      "droppedOffTopic": 20,
+      "kept": 1,
+      "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1253
+      "elapsedMs": 1649
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1753
+      "elapsedMs": 2337
     },
     {
       "id": "archeologiaviva",
@@ -215,10 +215,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 0,
+      "kept": 1,
       "droppedOffTopic": 1,
-      "droppedModern": 9,
-      "elapsedMs": 1989
+      "droppedModern": 8,
+      "elapsedMs": 2574
     },
     {
       "id": "stilearte",
@@ -231,7 +231,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2111
+      "elapsedMs": 2511
     },
     {
       "id": "live-science-arch",
@@ -241,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 3,
-      "droppedOffTopic": 27,
+      "kept": 4,
+      "droppedOffTopic": 26,
       "droppedModern": 0,
-      "elapsedMs": 2496
+      "elapsedMs": 2949
     },
     {
       "id": "bbc-history",
@@ -257,7 +257,7 @@
       "kept": 1,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1862
+      "elapsedMs": 1809
     },
     {
       "id": "sciencedaily-arch",
@@ -267,10 +267,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 17,
-      "droppedOffTopic": 13,
+      "kept": 16,
+      "droppedOffTopic": 14,
       "droppedModern": 0,
-      "elapsedMs": 1738
+      "elapsedMs": 2006
     },
     {
       "id": "ancient-origins",
@@ -278,9 +278,12 @@
       "lang": "en",
       "region": "world",
       "kind": "news",
-      "ok": false,
-      "error": "Request timed out after 15000ms",
-      "elapsedMs": 49508
+      "ok": true,
+      "fetched": 10,
+      "kept": 3,
+      "droppedOffTopic": 5,
+      "droppedModern": 2,
+      "elapsedMs": 2163
     },
     {
       "id": "guardian-arch",
@@ -293,7 +296,7 @@
       "kept": 10,
       "droppedOffTopic": 7,
       "droppedModern": 3,
-      "elapsedMs": 2317
+      "elapsedMs": 2232
     },
     {
       "id": "current-archaeology",
@@ -306,7 +309,7 @@
       "kept": 11,
       "droppedOffTopic": 7,
       "droppedModern": 12,
-      "elapsedMs": 1809
+      "elapsedMs": 2063
     },
     {
       "id": "jas-reports",
@@ -316,10 +319,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 6,
-      "droppedOffTopic": 3,
+      "kept": 7,
+      "droppedOffTopic": 2,
       "droppedModern": 21,
-      "elapsedMs": 1840
+      "elapsedMs": 1900
     },
     {
       "id": "plos-one-arch",
@@ -329,10 +332,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 0,
-      "droppedOffTopic": 30,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2013
+      "elapsedMs": 2136
     },
     {
       "id": "pnas-arch",
@@ -345,7 +348,7 @@
       "kept": 19,
       "droppedOffTopic": 8,
       "droppedModern": 3,
-      "elapsedMs": 2783
+      "elapsedMs": 3427
     },
     {
       "id": "sciencedirect-jas",
@@ -354,11 +357,11 @@
       "region": "world",
       "kind": "research",
       "ok": true,
-      "fetched": 27,
-      "kept": 8,
-      "droppedOffTopic": 4,
-      "droppedModern": 15,
-      "elapsedMs": 1895
+      "fetched": 15,
+      "kept": 5,
+      "droppedOffTopic": 3,
+      "droppedModern": 7,
+      "elapsedMs": 1989
     },
     {
       "id": "spal-us",
@@ -371,7 +374,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2706
+      "elapsedMs": 3328
     },
     {
       "id": "complutum-ucm",
@@ -384,7 +387,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 3728
+      "elapsedMs": 4327
     },
     {
       "id": "archeoarte",
@@ -397,7 +400,7 @@
       "kept": 4,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 2657
+      "elapsedMs": 3001
     },
     {
       "id": "cypsela",
@@ -410,7 +413,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 4778
+      "elapsedMs": 5137
     },
     {
       "id": "cambridge-antiquity",
@@ -423,7 +426,7 @@
       "kept": 18,
       "droppedOffTopic": 5,
       "droppedModern": 7,
-      "elapsedMs": 2532
+      "elapsedMs": 2955
     },
     {
       "id": "cambridge-caj",
@@ -436,7 +439,7 @@
       "kept": 18,
       "droppedOffTopic": 5,
       "droppedModern": 7,
-      "elapsedMs": 2602
+      "elapsedMs": 3061
     },
     {
       "id": "cambridge-ejarc",
@@ -449,7 +452,7 @@
       "kept": 16,
       "droppedOffTopic": 5,
       "droppedModern": 9,
-      "elapsedMs": 2487
+      "elapsedMs": 3168
     },
     {
       "id": "aquitania-persee",
@@ -462,7 +465,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3572
+      "elapsedMs": 4013
     },
     {
       "id": "cuadernos-arq-unav",
@@ -472,10 +475,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 21,
+      "kept": 20,
       "droppedOffTopic": 1,
-      "droppedModern": 8,
-      "elapsedMs": 4028
+      "droppedModern": 9,
+      "elapsedMs": 4746
     },
     {
       "id": "veleia-ehu",
@@ -488,7 +491,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3364
+      "elapsedMs": 4332
     },
     {
       "id": "flv-navarra",
@@ -501,7 +504,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2572
+      "elapsedMs": 3467
     },
     {
       "id": "munibe-aa",
@@ -514,7 +517,7 @@
       "kept": 18,
       "droppedOffTopic": 3,
       "droppedModern": 9,
-      "elapsedMs": 2647
+      "elapsedMs": 3410
     },
     {
       "id": "trabajos-prehistoria",
@@ -527,7 +530,7 @@
       "kept": 22,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 2770
+      "elapsedMs": 3506
     },
     {
       "id": "openalex-archaeology",
@@ -540,7 +543,7 @@
       "kept": 15,
       "droppedOffTopic": 8,
       "droppedModern": 7,
-      "elapsedMs": 2673
+      "elapsedMs": 3634
     }
   ],
   "items": [
@@ -4073,73 +4076,6 @@
       "region": "europe",
       "topics": [
         "aurkikuntza"
-      ]
-    },
-    {
-      "id": "guardian-arch:https://www.theguardian.com/uk-news/2026/jun/18/solstice-aligned-monument-archaeology-wiltshire-stonehenge-prototype",
-      "title": "Solstice-aligned 5,000-year-old monument ‘once in a lifetime find’, say archaeologists",
-      "summary": "Wessex Archaeology suspect they have uncovered a prototype for world-famous Stonehenge site in Wiltshire A 5,000-year-old monument that was aligned with the summer and winter solstices and may have served as a prototype for the later solar alignment at Stonehenge has been…",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/18/solstice-aligned-monument-archaeology-wiltshire-stonehenge-prototype",
-      "image": "https://i.guim.co.uk/img/media/a72f6f0d3edec6c42c006f31c8ec5e28b30c364b/346_0_4853_3883/master/4853.jpg?width=140&quality=85&auto=format&fit=max&s=e707e8739c2dbebb2a5232bf37d5401f",
-      "publishedAt": "2026-06-17T23:00:47.000Z",
-      "source": {
-        "id": "guardian-arch",
-        "name": "The Guardian — Archaeology"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "inrap-bsky:https://bsky.app/profile/inrap.fr/post/3moiokxbiws2h",
-      "title": "",
-      "summary": "Questionnaire : L’archéologie et vous🔍 L'archéologie vous intéresse ? Dites-le nous en 3 minutes en répondant à ce questionnaire : Répondre au questionnaire 👉 https://docs.google.com/forms/d/e/1FAIpQLSdJziov5M2Iik_e66pOZe3nanzaBxIA0B-nZpFEEvj450Mrpg/viewform",
-      "url": "https://bsky.app/profile/inrap.fr/post/3moiokxbiws2h",
-      "image": null,
-      "publishedAt": "2026-06-17T15:58:00.000Z",
-      "source": {
-        "id": "inrap-bsky",
-        "name": "Inrap (Bluesky)"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "guardian-arch:https://www.theguardian.com/science/2026/jun/17/ancient-dna-evidence-earliest-known-plague-outbreak",
-      "title": "Ancient DNA provides evidence of earliest known plague outbreak",
-      "summary": "Discovery in Siberia suggests bacterium from raw marmots devastated hunter-gatherer tribes about 5,500 years ago The earliest evidence for an outbreak of plague has been uncovered at late stone age cemeteries in south-eastern Siberia where dozens of hunter-gatherers and their…",
-      "url": "https://www.theguardian.com/science/2026/jun/17/ancient-dna-evidence-earliest-known-plague-outbreak",
-      "image": "https://i.guim.co.uk/img/media/c0ab2b64cb083c4f8f5c28d4469da316e3e8ee0c/161_0_2431_1944/master/2431.jpg?width=140&quality=85&auto=format&fit=max&s=faf4af03453ebe673abf016c7b44cb2a",
-      "publishedAt": "2026-06-17T15:00:36.000Z",
-      "source": {
-        "id": "guardian-arch",
-        "name": "The Guardian — Archaeology"
-      },
-      "lang": "en",
-      "region": "iberia",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "desperta-ferro:https://www.despertaferro-ediciones.com/2026/la-historia-que-no-escribieron-los-reyes-2200-anos-de-paisajes-en-la-montana-vasca/",
-      "title": "La historia que no escribieron los reyes. 2200 años de paisajes en la montaña vasca",
-      "summary": "Los documentos hablan de reyes, guerras y fronteras. El paisaje, en cambio, conserva la historia de quienes trabajaron la tierra, cuidaron los bosques y transformaron el territorio generación tras generación. En la montaña alavesa, esa memoria permite reconstruir más de dos…",
-      "url": "https://www.despertaferro-ediciones.com/2026/la-historia-que-no-escribieron-los-reyes-2200-anos-de-paisajes-en-la-montana-vasca/",
-      "image": null,
-      "publishedAt": "2026-06-17T11:36:05.000Z",
-      "source": {
-        "id": "desperta-ferro",
-        "name": "Desperta Ferro Ediciones"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "iberiarrak"
       ]
     },
     {
@@ -8796,12 +8732,29 @@
       "topics": []
     },
     {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26004980?dgcid=rss_sd_all",
-      "title": "The start of the Neolithic in the Lower Rhine Basin (Northwestern Europe): Timing, character and impact",
-      "summary": "Publication date: November 2026 Source: Journal of Archaeological Science: Reports, Volume 75 Author(s): D.C.M. Raemaekers, N.Ø. Brusgaard, M. Dreshaj, J.A.M. Erven, M.W. Dee, J.H.M. Peeters, C. Çakirlar",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26004980?dgcid=rss_sd_all",
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26004542?dgcid=rss_sd_all",
+      "title": "The utilisation of Alpine and per-Alpine landscapes in the 5th millennium BC – Neolithic economy and settlement between the Alpine Rhine and Salzach rivers",
+      "summary": "Publication date: November 2026 Source: Journal of Archaeological Science: Reports, Volume 75 Author(s): Joachim Pechtl",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26004542?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-09-15T06:20:26.888Z",
+      "publishedAt": "2026-09-16T06:18:58.845Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26004943?dgcid=rss_sd_all",
+      "title": "Middle Neolithic floodplain grazing in the Wetterau (Hesse, Central Germany) – An integrated multi–proxy study",
+      "summary": "Publication date: November 2026 Source: Journal of Archaeological Science: Reports, Volume 75 Author(s): Hannah Lindemann, Sascha Scherer, Nadine Nolde, Sabine Fiedler, Astrid Stobbe",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26004943?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-09-16T06:18:58.844Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -8813,70 +8766,126 @@
       ]
     },
     {
-      "id": "stilearte:https://www.stilearte.it/pontecagnano-scoperti-tomba-cubo-cratere-corinzio-vi-secolo-ac/",
-      "title": "Pontecagnano, sotto una lastra scoprono un sepolcro del VI secolo a.C. Tra gli Etruschi di confine. Chi erano. Il cratere proveniente da Corinto",
-      "summary": "Un cantiere per una nuova abitazione e un controllo preventivo svolto dalla Soprintendenza. Nel paese è così venuta alla luce una tomba a cubo di 2500 anni fa. Ne ha dato notizia, nelle ore scorse, la Soprintendenza Archeologia Belle Arti e Paesaggio di Salerno e Avellino. Sotto…",
-      "url": "https://www.stilearte.it/pontecagnano-scoperti-tomba-cubo-cratere-corinzio-vi-secolo-ac/",
+      "id": "stilearte:https://www.stilearte.it/monteleone-sabino-acquedotto-preromano-mutuesci-sabina/",
+      "title": "Meraviglioso. Entrano in un pertugio, lo percorrono. Nella roccia i segreti pre-romani di Monteleone Sabino. Cos’era. La storia del luogo e della comunità",
+      "summary": "Una struttura di epoca preromana è stata esplorata e documentata nel territorio di Monteleone Sabino, in provincia di Rieti. ne dà notizia ora la Soprintendenza. Il condotto presenta una sezione ogivale ed è scavato interamente nella roccia. La tecnica utilizzata per realizzarlo…",
+      "url": "https://www.stilearte.it/monteleone-sabino-acquedotto-preromano-mutuesci-sabina/",
       "image": null,
-      "publishedAt": "2026-09-15T05:53:09.000Z",
+      "publishedAt": "2026-09-16T05:55:02.000Z",
       "source": {
         "id": "stilearte",
         "name": "Stile Arte — Archeologia"
       },
       "lang": "it",
       "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/planet-earth/volcanoes/south-american-pompeii-volcanic-eruption-22-million-years-ago-preserved-a-snapshot-of-the-andes-forming",
-      "title": "South American 'Pompeii': Volcanic eruption 22 million years ago preserved a snapshot of the Andes forming",
-      "summary": "An enormous volcanic eruption buried a snapshot of the baby Andes mountains, revealing a slow-and-steady growth rate.",
-      "url": "https://www.livescience.com/planet-earth/volcanoes/south-american-pompeii-volcanic-eruption-22-million-years-ago-preserved-a-snapshot-of-the-andes-forming",
-      "image": "https://cdn.mos.cms.futurecdn.net/deH5qNERJ5wdNQesMqnbJd-1280-80.jpg",
-      "publishedAt": "2026-09-14T20:51:07.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
       "topics": [
-        "erromatarrak",
-        "amerika"
+        "erromatarrak"
       ]
     },
     {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/descubren-construcciones-neoliticas-y-de-la-edad-del-hierro-bajo-una-fortaleza-eslava-del-siglo-vii-en-alemania",
-      "title": "Descubren construcciones neolíticas y de la Edad del Hierro bajo una legendaria fortaleza eslava del siglo VII en Alemania",
-      "summary": "En la actual región de Brandeburgo, a apenas un centenar de metros de la frontera con Sajonia-Anhalt, el río Havel rodea una pequeña elevación de tierra que sus vecinos llaman Pilatsch. Durante siglos, una leyenda local sostuvo que allí vivió un caballero llamado Pilatus que…",
-      "url": "https://www.labrujulaverde.com/2026/09/descubren-construcciones-neoliticas-y-de-la-edad-del-hierro-bajo-una-fortaleza-eslava-del-siglo-vii-en-alemania",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/csm_Pilatsch_Blick_N__T._Martens_445a21cff5.webp",
-      "publishedAt": "2026-09-14T15:27:49.000Z",
+      "id": "sudouest-culture:https://www.sudouest.fr/gironde/mios/bassin-d-arcachon-une-exposition-qui-retrace-l-histoire-de-mios-de-la-prehistoire-a-nos-jours-30597644.php",
+      "title": "Bassin d’Arcachon : une exposition qui retrace l’histoire de Mios de la préhistoire à nos jours",
+      "summary": "À l’occasion des Journées du patrimoine, l’association Mios Culture Loisirs propose une immersion dans le passé de la ville, des premières traces humaines au paléolithique jusqu’à l’essor industriel du",
+      "url": "https://www.sudouest.fr/gironde/mios/bassin-d-arcachon-une-exposition-qui-retrace-l-histoire-de-mios-de-la-prehistoire-a-nos-jours-30597644.php",
+      "image": null,
+      "publishedAt": "2026-09-15T18:07:00.000Z",
+      "source": {
+        "id": "sudouest-culture",
+        "name": "Sud Ouest — Culture"
+      },
+      "lang": "fr",
+      "region": "basque",
+      "topics": [
+        "prehistoria",
+        "asia"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/hallan-en-marruecos-la-fortificacion-mas-antigua-de-africa-fuera-del-valle-del-nilo",
+      "title": "Hallan en Marruecos la fortificación más antigua de África fuera del Valle del Nilo",
+      "summary": "Antes de que existiera Roma, antes de que los fenicios cruzaran el Mediterráneo occidental y mientras en el sureste de la península ibérica empezaban a levantarse los primeros poblados fortificados de la cultura argárica, una comunidad instalada sobre una cresta rocosa del…",
+      "url": "https://www.labrujulaverde.com/2026/09/hallan-en-marruecos-la-fortificacion-mas-antigua-de-africa-fuera-del-valle-del-nilo",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/urn-cambridge.org-id-binary-alt-20260903131652-60971-optimisedImage-png-S0263718926100375_fig5-copia.jpg.webp",
+      "publishedAt": "2026-09-15T15:34:14.000Z",
       "source": {
         "id": "labrujulaverde",
         "name": "La Brújula Verde"
       },
       "lang": "es",
-      "region": "europe",
+      "region": "iberia",
+      "topics": [
+        "egiptoarrak",
+        "ekialde-hurbila",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/animals/dinosaurs/fossils-of-iconic-long-necked-dinosaur-diplodocus-found-in-europe-for-first-time-and-it-may-have-traveled-there-via-land-bridge",
+      "title": "Fossils of iconic long-necked dinosaur Diplodocus found in Europe for first time — and it may have traveled there via land bridge",
+      "summary": "Fossils of the long-necked dinosaur Diplodocus have been discovered in Spain, marking the first time remains of this iconic Jurassic-period dino have been found outside the U.S.",
+      "url": "https://www.livescience.com/animals/dinosaurs/fossils-of-iconic-long-necked-dinosaur-diplodocus-found-in-europe-for-first-time-and-it-may-have-traveled-there-via-land-bridge",
+      "image": "https://cdn.mos.cms.futurecdn.net/zEBn7565BiPH9Mt5KTH7SQ-1280-80.jpg",
+      "publishedAt": "2026-09-15T14:11:51.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "iberia",
       "topics": [
         "aurkikuntza"
       ]
     },
     {
-      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/a-l-age-du-bronze-on-cuisinait-deja-avec-art-revele-une-etude_194814?xtor=RSS-4",
-      "title": "Une étude dévoile les pratiques culinaires sophistiquées de l’âge du bronze",
-      "summary": "Il y a 4500 ans, à Hama, en Syrie, la cuisine était déjà une affaire de savoir-faire. Une étude danoise révèle que chèvre, céréales ou gazelle étaient préparées dans des pots en argile différents selon les recettes, témoignant d’une étonnante sophistication culinaire dès l’âge…",
-      "url": "https://www.sciencesetavenir.fr/archeo-paleo/a-l-age-du-bronze-on-cuisinait-deja-avec-art-revele-une-etude_194814?xtor=RSS-4",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/14/cover-r4x3w1200-6aa7c98425158-sipa-01281119-000007.jpg",
-      "publishedAt": "2026-09-14T14:45:34.000Z",
+      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358564",
+      "title": "Correction: From mobile phone screen to taste buds: A study on the impact of Douyin live streaming E-service scenarios on Durian consumer trust and purchase intention",
+      "summary": "by Xuemei Xu, Anita Rosli, Aryaty Alwie, Ismawati Sharkawi, Yurong Wu",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358564",
+      "image": null,
+      "publishedAt": "2026-09-15T14:00:00.000Z",
       "source": {
-        "id": "sciencesetavenir-archeo",
-        "name": "Sciences et Avenir — Archéo & Paléo"
+        "id": "plos-one-arch",
+        "name": "PLOS ONE — Archaeology"
       },
-      "lang": "fr",
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "ekialde-hurbila"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/una-moneta-romana-del-iv-secolo-riaffiora-dal-terreno-vicino-allantica-frontiera-dellimpero/",
+      "title": "Una moneta romana del IV secolo riaffiora dal terreno vicino all’antica frontiera dell’Impero",
+      "summary": "Il ritrovamento è stato raccontato direttamente da un appassionato di metal detecting. Sul rovescio si riconosce la formula VOT V MVLT X, ma l’imperatore che la fece coniare resta ancora da identificare Una piccola moneta di bronzo, rimasta nel terreno per più di 1.600 anni, è…",
+      "url": "https://www.stilearte.it/una-moneta-romana-del-iv-secolo-riaffiora-dal-terreno-vicino-allantica-frontiera-dellimpero/",
+      "image": null,
+      "publishedAt": "2026-09-15T13:16:02.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
       "region": "europe",
       "topics": [
-        "prehistoria"
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "archeologiaviva:https://www.archeologiaviva.it/25844/il-kouros-e-tornato-a-casa/",
+      "title": "Museo di Lentini: il Kouros è tornato a casa",
+      "summary": "15 settembre 2026 Torna stabilmente e finalmente a casa – al Museo di Lentini (Sr) – il celebre Kouros (V sec. a.C.). La statua del giovane greco è costituita da due elementi ritrovati in epoche diverse nelle aree di Lentini: la cosiddetta “testa Biscari”, proveniente dalla…",
+      "url": "https://www.archeologiaviva.it/25844/il-kouros-e-tornato-a-casa/",
+      "image": "https://www.archeologiaviva.it/wp-content/uploads/2026/09/Kouros-di-Lentini02.jpg",
+      "publishedAt": "2026-09-15T11:00:44.000Z",
+      "source": {
+        "id": "archeologiaviva",
+        "name": "Archeologia Viva"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "greziarrak",
+        "museoak"
       ]
     }
   ]
