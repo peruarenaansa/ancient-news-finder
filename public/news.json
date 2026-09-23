@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T06:28:52.018Z",
+  "generatedAt": "2026-09-23T06:13:25.143Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 7375
+      "elapsedMs": 5897
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 943
+      "elapsedMs": 783
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1508
+      "elapsedMs": 888
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1328
+      "elapsedMs": 788
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 4414
+      "elapsedMs": 3071
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 9,
       "droppedOffTopic": 21,
       "droppedModern": 0,
-      "elapsedMs": 4536
+      "elapsedMs": 3122
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 13,
-      "elapsedMs": 1749
+      "elapsedMs": 1495
     },
     {
       "id": "labrujulaverde",
@@ -98,10 +98,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 19,
+      "kept": 18,
       "droppedOffTopic": 0,
-      "droppedModern": 1,
-      "elapsedMs": 2147
+      "droppedModern": 2,
+      "elapsedMs": 1799
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 2096
+      "elapsedMs": 1240
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2447
+      "elapsedMs": 867
     },
     {
       "id": "lemonde-sciences",
@@ -137,10 +137,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 1,
-      "droppedOffTopic": 19,
+      "kept": 0,
+      "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1305
+      "elapsedMs": 1122
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 7,
       "droppedOffTopic": 10,
       "droppedModern": 3,
-      "elapsedMs": 1783
+      "elapsedMs": 1467
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +162,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 18,
-      "kept": 7,
+      "fetched": 19,
+      "kept": 8,
       "droppedOffTopic": 11,
       "droppedModern": 0,
-      "elapsedMs": 1699
+      "elapsedMs": 1574
     },
     {
       "id": "inrap-bsky",
@@ -176,10 +176,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 27,
-      "kept": 4,
-      "droppedOffTopic": 19,
+      "kept": 5,
+      "droppedOffTopic": 18,
       "droppedModern": 4,
-      "elapsedMs": 4471
+      "elapsedMs": 3105
     },
     {
       "id": "sudouest-culture",
@@ -192,7 +192,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 2429
+      "elapsedMs": 1617
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2335
+      "elapsedMs": 1879
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 1,
       "droppedOffTopic": 1,
       "droppedModern": 8,
-      "elapsedMs": 3446
+      "elapsedMs": 2479
     },
     {
       "id": "stilearte",
@@ -228,10 +228,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 9,
+      "kept": 8,
       "droppedOffTopic": 0,
-      "droppedModern": 1,
-      "elapsedMs": 3086
+      "droppedModern": 2,
+      "elapsedMs": 2519
     },
     {
       "id": "live-science-arch",
@@ -241,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 6,
-      "droppedOffTopic": 24,
+      "kept": 4,
+      "droppedOffTopic": 26,
       "droppedModern": 0,
-      "elapsedMs": 4518
+      "elapsedMs": 2925
     },
     {
       "id": "bbc-history",
@@ -254,10 +254,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 1,
-      "droppedOffTopic": 9,
+      "kept": 0,
+      "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 3270
+      "elapsedMs": 1956
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +270,7 @@
       "kept": 17,
       "droppedOffTopic": 13,
       "droppedModern": 0,
-      "elapsedMs": 2743
+      "elapsedMs": 2012
     },
     {
       "id": "ancient-origins",
@@ -278,9 +278,12 @@
       "lang": "en",
       "region": "world",
       "kind": "news",
-      "ok": false,
-      "error": "Unable to parse XML.",
-      "elapsedMs": 7530
+      "ok": true,
+      "fetched": 10,
+      "kept": 3,
+      "droppedOffTopic": 5,
+      "droppedModern": 2,
+      "elapsedMs": 2139
     },
     {
       "id": "guardian-arch",
@@ -290,10 +293,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 10,
-      "droppedOffTopic": 7,
+      "kept": 9,
+      "droppedOffTopic": 8,
       "droppedModern": 3,
-      "elapsedMs": 3172
+      "elapsedMs": 2513
     },
     {
       "id": "current-archaeology",
@@ -303,10 +306,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 20,
+      "kept": 21,
       "droppedOffTopic": 3,
-      "droppedModern": 7,
-      "elapsedMs": 5520
+      "droppedModern": 6,
+      "elapsedMs": 2023
     },
     {
       "id": "jas-reports",
@@ -316,10 +319,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 8,
+      "kept": 9,
       "droppedOffTopic": 2,
-      "droppedModern": 20,
-      "elapsedMs": 2999
+      "droppedModern": 19,
+      "elapsedMs": 2123
     },
     {
       "id": "plos-one-arch",
@@ -332,7 +335,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 3403
+      "elapsedMs": 2157
     },
     {
       "id": "pnas-arch",
@@ -345,7 +348,7 @@
       "kept": 19,
       "droppedOffTopic": 8,
       "droppedModern": 3,
-      "elapsedMs": 3976
+      "elapsedMs": 3005
     },
     {
       "id": "sciencedirect-jas",
@@ -358,7 +361,7 @@
       "kept": 7,
       "droppedOffTopic": 3,
       "droppedModern": 12,
-      "elapsedMs": 3302
+      "elapsedMs": 2074
     },
     {
       "id": "spal-us",
@@ -366,9 +369,12 @@
       "lang": "es",
       "region": "iberia",
       "kind": "research",
-      "ok": false,
-      "error": "read ECONNRESET",
-      "elapsedMs": 20906
+      "ok": true,
+      "fetched": 10,
+      "kept": 7,
+      "droppedOffTopic": 1,
+      "droppedModern": 2,
+      "elapsedMs": 2960
     },
     {
       "id": "complutum-ucm",
@@ -381,7 +387,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 5416
+      "elapsedMs": 3992
     },
     {
       "id": "archeoarte",
@@ -391,10 +397,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 9,
-      "kept": 4,
+      "kept": 3,
       "droppedOffTopic": 0,
-      "droppedModern": 5,
-      "elapsedMs": 4281
+      "droppedModern": 6,
+      "elapsedMs": 3215
     },
     {
       "id": "cypsela",
@@ -403,11 +409,11 @@
       "region": "iberia",
       "kind": "research",
       "ok": true,
-      "fetched": 8,
-      "kept": 8,
+      "fetched": 12,
+      "kept": 11,
       "droppedOffTopic": 0,
-      "droppedModern": 0,
-      "elapsedMs": 6589
+      "droppedModern": 1,
+      "elapsedMs": 4887
     },
     {
       "id": "cambridge-antiquity",
@@ -420,7 +426,7 @@
       "kept": 18,
       "droppedOffTopic": 5,
       "droppedModern": 7,
-      "elapsedMs": 4195
+      "elapsedMs": 2743
     },
     {
       "id": "cambridge-caj",
@@ -433,7 +439,7 @@
       "kept": 18,
       "droppedOffTopic": 5,
       "droppedModern": 7,
-      "elapsedMs": 4222
+      "elapsedMs": 2721
     },
     {
       "id": "cambridge-ejarc",
@@ -446,7 +452,7 @@
       "kept": 16,
       "droppedOffTopic": 5,
       "droppedModern": 9,
-      "elapsedMs": 4211
+      "elapsedMs": 2751
     },
     {
       "id": "aquitania-persee",
@@ -459,7 +465,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 5402
+      "elapsedMs": 3505
     },
     {
       "id": "cuadernos-arq-unav",
@@ -469,10 +475,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 20,
-      "droppedOffTopic": 1,
+      "kept": 21,
+      "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 5601
+      "elapsedMs": 3981
     },
     {
       "id": "veleia-ehu",
@@ -485,7 +491,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 5246
+      "elapsedMs": 3841
     },
     {
       "id": "flv-navarra",
@@ -498,7 +504,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 4389
+      "elapsedMs": 3120
     },
     {
       "id": "munibe-aa",
@@ -511,7 +517,7 @@
       "kept": 18,
       "droppedOffTopic": 3,
       "droppedModern": 9,
-      "elapsedMs": 4361
+      "elapsedMs": 3079
     },
     {
       "id": "trabajos-prehistoria",
@@ -524,7 +530,7 @@
       "kept": 22,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 4469
+      "elapsedMs": 3094
     },
     {
       "id": "openalex-archaeology",
@@ -537,7 +543,7 @@
       "kept": 15,
       "droppedOffTopic": 7,
       "droppedModern": 8,
-      "elapsedMs": 4413
+      "elapsedMs": 2917
     }
   ],
   "items": [
@@ -8845,35 +8851,35 @@
       ]
     },
     {
-      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326001998?dgcid=rss_sd_all",
-      "title": "Mediterranean Late Bronze Age copper ingots: A new lead isotope-based synthesis",
-      "summary": "Publication date: November 2026 Source: Journal of Archaeological Science, Volume 195 Author(s): Daniel M. Finn-Kandel, Naama Yahalom-Mack, Yigal Erel",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326001998?dgcid=rss_sd_all",
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26004943?dgcid=rss_sd_all",
+      "title": "Middle Neolithic floodplain grazing in the Wetterau (Hesse, Central Germany) – An integrated multi–proxy study",
+      "summary": "Publication date: November 2026 Source: Journal of Archaeological Science: Reports, Volume 75 Author(s): Hannah Lindemann, Sascha Scherer, Nadine Nolde, Sabine Fiedler, Astrid Stobbe",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26004943?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-09-22T06:28:34.407Z",
-      "source": {
-        "id": "sciencedirect-jas",
-        "name": "Journal of Archaeological Science (ScienceDirect)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26005079?dgcid=rss_sd_all",
-      "title": "Vegetation and plant resource exploitation during the 8.2 ka event: The mesolithic shell-midden of El Mazo (Asturias, northern Iberia)",
-      "summary": "Publication date: November 2026 Source: Journal of Archaeological Science: Reports, Volume 75 Author(s): Sara Núñez de la Fuente, Inés López-Dóriga, Mónica Ruiz-Alonso, Igor Gutiérrez-Zugasti, David Cuenca-Solana, Asier García-Escárzaga, José Antonio López-Sáez",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26005079?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-09-22T06:28:34.086Z",
+      "publishedAt": "2026-09-23T06:13:21.384Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
       },
       "lang": "en",
-      "region": "iberia",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26005043?dgcid=rss_sd_all",
+      "title": "The agricultural system of a crisis years settlement: archaeobotanical evidence from Late Bronze Age Pyla- Kokkinokremos , Cyprus",
+      "summary": "Publication date: November 2026 Source: Journal of Archaeological Science: Reports, Volume 75 Author(s): Carly Henkel, Joachim Bretschneider, Jan Driessen, Athanasia Kanta, Evi Margaritis",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26005043?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-09-23T06:13:21.383Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
       "topics": [
         "prehistoria"
       ]
