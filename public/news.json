@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T07:12:28.485Z",
+  "generatedAt": "2026-10-03T06:45:15.116Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5719
+      "elapsedMs": 5234
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1009
+      "elapsedMs": 631
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1717
+      "elapsedMs": 921
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 743
+      "elapsedMs": 614
     },
     {
       "id": "berria-bsky",
@@ -59,10 +59,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3059
+      "elapsedMs": 2254
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 9,
       "droppedOffTopic": 21,
       "droppedModern": 0,
-      "elapsedMs": 3136
+      "elapsedMs": 2215
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 2,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 1396
+      "elapsedMs": 930
     },
     {
       "id": "labrujulaverde",
@@ -98,10 +98,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 16,
+      "kept": 15,
       "droppedOffTopic": 0,
-      "droppedModern": 4,
-      "elapsedMs": 1635
+      "droppedModern": 5,
+      "elapsedMs": 1540
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 1760
+      "elapsedMs": 1579
     },
     {
       "id": "elpais-cultura",
@@ -124,10 +124,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 0,
-      "droppedOffTopic": 30,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1671
+      "elapsedMs": 943
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 808
+      "elapsedMs": 735
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 6,
       "droppedOffTopic": 12,
       "droppedModern": 2,
-      "elapsedMs": 1312
+      "elapsedMs": 1341
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +162,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 20,
-      "kept": 8,
+      "fetched": 21,
+      "kept": 9,
       "droppedOffTopic": 12,
       "droppedModern": 0,
-      "elapsedMs": 1058
+      "elapsedMs": 1238
     },
     {
       "id": "inrap-bsky",
@@ -176,10 +176,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 25,
-      "kept": 4,
-      "droppedOffTopic": 18,
+      "kept": 3,
+      "droppedOffTopic": 19,
       "droppedModern": 3,
-      "elapsedMs": 3149
+      "elapsedMs": 2475
     },
     {
       "id": "sudouest-culture",
@@ -192,7 +192,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1319
+      "elapsedMs": 946
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2090
+      "elapsedMs": 1332
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 1,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 2355
+      "elapsedMs": 1821
     },
     {
       "id": "stilearte",
@@ -228,10 +228,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 10,
-      "droppedOffTopic": 0,
-      "droppedModern": 0,
-      "elapsedMs": 2421
+      "kept": 8,
+      "droppedOffTopic": 1,
+      "droppedModern": 1,
+      "elapsedMs": 2221
     },
     {
       "id": "live-science-arch",
@@ -241,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 5,
-      "droppedOffTopic": 25,
+      "kept": 3,
+      "droppedOffTopic": 27,
       "droppedModern": 0,
-      "elapsedMs": 2773
+      "elapsedMs": 2273
     },
     {
       "id": "bbc-history",
@@ -257,7 +257,7 @@
       "kept": 1,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1743
+      "elapsedMs": 1516
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +270,7 @@
       "kept": 20,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1975
+      "elapsedMs": 1504
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 2049
+      "elapsedMs": 1541
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 8,
       "droppedOffTopic": 10,
       "droppedModern": 2,
-      "elapsedMs": 2155
+      "elapsedMs": 1865
     },
     {
       "id": "current-archaeology",
@@ -309,7 +309,7 @@
       "kept": 23,
       "droppedOffTopic": 4,
       "droppedModern": 3,
-      "elapsedMs": 1891
+      "elapsedMs": 1622
     },
     {
       "id": "jas-reports",
@@ -319,10 +319,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 9,
-      "droppedOffTopic": 2,
-      "droppedModern": 19,
-      "elapsedMs": 1876
+      "kept": 7,
+      "droppedOffTopic": 3,
+      "droppedModern": 20,
+      "elapsedMs": 1560
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +335,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2126
+      "elapsedMs": 1853
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 19,
       "droppedOffTopic": 8,
       "droppedModern": 3,
-      "elapsedMs": 2881
+      "elapsedMs": 2395
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +361,7 @@
       "kept": 8,
       "droppedOffTopic": 3,
       "droppedModern": 18,
-      "elapsedMs": 2065
+      "elapsedMs": 1691
     },
     {
       "id": "spal-us",
@@ -371,7 +371,7 @@
       "kind": "research",
       "ok": false,
       "error": "read ECONNRESET",
-      "elapsedMs": 7676
+      "elapsedMs": 7194
     },
     {
       "id": "complutum-ucm",
@@ -384,7 +384,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 4365
+      "elapsedMs": 3457
     },
     {
       "id": "archeoarte",
@@ -394,7 +394,7 @@
       "kind": "research",
       "ok": false,
       "error": "Request timed out after 15000ms",
-      "elapsedMs": 49511
+      "elapsedMs": 49512
     },
     {
       "id": "cypsela",
@@ -402,12 +402,9 @@
       "lang": "ca",
       "region": "iberia",
       "kind": "research",
-      "ok": true,
-      "fetched": 12,
-      "kept": 11,
-      "droppedOffTopic": 0,
-      "droppedModern": 1,
-      "elapsedMs": 5287
+      "ok": false,
+      "error": "Status code 403",
+      "elapsedMs": 6875
     },
     {
       "id": "cambridge-antiquity",
@@ -420,7 +417,7 @@
       "kept": 20,
       "droppedOffTopic": 5,
       "droppedModern": 5,
-      "elapsedMs": 2490
+      "elapsedMs": 2276
     },
     {
       "id": "cambridge-caj",
@@ -433,7 +430,7 @@
       "kept": 18,
       "droppedOffTopic": 6,
       "droppedModern": 6,
-      "elapsedMs": 2810
+      "elapsedMs": 2321
     },
     {
       "id": "cambridge-ejarc",
@@ -446,7 +443,7 @@
       "kept": 18,
       "droppedOffTopic": 5,
       "droppedModern": 7,
-      "elapsedMs": 2678
+      "elapsedMs": 2285
     },
     {
       "id": "aquitania-persee",
@@ -459,7 +456,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3644
+      "elapsedMs": 3059
     },
     {
       "id": "cuadernos-arq-unav",
@@ -472,7 +469,7 @@
       "kept": 21,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 4302
+      "elapsedMs": 3567
     },
     {
       "id": "veleia-ehu",
@@ -485,7 +482,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 4134
+      "elapsedMs": 3010
     },
     {
       "id": "flv-navarra",
@@ -498,7 +495,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 3029
+      "elapsedMs": 2299
     },
     {
       "id": "munibe-aa",
@@ -511,7 +508,7 @@
       "kept": 18,
       "droppedOffTopic": 3,
       "droppedModern": 9,
-      "elapsedMs": 3045
+      "elapsedMs": 2346
     },
     {
       "id": "trabajos-prehistoria",
@@ -524,7 +521,7 @@
       "kept": 23,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 3108
+      "elapsedMs": 2505
     },
     {
       "id": "openalex-archaeology",
@@ -537,7 +534,7 @@
       "kept": 16,
       "droppedOffTopic": 6,
       "droppedModern": 8,
-      "elapsedMs": 3088
+      "elapsedMs": 2261
     }
   ],
   "items": [
@@ -766,6 +763,140 @@
       "lang": "en",
       "region": "world",
       "topics": []
+    },
+    {
+      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326001962?dgcid=rss_sd_all",
+      "title": "Multiphase human cannibalism in Neolithic southern Iberia: Chronological and taphonomic evidence from Malalmuerzo, Carigüela, and Majolicas Caves",
+      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science, Volume 194 Author(s): Palmira Saladié, Antonio Rodríguez-Hidalgo, Francesc Marginedas, Ana Solari, Miguel C. Botella",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326001962?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-10-03T06:44:27.288Z",
+      "source": {
+        "id": "sciencedirect-jas",
+        "name": "Journal of Archaeological Science (ScienceDirect)"
+      },
+      "lang": "en",
+      "region": "iberia",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S030544032600213X?dgcid=rss_sd_all",
+      "title": "Subsistence strategy and the divergent fates of PPNB megasites: Pig intensification as a key to settlement persistence into the seventh millennium BC",
+      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science, Volume 194 Author(s): Nimrod Katzir, Hamoudi Khalaily, Jacob Vardi, Lidar Sapir-Hen",
+      "url": "https://www.sciencedirect.com/science/article/pii/S030544032600213X?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-10-03T06:44:27.287Z",
+      "source": {
+        "id": "sciencedirect-jas",
+        "name": "Journal of Archaeological Science (ScienceDirect)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326002128?dgcid=rss_sd_all",
+      "title": "Black pottery production and distribution in the Late Neolithic Liangzhu Site Complex (2850–2600 BCE) in the Yangzi Delta (China): A multi-scalar ceramic analysis",
+      "summary": "Publication date: October 2026 Source: Journal of Archaeological Science, Volume 194 Author(s): Mi Wang, Minghui Chen, Ningyuan Wang",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326002128?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-10-03T06:44:27.287Z",
+      "source": {
+        "id": "sciencedirect-jas",
+        "name": "Journal of Archaeological Science (ScienceDirect)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "asia"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/pietre-istoriate-ovodda-sardegna-incisioni-preistoriche/",
+      "title": "Sardegna, trova nel campo due enormi pietre incise. Ninfe millenarie? Capolavori antichi, cerchi e spirali, un fitto e armonioso insieme. Interviene la Soprintendenza: “Hanno migliaia d’anni”. Il significato",
+      "summary": "Vanni Sedda sta lavorando in un terreno di sua proprietà quando si trova davanti due grandi pietre istoriate. Sulle superfici compaiono cerchi concentrici, spirali, linee, semicerchi e segni a uncino. La Soprintendenza le ha recuperate: saranno restaurate e studiate a Sassari,…",
+      "url": "https://www.stilearte.it/pietre-istoriate-ovodda-sardegna-incisioni-preistoriche/",
+      "image": null,
+      "publishedAt": "2026-10-03T04:54:54.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "elpais-cultura:https://elpais.com/cultura/2026-10-02/nace-la-red-iberoamericana-de-lenguaje-claro-y-accesible-impulsada-por-la-rae.html",
+      "title": "Nace la Red Iberoamericana de Lenguaje Claro y Accesible, impulsada por la RAE",
+      "summary": "Con una comunidad de 900 millones de personas, el objetivo es promover el derecho de los ciudadanos a recibir una comunicación más transparente por parte de las instituciones",
+      "url": "https://elpais.com/cultura/2026-10-02/nace-la-red-iberoamericana-de-lenguaje-claro-y-accesible-impulsada-por-la-rae.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/R4Q3X7HFONHTLDRUUSMQB55OYE.jpeg?auth=776615bef3b86e6d57dcb623763e5a68a8e119c71f7baf5a33cdd75826bb95d7",
+      "publishedAt": "2026-10-02T15:54:43.000Z",
+      "source": {
+        "id": "elpais-cultura",
+        "name": "El País — Cultura"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "iberiarrak"
+      ]
+    },
+    {
+      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/des-pieces-d-argent-temoignent-de-la-relation-privilegiee-entre-les-anglo-saxons-et-le-pape-au-moyen-age_195171?xtor=RSS-4",
+      "title": "Des pièces d’argent du Moyen Âge révèlent les liens entre le Pape et les Anglo-Saxons",
+      "summary": "Des pièces d’argent frappées en Angleterre prouvent que les pèlerins anglo-saxons avaient le droit d’utiliser leur propre monnaie à Rome, où la monnaie papale était sinon obligatoire.",
+      "url": "https://www.sciencesetavenir.fr/archeo-paleo/des-pieces-d-argent-temoignent-de-la-relation-privilegiee-entre-les-anglo-saxons-et-le-pape-au-moyen-age_195171?xtor=RSS-4",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/02/cover-r4x3w1200-6abedcd7805b3-anglo-saxon-coins-schola-saxonum-palazzo-della-rovere-rome.jpg",
+      "publishedAt": "2026-10-02T11:10:53.000Z",
+      "source": {
+        "id": "sciencesetavenir-archeo",
+        "name": "Sciences et Avenir — Archéo & Paléo"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/roma-abandono-el-limes-germano-hacia-el-260-pero-alguien-siguio-usando-el-lugar-descubren-un-pueblo-romano-con-un-templo-de-marte-bajo-un-bosque-en-alemania",
+      "title": "Roma abandonó el limes germano hacia el 260, pero alguien siguió usando el lugar: descubren un pueblo romano con un templo de Marte bajo un bosque en Alemania",
+      "summary": "A pocos centímetros del suelo del bosque, en las estribaciones orientales del Taunus, queda una parte de la frontera romana que apenas se había mirado. El fuerte de la Kapersburg, cerca de Rosbach vor der Höhe (Hesse, Alemania), es uno de los mejor conservados del limes germano,…",
+      "url": "https://www.labrujulaverde.com/2026/10/roma-abandono-el-limes-germano-hacia-el-260-pero-alguien-siguio-usando-el-lugar-descubren-un-pueblo-romano-con-un-templo-de-marte-bajo-un-bosque-en-alemania",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/dsc_4882.webp",
+      "publishedAt": "2026-10-02T10:42:35.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "erromatarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
+      "title": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
+      "summary": "Artwork created in Tahrir Square for Chinese president’s state visit to Egypt is painted over amid allegations it revived Afrocentric claims about pharaohs’ origins On the eve of the Chinese president Xi Jinping’s state visit to Cairo last month, the city authorities were busy…",
+      "url": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
+      "image": "https://i.guim.co.uk/img/media/2e05ef0996ad329f4722da589aa6914a017e665d/801_256_1316_1053/master/1316.jpg?width=140&quality=85&auto=format&fit=max&s=bd2ab64b03f2e03c20eff6aae404cfdb",
+      "publishedAt": "2026-10-02T08:55:42.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak"
+      ]
     },
     {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26004931?dgcid=rss_sd_all",
@@ -3921,102 +4052,6 @@
       "url": "https://the-past.com/review/books/in-brief-11/",
       "image": null,
       "publishedAt": "2026-07-05T08:00:33.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "guardian-arch:https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
-      "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
-      "summary": "Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activities Archaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western desert. The fourth-century quarters had residential and religious structures,…",
-      "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
-      "image": "https://i.guim.co.uk/img/media/143b8d47a8a54be65405a4fe6d0bb23cf02fe1f2/146_0_716_573/master/716.jpg?width=140&quality=85&auto=format&fit=max&s=8edc3dc6eea3352f53f37e661884deb9",
-      "publishedAt": "2026-07-04T20:32:52.000Z",
-      "source": {
-        "id": "guardian-arch",
-        "name": "The Guardian — Archaeology"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "egiptoarrak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/whats-on/beauty-and-destruction-wartime-london-in-art/",
-      "title": "Beauty and Destruction: wartime London in art",
-      "summary": "Reviewing the best military history exhibitions, with Peter Popham.",
-      "url": "https://the-past.com/review/whats-on/beauty-and-destruction-wartime-london-in-art/",
-      "image": null,
-      "publishedAt": "2026-07-04T17:00:10.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "museoak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/news/cannons-from-the-american-revolution-go-on-display/",
-      "title": "Cannons from the American Revolution go on display",
-      "summary": "A collection of large cannons from the American Revolutionary War has returned to Savannah, Georgia, after several years of conservation work, as part of a project led by the US Army Corps",
-      "url": "https://the-past.com/news/cannons-from-the-american-revolution-go-on-display/",
-      "image": null,
-      "publishedAt": "2026-07-04T09:00:47.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/news/hidden-coins-discovered-beneath-foremast-of-hms-victory/",
-      "title": "Hidden coins discovered beneath foremast of HMS Victory",
-      "summary": "Six coins have been recovered from beneath the foremast of Nelson’s famous flagship during an ongoing conservation project. Over several nights in April, a 750-tonne crane was used to remove the Victory’s",
-      "url": "https://the-past.com/news/hidden-coins-discovered-beneath-foremast-of-hms-victory/",
-      "image": null,
-      "publishedAt": "2026-07-04T08:45:29.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/news/divers-find-wwi-wreck-of-us-coast-guard-cutter/",
-      "title": "Divers find WWI wreck of US Coast Guard cutter",
-      "summary": "A team of divers believe they have identified the wreck of the USCGC Tampa off the English coast. The vessel was one of six United States Coast Guard cutters sent to Europe",
-      "url": "https://the-past.com/news/divers-find-wwi-wreck-of-us-coast-guard-cutter/",
-      "image": null,
-      "publishedAt": "2026-07-04T08:30:02.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/shorts/ideas/war-of-words-doodlebug/",
-      "title": "War of Words – ‘Doodlebug’",
-      "summary": "With Marc DeSantis",
-      "url": "https://the-past.com/shorts/ideas/war-of-words-doodlebug/",
-      "image": null,
-      "publishedAt": "2026-07-04T08:00:16.000Z",
       "source": {
         "id": "current-archaeology",
         "name": "Current Archaeology (UK)"
@@ -8424,6 +8459,23 @@
       "topics": []
     },
     {
+      "id": "current-archaeology:https://the-past.com/news/excavations-at-bucklers-hard-reveal-18th-century-slipway/",
+      "title": "Excavations at Buckler’s Hard reveal 18th-century slipway",
+      "summary": "A second excavation season at Buckler’s Hard, a private ship- building hub on the River Beaulieu, 12 miles (20km) south of Southampton in the New Forest, has fully revealed the wooden slipway",
+      "url": "https://the-past.com/news/excavations-at-bucklers-hard-reveal-18th-century-slipway/",
+      "image": null,
+      "publishedAt": "2026-09-26T10:50:00.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
       "id": "current-archaeology:https://the-past.com/news/no-stone-unturned-recent-finds-at-arthurs-stone/",
       "title": "No stone unturned: recent finds at Arthur’s Stone",
       "summary": "When we last reported from Arthur’s Stone in 2023 (CA 404), it was thought of as an isolated Neolithic monumental site overlooking the Golden Valley in Herefordshire. Now, the Universities of Manchester",
@@ -8794,51 +8846,6 @@
       "title": "Origen y primer desarrollo del fenómeno tumular gallego. Rescatando evidencias en un ocèano de incertidumbres",
       "summary": "",
       "url": "https://raco.cat/index.php/Cypsela/article/view/1500000000003473",
-      "image": null,
-      "publishedAt": "2026-09-22T00:00:00.000Z",
-      "source": {
-        "id": "cypsela",
-        "name": "Cypsela (RACO, Catalunya)"
-      },
-      "lang": "ca",
-      "region": "iberia",
-      "topics": []
-    },
-    {
-      "id": "cypsela:https://raco.cat/index.php/Cypsela/article/view/1500000000003474",
-      "title": "Cistas y menhires: propuestas e incertidumbres sobre las cronologías de inicio del megalitismo en el sur de Portugal",
-      "summary": "",
-      "url": "https://raco.cat/index.php/Cypsela/article/view/1500000000003474",
-      "image": null,
-      "publishedAt": "2026-09-22T00:00:00.000Z",
-      "source": {
-        "id": "cypsela",
-        "name": "Cypsela (RACO, Catalunya)"
-      },
-      "lang": "ca",
-      "region": "iberia",
-      "topics": []
-    },
-    {
-      "id": "cypsela:https://raco.cat/index.php/Cypsela/article/view/1500000000003475",
-      "title": "La necrópolis de Panoria en el contexto de la cronología y temporalidad del megalitismo andaluz",
-      "summary": "",
-      "url": "https://raco.cat/index.php/Cypsela/article/view/1500000000003475",
-      "image": null,
-      "publishedAt": "2026-09-22T00:00:00.000Z",
-      "source": {
-        "id": "cypsela",
-        "name": "Cypsela (RACO, Catalunya)"
-      },
-      "lang": "ca",
-      "region": "iberia",
-      "topics": []
-    },
-    {
-      "id": "cypsela:https://raco.cat/index.php/Cypsela/article/view/1500000000003476",
-      "title": "¿Qué aporta el megalitismo interior a la discusión sobre el origen del megalitismo ibérico?",
-      "summary": "",
-      "url": "https://raco.cat/index.php/Cypsela/article/view/1500000000003476",
       "image": null,
       "publishedAt": "2026-09-22T00:00:00.000Z",
       "source": {
