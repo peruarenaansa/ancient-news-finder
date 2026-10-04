@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T06:45:15.116Z",
+  "generatedAt": "2026-10-04T07:07:37.681Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5234
+      "elapsedMs": 5691
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 631
+      "elapsedMs": 973
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 921
+      "elapsedMs": 1232
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 614
+      "elapsedMs": 1003
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2254
+      "elapsedMs": 3015
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 9,
       "droppedOffTopic": 21,
       "droppedModern": 0,
-      "elapsedMs": 2215
+      "elapsedMs": 3074
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 2,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 930
+      "elapsedMs": 1309
     },
     {
       "id": "labrujulaverde",
@@ -101,7 +101,7 @@
       "kept": 15,
       "droppedOffTopic": 0,
       "droppedModern": 5,
-      "elapsedMs": 1540
+      "elapsedMs": 1724
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 1579
+      "elapsedMs": 1124
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 943
+      "elapsedMs": 1958
     },
     {
       "id": "lemonde-sciences",
@@ -153,7 +153,7 @@
       "kept": 6,
       "droppedOffTopic": 12,
       "droppedModern": 2,
-      "elapsedMs": 1341
+      "elapsedMs": 1033
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -166,7 +166,7 @@
       "kept": 9,
       "droppedOffTopic": 12,
       "droppedModern": 0,
-      "elapsedMs": 1238
+      "elapsedMs": 1179
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +179,7 @@
       "kept": 3,
       "droppedOffTopic": 19,
       "droppedModern": 3,
-      "elapsedMs": 2475
+      "elapsedMs": 3100
     },
     {
       "id": "sudouest-culture",
@@ -189,10 +189,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 0,
-      "droppedOffTopic": 20,
+      "kept": 1,
+      "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 946
+      "elapsedMs": 1308
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1332
+      "elapsedMs": 2228
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 1,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 1821
+      "elapsedMs": 2377
     },
     {
       "id": "stilearte",
@@ -231,7 +231,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 1,
-      "elapsedMs": 2221
+      "elapsedMs": 2358
     },
     {
       "id": "live-science-arch",
@@ -244,7 +244,7 @@
       "kept": 3,
       "droppedOffTopic": 27,
       "droppedModern": 0,
-      "elapsedMs": 2273
+      "elapsedMs": 2726
     },
     {
       "id": "bbc-history",
@@ -254,10 +254,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 1,
-      "droppedOffTopic": 9,
+      "kept": 0,
+      "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1516
+      "elapsedMs": 1613
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +270,7 @@
       "kept": 20,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1504
+      "elapsedMs": 1934
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1541
+      "elapsedMs": 1744
     },
     {
       "id": "guardian-arch",
@@ -294,9 +294,9 @@
       "ok": true,
       "fetched": 20,
       "kept": 8,
-      "droppedOffTopic": 10,
-      "droppedModern": 2,
-      "elapsedMs": 1865
+      "droppedOffTopic": 9,
+      "droppedModern": 3,
+      "elapsedMs": 2064
     },
     {
       "id": "current-archaeology",
@@ -309,7 +309,7 @@
       "kept": 23,
       "droppedOffTopic": 4,
       "droppedModern": 3,
-      "elapsedMs": 1622
+      "elapsedMs": 1807
     },
     {
       "id": "jas-reports",
@@ -322,7 +322,7 @@
       "kept": 7,
       "droppedOffTopic": 3,
       "droppedModern": 20,
-      "elapsedMs": 1560
+      "elapsedMs": 1748
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +335,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1853
+      "elapsedMs": 2094
     },
     {
       "id": "pnas-arch",
@@ -345,10 +345,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 19,
-      "droppedOffTopic": 8,
+      "kept": 18,
+      "droppedOffTopic": 9,
       "droppedModern": 3,
-      "elapsedMs": 2395
+      "elapsedMs": 2856
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +361,7 @@
       "kept": 8,
       "droppedOffTopic": 3,
       "droppedModern": 18,
-      "elapsedMs": 1691
+      "elapsedMs": 1896
     },
     {
       "id": "spal-us",
@@ -371,7 +371,7 @@
       "kind": "research",
       "ok": false,
       "error": "read ECONNRESET",
-      "elapsedMs": 7194
+      "elapsedMs": 7592
     },
     {
       "id": "complutum-ucm",
@@ -384,7 +384,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 3457
+      "elapsedMs": 4070
     },
     {
       "id": "archeoarte",
@@ -394,7 +394,7 @@
       "kind": "research",
       "ok": false,
       "error": "Request timed out after 15000ms",
-      "elapsedMs": 49512
+      "elapsedMs": 49513
     },
     {
       "id": "cypsela",
@@ -404,7 +404,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 6875
+      "elapsedMs": 7432
     },
     {
       "id": "cambridge-antiquity",
@@ -417,7 +417,7 @@
       "kept": 20,
       "droppedOffTopic": 5,
       "droppedModern": 5,
-      "elapsedMs": 2276
+      "elapsedMs": 2756
     },
     {
       "id": "cambridge-caj",
@@ -430,7 +430,7 @@
       "kept": 18,
       "droppedOffTopic": 6,
       "droppedModern": 6,
-      "elapsedMs": 2321
+      "elapsedMs": 2873
     },
     {
       "id": "cambridge-ejarc",
@@ -443,7 +443,7 @@
       "kept": 18,
       "droppedOffTopic": 5,
       "droppedModern": 7,
-      "elapsedMs": 2285
+      "elapsedMs": 2789
     },
     {
       "id": "aquitania-persee",
@@ -456,7 +456,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3059
+      "elapsedMs": 3664
     },
     {
       "id": "cuadernos-arq-unav",
@@ -469,7 +469,7 @@
       "kept": 21,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 3567
+      "elapsedMs": 4500
     },
     {
       "id": "veleia-ehu",
@@ -482,7 +482,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3010
+      "elapsedMs": 3931
     },
     {
       "id": "flv-navarra",
@@ -495,7 +495,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2299
+      "elapsedMs": 2852
     },
     {
       "id": "munibe-aa",
@@ -508,7 +508,7 @@
       "kept": 18,
       "droppedOffTopic": 3,
       "droppedModern": 9,
-      "elapsedMs": 2346
+      "elapsedMs": 2959
     },
     {
       "id": "trabajos-prehistoria",
@@ -521,7 +521,7 @@
       "kept": 23,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 2505
+      "elapsedMs": 3193
     },
     {
       "id": "openalex-archaeology",
@@ -534,7 +534,7 @@
       "kept": 16,
       "droppedOffTopic": 6,
       "droppedModern": 8,
-      "elapsedMs": 2261
+      "elapsedMs": 3157
     }
   ],
   "items": [
@@ -4014,53 +4014,6 @@
       "topics": []
     },
     {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/06/260625060216.htm",
-      "title": "Ancient bees turned tooth sockets into tiny nurseries 20,000 years ago",
-      "summary": "A stunning fossil discovery shows that ancient bees used the empty tooth sockets of mammal bones as tiny nests after owls scattered the bones across a cave floor 20,000 years ago. It's the first known evidence of bees nesting inside animal bones, revealing an astonishingly…",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260625060216.htm",
-      "image": null,
-      "publishedAt": "2026-07-05T19:23:32.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/books/hammer-of-the-gods/",
-      "title": "Hammer of the Gods",
-      "summary": "Don Hollway’s account of the life of the Norse warlord Olaf Tryggvason (king of Norway in the years c.995-1000) covers a period of momentous social and religious change in the lands bordering",
-      "url": "https://the-past.com/review/books/hammer-of-the-gods/",
-      "image": null,
-      "publishedAt": "2026-07-05T09:30:01.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/books/in-brief-11/",
-      "title": "In Brief",
-      "summary": "MHM’s round-up of the latest military history releases.",
-      "url": "https://the-past.com/review/books/in-brief-11/",
-      "image": null,
-      "publishedAt": "2026-07-05T08:00:33.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
       "id": "pnas-arch:https://openalex.org/W7166554937",
       "title": "Late Pleistocene Clovis atlatl hunting fails a chronological modeling test",
       "summary": "Late Pleistocene North American foragers assigned to the Clovis culture have long been assumed to have hunted megafauna with the atlatl, which would have provided several advantages. Yet, we chronologically modeled radiocarbon ages from preserved Holocene atlatls and show that…",
@@ -4779,6 +4732,89 @@
         "erdi-aroa",
         "aurkikuntza"
       ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26005468?dgcid=rss_sd_all",
+      "title": "Catching fire – On cremations in Late Iron Age Åland Islands, Baltic sea",
+      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part A Author(s): Marcus Frid, Jan Storå",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26005468?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-10-04T07:06:49.884Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "sudouest-culture:https://www.sudouest.fr/landes/une-decouverte-inedite-dans-les-landes-des-archeologues-benevoles-mettent-au-jour-une-pirogue-du-xvie-siecle-du-fond-de-l-adour-30871843.php",
+      "title": "« Une découverte inédite » : dans les Landes, des archéologues bénévoles mettent au jour une pirogue du XVIe siècle du fond de l’Adour",
+      "summary": "Une équipe d’archéologues bénévoles a étudié début septembre 2026un chaland monoxyle enchâssé dans la rive l’Adour, au niveau de la commune de Téthieu, près de Dax. Selon l’auteur Gilles Kerloc’h, membre",
+      "url": "https://www.sudouest.fr/landes/une-decouverte-inedite-dans-les-landes-des-archeologues-benevoles-mettent-au-jour-une-pirogue-du-xvie-siecle-du-fond-de-l-adour-30871843.php",
+      "image": null,
+      "publishedAt": "2026-10-04T06:01:00.000Z",
+      "source": {
+        "id": "sudouest-culture",
+        "name": "Sud Ouest — Culture"
+      },
+      "lang": "fr",
+      "region": "basque",
+      "topics": [
+        "amerika",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/brillan-sin-tener-una-sola-estrella-la-via-lactea-se-formo-a-partir-de-un-enjambre-de-miles-de-galaxias",
+      "title": "Brillan sin tener una sola estrella: la Vía Láctea se formó a partir de un enjambre de miles de galaxias",
+      "summary": "Hace mucho, el rincón del universo que acabaría siendo nuestro vecindario galáctico no se parecía a una galaxia. Era una colección de miles de galaxias más pequeñas: unas fabricaban estrellas a un ritmo frenético, otras estaban llenas solo de gas y otras salpicadas de estrellas…",
+      "url": "https://www.labrujulaverde.com/2026/10/brillan-sin-tener-una-sola-estrella-la-via-lactea-se-formo-a-partir-de-un-enjambre-de-miles-de-galaxias",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/milkyway-simulation-screenshot.webp",
+      "publishedAt": "2026-10-03T17:24:00.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/animals/extinct-species/giant-tusks-from-siberia-were-thought-to-be-the-horns-of-the-mythical-unicorn-what-medieval-people-made-of-fossils-before-vertebrate-paleontology",
+      "title": "What medieval people made of fossils before vertebrate paleontology",
+      "summary": "In this excerpt from \"The Story of the Mammals in 25 Discoveries,\" author Donald R. Prothero looks at a time when the idea of extinction was blasphemous.",
+      "url": "https://www.livescience.com/animals/extinct-species/giant-tusks-from-siberia-were-thought-to-be-the-horns-of-the-mythical-unicorn-what-medieval-people-made-of-fossils-before-vertebrate-paleontology",
+      "image": "https://cdn.mos.cms.futurecdn.net/FvpB5VGUMyYEM8jjw3A4RB-1920-80.jpg",
+      "publishedAt": "2026-10-03T11:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "erdi-aroa",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/09/260930020329.htm",
+      "title": "97-million-year-old fossils reveal the earliest known animal “GPS”",
+      "summary": "Mysterious 97-million-year-old magnetic fossils may be the oldest evidence of an animal using Earth’s magnetic field like a built-in GPS. Their sophisticated magnetic structure could have helped an unknown ocean creature navigate thousands of kilometers with surprising precision.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260930020329.htm",
+      "image": null,
+      "publishedAt": "2026-10-02T11:54:34.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
     },
     {
       "id": "openalex-archaeology:https://openalex.org/W7172237329",
@@ -8821,39 +8857,6 @@
       },
       "lang": "fr",
       "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/l-angleterre-preromaine-etait-organisee-autour-de-clans-feminins_194914?xtor=RSS-4",
-      "title": "Des clans féminins dominaient l’Angleterre préromaine",
-      "summary": "Le plus grand arbre généalogique de la préhistoire montre que dans l’Angleterre de l’âge du fer, on respectait les appartenances de clan pour se marier, et, surtout, que ce clan était défini par les femmes.",
-      "url": "https://www.sciencesetavenir.fr/archeo-paleo/l-angleterre-preromaine-etait-organisee-autour-de-clans-feminins_194914?xtor=RSS-4",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/21/cover-r4x3w1200-6ab19db813816-boadicea-daughters-army-kronheim.jpg",
-      "publishedAt": "2026-09-22T11:26:04.000Z",
-      "source": {
-        "id": "sciencesetavenir-archeo",
-        "name": "Sciences et Avenir — Archéo & Paléo"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": [
-        "prehistoria",
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "cypsela:https://raco.cat/index.php/Cypsela/article/view/1500000000003473",
-      "title": "Origen y primer desarrollo del fenómeno tumular gallego. Rescatando evidencias en un ocèano de incertidumbres",
-      "summary": "",
-      "url": "https://raco.cat/index.php/Cypsela/article/view/1500000000003473",
-      "image": null,
-      "publishedAt": "2026-09-22T00:00:00.000Z",
-      "source": {
-        "id": "cypsela",
-        "name": "Cypsela (RACO, Catalunya)"
-      },
-      "lang": "ca",
-      "region": "iberia",
       "topics": []
     }
   ]
