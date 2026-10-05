@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T07:07:37.681Z",
+  "generatedAt": "2026-10-05T07:20:28.606Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5691
+      "elapsedMs": 5860
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 973
+      "elapsedMs": 798
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1232
+      "elapsedMs": 3408
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1003
+      "elapsedMs": 671
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3015
+      "elapsedMs": 3019
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 9,
       "droppedOffTopic": 21,
       "droppedModern": 0,
-      "elapsedMs": 3074
+      "elapsedMs": 3021
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 2,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 1309
+      "elapsedMs": 1354
     },
     {
       "id": "labrujulaverde",
@@ -96,12 +96,9 @@
       "lang": "es",
       "region": "world",
       "kind": "news",
-      "ok": true,
-      "fetched": 20,
-      "kept": 15,
-      "droppedOffTopic": 0,
-      "droppedModern": 5,
-      "elapsedMs": 1724
+      "ok": false,
+      "error": "Status code 415",
+      "elapsedMs": 5876
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +111,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 1124
+      "elapsedMs": 1077
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +124,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1958
+      "elapsedMs": 1558
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +137,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 735
+      "elapsedMs": 892
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +150,7 @@
       "kept": 6,
       "droppedOffTopic": 12,
       "droppedModern": 2,
-      "elapsedMs": 1033
+      "elapsedMs": 1615
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +159,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 21,
+      "fetched": 19,
       "kept": 9,
-      "droppedOffTopic": 12,
+      "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1179
+      "elapsedMs": 899
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +176,7 @@
       "kept": 3,
       "droppedOffTopic": 19,
       "droppedModern": 3,
-      "elapsedMs": 3100
+      "elapsedMs": 3036
     },
     {
       "id": "sudouest-culture",
@@ -192,7 +189,7 @@
       "kept": 1,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1308
+      "elapsedMs": 1698
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +202,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2228
+      "elapsedMs": 1738
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +215,7 @@
       "kept": 1,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 2377
+      "elapsedMs": 2140
     },
     {
       "id": "stilearte",
@@ -231,7 +228,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 1,
-      "elapsedMs": 2358
+      "elapsedMs": 2159
     },
     {
       "id": "live-science-arch",
@@ -241,10 +238,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 3,
-      "droppedOffTopic": 27,
+      "kept": 2,
+      "droppedOffTopic": 28,
       "droppedModern": 0,
-      "elapsedMs": 2726
+      "elapsedMs": 3011
     },
     {
       "id": "bbc-history",
@@ -257,7 +254,7 @@
       "kept": 0,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1613
+      "elapsedMs": 1773
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +267,7 @@
       "kept": 20,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1934
+      "elapsedMs": 1767
     },
     {
       "id": "ancient-origins",
@@ -283,7 +280,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1744
+      "elapsedMs": 1869
     },
     {
       "id": "guardian-arch",
@@ -293,10 +290,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 8,
-      "droppedOffTopic": 9,
+      "kept": 9,
+      "droppedOffTopic": 8,
       "droppedModern": 3,
-      "elapsedMs": 2064
+      "elapsedMs": 2120
     },
     {
       "id": "current-archaeology",
@@ -309,7 +306,7 @@
       "kept": 23,
       "droppedOffTopic": 4,
       "droppedModern": 3,
-      "elapsedMs": 1807
+      "elapsedMs": 1929
     },
     {
       "id": "jas-reports",
@@ -322,7 +319,7 @@
       "kept": 7,
       "droppedOffTopic": 3,
       "droppedModern": 20,
-      "elapsedMs": 1748
+      "elapsedMs": 1864
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +332,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2094
+      "elapsedMs": 2032
     },
     {
       "id": "pnas-arch",
@@ -348,7 +345,7 @@
       "kept": 18,
       "droppedOffTopic": 9,
       "droppedModern": 3,
-      "elapsedMs": 2856
+      "elapsedMs": 2563
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +358,7 @@
       "kept": 8,
       "droppedOffTopic": 3,
       "droppedModern": 18,
-      "elapsedMs": 1896
+      "elapsedMs": 1941
     },
     {
       "id": "spal-us",
@@ -371,7 +368,7 @@
       "kind": "research",
       "ok": false,
       "error": "read ECONNRESET",
-      "elapsedMs": 7592
+      "elapsedMs": 7408
     },
     {
       "id": "complutum-ucm",
@@ -384,7 +381,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 4070
+      "elapsedMs": 4048
     },
     {
       "id": "archeoarte",
@@ -394,7 +391,7 @@
       "kind": "research",
       "ok": false,
       "error": "Request timed out after 15000ms",
-      "elapsedMs": 49513
+      "elapsedMs": 49512
     },
     {
       "id": "cypsela",
@@ -404,7 +401,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 7432
+      "elapsedMs": 7280
     },
     {
       "id": "cambridge-antiquity",
@@ -417,7 +414,7 @@
       "kept": 20,
       "droppedOffTopic": 5,
       "droppedModern": 5,
-      "elapsedMs": 2756
+      "elapsedMs": 2606
     },
     {
       "id": "cambridge-caj",
@@ -430,7 +427,7 @@
       "kept": 18,
       "droppedOffTopic": 6,
       "droppedModern": 6,
-      "elapsedMs": 2873
+      "elapsedMs": 2684
     },
     {
       "id": "cambridge-ejarc",
@@ -443,7 +440,7 @@
       "kept": 18,
       "droppedOffTopic": 5,
       "droppedModern": 7,
-      "elapsedMs": 2789
+      "elapsedMs": 2643
     },
     {
       "id": "aquitania-persee",
@@ -456,7 +453,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3664
+      "elapsedMs": 4321
     },
     {
       "id": "cuadernos-arq-unav",
@@ -469,7 +466,7 @@
       "kept": 21,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 4500
+      "elapsedMs": 4231
     },
     {
       "id": "veleia-ehu",
@@ -482,7 +479,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3931
+      "elapsedMs": 4062
     },
     {
       "id": "flv-navarra",
@@ -495,7 +492,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2852
+      "elapsedMs": 2952
     },
     {
       "id": "munibe-aa",
@@ -508,7 +505,7 @@
       "kept": 18,
       "droppedOffTopic": 3,
       "droppedModern": 9,
-      "elapsedMs": 2959
+      "elapsedMs": 2892
     },
     {
       "id": "trabajos-prehistoria",
@@ -521,7 +518,7 @@
       "kept": 23,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 3193
+      "elapsedMs": 2906
     },
     {
       "id": "openalex-archaeology",
@@ -534,7 +531,7 @@
       "kept": 16,
       "droppedOffTopic": 6,
       "droppedModern": 8,
-      "elapsedMs": 3157
+      "elapsedMs": 3019
     }
   ],
   "items": [
@@ -3981,39 +3978,6 @@
       "topics": []
     },
     {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/06/260626030443.htm",
-      "title": "The Neanderthal “love story” isn’t what the DNA actually shows",
-      "summary": "Claims that Neanderthal men \"preferred\" Homo sapiens women may make for catchy headlines, but the underlying research does not actually show prehistoric romance. The genetic evidence only points to an uneven pattern of DNA inheritance, which could have been shaped by biology,…",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260626030443.htm",
-      "image": null,
-      "publishedAt": "2026-07-07T06:47:40.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria",
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/shorts/people/sir-lawrence-freedman/",
-      "title": "Sir Lawrence Freedman",
-      "summary": "The academic, historian, and author on war stories, shifting interests, and some memorable moments.",
-      "url": "https://the-past.com/shorts/people/sir-lawrence-freedman/",
-      "image": null,
-      "publishedAt": "2026-07-06T15:00:35.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
       "id": "pnas-arch:https://openalex.org/W7166554937",
       "title": "Late Pleistocene Clovis atlatl hunting fails a chronological modeling test",
       "summary": "Late Pleistocene North American foragers assigned to the Clovis culture have long been assumed to have hunted megafauna with the atlatl, which would have provided several advantages. Yet, we chronologically modeled radiocarbon ages from preserved Holocene atlatls and show that…",
@@ -4731,6 +4695,72 @@
       "topics": [
         "erdi-aroa",
         "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sudouest-culture:https://www.sudouest.fr/charente-maritime/a-rochefort-jamel-feraouche-a-lance-sa-formation-de-danse-therapie-pour-utiliser-le-mouvement-comme-outil-therapeutique-30886242.php",
+      "title": "À Rochefort, Jamel Feraouche a lancé sa formation de danse thérapie pour utiliser le mouvement comme outil thérapeutique",
+      "summary": "Danseur, chorégraphe, fondateur et directeur artistique de la compagnie de danse hip-hop Pyramid à Rochefort, Jamel Feraouche a lancé sa formation « Emoova » en danse thérapie. Une méthode qui s’appuie",
+      "url": "https://www.sudouest.fr/charente-maritime/a-rochefort-jamel-feraouche-a-lance-sa-formation-de-danse-therapie-pour-utiliser-le-mouvement-comme-outil-therapeutique-30886242.php",
+      "image": null,
+      "publishedAt": "2026-10-05T06:00:00.000Z",
+      "source": {
+        "id": "sudouest-culture",
+        "name": "Sud Ouest — Culture"
+      },
+      "lang": "fr",
+      "region": "basque",
+      "topics": [
+        "egiptoarrak"
+      ]
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/science/2026/oct/05/skull-fractures-suggest-servants-of-egypts-ancient-kings-were-sacrificed",
+      "title": "Skull fractures suggest servants of Egypt’s ancient kings were sacrificed",
+      "summary": "Study of remains taken from royal cemetery at Umm el-Qa’ab appears to confirm early Egyptologist’s theory Court officials and craftspeople serving early Egyptian kings may have been sacrificed when their ruler died, according to research that found fractures in several ancient…",
+      "url": "https://www.theguardian.com/science/2026/oct/05/skull-fractures-suggest-servants-of-egypts-ancient-kings-were-sacrificed",
+      "image": "https://i.guim.co.uk/img/media/f54f34b47d0deeea19f81320d80840dd69b6d283/0_29_3549_2841/master/3549.jpg?width=140&quality=85&auto=format&fit=max&s=8cb25fa9b80de9cade238955a241ac8f",
+      "publishedAt": "2026-10-05T04:00:48.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/scoperti-liw-urna-tombe-a-campana-denario-commodo/",
+      "title": "Che sorpresa. Va a cercare funghi nel bosco e trova un’urna di 2.400 anni fa e una moneta dell’imperatore Commodo: che cosa è accaduto in quel luogo?",
+      "summary": "La notizia è stata data in queste ore dalla Soprintendenza. Un uomo esce nel bosco con la moglie per cercare funghi. Durante la passeggiata, a qualche metro, sopra il terreno circostante, nota qualcosa fra una massa di sabbia. È un recipiente. Jacek Krynicki comprende che non si…",
+      "url": "https://www.stilearte.it/scoperti-liw-urna-tombe-a-campana-denario-commodo/",
+      "image": null,
+      "publishedAt": "2026-10-04T15:21:47.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/struttura-10500-anni-scoperta-sotto-lago-germania/",
+      "title": "Sotto il lago emerge il mistero di una struttura di 10.500 anni fa. Cosa è stato scoperto a 20 metri di profondita? E perché potrebbe essere una scoperta inedita?",
+      "summary": "A circa 20 metri di profondità, sotto le acque di un lago della Germania settentrionale, gli archeologi hanno trovato qualcosa che potrebbe raccontare una storia sorprendente sulla vita degli uomini della Preistoria. Sono emersi pali e tavole di legno lavorati dall’uomo,…",
+      "url": "https://www.stilearte.it/struttura-10500-anni-scoperta-sotto-lago-germania/",
+      "image": null,
+      "publishedAt": "2026-10-04T14:14:39.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
       ]
     },
     {
@@ -8826,38 +8856,6 @@
         "erdi-aroa",
         "museoak"
       ]
-    },
-    {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/09/260922005715.htm",
-      "title": "Stonehenge’s 6-ton altar stone may have traveled from Scotland by glacier",
-      "summary": "Stonehenge’s six-ton Altar Stone may have been carried from Scotland to Dogger Bank by glaciers before prehistoric people transported it hundreds of kilometers to Salisbury Plain. The possible multistage journey suggests remarkable organization and raises the possibility that…",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260922005715.htm",
-      "image": null,
-      "publishedAt": "2026-09-23T10:26:41.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "inrap-bsky:https://bsky.app/profile/inrap.fr/post/3mw4j6uu7sk2d",
-      "title": "",
-      "summary": "[Émission radio🎙️] Justine Saadi, archéologue à l’Inrap, revient sur la fouille de la mosquée ancienne de Tsingoni à Mayotte, dans l'émission « L'Entretien archéologique » sur @franceculture.fr. Pour écouter l'émission 👉…",
-      "url": "https://bsky.app/profile/inrap.fr/post/3mw4j6uu7sk2d",
-      "image": null,
-      "publishedAt": "2026-09-22T15:11:00.000Z",
-      "source": {
-        "id": "inrap-bsky",
-        "name": "Inrap (Bluesky)"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": []
     }
   ]
 }
