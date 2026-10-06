@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T07:20:28.606Z",
+  "generatedAt": "2026-10-06T07:46:54.228Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5860
+      "elapsedMs": 5443
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 798
+      "elapsedMs": 985
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3408
+      "elapsedMs": 1168
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 671
+      "elapsedMs": 817
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3019
+      "elapsedMs": 2707
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 9,
       "droppedOffTopic": 21,
       "droppedModern": 0,
-      "elapsedMs": 3021
+      "elapsedMs": 2791
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 2,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 1354
+      "elapsedMs": 1171
     },
     {
       "id": "labrujulaverde",
@@ -96,9 +96,12 @@
       "lang": "es",
       "region": "world",
       "kind": "news",
-      "ok": false,
-      "error": "Status code 415",
-      "elapsedMs": 5876
+      "ok": true,
+      "fetched": 20,
+      "kept": 15,
+      "droppedOffTopic": 0,
+      "droppedModern": 5,
+      "elapsedMs": 1844
     },
     {
       "id": "desperta-ferro",
@@ -111,7 +114,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 1077
+      "elapsedMs": 1214
     },
     {
       "id": "elpais-cultura",
@@ -121,10 +124,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1558
+      "elapsedMs": 1662
     },
     {
       "id": "lemonde-sciences",
@@ -137,7 +140,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 892
+      "elapsedMs": 992
     },
     {
       "id": "lemonde-archeo",
@@ -150,7 +153,7 @@
       "kept": 6,
       "droppedOffTopic": 12,
       "droppedModern": 2,
-      "elapsedMs": 1615
+      "elapsedMs": 1800
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -159,11 +162,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 19,
+      "fetched": 18,
       "kept": 9,
-      "droppedOffTopic": 10,
+      "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 899
+      "elapsedMs": 1423
     },
     {
       "id": "inrap-bsky",
@@ -173,10 +176,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 25,
-      "kept": 3,
-      "droppedOffTopic": 19,
+      "kept": 4,
+      "droppedOffTopic": 18,
       "droppedModern": 3,
-      "elapsedMs": 3036
+      "elapsedMs": 2817
     },
     {
       "id": "sudouest-culture",
@@ -186,10 +189,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 1,
-      "droppedOffTopic": 19,
+      "kept": 0,
+      "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1698
+      "elapsedMs": 1349
     },
     {
       "id": "corriere-cultura",
@@ -202,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1738
+      "elapsedMs": 1919
     },
     {
       "id": "archeologiaviva",
@@ -212,10 +215,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 1,
+      "kept": 2,
       "droppedOffTopic": 0,
-      "droppedModern": 9,
-      "elapsedMs": 2140
+      "droppedModern": 8,
+      "elapsedMs": 2420
     },
     {
       "id": "stilearte",
@@ -228,7 +231,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 1,
-      "elapsedMs": 2159
+      "elapsedMs": 2450
     },
     {
       "id": "live-science-arch",
@@ -241,7 +244,7 @@
       "kept": 2,
       "droppedOffTopic": 28,
       "droppedModern": 0,
-      "elapsedMs": 3011
+      "elapsedMs": 2505
     },
     {
       "id": "bbc-history",
@@ -254,7 +257,7 @@
       "kept": 0,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1773
+      "elapsedMs": 1684
     },
     {
       "id": "sciencedaily-arch",
@@ -267,7 +270,7 @@
       "kept": 20,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1767
+      "elapsedMs": 1867
     },
     {
       "id": "ancient-origins",
@@ -280,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1869
+      "elapsedMs": 1826
     },
     {
       "id": "guardian-arch",
@@ -293,7 +296,7 @@
       "kept": 9,
       "droppedOffTopic": 8,
       "droppedModern": 3,
-      "elapsedMs": 2120
+      "elapsedMs": 2032
     },
     {
       "id": "current-archaeology",
@@ -306,7 +309,7 @@
       "kept": 23,
       "droppedOffTopic": 4,
       "droppedModern": 3,
-      "elapsedMs": 1929
+      "elapsedMs": 1844
     },
     {
       "id": "jas-reports",
@@ -319,7 +322,7 @@
       "kept": 7,
       "droppedOffTopic": 3,
       "droppedModern": 20,
-      "elapsedMs": 1864
+      "elapsedMs": 1738
     },
     {
       "id": "plos-one-arch",
@@ -329,10 +332,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 0,
-      "droppedOffTopic": 30,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2032
+      "elapsedMs": 1895
     },
     {
       "id": "pnas-arch",
@@ -345,7 +348,7 @@
       "kept": 18,
       "droppedOffTopic": 9,
       "droppedModern": 3,
-      "elapsedMs": 2563
+      "elapsedMs": 2848
     },
     {
       "id": "sciencedirect-jas",
@@ -358,7 +361,7 @@
       "kept": 8,
       "droppedOffTopic": 3,
       "droppedModern": 18,
-      "elapsedMs": 1941
+      "elapsedMs": 1723
     },
     {
       "id": "spal-us",
@@ -367,8 +370,8 @@
       "region": "iberia",
       "kind": "research",
       "ok": false,
-      "error": "read ECONNRESET",
-      "elapsedMs": 7408
+      "error": "Status code 404",
+      "elapsedMs": 7906
     },
     {
       "id": "complutum-ucm",
@@ -381,7 +384,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 4048
+      "elapsedMs": 4002
     },
     {
       "id": "archeoarte",
@@ -391,7 +394,7 @@
       "kind": "research",
       "ok": false,
       "error": "Request timed out after 15000ms",
-      "elapsedMs": 49512
+      "elapsedMs": 49513
     },
     {
       "id": "cypsela",
@@ -401,7 +404,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 7280
+      "elapsedMs": 7301
     },
     {
       "id": "cambridge-antiquity",
@@ -414,7 +417,7 @@
       "kept": 20,
       "droppedOffTopic": 5,
       "droppedModern": 5,
-      "elapsedMs": 2606
+      "elapsedMs": 2688
     },
     {
       "id": "cambridge-caj",
@@ -427,7 +430,7 @@
       "kept": 18,
       "droppedOffTopic": 6,
       "droppedModern": 6,
-      "elapsedMs": 2684
+      "elapsedMs": 2711
     },
     {
       "id": "cambridge-ejarc",
@@ -440,7 +443,7 @@
       "kept": 18,
       "droppedOffTopic": 5,
       "droppedModern": 7,
-      "elapsedMs": 2643
+      "elapsedMs": 2795
     },
     {
       "id": "aquitania-persee",
@@ -453,7 +456,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 4321
+      "elapsedMs": 3546
     },
     {
       "id": "cuadernos-arq-unav",
@@ -466,7 +469,7 @@
       "kept": 21,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 4231
+      "elapsedMs": 3552
     },
     {
       "id": "veleia-ehu",
@@ -479,7 +482,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 4062
+      "elapsedMs": 3635
     },
     {
       "id": "flv-navarra",
@@ -492,7 +495,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2952
+      "elapsedMs": 2774
     },
     {
       "id": "munibe-aa",
@@ -505,7 +508,7 @@
       "kept": 18,
       "droppedOffTopic": 3,
       "droppedModern": 9,
-      "elapsedMs": 2892
+      "elapsedMs": 2802
     },
     {
       "id": "trabajos-prehistoria",
@@ -518,7 +521,7 @@
       "kept": 23,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 2906
+      "elapsedMs": 2903
     },
     {
       "id": "openalex-archaeology",
@@ -531,7 +534,7 @@
       "kept": 16,
       "droppedOffTopic": 6,
       "droppedModern": 8,
-      "elapsedMs": 3019
+      "elapsedMs": 2758
     }
   ],
   "items": [
@@ -3963,21 +3966,6 @@
       "topics": []
     },
     {
-      "id": "current-archaeology:https://the-past.com/shorts/letters/mhm-153-letters-june/",
-      "title": "MHM 153 Letters – June",
-      "summary": "Your thoughts on issues raised by the magazine.",
-      "url": "https://the-past.com/shorts/letters/mhm-153-letters-june/",
-      "image": null,
-      "publishedAt": "2026-07-07T15:00:25.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
       "id": "pnas-arch:https://openalex.org/W7166554937",
       "title": "Late Pleistocene Clovis atlatl hunting fails a chronological modeling test",
       "summary": "Late Pleistocene North American foragers assigned to the Clovis culture have long been assumed to have hunted megafauna with the atlatl, which would have provided several advantages. Yet, we chronologically modeled radiocarbon ages from preserved Holocene atlatls and show that…",
@@ -4698,6 +4686,182 @@
       ]
     },
     {
+      "id": "stilearte:https://www.stilearte.it/guerriero-2600-anni-rasnica-macedonia-del-nord/",
+      "title": "Scoperta tomba di guerriero di 2.600 anni con armi e oro. La cultura delle maschere preziose? Perché quelle lastra auree? Possibili contatti con gli Etruschi?",
+      "summary": "Macedonia del Nord, nella necropoli di Rasnica emerge una sepoltura arcaica con elmo, scudo, spada, lance e una sottile lamina d’oro.La scoperta, vicino a Koroshishta e a pochi chilometri da Trebeništa, aggiunge nuovi elementi alla conoscenza delle élite attive nel VI secolo…",
+      "url": "https://www.stilearte.it/guerriero-2600-anni-rasnica-macedonia-del-nord/",
+      "image": null,
+      "publishedAt": "2026-10-06T07:28:58.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/ancient-egyptians/ancient-egyptians-sacrificed-pharaohs-servants-so-they-could-continue-to-serve-their-king-in-the-afterlife-new-study-finds",
+      "title": "Ancient Egyptians sacrificed pharaohs' servants so they could continue to serve their king in the afterlife, new study finds",
+      "summary": "The ancient Egyptians practiced human sacrifice around 5,000 years ago, a new study finds.",
+      "url": "https://www.livescience.com/archaeology/ancient-egyptians/ancient-egyptians-sacrificed-pharaohs-servants-so-they-could-continue-to-serve-their-king-in-the-afterlife-new-study-finds",
+      "image": "https://cdn.mos.cms.futurecdn.net/32rvJwtPEr6BC5C3Bk2n9C-1920-80.jpg",
+      "publishedAt": "2026-10-05T16:40:38.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "egiptoarrak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/15-tablillas-de-ur-mencionan-lugares-desconocidos-la-finca-de-una-princesa-y-un-poblado-habitado-por-prisioneros-de-guerra",
+      "title": "15 tablillas de Ur mencionan lugares desconocidos, la finca de una princesa, y un poblado habitado por prisioneros de guerra",
+      "summary": "Cada una de estas tablillas cabe en la palma de una mano (la más pequeña mide poco más de tres centímetros y la mayor, 11,5) y casi todas hablan de lo menos glamuroso que puede guardar un museo: cuentas de cebada, jornales, medidas de zanjas. Leídas en conjunto, sin embargo,…",
+      "url": "https://www.labrujulaverde.com/2026/10/15-tablillas-de-ur-mencionan-lugares-desconocidos-la-finca-de-una-princesa-y-un-poblado-habitado-por-prisioneros-de-guerra",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/urn-cambridge.org-id-binary-alt-20261002041637-96725-optimisedImage-png-labrujulaverde.com-S0021088926100588_fig13.jpg.webp",
+      "publishedAt": "2026-10-05T15:50:13.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "amerika",
+        "museoak"
+      ]
+    },
+    {
+      "id": "inrap-bsky:https://bsky.app/profile/inrap.fr/post/3mx57q7ij7k22",
+      "title": "",
+      "summary": "[Magazine] Les sciences de l'archéologie 🏺 Découvrez les différentes disciplines et méthodes scientifiques mobilisées en archéologie pour étudier les sites, leur environnement ainsi que leur évolution dans le temps. À lire ici 👉…",
+      "url": "https://bsky.app/profile/inrap.fr/post/3mx57q7ij7k22",
+      "image": null,
+      "publishedAt": "2026-10-05T15:20:00.000Z",
+      "source": {
+        "id": "inrap-bsky",
+        "name": "Inrap (Bluesky)"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359559",
+      "title": "Oral microbiome signatures of ageing and cognitive function across distinct geographical cohorts",
+      "summary": "by Joanna E. L’Heureux, Bart Roelands, Lee Wylie, Romain Meeusen, Andrew M. Jones, Anni Vanhatalo Declining cognitive function in older adults may be linked to reduced nitric oxide (NO) bioavailability, which is supported by oral nitrate-reducing bacteria. Oral microbiome…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359559",
+      "image": null,
+      "publishedAt": "2026-10-05T14:00:00.000Z",
+      "source": {
+        "id": "plos-one-arch",
+        "name": "PLOS ONE — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/la-paradoja-de-zenon-llega-a-la-cosmologia-el-confinamiento-cosmico-que-explica-uno-de-los-mayores-misterios-del-universo",
+      "title": "La paradoja de Zenón llega a la cosmología: el «confinamiento cósmico» que explica uno de los mayores misterios del Universo",
+      "summary": "Hay una pregunta incómoda que acompaña a los físicos desde hace décadas: si el universo está hecho de campos invisibles, ¿por qué cada uno se ha quedado en el estado en que lo encontramos y no en otro? Un equipo de la Universidad de Portsmouth, con colaboradores de la…",
+      "url": "https://www.labrujulaverde.com/2026/10/la-paradoja-de-zenon-llega-a-la-cosmologia-el-confinamiento-cosmico-que-explica-uno-de-los-mayores-misterios-del-universo",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/David-Wands-paper_edited_0-2.jpg.webp",
+      "publishedAt": "2026-10-05T11:57:14.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/tomba-albisheim-eta-del-bronzo-oggetto-oro/",
+      "title": "Indagini sulla tomba di 3.000 anni fa: sotto una ciotola di bronzo c’è un misterioso oggetto d’oro. Si cerca una relazione tra i diversi oggetti del corredo. Chi era il defunto? Dove hanno trovato la sua tomba?",
+      "summary": "Sotto una ciotola di bronzo, nella sepoltura di una persona appartenente a un livello sociale evidentemente elevato, gli archeologi hanno trovato un oggetto d’oro che ancora oggi resiste a una classificazione definitiva. La scoperta è avvenuta ad Albisheim, nel Donnersbergkreis,…",
+      "url": "https://www.stilearte.it/tomba-albisheim-eta-del-bronzo-oggetto-oro/",
+      "image": null,
+      "publishedAt": "2026-10-05T11:06:46.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/selinunte-citta-morte-traiano-archeologia-tombe-tempio/",
+      "title": "Selinunte, si cerca il punto in cui morì misteriosamente Traiano. Scoperte tombe, mura. Il mistero della pira dell’imperatore. La “truffa” della successione. La notizia, l’approfondimento",
+      "summary": "Tra le montagne della Cilicia, a Gazipaşa, gli archeologi stanno ricostruendo con droni, rilievi satellitari, epigrafia e misurazioni di precisione la città nella quale l’imperatore Traiano morì nell’agosto del 117 d.C.Le nuove ricognizioni si concentrano sulle tombe,…",
+      "url": "https://www.stilearte.it/selinunte-citta-morte-traiano-archeologia-tombe-tempio/",
+      "image": null,
+      "publishedAt": "2026-10-05T09:56:16.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/egipto-sacrificaba-a-sus-sirvientes-para-enterrarlos-con-el-rey-la-ciencia-forense-demuestra-lo-que-hasta-ahora-solo-era-una-sospecha",
+      "title": "Egipto sacrificaba a sus sirvientes para enterrarlos con el rey: la ciencia forense demuestra lo que hasta ahora solo era una sospecha",
+      "summary": "Hace unos cinco mil años, cuando la escritura daba sus primeros pasos y Egipto acababa de unificarse bajo un solo rey, los primeros faraones eligieron un rincón del desierto de Abidos, en el Alto Egipto, para su descanso eterno. El lugar se conoce como Umm el-Qaab, que en árabe…",
+      "url": "https://www.labrujulaverde.com/2026/10/egipto-sacrificaba-a-sus-sirvientes-para-enterrarlos-con-el-rey-la-ciencia-forense-demuestra-lo-que-hasta-ahora-solo-era-una-sospecha",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/Umm_el-Qaab.webp",
+      "publishedAt": "2026-10-05T09:14:36.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "egiptoarrak"
+      ]
+    },
+    {
+      "id": "archeologiaviva:https://www.archeologiaviva.it/25933/dal-lago-di-mezzano-riemerge-una-spada-delleta-del-bronzo/",
+      "title": "Lago di Mezzano: “riemerge” una spada dell’età del Bronzo",
+      "summary": "5 ottobre 2026 Si è conclusa con un rinvenimento eccezionale la campagna di ricerche condotta nel contesto palafitticolo del lago di Mezzano (Vt): una spada in bronzo databile al XIII sec. a.C. La scoperta, di straordinario interesse scientifico, rappresenta uno dei risultati…",
+      "url": "https://www.archeologiaviva.it/25933/dal-lago-di-mezzano-riemerge-una-spada-delleta-del-bronzo/",
+      "image": "https://www.archeologiaviva.it/wp-content/uploads/2026/10/5.jpg",
+      "publishedAt": "2026-10-05T08:52:31.000Z",
+      "source": {
+        "id": "archeologiaviva",
+        "name": "Archeologia Viva"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/descubren-en-aquinum-un-cipo-con-la-imagen-del-sacrificio-mas-solemne-de-roma-un-altar-dedicado-por-un-seviro-augustal-y-un-rayo-enterrado",
+      "title": "Descubren en Aquinum un cipo con la imagen del sacrificio más solemne de Roma, un altar dedicado por un seviro augustal y un rayo enterrado",
+      "summary": "Un buey, un carnero y un cerdo, rodeados de guirnaldas, festones y cráneos de buey esculpidos, comparten una misma piedra que acabó sirviendo de pavimento en uno de los cruces principales de la antigua Aquinum. Es una de las dos piezas que los arqueólogos de la Universidad del…",
+      "url": "https://www.labrujulaverde.com/2026/10/descubren-en-aquinum-un-cipo-con-la-imagen-del-sacrificio-mas-solemne-de-roma-un-altar-dedicado-por-un-seviro-augustal-y-un-rayo-enterrado",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/aHR0cHM6Ly93d3cuY29ycmllcmVzYWxlbnRpbm8uaXQvd3AtY29udGVudC91cGxvYWRzLzIwMjYvMTAvM-labrujulaverde.com-DlfQU5URVJPU18wMS5wbmc.webp",
+      "publishedAt": "2026-10-05T07:52:08.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
       "id": "sudouest-culture:https://www.sudouest.fr/charente-maritime/a-rochefort-jamel-feraouche-a-lance-sa-formation-de-danse-therapie-pour-utiliser-le-mouvement-comme-outil-therapeutique-30886242.php",
       "title": "À Rochefort, Jamel Feraouche a lancé sa formation de danse thérapie pour utiliser le mouvement comme outil thérapeutique",
       "summary": "Danseur, chorégraphe, fondateur et directeur artistique de la compagnie de danse hip-hop Pyramid à Rochefort, Jamel Feraouche a lancé sa formation « Emoova » en danse thérapie. Une méthode qui s’appuie",
@@ -4762,6 +4926,38 @@
       "topics": [
         "prehistoria"
       ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/trajano-murio-en-un-pequeno-puerto-cilicio-en-el-ano-117-una-nueva-prospeccion-busca-sus-huellas",
+      "title": "Trajano murió en un pequeño puerto cilicio en el año 117: una nueva prospección busca sus huellas",
+      "summary": "En agosto del año 117, un barco con el emperador de Roma a bordo tuvo que acercarse a la costa de Cilicia porque el pasajero estaba demasiado enfermo para seguir. Se llamaba Trajano, llevaba diecinueve años gobernando el mayor imperio de su tiempo y había nacido en Itálica,…",
+      "url": "https://www.labrujulaverde.com/2026/10/trajano-murio-en-un-pequeno-puerto-cilicio-en-el-ano-117-una-nueva-prospeccion-busca-sus-huellas",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/Kenotaph_traian.webp",
+      "publishedAt": "2026-10-04T13:43:43.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/el-menu-de-los-banquetes-de-la-elite-de-la-edad-del-hierro-en-salamanca-hace-2600-anos-asi-comian-en-uno-de-los-primeros-pueblos-que-existieron-en-la-meseta",
+      "title": "El menú de los banquetes de la élite de la Edad del Hierro en Salamanca hace 2.600 años: así comían en uno de los primeros pueblos que existieron en la meseta",
+      "summary": "Más de 5.000 huesos rescatados de los basureros de un barrio del Cerro de San Vicente, en Salamanca, permiten reconstruir cómo comía hace unos 2.600 años un grupo familiar acomodado. Según un estudio publicado en Archaeological and Anthropological Sciences, los animales jóvenes,…",
+      "url": "https://www.labrujulaverde.com/2026/10/el-menu-de-los-banquetes-de-la-elite-de-la-edad-del-hierro-en-salamanca-hace-2600-anos-asi-comian-en-uno-de-los-primeros-pueblos-que-existieron-en-la-meseta",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/urn-cambridge.org-id-binary-alt-20241108155808-49097-labrujulaverde.com-optimisedImage-png-S0003598X23000960_fig2.jpg.webp",
+      "publishedAt": "2026-10-04T09:21:40.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
     },
     {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26005468?dgcid=rss_sd_all",
@@ -8654,207 +8850,6 @@
       "region": "world",
       "topics": [
         "erromatarrak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/news-in-brief/uk-news-in-brief-34/",
-      "title": "UK news in brief",
-      "summary": "Sculpting southern Scotland A new project, coordinated by Dr Christina Cowart-Smith and funded by the Society of Antiquaries of Scotland, is set to start this autumn with the aim of documenting around",
-      "url": "https://the-past.com/news-in-brief/uk-news-in-brief-34/",
-      "image": null,
-      "publishedAt": "2026-09-26T08:00:36.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/descubren-en-el-oasis-de-dajla-en-egipto-una-tumba-de-una-familia-romana-con-forma-de-piramide-y-un-poema-griego-dentro",
-      "title": "Descubren en el oasis de Dajla en Egipto una tumba de una familia romana con forma de pirámide y un poema griego dentro",
-      "summary": "El Ministerio de Turismo y Antigüedades egipcio ha anunciado el hallazgo de una tumba de época romana con una arquitectura que, según el propio Consejo Supremo de Antigüedades, no tiene paralelo exacto en el resto de la necrópolis donde apareció. Se encuentra en Bir El-Shaghala,…",
-      "url": "https://www.labrujulaverde.com/2026/09/descubren-en-el-oasis-de-dajla-en-egipto-una-tumba-de-una-familia-romana-con-forma-de-piramide-y-un-poema-griego-dentro",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/819861645_1509152537912954_6990194141752334381_n.webp",
-      "publishedAt": "2026-09-25T15:57:10.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "erromatarrak",
-        "egiptoarrak",
-        "greziarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "aranzadi-bsky:https://bsky.app/profile/aranzadi.bsky.social/post/3mwe2dudjgu2p",
-      "title": "",
-      "summary": "🏛️ Abian da nazioarteko ikastaroa! 400 lagun baino gehiago bildu dira Iruñean, “Irulegitik Pompelora. Hiri baten sustraiak” ikastaroan. Bart hasi eta lau egunez, Pompeloren sorrera eta erromatarren etorrera dituzte hizpide. #Aranzadi #Irulegi #Pompelo #Nazioartekoikastaroa",
-      "url": "https://bsky.app/profile/aranzadi.bsky.social/post/3mwe2dudjgu2p",
-      "image": null,
-      "publishedAt": "2026-09-25T15:07:00.000Z",
-      "source": {
-        "id": "aranzadi-bsky",
-        "name": "Aranzadi (Bluesky)"
-      },
-      "lang": "eu",
-      "region": "basque",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "guardian-arch:https://www.theguardian.com/environment/2026/sep/25/country-diary-never-mind-the-bayeux-this-is-where-the-battle-of-stamford-bridge-took-place-960-years-ago-today",
-      "title": "Country diary: Before Hastings was the Battle of Stamford Bridge. And it happened right here, 960 years ago today | Amy-Jane Beer",
-      "summary": "Low Catton, East Yorkshire: It was King Harold’s last taste of victory. How chilling it is to visit this unassuming spot and imagine the bloody scene back in 1066 The field with freshly sprouted winter wheat sloping down to the River Derwent looks ordinary; however, today feels…",
-      "url": "https://www.theguardian.com/environment/2026/sep/25/country-diary-never-mind-the-bayeux-this-is-where-the-battle-of-stamford-bridge-took-place-960-years-ago-today",
-      "image": "https://i.guim.co.uk/img/media/7181140d099f2f7f44001b245d5d263880f75321/252_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=a9f961836b30cb07c27a331b89a24c8a",
-      "publishedAt": "2026-09-25T04:30:39.000Z",
-      "source": {
-        "id": "guardian-arch",
-        "name": "The Guardian — Archaeology"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/09/260922005709.htm",
-      "title": "A broken rib from the world’s largest T. rex hid a 66-million-year-old secret",
-      "summary": "A broken rib from Scotty, the largest known T. rex skeleton, contains an extraordinary fossilized network of blood vessels formed while the dinosaur was healing. Scientists used neutron and X-ray imaging to look inside the 66-million-year-old bone without damaging it, revealing…",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260922005709.htm",
-      "image": null,
-      "publishedAt": "2026-09-24T02:20:36.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "cambridge-antiquity:https://openalex.org/W7214111518",
-      "title": "Miseeda: between kingdoms, through epochs—reconstructing a history of the Mahas region (Sudan)",
-      "summary": "The Good Shepherd of Miseeda project investigates remains in a section of the Mahas region in northern Sudan. Centred on a church built around an ancient petroglyph, integrated archaeological survey and ethnographic research trace millennia of cultural interaction, continuity…",
-      "url": "https://doi.org/10.15184/aqy.2026.10427",
-      "image": null,
-      "publishedAt": "2026-09-24T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-antiquity",
-        "name": "Antiquity (Cambridge)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "cambridge-antiquity:https://openalex.org/W7214122005",
-      "title": "Painted Teotihuacan glyphs of Cave 19, Chalcatzingo, Morelos, Mexico",
-      "summary": "The Mexican archaeological site of Chalcatzingo is best known as a Formative centre, famed for its extensive Olmec-style iconography ( c . 900–500 BC). Yet, recent investigations at Cave 19 on the western face of Cerro Delgado provide evidence of continued ritual use into the…",
-      "url": "https://doi.org/10.15184/aqy.2026.10425",
-      "image": null,
-      "publishedAt": "2026-09-24T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-antiquity",
-        "name": "Antiquity (Cambridge)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "amerika"
-      ]
-    },
-    {
-      "id": "cambridge-ejarc:https://openalex.org/W7214164500",
-      "title": "Agostino Sotgia. The Agro-pastoral Exploitation of Pre-Etruscan Southern Etruria: GIS land evaluation models for the Final Bronze and Early Iron Ages (BAR International Series 3180, Oxford: BAR Publishing, 2024, 216pp., 99 illustrations, pbk, ISBN 9781407361796).",
-      "summary": "Agostino Sotgia. The Agro-pastoral Exploitation of Pre-Etruscan Southern Etruria: GIS land evaluation models for the Final Bronze and Early Iron Ages (BAR International Series 3180, Oxford: BAR Publishing, 2024, 216pp., 99 illustrations, pbk, ISBN 9781407361796).",
-      "url": "https://doi.org/10.1017/eaa.2025.10024",
-      "image": null,
-      "publishedAt": "2026-09-24T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-ejarc",
-        "name": "European Journal of Archaeology"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "cambridge-ejarc:https://openalex.org/W7214204515",
-      "title": "An Inter-Civilizational Bronze Age System: International Relations, Diplomacy, and Narrative Sociability, 1700–1200 bc",
-      "summary": "Previous attempts at explaining how geographically distant and disparate Bronze Age polities, like the chiefdoms of northern Europe and the urban states of the Mediterranean, were connected have focused on exchange networks. By combining insights from political science with…",
-      "url": "https://doi.org/10.1017/eaa.2026.10036",
-      "image": null,
-      "publishedAt": "2026-09-24T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-ejarc",
-        "name": "European Journal of Archaeology"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/archeologie/decouverte-a-paris-d-un-vestige-revelant-les-origines-gauloises-de-la-capitale_195048?xtor=RSS-4",
-      "title": "Découverte à Paris d'un vestige révélant les origines gauloises de la capitale",
-      "summary": "Un rempart vieux de plus de 2.000 ans a été découvert sous l’Hôtel-Dieu, sur l’île de la Cité. Cette enceinte de pierre et de bois pourrait apporter la première preuve archéologique que la Lutèce gauloise se trouvait bien au cœur de Paris, avant la conquête romaine.",
-      "url": "https://www.sciencesetavenir.fr/archeo-paleo/archeologie/decouverte-a-paris-d-un-vestige-revelant-les-origines-gauloises-de-la-capitale_195048?xtor=RSS-4",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/23/cover-r4x3w1200-6ab3f1e574ea2-d642328f80c68c8e4fc5b92d81bc763471c923dd-jpg.jpg",
-      "publishedAt": "2026-09-23T15:36:05.000Z",
-      "source": {
-        "id": "sciencesetavenir-archeo",
-        "name": "Sciences et Avenir — Archéo & Paléo"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": [
-        "erromatarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/en-pologne-la-tombe-d-une-jeune-fille-consideree-comme-une-vampire-intrigue-les-archeologues_195045?xtor=RSS-4",
-      "title": "Démon, vampire… la tombe d’une jeune Polonaise intrigue les archéologues",
-      "summary": "Qu’a bien pu faire une jeune fille de moins de 20 ans pour être enterrée dans un cimetière de proscrits, avec de multiples précautions pour l’empêcher de revenir nuire aux vivants ?",
-      "url": "https://www.sciencesetavenir.fr/archeo-paleo/en-pologne-la-tombe-d-une-jeune-fille-consideree-comme-une-vampire-intrigue-les-archeologues_195045?xtor=RSS-4",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/23/cover-r4x3w1200-6ab3bf127d10e-vampire-faucille-pien-pologne.jpg",
-      "publishedAt": "2026-09-23T13:13:20.000Z",
-      "source": {
-        "id": "sciencesetavenir-archeo",
-        "name": "Sciences et Avenir — Archéo & Paléo"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/09/260922005805.htm",
-      "title": "Why Viking museums still can’t escape the warrior myth",
-      "summary": "Scandinavian museums are trying to move beyond the familiar image of Vikings as sword-wielding male warriors, highlighting women, farmers, traders, and a far more complicated society. But the enduring popularity of the Viking myth means exhibitions often balance historical…",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260922005805.htm",
-      "image": null,
-      "publishedAt": "2026-09-23T10:58:43.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "erdi-aroa",
-        "museoak"
       ]
     }
   ]
