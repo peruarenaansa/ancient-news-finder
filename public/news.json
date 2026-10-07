@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T07:46:54.228Z",
+  "generatedAt": "2026-10-07T07:26:50.401Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5443
+      "elapsedMs": 5622
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 985
+      "elapsedMs": 954
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1168
+      "elapsedMs": 3361
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 817
+      "elapsedMs": 826
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2707
+      "elapsedMs": 2728
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 9,
       "droppedOffTopic": 21,
       "droppedModern": 0,
-      "elapsedMs": 2791
+      "elapsedMs": 2746
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 2,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 1171
+      "elapsedMs": 1018
     },
     {
       "id": "labrujulaverde",
@@ -98,10 +98,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 15,
+      "kept": 16,
       "droppedOffTopic": 0,
-      "droppedModern": 5,
-      "elapsedMs": 1844
+      "droppedModern": 4,
+      "elapsedMs": 1862
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 1214
+      "elapsedMs": 1047
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1662
+      "elapsedMs": 1202
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 992
+      "elapsedMs": 784
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 6,
       "droppedOffTopic": 12,
       "droppedModern": 2,
-      "elapsedMs": 1800
+      "elapsedMs": 1274
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -163,10 +163,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 18,
-      "kept": 9,
-      "droppedOffTopic": 9,
+      "kept": 10,
+      "droppedOffTopic": 8,
       "droppedModern": 0,
-      "elapsedMs": 1423
+      "elapsedMs": 881
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +179,7 @@
       "kept": 4,
       "droppedOffTopic": 18,
       "droppedModern": 3,
-      "elapsedMs": 2817
+      "elapsedMs": 2797
     },
     {
       "id": "sudouest-culture",
@@ -189,10 +189,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 0,
-      "droppedOffTopic": 20,
+      "kept": 1,
+      "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1349
+      "elapsedMs": 1145
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1919
+      "elapsedMs": 1736
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 2,
       "droppedOffTopic": 0,
       "droppedModern": 8,
-      "elapsedMs": 2420
+      "elapsedMs": 2073
     },
     {
       "id": "stilearte",
@@ -228,10 +228,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 8,
+      "kept": 9,
       "droppedOffTopic": 1,
-      "droppedModern": 1,
-      "elapsedMs": 2450
+      "droppedModern": 0,
+      "elapsedMs": 2096
     },
     {
       "id": "live-science-arch",
@@ -241,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 2,
-      "droppedOffTopic": 28,
+      "kept": 3,
+      "droppedOffTopic": 27,
       "droppedModern": 0,
-      "elapsedMs": 2505
+      "elapsedMs": 2711
     },
     {
       "id": "bbc-history",
@@ -257,7 +257,7 @@
       "kept": 0,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1684
+      "elapsedMs": 1708
     },
     {
       "id": "sciencedaily-arch",
@@ -267,10 +267,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 20,
-      "droppedOffTopic": 10,
+      "kept": 19,
+      "droppedOffTopic": 11,
       "droppedModern": 0,
-      "elapsedMs": 1867
+      "elapsedMs": 1612
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1826
+      "elapsedMs": 1805
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 9,
       "droppedOffTopic": 8,
       "droppedModern": 3,
-      "elapsedMs": 2032
+      "elapsedMs": 1906
     },
     {
       "id": "current-archaeology",
@@ -309,7 +309,7 @@
       "kept": 23,
       "droppedOffTopic": 4,
       "droppedModern": 3,
-      "elapsedMs": 1844
+      "elapsedMs": 1657
     },
     {
       "id": "jas-reports",
@@ -322,7 +322,7 @@
       "kept": 7,
       "droppedOffTopic": 3,
       "droppedModern": 20,
-      "elapsedMs": 1738
+      "elapsedMs": 1694
     },
     {
       "id": "plos-one-arch",
@@ -332,10 +332,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1895
+      "elapsedMs": 1961
     },
     {
       "id": "pnas-arch",
@@ -345,10 +345,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 18,
+      "kept": 17,
       "droppedOffTopic": 9,
-      "droppedModern": 3,
-      "elapsedMs": 2848
+      "droppedModern": 4,
+      "elapsedMs": 2445
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +361,7 @@
       "kept": 8,
       "droppedOffTopic": 3,
       "droppedModern": 18,
-      "elapsedMs": 1723
+      "elapsedMs": 1851
     },
     {
       "id": "spal-us",
@@ -371,7 +371,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 7906
+      "elapsedMs": 7989
     },
     {
       "id": "complutum-ucm",
@@ -384,7 +384,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 4002
+      "elapsedMs": 4087
     },
     {
       "id": "archeoarte",
@@ -404,7 +404,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 7301
+      "elapsedMs": 7394
     },
     {
       "id": "cambridge-antiquity",
@@ -417,7 +417,7 @@
       "kept": 20,
       "droppedOffTopic": 5,
       "droppedModern": 5,
-      "elapsedMs": 2688
+      "elapsedMs": 2542
     },
     {
       "id": "cambridge-caj",
@@ -430,7 +430,7 @@
       "kept": 18,
       "droppedOffTopic": 6,
       "droppedModern": 6,
-      "elapsedMs": 2711
+      "elapsedMs": 2512
     },
     {
       "id": "cambridge-ejarc",
@@ -443,7 +443,7 @@
       "kept": 18,
       "droppedOffTopic": 5,
       "droppedModern": 7,
-      "elapsedMs": 2795
+      "elapsedMs": 2364
     },
     {
       "id": "aquitania-persee",
@@ -456,7 +456,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3546
+      "elapsedMs": 3194
     },
     {
       "id": "cuadernos-arq-unav",
@@ -469,7 +469,7 @@
       "kept": 21,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 3552
+      "elapsedMs": 3745
     },
     {
       "id": "veleia-ehu",
@@ -482,7 +482,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3635
+      "elapsedMs": 4112
     },
     {
       "id": "flv-navarra",
@@ -495,7 +495,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2774
+      "elapsedMs": 2584
     },
     {
       "id": "munibe-aa",
@@ -508,7 +508,7 @@
       "kept": 18,
       "droppedOffTopic": 3,
       "droppedModern": 9,
-      "elapsedMs": 2802
+      "elapsedMs": 2723
     },
     {
       "id": "trabajos-prehistoria",
@@ -521,7 +521,7 @@
       "kept": 23,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 2903
+      "elapsedMs": 2618
     },
     {
       "id": "openalex-archaeology",
@@ -534,7 +534,7 @@
       "kept": 16,
       "droppedOffTopic": 6,
       "droppedModern": 8,
-      "elapsedMs": 2758
+      "elapsedMs": 2595
     }
   ],
   "items": [
@@ -3951,21 +3951,6 @@
       ]
     },
     {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/07/260707054108.htm",
-      "title": "Ancient DNA reveals the mysterious collapse of Europe's megalith builders",
-      "summary": "DNA from a 5,000-year-old French megalithic tomb reveals that the people buried before and after a population collapse were genetically unrelated, pointing to a major migration after a devastating crisis. The shift coincided with new social traditions and the disappearance of…",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260707054108.htm",
-      "image": null,
-      "publishedAt": "2026-07-08T07:50:55.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
       "id": "pnas-arch:https://openalex.org/W7166554937",
       "title": "Late Pleistocene Clovis atlatl hunting fails a chronological modeling test",
       "summary": "Late Pleistocene North American foragers assigned to the Clovis culture have long been assumed to have hunted megafauna with the atlatl, which would have provided several advantages. Yet, we chronologically modeled radiocarbon ages from preserved Holocene atlatls and show that…",
@@ -4683,6 +4668,189 @@
       "topics": [
         "erdi-aroa",
         "aurkikuntza"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/scoperta-cripta-maria-maddalena-marsiglia/",
+      "title": "Guida turistica scopre in campagna cripta segreta. Un sepolcro romano trasformato poi in luogo di culto “massonico” di Maria Maddalena e del figlio segreto di Gesù",
+      "summary": "Nel XV arrondissement di Marsiglia, in un’area privata dei quartieri settentrionali della città, in campagna, una guida-conferenziere appassionata di storia, leggende e patrimonio ha individuato una piccola cripta nascosta in un giardino abbandonato. All’interno, accanto alle…",
+      "url": "https://www.stilearte.it/scoperta-cripta-maria-maddalena-marsiglia/",
+      "image": null,
+      "publishedAt": "2026-10-07T06:21:41.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/vikings/archaeologists-discover-a-childs-skull-built-into-the-floor-of-a-2-500-year-old-scandinavian-house",
+      "title": "Archaeologists discover a child's skull built into the floor of a 2,500-year-old Scandinavian house",
+      "summary": "A study of nearly 200 individuals buried in domestic contexts in ancient and Viking Age Scandinavia has revealed unusually high levels of violence.",
+      "url": "https://www.livescience.com/archaeology/vikings/archaeologists-discover-a-childs-skull-built-into-the-floor-of-a-2-500-year-old-scandinavian-house",
+      "image": "https://cdn.mos.cms.futurecdn.net/AaBfdvRuQ7xbKoEWMcYqNk-1920-80.png",
+      "publishedAt": "2026-10-06T20:22:45.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "erdi-aroa",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sudouest-culture:https://www.sudouest.fr/culture/sortir-a-bordeaux/arts-visuels-cinq-rendez-vous-a-suivre-en-gironde-30944992.php",
+      "title": "En famille, les sorties de la semaine",
+      "summary": "De l’espace aux fossiles, en passant par le livre jeunesse et le jazz : quatre sorties à partager en famille à Saucats, Mérignac, Gradignan et Cestas",
+      "url": "https://www.sudouest.fr/culture/sortir-a-bordeaux/arts-visuels-cinq-rendez-vous-a-suivre-en-gironde-30944992.php",
+      "image": null,
+      "publishedAt": "2026-10-06T16:30:00.000Z",
+      "source": {
+        "id": "sudouest-culture",
+        "name": "Sud Ouest — Culture"
+      },
+      "lang": "fr",
+      "region": "basque",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/encuentran-una-espada-de-la-edad-del-bronce-de-hace-mas-de-3000-anos-en-el-fondo-de-un-lago-italiano-y-todavia-conserva-el-filo",
+      "title": "Encuentran una espada de la Edad del Bronce de hace más de 3.000 años en el fondo de un lago italiano y todavía conserva el filo",
+      "summary": "Una espada de bronce que llevaba más de tres mil años en el fondo de un lago ha salido a la superficie con el filo todavía cortante. La han recuperado los arqueólogos subacuáticos de la Soprintendenza de Viterbo en el lago di Mezzano, un pequeño lago de origen volcánico del…",
+      "url": "https://www.labrujulaverde.com/2026/10/encuentran-una-espada-de-la-edad-del-bronce-de-hace-mas-de-3000-anos-en-el-fondo-de-un-lago-italiano-y-todavia-conserva-el-filo",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/spada_mezzano-5-1024x576-1.webp",
+      "publishedAt": "2026-10-06T15:23:08.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/frescos-romanos-del-siglo-i-ac-aparecen-junto-al-lugar-donde-votaban-los-griegos-de-agrigento",
+      "title": "Frescos romanos del siglo I a.C. aparecen junto al lugar donde votaban los griegos de Agrigento",
+      "summary": "Hace unos veintidós siglos, el sitio donde hoy se excava en el Valle de los Templos era el lugar donde los ciudadanos libres de Akragas, el nombre griego de Agrigento, se reunían para decidir los asuntos de su ciudad. Ese edificio, un graderío semicircular que los arqueólogos…",
+      "url": "https://www.labrujulaverde.com/2026/10/frescos-romanos-del-siglo-i-ac-aparecen-junto-al-lugar-donde-votaban-los-griegos-de-agrigento",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/volto_di_uomo_dai_resti_labrujulaverde.com_della_domus_del_i_secolo_ac.webp",
+      "publishedAt": "2026-10-06T14:16:31.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak",
+        "greziarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/10/261004001835.htm",
+      "title": "Archaeologists may have finally solved a 100-year-old Florida mystery",
+      "summary": "Ancient pottery from Tampa Bay appears to have been made by migrant craftspeople who brought specialized Mississippian pottery-making knowledge hundreds of miles south. Remarkably, they even incorporated crushed fragments of older homeland pottery into new vessels, preserving a…",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261004001835.htm",
+      "image": null,
+      "publishedAt": "2026-10-06T12:41:48.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/un-fragment-du-traite-de-paix-de-qadesh-decouvert-dans-l-ancienne-capitale-des-hittites_195230?xtor=RSS-4",
+      "title": "Un fragment du plus ancien traité de paix connu découvert dans l’ancienne capitale des Hittites",
+      "summary": "Les chercheurs de l’Institut archéologique allemand ont réussi à mettre au jour, à déchiffrer et à attribuer au traité de Qadesh un fragment de tablette cunéiforme qui ne mesure que 5 centimètres environ.",
+      "url": "https://www.sciencesetavenir.fr/archeo-paleo/un-fragment-du-traite-de-paix-de-qadesh-decouvert-dans-l-ancienne-capitale-des-hittites_195230?xtor=RSS-4",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/06/cover-r4x3w1200-6ac4d7e7ae678-fragment-2025-tablette-traite-qadesh-hattusha.jpg",
+      "publishedAt": "2026-10-06T12:22:10.000Z",
+      "source": {
+        "id": "sciencesetavenir-archeo",
+        "name": "Sciences et Avenir — Archéo & Paléo"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": [
+        "ekialde-hurbila",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/placca-cintura-v-secolo-stile-sosdala-ucraina/",
+      "title": "Ritrovata con il metal detector, è una rara placca di cintura del V secolo: ecco di cosa si tratta",
+      "summary": "Un piccolo oggetto di appena 8,22 grammi, recuperato con un metal detector nella regione di Khmelnytskyi, in Ucraina, si è rivelato un raro manufatto dell’epoca delle grandi migrazioni. Gli specialisti lo hanno identificato come una placca di cintura in metallo prezioso,…",
+      "url": "https://www.stilearte.it/placca-cintura-v-secolo-stile-sosdala-ucraina/",
+      "image": null,
+      "publishedAt": "2026-10-06T11:10:00.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/descubren-en-el-yacimiento-de-la-edad-del-bronce-de-la-almoloya-en-murcia-un-sacerdote-enterrado-con-una-piedra-en-la-boca-el-ritual-egipcio-de-pisotear-al-enemigo",
+      "title": "Descubren en el yacimiento de la Edad del Bronce de La Almoloya en Murcia un sacerdote enterrado con una piedra en la boca, el ritual egipcio de pisotear al enemigo",
+      "summary": "Hace unos 3.700 años, quien cruzaba la gran sala de La Almoloya, en lo alto de un cerro de Sierra Espuña, tenía que pasar por encima de un hombre. Estaba enterrado justo en el punto de paso entre las dos mitades de la estancia, con la parte baja del cuerpo bajo el hogar y la […]",
+      "url": "https://www.labrujulaverde.com/2026/10/descubren-en-el-yacimiento-de-la-edad-del-bronce-de-la-almoloya-en-murcia-un-sacerdote-enterrado-con-una-piedra-en-la-boca-el-ritual-egipcio-de-pisotear-al-enemigo",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/06-AY5-IMG_0671_MNT_b.webp",
+      "publishedAt": "2026-10-06T10:22:51.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/descubren-un-anillo-de-bronce-con-el-faro-de-alejandria-en-el-puerto-hundido-de-cleopatra",
+      "title": "Descubren un anillo de bronce con el Faro de Alejandría en el puerto hundido de Cleopatra",
+      "summary": "El Faro de Alejandría lleva más de siete siglos derrumbado. Una serie de terremotos, entre ellos los de 1303 y 1323, acabaron con la torre que durante unos dieciséis siglos había guiado a los barcos hacia la ciudad. Pero su silueta acaba de reaparecer en el fondo del mar,…",
+      "url": "https://www.labrujulaverde.com/2026/10/descubren-un-anillo-de-bronce-con-el-faro-de-alejandria-en-el-puerto-hundido-de-cleopatra",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/837739217_1519467493548125_2475645306946589984_n.webp",
+      "publishedAt": "2026-10-06T08:47:13.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/scoperto-anello-romano-faro-alessandria-impero-romano/",
+      "title": "Alessandria, un anello romano di bronzo con il Faro di Pharos recuperato dalle acque dopo 2000 anni. Di chi era? Perché quel simbolo?",
+      "summary": "Un anello di bronzo recuperato nell’antico porto di Alessandria porta incisa l’immagine del Faro di Pharos, uno dei monumenti più celebri del mondo antico.Il confronto con le raffigurazioni sulle monete del II secolo d.C. apre una possibilità ancora più intrigante: il piccolo…",
+      "url": "https://www.stilearte.it/scoperto-anello-romano-faro-alessandria-impero-romano/",
+      "image": null,
+      "publishedAt": "2026-10-06T07:58:50.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
       ]
     },
     {
@@ -8688,168 +8856,6 @@
       "region": "world",
       "topics": [
         "amerika"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/shorts/groups/the-grayling-society/",
-      "title": "The Grayling Society",
-      "summary": "In the world of fly fishing, trout dominate the headlines, but in the past grayling were considered to be the equal of trout for sporting appeal – hence Izaac Walton’s The Compleat",
-      "url": "https://the-past.com/shorts/groups/the-grayling-society/",
-      "image": null,
-      "publishedAt": "2026-09-26T17:00:48.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/news/insights-from-above/",
-      "title": "Insights from above",
-      "summary": "Last month we shared images from Blenheim Palace, Oxfordshire, highlighting how recent drought conditions have revealed the outlines of long-buried archaeological remains. Features both familiar and newly identified have also been emerging across Wales this summer, and have been…",
-      "url": "https://the-past.com/news/insights-from-above/",
-      "image": null,
-      "publishedAt": "2026-09-26T15:00:50.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/news/excavations-at-bucklers-hard-reveal-18th-century-slipway/",
-      "title": "Excavations at Buckler’s Hard reveal 18th-century slipway",
-      "summary": "A second excavation season at Buckler’s Hard, a private ship- building hub on the River Beaulieu, 12 miles (20km) south of Southampton in the New Forest, has fully revealed the wooden slipway",
-      "url": "https://the-past.com/news/excavations-at-bucklers-hard-reveal-18th-century-slipway/",
-      "image": null,
-      "publishedAt": "2026-09-26T10:50:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/news/no-stone-unturned-recent-finds-at-arthurs-stone/",
-      "title": "No stone unturned: recent finds at Arthur’s Stone",
-      "summary": "When we last reported from Arthur’s Stone in 2023 (CA 404), it was thought of as an isolated Neolithic monumental site overlooking the Golden Valley in Herefordshire. Now, the Universities of Manchester",
-      "url": "https://the-past.com/news/no-stone-unturned-recent-finds-at-arthurs-stone/",
-      "image": null,
-      "publishedAt": "2026-09-26T10:30:57.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/news/further-finds-at-huttons-ambo/",
-      "title": "Further finds at Huttons Ambo",
-      "summary": "This season’s excavation at Huttons Ambo in North Yorkshire has uncovered new details about the small village’s medieval past, including potentially one of the most high-status buildings yet found on the site.",
-      "url": "https://the-past.com/news/further-finds-at-huttons-ambo/",
-      "image": null,
-      "publishedAt": "2026-09-26T10:00:25.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "erdi-aroa",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/news/sketches-of-the-past-found-at-dunstables-priory-house/",
-      "title": "Sketches of the past found at Dunstable’s Priory House",
-      "summary": "Restoration work at the Priory House in Dunstable – a Grade II-listed building that was originally part of the grounds of Dunstable Priory, founded by Henry I in 1132 – is carefully",
-      "url": "https://the-past.com/news/sketches-of-the-past-found-at-dunstables-priory-house/",
-      "image": null,
-      "publishedAt": "2026-09-26T09:45:57.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/news/bronze-age-settlement-revealed-in-erskine/",
-      "title": "Bronze Age settlement revealed in Erskine",
-      "summary": "A once-thriving Bronze Age settlement has been revealed during excavations in Erksine, Renfrewshire. The discovery was made by a team from GUARD Archaeology, who excavated two large fields in Northbar, on the",
-      "url": "https://the-past.com/news/bronze-age-settlement-revealed-in-erskine/",
-      "image": null,
-      "publishedAt": "2026-09-26T09:15:20.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/news/science-notes-counting-sheep-assessing-the-impact-of-sheep-pox-throughout-history/",
-      "title": "Science Notes – Counting sheep: assessing the impact of sheep-pox throughout history",
-      "summary": "The sheep-pox virus (SPPV; Capripoxvirus sheeppox) is in the same family as the variola virus, which causes smallpox in humans. It is a highly contagious disease among sheep, causing the animal to",
-      "url": "https://the-past.com/news/science-notes-counting-sheep-assessing-the-impact-of-sheep-pox-throughout-history/",
-      "image": null,
-      "publishedAt": "2026-09-26T09:00:57.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/news/world-news-43/",
-      "title": "World news",
-      "summary": "Community-created field systems in Colombia? In the wetlands of La Mojana in northern Colombia is a vast (more than 500,000ha or 1,900 square miles) field system of canals and ridges, used to",
-      "url": "https://the-past.com/news/world-news-43/",
-      "image": null,
-      "publishedAt": "2026-09-26T08:30:55.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/unas-termas-romanas-fueron-reconvertidas-en-fabrica-de-vino-y-aceite-de-oliva-en-la-antigua-antioquia-del-crago",
-      "title": "Unas termas romanas fueron reconvertidas en fábrica de vino y aceite de oliva en la antigua Antioquía del Crago",
-      "summary": "Un equipo de investigadores ha publicado el hallazgo de una instalación de procesamiento agrícola construida dentro del llamado Baño Pequeño de Antioquía del Crago (Antioquia ad Cragum), en la región histórica de Cilicia Áspera, en la actual Turquía. El estudio, firmado por…",
-      "url": "https://www.labrujulaverde.com/2026/09/unas-termas-romanas-fueron-reconvertidas-en-fabrica-de-vino-y-aceite-de-oliva-en-la-antigua-antioquia-del-crago",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/urn-cambridge.org-id-binary-alt-20260921225945-81871-optimisedImage-png-S1047759426100890_fig3.jpg.webp",
-      "publishedAt": "2026-09-26T08:26:11.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "erromatarrak"
       ]
     }
   ]
