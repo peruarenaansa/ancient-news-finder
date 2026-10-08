@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T07:26:50.401Z",
+  "generatedAt": "2026-10-08T07:42:49.341Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5622
+      "elapsedMs": 5468
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 954
+      "elapsedMs": 598
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3361
+      "elapsedMs": 902
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 826
+      "elapsedMs": 729
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2728
+      "elapsedMs": 2662
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 9,
       "droppedOffTopic": 21,
       "droppedModern": 0,
-      "elapsedMs": 2746
+      "elapsedMs": 2656
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 2,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 1018
+      "elapsedMs": 983
     },
     {
       "id": "labrujulaverde",
@@ -98,9 +98,9 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 16,
-      "droppedOffTopic": 0,
-      "droppedModern": 4,
+      "kept": 13,
+      "droppedOffTopic": 2,
+      "droppedModern": 5,
       "elapsedMs": 1862
     },
     {
@@ -114,7 +114,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 1047
+      "elapsedMs": 1556
     },
     {
       "id": "elpais-cultura",
@@ -124,10 +124,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 0,
-      "droppedOffTopic": 30,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1202
+      "elapsedMs": 637
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 784
+      "elapsedMs": 660
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 6,
       "droppedOffTopic": 12,
       "droppedModern": 2,
-      "elapsedMs": 1274
+      "elapsedMs": 1371
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -166,7 +166,7 @@
       "kept": 10,
       "droppedOffTopic": 8,
       "droppedModern": 0,
-      "elapsedMs": 881
+      "elapsedMs": 1057
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +179,7 @@
       "kept": 4,
       "droppedOffTopic": 18,
       "droppedModern": 3,
-      "elapsedMs": 2797
+      "elapsedMs": 2801
     },
     {
       "id": "sudouest-culture",
@@ -192,7 +192,7 @@
       "kept": 1,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1145
+      "elapsedMs": 1278
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1736
+      "elapsedMs": 1729
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 2,
       "droppedOffTopic": 0,
       "droppedModern": 8,
-      "elapsedMs": 2073
+      "elapsedMs": 1773
     },
     {
       "id": "stilearte",
@@ -231,7 +231,7 @@
       "kept": 9,
       "droppedOffTopic": 1,
       "droppedModern": 0,
-      "elapsedMs": 2096
+      "elapsedMs": 1824
     },
     {
       "id": "live-science-arch",
@@ -244,7 +244,7 @@
       "kept": 3,
       "droppedOffTopic": 27,
       "droppedModern": 0,
-      "elapsedMs": 2711
+      "elapsedMs": 2519
     },
     {
       "id": "bbc-history",
@@ -254,10 +254,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 0,
-      "droppedOffTopic": 10,
+      "kept": 1,
+      "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1708
+      "elapsedMs": 1434
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +270,7 @@
       "kept": 19,
       "droppedOffTopic": 11,
       "droppedModern": 0,
-      "elapsedMs": 1612
+      "elapsedMs": 1525
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1805
+      "elapsedMs": 1489
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 9,
       "droppedOffTopic": 8,
       "droppedModern": 3,
-      "elapsedMs": 1906
+      "elapsedMs": 1889
     },
     {
       "id": "current-archaeology",
@@ -309,7 +309,7 @@
       "kept": 23,
       "droppedOffTopic": 4,
       "droppedModern": 3,
-      "elapsedMs": 1657
+      "elapsedMs": 1472
     },
     {
       "id": "jas-reports",
@@ -322,7 +322,7 @@
       "kept": 7,
       "droppedOffTopic": 3,
       "droppedModern": 20,
-      "elapsedMs": 1694
+      "elapsedMs": 1505
     },
     {
       "id": "plos-one-arch",
@@ -332,10 +332,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 0,
-      "droppedOffTopic": 30,
+      "kept": 2,
+      "droppedOffTopic": 28,
       "droppedModern": 0,
-      "elapsedMs": 1961
+      "elapsedMs": 1751
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 17,
       "droppedOffTopic": 9,
       "droppedModern": 4,
-      "elapsedMs": 2445
+      "elapsedMs": 2236
     },
     {
       "id": "sciencedirect-jas",
@@ -357,11 +357,11 @@
       "region": "world",
       "kind": "research",
       "ok": true,
-      "fetched": 29,
+      "fetched": 30,
       "kept": 8,
       "droppedOffTopic": 3,
-      "droppedModern": 18,
-      "elapsedMs": 1851
+      "droppedModern": 19,
+      "elapsedMs": 1769
     },
     {
       "id": "spal-us",
@@ -371,7 +371,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 7989
+      "elapsedMs": 7635
     },
     {
       "id": "complutum-ucm",
@@ -384,7 +384,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 4087
+      "elapsedMs": 3643
     },
     {
       "id": "archeoarte",
@@ -394,7 +394,7 @@
       "kind": "research",
       "ok": false,
       "error": "Request timed out after 15000ms",
-      "elapsedMs": 49513
+      "elapsedMs": 49512
     },
     {
       "id": "cypsela",
@@ -404,7 +404,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 7394
+      "elapsedMs": 6961
     },
     {
       "id": "cambridge-antiquity",
@@ -417,7 +417,7 @@
       "kept": 20,
       "droppedOffTopic": 5,
       "droppedModern": 5,
-      "elapsedMs": 2542
+      "elapsedMs": 2345
     },
     {
       "id": "cambridge-caj",
@@ -430,7 +430,7 @@
       "kept": 18,
       "droppedOffTopic": 6,
       "droppedModern": 6,
-      "elapsedMs": 2512
+      "elapsedMs": 2299
     },
     {
       "id": "cambridge-ejarc",
@@ -443,7 +443,7 @@
       "kept": 18,
       "droppedOffTopic": 5,
       "droppedModern": 7,
-      "elapsedMs": 2364
+      "elapsedMs": 2223
     },
     {
       "id": "aquitania-persee",
@@ -456,7 +456,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3194
+      "elapsedMs": 4442
     },
     {
       "id": "cuadernos-arq-unav",
@@ -469,7 +469,7 @@
       "kept": 21,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 3745
+      "elapsedMs": 3272
     },
     {
       "id": "veleia-ehu",
@@ -482,7 +482,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 4112
+      "elapsedMs": 3541
     },
     {
       "id": "flv-navarra",
@@ -495,7 +495,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2584
+      "elapsedMs": 2518
     },
     {
       "id": "munibe-aa",
@@ -508,7 +508,7 @@
       "kept": 18,
       "droppedOffTopic": 3,
       "droppedModern": 9,
-      "elapsedMs": 2723
+      "elapsedMs": 2529
     },
     {
       "id": "trabajos-prehistoria",
@@ -521,7 +521,7 @@
       "kept": 23,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 2618
+      "elapsedMs": 2503
     },
     {
       "id": "openalex-archaeology",
@@ -531,10 +531,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 16,
-      "droppedOffTopic": 6,
-      "droppedModern": 8,
-      "elapsedMs": 2595
+      "kept": 14,
+      "droppedOffTopic": 7,
+      "droppedModern": 9,
+      "elapsedMs": 2541
     }
   ],
   "items": [
@@ -4671,6 +4671,155 @@
       ]
     },
     {
+      "id": "openalex-archaeology:https://openalex.org/W7214095574",
+      "title": "Message in a bottleneck: Nested founder effects from French Polynesia to Rapa Nui and Hawaiʻi",
+      "summary": "Message in a bottleneck: Nested founder effects from French Polynesia to Rapa Nui and Hawaiʻi",
+      "url": "https://doi.org/10.5281/zenodo.20399671",
+      "image": null,
+      "publishedAt": "2026-10-09T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/numluli-citta-romana-tunisia/",
+      "title": "Meraviglioso. Città romana scavata in Tunisia. Emersi dai campi un possente Campidoglio, tombe, magazzini. Come nacque Numluli. Tra Giove, Giunone e Minerva",
+      "summary": "A nord di Téboursouk, nel governatorato tunisino di Béja, gli archeologi stanno riportando alla luce una città romana rimasta per secoli quasi intatta sotto la vegetazione e i terreni agricoli.A Henchir Matria, l’antica Numluli, il nuovo scavo mette uno accanto all’altro il…",
+      "url": "https://www.stilearte.it/numluli-citta-romana-tunisia/",
+      "image": null,
+      "publishedAt": "2026-10-08T07:33:57.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7210336858",
+      "title": "Connections through collections: linking archaeological and epigraphic archives through places and people",
+      "summary": "International audience",
+      "url": "https://hal.science/hal-05738769v1",
+      "image": null,
+      "publishedAt": "2026-10-08T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "elpais-cultura:https://elpais.com/cultura/2026-10-07/hallado-bajo-el-agua-en-alejandria-un-anillo-con-una-representacion-de-su-famoso-faro.html",
+      "title": "Hallado bajo el agua en Alejandría un anillo con una representación de su famoso faro",
+      "summary": "El objeto es uno de los principales descubrimientos de la última campaña del equipo de arqueología submarina de Franck Goddio",
+      "url": "https://elpais.com/cultura/2026-10-07/hallado-bajo-el-agua-en-alejandria-un-anillo-con-una-representacion-de-su-famoso-faro.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/GDFCJFWS75GL3K3YTAIRY7BCFA.jpg?auth=41f61ce4ba063c77606dd05515ccd3c5adbcc5ef9323c0fab9053e06c07f76b4",
+      "publishedAt": "2026-10-07T19:15:45.000Z",
+      "source": {
+        "id": "elpais-cultura",
+        "name": "El País — Cultura"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sudouest-culture:https://www.sudouest.fr/tourisme/agenda/que-mangeaient-nos-ancetres-une-plongee-au-coeur-du-marche-des-saveurs-paleolithiques-dans-cette-petite-commune-du-villeneuvois-30896933.php",
+      "title": "Que mangeaient nos ancêtres ? Une plongée au cœur du marché des saveurs paléolithiques dans cette petite commune du Villeneuvois",
+      "summary": "Durant tout le mois d’octobre, la médiathèque de Casseneuil propose, à l’occasion de la Fête de la science, une exposition interactive et un atelier d’enquête pour découvrir l’alimentation de nos ancêtres",
+      "url": "https://www.sudouest.fr/tourisme/agenda/que-mangeaient-nos-ancetres-une-plongee-au-coeur-du-marche-des-saveurs-paleolithiques-dans-cette-petite-commune-du-villeneuvois-30896933.php",
+      "image": null,
+      "publishedAt": "2026-10-07T17:42:00.000Z",
+      "source": {
+        "id": "sudouest-culture",
+        "name": "Sud Ouest — Culture"
+      },
+      "lang": "fr",
+      "region": "basque",
+      "topics": []
+    },
+    {
+      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359952",
+      "title": "roadDB: An R package for exploring early human prehistory and environments with the ROCEEH Out of Africa Database",
+      "summary": "by Christian Sommer, Jesper Borre Pedersen, Zara Kanaeva, Timo P. Streicher, Andrew W. Kandel, Nicholas J. Conard, Volker Hochschild Macroscale and interdisciplinary approaches are emerging as central paradigms in the study of human evolution, as demonstrated by a growing body…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359952",
+      "image": null,
+      "publishedAt": "2026-10-07T14:00:00.000Z",
+      "source": {
+        "id": "plos-one-arch",
+        "name": "PLOS ONE — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "ekialde-hurbila"
+      ]
+    },
+    {
+      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359525",
+      "title": "Investigating the anticancer potential of phytochemicals from the mangrove Rhizophora mucronata as inhibitors of lung cancer-associated proteins: Insights from multiscale computational and in silico analyses",
+      "summary": "by Zena Abdul-Ameer Mahdi, Batool Shakir Abed AlmjalawI, Mollah Naimuzzaman, Md Mahabub Hasan, Ajoy Kumer, Farah Tareq Al-Alaq, Hussein O.M. Al-Dahmoshi, Faizur Rahman, Md. Fayez Al-Hakim Khan, Noor S.K. Al-Khafaji, Sarah Alwan Malik Al-Yasiri Lung cancer remains the leading…",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359525",
+      "image": null,
+      "publishedAt": "2026-10-07T14:00:00.000Z",
+      "source": {
+        "id": "plos-one-arch",
+        "name": "PLOS ONE — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "ekialde-hurbila"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/descubren-el-fosil-de-una-especie-desconocida-de-cocodrilo-de-hace-45-millones-de-anos-en-la-misma-roca-de-la-esfinge-de-giza-y-tambien-le-falta-la-nariz",
+      "title": "Descubren el fósil de una especie desconocida de cocodrilo de hace 45 millones de años en la misma roca de la Esfinge de Giza, y también le falta la nariz",
+      "summary": "La Gran Esfinge lleva siglos sin nariz, y el cráneo fósil de un cocodrilo extraído de su misma roca tampoco conserva la punta del hocico. La coincidencia ha dado nombre a una especie desconocida hasta ahora, Herugavialis cairensis, que durante casi cien años estuvo clasificada…",
+      "url": "https://www.labrujulaverde.com/2026/10/descubren-el-fosil-de-una-especie-desconocida-de-cocodrilo-de-hace-45-millones-de-anos-en-la-misma-roca-de-la-esfinge-de-giza-y-tambien-le-falta-la-nariz",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/Herugavialis_Artist-Adel-Lee-2.webp",
+      "publishedAt": "2026-10-07T09:13:40.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "bbc-history:https://www.historyextra.com/membership/alfred-vs-vikings-podcast-episode-one/",
+      "title": "How the Vikings pushed Anglo-Saxon England to the brink",
+      "summary": "Dr Eleanor Barraclough tells the story of the Great Heathen Army, and explains what it was like it live within it",
+      "url": "https://www.historyextra.com/membership/alfred-vs-vikings-podcast-episode-one/",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/09/Alfred-Vikings-Pod-YT-ep1-WL-AN-1afacb0.jpg",
+      "publishedAt": "2026-10-07T08:00:16.000Z",
+      "source": {
+        "id": "bbc-history",
+        "name": "BBC History Extra"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa",
+        "greziarrak"
+      ]
+    },
+    {
       "id": "stilearte:https://www.stilearte.it/scoperta-cripta-maria-maddalena-marsiglia/",
       "title": "Guida turistica scopre in campagna cripta segreta. Un sepolcro romano trasformato poi in luogo di culto “massonico” di Maria Maddalena e del figlio segreto di Gesù",
       "summary": "Nel XV arrondissement di Marsiglia, in un’area privata dei quartieri settentrionali della città, in campagna, una guida-conferenziere appassionata di storia, leggende e patrimonio ha individuato una piccola cripta nascosta in un giardino abbandonato. All’interno, accanto alle…",
@@ -4685,6 +4834,24 @@
       "region": "europe",
       "topics": [
         "erromatarrak"
+      ]
+    },
+    {
+      "id": "cambridge-antiquity:https://openalex.org/W7220694192",
+      "title": "Excavating a possible Christianisation mission: the medieval stronghold in Pyrzyce",
+      "summary": "Historical accounts of Otto of Bamberg’s twelfth-century Christianisation mission in Pyrzyce, Poland, have inspired archaeological excavations, which in turn influenced anthropological research into contemporary religious imagery. Archaeological investigations at Pyrzyce’s early…",
+      "url": "https://doi.org/10.15184/aqy.2026.10435",
+      "image": null,
+      "publishedAt": "2026-10-07T00:00:00.000Z",
+      "source": {
+        "id": "cambridge-antiquity",
+        "name": "Antiquity (Cambridge)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "erdi-aroa",
+        "aurkikuntza"
       ]
     },
     {
@@ -4867,6 +5034,23 @@
       "lang": "it",
       "region": "europe",
       "topics": []
+    },
+    {
+      "id": "trabajos-prehistoria:https://openalex.org/W7220717211",
+      "title": "Los lingotes planoconvexos y las redes de intercambio del cobre durante la Primera Edad del Hierro en el noreste peninsular",
+      "summary": "Este artículo contribuye al conocimiento de las dinámicas de intercambio del metal en bruto del noreste peninsular durante la Primera Edad del Hierro, a partir del estudio contextual y arqueométrico de una selección de lingotes planoconvexos de base cobre. Para ello, se han…",
+      "url": "https://doi.org/10.3989/tp.2026.1084",
+      "image": null,
+      "publishedAt": "2026-10-06T00:00:00.000Z",
+      "source": {
+        "id": "trabajos-prehistoria",
+        "name": "Trabajos de Prehistoria (CSIC)"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "amerika"
+      ]
     },
     {
       "id": "live-science-arch:https://www.livescience.com/archaeology/ancient-egyptians/ancient-egyptians-sacrificed-pharaohs-servants-so-they-could-continue-to-serve-their-king-in-the-afterlife-new-study-finds",
@@ -5061,6 +5245,25 @@
       "region": "europe",
       "topics": [
         "egiptoarrak"
+      ]
+    },
+    {
+      "id": "munibe-aa:https://openalex.org/W7220441264",
+      "title": "Secuencia ocupacional y transformación arquitectónica en el asentamiento altomedieval de Revenga (Burgos): nuevas evidencias a partir de la estructura R030",
+      "summary": "Este trabajo presenta el análisis estratigráfico y arquitectónico de la estructura R030 del yacimiento altomedieval de Revenga (Burgos), con el objetivo de precisar la secuencia constructiva del asentamiento en un contexto de ocupación prolongada y reutilización intensiva del…",
+      "url": "https://doi.org/10.21630/maa.2026.77.07",
+      "image": null,
+      "publishedAt": "2026-10-05T00:00:00.000Z",
+      "source": {
+        "id": "munibe-aa",
+        "name": "Munibe Antropologia-Arkeologia (Aranzadi)"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "erdi-aroa",
+        "amerika",
+        "aurkikuntza"
       ]
     },
     {
@@ -8656,206 +8859,6 @@
       "region": "world",
       "topics": [
         "egiptoarrak"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/descubren-en-albania-una-villa-romana-con-mosaicos-del-siglo-iv-junto-al-ultimo-rio-salvaje-de-europa",
-      "title": "Descubren en Albania una villa romana con mosaicos del siglo IV junto al último río salvaje de Europa",
-      "summary": "El hallazgo se ha producido en Qesarat, una pequeña población de la Albania meridional, en la zona de Tepelenë, muy cerca del Parque Nacional del Río Salvaje Vjosa —el primer espacio protegido de Europa dedicado a un río que corre libre, sin una sola presa, desde las montañas…",
-      "url": "https://www.labrujulaverde.com/2026/09/descubren-en-albania-una-villa-romana-con-mosaicos-del-siglo-iv-junto-al-ultimo-rio-salvaje-de-europa",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/797088088_1078890025035637_8060607403327351923_n.png.webp",
-      "publishedAt": "2026-09-28T12:00:21.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "europe",
-      "topics": [
-        "erromatarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/archaeology/americas/13-000-year-old-butchered-bones-of-long-tusked-beast-found-in-chile-give-more-evidence-of-early-first-americans",
-      "title": "13,000-year-old butchered bones of long-tusked beast found in Chile give more evidence of early first Americans",
-      "summary": "Archaeological excavations in the Lake Tagua Tagua basin in central Chile have revealed stone tools and animal bones with cut marks dated to 13,000 years ago.",
-      "url": "https://www.livescience.com/archaeology/americas/13-000-year-old-butchered-bones-of-long-tusked-beast-found-in-chile-give-more-evidence-of-early-first-americans",
-      "image": "https://cdn.mos.cms.futurecdn.net/K8DMXi5serwPcBVu3hrdpA-1920-80.png",
-      "publishedAt": "2026-09-28T11:00:00.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/archaeology/battersea-shield-a-2-000-year-old-celtic-shield-that-may-have-been-sacrificed-in-a-ritual-in-the-river-thames",
-      "title": "Battersea Shield: A 2,000-year-old Celtic shield that may have been 'sacrificed' in a ritual in the River Thames",
-      "summary": "The Battersea Shield was discovered in the 19th century at the bottom of the Thames. Archaeologists still aren't sure how it ended up there.",
-      "url": "https://www.livescience.com/archaeology/battersea-shield-a-2-000-year-old-celtic-shield-that-may-have-been-sacrificed-in-a-ritual-in-the-river-thames",
-      "image": "https://cdn.mos.cms.futurecdn.net/mSNx9wHFGYgTFAPr9vx7WL-1920-80.png",
-      "publishedAt": "2026-09-28T10:00:00.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/descubren-en-ucrania-la-tumba-de-un-guerrero-de-la-estepa-pueblo-que-inspiro-el-mito-de-las-amazonas",
-      "title": "Descubren en Ucrania la tumba de un guerrero de la estepa del pueblo que inspiró el mito de las amazonas",
-      "summary": "Cuando los arqueólogos abrieron aquel túmulo cerca del mar de Azov esperaban encontrar, sobre todo, tumbas de la Edad del Bronce. Y las encontraron, treinta y una en total. Pero entre ellas apareció algo que no cuadraba con el resto: un hombre de entre 25 y 35 años, tendido boca…",
-      "url": "https://www.labrujulaverde.com/2026/09/descubren-en-ucrania-la-tumba-de-un-guerrero-de-la-estepa-pueblo-que-inspiro-el-mito-de-las-amazonas",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/sarmatian-grave-labrujulaverde.com-1.webp",
-      "publishedAt": "2026-09-28T06:41:46.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "trabajos-prehistoria:https://openalex.org/W7214651482",
-      "title": "Cronología y estrategias de subsistencia durante el Gravetiense en la cueva de Altamira (Santillana del Mar, Cantabria)",
-      "summary": "La cueva de Altamira es mundialmente conocida como la Capilla Sixtina del Paleolítico. Sin embargo, el conocimiento sobre los modos de vida de los grupos humanos que la ocuparon durante el Paleolítico Superior es limitado. El presente estudio expone nuevos datos sobre la…",
-      "url": "https://doi.org/10.3989/tp.2026.1081",
-      "image": null,
-      "publishedAt": "2026-09-28T00:00:00.000Z",
-      "source": {
-        "id": "trabajos-prehistoria",
-        "name": "Trabajos de Prehistoria (CSIC)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/feature/statements-in-stone-investigating-neolithic-architecture-at-the-ness-of-brodgar/",
-      "title": "Statements in stone: Investigating Neolithic architecture at the Ness of Brodgar",
-      "summary": "The Ness of Brodgar in Orkney is home to an unprecedented complex of 5,000-year-old buildings. Ongoing analysis is illuminating their form and function, as Carly Hilts reports.",
-      "url": "https://the-past.com/feature/statements-in-stone-investigating-neolithic-architecture-at-the-ness-of-brodgar/",
-      "image": null,
-      "publishedAt": "2026-09-27T20:00:01.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/books/stonehenge-the-story-of-an-icon/",
-      "title": "Stonehenge: the story of an icon",
-      "summary": "This Stonehenge paperback will sell, probably deservedly, very well. Its text gives a suitable level of detail, while also reflecting current mainstream (and therefore English Heritage) views, and hence is correctly pitched",
-      "url": "https://the-past.com/review/books/stonehenge-the-story-of-an-icon/",
-      "image": null,
-      "publishedAt": "2026-09-27T14:00:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/books/broxy-kennels-fort-souterrain-and-surrounding-landscape-perth/",
-      "title": "Broxy Kennels Fort, Souterrain and Surrounding Landscape, Perth",
-      "summary": "It is a much-cited refrain that the only way to understand Scottish hillforts properly will be to excavate them fully, reliant as we have been, for the most part, on very limited",
-      "url": "https://the-past.com/review/books/broxy-kennels-fort-souterrain-and-surrounding-landscape-perth/",
-      "image": null,
-      "publishedAt": "2026-09-27T13:00:40.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/books/unearthed-rediscovered-poetry-from-ancient-times-to-the-middle-ages/",
-      "title": "Unearthed: rediscovered poetry from ancient times to the Middle Ages",
-      "summary": "In this absorbing book, Nicholas Bateman draws together 70 poems spanning 35 centuries, all of which had become lost before being rediscovered by archaeologists or archivists. Ranging from epic texts to fragments,",
-      "url": "https://the-past.com/review/books/unearthed-rediscovered-poetry-from-ancient-times-to-the-middle-ages/",
-      "image": null,
-      "publishedAt": "2026-09-27T12:00:35.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "erdi-aroa",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/books/making-and-meaning-in-the-bronze-and-iron-ages-chronology-landscapes-and-societies-across-europe/",
-      "title": "Making and Meaning in the Bronze and Iron Ages: chronology, landscapes, and societies across Europe",
-      "summary": "This book brings together papers from MetalAges2024 – Chronological Methods and their Correlation in the Metal Ages, which was held in Florence in 2024, co-organised by the UISPP Scientific Commission ‘Metal Ages",
-      "url": "https://the-past.com/review/books/making-and-meaning-in-the-bronze-and-iron-ages-chronology-landscapes-and-societies-across-europe/",
-      "image": null,
-      "publishedAt": "2026-09-27T12:00:11.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/09/260925005447.htm",
-      "title": "1.7-billion-year-old fossils reveal a crucial clue to the rise of complex life",
-      "summary": "Scientists studying ancient Australian rocks uncovered more than 12,000 fossils from some of the oldest known eukaryotes on Earth. These early complex cells lived in settings ranging from coastal mudflats to the open sea, but only where oxygen was available. Oxygen-free…",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260925005447.htm",
-      "image": null,
-      "publishedAt": "2026-09-27T11:55:50.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/tres-glifos-pintados-hace-1500-anos-en-una-cueva-mexicana-confirman-que-teotihuacan-tuvo-un-sistema-de-escritura-como-el-de-los-mayas-o-los-aztecas",
-      "title": "Tres glifos pintados hace 1.500 años en una cueva mexicana confirman que Teotihuacan tuvo un sistema de escritura como el de los mayas o los aztecas",
-      "summary": "Durante décadas, los expertos discutieron si Teotihuacan —la ciudad que dominó el centro de México entre los siglos I y VI d. C., con una población que pudo alcanzar los 125.000 habitantes— poseía un sistema de escritura verdadero o si, por el contrario, sus signos eran simples…",
-      "url": "https://www.labrujulaverde.com/2026/09/tres-glifos-pintados-hace-1500-anos-en-una-cueva-mexicana-confirman-que-teotihuacan-tuvo-un-sistema-de-escritura-como-el-de-los-mayas-o-los-aztecas",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/urn-cambridge.org-id-binary-alt-20260923025822-labrujulaverde.com-58494-optimisedImage-png-S0003598X26104256_fig6.jpg.webp",
-      "publishedAt": "2026-09-27T08:29:58.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "amerika"
       ]
     }
   ]
