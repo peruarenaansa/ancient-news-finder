@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T07:42:49.341Z",
+  "generatedAt": "2026-10-09T07:38:52.232Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5468
+      "elapsedMs": 5103
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 598
+      "elapsedMs": 587
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 902
+      "elapsedMs": 5066
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 729
+      "elapsedMs": 497
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2662
+      "elapsedMs": 2205
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 9,
       "droppedOffTopic": 21,
       "droppedModern": 0,
-      "elapsedMs": 2656
+      "elapsedMs": 2268
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 2,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 983
+      "elapsedMs": 849
     },
     {
       "id": "labrujulaverde",
@@ -98,10 +98,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 13,
+      "kept": 15,
       "droppedOffTopic": 2,
-      "droppedModern": 5,
-      "elapsedMs": 1862
+      "droppedModern": 3,
+      "elapsedMs": 1580
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 1556
+      "elapsedMs": 773
     },
     {
       "id": "elpais-cultura",
@@ -124,10 +124,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 637
+      "elapsedMs": 601
     },
     {
       "id": "lemonde-sciences",
@@ -137,10 +137,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 0,
-      "droppedOffTopic": 20,
+      "kept": 1,
+      "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 660
+      "elapsedMs": 687
     },
     {
       "id": "lemonde-archeo",
@@ -150,10 +150,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 6,
-      "droppedOffTopic": 12,
+      "kept": 7,
+      "droppedOffTopic": 11,
       "droppedModern": 2,
-      "elapsedMs": 1371
+      "elapsedMs": 1605
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -163,10 +163,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 18,
-      "kept": 10,
-      "droppedOffTopic": 8,
+      "kept": 11,
+      "droppedOffTopic": 7,
       "droppedModern": 0,
-      "elapsedMs": 1057
+      "elapsedMs": 1075
     },
     {
       "id": "inrap-bsky",
@@ -177,9 +177,9 @@
       "ok": true,
       "fetched": 25,
       "kept": 4,
-      "droppedOffTopic": 18,
-      "droppedModern": 3,
-      "elapsedMs": 2801
+      "droppedOffTopic": 17,
+      "droppedModern": 4,
+      "elapsedMs": 2240
     },
     {
       "id": "sudouest-culture",
@@ -189,10 +189,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 1,
-      "droppedOffTopic": 19,
+      "kept": 0,
+      "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1278
+      "elapsedMs": 1046
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1729
+      "elapsedMs": 1809
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 2,
       "droppedOffTopic": 0,
       "droppedModern": 8,
-      "elapsedMs": 1773
+      "elapsedMs": 1817
     },
     {
       "id": "stilearte",
@@ -228,10 +228,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 9,
-      "droppedOffTopic": 1,
+      "kept": 10,
+      "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 1824
+      "elapsedMs": 1873
     },
     {
       "id": "live-science-arch",
@@ -241,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 3,
-      "droppedOffTopic": 27,
+      "kept": 2,
+      "droppedOffTopic": 28,
       "droppedModern": 0,
-      "elapsedMs": 2519
+      "elapsedMs": 2194
     },
     {
       "id": "bbc-history",
@@ -257,7 +257,7 @@
       "kept": 1,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1434
+      "elapsedMs": 1329
     },
     {
       "id": "sciencedaily-arch",
@@ -267,10 +267,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 19,
-      "droppedOffTopic": 11,
+      "kept": 18,
+      "droppedOffTopic": 12,
       "droppedModern": 0,
-      "elapsedMs": 1525
+      "elapsedMs": 1533
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1489
+      "elapsedMs": 1397
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 9,
       "droppedOffTopic": 8,
       "droppedModern": 3,
-      "elapsedMs": 1889
+      "elapsedMs": 1693
     },
     {
       "id": "current-archaeology",
@@ -309,7 +309,7 @@
       "kept": 23,
       "droppedOffTopic": 4,
       "droppedModern": 3,
-      "elapsedMs": 1472
+      "elapsedMs": 1428
     },
     {
       "id": "jas-reports",
@@ -322,7 +322,7 @@
       "kept": 7,
       "droppedOffTopic": 3,
       "droppedModern": 20,
-      "elapsedMs": 1505
+      "elapsedMs": 1444
     },
     {
       "id": "plos-one-arch",
@@ -332,10 +332,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 2,
-      "droppedOffTopic": 28,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1751
+      "elapsedMs": 1478
     },
     {
       "id": "pnas-arch",
@@ -345,10 +345,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 17,
+      "kept": 16,
       "droppedOffTopic": 9,
-      "droppedModern": 4,
-      "elapsedMs": 2236
+      "droppedModern": 5,
+      "elapsedMs": 2163
     },
     {
       "id": "sciencedirect-jas",
@@ -358,10 +358,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 8,
+      "kept": 9,
       "droppedOffTopic": 3,
-      "droppedModern": 19,
-      "elapsedMs": 1769
+      "droppedModern": 18,
+      "elapsedMs": 1461
     },
     {
       "id": "spal-us",
@@ -370,8 +370,8 @@
       "region": "iberia",
       "kind": "research",
       "ok": false,
-      "error": "Status code 404",
-      "elapsedMs": 7635
+      "error": "Status code 401",
+      "elapsedMs": 7121
     },
     {
       "id": "complutum-ucm",
@@ -384,7 +384,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 3643
+      "elapsedMs": 20069
     },
     {
       "id": "archeoarte",
@@ -394,7 +394,7 @@
       "kind": "research",
       "ok": false,
       "error": "Request timed out after 15000ms",
-      "elapsedMs": 49512
+      "elapsedMs": 49509
     },
     {
       "id": "cypsela",
@@ -404,7 +404,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 6961
+      "elapsedMs": 6690
     },
     {
       "id": "cambridge-antiquity",
@@ -417,7 +417,7 @@
       "kept": 20,
       "droppedOffTopic": 5,
       "droppedModern": 5,
-      "elapsedMs": 2345
+      "elapsedMs": 2182
     },
     {
       "id": "cambridge-caj",
@@ -430,7 +430,7 @@
       "kept": 18,
       "droppedOffTopic": 6,
       "droppedModern": 6,
-      "elapsedMs": 2299
+      "elapsedMs": 1904
     },
     {
       "id": "cambridge-ejarc",
@@ -443,7 +443,7 @@
       "kept": 18,
       "droppedOffTopic": 5,
       "droppedModern": 7,
-      "elapsedMs": 2223
+      "elapsedMs": 1882
     },
     {
       "id": "aquitania-persee",
@@ -456,7 +456,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 4442
+      "elapsedMs": 2773
     },
     {
       "id": "cuadernos-arq-unav",
@@ -469,7 +469,7 @@
       "kept": 21,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 3272
+      "elapsedMs": 2949
     },
     {
       "id": "veleia-ehu",
@@ -482,7 +482,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3541
+      "elapsedMs": 2886
     },
     {
       "id": "flv-navarra",
@@ -495,7 +495,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2518
+      "elapsedMs": 2091
     },
     {
       "id": "munibe-aa",
@@ -508,7 +508,7 @@
       "kept": 18,
       "droppedOffTopic": 3,
       "droppedModern": 9,
-      "elapsedMs": 2529
+      "elapsedMs": 2102
     },
     {
       "id": "trabajos-prehistoria",
@@ -521,7 +521,7 @@
       "kept": 23,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 2503
+      "elapsedMs": 2062
     },
     {
       "id": "openalex-archaeology",
@@ -531,10 +531,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 14,
-      "droppedOffTopic": 7,
+      "kept": 15,
+      "droppedOffTopic": 6,
       "droppedModern": 9,
-      "elapsedMs": 2541
+      "elapsedMs": 2015
     }
   ],
   "items": [
@@ -4671,6 +4671,76 @@
       ]
     },
     {
+      "id": "openalex-archaeology:https://openalex.org/W7220871777",
+      "title": "Tecnologia ceramica e comunita di pratica nel Neolitico del Veneto occidentale (VI-V millennio cal. BCE). Indagini petrografiche e sperimentali",
+      "summary": "This study investigates ceramic production dynamics in the Early and Middle Neolithic of western Veneto through an integrated analytical framework combining typo-chronological analysis, macroscopic and petrographic compositional analysis, and an experiment al analysis on bone…",
+      "url": "https://hdl.handle.net/11572/505550",
+      "image": null,
+      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326002414?dgcid=rss_sd_all",
+      "title": "From ashes to mortuary rituals: Identifying cremation burials and exploring concepts of death in late Neolithic Southern China",
+      "summary": "Publication date: November 2026 Source: Journal of Archaeological Science, Volume 195 Author(s): Wuhong Luo, Tianci Sun, Dongyang Cao, Jia He, Youjin Wu, Fang Fang",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326002414?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-10-09T07:38:04.175Z",
+      "source": {
+        "id": "sciencedirect-jas",
+        "name": "Journal of Archaeological Science (ScienceDirect)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "asia"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26005456?dgcid=rss_sd_all",
+      "title": "Poisoned arrows in the Danish Early Mesolithic: Testing lithic ballistic morphometrics against faunal and archaeobotanical data",
+      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part A Author(s): Felix Riede, Sofie F. Hellerøe, Renée Enevold, Signe S. Termansen, Marlize Lombard, Welmoed A. Out",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26005456?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-10-09T07:38:04.131Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/singilia-barba-cenerentola-acilia-plecusa-teatro-romano/",
+      "title": "Splendido, cosa si nasconde sotto il campo deserto? Una scala scende nella città romana dove la schiava “Cenerentola”Acilia Plecusa sposò il suo padrone",
+      "summary": "Ad Antequera, in Andalusia, gli archeologi riportano alla luce una parte del teatro di una città ancora in gran parte sepolta. Le iscrizioni raccontano anche l’ascesa sociale di una donna di origine servile, il cui nome greco conserva un indizio sulla sua storia. C’è qualcosa di…",
+      "url": "https://www.stilearte.it/singilia-barba-cenerentola-acilia-plecusa-teatro-romano/",
+      "image": null,
+      "publishedAt": "2026-10-09T06:27:13.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak",
+        "greziarrak"
+      ]
+    },
+    {
       "id": "openalex-archaeology:https://openalex.org/W7214095574",
       "title": "Message in a bottleneck: Nested founder effects from French Polynesia to Rapa Nui and Hawaiʻi",
       "summary": "Message in a bottleneck: Nested founder effects from French Polynesia to Rapa Nui and Hawaiʻi",
@@ -4684,6 +4754,109 @@
       "lang": "en",
       "region": "world",
       "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/los-garabatos-de-los-matematicos-griegos-el-hallazgo-de-cuadernos-de-escribas-que-revelan-como-calculaban-en-el-egipto-romano",
+      "title": "Los «garabatos» de los matemáticos griegos: el hallazgo de cuadernos de escribas que revelan cómo calculaban en el Egipto romano",
+      "summary": "Durante siglos, la historia de las matemáticas griegas ha estado dominada por figuras como Euclides, Arquímedes o Apolonio de Perga. Sin embargo, junto a esa tradición teórica y deductiva, existió otra mucho más terrenal y pragmática que rara vez aparece en los manuales: la…",
+      "url": "https://www.labrujulaverde.com/2026/10/los-garabatos-de-los-matematicos-griegos-el-hallazgo-de-cuadernos-de-escribas-que-revelan-como-calculaban-en-el-egipto-romano",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/1-s2.0-S0315086026000339-gr4_lrg.webp",
+      "publishedAt": "2026-10-08T16:27:47.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "erromatarrak",
+        "egiptoarrak",
+        "greziarrak",
+        "iberiarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/terra-sigillata-nord-italica-romana-produzione-commercio/",
+      "title": "Raffinata terra sigillata romana, da Cremona, Padova e Adria ai Balcani: la scoperta di due grandi aree produttive nel Nord Italia. Le “griffe” dei Padani",
+      "summary": "Una mappa dei consumi, dei centri di produzione e di smistamento delle “terre sigillate” romane tra Lombardia, Veneto e Friuli Venezia Giulia è affrontata da un nuovo studio americano, uscito in queste settimane. La terra sigillata è una ceramica fine da mensa, riconoscibile per…",
+      "url": "https://www.stilearte.it/terra-sigillata-nord-italica-romana-produzione-commercio/",
+      "image": null,
+      "publishedAt": "2026-10-08T14:25:16.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "lemonde-sciences:https://www.lemonde.fr/idees/article/2026/10/08/rempart-de-lutece-la-decouverte-archeologique-peut-etre-instantanee-la-connaissance-ne-l-est-jamais_6790224_3232.html",
+      "title": "Rempart de Lutèce : « La découverte archéologique peut être instantanée, la connaissance ne l’est jamais »",
+      "summary": "A l’occasion de la découverte d’un mur gaulois à l’Hotel-Dieu, à Paris, l’archéologue William Van Andringa rappelle, dans une tribune au « Monde », que l’on ne saurait faire parler les pierres avant même de les avoir interrogées.",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/08/rempart-de-lutece-la-decouverte-archeologique-peut-etre-instantanee-la-connaissance-ne-l-est-jamais_6790224_3232.html",
+      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/7d6bcce_upload-1-pw6fbq25unix-frame-748.jpg",
+      "publishedAt": "2026-10-08T14:00:06.000Z",
+      "source": {
+        "id": "lemonde-sciences",
+        "name": "Le Monde — Sciences"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/paleontologie/a-quoi-ressemblaient-les-premiers-homo-sapiens-il-y-a-300-000-ans_195273?xtor=RSS-4",
+      "title": "Voilà à quoi pouvait ressembler un Homo sapiens il y a 300.000 ans",
+      "summary": "Des chercheurs ont reconstitué en 3D le visage d’un Homo sapiens ayant vécu il y a 300.000 ans à partir de véritables fossiles, ceux de Jebel Irhoud, au Maroc.",
+      "url": "https://www.sciencesetavenir.fr/archeo-paleo/paleontologie/a-quoi-ressemblaient-les-premiers-homo-sapiens-il-y-a-300-000-ans_195273?xtor=RSS-4",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/08/cover-r4x3w1200-6ac6c7a9d6a55-visage-1er-homo-sapiens-jebel-irhoud-3.jpg",
+      "publishedAt": "2026-10-08T11:47:09.000Z",
+      "source": {
+        "id": "sciencesetavenir-archeo",
+        "name": "Sciences et Avenir — Archéo & Paléo"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/hallan-184-tablillas-del-archivo-del-imperio-hitita-hablan-de-fiebres-que-mataban-ninos-y-de-augures-que-viajaban",
+      "title": "Hallan 184 tablillas del archivo del Imperio Hitita: hablan de fiebres que mataban niños y de augures que viajaban",
+      "summary": "Los generales hititas destinados en el oeste de Anatolia no se andan con rodeos. Cuentan al rey que el territorio está rodeado de enemigos, piden soldados, caballos y carros de guerra y advierten de que, si la ayuda no llega, el ejército puede ser destruido. Añaden además que no…",
+      "url": "https://www.labrujulaverde.com/2026/10/hallan-184-tablillas-del-archivo-del-imperio-hitita-hablan-de-fiebres-que-mataban-ninos-y-de-augures-que-viajaban",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/516475-AFABFCFC2A0CCED-labrujulaverde.com-050799B55B408C8F062B53B30-0.webp",
+      "publishedAt": "2026-10-08T10:14:54.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "ekialde-hurbila"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/los-neandertales-no-solo-tallaban-piedra-descubren-lanzas-bandejas-y-una-maza-de-madera-en-un-yacimiento-de-barcelona",
+      "title": "Los neandertales no solo tallaban piedra: descubren lanzas, bandejas y una maza de madera en un yacimiento de Barcelona",
+      "summary": "Cuando se habla de la tecnología de los neandertales, casi siempre se habla de piedra: puntas, raspadores, lascas talladas. Tiene su lógica, porque la piedra aguanta cientos de miles de años y la madera casi nunca llega a nuestros días. Un palo enterrado se pudre en poco tiempo,…",
+      "url": "https://www.labrujulaverde.com/2026/10/los-neandertales-no-solo-tallaban-piedra-descubren-lanzas-bandejas-y-una-maza-de-madera-en-un-yacimiento-de-barcelona",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/4255_medium-copia.webp",
+      "publishedAt": "2026-10-08T08:37:31.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
     },
     {
       "id": "stilearte:https://www.stilearte.it/numluli-citta-romana-tunisia/",
@@ -4853,6 +5026,36 @@
         "erdi-aroa",
         "aurkikuntza"
       ]
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W4205400149",
+      "title": "Cahiers de civilisation espagnole contemporaine",
+      "summary": "Revue électronique consacrée à l'étude des sociétés et des cultures de l'Espagne contemporaine / Revista electrónica francesa dedicada al estudio de la historia de España / This electronic review is dedicated to the history of Spain.",
+      "url": "https://doi.org/10.4000/ccec",
+      "image": null,
+      "publishedAt": "2026-10-07T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "iberia",
+      "topics": []
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W4205461035",
+      "title": "Cahiers d'études africaines",
+      "summary": "Avertissement Le contenu de ce site relève de la législation française sur la propriété intellectuelle et est la propriété exclusive de l'éditeur. Les œuvres figurant sur ce site peuvent être consultées et reproduites sur un support papier ou numérique sous réserve qu'elles…",
+      "url": "https://doi.org/10.4000/etudesafricaines",
+      "image": null,
+      "publishedAt": "2026-10-07T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
     },
     {
       "id": "live-science-arch:https://www.livescience.com/archaeology/vikings/archaeologists-discover-a-childs-skull-built-into-the-floor-of-a-2-500-year-old-scandinavian-house",
@@ -8653,209 +8856,6 @@
         "name": "La Brújula Verde"
       },
       "lang": "es",
-      "region": "world",
-      "topics": [
-        "egiptoarrak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/news/barton-burial-reveals-complex-picture-of-the-norman-conquest/",
-      "title": "Barton burial reveals complex picture of the Norman Conquest",
-      "summary": "New research into a man buried at St Peter’s in Barton-upon-Humber almost 1,000 years ago has shed new light on the complexity of society in Britain during the Norman Conquest. The unusual",
-      "url": "https://the-past.com/news/barton-burial-reveals-complex-picture-of-the-norman-conquest/",
-      "image": null,
-      "publishedAt": "2026-09-29T08:00:32.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/lago-mezzano-terza-spada-nuovi-reperti-bronzo-valentano/",
-      "title": "Splendore. Lago di Mezzano, scoperta terza spada del Bronzo Recente. Contenitori intatti e oggetti deposti prima della Fondazione di Roma. Cosa c’era in quel punto? Chi viveva qui? La notizia, l’approfondimento. Gli scavi in corso",
-      "summary": "Una terza spada a lingua da presa, vasi integri, un rasoio e un’ascia emergono dal settore meridionale del Lago di Mezzano, nell’area dell’antico insediamento palafitticolo.La scoperta della Soprintendenza si aggiunge agli oltre 25 bronzi recuperati nella campagna precedente e…",
-      "url": "https://www.stilearte.it/lago-mezzano-terza-spada-nuovi-reperti-bronzo-valentano/",
-      "image": null,
-      "publishedAt": "2026-09-29T05:06:12.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "cambridge-caj:https://openalex.org/W7214753068",
-      "title": "Mortuary Expressions of Identity and Status at the Xichagou Site, Liaoning, China",
-      "summary": "Abstract This study examines mortuary assemblages from the Xichagou site in Liaoning, China, dated to c. 200–1 bc . A quantitative analysis of grave goods from 63 burials, employing multi-dimensional scaling and k-means cluster analysis, yields several key findings. First, the…",
-      "url": "https://doi.org/10.1017/s095977432610078x",
-      "image": null,
-      "publishedAt": "2026-09-29T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-caj",
-        "name": "Cambridge Archaeological Journal"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria",
-        "asia"
-      ]
-    },
-    {
-      "id": "cambridge-caj:https://openalex.org/W7214808252",
-      "title": "Exploring Subaltern Agency in Colonial Systems: Metals and Resource Access in 18th Dynasty Lower Nubia (1550–1292 bce )",
-      "summary": "Abstract This article examines the material dimensions of subaltern agency within the colonial landscape of New Kingdom Nubia (1550–1070 bce ), focusing on metal artefacts from mortuary contexts in Debeira, Lower Nubia. Drawing on portable X-ray fluorescence (pXRF) analysis of…",
-      "url": "https://doi.org/10.1017/s0959774326100778",
-      "image": null,
-      "publishedAt": "2026-09-29T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-caj",
-        "name": "Cambridge Archaeological Journal"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "cambridge-ejarc:https://openalex.org/W7214776999",
-      "title": "Jan Turek and Petr Krištuf. The Tombs of the Forefathers. Neolithic long Barrows in Ritual Landscapes (Oxford: Oxbow Books, 2025, 196 pp., 188 illustr. and 14 tables, pbk, ISBN 979-8-88857-202-3)",
-      "summary": "Jan Turek and Petr Krištuf. The Tombs of the Forefathers. Neolithic long Barrows in Ritual Landscapes (Oxford: Oxbow Books, 2025, 196 pp., 188 illustr. and 14 tables, pbk, ISBN 979-8-88857-202-3)",
-      "url": "https://doi.org/10.1017/eaa.2026.10042",
-      "image": null,
-      "publishedAt": "2026-09-29T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-ejarc",
-        "name": "European Journal of Archaeology"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/archaeology/ancient-egyptians/listen-father-1-700-year-old-tomb-discovered-in-egypt-contains-a-poem-in-ancient-greek-and-spells-to-protect-the-dead",
-      "title": "'Listen, father!': 1,700-year-old tomb discovered in Egypt contains a poem in ancient Greek and spells to protect the dead",
-      "summary": "A tomb dating back to the time the Romans controlled Egypt contains a funerary poem in ancient Greek.",
-      "url": "https://www.livescience.com/archaeology/ancient-egyptians/listen-father-1-700-year-old-tomb-discovered-in-egypt-contains-a-poem-in-ancient-greek-and-spells-to-protect-the-dead",
-      "image": "https://cdn.mos.cms.futurecdn.net/9gWiGxCVYBzvbfYigfjhi6-1920-80.jpg",
-      "publishedAt": "2026-09-28T19:44:23.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "erromatarrak",
-        "egiptoarrak",
-        "greziarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/whats-on/museum-news-41/",
-      "title": "Museum news",
-      "summary": "The latest on acquisitions, exhibitions, and key decisions.",
-      "url": "https://the-past.com/review/whats-on/museum-news-41/",
-      "image": null,
-      "publishedAt": "2026-09-28T19:00:55.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "museoak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/feature/beyond-conquerors-and-kings-encountering-ordinary-people-in-the-bayeux-tapestry/",
-      "title": "Beyond conquerors and kings: Encountering ordinary people in the Bayeux Tapestry",
-      "summary": "The Bayeux Tapestry is perhaps the most recognisable piece of early medieval art – and, almost 1,000 years after the brutal events that it depicts, rather friendlier relations between England and France have seen the famous embroidery travel to the British Museum for a hotly…",
-      "url": "https://the-past.com/feature/beyond-conquerors-and-kings-encountering-ordinary-people-in-the-bayeux-tapestry/",
-      "image": null,
-      "publishedAt": "2026-09-28T18:00:23.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "erdi-aroa",
-        "museoak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/books/the-bayeux-tapestry/",
-      "title": "The Bayeux Tapestry",
-      "summary": "Britain has been overcome by Bayeux Tapestry fever (as has CA: see our feature on here and more in Sherds on here) with the famous embroidery returning to British soil for the",
-      "url": "https://the-past.com/review/books/the-bayeux-tapestry/",
-      "image": null,
-      "publishedAt": "2026-09-28T17:55:48.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/comment/the-bayeux-tapestry-2/",
-      "title": "The Bayeux Tapestry",
-      "summary": "The Bayeux Tapestry has gone on display at the British Museum at last, despite the fears of some conservators that transporting it to London would cause irreparable damage. In the event, two threads were found to be broken when the Tapestry was inspected after arriving in London.",
-      "url": "https://the-past.com/comment/the-bayeux-tapestry-2/",
-      "image": null,
-      "publishedAt": "2026-09-28T17:50:26.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "museoak"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/sin-asignatura-de-religion-pero-con-mas-de-dos-mil-dioses-en-el-examen-asi-educaba-babilonia-a-sus-elites-hace-2500-anos",
-      "title": "Sin asignatura de Religión, pero con más de dos mil dioses en el examen: así educaba Babilonia a sus élites hace 2.500 años",
-      "summary": "Que un imperio entero pudiera funcionar sin una sola clase de Religión suena, visto desde hoy, casi imposible. Y sin embargo así educaba Babilonia a los hijos de sus familias más pudientes hace dos mil quinientos años: no había una hora a la semana dedicada a los dioses, ni un…",
-      "url": "https://www.labrujulaverde.com/2026/09/sin-asignatura-de-religion-pero-con-mas-de-dos-mil-dioses-en-el-examen-asi-educaba-babilonia-a-sus-elites-hace-2500-anos",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/365913B4-3541-4F0B-B019-68F1FDF143D8.webp",
-      "publishedAt": "2026-09-28T17:07:12.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "ekialde-hurbila"
-      ]
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/archaeology/ancient-egyptians/a-72-year-old-photo-is-revealing-news-clues-about-meretneith-a-powerful-woman-who-may-have-ruled-egypt-5-000-years-ago",
-      "title": "A 72-year-old photo is revealing new clues about 'Meretneith,' a powerful woman who may have ruled Egypt 5,000 years ago",
-      "summary": "An ancient Egyptian woman named Meretneith had a lavish tomb, and on it her name was written the same way as a pharaoh.",
-      "url": "https://www.livescience.com/archaeology/ancient-egyptians/a-72-year-old-photo-is-revealing-news-clues-about-meretneith-a-powerful-woman-who-may-have-ruled-egypt-5-000-years-ago",
-      "image": "https://cdn.mos.cms.futurecdn.net/aPbgwdiD8AjLWbBS5mu5pn-1920-80.jpg",
-      "publishedAt": "2026-09-28T13:00:00.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
       "region": "world",
       "topics": [
         "egiptoarrak"
