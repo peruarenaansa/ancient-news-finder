@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T07:38:52.232Z",
+  "generatedAt": "2026-10-10T07:25:14.192Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5103
+      "elapsedMs": 5887
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 587
+      "elapsedMs": 803
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 5066
+      "elapsedMs": 4770
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 497
+      "elapsedMs": 1019
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2205
+      "elapsedMs": 3263
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 9,
       "droppedOffTopic": 21,
       "droppedModern": 0,
-      "elapsedMs": 2268
+      "elapsedMs": 3294
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 2,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 849
+      "elapsedMs": 1389
     },
     {
       "id": "labrujulaverde",
@@ -98,10 +98,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 15,
+      "kept": 14,
       "droppedOffTopic": 2,
-      "droppedModern": 3,
-      "elapsedMs": 1580
+      "droppedModern": 4,
+      "elapsedMs": 2184
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 773
+      "elapsedMs": 1780
     },
     {
       "id": "elpais-cultura",
@@ -124,10 +124,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 0,
-      "droppedOffTopic": 30,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 601
+      "elapsedMs": 1602
     },
     {
       "id": "lemonde-sciences",
@@ -137,10 +137,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 1,
-      "droppedOffTopic": 19,
+      "kept": 2,
+      "droppedOffTopic": 18,
       "droppedModern": 0,
-      "elapsedMs": 687
+      "elapsedMs": 1062
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 7,
       "droppedOffTopic": 11,
       "droppedModern": 2,
-      "elapsedMs": 1605
+      "elapsedMs": 1405
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +162,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 18,
-      "kept": 11,
+      "fetched": 19,
+      "kept": 12,
       "droppedOffTopic": 7,
       "droppedModern": 0,
-      "elapsedMs": 1075
+      "elapsedMs": 1637
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +179,7 @@
       "kept": 4,
       "droppedOffTopic": 17,
       "droppedModern": 4,
-      "elapsedMs": 2240
+      "elapsedMs": 3316
     },
     {
       "id": "sudouest-culture",
@@ -189,10 +189,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 0,
-      "droppedOffTopic": 20,
+      "kept": 1,
+      "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1046
+      "elapsedMs": 2184
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1809
+      "elapsedMs": 2160
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 2,
       "droppedOffTopic": 0,
       "droppedModern": 8,
-      "elapsedMs": 1817
+      "elapsedMs": 2736
     },
     {
       "id": "stilearte",
@@ -231,7 +231,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 1873
+      "elapsedMs": 2468
     },
     {
       "id": "live-science-arch",
@@ -241,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 2,
-      "droppedOffTopic": 28,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2194
+      "elapsedMs": 2981
     },
     {
       "id": "bbc-history",
@@ -254,10 +254,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 1,
-      "droppedOffTopic": 9,
+      "kept": 0,
+      "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1329
+      "elapsedMs": 1828
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +270,7 @@
       "kept": 18,
       "droppedOffTopic": 12,
       "droppedModern": 0,
-      "elapsedMs": 1533
+      "elapsedMs": 1891
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1397
+      "elapsedMs": 2145
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 9,
       "droppedOffTopic": 8,
       "droppedModern": 3,
-      "elapsedMs": 1693
+      "elapsedMs": 2196
     },
     {
       "id": "current-archaeology",
@@ -309,7 +309,7 @@
       "kept": 23,
       "droppedOffTopic": 4,
       "droppedModern": 3,
-      "elapsedMs": 1428
+      "elapsedMs": 2224
     },
     {
       "id": "jas-reports",
@@ -319,10 +319,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 7,
+      "kept": 6,
       "droppedOffTopic": 3,
-      "droppedModern": 20,
-      "elapsedMs": 1444
+      "droppedModern": 21,
+      "elapsedMs": 2134
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +335,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1478
+      "elapsedMs": 2345
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 16,
       "droppedOffTopic": 9,
       "droppedModern": 5,
-      "elapsedMs": 2163
+      "elapsedMs": 3054
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +361,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 18,
-      "elapsedMs": 1461
+      "elapsedMs": 2227
     },
     {
       "id": "spal-us",
@@ -371,7 +371,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 401",
-      "elapsedMs": 7121
+      "elapsedMs": 8226
     },
     {
       "id": "complutum-ucm",
@@ -384,7 +384,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 20069
+      "elapsedMs": 4358
     },
     {
       "id": "archeoarte",
@@ -393,8 +393,8 @@
       "region": "europe",
       "kind": "research",
       "ok": false,
-      "error": "Request timed out after 15000ms",
-      "elapsedMs": 49509
+      "error": "Status code 404",
+      "elapsedMs": 9222
     },
     {
       "id": "cypsela",
@@ -404,7 +404,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 6690
+      "elapsedMs": 7332
     },
     {
       "id": "cambridge-antiquity",
@@ -417,7 +417,7 @@
       "kept": 20,
       "droppedOffTopic": 5,
       "droppedModern": 5,
-      "elapsedMs": 2182
+      "elapsedMs": 2980
     },
     {
       "id": "cambridge-caj",
@@ -430,7 +430,7 @@
       "kept": 18,
       "droppedOffTopic": 6,
       "droppedModern": 6,
-      "elapsedMs": 1904
+      "elapsedMs": 2881
     },
     {
       "id": "cambridge-ejarc",
@@ -440,10 +440,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 18,
+      "kept": 17,
       "droppedOffTopic": 5,
-      "droppedModern": 7,
-      "elapsedMs": 1882
+      "droppedModern": 8,
+      "elapsedMs": 2844
     },
     {
       "id": "aquitania-persee",
@@ -456,7 +456,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2773
+      "elapsedMs": 3982
     },
     {
       "id": "cuadernos-arq-unav",
@@ -469,7 +469,7 @@
       "kept": 21,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 2949
+      "elapsedMs": 4074
     },
     {
       "id": "veleia-ehu",
@@ -482,7 +482,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 2886
+      "elapsedMs": 4186
     },
     {
       "id": "flv-navarra",
@@ -495,7 +495,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2091
+      "elapsedMs": 3368
     },
     {
       "id": "munibe-aa",
@@ -508,7 +508,7 @@
       "kept": 18,
       "droppedOffTopic": 3,
       "droppedModern": 9,
-      "elapsedMs": 2102
+      "elapsedMs": 3004
     },
     {
       "id": "trabajos-prehistoria",
@@ -521,7 +521,7 @@
       "kept": 23,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 2062
+      "elapsedMs": 3244
     },
     {
       "id": "openalex-archaeology",
@@ -531,10 +531,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 15,
+      "kept": 14,
       "droppedOffTopic": 6,
-      "droppedModern": 9,
-      "elapsedMs": 2015
+      "droppedModern": 10,
+      "elapsedMs": 3329
     }
   ],
   "items": [
@@ -748,6 +748,21 @@
       "topics": [
         "erdi-aroa"
       ]
+    },
+    {
+      "id": "sudouest-culture:https://www.sudouest.fr/sciences-et-technologie/gironde-a-saint-medard-d-eyrans-une-conference-remonte-les-temps-geologiques-30978225.php",
+      "title": "Gironde : à Saint-Médard-d’Eyrans, une conférence remonte les temps géologiques",
+      "summary": "Pour les 30 ans de l’association paléontologique APBA, une première conférence est organisée lundi 12 octobre, sur les fouilles menées à Villagrains",
+      "url": "https://www.sudouest.fr/sciences-et-technologie/gironde-a-saint-medard-d-eyrans-une-conference-remonte-les-temps-geologiques-30978225.php",
+      "image": null,
+      "publishedAt": "2026-10-09T17:01:00.000Z",
+      "source": {
+        "id": "sudouest-culture",
+        "name": "Sud Ouest — Culture"
+      },
+      "lang": "fr",
+      "region": "basque",
+      "topics": []
     },
     {
       "id": "openalex-archaeology:https://openalex.org/W7210336858",
@@ -4688,6 +4703,71 @@
       ]
     },
     {
+      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/il-y-a-5000-ans-des-sacrifices-humains-accompagnaient-la-mort-des-premiers-pharaons-egyptiens_195296?xtor=RSS-4",
+      "title": "Egypte ancienne: des sacrifices humains accompagnaient le trépas des premiers pharaons",
+      "summary": "Abydos est le seul site égyptien où l’on trouve des preuves de sacrifice humain. Mais pour établir scientifiquement ces preuves, il a fallu attendre le développement des techniques modernes de l’archéologie.",
+      "url": "https://www.sciencesetavenir.fr/archeo-paleo/il-y-a-5000-ans-des-sacrifices-humains-accompagnaient-la-mort-des-premiers-pharaons-egyptiens_195296?xtor=RSS-4",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/08/cover-r4x3w1200-6ac80fb2b0792-abydos-brown-univ.jpg",
+      "publishedAt": "2026-10-09T12:53:06.000Z",
+      "source": {
+        "id": "sciencesetavenir-archeo",
+        "name": "Sciences et Avenir — Archéo & Paléo"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak"
+      ]
+    },
+    {
+      "id": "elpais-cultura:https://elpais.com/cultura/2026-10-09/recuperados-un-mes-despues-los-dos-cuadros-robados-del-museo-renoir-en-francia.html",
+      "title": "Recuperados un mes después los dos cuadros robados del Museo Renoir en Francia",
+      "summary": "Se trata de las piezas ‘Madame Colonna Romano’ y ‘Jeune femme au puits’, que habían sido sustraídas de la pinacoteca ubicada en la localidad de Cagnes-sur-Mer",
+      "url": "https://elpais.com/cultura/2026-10-09/recuperados-un-mes-despues-los-dos-cuadros-robados-del-museo-renoir-en-francia.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/AJVWOVUVCFESPB6KPBXDPJOEXM.jpg?auth=680eab37e69af5bcc2d5be162d4da84a4f11df9514d435e291215f20d7466777",
+      "publishedAt": "2026-10-09T12:32:01.000Z",
+      "source": {
+        "id": "elpais-cultura",
+        "name": "El País — Cultura"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "erromatarrak",
+        "museoak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/el-telescopio-james-webb-observa-nubes-agua-mundo-del-tamano-de-jupiter-7-anos-luz-del-sol",
+      "title": "El telescopio James Webb observa nubes de agua en un mundo del tamaño de Júpiter a 7 años luz del Sol",
+      "summary": "A 7,4 años luz del Sol, unos 70 billones de kilómetros, flota un objeto con una temperatura efectiva de unos 265 kelvin, es decir, unos 8 grados bajo cero. Es el frío de una mañana de helada en enero en el interior peninsular, pero a escala de astro: hablamos de algo con un…",
+      "url": "https://www.labrujulaverde.com/2026/10/el-telescopio-james-webb-observa-nubes-agua-mundo-del-tamano-de-jupiter-7-anos-luz-del-sol",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/Cold_and_Close_Celestial_Orb_Artists_Concept.tif.webp",
+      "publishedAt": "2026-10-09T11:02:52.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/la-muela-de-un-elefante-gigante-revela-que-los-primeros-humanos-de-oriente-proximo-vivian-en-un-valle-verde-de-lagos-y-canaverales",
+      "title": "La muela de un elefante gigante revela que los primeros humanos de Oriente Próximo vivían en un valle verde de lagos y cañaverales",
+      "summary": "Entre las hachas de piedra que unos homínidos dejaron junto a un lago del norte de Israel apareció algo bastante más grande: una muela de elefante de unos 20 centímetros de alto y 8 de ancho, acompañada de varios fragmentos de colmillo. Estaban en el mismo nivel del terreno que…",
+      "url": "https://www.labrujulaverde.com/2026/10/la-muela-de-un-elefante-gigante-revela-que-los-primeros-humanos-de-oriente-proximo-vivian-en-un-valle-verde-de-lagos-y-canaverales",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/Low-Res_Area-B-2022-tel-24.webp",
+      "publishedAt": "2026-10-09T09:15:18.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
       "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326002414?dgcid=rss_sd_all",
       "title": "From ashes to mortuary rituals: Identifying cremation burials and exploring concepts of death in late Neolithic Southern China",
       "summary": "Publication date: November 2026 Source: Journal of Archaeological Science, Volume 195 Author(s): Wuhong Luo, Tianci Sun, Dongyang Cao, Jia He, Youjin Wu, Fang Fang",
@@ -4741,10 +4821,77 @@
       ]
     },
     {
+      "id": "lemonde-sciences:https://www.lemonde.fr/sciences/article/2026/10/09/huit-livres-de-sciences-a-decouvrir-cerveau-des-papillons-maths-au-moyen-age-inventeur-du-frottis_6790489_1650684.html",
+      "title": "Huit livres de sciences à découvrir : cerveau des papillons, maths au Moyen Age, inventeur du frottis…",
+      "summary": "Les journalistes Sciences du « Monde » ont sélectionné pour vous leurs ouvrages préférés des derniers mois. Au programme, une plongée dans la tête des lépidoptères, des découvertes en situation de crise ou encore de la préhistoire et des tardigrades.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/10/09/huit-livres-de-sciences-a-decouvrir-cerveau-des-papillons-maths-au-moyen-age-inventeur-du-frottis_6790489_1650684.html",
+      "image": "https://img.lemde.fr/2026/09/17/160/0/1920/960/644/322/60/0/8f2f1ae_upload-1-4p2qst4wj1nh-generated-1789633864148.jpg",
+      "publishedAt": "2026-10-09T02:30:03.000Z",
+      "source": {
+        "id": "lemonde-sciences",
+        "name": "Le Monde — Sciences"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": [
+        "prehistoria",
+        "aurkikuntza"
+      ]
+    },
+    {
       "id": "openalex-archaeology:https://openalex.org/W7214095574",
       "title": "Message in a bottleneck: Nested founder effects from French Polynesia to Rapa Nui and Hawaiʻi",
       "summary": "Message in a bottleneck: Nested founder effects from French Polynesia to Rapa Nui and Hawaiʻi",
       "url": "https://doi.org/10.5281/zenodo.20399671",
+      "image": null,
+      "publishedAt": "2026-10-09T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W4248496052",
+      "title": "Memoirs of the Queensland Museum – Nature",
+      "summary": "The museum's peer-reviewed journal shares new knowledge from research on the material evidence, traditions and history of the natural, ancient and cultural environments of Queensland and adjacent land and seas, with all communities.",
+      "url": "https://doi.org/10.17082/j.2204-1478",
+      "image": null,
+      "publishedAt": "2026-10-09T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "museoak"
+      ]
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7220939691",
+      "title": "Hazard assessment of spontaneous plants based on plant diversity: A case study of the Jiahu Archaeological Site, China",
+      "summary": "Hazard assessment of spontaneous plants based on plant diversity: A case study of the Jiahu Archaeological Site, China",
+      "url": "https://doi.org/10.1016/j.ibiod.2026.106485",
+      "image": null,
+      "publishedAt": "2026-10-09T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "asia"
+      ]
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7221024572",
+      "title": "Corpus analytique et typologique des ovaloïdes du Sahara central",
+      "summary": "Corpus analytique et typologique des ovaloïdes du Sahara central",
+      "url": "https://doi.org/10.34847/nkl.dcc3diut",
       "image": null,
       "publishedAt": "2026-10-09T00:00:00.000Z",
       "source": {
@@ -8707,158 +8854,6 @@
       "topics": [
         "prehistoria",
         "aurkikuntza"
-      ]
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/archaeology/africas-oldest-known-defensive-wall-outside-egypt-discovered-and-its-4-000-years-old",
-      "title": "Africa's oldest known defensive wall outside Egypt discovered, and it's 4,000 years old",
-      "summary": "An elaborate 4,000-year-old defensive wall was discovered in Morocco, and it once protected a thriving farming hub, archaeologists say.",
-      "url": "https://www.livescience.com/archaeology/africas-oldest-known-defensive-wall-outside-egypt-discovered-and-its-4-000-years-old",
-      "image": "https://cdn.mos.cms.futurecdn.net/paTiS7NkxtC5ZjCBh8CKvP-1920-80.jpg",
-      "publishedAt": "2026-09-29T15:05:35.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "egiptoarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/feature/the-wemyss-caves-tracing-40-years-of-conservation-community-and-discovery/",
-      "title": "The Wemyss Caves: Tracing 40 years of conservation, community, and discovery",
-      "summary": "The caves at East Wemyss are home to traces of human activity spanning prehistory to the present day, including important Pictish carvings. In recent decades some of these interactions have been destructive, but the local community is working to preserve this unique collection.…",
-      "url": "https://the-past.com/feature/the-wemyss-caves-tracing-40-years-of-conservation-community-and-discovery/",
-      "image": null,
-      "publishedAt": "2026-09-29T14:00:48.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/les-fleches-du-diable-le-plus-haut-alignement-de-megalithes-de-grande-bretagne-faisait-partie-d-un-vaste-paysage-ceremoniel_195113?xtor=RSS-4",
-      "title": "Le long périple des \"flèches du Diable\", cinq monolithes cérémoniels de Grande-Bretagne",
-      "summary": "Pourquoi les communautés britanniques du Néolithique ont-elles transporté d’immenses monolithes sur près de 20 kilomètres alors que la même pierre était disponible bien plus près de l’endroit choisi pour les ériger ?",
-      "url": "https://www.sciencesetavenir.fr/archeo-paleo/les-fleches-du-diable-le-plus-haut-alignement-de-megalithes-de-grande-bretagne-faisait-partie-d-un-vaste-paysage-ceremoniel_195113?xtor=RSS-4",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/28/cover-r4x3w1200-6aba8dd76b36e-devil-s-arrows-fleches-du-diable-yorkshire.jpg",
-      "publishedAt": "2026-09-29T12:34:48.000Z",
-      "source": {
-        "id": "sciencesetavenir-archeo",
-        "name": "Sciences et Avenir — Archéo & Paléo"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/09/260927225036.htm",
-      "title": "This 245-million-year-old fossil still has its stomach and intestines",
-      "summary": "A 245-million-year-old marine reptile fossil preserves an astonishing amount of detail, including its stomach, liver, and intestines. The discovery reveals that Austronaga minuta was highly adapted for swimming even though its digestive system remained surprisingly simple.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260927225036.htm",
-      "image": null,
-      "publishedAt": "2026-09-29T11:39:27.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/asi-transformaron-los-ingenieros-griegos-la-costa-de-apollonia-en-el-puerto-militar-y-comercial-de-cirene-hace-2600-anos-hoy-sumergido",
-      "title": "Así transformaron los ingenieros griegos la costa de Apollonia en el puerto militar y comercial de Cirene hace 2.600 años, hoy sumergido",
-      "summary": "Apollonia, en la costa oriental de Libia, fue durante más de 1.200 años el puerto y la base naval de Cirene, una de las ciudades griegas más prósperas del Mediterráneo antiguo. Un nuevo artículo científico, firmado por Nic Flemming, Julia Nikolaus, Saad Mohammed Boyadem y Ahmad…",
-      "url": "https://www.labrujulaverde.com/2026/09/asi-transformaron-los-ingenieros-griegos-la-costa-de-apollonia-en-el-puerto-militar-y-comercial-de-cirene-hace-2600-anos-hoy-sumergido",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/urn-cambridge.org-id-binary-alt-20260922140045-86618-optimisedImage-png-S0263718926100430_fig7.jpg.webp",
-      "publishedAt": "2026-09-29T11:16:46.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "greziarrak",
-        "ekialde-hurbila"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/scoperto-villaggio-eta-ferro-val-pusteria/",
-      "title": "Scoperto presso Bolzano villaggio antichissimo. Ad Anterselva 30 case e una necropoli per neonati di 2500 anni fa. Che popolazione abitava qui? Come viveva? Come pensava? La notizia e l’approfondimento",
-      "summary": "In Val Pusteria gli archeologi hanno riportato alla luce un grande insediamento dell’Età del Ferro. Case, ceramiche, telai, macine, bronzi e sepolture infantili rivelano una comunità alpina in contatto con il Veneto Tra l’800 e il 500 a.C. le montagne dell’Alto Adige erano…",
-      "url": "https://www.stilearte.it/scoperto-villaggio-eta-ferro-val-pusteria/",
-      "image": null,
-      "publishedAt": "2026-09-29T09:19:43.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/hallan-en-bulgaria-la-posible-mansion-del-general-que-vigilaba-a-una-legion-romana-en-nombre-del-emperador",
-      "title": "Hallan en Bulgaria la posible mansión del general que vigilaba a una legión romana en nombre del emperador",
-      "summary": "En una fortaleza legionaria romana casi nadie tenía baño propio. Había termas para toda la legión y, en la práctica, solo el legado, el jefe supremo del cuerpo, podía permitirse unas privadas de cierto tamaño. Lo explica el arqueólogo Piotr Dyczek, y viene a cuento porque su…",
-      "url": "https://www.labrujulaverde.com/2026/09/hallan-en-bulgaria-la-posible-mansion-del-general-que-vigilaba-a-una-legion-romana-en-nombre-del-emperador",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/rzymskie-podlogi-1024x971-1.webp",
-      "publishedAt": "2026-09-29T09:11:51.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/scudo-lancia-celtici-erdobenye-celti-italia-la-tene/",
-      "title": "Trovati in Ungheria scudo e lancia dei “fratelli celti” dei Galli di Milano, Brescia, Bergamo, Verona, Bologna e delle Marche. Cosa avvenne in quell’epoca? Chi erano questi uomini?",
-      "summary": "Nel territorio di Erdőbénye, nell’Ungheria nord-orientale, gli archeologi hanno recuperato una punta di lancia e gli elementi metallici di uno scudo celtico. Il ritrovamento è avvenuto in questi giorni – settembre 2026 – durante una campagna di ricerca condotta dal Museo…",
-      "url": "https://www.stilearte.it/scudo-lancia-celtici-erdobenye-celti-italia-la-tene/",
-      "image": null,
-      "publishedAt": "2026-09-29T08:17:13.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "museoak"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/quien-cuidaba-las-tumbas-en-tiempos-de-las-piramides-la-red-de-lealtades-que-sostenia-el-mas-alla-egipcio",
-      "title": "¿Quién cuidaba las tumbas en tiempos de las pirámides? La red de lealtades que sostenía el más allá egipcio",
-      "summary": "Al pensar en el culto funerario del antiguo Egipto, la imaginación se va enseguida al difunto, a sus ofrendas y a los dioses. Quienes cada día llevaban el pan, la cerveza o el incienso hasta la tumba suelen quedar fuera de la imagen. Un equipo de la Universidad de Sevilla quiere…",
-      "url": "https://www.labrujulaverde.com/2026/09/quien-cuidaba-las-tumbas-en-tiempos-de-las-piramides-la-red-de-lealtades-que-sostenia-el-mas-alla-egipcio",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/2_5.webp",
-      "publishedAt": "2026-09-29T08:02:48.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "egiptoarrak"
       ]
     }
   ]
