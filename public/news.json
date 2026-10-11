@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T07:25:14.192Z",
+  "generatedAt": "2026-10-11T07:29:59.462Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5887
+      "elapsedMs": 5542
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 803
+      "elapsedMs": 1027
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 4770
+      "elapsedMs": 3616
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1019
+      "elapsedMs": 968
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3263
+      "elapsedMs": 2841
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 9,
       "droppedOffTopic": 21,
       "droppedModern": 0,
-      "elapsedMs": 3294
+      "elapsedMs": 2843
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 2,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 1389
+      "elapsedMs": 1159
     },
     {
       "id": "labrujulaverde",
@@ -101,7 +101,7 @@
       "kept": 14,
       "droppedOffTopic": 2,
       "droppedModern": 4,
-      "elapsedMs": 2184
+      "elapsedMs": 1756
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 1780
+      "elapsedMs": 1560
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1602
+      "elapsedMs": 2202
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 2,
       "droppedOffTopic": 18,
       "droppedModern": 0,
-      "elapsedMs": 1062
+      "elapsedMs": 1073
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 7,
       "droppedOffTopic": 11,
       "droppedModern": 2,
-      "elapsedMs": 1405
+      "elapsedMs": 1324
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -166,7 +166,7 @@
       "kept": 12,
       "droppedOffTopic": 7,
       "droppedModern": 0,
-      "elapsedMs": 1637
+      "elapsedMs": 1513
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +179,7 @@
       "kept": 4,
       "droppedOffTopic": 17,
       "droppedModern": 4,
-      "elapsedMs": 3316
+      "elapsedMs": 2897
     },
     {
       "id": "sudouest-culture",
@@ -190,9 +190,9 @@
       "ok": true,
       "fetched": 20,
       "kept": 1,
-      "droppedOffTopic": 19,
-      "droppedModern": 0,
-      "elapsedMs": 2184
+      "droppedOffTopic": 18,
+      "droppedModern": 1,
+      "elapsedMs": 1336
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2160
+      "elapsedMs": 2018
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 2,
       "droppedOffTopic": 0,
       "droppedModern": 8,
-      "elapsedMs": 2736
+      "elapsedMs": 2584
     },
     {
       "id": "stilearte",
@@ -228,10 +228,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 10,
+      "kept": 9,
       "droppedOffTopic": 0,
-      "droppedModern": 0,
-      "elapsedMs": 2468
+      "droppedModern": 1,
+      "elapsedMs": 2438
     },
     {
       "id": "live-science-arch",
@@ -244,7 +244,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2981
+      "elapsedMs": 2614
     },
     {
       "id": "bbc-history",
@@ -257,7 +257,7 @@
       "kept": 0,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1828
+      "elapsedMs": 2212
     },
     {
       "id": "sciencedaily-arch",
@@ -267,10 +267,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 18,
-      "droppedOffTopic": 12,
+      "kept": 19,
+      "droppedOffTopic": 11,
       "droppedModern": 0,
-      "elapsedMs": 1891
+      "elapsedMs": 1988
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 2145
+      "elapsedMs": 2002
     },
     {
       "id": "guardian-arch",
@@ -293,10 +293,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 9,
+      "kept": 10,
       "droppedOffTopic": 8,
-      "droppedModern": 3,
-      "elapsedMs": 2196
+      "droppedModern": 2,
+      "elapsedMs": 2159
     },
     {
       "id": "current-archaeology",
@@ -309,7 +309,7 @@
       "kept": 23,
       "droppedOffTopic": 4,
       "droppedModern": 3,
-      "elapsedMs": 2224
+      "elapsedMs": 1869
     },
     {
       "id": "jas-reports",
@@ -319,10 +319,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 6,
+      "kept": 5,
       "droppedOffTopic": 3,
-      "droppedModern": 21,
-      "elapsedMs": 2134
+      "droppedModern": 22,
+      "elapsedMs": 1993
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +335,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2345
+      "elapsedMs": 2036
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 16,
       "droppedOffTopic": 9,
       "droppedModern": 5,
-      "elapsedMs": 3054
+      "elapsedMs": 2827
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +361,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 18,
-      "elapsedMs": 2227
+      "elapsedMs": 1864
     },
     {
       "id": "spal-us",
@@ -371,7 +371,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 401",
-      "elapsedMs": 8226
+      "elapsedMs": 7817
     },
     {
       "id": "complutum-ucm",
@@ -384,7 +384,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 4358
+      "elapsedMs": 18838
     },
     {
       "id": "archeoarte",
@@ -394,7 +394,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 9222
+      "elapsedMs": 8480
     },
     {
       "id": "cypsela",
@@ -404,7 +404,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 7332
+      "elapsedMs": 7364
     },
     {
       "id": "cambridge-antiquity",
@@ -417,7 +417,7 @@
       "kept": 20,
       "droppedOffTopic": 5,
       "droppedModern": 5,
-      "elapsedMs": 2980
+      "elapsedMs": 2564
     },
     {
       "id": "cambridge-caj",
@@ -430,7 +430,7 @@
       "kept": 18,
       "droppedOffTopic": 6,
       "droppedModern": 6,
-      "elapsedMs": 2881
+      "elapsedMs": 2581
     },
     {
       "id": "cambridge-ejarc",
@@ -443,7 +443,7 @@
       "kept": 17,
       "droppedOffTopic": 5,
       "droppedModern": 8,
-      "elapsedMs": 2844
+      "elapsedMs": 2552
     },
     {
       "id": "aquitania-persee",
@@ -456,7 +456,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3982
+      "elapsedMs": 3239
     },
     {
       "id": "cuadernos-arq-unav",
@@ -469,7 +469,7 @@
       "kept": 21,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 4074
+      "elapsedMs": 3646
     },
     {
       "id": "veleia-ehu",
@@ -482,7 +482,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 4186
+      "elapsedMs": 3482
     },
     {
       "id": "flv-navarra",
@@ -495,7 +495,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 3368
+      "elapsedMs": 2727
     },
     {
       "id": "munibe-aa",
@@ -508,7 +508,7 @@
       "kept": 18,
       "droppedOffTopic": 3,
       "droppedModern": 9,
-      "elapsedMs": 3004
+      "elapsedMs": 2803
     },
     {
       "id": "trabajos-prehistoria",
@@ -521,7 +521,7 @@
       "kept": 23,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 3244
+      "elapsedMs": 2763
     },
     {
       "id": "openalex-archaeology",
@@ -531,10 +531,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 14,
-      "droppedOffTopic": 6,
-      "droppedModern": 10,
-      "elapsedMs": 3329
+      "kept": 11,
+      "droppedOffTopic": 7,
+      "droppedModern": 12,
+      "elapsedMs": 2736
     }
   ],
   "items": [
@@ -4703,6 +4703,133 @@
       ]
     },
     {
+      "id": "stilearte:https://www.stilearte.it/acquedotto-antico-gerusalemme-ramat-rachel/",
+      "title": "L’acqua arrivava proprio da Betlemme a Gerusalemme. Scoperto un acquedotto di 2.000 anni: 300 metri di ingegneria antica che ha dato da dato da bere alla Storia",
+      "summary": "Archeologia – Presso Ramat Rachel, a sud della città, gli archeologi riportano alla luce un lungo tratto dell’acquedotto inferiore, costruito probabilmente in età asmonea e utilizzato, con riparazioni e trasformazioni, fino a circa un secolo fa. Trecento metri di un’opera…",
+      "url": "https://www.stilearte.it/acquedotto-antico-gerusalemme-ramat-rachel/",
+      "image": null,
+      "publishedAt": "2026-10-11T06:44:38.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/pyrgi-nuove-strutture-sommerse-porto-etrusco/",
+      "title": "Santa Marinella, emozione. Nuove strutture sommerse a 80 metri dalla riva: che cosa si nasconde davanti al grande santuario degli Etruschi?",
+      "summary": "Le ricognizioni subacquee condotte davanti a Pyrgi, antico porto di Cerveteri, hanno documentato nuove evidenze archeologiche finora non censite nell’area antistante il santuario di Uni e Leucothea. Lo comunica, in queste ore, Pyrgi-Etruscologia La sapienza con la Soprintendenza…",
+      "url": "https://www.stilearte.it/pyrgi-nuove-strutture-sommerse-porto-etrusco/",
+      "image": null,
+      "publishedAt": "2026-10-11T05:42:50.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/10/261008005256.htm",
+      "title": "Neanderthals may have used prehistoric glue as an ancient antibiotic",
+      "summary": "Neanderthals may have used a sticky substance made from birch bark to treat wounds thousands of years before antibiotics existed. Researchers recreated ancient birch tar production techniques and discovered that every sample could inhibit the growth of bacteria responsible for…",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261008005256.htm",
+      "image": null,
+      "publishedAt": "2026-10-11T00:45:37.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sudouest-culture:https://www.sudouest.fr/dordogne/les-eyzies/les-eyzies-les-chansons-traditionnelles-du-perigord-reunies-dans-une-edition-exceptionnelle-30776589.php",
+      "title": "Les Eyzies : les chansons traditionnelles du Périgord réunies dans une édition exceptionnelle",
+      "summary": "Le Pôle d’interprétation de la préhistoire accueillera la présentation de l’édition complète des collectes réalisées par les abbés Casse et Chaminade",
+      "url": "https://www.sudouest.fr/dordogne/les-eyzies/les-eyzies-les-chansons-traditionnelles-du-perigord-reunies-dans-une-edition-exceptionnelle-30776589.php",
+      "image": null,
+      "publishedAt": "2026-10-10T16:40:00.000Z",
+      "source": {
+        "id": "sudouest-culture",
+        "name": "Sud Ouest — Culture"
+      },
+      "lang": "fr",
+      "region": "basque",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/11-craneos-encontrados-en-una-necropolis-picena-de-la-edad-del-hierro-tienen-la-nuca-aplanada",
+      "title": "11 cráneos encontrados en una necrópolis picena de la Edad del Hierro tienen la nuca aplanada",
+      "summary": "Cualquier pediatra ha visto alguna vez a un bebé que pasa tantas horas tumbado sobre la espalda que acaba con la parte de atrás de la cabeza aplanada de un lado. Se llama plagiocefalia deformacional, un término que viene del griego plagios («oblicuo») y kephalé («cabeza»), y se…",
+      "url": "https://www.labrujulaverde.com/2026/10/11-craneos-encontrados-en-una-necropolis-picena-de-la-edad-del-hierro-tienen-la-nuca-aplanada",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/circoli.webp",
+      "publishedAt": "2026-10-10T15:02:49.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "greziarrak"
+      ]
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/world/2026/oct/10/ukraine-unesco-great-meadow-dnipro-dont-rebuild-dam",
+      "title": "Don’t rebuild the dam: Ukrainian experts urge Unesco to protect site uncovered by Russian sabotage",
+      "summary": "As archaeologists find treasure trove along new floodplain, conservationists say another Nova Kakhovka would be ecocide On a warm September day, a group of underwater archaeologists and researchers were boiling water for tea on their campfire on the banks of the Dnipro River,…",
+      "url": "https://www.theguardian.com/world/2026/oct/10/ukraine-unesco-great-meadow-dnipro-dont-rebuild-dam",
+      "image": "https://i.guim.co.uk/img/media/94a355d4ed746bd0a05e0e7c3af10c73b515ba26/51_0_4375_3500/master/4375.jpg?width=140&quality=85&auto=format&fit=max&s=34f63404a3016130471cacb813b835f4",
+      "publishedAt": "2026-10-10T10:00:54.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/polonia-tomba-forma-barca-chodlik-argento-dente-cavallo/",
+      "title": "Incredibile. Emerge una tomba a forma di barca. Dentro argento, resti umani e un dente di cavallo. Chi era il defunto?",
+      "summary": "Lunga quattro metri e mezzo, stretta poco più di un metro, affiora dalla terra come il fantasma di una barca. Ma qui non c’è un fiume, non c’è un lago, non c’è il mare. Siamo a Chodlik, nell’attuale Polonia, e quella strana imbarcazione è rimasta impressa nel terreno per oltre…",
+      "url": "https://www.stilearte.it/polonia-tomba-forma-barca-chodlik-argento-dente-cavallo/",
+      "image": null,
+      "publishedAt": "2026-10-10T08:26:26.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/un-pequeno-dinosaurio-pudo-devorar-a-un-enorme-depredador-pariente-del-t-rex-las-marcas-de-sus-dientes-revelan-una-escena-insolita",
+      "title": "Un pequeño dinosaurio pudo devorar a un enorme depredador pariente del T. rex: las marcas de sus dientes revelan una escena insólita",
+      "summary": "Hace unos 70 millones de años, en lo que hoy es Alberta (Canadá), un joven Albertosaurus —un pariente del T. rex— acabó siendo alimento de otro dinosaurio. La clave está en unas marcas de mordeduras conservadas en su mandíbula. El estudio, publicado en Journal of Paleontology,…",
+      "url": "https://www.labrujulaverde.com/2026/10/un-pequeno-dinosaurio-pudo-devorar-a-un-enorme-depredador-pariente-del-t-rex-las-marcas-de-sus-dientes-revelan-una-escena-insolita",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/urn-cambridge.org-id-binary-alt-20260928140533-33649-optimisedImage-png-S0022336026102698_fig12.jpg.webp",
+      "publishedAt": "2026-10-10T07:49:15.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
       "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/il-y-a-5000-ans-des-sacrifices-humains-accompagnaient-la-mort-des-premiers-pharaons-egyptiens_195296?xtor=RSS-4",
       "title": "Egypte ancienne: des sacrifices humains accompagnaient le trépas des premiers pharaons",
       "summary": "Abydos est le seul site égyptien où l’on trouve des preuves de sacrifice humain. Mais pour établir scientifiquement ces preuves, il a fallu attendre le développement des techniques modernes de l’archéologie.",
@@ -8730,129 +8857,6 @@
       "region": "world",
       "topics": [
         "erdi-aroa",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "cambridge-antiquity:https://openalex.org/W7214927183",
-      "title": "AQY volume 100 issue 413 Cover and Front matter",
-      "summary": "AQY volume 100 issue 413 Cover and Front matter",
-      "url": "https://doi.org/10.15184/aqy.2025.10198",
-      "image": null,
-      "publishedAt": "2026-10-01T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-antiquity",
-        "name": "Antiquity (Cambridge)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "cambridge-antiquity:https://openalex.org/W7214937516",
-      "title": "Editorial: Rewriting archaeology with AI",
-      "summary": "Editorial: Rewriting archaeology with AI",
-      "url": "https://doi.org/10.15184/aqy.2026.10415",
-      "image": null,
-      "publishedAt": "2026-10-01T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-antiquity",
-        "name": "Antiquity (Cambridge)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "cambridge-antiquity:https://openalex.org/W7214967148",
-      "title": "New Book Chronicle: Experimental archaeology",
-      "summary": "New Book Chronicle: Experimental archaeology",
-      "url": "https://doi.org/10.15184/aqy.2026.10418",
-      "image": null,
-      "publishedAt": "2026-10-01T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-antiquity",
-        "name": "Antiquity (Cambridge)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "cambridge-antiquity:https://openalex.org/W7214981417",
-      "title": "Books received",
-      "summary": "Books received",
-      "url": "https://doi.org/10.15184/aqy.2026.10412",
-      "image": null,
-      "publishedAt": "2026-10-01T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-antiquity",
-        "name": "Antiquity (Cambridge)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/homo-erectus-drimolen-fossile-adulto-2-milioni-anni/",
-      "title": "Quando furono “creati” Adamo ed Eva? Gli studiosi trovano i “loro fossili”. Ma lo sapete che discendiamo tutti da Eva mitocondriale, che fu davvero la mamma di tutti noi? Dove viveva? Cosa accadde?",
-      "summary": "Sudafrica, un nuovo frammento cranico adulto di Homo erectus porta a circa 2 milioni di anni fa una delle prime testimonianze della specie. Nella stessa grotta viveva anche Paranthropus robustus, sottoposto a una lenta trasformazione evolutiva A circa 40 chilometri a nord-est di…",
-      "url": "https://www.stilearte.it/homo-erectus-drimolen-fossile-adulto-2-milioni-anni/",
-      "image": null,
-      "publishedAt": "2026-09-30T06:46:47.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/09/260929053531.htm",
-      "title": "Bats may have first evolved in Europe 65 million years ago",
-      "summary": "A huge genomic and fossil study suggests bats first evolved in Europe around 65 to 60 million years ago before spreading across the globe. The findings also indicate that flight and echolocation emerged near the beginning of bat evolution, potentially helping explain how bats…",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260929053531.htm",
-      "image": null,
-      "publishedAt": "2026-09-30T05:12:36.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "openalex-archaeology:https://openalex.org/W7204232709",
-      "title": "Superficial damage dataset collected from the Hooghly Imambara, West Bengal, a local heritage",
-      "summary": "Superficial damage dataset collected from the Hooghly Imambara, West Bengal, a local heritage",
-      "url": "https://doi.org/10.17632/pth6zxgwg5",
-      "image": null,
-      "publishedAt": "2026-09-30T00:00:00.000Z",
-      "source": {
-        "id": "openalex-archaeology",
-        "name": "OpenAlex — Arkeologia (mundua)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "munibe-aa:https://openalex.org/W7214984344",
-      "title": "RECENSIÓN - García Martínez de Lagrán, I. (Dir.), 2026. CERASNEOMO. Cerámicas del Neolítico antiguo del Mediterráneo occidental. Monografías de Prehistoria y Arqueología de la UNED, 3. Universidad Nacional de Educación a Distancia, Madrid. ISBN 978-84-09-77099-1.",
-      "summary": "Esta obra recoge los resultados de un proyecto de investigación orientado a la caracterización del Neolítico antiguo a través del estudio cerámico en el Mediterráneo occidental (sur de Francia, valle del Ebro, Cataluña, Meseta norte y zona valenciana).Esta investigación se…",
-      "url": "https://doi.org/10.21630/maa.2026.77.rec2",
-      "image": null,
-      "publishedAt": "2026-09-30T00:00:00.000Z",
-      "source": {
-        "id": "munibe-aa",
-        "name": "Munibe Antropologia-Arkeologia (Aranzadi)"
-      },
-      "lang": "es",
-      "region": "europe",
-      "topics": [
-        "prehistoria",
         "aurkikuntza"
       ]
     }
