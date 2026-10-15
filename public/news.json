@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T06:23:25.484Z",
+  "generatedAt": "2026-10-15T06:04:58.549Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5971
+      "elapsedMs": 5829
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1239
+      "elapsedMs": 765
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 6609
+      "elapsedMs": 964
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1114
+      "elapsedMs": 586
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3330
+      "elapsedMs": 3014
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 9,
       "droppedOffTopic": 21,
       "droppedModern": 0,
-      "elapsedMs": 3326
+      "elapsedMs": 2973
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 2,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 1535
+      "elapsedMs": 1255
     },
     {
       "id": "labrujulaverde",
@@ -98,10 +98,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 16,
-      "droppedOffTopic": 2,
+      "kept": 17,
+      "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 1894
+      "elapsedMs": 2117
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 1991
+      "elapsedMs": 1567
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1872
+      "elapsedMs": 729
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 1,
-      "elapsedMs": 997
+      "elapsedMs": 737
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 6,
       "droppedOffTopic": 11,
       "droppedModern": 3,
-      "elapsedMs": 1479
+      "elapsedMs": 875
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -163,10 +163,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 18,
-      "kept": 12,
-      "droppedOffTopic": 6,
+      "kept": 11,
+      "droppedOffTopic": 7,
       "droppedModern": 0,
-      "elapsedMs": 1611
+      "elapsedMs": 2818
     },
     {
       "id": "inrap-bsky",
@@ -175,11 +175,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 24,
+      "fetched": 23,
       "kept": 3,
-      "droppedOffTopic": 17,
+      "droppedOffTopic": 16,
       "droppedModern": 4,
-      "elapsedMs": 3309
+      "elapsedMs": 3038
     },
     {
       "id": "sudouest-culture",
@@ -192,7 +192,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1509
+      "elapsedMs": 1293
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2267
+      "elapsedMs": 1740
     },
     {
       "id": "archeologiaviva",
@@ -216,9 +216,9 @@
       "ok": true,
       "fetched": 10,
       "kept": 2,
-      "droppedOffTopic": 0,
-      "droppedModern": 8,
-      "elapsedMs": 2592
+      "droppedOffTopic": 1,
+      "droppedModern": 7,
+      "elapsedMs": 2096
     },
     {
       "id": "stilearte",
@@ -231,7 +231,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 1,
-      "elapsedMs": 2621
+      "elapsedMs": 2249
     },
     {
       "id": "live-science-arch",
@@ -241,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 3,
-      "droppedOffTopic": 27,
+      "kept": 4,
+      "droppedOffTopic": 26,
       "droppedModern": 0,
-      "elapsedMs": 3020
+      "elapsedMs": 2887
     },
     {
       "id": "bbc-history",
@@ -254,10 +254,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 3,
-      "droppedOffTopic": 7,
+      "kept": 4,
+      "droppedOffTopic": 6,
       "droppedModern": 0,
-      "elapsedMs": 1796
+      "elapsedMs": 1781
     },
     {
       "id": "sciencedaily-arch",
@@ -267,10 +267,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 20,
-      "droppedOffTopic": 10,
+      "kept": 21,
+      "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 2050
+      "elapsedMs": 1639
     },
     {
       "id": "ancient-origins",
@@ -278,9 +278,12 @@
       "lang": "en",
       "region": "world",
       "kind": "news",
-      "ok": false,
-      "error": "Unable to parse XML.",
-      "elapsedMs": 6675
+      "ok": true,
+      "fetched": 10,
+      "kept": 3,
+      "droppedOffTopic": 5,
+      "droppedModern": 2,
+      "elapsedMs": 1723
     },
     {
       "id": "guardian-arch",
@@ -293,7 +296,7 @@
       "kept": 9,
       "droppedOffTopic": 8,
       "droppedModern": 3,
-      "elapsedMs": 2175
+      "elapsedMs": 2031
     },
     {
       "id": "current-archaeology",
@@ -301,9 +304,12 @@
       "lang": "en",
       "region": "europe",
       "kind": "news",
-      "ok": false,
-      "error": "Status code 403",
-      "elapsedMs": 6760
+      "ok": true,
+      "fetched": 30,
+      "kept": 23,
+      "droppedOffTopic": 4,
+      "droppedModern": 3,
+      "elapsedMs": 1870
     },
     {
       "id": "jas-reports",
@@ -313,10 +319,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 5,
+      "kept": 6,
       "droppedOffTopic": 2,
-      "droppedModern": 23,
-      "elapsedMs": 1896
+      "droppedModern": 22,
+      "elapsedMs": 1838
     },
     {
       "id": "plos-one-arch",
@@ -326,10 +332,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2471
+      "elapsedMs": 1922
     },
     {
       "id": "pnas-arch",
@@ -342,7 +348,7 @@
       "kept": 16,
       "droppedOffTopic": 9,
       "droppedModern": 5,
-      "elapsedMs": 2797
+      "elapsedMs": 2568
     },
     {
       "id": "sciencedirect-jas",
@@ -355,7 +361,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 18,
-      "elapsedMs": 2002
+      "elapsedMs": 1855
     },
     {
       "id": "spal-us",
@@ -368,7 +374,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2998
+      "elapsedMs": 2825
     },
     {
       "id": "complutum-ucm",
@@ -381,7 +387,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 4501
+      "elapsedMs": 6439
     },
     {
       "id": "archeoarte",
@@ -391,7 +397,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 9329
+      "elapsedMs": 8942
     },
     {
       "id": "cypsela",
@@ -401,7 +407,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 7647
+      "elapsedMs": 7381
     },
     {
       "id": "cambridge-antiquity",
@@ -412,9 +418,9 @@
       "ok": true,
       "fetched": 30,
       "kept": 21,
-      "droppedOffTopic": 5,
-      "droppedModern": 4,
-      "elapsedMs": 3024
+      "droppedOffTopic": 6,
+      "droppedModern": 3,
+      "elapsedMs": 2468
     },
     {
       "id": "cambridge-caj",
@@ -427,7 +433,7 @@
       "kept": 18,
       "droppedOffTopic": 6,
       "droppedModern": 6,
-      "elapsedMs": 3160
+      "elapsedMs": 2575
     },
     {
       "id": "cambridge-ejarc",
@@ -440,7 +446,7 @@
       "kept": 17,
       "droppedOffTopic": 5,
       "droppedModern": 8,
-      "elapsedMs": 2982
+      "elapsedMs": 2559
     },
     {
       "id": "aquitania-persee",
@@ -453,7 +459,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 4174
+      "elapsedMs": 3431
     },
     {
       "id": "cuadernos-arq-unav",
@@ -466,7 +472,7 @@
       "kept": 21,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 3969
+      "elapsedMs": 3736
     },
     {
       "id": "veleia-ehu",
@@ -479,7 +485,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 4011
+      "elapsedMs": 3917
     },
     {
       "id": "flv-navarra",
@@ -492,7 +498,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 3293
+      "elapsedMs": 2958
     },
     {
       "id": "munibe-aa",
@@ -502,10 +508,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 18,
-      "droppedOffTopic": 3,
+      "kept": 17,
+      "droppedOffTopic": 4,
       "droppedModern": 9,
-      "elapsedMs": 3300
+      "elapsedMs": 2876
     },
     {
       "id": "trabajos-prehistoria",
@@ -518,7 +524,7 @@
       "kept": 23,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 3228
+      "elapsedMs": 3059
     },
     {
       "id": "openalex-archaeology",
@@ -528,10 +534,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 13,
+      "kept": 12,
       "droppedOffTopic": 7,
-      "droppedModern": 10,
-      "elapsedMs": 3209
+      "droppedModern": 11,
+      "elapsedMs": 2938
     }
   ],
   "items": [
@@ -778,6 +784,144 @@
       "lang": "en",
       "region": "world",
       "topics": []
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26005560?dgcid=rss_sd_all",
+      "title": "Beyond the flint: quartzite tools in the middle Paleolithic quarries of the central Iberia",
+      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part A Author(s): C. Torres, S. Díaz, M.J. Garcia-Natale, J. Baena",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26005560?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-10-15T06:04:51.423Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "iberia",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/10/261014015457.htm",
+      "title": "A forgotten fossil reveals a fearsome dinosaur with giant claws",
+      "summary": "A 120-million-year-old fossil forgotten in a museum for nearly a century has revealed a terrifying new dinosaur that may have been more dangerous to humans than a T. rex. The tiger-sized predator also provides the first evidence of megaraptorans in Europe, helping explain how…",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261014015457.htm",
+      "image": null,
+      "publishedAt": "2026-10-14T22:51:56.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "museoak"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/chinese-pottery-discovered-in-great-zimbabwe-reveals-medieval-african-empires-vast-connections-spanning-thousands-of-miles",
+      "title": "Chinese pottery discovered in Great Zimbabwe reveals medieval African empire's vast connections spanning thousands of miles",
+      "summary": "Archaeologists excavating a medieval African kingdom have discovered pottery from eastern China, revealing connections across continents.",
+      "url": "https://www.livescience.com/archaeology/chinese-pottery-discovered-in-great-zimbabwe-reveals-medieval-african-empires-vast-connections-spanning-thousands-of-miles",
+      "image": "https://cdn.mos.cms.futurecdn.net/9ZcHxWC4WiJMK7XmSU6haX-1920-80.png",
+      "publishedAt": "2026-10-14T15:49:31.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "erdi-aroa",
+        "asia",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "bbc-history:https://www.historyextra.com/period/ancient-greece/it-was-the-one-of-the-seven-wonders-of-the-ancient-world-so-why-was-it-destroyed-three-times/",
+      "title": "It was the one of the Seven Wonders of the Ancient World – so why was it destroyed three times?",
+      "summary": "Older and much bigger than the Parthenon, this white marble monument in modern-day Turkey became the model for ancient Greek temples – but its history is far from peaceful",
+      "url": "https://www.historyextra.com/period/ancient-greece/it-was-the-one-of-the-seven-wonders-of-the-ancient-world-so-why-was-it-destroyed-three-times/",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/10/GettyImages-122225790-600f1d6-e1791293603383.jpg",
+      "publishedAt": "2026-10-14T10:30:17.000Z",
+      "source": {
+        "id": "bbc-history",
+        "name": "BBC History Extra"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "greziarrak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/descubren-en-china-un-hongo-gigante-cuyo-linaje-nacio-sobre-la-materia-muerta-posterior-a-la-extincion-de-los-dinosaurios",
+      "title": "Descubren en China un hongo gigante cuyo linaje nació sobre la materia muerta posterior a la extinción de los dinosaurios",
+      "summary": "Hasta ahora, los cuerpos fructíferos más grandes conocidos entre los ascomicetos, el grupo más numeroso de hongos, medían entre 20 y 30 centímetros de altura, lo que un folio DIN A4 puesto de pie. Investigadores del Instituto de Botánica de Kunming (Academia China de las…",
+      "url": "https://www.labrujulaverde.com/2026/10/descubren-en-china-un-hongo-gigante-cuyo-linaje-nacio-sobre-la-materia-muerta-posterior-a-la-extincion-de-los-dinosaurios",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/https___www.frontiersin.org_files_Articles_1940464_xml-images_ffunb-07-1940464-g004-copia-2.webp",
+      "publishedAt": "2026-10-14T09:28:51.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "amerika",
+        "asia",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "bbc-history:https://www.historyextra.com/membership/alfred-vs-vikings-podcast-episode-two/",
+      "title": "The rise of Alfred the Great",
+      "summary": "Dr Eleanor Barraclough follows the Great Heathen Army on its rampage across Anglo-Saxon England",
+      "url": "https://www.historyextra.com/membership/alfred-vs-vikings-podcast-episode-two/",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/10/Alfred-Vikings-Pod-YT-ep2-WL-AN-d5bc685.jpg",
+      "publishedAt": "2026-10-14T09:00:11.000Z",
+      "source": {
+        "id": "bbc-history",
+        "name": "BBC History Extra"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "greziarrak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/dos-estatuas-colosales-de-ramses-ii-aparecen-en-el-pueblo-de-un-templo-construido-casi-900-anos-despues-de-su-reinado",
+      "title": "Dos estatuas colosales de Ramsés II aparecen en el pueblo de un templo construido casi 900 años después de su reinado",
+      "summary": "Un vecino de Behbeit el-Hagar, un pueblo de la provincia egipcia de Gharbia, trabajaba en una parcela de su propiedad, justo delante de su casa, cuando dio con un bloque cubierto de grabados y avisó a la inspección de antigüedades de la zona. Lo que apareció después, según el…",
+      "url": "https://www.labrujulaverde.com/2026/10/dos-estatuas-colosales-de-ramses-ii-aparecen-en-el-pueblo-de-un-templo-construido-casi-900-anos-despues-de-su-reinado",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/847496580_1527305306097677_6996053566867282813_n.webp",
+      "publishedAt": "2026-10-14T07:47:41.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/scoperte-egitto-statue-colossali-ramses-ii-behbeit-el-hagar/",
+      "title": "Meraviglioso. Egitto, nel Delta del Nilo un uomo scava davanti a casa. Sorpresa. Una strana pietra. Poi i resti sconosciuti di due statue colossali. Una testa di 1 metro e 60. Chi rappresentano? Perché sono lì? Cosa c’era in quel punto?",
+      "summary": "ARCHEOLOGIA – Una scoperta fortuita, segnalata da un abitante del villaggio, porta gli archeologi sulle tracce di due monumenti regali nella regione del Delta del Nilo. La testa, alta 1,60 metri, suggerisce una statua originaria di circa 8,5 metri. Secondo il Ministero egiziano…",
+      "url": "https://www.stilearte.it/scoperte-egitto-statue-colossali-ramses-ii-behbeit-el-hagar/",
+      "image": null,
+      "publishedAt": "2026-10-14T06:29:05.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak"
+      ]
     },
     {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26005614?dgcid=rss_sd_all",
@@ -8374,6 +8518,25 @@
       "topics": []
     },
     {
+      "id": "current-archaeology:https://the-past.com/magazines/current-archaeology-440/",
+      "title": "Current Archaeology 440",
+      "summary": "Burpham’s Big Dig: a tale of two Sussex villages Encountering ordinary people in the Bayeux tapestry The Wemyss caves: 40 years of community, conservation, and discovery Defence to domesticity: exploring the evolution of Irish castles Statements in stone: Neolithic architecture…",
+      "url": "https://the-past.com/magazines/current-archaeology-440/",
+      "image": null,
+      "publishedAt": "2026-10-01T10:00:42.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria",
+        "erdi-aroa",
+        "aurkikuntza"
+      ]
+    },
+    {
       "id": "openalex-archaeology:https://openalex.org/W7172237329",
       "title": "Sur les traces du Néolithique cambodgien : quelques perspectives entre grottes et plein air à partir des vestiges lithiques",
       "summary": "International audience",
@@ -8741,157 +8904,6 @@
       "topics": [
         "erromatarrak",
         "egiptoarrak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/salona-tomba-162-giovane-sepolto-prono-balsamario-dattero/",
-      "title": "Scoperto un giovane romano sepolto prono con un balsamario a forma di dattero. Le anomalie della postura. Chi era.",
-      "summary": "Nella necropoli romana dell’Hortus Metrodori gli archeologi hanno scoperto la Tomba 162, con il corpo di un probabile giovane adulto deposto con il ventre contro il terreno e un corredo composto da vetro, ceramica, gemme e bronzo. Fra i reperti, tre balsamari e un raro…",
-      "url": "https://www.stilearte.it/salona-tomba-162-giovane-sepolto-prono-balsamario-dattero/",
-      "image": null,
-      "publishedAt": "2026-09-13T07:34:14.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26004773?dgcid=rss_sd_all",
-      "title": "An archaeology of natural dyes and mordants: bridging gaps in Iron Age textile chaînes opératoires",
-      "summary": "Publication date: November 2026 Source: Journal of Archaeological Science: Reports, Volume 75 Author(s): Paul T. Thacker, Carlos M.C. Pereira, Jeff T. Amoss",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26004773?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-09-11T06:17:24.145Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "elpais-cultura:https://elpais.com/cultura/2026-09-11/marc-orriols-egiptologo-hollywood-ha-hecho-mucho-dano-a-nuestra-vision-del-sexo-en-el-antiguo-egipto.html",
-      "title": "Marc Orriols, egiptólogo: “Hollywood ha hecho mucho daño a nuestra visión del sexo en el Antiguo Egipto”",
-      "summary": "El investigador, que ha presentado una intensa ponencia sobre el papiro erótico de Turín en el congreso de Egiptología en Barcelona, apunta que la sociedad faraónica era binaria y heteronormativa",
-      "url": "https://elpais.com/cultura/2026-09-11/marc-orriols-egiptologo-hollywood-ha-hecho-mucho-dano-a-nuestra-vision-del-sexo-en-el-antiguo-egipto.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/TBOY3XNQNNEHLLCINJARRDPP44.jpg?auth=cf630661f168915baddda409146ffd1fbd69bc49d80edc1379531f9787e54f99",
-      "publishedAt": "2026-09-11T03:30:01.000Z",
-      "source": {
-        "id": "elpais-cultura",
-        "name": "El País — Cultura"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "egiptoarrak"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/los-romanos-enterraban-los-rayos-como-si-fueran-cadaveres-sagrados-dedicados-al-desconocido-dios-sumanno-lo-confirma-un-hallazgo-en-la-villa-de-adriano",
-      "title": "Los romanos enterraban los rayos como si fueran cadáveres sagrados dedicados al desconocido dios Sumano: lo confirma un hallazgo en la villa de Adriano",
-      "summary": "En un rincón de Villa Adriana, entre el llamado Anfiteatro y un banco de toba, hay una losa de mármol de apenas 40 por 35 centímetros que sigue exactamente donde la dejaron hace unos 1.900 años. Dos líneas de letras capitales bastan para explicar por qué el hallazgo interesa…",
-      "url": "https://www.labrujulaverde.com/2026/09/los-romanos-enterraban-los-rayos-como-si-fueran-cadaveres-sagrados-dedicados-al-desconocido-dios-sumanno-lo-confirma-un-hallazgo-en-la-villa-de-adriano",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/area-ritrovamento.webp",
-      "publishedAt": "2026-09-10T16:18:15.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/scoperta-marche-tomba-tomba-picena-vi-secolo-a-c/",
-      "title": "Meravigliosa. Sant’Elpidio a Mare, riaffiora una tomba picena del VI secolo a.C.: il corredo porta alla luce l’antico mondo dell’Adriatico. Cosa stanno trovando. Chi viveva lì attorno",
-      "summary": "Una sepoltura con vasi e recipienti ceramici è emersa nei pressi del cimitero di Sant’Elpidio a Mare, sulle colline fra il Chienti e il Tenna. La Soprintendenza ha recuperato e messo in sicurezza i reperti: ora il restauro e lo studio potranno chiarire la natura del corredo e il…",
-      "url": "https://www.stilearte.it/scoperta-marche-tomba-tomba-picena-vi-secolo-a-c/",
-      "image": null,
-      "publishedAt": "2026-09-10T15:40:56.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/villa-adriana-iscrizione-fulmine-summano-fulgur-submanium/",
-      "title": "Boato. Villa Adriana, Tivoli. Scoperta l’iscrizione di un fulmine consacrato a Summano: cos’era il raro rito romano che trasformava in sacra la terra colpita dalla folgore",
-      "summary": "Una lastra di marmo ancora nella sua posizione originaria conserva una formula sorprendente: FVLGVR SVBMANIVM, “fulmine di Summano”. La scoperta, avvenuta nell’area del cosiddetto Anfiteatro di Villa Adriana, documenta il rapporto fra la caduta della folgore e il fulgur…",
-      "url": "https://www.stilearte.it/villa-adriana-iscrizione-fulmine-summano-fulgur-submanium/",
-      "image": null,
-      "publishedAt": "2026-09-10T13:13:51.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/kulhoyuk-semi-centaurea-tchihatcheffii-4000-anni/",
-      "title": "Gli archeologi scoprono semi di un fiore rarissimo in un vaso di 4000 anni fa. Era un medicinale? Era la pianta del paradiso? I semi potrebbero germogliare? L’approfondimento",
-      "summary": "A Külhöyük, nel distretto di Gölbaşı presso Ankara, gli archeologi hanno identificato in un recipiente di circa 4.000 anni semi attribuiti alla Centaurea tchihatcheffii, il Sevgi Çiçeği oggi endemico di un’area molto ristretta. Il ritrovamento proviene dagli scavi di un antico…",
-      "url": "https://www.stilearte.it/kulhoyuk-semi-centaurea-tchihatcheffii-4000-anni/",
-      "image": null,
-      "publishedAt": "2026-09-10T12:41:01.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "lemonde-sciences:https://www.lemonde.fr/international/article/2026/09/10/espace-emmanuel-macron-plaide-pour-une-gouvernance-partagee-et-une-europe-puissante_6769738_3210.html",
-      "title": "« Notre Europe spatiale reste fragile et nous devons accélérer » : Emmanuel Macron appelle à une « gouvernance partagée » de l’espace",
-      "summary": "Le président français a insisté sur la nécessité d’« assumer pleinement la préférence européenne », alors que la course à l’espace fait rage, avec les Etats-Unis et la Chine en première ligne. « Ce n’est ni un gros mot ni du protectionnisme, c’est un refus de naïveté », a-t-il…",
-      "url": "https://www.lemonde.fr/international/article/2026/09/10/espace-emmanuel-macron-plaide-pour-une-gouvernance-partagee-et-une-europe-puissante_6769738_3210.html",
-      "image": "https://img.lemde.fr/2026/09/09/643/0/7705/3852/644/322/60/0/1bbb9f8_ftp-1-ynq34pbow1hp-5037556-01-06.jpg",
-      "publishedAt": "2026-09-10T10:55:15.000Z",
-      "source": {
-        "id": "lemonde-sciences",
-        "name": "Le Monde — Sciences"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": [
-        "ekialde-hurbila"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/antes-de-la-fundacion-de-roma-una-tribu-de-la-edad-del-bronce-en-polonia-ya-comia-un-cereal-traido-de-china",
-      "title": "Una tribu de la Edad del Bronce en Polonia ya comía un cereal traído de China cuando Roma ni siquiera se había fundado",
-      "summary": "Hacia el año 1590 a.C., más de ochocientos años antes de que Roma existiera siquiera como aldea y con Tutankamón todavía sin nacer, un puñado de personas en el sureste de Polonia empezó a comer un cereal que no era suyo. No procedía de los campos que sus vecinos llevaban…",
-      "url": "https://www.labrujulaverde.com/2026/09/antes-de-la-fundacion-de-roma-una-tribu-de-la-edad-del-bronce-en-polonia-ya-comia-un-cereal-traido-de-china",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/Panicum_miliaceum_subsp._miliaceum_sl14.webp",
-      "publishedAt": "2026-09-10T10:27:55.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "erromatarrak",
-        "asia",
-        "aurkikuntza"
       ]
     }
   ]
