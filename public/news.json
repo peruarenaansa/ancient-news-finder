@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T06:04:58.549Z",
+  "generatedAt": "2026-10-16T06:02:34.595Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5829
+      "elapsedMs": 6478
     },
     {
       "id": "naiz",
@@ -20,10 +20,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 0,
-      "droppedOffTopic": 30,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 765
+      "elapsedMs": 1062
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 964
+      "elapsedMs": 1506
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 586
+      "elapsedMs": 1067
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3014
+      "elapsedMs": 3759
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 9,
       "droppedOffTopic": 21,
       "droppedModern": 0,
-      "elapsedMs": 2973
+      "elapsedMs": 3761
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 2,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 1255
+      "elapsedMs": 1531
     },
     {
       "id": "labrujulaverde",
@@ -98,10 +98,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 17,
+      "kept": 18,
       "droppedOffTopic": 1,
-      "droppedModern": 2,
-      "elapsedMs": 2117
+      "droppedModern": 1,
+      "elapsedMs": 1805
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 1567
+      "elapsedMs": 1328
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 729
+      "elapsedMs": 2354
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 1,
-      "elapsedMs": 737
+      "elapsedMs": 1178
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 6,
       "droppedOffTopic": 11,
       "droppedModern": 3,
-      "elapsedMs": 875
+      "elapsedMs": 1188
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +162,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 18,
-      "kept": 11,
+      "fetched": 19,
+      "kept": 12,
       "droppedOffTopic": 7,
       "droppedModern": 0,
-      "elapsedMs": 2818
+      "elapsedMs": 1506
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +179,7 @@
       "kept": 3,
       "droppedOffTopic": 16,
       "droppedModern": 4,
-      "elapsedMs": 3038
+      "elapsedMs": 3798
     },
     {
       "id": "sudouest-culture",
@@ -192,7 +192,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1293
+      "elapsedMs": 1729
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1740
+      "elapsedMs": 2590
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 2,
       "droppedOffTopic": 1,
       "droppedModern": 7,
-      "elapsedMs": 2096
+      "elapsedMs": 2761
     },
     {
       "id": "stilearte",
@@ -228,10 +228,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 9,
+      "kept": 10,
       "droppedOffTopic": 0,
-      "droppedModern": 1,
-      "elapsedMs": 2249
+      "droppedModern": 0,
+      "elapsedMs": 2883
     },
     {
       "id": "live-science-arch",
@@ -241,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 4,
-      "droppedOffTopic": 26,
+      "kept": 5,
+      "droppedOffTopic": 25,
       "droppedModern": 0,
-      "elapsedMs": 2887
+      "elapsedMs": 3593
     },
     {
       "id": "bbc-history",
@@ -257,7 +257,7 @@
       "kept": 4,
       "droppedOffTopic": 6,
       "droppedModern": 0,
-      "elapsedMs": 1781
+      "elapsedMs": 2087
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +270,7 @@
       "kept": 21,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1639
+      "elapsedMs": 2244
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1723
+      "elapsedMs": 2264
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 9,
       "droppedOffTopic": 8,
       "droppedModern": 3,
-      "elapsedMs": 2031
+      "elapsedMs": 2562
     },
     {
       "id": "current-archaeology",
@@ -309,7 +309,7 @@
       "kept": 23,
       "droppedOffTopic": 4,
       "droppedModern": 3,
-      "elapsedMs": 1870
+      "elapsedMs": 5888
     },
     {
       "id": "jas-reports",
@@ -319,10 +319,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 6,
-      "droppedOffTopic": 2,
+      "kept": 7,
+      "droppedOffTopic": 1,
       "droppedModern": 22,
-      "elapsedMs": 1838
+      "elapsedMs": 2276
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +335,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1922
+      "elapsedMs": 2522
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 16,
       "droppedOffTopic": 9,
       "droppedModern": 5,
-      "elapsedMs": 2568
+      "elapsedMs": 3497
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +361,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 18,
-      "elapsedMs": 1855
+      "elapsedMs": 2418
     },
     {
       "id": "spal-us",
@@ -374,7 +374,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2825
+      "elapsedMs": 3570
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +387,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 6439
+      "elapsedMs": 4911
     },
     {
       "id": "archeoarte",
@@ -397,7 +397,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 8942
+      "elapsedMs": 10088
     },
     {
       "id": "cypsela",
@@ -407,7 +407,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 7381
+      "elapsedMs": 7755
     },
     {
       "id": "cambridge-antiquity",
@@ -420,7 +420,7 @@
       "kept": 21,
       "droppedOffTopic": 6,
       "droppedModern": 3,
-      "elapsedMs": 2468
+      "elapsedMs": 3444
     },
     {
       "id": "cambridge-caj",
@@ -431,9 +431,9 @@
       "ok": true,
       "fetched": 30,
       "kept": 18,
-      "droppedOffTopic": 6,
-      "droppedModern": 6,
-      "elapsedMs": 2575
+      "droppedOffTopic": 7,
+      "droppedModern": 5,
+      "elapsedMs": 3231
     },
     {
       "id": "cambridge-ejarc",
@@ -446,7 +446,7 @@
       "kept": 17,
       "droppedOffTopic": 5,
       "droppedModern": 8,
-      "elapsedMs": 2559
+      "elapsedMs": 3183
     },
     {
       "id": "aquitania-persee",
@@ -459,7 +459,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3431
+      "elapsedMs": 4234
     },
     {
       "id": "cuadernos-arq-unav",
@@ -472,7 +472,7 @@
       "kept": 21,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 3736
+      "elapsedMs": 4917
     },
     {
       "id": "veleia-ehu",
@@ -485,7 +485,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3917
+      "elapsedMs": 4856
     },
     {
       "id": "flv-navarra",
@@ -498,7 +498,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2958
+      "elapsedMs": 3828
     },
     {
       "id": "munibe-aa",
@@ -511,7 +511,7 @@
       "kept": 17,
       "droppedOffTopic": 4,
       "droppedModern": 9,
-      "elapsedMs": 2876
+      "elapsedMs": 3814
     },
     {
       "id": "trabajos-prehistoria",
@@ -524,7 +524,7 @@
       "kept": 23,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 3059
+      "elapsedMs": 3630
     },
     {
       "id": "openalex-archaeology",
@@ -537,7 +537,7 @@
       "kept": 12,
       "droppedOffTopic": 7,
       "droppedModern": 11,
-      "elapsedMs": 2938
+      "elapsedMs": 3838
     }
   ],
   "items": [
@@ -786,6 +786,237 @@
       "topics": []
     },
     {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003755?dgcid=rss_sd_all",
+      "title": "1000 Years before the pile dwellings – Complex Neolithisation processes in the northwestern Alpine foreland",
+      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part A Author(s): Renate Ebersbach, Helmut Schlichtherle, Elena Marinova",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26003755?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-10-16T06:02:26.751Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26005584?dgcid=rss_sd_all",
+      "title": "Bioarchaeological observations and dietary practices at Viking Age Havor, Gotland: A reconstruction of diet and life histories",
+      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part A Author(s): Eirini Anagnostou, Valerie Palmowski",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26005584?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-10-16T06:02:26.751Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "erdi-aroa"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/campo-militare-romano-la-ercina-pena-del-castro/",
+      "title": "Scoperto in Spagna il campo militare romano che assediò La Peña del Castro: 1,7 ettari per conquistare la montagna di León",
+      "summary": "La Ercina, León: a soli 500 metri dal villaggio fortificato dell’Età del Ferro emerge un campo romano con mura, ingresso a clavicula, strutture interne e tracce dei soldati. L’archeologia ricostruisce per la prima volta in questo settore della Spagna settentrionale la macchina…",
+      "url": "https://www.stilearte.it/campo-militare-romano-la-ercina-pena-del-castro/",
+      "image": null,
+      "publishedAt": "2026-10-16T05:59:27.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak",
+        "asia"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/relitto-greco-ellenistico-vis-ceramiche-monete/",
+      "title": "Adriatico, relitto di 2300 anni fa restituisce ceramiche rare, monete, iscrizioni: chi viaggiava a bordo?",
+      "summary": "Nella baia di Gnjilna, presso Komiža, le indagini subacquee documentano un’imbarcazione naufragata tra il IV e il III secolo a.C. Anfore corinzie, recipienti per bere e iscrizioni incise sui vasi contribuiscono a ricostruire i commerci e la vita di bordo nell’Adriatico antico.…",
+      "url": "https://www.stilearte.it/relitto-greco-ellenistico-vis-ceramiche-monete/",
+      "image": null,
+      "publishedAt": "2026-10-16T05:42:05.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/el-omoplato-de-un-neandertal-de-la-cueva-de-shanidar-revela-la-que-podria-ser-la-muerte-por-lanza-mas-antigua-conocida",
+      "title": "El omóplato de un neandertal de la cueva de Shanidar revela la que podría ser la muerte por lanza más antigua conocida",
+      "summary": "El omóplato es un hueso tan ancho y plano que en algunas zonas se vuelve casi translúcido si se pone a contraluz. Por eso resulta raro encontrarlo completo, incluso en enterramientos modernos, y por eso sorprendió tanto a los arqueólogos de la Universidad de Cambridge que de la…",
+      "url": "https://www.labrujulaverde.com/2026/10/el-omoplato-de-un-neandertal-de-la-cueva-de-shanidar-revela-la-que-podria-ser-la-muerte-por-lanza-mas-antigua-conocida",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/scapinsert-1600x900-1.webp",
+      "publishedAt": "2026-10-15T17:03:22.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "naiz:https://www.kazeta.eus/info_kz/20261015/uskara-ofizialki-aitortzeko-arberatze-zilhekoa-eta-lexantzu-zunharreko-deliberoak-etenda",
+      "title": "Euskara ofizialki aitortzeko Arberatze-Zilhekoa eta Lexantzü-Zunharreko deliberoak, etenda",
+      "summary": "",
+      "url": "https://www.kazeta.eus/info_kz/20261015/uskara-ofizialki-aitortzeko-arberatze-zilhekoa-eta-lexantzu-zunharreko-deliberoak-etenda",
+      "image": "https://www.naiz.eus/media/asset_publics/resources/001/379/145/news_landscape/etx_250807_006147.jpg",
+      "publishedAt": "2026-10-15T15:14:00.000Z",
+      "source": {
+        "id": "naiz",
+        "name": "Naiz"
+      },
+      "lang": "eu",
+      "region": "basque",
+      "topics": [
+        "iberiarrak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/encuentran-en-agrigento-un-barrio-sepultado-por-el-asedio-cartagines-del-406-ac-y-evidencias-del-gigantesco-lago-artificial-donde-criaban-peces",
+      "title": "Encuentran en Agrigento un barrio sepultado por el asedio cartaginés del 406 a.C. y evidencias del gigantesco lago artificial donde criaban peces",
+      "summary": "Entre los templos dóricos que han hecho famosa a Agrigento hay una vaguada estrecha, con naranjos y olivos, donde un equipo internacional lleva tres años cavando. La tercera campaña en la Kolymbethra y en la meseta de Case Montana termina el 24 de octubre. Según el Parque…",
+      "url": "https://www.labrujulaverde.com/2026/10/encuentran-en-agrigento-un-barrio-sepultado-por-el-asedio-cartagines-del-406-ac-y-evidencias-del-gigantesco-lago-artificial-donde-criaban-peces",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/849380879_27988181840857181_2457214218016404992_n.png.webp",
+      "publishedAt": "2026-10-15T15:01:02.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/meurtre-au-paleolithique-violence-et-sensibilite-cohabitaient-chez-les-neandertaliens-de-shanidar_195409?xtor=RSS-4",
+      "title": "Visé au cœur : violent assassinat chez les Néandertaliens de Shanidar",
+      "summary": "Tout était-il si paisible au Paléolithique ? Rien de moins sûr si l’on observe le corps d’un Néandertalien dont le visage a non seulement été démoli, mais qui est mort d’un violent coup de lance.",
+      "url": "https://www.sciencesetavenir.fr/archeo-paleo/meurtre-au-paleolithique-violence-et-sensibilite-cohabitaient-chez-les-neandertaliens-de-shanidar_195409?xtor=RSS-4",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/15/cover-r4x3w1200-6ad0d10e55aad-scapula-shanidar-a-lance-schoningen.jpg",
+      "publishedAt": "2026-10-15T15:00:00.000Z",
+      "source": {
+        "id": "sciencesetavenir-archeo",
+        "name": "Sciences et Avenir — Archéo & Paléo"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/neanderthals/mysterious-hole-in-neanderthal-shoulder-blade-may-have-been-a-kill-shot-from-a-wooden-spear-according-to-archaeologists",
+      "title": "Mysterious hole in Neanderthal shoulder blade may have been a 'kill shot' from a wooden spear, according to archaeologists",
+      "summary": "A rare discovery reveals that 75,000 years ago, a Neanderthal from Shanidar Cave in Iraq died a grisly death, likely from a wooden spear.",
+      "url": "https://www.livescience.com/archaeology/neanderthals/mysterious-hole-in-neanderthal-shoulder-blade-may-have-been-a-kill-shot-from-a-wooden-spear-according-to-archaeologists",
+      "image": "https://cdn.mos.cms.futurecdn.net/YNkniV6Vaf22PTNh6UKeRe-1920-80.png",
+      "publishedAt": "2026-10-15T15:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/romani-finestre-vetro-grata-augusta-raurica/",
+      "title": "I Romani avevano finestre di vetro? La rara grata di Augusta Raurica racconta come entrava la luce nelle case e svela un falso mito",
+      "summary": "I Romani avevano finestre di vetro? La risposta è sì. Ma immaginare le abitazioni dell’antichità con grandi superfici trasparenti, simili alle nostre finestre, sarebbe un errore. Il vetro per chiudere le aperture era conosciuto e utilizzato già in epoca romana, soprattutto…",
+      "url": "https://www.stilearte.it/romani-finestre-vetro-grata-augusta-raurica/",
+      "image": null,
+      "publishedAt": "2026-10-15T11:03:51.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/bozza-automaticamonte-landro-santuario-etrusco-scavi-lago-bolsena/",
+      "title": "Monte Landro, ripartono gli scavi del santuario etrusco sul lago di Bolsena: il tempio, i bronzetti e il mistero di Hercle. Qui trovate terracotte, figure femminili, testa di satiro con leontè",
+      "summary": "Sul Monte Landro, affacciato sul lago di Bolsena (provincia di Viterbo), gli archeologi tornano a scavare. Dopo anni di interruzione e di abbandono, riprendono infatti le attività nel santuario etrusco che domina dall’alto il paesaggio dei Monti Volsini, un luogo di culto ancora…",
+      "url": "https://www.stilearte.it/bozza-automaticamonte-landro-santuario-etrusco-scavi-lago-bolsena/",
+      "image": null,
+      "publishedAt": "2026-10-15T09:33:37.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/descubren-en-alaska-un-campamento-de-cazadores-de-mamuts-de-hace-13800-anos-contemporaneo-de-altamira",
+      "title": "Descubren en Alaska un campamento de cazadores de mamuts de hace 13.800 años contemporáneo de Altamira",
+      "summary": "Hace unos 13.800 años, los cazadores magdalenienses del norte de España todavía frecuentaban la cueva de Altamira, en Cantabria, cuya entrada se hundiría hacia 13.000 años atrás. Al otro lado del planeta, otro grupo de cazadores levantaba un campamento en una loma sobre el río…",
+      "url": "https://www.labrujulaverde.com/2026/10/descubren-en-alaska-un-campamento-de-cazadores-de-mamuts-de-hace-13800-anos-contemporaneo-de-altamira",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/01m4bw5bhrmjh7a119hsvhg91t.webp",
+      "publishedAt": "2026-10-15T09:24:47.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "ekialde-hurbila",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/todos-los-actuales-monarcas-europeos-descienden-de-una-familia-de-la-que-nunca-has-oido-hablar-los-oldemburgo",
+      "title": "Todos los actuales monarcas europeos descienden de una familia de la que nunca has oido hablar: los Oldemburgo",
+      "summary": "A todos nos resultan familiares determinadas dinastías europeas; Borbón, Habsburgo, Avis, Plantagenet, Trastámara, Lancaster, Romanov, Bernadotte, Estuardo o Windsor, por citar sólo una pequeña parte. Pero es curioso que una de las que han dejado una huella más profunda y…",
+      "url": "https://www.labrujulaverde.com/2026/10/todos-los-actuales-monarcas-europeos-descienden-de-una-familia-de-la-que-nunca-has-oido-hablar-los-oldemburgo",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/Kristian_I_1426-1481_kung_av_Danmark_Norge_och_Sverige_och_Dorotea_1430-1496_-_Nationalmuseum_-_15825.tif.webp",
+      "publishedAt": "2026-10-15T07:53:49.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "erromatarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "desperta-ferro:https://www.despertaferro-ediciones.com/2026/estudio-arqueologico-evolucion-de-un-llano-litoral-mediterraneo-durante-el-holoceno-adaptaciones-comunidades-humanas-y-genesis-de-un-medio-urbano-portuario-el-llano-de-barcelona-fundacion-palarq/",
+      "title": "Evolución del litoral de Barcelona durante el Holoceno. Comunidades humanas y medio portuario",
+      "summary": "Barcelona no siempre estuvo donde la vemos hoy. Durante los últimos 10.000 años, el mar, los ríos y los sedimentos transformaron su litoral, mientras las comunidades humanas se adaptaban al paisaje y aprovechaban sus nuevos espacios. ¿Cómo un llano litoral acabó convirtiéndose…",
+      "url": "https://www.despertaferro-ediciones.com/2026/estudio-arqueologico-evolucion-de-un-llano-litoral-mediterraneo-durante-el-holoceno-adaptaciones-comunidades-humanas-y-genesis-de-un-medio-urbano-portuario-el-llano-de-barcelona-fundacion-palarq/",
+      "image": null,
+      "publishedAt": "2026-10-15T06:30:41.000Z",
+      "source": {
+        "id": "desperta-ferro",
+        "name": "Desperta Ferro Ediciones"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": []
+    },
+    {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26005560?dgcid=rss_sd_all",
       "title": "Beyond the flint: quartzite tools in the middle Paleolithic quarries of the central Iberia",
       "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part A Author(s): C. Torres, S. Díaz, M.J. Garcia-Natale, J. Baena",
@@ -956,6 +1187,24 @@
       "topics": [
         "prehistoria",
         "asia",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "cambridge-antiquity:https://openalex.org/W7221784799",
+      "title": "Łysa Góra in north-eastern Poland: a key Early Iron Age site on the ‘Amber Route’",
+      "summary": "Excavations at the site of Łysa Góra in north-eastern Poland have revealed La Tène artefacts such as a Berru -type helmet. Functioning as a fortified settlement, production centre and ritual site, Łysa Góra was a key hub on the amber trade route, facilitating long-distance…",
+      "url": "https://doi.org/10.15184/aqy.2026.10436",
+      "image": null,
+      "publishedAt": "2026-10-14T00:00:00.000Z",
+      "source": {
+        "id": "cambridge-antiquity",
+        "name": "Antiquity (Cambridge)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
         "aurkikuntza"
       ]
     },
@@ -4409,24 +4658,6 @@
       "region": "world",
       "topics": [
         "aurkikuntza"
-      ]
-    },
-    {
-      "id": "aranzadi-bsky:https://bsky.app/profile/aranzadi.bsky.social/post/3mqu6o7xx2v2u",
-      "title": "",
-      "summary": "⛏️ Martxan jarraitzen dute Aranzadiren udako indusketa arkeologikoek! Kanpainak abian dira aste honetan Zalduan (Auritz, Nafarroa) eta Babion (Izoria, Araba). Bi aztarnategietan lanean dihardute burubelarri arkeologo eta bolondresek gure iragana hobeto ezagutzeko.",
-      "url": "https://bsky.app/profile/aranzadi.bsky.social/post/3mqu6o7xx2v2u",
-      "image": null,
-      "publishedAt": "2026-07-17T16:36:00.000Z",
-      "source": {
-        "id": "aranzadi-bsky",
-        "name": "Aranzadi (Bluesky)"
-      },
-      "lang": "eu",
-      "region": "basque",
-      "topics": [
-        "iberiarrak",
-        "asia"
       ]
     },
     {
@@ -8667,243 +8898,6 @@
       "region": "europe",
       "topics": [
         "prehistoria"
-      ]
-    },
-    {
-      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/les-routes-de-l-empire-romain-n-etaient-pas-centrees-sur-rome_194850?xtor=RSS-4",
-      "title": "Sous l’Empire romain, tous les chemins menaient à Byzance, plus qu’à Rome",
-      "summary": "Une voie pavée menant tout droit vers Rome, c’est l’image forgée au cours des siècles de la route romaine. Mais le modèle numérique \"iItiner-e\", reconstitution du réseau routier romain, permet de l’analyser en détail pour révéler que non, tous les chemins ne menaient pas à Rome.",
-      "url": "https://www.sciencesetavenir.fr/archeo-paleo/les-routes-de-l-empire-romain-n-etaient-pas-centrees-sur-rome_194850?xtor=RSS-4",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/16/cover-r4x3w1200-6aaa948872887-reseau-routier-romains-ostia-antica.jpg",
-      "publishedAt": "2026-09-17T04:00:00.000Z",
-      "source": {
-        "id": "sciencesetavenir-archeo",
-        "name": "Sciences et Avenir — Archéo & Paléo"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/archaeology/romans/new-trick-could-reveal-text-on-2-000-year-old-scrolls-charred-by-eruption-of-mount-vesuvius",
-      "title": "New trick could reveal text on 2,000-year-old scrolls charred by eruption of Mount Vesuvius",
-      "summary": "Using X-ray technologies and custom-made software, researchers were able to read text they wrote on a fake ancient scroll designed to mimic those destroyed at Herculaneum in A.D. 79.",
-      "url": "https://www.livescience.com/archaeology/romans/new-trick-could-reveal-text-on-2-000-year-old-scrolls-charred-by-eruption-of-mount-vesuvius",
-      "image": "https://cdn.mos.cms.futurecdn.net/wg5f4sT5hn82mo9bwxWFzN-1280-80.jpg",
-      "publishedAt": "2026-09-16T18:00:00.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/hallan-en-el-delta-del-nilo-un-cuartel-fronterizo-de-3200-anos-de-antiguedad-y-la-tumba-de-un-caballo-de-guerra",
-      "title": "Hallan en el Delta del Nilo un cuartel fronterizo de 3.200 años de antigüedad y la tumba de un caballo de guerra",
-      "summary": "Durante el reinado de Ramsés II, entre 1279 y 1213 a.C., Egipto sostuvo toda una red de guarniciones a lo largo de su frontera occidental para frenar las incursiones de las tribus libias y, más adelante, de los llamados Pueblos del Mar. Resulta que una de esas mismas tribus, los…",
-      "url": "https://www.labrujulaverde.com/2026/09/hallan-en-el-delta-del-nilo-un-cuartel-fronterizo-de-3200-anos-de-antiguedad-y-la-tumba-de-un-caballo-de-guerra",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/813546241_1500608518767356_3582047783393046498_n.webp",
-      "publishedAt": "2026-09-16T15:30:31.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "egiptoarrak"
-      ]
-    },
-    {
-      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/evolution/etoiles-de-mer-ce-fossile-de-518-millions-d-annees-bouleverse-leur-histoire_194851?xtor=RSS-4",
-      "title": "L'ancêtre commun aux étoiles de mer et aux oursins avait des tentacules",
-      "summary": "Étoiles de mer, oursins, vers-glands … La découverte d’un fossile de 518 millions d’années bouleverse l’histoire évolutive des animaux ambulacraires. Proche du dernier ancêtre commun du groupe, l’animal ne se nourrissait pas passivement grâce à des branchies, mais plutôt à…",
-      "url": "https://www.sciencesetavenir.fr/archeo-paleo/evolution/etoiles-de-mer-ce-fossile-de-518-millions-d-annees-bouleverse-leur-histoire_194851?xtor=RSS-4",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/09/16/cover-r4x3w1200-6aaaacf38d68d-yujingia-pour-web.jpg",
-      "publishedAt": "2026-09-16T15:00:00.000Z",
-      "source": {
-        "id": "sciencesetavenir-archeo",
-        "name": "Sciences et Avenir — Archéo & Paléo"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357961",
-      "title": "Classification of daily activities using a wireless instrumented insole (WalkinSense) in a semi free-living setting",
-      "summary": "by Anne Backes, Melanie Eckelt, Jennifer Fayad, Valeria Serchi, Thomas Solignac, Tobias Meyer, Bernd Grimm, Caroline Mouton, Romain Seil, Laurent Malisoux Background Accurate monitoring of activities of daily living (ADLs) in real‑world environments is essential for preventive…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357961",
-      "image": null,
-      "publishedAt": "2026-09-16T14:00:00.000Z",
-      "source": {
-        "id": "plos-one-arch",
-        "name": "PLOS ONE — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/09/260915232128.htm",
-      "title": "A 240-million-year-old fossil just changed the dinosaur timeline",
-      "summary": "A newly identified 240-million-year-old animal from Tanzania is forcing scientists to rethink the early dinosaur timeline. Dinodontosaurus isiyavamanda belongs to a group previously known only from South America, linking fossil deposits on the two continents. That connection…",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260915232128.htm",
-      "image": null,
-      "publishedAt": "2026-09-16T13:48:08.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/encuentran-en-rumania-el-horno-de-ceramica-mas-grande-de-la-prehistoria-europea",
-      "title": "Encuentran en Rumanía el horno de cerámica más grande de la Prehistoria europea",
-      "summary": "En el noreste de Rumanía, en la confluencia de dos pequeños arroyos, un equipo de arqueólogos ha encontrado algo que obliga a repensar cómo se organizaba la producción de cerámica hace casi 6.000 años. No es un horno más entre los muchos que se conocen de la Edad del Cobre…",
-      "url": "https://www.labrujulaverde.com/2026/09/encuentran-en-rumania-el-horno-de-ceramica-mas-grande-de-la-prehistoria-europea",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/urn-cambridge.org-id-binary-alt-20260908232836-36462-optimisedImage-png-S0003598X26104281_fig2.jpg.webp",
-      "publishedAt": "2026-09-16T10:50:07.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "lemonde-sciences:https://www.lemonde.fr/sciences/article/2026/09/16/decouverte-d-un-vaste-atelier-de-monnaies-gauloises-dans-le-puy-de-dome_6775190_1650684.html",
-      "title": "Dans le Puy-de-Dôme, découverte d’un vaste atelier de monnaies gauloises",
-      "summary": "Des fouilles conduites cet été dans la cité arverne de Corent ont mis au jour un bâtiment où pourraient avoir été battues des pièces d’or et d’argent avant la conquête romaine.",
-      "url": "https://www.lemonde.fr/sciences/article/2026/09/16/decouverte-d-un-vaste-atelier-de-monnaies-gauloises-dans-le-puy-de-dome_6775190_1650684.html",
-      "image": "https://img.lemde.fr/2026/09/16/259/0/2508/1254/644/322/60/0/b1b10e8_upload-1-y0zr1jnaiojg-20260914-112052.jpg",
-      "publishedAt": "2026-09-16T09:26:08.000Z",
-      "source": {
-        "id": "lemonde-sciences",
-        "name": "Le Monde — Sciences"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": [
-        "erromatarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/todos-los-caminos-no-llevaban-a-roma-descubren-que-la-ciudad-que-de-verdad-vertebraba-las-carreteras-del-imperio-era-bizancio",
-      "title": "Todos los caminos no llevaban a Roma: descubren que la ciudad que de verdad vertebraba las carreteras del Imperio era Bizancio",
-      "summary": "El refrán es tan viejo como conocido: todos los caminos llevan a Roma. Los autores del estudio, liderados por Adam Pažout, investigador de la Universitat Autònoma de Barcelona, acaban de comprobar con datos que la frase no se sostiene del todo. Según el análisis, ciudades como…",
-      "url": "https://www.labrujulaverde.com/2026/09/todos-los-caminos-no-llevaban-a-roma-descubren-que-la-ciudad-que-de-verdad-vertebraba-las-carreteras-del-imperio-era-bizancio",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/Mapa_de_la_Constantinopla_bizantina.-1.webp",
-      "publishedAt": "2026-09-16T09:10:49.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/scoperta-una-tomba-familiare-depoca-romana-la-ragazza-aveva-18-anni-si-truccava-portava-gioielli-e-sognava-lamore-accanto-a-lei-una-la-statuetta-di-giovane-con-una-colomba-i-riferimenti-a-bel/",
-      "title": "Scoperta una tomba familiare d’epoca romana. La ragazza aveva 18 anni, si truccava, portava gioielli e sognava l’amore. Accanto a lei una la statuetta di giovane con una colomba. I riferimenti a bellezza e sentimento",
-      "summary": "Aveva diciotto anni quando morì. Si chiamava Annion e apparteneva a una famiglia importante dell’antica Chersoneso, profondamente permeata dall’Impero romano. Nella sua tomba sono rimasti il nome inciso sulla pietra, i resti della giovane, gioielli d’oro, un bracciale d’argento,…",
-      "url": "https://www.stilearte.it/scoperta-una-tomba-familiare-depoca-romana-la-ragazza-aveva-18-anni-si-truccava-portava-gioielli-e-sognava-lamore-accanto-a-lei-una-la-statuetta-di-giovane-con-una-colomba-i-riferimenti-a-bel/",
-      "image": null,
-      "publishedAt": "2026-09-16T06:49:24.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/shipden-citta-medievale-sommersa-cromer/",
-      "title": "Una storia tenebrosa, i subacquei mappano le rovine della città medievale scomparsa nel mare. Per chi suona la campana. Cosa accadde?",
-      "summary": "Un eccessivo accumulo di ricchezza. Il mancato rispetto della Carità. Una campana che suona nelle notti di tempesta o quando il mare assume, inspiegabilmente, una calma imperturbabile. Al largo di Cromer, nel Norfolk settentrionale, in Inghilterra una nuova campagna di…",
-      "url": "https://www.stilearte.it/shipden-citta-medievale-sommersa-cromer/",
-      "image": null,
-      "publishedAt": "2026-09-14T05:35:28.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erdi-aroa"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/descubren-dentro-de-una-vasija-hitita-de-4000-anos-de-antiguedad-restos-de-semillas-de-la-flor-del-amor-que-hoy-solo-sobrevive-en-un-rincon-de-ankara",
-      "title": "Descubren dentro de una vasija hitita de 4.000 años de antigüedad restos de semillas de la flor del amor, que hoy solo sobrevive en un rincón de Ankara",
-      "summary": "El yacimiento se llama Külhöyük y está en el barrio de Oyaca, dentro del distrito de Gölbaşı, a poco más de 20 kilómetros al sur del centro de Ankara. Es un montículo artificial —lo que en arqueología de Oriente Próximo se conoce como tell o, en turco, höyük— de unos 250 metros…",
-      "url": "https://www.labrujulaverde.com/2026/09/descubren-dentro-de-una-vasija-hitita-de-4000-anos-de-antiguedad-restos-de-semillas-de-la-flor-del-amor-que-hoy-solo-sobrevive-en-un-rincon-de-ankara",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/HR1kQUIWkAA8lMN.webp",
-      "publishedAt": "2026-09-13T16:41:29.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "ekialde-hurbila",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/aparece-un-cadaver-romano-enterrado-boca-abajo-con-frascos-de-perfume-lugar-nacimiento-diocleciano-croacia",
-      "title": "Aparece un cadáver romano enterrado boca abajo con frascos de perfume cerca del lugar donde se cree que nació el emperador Diocleciano en Croacia",
-      "summary": "El cuerpo lleva casi dos mil años bocabajo. Cuando los arqueólogos llegaron a la tumba 162, en las afueras de la actual Solin, en Croacia, no tardaron en darse cuenta de que algo no encajaba con el resto del cementerio: el difunto no había sido colocado boca arriba, como marcaba…",
-      "url": "https://www.labrujulaverde.com/2026/09/aparece-un-cadaver-romano-enterrado-boca-abajo-con-frascos-de-perfume-lugar-nacimiento-diocleciano-croacia",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/20260421_105920.webp",
-      "publishedAt": "2026-09-13T15:48:13.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/09/el-pigmento-de-los-faraones-que-un-romano-escondio-dentro-del-yeso-de-su-villa-un-hallazgo-cambia-lo-que-sabiamos-del-comercio-del-azul-en-la-antiguedad",
-      "title": "El pigmento de los faraones que un romano escondió dentro del yeso de su villa: un hallazgo cambia lo que sabíamos del comercio del azul en la Antigüedad",
-      "summary": "El azul egipcio nació en Egipto antes del año 3100 a.C. y se considera el primer pigmento fabricado por el ser humano. Para obtenerlo, los artesanos calentaban a altas temperaturas una mezcla de sílice, cal, compuestos de cobre y sales alcalinas hasta lograr que cristalizara un…",
-      "url": "https://www.labrujulaverde.com/2026/09/el-pigmento-de-los-faraones-que-un-romano-escondio-dentro-del-yeso-de-su-villa-un-hallazgo-cambia-lo-que-sabiamos-del-comercio-del-azul-en-la-antiguedad",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/09/arcm70215-fig-0001-m-copia.webp",
-      "publishedAt": "2026-09-13T09:21:59.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "erromatarrak",
-        "egiptoarrak"
       ]
     }
   ]
