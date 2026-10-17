@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T06:02:34.595Z",
+  "generatedAt": "2026-10-17T05:48:59.766Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 6478
+      "elapsedMs": 5379
     },
     {
       "id": "naiz",
@@ -20,10 +20,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1062
+      "elapsedMs": 686
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1506
+      "elapsedMs": 3651
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1067
+      "elapsedMs": 922
     },
     {
       "id": "berria-bsky",
@@ -59,10 +59,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 0,
-      "droppedOffTopic": 30,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 3759
+      "elapsedMs": 2568
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 9,
       "droppedOffTopic": 21,
       "droppedModern": 0,
-      "elapsedMs": 3761
+      "elapsedMs": 2620
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 2,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 1531
+      "elapsedMs": 1036
     },
     {
       "id": "labrujulaverde",
@@ -101,7 +101,7 @@
       "kept": 18,
       "droppedOffTopic": 1,
       "droppedModern": 1,
-      "elapsedMs": 1805
+      "elapsedMs": 1548
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 1328
+      "elapsedMs": 1828
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2354
+      "elapsedMs": 710
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 1,
-      "elapsedMs": 1178
+      "elapsedMs": 866
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 6,
       "droppedOffTopic": 11,
       "droppedModern": 3,
-      "elapsedMs": 1188
+      "elapsedMs": 1338
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +162,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 19,
-      "kept": 12,
+      "fetched": 18,
+      "kept": 11,
       "droppedOffTopic": 7,
       "droppedModern": 0,
-      "elapsedMs": 1506
+      "elapsedMs": 1209
     },
     {
       "id": "inrap-bsky",
@@ -176,10 +176,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 23,
-      "kept": 3,
-      "droppedOffTopic": 16,
+      "kept": 4,
+      "droppedOffTopic": 15,
       "droppedModern": 4,
-      "elapsedMs": 3798
+      "elapsedMs": 2523
     },
     {
       "id": "sudouest-culture",
@@ -192,7 +192,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1729
+      "elapsedMs": 1216
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2590
+      "elapsedMs": 1198
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 2,
       "droppedOffTopic": 1,
       "droppedModern": 7,
-      "elapsedMs": 2761
+      "elapsedMs": 2304
     },
     {
       "id": "stilearte",
@@ -231,7 +231,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2883
+      "elapsedMs": 1984
     },
     {
       "id": "live-science-arch",
@@ -241,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 5,
-      "droppedOffTopic": 25,
+      "kept": 6,
+      "droppedOffTopic": 24,
       "droppedModern": 0,
-      "elapsedMs": 3593
+      "elapsedMs": 2418
     },
     {
       "id": "bbc-history",
@@ -254,10 +254,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 4,
-      "droppedOffTopic": 6,
+      "kept": 0,
+      "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 2087
+      "elapsedMs": 1345
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +270,7 @@
       "kept": 21,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 2244
+      "elapsedMs": 1465
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 2264
+      "elapsedMs": 1518
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 9,
       "droppedOffTopic": 8,
       "droppedModern": 3,
-      "elapsedMs": 2562
+      "elapsedMs": 1836
     },
     {
       "id": "current-archaeology",
@@ -309,7 +309,7 @@
       "kept": 23,
       "droppedOffTopic": 4,
       "droppedModern": 3,
-      "elapsedMs": 5888
+      "elapsedMs": 1843
     },
     {
       "id": "jas-reports",
@@ -319,10 +319,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 7,
+      "kept": 6,
       "droppedOffTopic": 1,
-      "droppedModern": 22,
-      "elapsedMs": 2276
+      "droppedModern": 23,
+      "elapsedMs": 1526
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +335,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2522
+      "elapsedMs": 1931
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 16,
       "droppedOffTopic": 9,
       "droppedModern": 5,
-      "elapsedMs": 3497
+      "elapsedMs": 2661
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +361,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 18,
-      "elapsedMs": 2418
+      "elapsedMs": 1728
     },
     {
       "id": "spal-us",
@@ -374,7 +374,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 3570
+      "elapsedMs": 2437
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +387,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 4911
+      "elapsedMs": 3554
     },
     {
       "id": "archeoarte",
@@ -397,7 +397,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 10088
+      "elapsedMs": 8270
     },
     {
       "id": "cypsela",
@@ -407,7 +407,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 7755
+      "elapsedMs": 6843
     },
     {
       "id": "cambridge-antiquity",
@@ -420,7 +420,7 @@
       "kept": 21,
       "droppedOffTopic": 6,
       "droppedModern": 3,
-      "elapsedMs": 3444
+      "elapsedMs": 2357
     },
     {
       "id": "cambridge-caj",
@@ -433,7 +433,7 @@
       "kept": 18,
       "droppedOffTopic": 7,
       "droppedModern": 5,
-      "elapsedMs": 3231
+      "elapsedMs": 2430
     },
     {
       "id": "cambridge-ejarc",
@@ -446,7 +446,7 @@
       "kept": 17,
       "droppedOffTopic": 5,
       "droppedModern": 8,
-      "elapsedMs": 3183
+      "elapsedMs": 2399
     },
     {
       "id": "aquitania-persee",
@@ -459,7 +459,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 4234
+      "elapsedMs": 3053
     },
     {
       "id": "cuadernos-arq-unav",
@@ -472,7 +472,7 @@
       "kept": 21,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 4917
+      "elapsedMs": 3118
     },
     {
       "id": "veleia-ehu",
@@ -485,7 +485,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 4856
+      "elapsedMs": 3397
     },
     {
       "id": "flv-navarra",
@@ -498,7 +498,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 3828
+      "elapsedMs": 2448
     },
     {
       "id": "munibe-aa",
@@ -511,7 +511,7 @@
       "kept": 17,
       "droppedOffTopic": 4,
       "droppedModern": 9,
-      "elapsedMs": 3814
+      "elapsedMs": 2469
     },
     {
       "id": "trabajos-prehistoria",
@@ -524,7 +524,7 @@
       "kept": 23,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 3630
+      "elapsedMs": 2514
     },
     {
       "id": "openalex-archaeology",
@@ -537,7 +537,7 @@
       "kept": 12,
       "droppedOffTopic": 7,
       "droppedModern": 11,
-      "elapsedMs": 3838
+      "elapsedMs": 2492
     }
   ],
   "items": [
@@ -786,6 +786,141 @@
       "topics": []
     },
     {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/americas/archaeologists-discover-the-oldest-dwelling-in-the-western-hemisphere-at-a-13-800-year-old-site-in-alaska",
+      "title": "Archaeologists discover the oldest dwelling in the Western Hemisphere at a 13,800-year-old site in Alaska",
+      "summary": "Archaeologists have discovered an ancient base camp in Alaska that has evidence of the oldest dwelling and possibly the earliest domesticated dogs in the Americas.",
+      "url": "https://www.livescience.com/archaeology/americas/archaeologists-discover-the-oldest-dwelling-in-the-western-hemisphere-at-a-13-800-year-old-site-in-alaska",
+      "image": "https://cdn.mos.cms.futurecdn.net/gEyt7ZfdkBiQqDNx8qM4Yg-1920-80.png",
+      "publishedAt": "2026-10-16T20:54:58.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "berria-bsky:https://bsky.app/profile/berria.eus/post/3mxyzdeiwam24",
+      "title": "",
+      "summary": "✍🏼 Elena Kasiriain: 'Zientzia'. Irakurri osorik, hemen 👇🏼 https://www.berria.eus/lurraldeak/ipar-euskal-herria/zientzia_2164551_102.html?utm_source=Bluesky&utm_medium=Sare_sozialak_CM",
+      "url": "https://bsky.app/profile/berria.eus/post/3mxyzdeiwam24",
+      "image": null,
+      "publishedAt": "2026-10-16T16:40:00.000Z",
+      "source": {
+        "id": "berria-bsky",
+        "name": "Berria (Bluesky)"
+      },
+      "lang": "eu",
+      "region": "basque",
+      "topics": [
+        "iberiarrak",
+        "ekialde-hurbila"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/animals/dinosaurs/fossil-of-unconquered-female-warrior-dinosaur-with-long-claws-found-in-uk-museum-drawer-after-100-years",
+      "title": "Fossil of 'unconquered female warrior' dinosaur with long claws found in UK museum drawer after 100 years",
+      "summary": "The newly identified Invictibellatrix amberina lived about 120 million years ago and represents the first megaraptoran dinosaur found in Europe, according to a new study.",
+      "url": "https://www.livescience.com/animals/dinosaurs/fossil-of-unconquered-female-warrior-dinosaur-with-long-claws-found-in-uk-museum-drawer-after-100-years",
+      "image": "https://cdn.mos.cms.futurecdn.net/ntaMCvptSRPUuBfADZeXa9-1920-80.jpg",
+      "publishedAt": "2026-10-16T14:56:18.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "museoak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/ercolano-riapre-bottega-di-priapo/",
+      "title": "Ercolano, riapre la Bottega di Priapo: qui si mangiava, si beveva e si dormiva",
+      "summary": "Un bancone per servire il cibo, il vino cretese, una sala da pranzo affrescata e stanze per accogliere i viaggiatori. A Ercolano torna visitabile uno dei luoghi che meglio raccontano la vita quotidiana prima dell’eruzione del 79 d.C. Dietro il bancone, sulla parete, c’è ancora…",
+      "url": "https://www.stilearte.it/ercolano-riapre-bottega-di-priapo/",
+      "image": null,
+      "publishedAt": "2026-10-16T14:08:35.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/descubren-nuevas-estructuras-en-la-antigua-arsinoe-la-ciudad-de-grecia-que-la-reina-filadelfa-egipcia-bautizo-con-su-nombre",
+      "title": "Descubren nuevas estructuras en la antigua Arsínoe, la ciudad de Grecia que la reina “filadelfa” egipcia bautizó con su nombre",
+      "summary": "Los catálogos geográficos de la Antigüedad recogen una larga lista de ciudades llamadas Arsínoe, de Chipre a Cilicia, de Éfeso al golfo de Suez, y muchas de ellas se relacionan con la corte de los Ptolomeos, la dinastía que gobernó Egipto tras la muerte de Alejandro Magno. Una,…",
+      "url": "https://www.labrujulaverde.com/2026/10/descubren-nuevas-estructuras-en-la-antigua-arsinoe-la-ciudad-de-grecia-que-la-reina-filadelfa-egipcia-bautizo-con-su-nombre",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/ancient-arsinoe-aetolia-labrujulaverde.com_.webp",
+      "publishedAt": "2026-10-16T10:27:09.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak",
+        "greziarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "inrap-bsky:https://bsky.app/profile/inrap.fr/post/3mxycxyhis62m",
+      "title": "",
+      "summary": "Vous avez manqué l'exposition « Gares aux Gaulois ! » en gare d'Angers, Clermont-Ferrand, Dijon ou Montpellier ? Découvrez notre magazine en ligne dédié 👉 https://inrap.fr/magazine/gares-aux-gaulois-un-voyage-archeologique L'exposition est à découvrir en gare de Lyon à Paris…",
+      "url": "https://bsky.app/profile/inrap.fr/post/3mxycxyhis62m",
+      "image": null,
+      "publishedAt": "2026-10-16T10:00:00.000Z",
+      "source": {
+        "id": "inrap-bsky",
+        "name": "Inrap (Bluesky)"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/el-gato-de-schrodinger-un-paso-mas-cerca-cientificos-logran-mover-un-pequeno-diamante-mediante-un-efecto-cuantico",
+      "title": "El gato de Schrödinger, un paso más cerca: científicos logran mover un pequeño diamante mediante un efecto cuántico",
+      "summary": "En un laboratorio del Instituto de Ciencia y Tecnología de Okinawa (OIST), en Japón, cuelga una lámina de diamante más pequeña que la goma de borrar de un lápiz. Está sujeta a una varilla de fibra de carbono de cinco centímetros, y ésta a una placa de grafito que flota en el…",
+      "url": "https://www.labrujulaverde.com/2026/10/el-gato-de-schrodinger-un-paso-mas-cerca-cientificos-logran-mover-un-pequeno-diamante-mediante-un-efecto-cuantico",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/Cover_image_final-2.png.webp",
+      "publishedAt": "2026-10-16T09:21:02.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "asia"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/sobornos-multas-y-16-estatuas-de-zeus-asi-castigaban-los-juegos-olimpicos-de-la-antigua-grecia-a-los-tramposos",
+      "title": "Sobornos, multas y 16 estatuas de Zeus: así castigaban los Juegos Olímpicos de la antigua Grecia a los tramposos",
+      "summary": "Camino del estadio de Olimpia, al pie de la colina de Cronos, los atletas de la Grecia antigua pasaban junto a una plataforma de piedra con escalones. Sobre ella se alineaba una fila de estatuas de bronce de Zeus, el dios al que estaban dedicados los Juegos. Ninguna celebraba…",
+      "url": "https://www.labrujulaverde.com/2026/10/sobornos-multas-y-16-estatuas-de-zeus-asi-castigaban-los-juegos-olimpicos-de-la-antigua-grecia-a-los-tramposos",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/Greece-0528_-_Bases_of_Zanes_4th_–_1st_century_BC.webp",
+      "publishedAt": "2026-10-16T07:56:57.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "greziarrak"
+      ]
+    },
+    {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003755?dgcid=rss_sd_all",
       "title": "1000 Years before the pile dwellings – Complex Neolithisation processes in the northwestern Alpine foreland",
       "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part A Author(s): Renate Ebersbach, Helmut Schlichtherle, Elena Marinova",
@@ -1031,6 +1166,23 @@
       "region": "iberia",
       "topics": [
         "prehistoria"
+      ]
+    },
+    {
+      "id": "cambridge-antiquity:https://openalex.org/W7222349890",
+      "title": "Polyvalent approaches to ancient Egyptian religion beyond the Eurocentric lens",
+      "summary": "Polyvalent approaches to ancient Egyptian religion beyond the Eurocentric lens",
+      "url": "https://doi.org/10.15184/aqy.2026.10455",
+      "image": null,
+      "publishedAt": "2026-10-15T00:00:00.000Z",
+      "source": {
+        "id": "cambridge-antiquity",
+        "name": "Antiquity (Cambridge)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "egiptoarrak"
       ]
     },
     {
@@ -8747,158 +8899,6 @@
       "lang": "en",
       "region": "world",
       "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/magazines/current-archaeology-440/",
-      "title": "Current Archaeology 440",
-      "summary": "Burpham’s Big Dig: a tale of two Sussex villages Encountering ordinary people in the Bayeux tapestry The Wemyss caves: 40 years of community, conservation, and discovery Defence to domesticity: exploring the evolution of Irish castles Statements in stone: Neolithic architecture…",
-      "url": "https://the-past.com/magazines/current-archaeology-440/",
-      "image": null,
-      "publishedAt": "2026-10-01T10:00:42.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria",
-        "erdi-aroa",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "openalex-archaeology:https://openalex.org/W7172237329",
-      "title": "Sur les traces du Néolithique cambodgien : quelques perspectives entre grottes et plein air à partir des vestiges lithiques",
-      "summary": "International audience",
-      "url": "https://hal.science/hal-05706764",
-      "image": null,
-      "publishedAt": "2026-10-01T00:00:00.000Z",
-      "source": {
-        "id": "openalex-archaeology",
-        "name": "OpenAlex — Arkeologia (mundua)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "cambridge-antiquity:https://openalex.org/W7214894123",
-      "title": "AQY volume 100 issue 413 Cover and Back matter",
-      "summary": "AQY volume 100 issue 413 Cover and Back matter",
-      "url": "https://doi.org/10.15184/aqy.2025.10199",
-      "image": null,
-      "publishedAt": "2026-10-01T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-antiquity",
-        "name": "Antiquity (Cambridge)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "cambridge-antiquity:https://openalex.org/W7214900482",
-      "title": "A major monastic centre? Rethinking Lismore’s place in the ecclesiastical landscapes of early medieval Britain",
-      "summary": "Until recent decades, the monastery of Lios Mòr (Lismore) in Argyll, Scotland, established by Saint Mo Luóc in the sixth century, was attested only via historical references and local traditions. Community-led investigations have now revealed an early medieval cemetery,…",
-      "url": "https://doi.org/10.15184/aqy.2026.10379",
-      "image": null,
-      "publishedAt": "2026-10-01T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-antiquity",
-        "name": "Antiquity (Cambridge)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "erdi-aroa",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "munibe-aa:https://openalex.org/W7214984344",
-      "title": "RECENSIÓN - García Martínez de Lagrán, I. (Dir.), 2026. CERASNEOMO. Cerámicas del Neolítico antiguo del Mediterráneo occidental. Monografías de Prehistoria y Arqueología de la UNED, 3. Universidad Nacional de Educación a Distancia, Madrid. ISBN 978-84-09-77099-1.",
-      "summary": "Esta obra recoge los resultados de un proyecto de investigación orientado a la caracterización del Neolítico antiguo a través del estudio cerámico en el Mediterráneo occidental (sur de Francia, valle del Ebro, Cataluña, Meseta norte y zona valenciana).Esta investigación se…",
-      "url": "https://doi.org/10.21630/maa.2026.77.rec2",
-      "image": null,
-      "publishedAt": "2026-09-30T00:00:00.000Z",
-      "source": {
-        "id": "munibe-aa",
-        "name": "Munibe Antropologia-Arkeologia (Aranzadi)"
-      },
-      "lang": "es",
-      "region": "europe",
-      "topics": [
-        "prehistoria",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "trabajos-prehistoria:https://openalex.org/W7214651482",
-      "title": "Cronología y estrategias de subsistencia durante el Gravetiense en la cueva de Altamira (Santillana del Mar, Cantabria)",
-      "summary": "La cueva de Altamira es mundialmente conocida como la Capilla Sixtina del Paleolítico. Sin embargo, el conocimiento sobre los modos de vida de los grupos humanos que la ocuparon durante el Paleolítico Superior es limitado. El presente estudio expone nuevos datos sobre la…",
-      "url": "https://doi.org/10.3989/tp.2026.1081",
-      "image": null,
-      "publishedAt": "2026-09-28T00:00:00.000Z",
-      "source": {
-        "id": "trabajos-prehistoria",
-        "name": "Trabajos de Prehistoria (CSIC)"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": []
-    },
-    {
-      "id": "aranzadi-bsky:https://bsky.app/profile/aranzadi.bsky.social/post/3mwe2dudjgu2p",
-      "title": "",
-      "summary": "🏛️ Abian da nazioarteko ikastaroa! 400 lagun baino gehiago bildu dira Iruñean, “Irulegitik Pompelora. Hiri baten sustraiak” ikastaroan. Bart hasi eta lau egunez, Pompeloren sorrera eta erromatarren etorrera dituzte hizpide. #Aranzadi #Irulegi #Pompelo #Nazioartekoikastaroa",
-      "url": "https://bsky.app/profile/aranzadi.bsky.social/post/3mwe2dudjgu2p",
-      "image": null,
-      "publishedAt": "2026-09-25T15:07:00.000Z",
-      "source": {
-        "id": "aranzadi-bsky",
-        "name": "Aranzadi (Bluesky)"
-      },
-      "lang": "eu",
-      "region": "basque",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326002232?dgcid=rss_sd_all",
-      "title": "Ritual horse provisioning reveals the spatial scale of sustained cooperation in late Bronze age monument building in Mongolia",
-      "summary": "Publication date: November 2026 Source: Journal of Archaeological Science, Volume 195 Author(s): Mael Le Corre, Sébastien Lepetz, Vincent Balter, Charlotte Marchina, Tsagaan Turbat, Noost Bayarkhuu, Philippe Telouk, Antoine Zazzo",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326002232?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-09-17T06:20:05.836Z",
-      "source": {
-        "id": "sciencedirect-jas",
-        "name": "Journal of Archaeological Science (ScienceDirect)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria",
-        "asia"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26004980?dgcid=rss_sd_all",
-      "title": "The start of the Neolithic in the Lower Rhine Basin (Northwestern Europe): Timing, character and impact",
-      "summary": "Publication date: November 2026 Source: Journal of Archaeological Science: Reports, Volume 75 Author(s): D.C.M. Raemaekers, N.Ø. Brusgaard, M. Dreshaj, J.A.M. Erven, M.W. Dee, J.H.M. Peeters, C. Çakirlar",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26004980?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-09-17T06:20:05.804Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
     }
   ]
 }
