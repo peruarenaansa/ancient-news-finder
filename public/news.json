@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T05:48:59.766Z",
+  "generatedAt": "2026-10-18T06:13:13.024Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5379
+      "elapsedMs": 5842
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 686
+      "elapsedMs": 781
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3651
+      "elapsedMs": 3305
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 922
+      "elapsedMs": 754
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2568
+      "elapsedMs": 2938
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 9,
       "droppedOffTopic": 21,
       "droppedModern": 0,
-      "elapsedMs": 2620
+      "elapsedMs": 3016
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 2,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 1036
+      "elapsedMs": 1020
     },
     {
       "id": "labrujulaverde",
@@ -101,7 +101,7 @@
       "kept": 18,
       "droppedOffTopic": 1,
       "droppedModern": 1,
-      "elapsedMs": 1548
+      "elapsedMs": 1644
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 1828
+      "elapsedMs": 1596
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 710
+      "elapsedMs": 1727
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 1,
-      "elapsedMs": 866
+      "elapsedMs": 942
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 6,
       "droppedOffTopic": 11,
       "droppedModern": 3,
-      "elapsedMs": 1338
+      "elapsedMs": 1565
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +162,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 18,
-      "kept": 11,
-      "droppedOffTopic": 7,
+      "fetched": 16,
+      "kept": 10,
+      "droppedOffTopic": 6,
       "droppedModern": 0,
-      "elapsedMs": 1209
+      "elapsedMs": 1045
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +179,7 @@
       "kept": 4,
       "droppedOffTopic": 15,
       "droppedModern": 4,
-      "elapsedMs": 2523
+      "elapsedMs": 2946
     },
     {
       "id": "sudouest-culture",
@@ -192,7 +192,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1216
+      "elapsedMs": 1320
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1198
+      "elapsedMs": 1796
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 2,
       "droppedOffTopic": 1,
       "droppedModern": 7,
-      "elapsedMs": 2304
+      "elapsedMs": 2318
     },
     {
       "id": "stilearte",
@@ -231,7 +231,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 1984
+      "elapsedMs": 2521
     },
     {
       "id": "live-science-arch",
@@ -241,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 6,
-      "droppedOffTopic": 24,
+      "kept": 5,
+      "droppedOffTopic": 25,
       "droppedModern": 0,
-      "elapsedMs": 2418
+      "elapsedMs": 2854
     },
     {
       "id": "bbc-history",
@@ -257,7 +257,7 @@
       "kept": 0,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1345
+      "elapsedMs": 1732
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +270,7 @@
       "kept": 21,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1465
+      "elapsedMs": 1779
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1518
+      "elapsedMs": 1802
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 9,
       "droppedOffTopic": 8,
       "droppedModern": 3,
-      "elapsedMs": 1836
+      "elapsedMs": 2112
     },
     {
       "id": "current-archaeology",
@@ -304,12 +304,9 @@
       "lang": "en",
       "region": "europe",
       "kind": "news",
-      "ok": true,
-      "fetched": 30,
-      "kept": 23,
-      "droppedOffTopic": 4,
-      "droppedModern": 3,
-      "elapsedMs": 1843
+      "ok": false,
+      "error": "Status code 403",
+      "elapsedMs": 6524
     },
     {
       "id": "jas-reports",
@@ -322,7 +319,7 @@
       "kept": 6,
       "droppedOffTopic": 1,
       "droppedModern": 23,
-      "elapsedMs": 1526
+      "elapsedMs": 1955
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +332,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1931
+      "elapsedMs": 2105
     },
     {
       "id": "pnas-arch",
@@ -348,7 +345,7 @@
       "kept": 16,
       "droppedOffTopic": 9,
       "droppedModern": 5,
-      "elapsedMs": 2661
+      "elapsedMs": 2651
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +358,7 @@
       "kept": 9,
       "droppedOffTopic": 3,
       "droppedModern": 18,
-      "elapsedMs": 1728
+      "elapsedMs": 1931
     },
     {
       "id": "spal-us",
@@ -374,7 +371,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2437
+      "elapsedMs": 2770
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +384,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 3554
+      "elapsedMs": 4780
     },
     {
       "id": "archeoarte",
@@ -397,7 +394,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 8270
+      "elapsedMs": 8401
     },
     {
       "id": "cypsela",
@@ -407,7 +404,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 6843
+      "elapsedMs": 7350
     },
     {
       "id": "cambridge-antiquity",
@@ -417,10 +414,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 21,
-      "droppedOffTopic": 6,
+      "kept": 22,
+      "droppedOffTopic": 5,
       "droppedModern": 3,
-      "elapsedMs": 2357
+      "elapsedMs": 2576
     },
     {
       "id": "cambridge-caj",
@@ -433,7 +430,7 @@
       "kept": 18,
       "droppedOffTopic": 7,
       "droppedModern": 5,
-      "elapsedMs": 2430
+      "elapsedMs": 2620
     },
     {
       "id": "cambridge-ejarc",
@@ -446,7 +443,7 @@
       "kept": 17,
       "droppedOffTopic": 5,
       "droppedModern": 8,
-      "elapsedMs": 2399
+      "elapsedMs": 2565
     },
     {
       "id": "aquitania-persee",
@@ -459,7 +456,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3053
+      "elapsedMs": 3450
     },
     {
       "id": "cuadernos-arq-unav",
@@ -472,7 +469,7 @@
       "kept": 21,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 3118
+      "elapsedMs": 3765
     },
     {
       "id": "veleia-ehu",
@@ -485,7 +482,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3397
+      "elapsedMs": 3955
     },
     {
       "id": "flv-navarra",
@@ -498,7 +495,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2448
+      "elapsedMs": 2837
     },
     {
       "id": "munibe-aa",
@@ -511,7 +508,7 @@
       "kept": 17,
       "droppedOffTopic": 4,
       "droppedModern": 9,
-      "elapsedMs": 2469
+      "elapsedMs": 2878
     },
     {
       "id": "trabajos-prehistoria",
@@ -524,7 +521,7 @@
       "kept": 23,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 2514
+      "elapsedMs": 2821
     },
     {
       "id": "openalex-archaeology",
@@ -534,10 +531,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 12,
-      "droppedOffTopic": 7,
-      "droppedModern": 11,
-      "elapsedMs": 2492
+      "kept": 11,
+      "droppedOffTopic": 9,
+      "droppedModern": 10,
+      "elapsedMs": 2973
     }
   ],
   "items": [
@@ -786,6 +783,92 @@
       "topics": []
     },
     {
+      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326002232?dgcid=rss_sd_all",
+      "title": "Ritual horse provisioning reveals the spatial scale of sustained cooperation in late Bronze age monument building in Mongolia",
+      "summary": "Publication date: November 2026 Source: Journal of Archaeological Science, Volume 195 Author(s): Mael Le Corre, Sébastien Lepetz, Vincent Balter, Charlotte Marchina, Tsagaan Turbat, Noost Bayarkhuu, Philippe Telouk, Antoine Zazzo",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326002232?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-10-18T06:13:06.548Z",
+      "source": {
+        "id": "sciencedirect-jas",
+        "name": "Journal of Archaeological Science (ScienceDirect)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "asia"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/descubren-en-corcega-una-casa-romana-tallada-en-la-roca-con-su-propio-puerto-de-los-ultimos-siglos-del-imperio",
+      "title": "Descubren en Córcega una casa romana tallada en la roca con su propio puerto de los últimos siglos del Imperio",
+      "summary": "Cuando alguien quiere construirse una casa en la marina de Meria, en el extremo norte de Córcega, antes de poner el primer ladrillo hay que mirar qué hay debajo. Así lo exige el Servicio regional de Arqueología (la DRAC de Córcega), y gracias a esa norma los arqueólogos del…",
+      "url": "https://www.labrujulaverde.com/2026/10/descubren-en-corcega-una-casa-romana-tallada-en-la-roca-con-su-propio-puerto-de-los-ultimos-siglos-del-imperio",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/fig.4_6-2.jpg.webp",
+      "publishedAt": "2026-10-17T16:09:38.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "berria-bsky:https://bsky.app/profile/berria.eus/post/3my37es3aud2m",
+      "title": "",
+      "summary": "Arrasatek bigarren aroa hasiko du bihar. Osasunak Racing jasoko du Sadarren, eta etxetik kanpo arituko dira Alaves eta Reala. Celtaren eta Malagaren zelaian jokatuko dute, hurrenez hurren.…",
+      "url": "https://bsky.app/profile/berria.eus/post/3my37es3aud2m",
+      "image": null,
+      "publishedAt": "2026-10-17T13:34:00.000Z",
+      "source": {
+        "id": "berria-bsky",
+        "name": "Berria (Bluesky)"
+      },
+      "lang": "eu",
+      "region": "basque",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/una-extrana-tumba-de-la-edad-oscura-hace-3000-anos-contenia-una-mujer-fenicia-un-hombre-frigio-otro-del-egeo-y-pimienta-negra-de-la-india",
+      "title": "Una extraña tumba de la “edad oscura” hace 3000 años contenía una mujer fenicia, un hombre frigio, otro del Egeo y pimienta negra de la India",
+      "summary": "Hacia el año 1200 a.C. el mundo del Mediterráneo oriental se vino abajo. Cayeron los grandes imperios de la Edad del Bronce, se destruyeron o se vaciaron muchas ciudades, se perdió la escritura en buena parte de la región y el comercio a larga distancia se redujo a lo mínimo.…",
+      "url": "https://www.labrujulaverde.com/2026/10/una-extrana-tumba-de-la-edad-oscura-hace-3000-anos-contenia-una-mujer-fenicia-un-hombre-frigio-otro-del-egeo-y-pimienta-negra-de-la-india",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/Pella_Migdol_Temple_2001.webp",
+      "publishedAt": "2026-10-17T08:13:30.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "amerika",
+        "asia"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/impero-romano-corsica-abitato-tardoantico-meria/",
+      "title": "Impero romano, la casa sul mare che riemerge in Corsica: a Meria un abitato del IV secolo. Cosa avvenne sull’isola romana?",
+      "summary": "Nel Cap Corse, a meno di cento metri dal Mediterraneo, gli archeologi hanno scoperto un edificio abitativo del IV secolo d.C. collegato a un approdo tardoantico. Ceramiche, vetri, strumenti, tegole e materiali importati raccontano la vita di una comunità affacciata su una delle…",
+      "url": "https://www.stilearte.it/impero-romano-corsica-abitato-tardoantico-meria/",
+      "image": null,
+      "publishedAt": "2026-10-17T07:56:43.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
       "id": "live-science-arch:https://www.livescience.com/archaeology/americas/archaeologists-discover-the-oldest-dwelling-in-the-western-hemisphere-at-a-13-800-year-old-site-in-alaska",
       "title": "Archaeologists discover the oldest dwelling in the Western Hemisphere at a 13,800-year-old site in Alaska",
       "summary": "Archaeologists have discovered an ancient base camp in Alaska that has evidence of the oldest dwelling and possibly the earliest domesticated dogs in the Americas.",
@@ -986,6 +1069,23 @@
       "lang": "it",
       "region": "europe",
       "topics": []
+    },
+    {
+      "id": "cambridge-antiquity:https://openalex.org/W7222430800",
+      "title": "Eating under Christian rule: isotopic evidence for food access and resilience among a medieval Muslim minority in Iberia",
+      "summary": "Muslim minorities are documented as taxpayers or legal subjects in medieval Europe, but rarely as individuals or households. This study examines carbon and nitrogen stable isotopes from 120 individuals buried at Torre Monreal, Tudela (Navarre, Spain) between the late eleventh…",
+      "url": "https://doi.org/10.15184/aqy.2026.10449",
+      "image": null,
+      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "source": {
+        "id": "cambridge-antiquity",
+        "name": "Antiquity (Cambridge)"
+      },
+      "lang": "en",
+      "region": "basque",
+      "topics": [
+        "erdi-aroa"
+      ]
     },
     {
       "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/el-omoplato-de-un-neandertal-de-la-cueva-de-shanidar-revela-la-que-podria-ser-la-muerte-por-lanza-mas-antigua-conocida",
@@ -8801,104 +8901,6 @@
       "topics": [
         "erromatarrak"
       ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/el-menu-de-los-banquetes-de-la-elite-de-la-edad-del-hierro-en-salamanca-hace-2600-anos-asi-comian-en-uno-de-los-primeros-pueblos-que-existieron-en-la-meseta",
-      "title": "El menú de los banquetes de la élite de la Edad del Hierro en Salamanca hace 2.600 años: así comían en uno de los primeros pueblos que existieron en la meseta",
-      "summary": "Más de 5.000 huesos rescatados de los basureros de un barrio del Cerro de San Vicente, en Salamanca, permiten reconstruir cómo comía hace unos 2.600 años un grupo familiar acomodado. Según un estudio publicado en Archaeological and Anthropological Sciences, los animales jóvenes,…",
-      "url": "https://www.labrujulaverde.com/2026/10/el-menu-de-los-banquetes-de-la-elite-de-la-edad-del-hierro-en-salamanca-hace-2600-anos-asi-comian-en-uno-de-los-primeros-pueblos-que-existieron-en-la-meseta",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/urn-cambridge.org-id-binary-alt-20241108155808-49097-labrujulaverde.com-optimisedImage-png-S0003598X23000960_fig2.jpg.webp",
-      "publishedAt": "2026-10-04T09:21:40.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26005468?dgcid=rss_sd_all",
-      "title": "Catching fire – On cremations in Late Iron Age Åland Islands, Baltic sea",
-      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part A Author(s): Marcus Frid, Jan Storå",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26005468?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-10-04T07:06:49.884Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "sudouest-culture:https://www.sudouest.fr/landes/une-decouverte-inedite-dans-les-landes-des-archeologues-benevoles-mettent-au-jour-une-pirogue-du-xvie-siecle-du-fond-de-l-adour-30871843.php",
-      "title": "« Une découverte inédite » : dans les Landes, des archéologues bénévoles mettent au jour une pirogue du XVIe siècle du fond de l’Adour",
-      "summary": "Une équipe d’archéologues bénévoles a étudié début septembre 2026un chaland monoxyle enchâssé dans la rive l’Adour, au niveau de la commune de Téthieu, près de Dax. Selon l’auteur Gilles Kerloc’h, membre",
-      "url": "https://www.sudouest.fr/landes/une-decouverte-inedite-dans-les-landes-des-archeologues-benevoles-mettent-au-jour-une-pirogue-du-xvie-siecle-du-fond-de-l-adour-30871843.php",
-      "image": null,
-      "publishedAt": "2026-10-04T06:01:00.000Z",
-      "source": {
-        "id": "sudouest-culture",
-        "name": "Sud Ouest — Culture"
-      },
-      "lang": "fr",
-      "region": "basque",
-      "topics": [
-        "amerika",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/brillan-sin-tener-una-sola-estrella-la-via-lactea-se-formo-a-partir-de-un-enjambre-de-miles-de-galaxias",
-      "title": "Brillan sin tener una sola estrella: la Vía Láctea se formó a partir de un enjambre de miles de galaxias",
-      "summary": "Hace mucho, el rincón del universo que acabaría siendo nuestro vecindario galáctico no se parecía a una galaxia. Era una colección de miles de galaxias más pequeñas: unas fabricaban estrellas a un ritmo frenético, otras estaban llenas solo de gas y otras salpicadas de estrellas…",
-      "url": "https://www.labrujulaverde.com/2026/10/brillan-sin-tener-una-sola-estrella-la-via-lactea-se-formo-a-partir-de-un-enjambre-de-miles-de-galaxias",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/milkyway-simulation-screenshot.webp",
-      "publishedAt": "2026-10-03T17:24:00.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/animals/extinct-species/giant-tusks-from-siberia-were-thought-to-be-the-horns-of-the-mythical-unicorn-what-medieval-people-made-of-fossils-before-vertebrate-paleontology",
-      "title": "What medieval people made of fossils before vertebrate paleontology",
-      "summary": "In this excerpt from \"The Story of the Mammals in 25 Discoveries,\" author Donald R. Prothero looks at a time when the idea of extinction was blasphemous.",
-      "url": "https://www.livescience.com/animals/extinct-species/giant-tusks-from-siberia-were-thought-to-be-the-horns-of-the-mythical-unicorn-what-medieval-people-made-of-fossils-before-vertebrate-paleontology",
-      "image": "https://cdn.mos.cms.futurecdn.net/FvpB5VGUMyYEM8jjw3A4RB-1920-80.jpg",
-      "publishedAt": "2026-10-03T11:00:00.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "erdi-aroa",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/09/260930020329.htm",
-      "title": "97-million-year-old fossils reveal the earliest known animal “GPS”",
-      "summary": "Mysterious 97-million-year-old magnetic fossils may be the oldest evidence of an animal using Earth’s magnetic field like a built-in GPS. Their sophisticated magnetic structure could have helped an unknown ocean creature navigate thousands of kilometers with surprising precision.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260930020329.htm",
-      "image": null,
-      "publishedAt": "2026-10-02T11:54:34.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
     }
   ]
 }
