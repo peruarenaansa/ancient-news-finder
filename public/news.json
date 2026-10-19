@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T06:13:13.024Z",
+  "generatedAt": "2026-10-19T06:26:28.210Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5842
+      "elapsedMs": 4919
     },
     {
       "id": "naiz",
@@ -20,10 +20,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 0,
-      "droppedOffTopic": 30,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 781
+      "elapsedMs": 595
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3305
+      "elapsedMs": 706
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 754
+      "elapsedMs": 586
     },
     {
       "id": "berria-bsky",
@@ -59,10 +59,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2938
+      "elapsedMs": 2144
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 9,
       "droppedOffTopic": 21,
       "droppedModern": 0,
-      "elapsedMs": 3016
+      "elapsedMs": 2150
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 2,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 1020
+      "elapsedMs": 947
     },
     {
       "id": "labrujulaverde",
@@ -101,7 +101,7 @@
       "kept": 18,
       "droppedOffTopic": 1,
       "droppedModern": 1,
-      "elapsedMs": 1644
+      "elapsedMs": 1439
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 1596
+      "elapsedMs": 791
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1727
+      "elapsedMs": 502
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 1,
-      "elapsedMs": 942
+      "elapsedMs": 530
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 6,
       "droppedOffTopic": 11,
       "droppedModern": 3,
-      "elapsedMs": 1565
+      "elapsedMs": 1064
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +162,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 16,
+      "fetched": 17,
       "kept": 10,
-      "droppedOffTopic": 6,
+      "droppedOffTopic": 7,
       "droppedModern": 0,
-      "elapsedMs": 1045
+      "elapsedMs": 721
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +179,7 @@
       "kept": 4,
       "droppedOffTopic": 15,
       "droppedModern": 4,
-      "elapsedMs": 2946
+      "elapsedMs": 2161
     },
     {
       "id": "sudouest-culture",
@@ -192,7 +192,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1320
+      "elapsedMs": 966
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1796
+      "elapsedMs": 1583
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 2,
       "droppedOffTopic": 1,
       "droppedModern": 7,
-      "elapsedMs": 2318
+      "elapsedMs": 1699
     },
     {
       "id": "stilearte",
@@ -231,7 +231,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2521
+      "elapsedMs": 1949
     },
     {
       "id": "live-science-arch",
@@ -241,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 5,
-      "droppedOffTopic": 25,
+      "kept": 4,
+      "droppedOffTopic": 26,
       "droppedModern": 0,
-      "elapsedMs": 2854
+      "elapsedMs": 1991
     },
     {
       "id": "bbc-history",
@@ -257,7 +257,7 @@
       "kept": 0,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1732
+      "elapsedMs": 1114
     },
     {
       "id": "sciencedaily-arch",
@@ -267,10 +267,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 21,
-      "droppedOffTopic": 9,
+      "kept": 22,
+      "droppedOffTopic": 8,
       "droppedModern": 0,
-      "elapsedMs": 1779
+      "elapsedMs": 1346
     },
     {
       "id": "ancient-origins",
@@ -278,12 +278,9 @@
       "lang": "en",
       "region": "world",
       "kind": "news",
-      "ok": true,
-      "fetched": 10,
-      "kept": 3,
-      "droppedOffTopic": 5,
-      "droppedModern": 2,
-      "elapsedMs": 1802
+      "ok": false,
+      "error": "Unable to parse XML.",
+      "elapsedMs": 5878
     },
     {
       "id": "guardian-arch",
@@ -294,9 +291,9 @@
       "ok": true,
       "fetched": 20,
       "kept": 9,
-      "droppedOffTopic": 8,
-      "droppedModern": 3,
-      "elapsedMs": 2112
+      "droppedOffTopic": 7,
+      "droppedModern": 4,
+      "elapsedMs": 1494
     },
     {
       "id": "current-archaeology",
@@ -306,7 +303,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 6524
+      "elapsedMs": 5787
     },
     {
       "id": "jas-reports",
@@ -319,7 +316,7 @@
       "kept": 6,
       "droppedOffTopic": 1,
       "droppedModern": 23,
-      "elapsedMs": 1955
+      "elapsedMs": 1211
     },
     {
       "id": "plos-one-arch",
@@ -332,7 +329,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2105
+      "elapsedMs": 1420
     },
     {
       "id": "pnas-arch",
@@ -345,7 +342,7 @@
       "kept": 16,
       "droppedOffTopic": 9,
       "droppedModern": 5,
-      "elapsedMs": 2651
+      "elapsedMs": 2057
     },
     {
       "id": "sciencedirect-jas",
@@ -356,9 +353,9 @@
       "ok": true,
       "fetched": 30,
       "kept": 9,
-      "droppedOffTopic": 3,
-      "droppedModern": 18,
-      "elapsedMs": 1931
+      "droppedOffTopic": 2,
+      "droppedModern": 19,
+      "elapsedMs": 1373
     },
     {
       "id": "spal-us",
@@ -371,7 +368,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2770
+      "elapsedMs": 2326
     },
     {
       "id": "complutum-ucm",
@@ -384,7 +381,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 4780
+      "elapsedMs": 5100
     },
     {
       "id": "archeoarte",
@@ -394,7 +391,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 8401
+      "elapsedMs": 7743
     },
     {
       "id": "cypsela",
@@ -404,7 +401,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 7350
+      "elapsedMs": 6625
     },
     {
       "id": "cambridge-antiquity",
@@ -417,7 +414,7 @@
       "kept": 22,
       "droppedOffTopic": 5,
       "droppedModern": 3,
-      "elapsedMs": 2576
+      "elapsedMs": 1989
     },
     {
       "id": "cambridge-caj",
@@ -430,7 +427,7 @@
       "kept": 18,
       "droppedOffTopic": 7,
       "droppedModern": 5,
-      "elapsedMs": 2620
+      "elapsedMs": 1892
     },
     {
       "id": "cambridge-ejarc",
@@ -443,7 +440,7 @@
       "kept": 17,
       "droppedOffTopic": 5,
       "droppedModern": 8,
-      "elapsedMs": 2565
+      "elapsedMs": 1872
     },
     {
       "id": "aquitania-persee",
@@ -456,7 +453,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3450
+      "elapsedMs": 2645
     },
     {
       "id": "cuadernos-arq-unav",
@@ -469,7 +466,7 @@
       "kept": 21,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 3765
+      "elapsedMs": 2943
     },
     {
       "id": "veleia-ehu",
@@ -482,7 +479,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3955
+      "elapsedMs": 2863
     },
     {
       "id": "flv-navarra",
@@ -495,7 +492,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2837
+      "elapsedMs": 2009
     },
     {
       "id": "munibe-aa",
@@ -508,7 +505,7 @@
       "kept": 17,
       "droppedOffTopic": 4,
       "droppedModern": 9,
-      "elapsedMs": 2878
+      "elapsedMs": 2046
     },
     {
       "id": "trabajos-prehistoria",
@@ -521,7 +518,7 @@
       "kept": 23,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 2821
+      "elapsedMs": 2062
     },
     {
       "id": "openalex-archaeology",
@@ -534,7 +531,7 @@
       "kept": 11,
       "droppedOffTopic": 9,
       "droppedModern": 10,
-      "elapsedMs": 2973
+      "elapsedMs": 1996
     }
   ],
   "items": [
@@ -783,6 +780,140 @@
       "topics": []
     },
     {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26005468?dgcid=rss_sd_all",
+      "title": "Catching fire – On cremations in Late Iron Age Åland Islands, Baltic sea",
+      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part A Author(s): Marcus Frid, Jan Storå",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26005468?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-10-19T06:26:21.646Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/lomicidio-di-cesarione-figlio-di-cleopatra-e-di-cesare-mogli-amanti-sentimenti-e-famiglia-nel-mondo-del-generale/",
+      "title": "L’omicidio di Cesarione, figlio di Cleopatra e di Cesare. Mogli, amanti, sentimenti e famiglia nel mondo del generale",
+      "summary": "La regina Cleopatra VII d’Egitto e Giulio Cesare, il celebre condottiero e politico romano, si incontrarono per la prima volta a Alessandria d’Egitto nel 48 a.C. Cleopatra era allora una giovane regina di soli 21 anni, appena salita al trono d’Egitto dopo la morte di suo padre…",
+      "url": "https://www.stilearte.it/lomicidio-di-cesarione-figlio-di-cleopatra-e-di-cesare-mogli-amanti-sentimenti-e-famiglia-nel-mondo-del-generale/",
+      "image": null,
+      "publishedAt": "2026-10-18T23:07:37.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "naiz:https://www.naiz.eus/info/noticia/20261018/el-celta-castiga-de-mas-a-un-alaves-superior-pero-renido-con-la-victoria-2-1",
+      "title": "El Celta castiga de más a un Alavés superior pero reñido con la victoria (2-1)",
+      "summary": "",
+      "url": "https://www.naiz.eus/info/noticia/20261018/el-celta-castiga-de-mas-a-un-alaves-superior-pero-renido-con-la-victoria-2-1",
+      "image": "https://www.naiz.eus/media/asset_publics/resources/001/380/087/news_landscape/5-LuiLor-LOF-366.jpg",
+      "publishedAt": "2026-10-18T16:30:00.000Z",
+      "source": {
+        "id": "naiz",
+        "name": "Naiz"
+      },
+      "lang": "eu",
+      "region": "basque",
+      "topics": []
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/10/261017230023.htm",
+      "title": "Scientists discover a surprising twist in Japan's 7,300-year-old volcanic apocalypse",
+      "summary": "A catastrophic volcanic eruption 7,300 years ago devastated Japan, but new research reveals that its impact on prehistoric populations was far more complex than previously believed. While some communities disappeared or declined, others unexpectedly flourished as survivors…",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261017230023.htm",
+      "image": null,
+      "publishedAt": "2026-10-18T12:36:21.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "asia",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/asi-resistio-el-norte-de-la-peninsula-iberica-a-el-argar-el-primer-estado-creado-hace-4000-anos-en-la-edad-del-bronce",
+      "title": "Así resistió el norte de la Península Ibérica a El Argar, el primer estado creado hace 4.000 años en la Edad del Bronce",
+      "summary": "Hace unos 4.200 años, en el sureste de la península ibérica, una sociedad levantó ciudades en lo alto de los cerros, almacenó cereal a gran escala y armó a sus guerreros con alabardas y espadas de metal. Es lo que los arqueólogos llaman El Argar. Más al norte, en lo que hoy son…",
+      "url": "https://www.labrujulaverde.com/2026/10/asi-resistio-el-norte-de-la-peninsula-iberica-a-el-argar-el-primer-estado-creado-hace-4000-anos-en-la-edad-del-bronce",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/Depositphotos_823430376_L-2.webp",
+      "publishedAt": "2026-10-18T10:01:21.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "ekialde-hurbila"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/turchia-relitto-4500-anni-kekova-piu-antico-mondo/",
+      "title": "Incredibile. Scoperto in Turchia il più antico relitto del mondo: ha 4.500 anni. Nel carico anche vasi con ancora i residui. Cosa trasportavano?",
+      "summary": "Al largo dell’isola di Kekova, nel Mediterraneo orientale, gli archeologi hanno identificato un relitto dell’Età del Bronzo Antico. La nave è scomparsa, ma sul fondale sono rimaste oltre 30 grandi ceramiche, alcune delle quali conservano ancora tracce del loro antico contenuto.…",
+      "url": "https://www.stilearte.it/turchia-relitto-4500-anni-kekova-piu-antico-mondo/",
+      "image": null,
+      "publishedAt": "2026-10-18T09:46:00.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/caucaso-tomba-guerriero-alessandro-magno-pentagramma/",
+      "title": "Una tomba di 2.000 anni fa svela il rituale di un guerriero-cavaliere. Aveva oro, un cavallo e una coppa con un pentagramma. E l’ipotesi di un sacrificio umano",
+      "summary": "Nella necropoli di Vinogradny 1, nel Kuban, la sepoltura di un aristocratico meoto racconta un mondo sospeso tra tradizioni locali e cultura greca. Sotto la mandibola del guerriero è stata trovata una moneta d’oro con il volto di Alessandro Magno. Poco lontano, resti animali e…",
+      "url": "https://www.stilearte.it/caucaso-tomba-guerriero-alessandro-magno-pentagramma/",
+      "image": null,
+      "publishedAt": "2026-10-18T09:23:32.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "greziarrak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/claro-para-la-voz-poco-apto-para-la-musica-asi-suena-el-mayor-anfiteatro-romano-de-hispania",
+      "title": "Claro para la voz, poco apto para la música: así suena el mayor anfiteatro romano de Hispania",
+      "summary": "Treinta y cinco mil espectadores. Esa es la capacidad que los autores de un nuevo estudio atribuyen al anfiteatro romano de Itálica, en Santiponce (Sevilla), y en aquellas gradas no había ni un altavoz. Lo que ocurría en la arena tenía que llegar al público sin ayuda de…",
+      "url": "https://www.labrujulaverde.com/2026/10/claro-para-la-voz-poco-apto-para-la-musica-asi-suena-el-mayor-anfiteatro-romano-de-hispania",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/Anfiteatro_de_Italica_49561257668.webp",
+      "publishedAt": "2026-10-18T08:15:48.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
       "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326002232?dgcid=rss_sd_all",
       "title": "Ritual horse provisioning reveals the spatial scale of sustained cooperation in late Bronze age monument building in Mongolia",
       "summary": "Publication date: November 2026 Source: Journal of Archaeological Science, Volume 195 Author(s): Mael Le Corre, Sébastien Lepetz, Vincent Balter, Charlotte Marchina, Tsagaan Turbat, Noost Bayarkhuu, Philippe Telouk, Antoine Zazzo",
@@ -798,6 +929,23 @@
       "topics": [
         "prehistoria",
         "asia"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/10/261016070644.htm",
+      "title": "Archaeologists discover 1,200-year-old mummified hairless dog in Peru",
+      "summary": "Archaeologists have discovered 1,200-year-old remains of Peru’s famous hairless dogs at an ancient Wari Empire burial site, including remarkably preserved mummies and puppies buried alongside humans. Their unusual teeth, diets, and burial arrangements reveal surprising clues…",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261016070644.htm",
+      "image": null,
+      "publishedAt": "2026-10-18T02:32:58.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
       ]
     },
     {
@@ -4717,86 +4865,6 @@
       "topics": []
     },
     {
-      "id": "stilearte:https://www.stilearte.it/gran-carro-bolsena-villaggio-sommerso-visite/",
-      "title": "Brividi. Tutti di notte sul villaggio sommerso del Gran Carro. Il lago di Bolsena si illumina e riporta in vita 3000 anni di storia. Maschere e pinne. Barca con vetri. Cosa si vede. Come partecipare",
-      "summary": "Italia centrale – Sabato 26 luglio ultima apertura diurna del sito archeologico sommerso di Bolsena. Intanto l’esperienza serale conquista visitatori italiani e stranieri, che osservano da pochi metri di distanza uno dei più straordinari paesaggi archeologici nascosti sotto le…",
-      "url": "https://www.stilearte.it/gran-carro-bolsena-villaggio-sommerso-visite/",
-      "image": null,
-      "publishedAt": "2026-07-20T22:25:19.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/feature/in-a-matter-of-minutes-his-life-was-over-the-violent-death-of-a-mesolithic-man/",
-      "title": "In a matter of minutes, his life was over: The violent death of a Mesolithic man",
-      "summary": "A recent discovery in Sweden has revealed details about the final moments of a Mesolithic man. Caroline Arcini, Ann Westmark, Gracijela Bozovic, and Marie-Louise Aurumskjöld take us through what unfolded.",
-      "url": "https://the-past.com/feature/in-a-matter-of-minutes-his-life-was-over-the-violent-death-of-a-mesolithic-man/",
-      "image": null,
-      "publishedAt": "2026-07-20T19:00:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "sudouest-culture:https://www.sudouest.fr/charente-maritime/saintes/charente-maritime-somme-de-payer-pour-l-amphitheatre-et-de-rendre-des-comptes-blues-in-saintes-jette-le-gant-et-demenage-a-saujon-30002907.php",
-      "title": "Charente-Maritime : sommé de payer pour l’amphithéâtre et de rendre des comptes, Blues in Saintes jette le gant et déménage à Saujon",
-      "summary": "La Ville réclame à l’association Blues event un bilan financier et une participation pour l’utilisation de l’amphithéâtre gallo-romain. L’organisateur parle « d’injustice » et renonce au site",
-      "url": "https://www.sudouest.fr/charente-maritime/saintes/charente-maritime-somme-de-payer-pour-l-amphitheatre-et-de-rendre-des-comptes-blues-in-saintes-jette-le-gant-et-demenage-a-saujon-30002907.php",
-      "image": null,
-      "publishedAt": "2026-07-20T18:00:00.000Z",
-      "source": {
-        "id": "sudouest-culture",
-        "name": "Sud Ouest — Culture"
-      },
-      "lang": "fr",
-      "region": "basque",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/egitto-tre-tombe-nuovo-regno-pozzo-funerario-saqqara/",
-      "title": "Sorprendente scoperta in Egitto: trovate tre tombe del Nuovo Regno. Una conserva un pozzo funerario ancora sigillato. Cosa potrebbe svelare dopo millenni?",
-      "summary": "Nella necropoli di Saqqara una missione archeologica egiziana ha riportato alla luce tre tombe scavate nella roccia, appartenute ad alti funzionari vissuti oltre 3.300 anni fa. Tra rilievi, iscrizioni e scene di vita quotidiana, uno dei ritrovamenti custodisce ancora un mistero:…",
-      "url": "https://www.stilearte.it/egitto-tre-tombe-nuovo-regno-pozzo-funerario-saqqara/",
-      "image": null,
-      "publishedAt": "2026-07-20T15:46:20.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "inrap-bsky:https://bsky.app/profile/inrap.fr/post/3mr3ljryb6g23",
-      "title": "",
-      "summary": "Questionnaire : L’archéologie et vous 🔍 Vous êtes déjà plus de 3 500 à avoir répondu à notre questionnaire. Un grand merci ! 👉 N'hésitez pas à le relayer autour de vous : https://docs.google.com/forms/d/e/1FAIpQLSdJziov5M2Iik_e66pOZe3nanzaBxIA0B-nZpFEEvj450Mrpg/viewform",
-      "url": "https://bsky.app/profile/inrap.fr/post/3mr3ljryb6g23",
-      "image": null,
-      "publishedAt": "2026-07-20T15:15:00.000Z",
-      "source": {
-        "id": "inrap-bsky",
-        "name": "Inrap (Bluesky)"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": []
-    },
-    {
       "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354037",
       "title": "Effect of ethyl methane sulfonate mutagenesis on phenological, yield-related and yield traits in cowpea (Vigna unguiculata (L.) Walp)",
       "summary": "by Henry K. Mensah, Ralieva A. K. Nortey, Isaac K. Asante, Felicia Oppong-Adjei This study investigated the mutagenic effects of ethyl methane sulfonate (EMS) on the M₁ generation of cowpea (Vigna unguiculata (L.) Walp.) cultivar ‘Wang Kae.’ A total of 275 M₀ seeds were treated…",
@@ -4811,105 +4879,6 @@
       "region": "world",
       "topics": [
         "ekialde-hurbila"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/encuentran-en-eslovaquia-un-campamento-romano-de-la-epoca-de-marco-aurelio-y-las-guerras-marcomanas-con-extranos-enterramientos-de-legionarios",
-      "title": "Encuentran en Eslovaquia un campamento romano de la época de Marco Aurelio y las guerras marcomanas con extraños enterramientos de legionarios",
-      "summary": "El extenso proyecto arqueológico vinculado al futuro parque industrial de Šurany, en el suroeste de Eslovaquia, ha proporcionado uno de los descubrimientos más relevantes de los últimos años para la comprensión de la presencia romana al norte del Danubio. Los trabajos, que…",
-      "url": "https://www.labrujulaverde.com/2026/07/encuentran-en-eslovaquia-un-campamento-romano-de-la-epoca-de-marco-aurelio-y-las-guerras-marcomanas-con-extranos-enterramientos-de-legionarios",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/749197891_122189465678919968_2476330680486722023_n.webp",
-      "publishedAt": "2026-07-20T12:05:28.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "erromatarrak",
-        "ekialde-hurbila",
-        "asia",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/comment/living-among-ruins/",
-      "title": "Living among ruins",
-      "summary": "Most CWA readers will have visited some ruined cities for one reason or another; the majority of us will have let ourselves be fascinated by imagining how life in the past might have been, and how much or how little it would have resembled the modern equivalent, with its venues…",
-      "url": "https://the-past.com/comment/living-among-ruins/",
-      "image": null,
-      "publishedAt": "2026-07-20T12:00:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/en-el-siglo-iii-ac-pueblos-germanos-cooperaron-para-construir-la-gran-fortificacion-de-wittekindsburg-ahora-han-encontrado-sus-casas",
-      "title": "En el siglo III a.C. pueblos germanos cooperaron para construir la gran fortificación de Wittekindsburg, ahora han encontrado sus casas",
-      "summary": "Las prospecciones arqueológicas desarrolladas en el entorno de la ciudad alemana de Minden, en el este de Renania del Norte-Westfalia, están transformando la comprensión que se tenía hasta ahora sobre la ocupación humana en esta zona durante la Edad del Hierro. Los trabajos de…",
-      "url": "https://www.labrujulaverde.com/2026/07/en-el-siglo-iii-ac-pueblos-germanos-cooperaron-para-construir-la-gran-fortificacion-de-wittekindsburg-ahora-han-encontrado-sus-casas",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/113930.webp",
-      "publishedAt": "2026-07-20T09:44:55.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/tenerife-playas-de-arena-negra-calas-escondidas-y-un-volcan-en-el-centro",
-      "title": "Tenerife, playas de arena negra, calas escondidas y un volcán en el centro",
-      "summary": "Tenerife reparte sus encantos entre un norte verde y húmedo y un sur seco y soleado, y esa dualidad es precisamente lo que explica por qué la isla mantiene visitantes durante los doce meses del año. Con una temperatura media que ronda los 21°C incluso en pleno invierno, el…",
-      "url": "https://www.labrujulaverde.com/2026/07/tenerife-playas-de-arena-negra-calas-escondidas-y-un-volcan-en-el-centro",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/aerial-drone-view-puerto-de-la-cruz-tenerife-canary-islands-multiple-residential-buildings-2.webp",
-      "publishedAt": "2026-07-20T09:44:11.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/scoperta-gerusalemme-legno-primo-tempio/",
-      "title": "L’incendio che distrusse Gerusalemme 2600 anni fa: scoperto il legno biblico sigillato dal fuoco nella Città di Davide",
-      "summary": "È stata annunciata nelle ultime ore una scoperta che riporta agli ultimi istanti della Gerusalemme del Primo Tempio. Sotto l’attuale parcheggio Givati, nella Città di Davide, gli archeologi hanno trovato grandi travi di legno carbonizzate rimaste nel punto in cui crollarono…",
-      "url": "https://www.stilearte.it/scoperta-gerusalemme-legno-primo-tempio/",
-      "image": null,
-      "publishedAt": "2026-07-20T08:05:16.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "ekialde-hurbila"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/07/arqueologos-descubren-trampas-para-peces-de-hace-7000-anos-en-las-montanas-noruegas",
-      "title": "Arqueólogos descubren trampas para peces de hace 7000 años en las montañas noruegas",
-      "summary": "Un equipo de investigadores ha desenterrado en las montañas del sur de Noruega los restos de varias trampas para peces de madera con una antigüedad de 7.000 años, un hallazgo que demuestra que las sociedades de cazadores-recolectores-pescadores del Mesolítico escandinavo…",
-      "url": "https://www.labrujulaverde.com/2026/07/arqueologos-descubren-trampas-para-peces-de-hace-7000-anos-en-las-montanas-noruegas",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/07/urn-cambridge.org-id-binary-alt-20260709143518-66573-optimisedImage-png-S0003598X26103925_fig3.jpg.webp",
-      "publishedAt": "2026-07-20T07:59:29.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
       ]
     },
     {
@@ -8901,6 +8870,36 @@
       "topics": [
         "erromatarrak"
       ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/09/260930020329.htm",
+      "title": "97-million-year-old fossils reveal the earliest known animal “GPS”",
+      "summary": "Mysterious 97-million-year-old magnetic fossils may be the oldest evidence of an animal using Earth’s magnetic field like a built-in GPS. Their sophisticated magnetic structure could have helped an unknown ocean creature navigate thousands of kilometers with surprising precision.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260930020329.htm",
+      "image": null,
+      "publishedAt": "2026-10-02T11:54:34.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "cambridge-antiquity:https://openalex.org/W7214894123",
+      "title": "AQY volume 100 issue 413 Cover and Back matter",
+      "summary": "AQY volume 100 issue 413 Cover and Back matter",
+      "url": "https://doi.org/10.15184/aqy.2025.10199",
+      "image": null,
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "source": {
+        "id": "cambridge-antiquity",
+        "name": "Antiquity (Cambridge)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
     }
   ]
 }
