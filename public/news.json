@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T06:14:41.985Z",
+  "generatedAt": "2026-10-21T06:13:49.127Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5736
+      "elapsedMs": 4964
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 760
+      "elapsedMs": 584
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 912
+      "elapsedMs": 7758
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 763
+      "elapsedMs": 594
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2854
+      "elapsedMs": 2194
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 9,
       "droppedOffTopic": 21,
       "droppedModern": 0,
-      "elapsedMs": 2839
+      "elapsedMs": 2164
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 2,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 1154
+      "elapsedMs": 950
     },
     {
       "id": "labrujulaverde",
@@ -98,10 +98,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 17,
-      "droppedOffTopic": 1,
-      "droppedModern": 2,
-      "elapsedMs": 1725
+      "kept": 16,
+      "droppedOffTopic": 0,
+      "droppedModern": 4,
+      "elapsedMs": 1484
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 1597
+      "elapsedMs": 1318
     },
     {
       "id": "elpais-cultura",
@@ -124,10 +124,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 711
+      "elapsedMs": 531
     },
     {
       "id": "lemonde-sciences",
@@ -138,9 +138,9 @@
       "ok": true,
       "fetched": 20,
       "kept": 0,
-      "droppedOffTopic": 19,
-      "droppedModern": 1,
-      "elapsedMs": 954
+      "droppedOffTopic": 20,
+      "droppedModern": 0,
+      "elapsedMs": 631
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 6,
       "droppedOffTopic": 11,
       "droppedModern": 3,
-      "elapsedMs": 1806
+      "elapsedMs": 1446
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -163,10 +163,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 16,
-      "kept": 10,
-      "droppedOffTopic": 6,
+      "kept": 11,
+      "droppedOffTopic": 5,
       "droppedModern": 0,
-      "elapsedMs": 1223
+      "elapsedMs": 810
     },
     {
       "id": "inrap-bsky",
@@ -176,10 +176,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 23,
-      "kept": 4,
-      "droppedOffTopic": 15,
+      "kept": 5,
+      "droppedOffTopic": 14,
       "droppedModern": 4,
-      "elapsedMs": 2901
+      "elapsedMs": 2282
     },
     {
       "id": "sudouest-culture",
@@ -192,7 +192,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1342
+      "elapsedMs": 1324
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1861
+      "elapsedMs": 1609
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 2,
       "droppedOffTopic": 1,
       "droppedModern": 7,
-      "elapsedMs": 2144
+      "elapsedMs": 1800
     },
     {
       "id": "stilearte",
@@ -228,10 +228,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 10,
+      "kept": 9,
       "droppedOffTopic": 0,
-      "droppedModern": 0,
-      "elapsedMs": 2482
+      "droppedModern": 1,
+      "elapsedMs": 2258
     },
     {
       "id": "live-science-arch",
@@ -241,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 6,
-      "droppedOffTopic": 24,
+      "kept": 4,
+      "droppedOffTopic": 26,
       "droppedModern": 0,
-      "elapsedMs": 2748
+      "elapsedMs": 1996
     },
     {
       "id": "bbc-history",
@@ -254,10 +254,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 0,
-      "droppedOffTopic": 10,
+      "kept": 1,
+      "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1737
+      "elapsedMs": 1254
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +270,7 @@
       "kept": 22,
       "droppedOffTopic": 8,
       "droppedModern": 0,
-      "elapsedMs": 1713
+      "elapsedMs": 1385
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1820
+      "elapsedMs": 1393
     },
     {
       "id": "guardian-arch",
@@ -293,10 +293,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 9,
-      "droppedOffTopic": 7,
+      "kept": 8,
+      "droppedOffTopic": 8,
       "droppedModern": 4,
-      "elapsedMs": 2034
+      "elapsedMs": 1553
     },
     {
       "id": "current-archaeology",
@@ -309,7 +309,7 @@
       "kept": 20,
       "droppedOffTopic": 4,
       "droppedModern": 6,
-      "elapsedMs": 1784
+      "elapsedMs": 1299
     },
     {
       "id": "jas-reports",
@@ -322,7 +322,7 @@
       "kept": 6,
       "droppedOffTopic": 1,
       "droppedModern": 23,
-      "elapsedMs": 1778
+      "elapsedMs": 1344
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +335,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1869
+      "elapsedMs": 1370
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 16,
       "droppedOffTopic": 9,
       "droppedModern": 5,
-      "elapsedMs": 2766
+      "elapsedMs": 1883
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +361,7 @@
       "kept": 9,
       "droppedOffTopic": 2,
       "droppedModern": 19,
-      "elapsedMs": 1807
+      "elapsedMs": 1321
     },
     {
       "id": "spal-us",
@@ -374,7 +374,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2803
+      "elapsedMs": 2228
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +387,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 3843
+      "elapsedMs": 3232
     },
     {
       "id": "archeoarte",
@@ -397,7 +397,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 8896
+      "elapsedMs": 7764
     },
     {
       "id": "cypsela",
@@ -407,7 +407,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 7459
+      "elapsedMs": 6551
     },
     {
       "id": "cambridge-antiquity",
@@ -417,10 +417,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 22,
+      "kept": 21,
       "droppedOffTopic": 5,
-      "droppedModern": 3,
-      "elapsedMs": 2696
+      "droppedModern": 4,
+      "elapsedMs": 1882
     },
     {
       "id": "cambridge-caj",
@@ -433,7 +433,7 @@
       "kept": 18,
       "droppedOffTopic": 7,
       "droppedModern": 5,
-      "elapsedMs": 2711
+      "elapsedMs": 1796
     },
     {
       "id": "cambridge-ejarc",
@@ -443,10 +443,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 17,
+      "kept": 16,
       "droppedOffTopic": 5,
-      "droppedModern": 8,
-      "elapsedMs": 2620
+      "droppedModern": 9,
+      "elapsedMs": 1871
     },
     {
       "id": "aquitania-persee",
@@ -459,7 +459,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3733
+      "elapsedMs": 2734
     },
     {
       "id": "cuadernos-arq-unav",
@@ -472,7 +472,7 @@
       "kept": 21,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 4042
+      "elapsedMs": 3030
     },
     {
       "id": "veleia-ehu",
@@ -485,7 +485,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3696
+      "elapsedMs": 2912
     },
     {
       "id": "flv-navarra",
@@ -498,7 +498,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2826
+      "elapsedMs": 1984
     },
     {
       "id": "munibe-aa",
@@ -511,7 +511,7 @@
       "kept": 17,
       "droppedOffTopic": 4,
       "droppedModern": 9,
-      "elapsedMs": 2898
+      "elapsedMs": 2007
     },
     {
       "id": "trabajos-prehistoria",
@@ -524,7 +524,7 @@
       "kept": 23,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 2926
+      "elapsedMs": 2024
     },
     {
       "id": "openalex-archaeology",
@@ -537,7 +537,7 @@
       "kept": 11,
       "droppedOffTopic": 7,
       "droppedModern": 12,
-      "elapsedMs": 2918
+      "elapsedMs": 1993
     }
   ],
   "items": [
@@ -786,6 +786,173 @@
       "topics": []
     },
     {
+      "id": "current-archaeology:https://the-past.com/feature/birthing-on-the-bricks/",
+      "title": "Birthing on the bricks",
+      "summary": "W Benson Harer Jr proposes a new theory for the use of birthing bricks in ancient Egypt.",
+      "url": "https://the-past.com/feature/birthing-on-the-bricks/",
+      "image": null,
+      "publishedAt": "2026-10-20T18:00:29.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak"
+      ]
+    },
+    {
+      "id": "inrap-bsky:https://bsky.app/profile/inrap.fr/post/3mycxmlyyxs2d",
+      "title": "",
+      "summary": "« Ce que nous murmurent les murs » : une Archéocapsule consacrée à l’archéologie du bâti 🧱 Conçues par l’Inrap, les Archéocapsules sont des expositions itinérantes et accessibles à tous, qui éclairent des questions contemporaines par l’archéologie. En savoir plus 👉…",
+      "url": "https://bsky.app/profile/inrap.fr/post/3mycxmlyyxs2d",
+      "image": null,
+      "publishedAt": "2026-10-20T15:36:00.000Z",
+      "source": {
+        "id": "inrap-bsky",
+        "name": "Inrap (Bluesky)"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "bbc-history:https://www.historyextra.com/period/viking/viking-warlord-sigurd-the-stout-raven-banner/",
+      "title": "This Viking warlord had a magical banner that promised victory. But it had a secret curse",
+      "summary": "Sigurd the Stout’s mother promised that her banner would win him a battle, but warned that its bearer would die. Judith Jesch explores a saga tale of magic, warfare and death",
+      "url": "https://www.historyextra.com/period/viking/viking-warlord-sigurd-the-stout-raven-banner/",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/10/KCEMPG-8c12636-e1792501148729.jpg",
+      "publishedAt": "2026-10-20T14:59:20.000Z",
+      "source": {
+        "id": "bbc-history",
+        "name": "BBC History Extra"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/10/261019093434.htm",
+      "title": "Scientists discover a bizarre Jurassic “squid” unlike anything ever seen",
+      "summary": "Scientists have identified the “fattest” belemnite ever discovered, a bizarre, barrel-shaped squid relative that lived in Wyoming’s ancient seas 160 million years ago. The exceptionally rare fossils reveal a creature unlike anything previously known, potentially a predator of…",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261019093434.htm",
+      "image": null,
+      "publishedAt": "2026-10-20T12:20:44.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/un-neutrino-que-los-cientificos-ignoraron-durante-decadas-podria-explicar-por-que-el-universo-no-esta-vacio-y-tiene-vida",
+      "title": "Un neutrino que los científicos ignoraron durante décadas podría explicar por qué el universo no está vacío y tiene vida",
+      "summary": "Si tras el Big Bang la materia y la antimateria se hubieran repartido a partes iguales, hoy no habría ni una sola estrella. Cada partícula de materia tiene una gemela de carga opuesta hecha de antimateria, y cuando ambas se encuentran se destruyen y se convierten en energía. Un…",
+      "url": "https://www.labrujulaverde.com/2026/10/un-neutrino-que-los-cientificos-ignoraron-durante-decadas-podria-explicar-por-que-el-universo-no-esta-vacio-y-tiene-vida",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/Low-Res_NASA-ESA-J.-DePasquale-STScI.webp",
+      "publishedAt": "2026-10-20T09:04:42.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/feature/hilary-wilson-on-sandals-status-and-symbolism/",
+      "title": "Hilary Wilson on… Sandals: status and symbolism",
+      "summary": "Sandals in ancient Egypt were far more than footwear, as Hilary Wilson explains.",
+      "url": "https://the-past.com/feature/hilary-wilson-on-sandals-status-and-symbolism/",
+      "image": null,
+      "publishedAt": "2026-10-20T09:00:01.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/ballycastle-bambini-scavo-edificio-misterioso-1786/",
+      "title": "“Ci sentiamo come i Goonies”. Bambini in campo con gli archeologi: scavano per ritrovare un edificio misterioso scomparso dalle mappe 200 anni fa",
+      "summary": "A Ballycastle, nell’Irlanda del Nord, la storia è finita sotto le mani di un gruppo di bambini. Non dentro un libro, ma sotto la terra, dove un gruppo di giovani aspiranti archeologi sta cercando di risolvere un piccolo enigma: che cosa c’era davvero in quel punto della città…",
+      "url": "https://www.stilearte.it/ballycastle-bambini-scavo-edificio-misterioso-1786/",
+      "image": null,
+      "publishedAt": "2026-10-20T08:54:15.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/danubio-tesoro-ferro-2200-anni-500-barre/",
+      "title": "Sembravano rottami, erano un tesoro di 2.200 anni fa: nel Danubio una tonnellata di ferro poteva armare 500 guerrieri",
+      "summary": "Per anni sono sembrati soltanto ammassi di ferro arrugginito, recuperati durante i lavori di estrazione della ghiaia dal Danubio. In realtà, quei frammenti appartenevano a un carico straordinario: almeno 500 barre di ferro dell’età del Ferro, per un peso complessivo stimato in…",
+      "url": "https://www.stilearte.it/danubio-tesoro-ferro-2200-anni-500-barre/",
+      "image": null,
+      "publishedAt": "2026-10-20T08:24:54.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/la-miel-loca-el-veneno-mas-dulce-de-la-antiguedad-que-hizo-caer-a-ejercitos-griegos-y-romanos",
+      "title": "La Miel Loca, el veneno más dulce de la Antigüedad que hizo caer a ejércitos griegos y romanos",
+      "summary": "Habían cruzado media Persia, atravesado montañas nevadas y peleado con pueblos que les tiraban piedras desde los riscos, y lo que estuvo a punto de acabar con ellos a pocos días del mar fue un panal. Ni una emboscada ni un ejército enemigo. Un puñado de colmenas, unos soldados…",
+      "url": "https://www.labrujulaverde.com/2026/10/la-miel-loca-el-veneno-mas-dulce-de-la-antiguedad-que-hizo-caer-a-ejercitos-griegos-y-romanos",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/70B6F1E7-53D7-4FCD-96B6-labrujulaverde.com-9B5AFD443C7C.webp",
+      "publishedAt": "2026-10-20T07:54:54.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak",
+        "greziarrak",
+        "ekialde-hurbila"
+      ]
+    },
+    {
+      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/decouverte-d-une-eglise-viking-au-groenland-une-premiere-depuis-60-ans_195460?xtor=RSS-4",
+      "title": "Découverte d’une église viking au Groenland, une première depuis 60 ans",
+      "summary": "Étant donné leur nombre, les églises ne servaient pas seulement de lieu de culte aux colons vikings du Groenland, mais aussi de forme d’affirmation de leur pouvoir. C’est pourquoi la découverte d’une nouvelle église dans le sud de l’île revêt une importance primordiale pour…",
+      "url": "https://www.sciencesetavenir.fr/archeo-paleo/decouverte-d-une-eglise-viking-au-groenland-une-premiere-depuis-60-ans_195460?xtor=RSS-4",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/19/cover-r4x3w1200-6ad6208bc87c9-fouilles-cimetiere-eglise-quinngua-groenland.jpg",
+      "publishedAt": "2026-10-20T07:49:11.000Z",
+      "source": {
+        "id": "sciencesetavenir-archeo",
+        "name": "Sciences et Avenir — Archéo & Paléo"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa",
+        "aurkikuntza"
+      ]
+    },
+    {
       "id": "current-archaeology:https://the-past.com/feature/personal-adornment-in-early-egypt/",
       "title": "Personal adornment in early Egypt",
       "summary": "Barbara Boczar explores the materials used to create objects for personal adornment in Egypt from the prehistoric to the Early Dynastic periods.",
@@ -989,6 +1156,24 @@
       "region": "world",
       "topics": [
         "prehistoria"
+      ]
+    },
+    {
+      "id": "cambridge-antiquity:https://openalex.org/W7167750579",
+      "title": "Crafting power in Kush: faience production and state control in the Napatan region",
+      "summary": "Sanam Temple lies in the heart of Napata, the capital of the Kushite Empire in the first millennium BCE. Excavations at the temple (2018–2020) have revealed the remains of a mid-seventh-century BCE faience-production workshop, comprising three firing pits, two mudbrick basins…",
+      "url": "https://doi.org/10.15184/aqy.2026.10434",
+      "image": null,
+      "publishedAt": "2026-10-19T00:00:00.000Z",
+      "source": {
+        "id": "cambridge-antiquity",
+        "name": "Antiquity (Cambridge)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "aurkikuntza"
       ]
     },
     {
@@ -8749,186 +8934,6 @@
         "erdi-aroa",
         "greziarrak"
       ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/scoperta-cripta-maria-maddalena-marsiglia/",
-      "title": "Guida turistica scopre in campagna cripta segreta. Un sepolcro romano trasformato poi in luogo di culto “massonico” di Maria Maddalena e del figlio segreto di Gesù",
-      "summary": "Nel XV arrondissement di Marsiglia, in un’area privata dei quartieri settentrionali della città, in campagna, una guida-conferenziere appassionata di storia, leggende e patrimonio ha individuato una piccola cripta nascosta in un giardino abbandonato. All’interno, accanto alle…",
-      "url": "https://www.stilearte.it/scoperta-cripta-maria-maddalena-marsiglia/",
-      "image": null,
-      "publishedAt": "2026-10-07T06:21:41.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "cambridge-antiquity:https://openalex.org/W7220694192",
-      "title": "Excavating a possible Christianisation mission: the medieval stronghold in Pyrzyce",
-      "summary": "Historical accounts of Otto of Bamberg’s twelfth-century Christianisation mission in Pyrzyce, Poland, have inspired archaeological excavations, which in turn influenced anthropological research into contemporary religious imagery. Archaeological investigations at Pyrzyce’s early…",
-      "url": "https://doi.org/10.15184/aqy.2026.10435",
-      "image": null,
-      "publishedAt": "2026-10-07T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-antiquity",
-        "name": "Antiquity (Cambridge)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "erdi-aroa",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "openalex-archaeology:https://openalex.org/W4205400149",
-      "title": "Cahiers de civilisation espagnole contemporaine",
-      "summary": "Revue électronique consacrée à l'étude des sociétés et des cultures de l'Espagne contemporaine / Revista electrónica francesa dedicada al estudio de la historia de España / This electronic review is dedicated to the history of Spain.",
-      "url": "https://doi.org/10.4000/ccec",
-      "image": null,
-      "publishedAt": "2026-10-07T00:00:00.000Z",
-      "source": {
-        "id": "openalex-archaeology",
-        "name": "OpenAlex — Arkeologia (mundua)"
-      },
-      "lang": "en",
-      "region": "iberia",
-      "topics": []
-    },
-    {
-      "id": "openalex-archaeology:https://openalex.org/W4205461035",
-      "title": "Cahiers d'études africaines",
-      "summary": "Avertissement Le contenu de ce site relève de la législation française sur la propriété intellectuelle et est la propriété exclusive de l'éditeur. Les œuvres figurant sur ce site peuvent être consultées et reproduites sur un support papier ou numérique sous réserve qu'elles…",
-      "url": "https://doi.org/10.4000/etudesafricaines",
-      "image": null,
-      "publishedAt": "2026-10-07T00:00:00.000Z",
-      "source": {
-        "id": "openalex-archaeology",
-        "name": "OpenAlex — Arkeologia (mundua)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/archaeology/vikings/archaeologists-discover-a-childs-skull-built-into-the-floor-of-a-2-500-year-old-scandinavian-house",
-      "title": "Archaeologists discover a child's skull built into the floor of a 2,500-year-old Scandinavian house",
-      "summary": "A study of nearly 200 individuals buried in domestic contexts in ancient and Viking Age Scandinavia has revealed unusually high levels of violence.",
-      "url": "https://www.livescience.com/archaeology/vikings/archaeologists-discover-a-childs-skull-built-into-the-floor-of-a-2-500-year-old-scandinavian-house",
-      "image": "https://cdn.mos.cms.futurecdn.net/AaBfdvRuQ7xbKoEWMcYqNk-1920-80.png",
-      "publishedAt": "2026-10-06T20:22:45.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "erdi-aroa",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "sudouest-culture:https://www.sudouest.fr/culture/sortir-a-bordeaux/arts-visuels-cinq-rendez-vous-a-suivre-en-gironde-30944992.php",
-      "title": "En famille, les sorties de la semaine",
-      "summary": "De l’espace aux fossiles, en passant par le livre jeunesse et le jazz : quatre sorties à partager en famille à Saucats, Mérignac, Gradignan et Cestas",
-      "url": "https://www.sudouest.fr/culture/sortir-a-bordeaux/arts-visuels-cinq-rendez-vous-a-suivre-en-gironde-30944992.php",
-      "image": null,
-      "publishedAt": "2026-10-06T16:30:00.000Z",
-      "source": {
-        "id": "sudouest-culture",
-        "name": "Sud Ouest — Culture"
-      },
-      "lang": "fr",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/encuentran-una-espada-de-la-edad-del-bronce-de-hace-mas-de-3000-anos-en-el-fondo-de-un-lago-italiano-y-todavia-conserva-el-filo",
-      "title": "Encuentran una espada de la Edad del Bronce de hace más de 3.000 años en el fondo de un lago italiano y todavía conserva el filo",
-      "summary": "Una espada de bronce que llevaba más de tres mil años en el fondo de un lago ha salido a la superficie con el filo todavía cortante. La han recuperado los arqueólogos subacuáticos de la Soprintendenza de Viterbo en el lago di Mezzano, un pequeño lago de origen volcánico del…",
-      "url": "https://www.labrujulaverde.com/2026/10/encuentran-una-espada-de-la-edad-del-bronce-de-hace-mas-de-3000-anos-en-el-fondo-de-un-lago-italiano-y-todavia-conserva-el-filo",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/spada_mezzano-5-1024x576-1.webp",
-      "publishedAt": "2026-10-06T15:23:08.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/frescos-romanos-del-siglo-i-ac-aparecen-junto-al-lugar-donde-votaban-los-griegos-de-agrigento",
-      "title": "Frescos romanos del siglo I a.C. aparecen junto al lugar donde votaban los griegos de Agrigento",
-      "summary": "Hace unos veintidós siglos, el sitio donde hoy se excava en el Valle de los Templos era el lugar donde los ciudadanos libres de Akragas, el nombre griego de Agrigento, se reunían para decidir los asuntos de su ciudad. Ese edificio, un graderío semicircular que los arqueólogos…",
-      "url": "https://www.labrujulaverde.com/2026/10/frescos-romanos-del-siglo-i-ac-aparecen-junto-al-lugar-donde-votaban-los-griegos-de-agrigento",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/volto_di_uomo_dai_resti_labrujulaverde.com_della_domus_del_i_secolo_ac.webp",
-      "publishedAt": "2026-10-06T14:16:31.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "erromatarrak",
-        "greziarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/10/261004001835.htm",
-      "title": "Archaeologists may have finally solved a 100-year-old Florida mystery",
-      "summary": "Ancient pottery from Tampa Bay appears to have been made by migrant craftspeople who brought specialized Mississippian pottery-making knowledge hundreds of miles south. Remarkably, they even incorporated crushed fragments of older homeland pottery into new vessels, preserving a…",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261004001835.htm",
-      "image": null,
-      "publishedAt": "2026-10-06T12:41:48.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/un-fragment-du-traite-de-paix-de-qadesh-decouvert-dans-l-ancienne-capitale-des-hittites_195230?xtor=RSS-4",
-      "title": "Un fragment du plus ancien traité de paix connu découvert dans l’ancienne capitale des Hittites",
-      "summary": "Les chercheurs de l’Institut archéologique allemand ont réussi à mettre au jour, à déchiffrer et à attribuer au traité de Qadesh un fragment de tablette cunéiforme qui ne mesure que 5 centimètres environ.",
-      "url": "https://www.sciencesetavenir.fr/archeo-paleo/un-fragment-du-traite-de-paix-de-qadesh-decouvert-dans-l-ancienne-capitale-des-hittites_195230?xtor=RSS-4",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/06/cover-r4x3w1200-6ac4d7e7ae678-fragment-2025-tablette-traite-qadesh-hattusha.jpg",
-      "publishedAt": "2026-10-06T12:22:10.000Z",
-      "source": {
-        "id": "sciencesetavenir-archeo",
-        "name": "Sciences et Avenir — Archéo & Paléo"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": [
-        "ekialde-hurbila",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/placca-cintura-v-secolo-stile-sosdala-ucraina/",
-      "title": "Ritrovata con il metal detector, è una rara placca di cintura del V secolo: ecco di cosa si tratta",
-      "summary": "Un piccolo oggetto di appena 8,22 grammi, recuperato con un metal detector nella regione di Khmelnytskyi, in Ucraina, si è rivelato un raro manufatto dell’epoca delle grandi migrazioni. Gli specialisti lo hanno identificato come una placca di cintura in metallo prezioso,…",
-      "url": "https://www.stilearte.it/placca-cintura-v-secolo-stile-sosdala-ucraina/",
-      "image": null,
-      "publishedAt": "2026-10-06T11:10:00.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
     }
   ]
 }
