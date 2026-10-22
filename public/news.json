@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T06:13:49.127Z",
+  "generatedAt": "2026-10-22T06:18:23.574Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 4964
+      "elapsedMs": 5817
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 584
+      "elapsedMs": 825
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 7758
+      "elapsedMs": 3907
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 594
+      "elapsedMs": 567
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2194
+      "elapsedMs": 2891
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 9,
       "droppedOffTopic": 21,
       "droppedModern": 0,
-      "elapsedMs": 2164
+      "elapsedMs": 2918
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 2,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 950
+      "elapsedMs": 1140
     },
     {
       "id": "labrujulaverde",
@@ -101,7 +101,7 @@
       "kept": 16,
       "droppedOffTopic": 0,
       "droppedModern": 4,
-      "elapsedMs": 1484
+      "elapsedMs": 1761
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 1318
+      "elapsedMs": 1177
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 531
+      "elapsedMs": 793
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 631
+      "elapsedMs": 919
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 6,
       "droppedOffTopic": 11,
       "droppedModern": 3,
-      "elapsedMs": 1446
+      "elapsedMs": 1431
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -166,7 +166,7 @@
       "kept": 11,
       "droppedOffTopic": 5,
       "droppedModern": 0,
-      "elapsedMs": 810
+      "elapsedMs": 1126
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +179,7 @@
       "kept": 5,
       "droppedOffTopic": 14,
       "droppedModern": 4,
-      "elapsedMs": 2282
+      "elapsedMs": 2975
     },
     {
       "id": "sudouest-culture",
@@ -189,10 +189,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 0,
-      "droppedOffTopic": 20,
+      "kept": 1,
+      "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1324
+      "elapsedMs": 1443
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1609
+      "elapsedMs": 1666
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 2,
       "droppedOffTopic": 1,
       "droppedModern": 7,
-      "elapsedMs": 1800
+      "elapsedMs": 2292
     },
     {
       "id": "stilearte",
@@ -231,7 +231,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 1,
-      "elapsedMs": 2258
+      "elapsedMs": 2208
     },
     {
       "id": "live-science-arch",
@@ -241,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 4,
-      "droppedOffTopic": 26,
+      "kept": 3,
+      "droppedOffTopic": 27,
       "droppedModern": 0,
-      "elapsedMs": 1996
+      "elapsedMs": 2785
     },
     {
       "id": "bbc-history",
@@ -254,10 +254,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 1,
-      "droppedOffTopic": 9,
+      "kept": 3,
+      "droppedOffTopic": 7,
       "droppedModern": 0,
-      "elapsedMs": 1254
+      "elapsedMs": 1704
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +270,7 @@
       "kept": 22,
       "droppedOffTopic": 8,
       "droppedModern": 0,
-      "elapsedMs": 1385
+      "elapsedMs": 1725
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1393
+      "elapsedMs": 1887
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 8,
       "droppedOffTopic": 8,
       "droppedModern": 4,
-      "elapsedMs": 1553
+      "elapsedMs": 2032
     },
     {
       "id": "current-archaeology",
@@ -306,10 +306,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 20,
-      "droppedOffTopic": 4,
+      "kept": 22,
+      "droppedOffTopic": 2,
       "droppedModern": 6,
-      "elapsedMs": 1299
+      "elapsedMs": 1882
     },
     {
       "id": "jas-reports",
@@ -322,7 +322,7 @@
       "kept": 6,
       "droppedOffTopic": 1,
       "droppedModern": 23,
-      "elapsedMs": 1344
+      "elapsedMs": 1851
     },
     {
       "id": "plos-one-arch",
@@ -332,10 +332,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1370
+      "elapsedMs": 2022
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 16,
       "droppedOffTopic": 9,
       "droppedModern": 5,
-      "elapsedMs": 1883
+      "elapsedMs": 2559
     },
     {
       "id": "sciencedirect-jas",
@@ -357,11 +357,11 @@
       "region": "world",
       "kind": "research",
       "ok": true,
-      "fetched": 30,
-      "kept": 9,
-      "droppedOffTopic": 2,
-      "droppedModern": 19,
-      "elapsedMs": 1321
+      "fetched": 21,
+      "kept": 5,
+      "droppedOffTopic": 0,
+      "droppedModern": 16,
+      "elapsedMs": 1930
     },
     {
       "id": "spal-us",
@@ -374,7 +374,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 2228
+      "elapsedMs": 2920
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +387,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 3232
+      "elapsedMs": 6018
     },
     {
       "id": "archeoarte",
@@ -397,7 +397,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 7764
+      "elapsedMs": 8863
     },
     {
       "id": "cypsela",
@@ -407,7 +407,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 6551
+      "elapsedMs": 7256
     },
     {
       "id": "cambridge-antiquity",
@@ -420,7 +420,7 @@
       "kept": 21,
       "droppedOffTopic": 5,
       "droppedModern": 4,
-      "elapsedMs": 1882
+      "elapsedMs": 2664
     },
     {
       "id": "cambridge-caj",
@@ -433,7 +433,7 @@
       "kept": 18,
       "droppedOffTopic": 7,
       "droppedModern": 5,
-      "elapsedMs": 1796
+      "elapsedMs": 2617
     },
     {
       "id": "cambridge-ejarc",
@@ -443,10 +443,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 16,
+      "kept": 15,
       "droppedOffTopic": 5,
-      "droppedModern": 9,
-      "elapsedMs": 1871
+      "droppedModern": 10,
+      "elapsedMs": 2649
     },
     {
       "id": "aquitania-persee",
@@ -459,7 +459,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2734
+      "elapsedMs": 3422
     },
     {
       "id": "cuadernos-arq-unav",
@@ -467,12 +467,9 @@
       "lang": "es",
       "region": "basque",
       "kind": "research",
-      "ok": true,
-      "fetched": 30,
-      "kept": 21,
-      "droppedOffTopic": 0,
-      "droppedModern": 9,
-      "elapsedMs": 3030
+      "ok": false,
+      "error": "Request timed out after 15000ms",
+      "elapsedMs": 49513
     },
     {
       "id": "veleia-ehu",
@@ -480,12 +477,9 @@
       "lang": "es",
       "region": "basque",
       "kind": "research",
-      "ok": true,
-      "fetched": 29,
-      "kept": 25,
-      "droppedOffTopic": 2,
-      "droppedModern": 2,
-      "elapsedMs": 2912
+      "ok": false,
+      "error": "",
+      "elapsedMs": 13802
     },
     {
       "id": "flv-navarra",
@@ -498,7 +492,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 1984
+      "elapsedMs": 2955
     },
     {
       "id": "munibe-aa",
@@ -511,7 +505,7 @@
       "kept": 17,
       "droppedOffTopic": 4,
       "droppedModern": 9,
-      "elapsedMs": 2007
+      "elapsedMs": 2899
     },
     {
       "id": "trabajos-prehistoria",
@@ -524,7 +518,7 @@
       "kept": 23,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 2024
+      "elapsedMs": 2943
     },
     {
       "id": "openalex-archaeology",
@@ -534,10 +528,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 11,
+      "kept": 13,
       "droppedOffTopic": 7,
-      "droppedModern": 12,
-      "elapsedMs": 1993
+      "droppedModern": 10,
+      "elapsedMs": 2976
     }
   ],
   "items": [
@@ -771,12 +765,274 @@
       ]
     },
     {
+      "id": "openalex-archaeology:https://openalex.org/W7212330977",
+      "title": "Aššur and Sippar compared: the role of merchants in tipping the scale betweenlocal assemblies and kingship in early second millennium BCE Mesopotamia",
+      "summary": "International audience",
+      "url": "https://hal.science/hal-05744317v1",
+      "image": null,
+      "publishedAt": "2026-11-01T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "ekialde-hurbila"
+      ]
+    },
+    {
       "id": "openalex-archaeology:https://openalex.org/W7221409018",
       "title": "თხილვანის მენჰირი: სამხრეთ-დასავლეთ საქართველოს წარმართული ხანის მეგალითური კულტურა",
       "summary": "Abstract. This paper offers a comprehensive study of a unique monument of material culture located in the village of Tskhilvana, Khulo Municipality - a pagan-era cultic menhir. The research analyzes the monument's geographical context (Arsiani Ridge, 1440 m above sea level)…",
       "url": "https://journal.archives-ajara.gov.ge/index.php/home/article/view/105",
       "image": null,
       "publishedAt": "2026-10-30T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326002517?dgcid=rss_sd_all",
+      "title": "Net primary productivity as a biophysical mediator of Neolithic subsistence diversification and settlement vulnerability in the northern Chinese farming–pastoral ecotone",
+      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science, Volume 196 Author(s): Ao Yan, Jiangyong Wang, Dongmei Jie, Guizai Gao, Honghao Niu, Jie Ma, Kai Liu",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326002517?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-10-22T06:17:35.981Z",
+      "source": {
+        "id": "sciencedirect-jas",
+        "name": "Journal of Archaeological Science (ScienceDirect)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/uomo-scozia-romana-inveresk-volto-ricostruito/",
+      "title": "Impero romano, il volto di un uomo arrivato dalla Britannia meridionale fino alla Scozia: il braccio immobilizzato, il naso fratturato e il mistero della decapitazione dopo la morte",
+      "summary": "In un insediamento militare romano presso Edimburgo, le ossa di un uomo morto tra il 140 e il 165 d.C. raccontano la storia di una vita segnata da lesioni, spostamenti e condizioni fisiche difficili. Le analisi scientifiche ne ricostruiscono la provenienza e alcuni tratti del…",
+      "url": "https://www.stilearte.it/uomo-scozia-romana-inveresk-volto-ricostruito/",
+      "image": null,
+      "publishedAt": "2026-10-22T06:07:10.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/feature/the-beautiful-festival-of-the-western-valley/",
+      "title": "The Beautiful Festival of the Western Valley",
+      "summary": "Katherine Slinger explores one of the most important Theban religious festivals.",
+      "url": "https://the-past.com/feature/the-beautiful-festival-of-the-western-valley/",
+      "image": null,
+      "publishedAt": "2026-10-22T05:00:09.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "sudouest-culture:https://www.sudouest.fr/charente-maritime/saint-jean-d-angely/charente-maritime-le-camp-de-mazeray-terrain-d-exploration-pour-les-archeologues-et-les-artistes-31168326.php",
+      "title": "Charente-Maritime : le camp de Mazeray, terrain d’exploration pour les archéologues et les artistes",
+      "summary": "Un travail scientifique est actuellement mené par des chercheurs sur le site de l’ancien camp de réfugiés. Dans le même temps, le collectif artistique Gonzo recueille témoignages et souvenirs sur le site",
+      "url": "https://www.sudouest.fr/charente-maritime/saint-jean-d-angely/charente-maritime-le-camp-de-mazeray-terrain-d-exploration-pour-les-archeologues-et-les-artistes-31168326.php",
+      "image": null,
+      "publishedAt": "2026-10-22T04:17:00.000Z",
+      "source": {
+        "id": "sudouest-culture",
+        "name": "Sud Ouest — Culture"
+      },
+      "lang": "fr",
+      "region": "basque",
+      "topics": []
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/vikings/extremely-rare-viking-age-coin-from-the-reign-of-olaf-the-holy-may-have-been-held-in-the-kings-own-hand",
+      "title": "Extremely rare Viking Age coin from the reign of 'Olaf the Holy' may have been 'held in the king's own hand'",
+      "summary": "A massive Viking Age hoard that was discovered in Norway contains a rare silver coin featuring \"Olaf the Holy,\" one of the country's first Christian kings.",
+      "url": "https://www.livescience.com/archaeology/vikings/extremely-rare-viking-age-coin-from-the-reign-of-olaf-the-holy-may-have-been-held-in-the-kings-own-hand",
+      "image": "https://cdn.mos.cms.futurecdn.net/CJoWtcZuZHR3YCNBnxdefm-1920-80.jpg",
+      "publishedAt": "2026-10-21T21:16:28.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "erdi-aroa",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/feature/the-ladder-of-life-ricardo-a-caminos/",
+      "title": "The ladder of life: Ricardo A Caminos",
+      "summary": "Among Egyptology’s many ‘unsung heroes’, Ricardo A Caminos counts as a modest yet significant figure. Carl Graves takes a look at his often-overlooked achievements, and his longstanding legacy, both within the profession of epigraphic recording, and the history of the Egypt…",
+      "url": "https://the-past.com/feature/the-ladder-of-life-ricardo-a-caminos/",
+      "image": null,
+      "publishedAt": "2026-10-21T18:00:50.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/en-edad-hierro-sabian-hacer-tintes-iban-agua-usando-roca-triturada-vinagre-flores-desdburen-taller-tenido-portugal",
+      "title": "En la Edad del Hierro ya sabían hacer tintes que no se iban con el agua usando roca triturada, vinagre y flores: descubren un taller de teñido en Portugal",
+      "summary": "Lo normal es que de la ropa de la Edad del Hierro no quede nada. Lino, lana y tintes son materia orgánica y se pudren en casi cualquier suelo, de modo que los arqueólogos suelen reconstruir la historia textil a partir de las herramientas que sí sobreviven, sobre todo las…",
+      "url": "https://www.labrujulaverde.com/2026/10/en-edad-hierro-sabian-hacer-tintes-iban-agua-usando-roca-triturada-vinagre-flores-desdburen-taller-tenido-portugal",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/1-s2.0-S2352409X26004773-gr2_lrg-copia.webp",
+      "publishedAt": "2026-10-21T15:27:38.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "iberia",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "bbc-history:https://www.historyextra.com/membership/viking-leaders-orkney/",
+      "title": "This Viking ruler begged to be dismembered – but his rival had something far worse in mind",
+      "summary": "Are two leaders better than one? Not if Viking Orkney is anything to go by. Judith Jesch journeys back to an earldom in which the practice of appointing co-rulers produced a cycle of treachery, intrigue and death",
+      "url": "https://www.historyextra.com/membership/viking-leaders-orkney/",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/10/VikingSagas1JPEGRGBweb-ready-197e58e.jpg",
+      "publishedAt": "2026-10-21T14:30:39.000Z",
+      "source": {
+        "id": "bbc-history",
+        "name": "BBC History Extra"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/feature/ain-khadra/",
+      "title": "Ain Khadra",
+      "summary": "Amir Ebrahim Elkorashy explores an archaeological landscape around a spring in the Western Desert.",
+      "url": "https://the-past.com/feature/ain-khadra/",
+      "image": null,
+      "publishedAt": "2026-10-21T14:00:20.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/trasimedes-el-hombre-que-ofrecio-una-hoja-de-oro-a-un-dios-sirio-en-un-fuerte-del-mar-negro-hace-1900-anos-pudo-ser-un-comerciante-griego-proveedor-del-ejercito-romano",
+      "title": "Trasímedes, el hombre que ofreció una hoja de oro a un dios sirio en un fuerte del mar Negro hace 1.900 años, pudo ser un comerciante griego proveedor del ejército romano",
+      "summary": "Hace unos 1.900 años, un hombre llamado Trasímedes dedicó una lámina de oro, con su nombre escrito en griego, a un dios que no era ni griego ni romano, sino originario del sureste de Anatolia. La pieza quedó en un fuerte romano de la costa oriental del mar Negro, en la actual…",
+      "url": "https://www.labrujulaverde.com/2026/10/trasimedes-el-hombre-que-ofrecio-una-hoja-de-oro-a-un-dios-sirio-en-un-fuerte-del-mar-negro-hace-1900-anos-pudo-ser-un-comerciante-griego-proveedor-del-ejercito-romano",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/APSAROS_plakietka-1-2.webp",
+      "publishedAt": "2026-10-21T10:40:03.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak",
+        "greziarrak"
+      ]
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/music/2026/oct/21/wonderhaul-has-liam-gallagher-really-got-into-metal-detecting",
+      "title": "Wonderhaul: has Liam Gallagher really got into metal detecting?",
+      "summary": "The Oasis frontman and famous fibber has claimed on social media that he is a budding detectorist. Some might say it’s a perfect fit, but either way, the gentle pastime is booming in the UK Liam Gallagher is one of the country’s foremost trendsetters. When Oasis emerged in the…",
+      "url": "https://www.theguardian.com/music/2026/oct/21/wonderhaul-has-liam-gallagher-really-got-into-metal-detecting",
+      "image": "https://i.guim.co.uk/img/media/5168f039b9f5e7d461a92a98339a25b90b8ab260/91_0_4526_3620/master/4526.jpg?width=140&quality=85&auto=format&fit=max&s=e9e5bf49123f330bdbd5f67c92a7491c",
+      "publishedAt": "2026-10-21T10:28:42.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/pompei-casa-marco-fabio-rufo-restauro/",
+      "title": "La casa più spettacolare di Pompei torna a vivere: le immagini della dimora di Marco Fabio Rufo",
+      "summary": "A Pompei c’è una casa che, più di altre, obbliga a cambiare prospettiva. Non perché sia soltanto grande, ma perché sembra appartenere a un’altra categoria di edifici: un palazzo affacciato sul golfo, costruito sulle antiche mura della città e sviluppato su più livelli, con…",
+      "url": "https://www.stilearte.it/pompei-casa-marco-fabio-rufo-restauro/",
+      "image": null,
+      "publishedAt": "2026-10-21T10:24:11.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "bbc-history:https://www.historyextra.com/membership/how-alfred-great-saved-anglo-saxons-from-vikings-podcast/",
+      "title": "How Alfred the Great saved the Anglo-Saxons from the Vikings",
+      "summary": "Dr Eleanor Barraclough tells the story of Alfred the Great's journey from his lowest ebb, to his ascent to reclaim his throne",
+      "url": "https://www.historyextra.com/membership/how-alfred-great-saved-anglo-saxons-from-vikings-podcast/",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/10/Alfred-Vikings-Pod-YT-ep3-WL-AN-8fd6648.jpg",
+      "publishedAt": "2026-10-21T10:00:08.000Z",
+      "source": {
+        "id": "bbc-history",
+        "name": "BBC History Extra"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/un-estudio-sobre-ninos-que-dicen-recordar-vidas-pasadas-analiza-1678-casos-y-encuentra-un-patron-sorprendente-en-los-informes-de-reencarnacion",
+      "title": "Un estudio sobre niños que dicen recordar vidas pasadas analiza 1.678 casos y encuentra un patrón sorprendente en los informes de “reencarnación”",
+      "summary": "Según la investigadora Saeedeh Sadeghi, muchos de los niños que dicen recordar una vida anterior describen una muerte traumática. Un nuevo análisis de la Universidad de Virginia ha medido algo más concreto: cuánto tiempo pasó entre la muerte de la persona «recordada» y el…",
+      "url": "https://www.labrujulaverde.com/2026/10/un-estudio-sobre-ninos-que-dicen-recordar-vidas-pasadas-analiza-1678-casos-y-encuentra-un-patron-sorprendente-en-los-informes-de-reencarnacion",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/Dazu-Baoding_Shan-142-No3-2012-gje.webp",
+      "publishedAt": "2026-10-21T08:44:34.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7222997603",
+      "title": "Palaeoproteomic investigation of archaeological sediments associated with ochre use in the Middle Stone Age of southern Africa",
+      "summary": "Abstract The African Middle Stone Age (MSA) represents the cultural and technological context associated with the emergence of Homo sapiens and the development of complex cognition. In this setting, ochre use is considered a multifaceted proxy for modern behaviour, allowing…",
+      "url": "https://doi.org/10.1098/rspb.2025.3300",
+      "image": null,
+      "publishedAt": "2026-10-21T00:00:00.000Z",
       "source": {
         "id": "openalex-archaeology",
         "name": "OpenAlex — Arkeologia (mundua)"
@@ -5422,24 +5678,6 @@
       ]
     },
     {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/07/260722032119.htm",
-      "title": "New giant salamander species discovered in 3.5-million-year-old fossils",
-      "summary": "Fossils discovered in Japan more than two decades ago have finally been identified as a new genus and species of giant salamander. Limnospondylus ajimuensis lived around 3.5 million years ago in a warmer, wetter Kyushu and may have reached 1.1 meters in length. Its discovery…",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260722032119.htm",
-      "image": null,
-      "publishedAt": "2026-07-24T01:58:41.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "asia",
-        "aurkikuntza"
-      ]
-    },
-    {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003950?dgcid=rss_sd_all",
       "title": "The supply of copper to the settlement of Leceia (Portugal) and the Estremadura region during the third millennium BC",
       "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Pedro Valério, João Luís Cardoso, Luís C. Alves, António M. Monge Soares",
@@ -8681,258 +8919,6 @@
       "region": "world",
       "topics": [
         "asia"
-      ]
-    },
-    {
-      "id": "openalex-archaeology:https://openalex.org/W7221024572",
-      "title": "Corpus analytique et typologique des ovaloïdes du Sahara central",
-      "summary": "Corpus analytique et typologique des ovaloïdes du Sahara central",
-      "url": "https://doi.org/10.34847/nkl.dcc3diut",
-      "image": null,
-      "publishedAt": "2026-10-09T00:00:00.000Z",
-      "source": {
-        "id": "openalex-archaeology",
-        "name": "OpenAlex — Arkeologia (mundua)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/los-garabatos-de-los-matematicos-griegos-el-hallazgo-de-cuadernos-de-escribas-que-revelan-como-calculaban-en-el-egipto-romano",
-      "title": "Los «garabatos» de los matemáticos griegos: el hallazgo de cuadernos de escribas que revelan cómo calculaban en el Egipto romano",
-      "summary": "Durante siglos, la historia de las matemáticas griegas ha estado dominada por figuras como Euclides, Arquímedes o Apolonio de Perga. Sin embargo, junto a esa tradición teórica y deductiva, existió otra mucho más terrenal y pragmática que rara vez aparece en los manuales: la…",
-      "url": "https://www.labrujulaverde.com/2026/10/los-garabatos-de-los-matematicos-griegos-el-hallazgo-de-cuadernos-de-escribas-que-revelan-como-calculaban-en-el-egipto-romano",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/1-s2.0-S0315086026000339-gr4_lrg.webp",
-      "publishedAt": "2026-10-08T16:27:47.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "basque",
-      "topics": [
-        "erromatarrak",
-        "egiptoarrak",
-        "greziarrak",
-        "iberiarrak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/terra-sigillata-nord-italica-romana-produzione-commercio/",
-      "title": "Raffinata terra sigillata romana, da Cremona, Padova e Adria ai Balcani: la scoperta di due grandi aree produttive nel Nord Italia. Le “griffe” dei Padani",
-      "summary": "Una mappa dei consumi, dei centri di produzione e di smistamento delle “terre sigillate” romane tra Lombardia, Veneto e Friuli Venezia Giulia è affrontata da un nuovo studio americano, uscito in queste settimane. La terra sigillata è una ceramica fine da mensa, riconoscibile per…",
-      "url": "https://www.stilearte.it/terra-sigillata-nord-italica-romana-produzione-commercio/",
-      "image": null,
-      "publishedAt": "2026-10-08T14:25:16.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "lemonde-sciences:https://www.lemonde.fr/idees/article/2026/10/08/rempart-de-lutece-la-decouverte-archeologique-peut-etre-instantanee-la-connaissance-ne-l-est-jamais_6790224_3232.html",
-      "title": "Rempart de Lutèce : « La découverte archéologique peut être instantanée, la connaissance ne l’est jamais »",
-      "summary": "A l’occasion de la découverte d’un mur gaulois à l’Hotel-Dieu, à Paris, l’archéologue William Van Andringa rappelle, dans une tribune au « Monde », que l’on ne saurait faire parler les pierres avant même de les avoir interrogées.",
-      "url": "https://www.lemonde.fr/idees/article/2026/10/08/rempart-de-lutece-la-decouverte-archeologique-peut-etre-instantanee-la-connaissance-ne-l-est-jamais_6790224_3232.html",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/7d6bcce_upload-1-pw6fbq25unix-frame-748.jpg",
-      "publishedAt": "2026-10-08T14:00:06.000Z",
-      "source": {
-        "id": "lemonde-sciences",
-        "name": "Le Monde — Sciences"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/paleontologie/a-quoi-ressemblaient-les-premiers-homo-sapiens-il-y-a-300-000-ans_195273?xtor=RSS-4",
-      "title": "Voilà à quoi pouvait ressembler un Homo sapiens il y a 300.000 ans",
-      "summary": "Des chercheurs ont reconstitué en 3D le visage d’un Homo sapiens ayant vécu il y a 300.000 ans à partir de véritables fossiles, ceux de Jebel Irhoud, au Maroc.",
-      "url": "https://www.sciencesetavenir.fr/archeo-paleo/paleontologie/a-quoi-ressemblaient-les-premiers-homo-sapiens-il-y-a-300-000-ans_195273?xtor=RSS-4",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/08/cover-r4x3w1200-6ac6c7a9d6a55-visage-1er-homo-sapiens-jebel-irhoud-3.jpg",
-      "publishedAt": "2026-10-08T11:47:09.000Z",
-      "source": {
-        "id": "sciencesetavenir-archeo",
-        "name": "Sciences et Avenir — Archéo & Paléo"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/hallan-184-tablillas-del-archivo-del-imperio-hitita-hablan-de-fiebres-que-mataban-ninos-y-de-augures-que-viajaban",
-      "title": "Hallan 184 tablillas del archivo del Imperio Hitita: hablan de fiebres que mataban niños y de augures que viajaban",
-      "summary": "Los generales hititas destinados en el oeste de Anatolia no se andan con rodeos. Cuentan al rey que el territorio está rodeado de enemigos, piden soldados, caballos y carros de guerra y advierten de que, si la ayuda no llega, el ejército puede ser destruido. Añaden además que no…",
-      "url": "https://www.labrujulaverde.com/2026/10/hallan-184-tablillas-del-archivo-del-imperio-hitita-hablan-de-fiebres-que-mataban-ninos-y-de-augures-que-viajaban",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/516475-AFABFCFC2A0CCED-labrujulaverde.com-050799B55B408C8F062B53B30-0.webp",
-      "publishedAt": "2026-10-08T10:14:54.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "ekialde-hurbila"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/los-neandertales-no-solo-tallaban-piedra-descubren-lanzas-bandejas-y-una-maza-de-madera-en-un-yacimiento-de-barcelona",
-      "title": "Los neandertales no solo tallaban piedra: descubren lanzas, bandejas y una maza de madera en un yacimiento de Barcelona",
-      "summary": "Cuando se habla de la tecnología de los neandertales, casi siempre se habla de piedra: puntas, raspadores, lascas talladas. Tiene su lógica, porque la piedra aguanta cientos de miles de años y la madera casi nunca llega a nuestros días. Un palo enterrado se pudre en poco tiempo,…",
-      "url": "https://www.labrujulaverde.com/2026/10/los-neandertales-no-solo-tallaban-piedra-descubren-lanzas-bandejas-y-una-maza-de-madera-en-un-yacimiento-de-barcelona",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/4255_medium-copia.webp",
-      "publishedAt": "2026-10-08T08:37:31.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/numluli-citta-romana-tunisia/",
-      "title": "Meraviglioso. Città romana scavata in Tunisia. Emersi dai campi un possente Campidoglio, tombe, magazzini. Come nacque Numluli. Tra Giove, Giunone e Minerva",
-      "summary": "A nord di Téboursouk, nel governatorato tunisino di Béja, gli archeologi stanno riportando alla luce una città romana rimasta per secoli quasi intatta sotto la vegetazione e i terreni agricoli.A Henchir Matria, l’antica Numluli, il nuovo scavo mette uno accanto all’altro il…",
-      "url": "https://www.stilearte.it/numluli-citta-romana-tunisia/",
-      "image": null,
-      "publishedAt": "2026-10-08T07:33:57.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "openalex-archaeology:https://openalex.org/W7210336858",
-      "title": "Connections through collections: linking archaeological and epigraphic archives through places and people",
-      "summary": "International audience",
-      "url": "https://hal.science/hal-05738769v1",
-      "image": null,
-      "publishedAt": "2026-10-08T00:00:00.000Z",
-      "source": {
-        "id": "openalex-archaeology",
-        "name": "OpenAlex — Arkeologia (mundua)"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "elpais-cultura:https://elpais.com/cultura/2026-10-07/hallado-bajo-el-agua-en-alejandria-un-anillo-con-una-representacion-de-su-famoso-faro.html",
-      "title": "Hallado bajo el agua en Alejandría un anillo con una representación de su famoso faro",
-      "summary": "El objeto es uno de los principales descubrimientos de la última campaña del equipo de arqueología submarina de Franck Goddio",
-      "url": "https://elpais.com/cultura/2026-10-07/hallado-bajo-el-agua-en-alejandria-un-anillo-con-una-representacion-de-su-famoso-faro.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/GDFCJFWS75GL3K3YTAIRY7BCFA.jpg?auth=41f61ce4ba063c77606dd05515ccd3c5adbcc5ef9323c0fab9053e06c07f76b4",
-      "publishedAt": "2026-10-07T19:15:45.000Z",
-      "source": {
-        "id": "elpais-cultura",
-        "name": "El País — Cultura"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "sudouest-culture:https://www.sudouest.fr/tourisme/agenda/que-mangeaient-nos-ancetres-une-plongee-au-coeur-du-marche-des-saveurs-paleolithiques-dans-cette-petite-commune-du-villeneuvois-30896933.php",
-      "title": "Que mangeaient nos ancêtres ? Une plongée au cœur du marché des saveurs paléolithiques dans cette petite commune du Villeneuvois",
-      "summary": "Durant tout le mois d’octobre, la médiathèque de Casseneuil propose, à l’occasion de la Fête de la science, une exposition interactive et un atelier d’enquête pour découvrir l’alimentation de nos ancêtres",
-      "url": "https://www.sudouest.fr/tourisme/agenda/que-mangeaient-nos-ancetres-une-plongee-au-coeur-du-marche-des-saveurs-paleolithiques-dans-cette-petite-commune-du-villeneuvois-30896933.php",
-      "image": null,
-      "publishedAt": "2026-10-07T17:42:00.000Z",
-      "source": {
-        "id": "sudouest-culture",
-        "name": "Sud Ouest — Culture"
-      },
-      "lang": "fr",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359952",
-      "title": "roadDB: An R package for exploring early human prehistory and environments with the ROCEEH Out of Africa Database",
-      "summary": "by Christian Sommer, Jesper Borre Pedersen, Zara Kanaeva, Timo P. Streicher, Andrew W. Kandel, Nicholas J. Conard, Volker Hochschild Macroscale and interdisciplinary approaches are emerging as central paradigms in the study of human evolution, as demonstrated by a growing body…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359952",
-      "image": null,
-      "publishedAt": "2026-10-07T14:00:00.000Z",
-      "source": {
-        "id": "plos-one-arch",
-        "name": "PLOS ONE — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria",
-        "ekialde-hurbila"
-      ]
-    },
-    {
-      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359525",
-      "title": "Investigating the anticancer potential of phytochemicals from the mangrove Rhizophora mucronata as inhibitors of lung cancer-associated proteins: Insights from multiscale computational and in silico analyses",
-      "summary": "by Zena Abdul-Ameer Mahdi, Batool Shakir Abed AlmjalawI, Mollah Naimuzzaman, Md Mahabub Hasan, Ajoy Kumer, Farah Tareq Al-Alaq, Hussein O.M. Al-Dahmoshi, Faizur Rahman, Md. Fayez Al-Hakim Khan, Noor S.K. Al-Khafaji, Sarah Alwan Malik Al-Yasiri Lung cancer remains the leading…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359525",
-      "image": null,
-      "publishedAt": "2026-10-07T14:00:00.000Z",
-      "source": {
-        "id": "plos-one-arch",
-        "name": "PLOS ONE — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "ekialde-hurbila"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/descubren-el-fosil-de-una-especie-desconocida-de-cocodrilo-de-hace-45-millones-de-anos-en-la-misma-roca-de-la-esfinge-de-giza-y-tambien-le-falta-la-nariz",
-      "title": "Descubren el fósil de una especie desconocida de cocodrilo de hace 45 millones de años en la misma roca de la Esfinge de Giza, y también le falta la nariz",
-      "summary": "La Gran Esfinge lleva siglos sin nariz, y el cráneo fósil de un cocodrilo extraído de su misma roca tampoco conserva la punta del hocico. La coincidencia ha dado nombre a una especie desconocida hasta ahora, Herugavialis cairensis, que durante casi cien años estuvo clasificada…",
-      "url": "https://www.labrujulaverde.com/2026/10/descubren-el-fosil-de-una-especie-desconocida-de-cocodrilo-de-hace-45-millones-de-anos-en-la-misma-roca-de-la-esfinge-de-giza-y-tambien-le-falta-la-nariz",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/Herugavialis_Artist-Adel-Lee-2.webp",
-      "publishedAt": "2026-10-07T09:13:40.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "bbc-history:https://www.historyextra.com/membership/alfred-vs-vikings-podcast-episode-one/",
-      "title": "How the Vikings pushed Anglo-Saxon England to the brink",
-      "summary": "Dr Eleanor Barraclough tells the story of the Great Heathen Army, and explains what it was like it live within it",
-      "url": "https://www.historyextra.com/membership/alfred-vs-vikings-podcast-episode-one/",
-      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/09/Alfred-Vikings-Pod-YT-ep1-WL-AN-1afacb0.jpg",
-      "publishedAt": "2026-10-07T08:00:16.000Z",
-      "source": {
-        "id": "bbc-history",
-        "name": "BBC History Extra"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "erdi-aroa",
-        "greziarrak"
       ]
     }
   ]
