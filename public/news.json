@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T06:12:07.314Z",
+  "generatedAt": "2026-10-24T06:06:37.000Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5106
+      "elapsedMs": 5665
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 586
+      "elapsedMs": 824
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 792
+      "elapsedMs": 1192
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 691
+      "elapsedMs": 871
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2251
+      "elapsedMs": 3072
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 9,
       "droppedOffTopic": 21,
       "droppedModern": 0,
-      "elapsedMs": 2207
+      "elapsedMs": 2931
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 2,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 980
+      "elapsedMs": 1355
     },
     {
       "id": "labrujulaverde",
@@ -101,7 +101,7 @@
       "kept": 16,
       "droppedOffTopic": 0,
       "droppedModern": 4,
-      "elapsedMs": 1570
+      "elapsedMs": 1645
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 1492
+      "elapsedMs": 1224
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 549
+      "elapsedMs": 1615
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 646
+      "elapsedMs": 989
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 6,
       "droppedOffTopic": 11,
       "droppedModern": 3,
-      "elapsedMs": 1168
+      "elapsedMs": 1438
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +162,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 15,
-      "kept": 10,
-      "droppedOffTopic": 5,
+      "fetched": 14,
+      "kept": 8,
+      "droppedOffTopic": 6,
       "droppedModern": 0,
-      "elapsedMs": 890
+      "elapsedMs": 1575
     },
     {
       "id": "inrap-bsky",
@@ -176,10 +176,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 23,
-      "kept": 5,
-      "droppedOffTopic": 14,
+      "kept": 6,
+      "droppedOffTopic": 13,
       "droppedModern": 4,
-      "elapsedMs": 2275
+      "elapsedMs": 2948
     },
     {
       "id": "sudouest-culture",
@@ -192,7 +192,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1090
+      "elapsedMs": 1288
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1649
+      "elapsedMs": 2372
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 2,
       "droppedOffTopic": 1,
       "droppedModern": 7,
-      "elapsedMs": 1746
+      "elapsedMs": 2349
     },
     {
       "id": "stilearte",
@@ -231,7 +231,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 1,
-      "elapsedMs": 1980
+      "elapsedMs": 2105
     },
     {
       "id": "live-science-arch",
@@ -241,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 3,
-      "droppedOffTopic": 27,
+      "kept": 2,
+      "droppedOffTopic": 28,
       "droppedModern": 0,
-      "elapsedMs": 2133
+      "elapsedMs": 2688
     },
     {
       "id": "bbc-history",
@@ -254,10 +254,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 3,
-      "droppedOffTopic": 7,
+      "kept": 2,
+      "droppedOffTopic": 8,
       "droppedModern": 0,
-      "elapsedMs": 1353
+      "elapsedMs": 1742
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +270,7 @@
       "kept": 22,
       "droppedOffTopic": 8,
       "droppedModern": 0,
-      "elapsedMs": 1548
+      "elapsedMs": 2070
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1479
+      "elapsedMs": 1932
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 8,
       "droppedOffTopic": 8,
       "droppedModern": 4,
-      "elapsedMs": 1695
+      "elapsedMs": 2168
     },
     {
       "id": "current-archaeology",
@@ -309,7 +309,7 @@
       "kept": 23,
       "droppedOffTopic": 2,
       "droppedModern": 5,
-      "elapsedMs": 1415
+      "elapsedMs": 2051
     },
     {
       "id": "jas-reports",
@@ -320,9 +320,9 @@
       "ok": true,
       "fetched": 30,
       "kept": 6,
-      "droppedOffTopic": 1,
-      "droppedModern": 23,
-      "elapsedMs": 1446
+      "droppedOffTopic": 0,
+      "droppedModern": 24,
+      "elapsedMs": 1982
     },
     {
       "id": "plos-one-arch",
@@ -332,10 +332,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1615
+      "elapsedMs": 2156
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 16,
       "droppedOffTopic": 9,
       "droppedModern": 5,
-      "elapsedMs": 2065
+      "elapsedMs": 2849
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +361,7 @@
       "kept": 6,
       "droppedOffTopic": 0,
       "droppedModern": 16,
-      "elapsedMs": 1558
+      "elapsedMs": 1911
     },
     {
       "id": "spal-us",
@@ -374,7 +374,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 5,
-      "elapsedMs": 2280
+      "elapsedMs": 2952
     },
     {
       "id": "complutum-ucm",
@@ -382,9 +382,12 @@
       "lang": "es",
       "region": "iberia",
       "kind": "research",
-      "ok": false,
-      "error": "Request timed out after 15000ms",
-      "elapsedMs": 49511
+      "ok": true,
+      "fetched": 30,
+      "kept": 19,
+      "droppedOffTopic": 1,
+      "droppedModern": 10,
+      "elapsedMs": 4723
     },
     {
       "id": "archeoarte",
@@ -394,7 +397,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 7756
+      "elapsedMs": 9262
     },
     {
       "id": "cypsela",
@@ -404,7 +407,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 6635
+      "elapsedMs": 7479
     },
     {
       "id": "cambridge-antiquity",
@@ -415,9 +418,9 @@
       "ok": true,
       "fetched": 30,
       "kept": 18,
-      "droppedOffTopic": 4,
-      "droppedModern": 8,
-      "elapsedMs": 1990
+      "droppedOffTopic": 5,
+      "droppedModern": 7,
+      "elapsedMs": 2823
     },
     {
       "id": "cambridge-caj",
@@ -430,7 +433,7 @@
       "kept": 18,
       "droppedOffTopic": 7,
       "droppedModern": 5,
-      "elapsedMs": 2008
+      "elapsedMs": 2891
     },
     {
       "id": "cambridge-ejarc",
@@ -443,7 +446,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 2064
+      "elapsedMs": 2765
     },
     {
       "id": "aquitania-persee",
@@ -456,7 +459,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2816
+      "elapsedMs": 3930
     },
     {
       "id": "cuadernos-arq-unav",
@@ -469,7 +472,7 @@
       "kept": 21,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 2897
+      "elapsedMs": 4373
     },
     {
       "id": "veleia-ehu",
@@ -482,7 +485,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3021
+      "elapsedMs": 3866
     },
     {
       "id": "flv-navarra",
@@ -495,7 +498,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2116
+      "elapsedMs": 3080
     },
     {
       "id": "munibe-aa",
@@ -508,7 +511,7 @@
       "kept": 17,
       "droppedOffTopic": 4,
       "droppedModern": 9,
-      "elapsedMs": 2144
+      "elapsedMs": 3069
     },
     {
       "id": "trabajos-prehistoria",
@@ -521,7 +524,7 @@
       "kept": 23,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 2203
+      "elapsedMs": 3098
     },
     {
       "id": "openalex-archaeology",
@@ -534,7 +537,7 @@
       "kept": 13,
       "droppedOffTopic": 7,
       "droppedModern": 10,
-      "elapsedMs": 2179
+      "elapsedMs": 3021
     }
   ],
   "items": [
@@ -798,6 +801,23 @@
       "lang": "en",
       "region": "world",
       "topics": []
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26005456?dgcid=rss_sd_all",
+      "title": "Poisoned arrows in the Danish Early Mesolithic: Testing lithic ballistic morphometrics against faunal and archaeobotanical data",
+      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part A Author(s): Felix Riede, Sofie F. Hellerøe, Renée Enevold, Signe S. Termansen, Marlize Lombard, Welmoed A. Out",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26005456?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-10-24T06:06:29.702Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
     },
     {
       "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326002487?dgcid=rss_sd_all",
@@ -5924,21 +5944,6 @@
       ]
     },
     {
-      "id": "stilearte:https://www.stilearte.it/collasso-eta-del-bronzo-cause-climatiche-studio/",
-      "title": "3400 anni fa il cambiamento climatico mise in ginocchio gli imperi. Un nuovo studio spiega perché il mondo dell’Età del Bronzo collassò all’improvviso",
-      "summary": "Non fu una sola siccità a travolgere Ittiti, Micenei e le grandi potenze del Mediterraneo orientale. Una ricerca appena pubblicata dimostra che, circa 3200 anni fa, diversi cicli climatici dell’Atlantico entrarono in perfetta sincronia, amplificando una crisi idrica che…",
-      "url": "https://www.stilearte.it/collasso-eta-del-bronzo-cause-climatiche-studio/",
-      "image": null,
-      "publishedAt": "2026-07-25T17:06:50.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003950?dgcid=rss_sd_all",
       "title": "The supply of copper to the settlement of Leceia (Portugal) and the Estremadura region during the third millennium BC",
       "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Pedro Valério, João Luís Cardoso, Luís C. Alves, António M. Monge Soares",
@@ -8904,35 +8909,38 @@
       "topics": []
     },
     {
-      "id": "openalex-archaeology:https://openalex.org/W7221313627",
-      "title": "Nuevo registro de Gallineta Chica (Rallus antarcticus) en Puerto San Julián, Santa Cruz",
-      "summary": "La Gallineta Chica (Rallus antarcticus) se consideró posiblemente extinta; posteriormente fue redescubierta en la provincia de Santa Cruz. Se sospecha que realiza movimientos migratorios, aunque estos aún son poco conocidos. Aquí presentamos un llamativo registro realizado en el…",
-      "url": "https://doi.org/10.56178/na.v71i.1208",
+      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326002414?dgcid=rss_sd_all",
+      "title": "From ashes to mortuary rituals: Identifying cremation burials and exploring concepts of death in late Neolithic Southern China",
+      "summary": "Publication date: November 2026 Source: Journal of Archaeological Science, Volume 195 Author(s): Wuhong Luo, Tianci Sun, Dongyang Cao, Jia He, Youjin Wu, Fang Fang",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326002414?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-10-11T00:00:00.000Z",
+      "publishedAt": "2026-10-24T06:06:29.646Z",
       "source": {
-        "id": "openalex-archaeology",
-        "name": "OpenAlex — Arkeologia (mundua)"
+        "id": "sciencedirect-jas",
+        "name": "Journal of Archaeological Science (ScienceDirect)"
       },
       "lang": "en",
       "region": "world",
-      "topics": []
+      "topics": [
+        "prehistoria",
+        "asia"
+      ]
     },
     {
-      "id": "sudouest-culture:https://www.sudouest.fr/dordogne/les-eyzies/les-eyzies-les-chansons-traditionnelles-du-perigord-reunies-dans-une-edition-exceptionnelle-30776589.php",
-      "title": "Les Eyzies : les chansons traditionnelles du Périgord réunies dans une édition exceptionnelle",
-      "summary": "Le Pôle d’interprétation de la préhistoire accueillera la présentation de l’édition complète des collectes réalisées par les abbés Casse et Chaminade",
-      "url": "https://www.sudouest.fr/dordogne/les-eyzies/les-eyzies-les-chansons-traditionnelles-du-perigord-reunies-dans-une-edition-exceptionnelle-30776589.php",
-      "image": null,
-      "publishedAt": "2026-10-10T16:40:00.000Z",
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/la-proxima-edad-de-hielo-empezo-hace-2000-anos-en-tiempos-del-imperio-romano-y-el-calentamiento-global-la-freno-hacia-1960",
+      "title": "La próxima edad de hielo empezó hace 2.000 años en tiempos del Imperio Romano y el calentamiento global la frenó hacia 1960",
+      "summary": "Hace unos 2.000 años, cuando Augusto gobernaba Roma, un resto de hielo en el Ártico canadiense dejó de encogerse y empezó a crecer. Según un equipo del Observatorio de la Tierra Lamont-Doherty, de la Universidad de Columbia, aquel cambio marcó el comienzo de la próxima…",
+      "url": "https://www.labrujulaverde.com/2026/10/la-proxima-edad-de-hielo-empezo-hace-2000-anos-en-tiempos-del-imperio-romano-y-el-calentamiento-global-la-freno-hacia-1960",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/Barnes_margin_fresh-1300x975-1.webp",
+      "publishedAt": "2026-10-23T14:45:19.000Z",
       "source": {
-        "id": "sudouest-culture",
-        "name": "Sud Ouest — Culture"
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
       },
-      "lang": "fr",
-      "region": "basque",
+      "lang": "es",
+      "region": "world",
       "topics": [
-        "prehistoria"
+        "erromatarrak"
       ]
     }
   ]
