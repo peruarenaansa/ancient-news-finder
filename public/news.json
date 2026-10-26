@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T06:27:03.371Z",
+  "generatedAt": "2026-10-26T06:36:22.834Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5583
+      "elapsedMs": 4939
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 838
+      "elapsedMs": 581
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 970
+      "elapsedMs": 714
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1532
+      "elapsedMs": 505
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2774
+      "elapsedMs": 1987
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 9,
       "droppedOffTopic": 21,
       "droppedModern": 0,
-      "elapsedMs": 2808
+      "elapsedMs": 1983
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 2,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 1174
+      "elapsedMs": 720
     },
     {
       "id": "labrujulaverde",
@@ -98,10 +98,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 16,
+      "kept": 17,
       "droppedOffTopic": 0,
-      "droppedModern": 4,
-      "elapsedMs": 1601
+      "droppedModern": 3,
+      "elapsedMs": 1423
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 1470
+      "elapsedMs": 1245
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1933
+      "elapsedMs": 467
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 818
+      "elapsedMs": 509
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 6,
       "droppedOffTopic": 11,
       "droppedModern": 3,
-      "elapsedMs": 1316
+      "elapsedMs": 1087
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -163,10 +163,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 13,
-      "kept": 8,
-      "droppedOffTopic": 5,
+      "kept": 9,
+      "droppedOffTopic": 4,
       "droppedModern": 0,
-      "elapsedMs": 909
+      "elapsedMs": 1175
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +179,7 @@
       "kept": 6,
       "droppedOffTopic": 13,
       "droppedModern": 4,
-      "elapsedMs": 2847
+      "elapsedMs": 1984
     },
     {
       "id": "sudouest-culture",
@@ -189,10 +189,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 1,
-      "droppedOffTopic": 19,
+      "kept": 0,
+      "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1264
+      "elapsedMs": 926
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1635
+      "elapsedMs": 1285
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 2,
       "droppedOffTopic": 1,
       "droppedModern": 7,
-      "elapsedMs": 2176
+      "elapsedMs": 1625
     },
     {
       "id": "stilearte",
@@ -231,7 +231,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 2,
-      "elapsedMs": 2350
+      "elapsedMs": 1823
     },
     {
       "id": "live-science-arch",
@@ -244,7 +244,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2762
+      "elapsedMs": 1849
     },
     {
       "id": "bbc-history",
@@ -257,7 +257,7 @@
       "kept": 2,
       "droppedOffTopic": 8,
       "droppedModern": 0,
-      "elapsedMs": 1691
+      "elapsedMs": 1138
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +270,7 @@
       "kept": 22,
       "droppedOffTopic": 8,
       "droppedModern": 0,
-      "elapsedMs": 1670
+      "elapsedMs": 1339
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1756
+      "elapsedMs": 1222
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 7,
       "droppedOffTopic": 9,
       "droppedModern": 4,
-      "elapsedMs": 2109
+      "elapsedMs": 1530
     },
     {
       "id": "current-archaeology",
@@ -309,7 +309,7 @@
       "kept": 23,
       "droppedOffTopic": 2,
       "droppedModern": 5,
-      "elapsedMs": 1767
+      "elapsedMs": 1208
     },
     {
       "id": "jas-reports",
@@ -322,7 +322,7 @@
       "kept": 6,
       "droppedOffTopic": 0,
       "droppedModern": 24,
-      "elapsedMs": 1807
+      "elapsedMs": 1231
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +335,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1963
+      "elapsedMs": 1459
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 16,
       "droppedOffTopic": 9,
       "droppedModern": 5,
-      "elapsedMs": 2598
+      "elapsedMs": 1753
     },
     {
       "id": "sciencedirect-jas",
@@ -357,11 +357,11 @@
       "region": "world",
       "kind": "research",
       "ok": true,
-      "fetched": 23,
+      "fetched": 25,
       "kept": 6,
       "droppedOffTopic": 0,
-      "droppedModern": 17,
-      "elapsedMs": 1906
+      "droppedModern": 19,
+      "elapsedMs": 1272
     },
     {
       "id": "spal-us",
@@ -374,7 +374,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 5,
-      "elapsedMs": 2933
+      "elapsedMs": 2068
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +387,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 4388
+      "elapsedMs": 3058
     },
     {
       "id": "archeoarte",
@@ -397,7 +397,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 8628
+      "elapsedMs": 7447
     },
     {
       "id": "cypsela",
@@ -407,7 +407,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 7259
+      "elapsedMs": 8583
     },
     {
       "id": "cambridge-antiquity",
@@ -420,7 +420,7 @@
       "kept": 19,
       "droppedOffTopic": 4,
       "droppedModern": 7,
-      "elapsedMs": 2510
+      "elapsedMs": 1622
     },
     {
       "id": "cambridge-caj",
@@ -433,7 +433,7 @@
       "kept": 18,
       "droppedOffTopic": 7,
       "droppedModern": 5,
-      "elapsedMs": 2584
+      "elapsedMs": 1694
     },
     {
       "id": "cambridge-ejarc",
@@ -446,7 +446,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 2709
+      "elapsedMs": 1670
     },
     {
       "id": "aquitania-persee",
@@ -459,7 +459,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3365
+      "elapsedMs": 2398
     },
     {
       "id": "cuadernos-arq-unav",
@@ -472,7 +472,7 @@
       "kept": 21,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 3805
+      "elapsedMs": 3031
     },
     {
       "id": "veleia-ehu",
@@ -485,7 +485,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3490
+      "elapsedMs": 2776
     },
     {
       "id": "flv-navarra",
@@ -498,7 +498,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2768
+      "elapsedMs": 1878
     },
     {
       "id": "munibe-aa",
@@ -511,7 +511,7 @@
       "kept": 17,
       "droppedOffTopic": 4,
       "droppedModern": 9,
-      "elapsedMs": 2756
+      "elapsedMs": 1854
     },
     {
       "id": "trabajos-prehistoria",
@@ -524,7 +524,7 @@
       "kept": 23,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 2740
+      "elapsedMs": 1893
     },
     {
       "id": "openalex-archaeology",
@@ -537,7 +537,7 @@
       "kept": 13,
       "droppedOffTopic": 7,
       "droppedModern": 10,
-      "elapsedMs": 2720
+      "elapsedMs": 1839
     }
   ],
   "items": [
@@ -8909,29 +8909,30 @@
       "topics": []
     },
     {
-      "id": "stilearte:https://www.stilearte.it/scoperta-mansio-romana-mellaria-fuente-obejuna/",
-      "title": "Scoperto un “motel” degli Antichi Romani. Come funzionavano queste strutture? Che servizi offrivano?",
-      "summary": "Una stazione di sosta di 1.290 metri quadrati emerge dal sottosuolo della Spagna romanaNon è stata ancora scavata: la sua pianta è stata ricostruita attraverso la prospezione geomagnetica, rivelando un’infrastruttura destinata a viaggiatori, animali, carri e probabilmente truppe…",
-      "url": "https://www.stilearte.it/scoperta-mansio-romana-mellaria-fuente-obejuna/",
+      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326002414?dgcid=rss_sd_all",
+      "title": "From ashes to mortuary rituals: Identifying cremation burials and exploring concepts of death in late Neolithic Southern China",
+      "summary": "Publication date: November 2026 Source: Journal of Archaeological Science, Volume 195 Author(s): Wuhong Luo, Tianci Sun, Dongyang Cao, Jia He, Youjin Wu, Fang Fang",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326002414?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-10-25T05:42:36.000Z",
+      "publishedAt": "2026-10-26T06:36:15.513Z",
       "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
+        "id": "sciencedirect-jas",
+        "name": "Journal of Archaeological Science (ScienceDirect)"
       },
-      "lang": "it",
-      "region": "europe",
+      "lang": "en",
+      "region": "world",
       "topics": [
-        "erromatarrak"
+        "prehistoria",
+        "asia"
       ]
     },
     {
-      "id": "stilearte:https://www.stilearte.it/novae-residenza-comandante-legio-i-italica/",
-      "title": "Impero romano. Scoperta la casa del comandante del forte di Novae. Legio I Italica. 3mila metri, affaccio sul fiume. Spunta anche il guardiano impudico degli orti. Com’era organizzato il forte? Da dove venivano i soldati?",
-      "summary": "In Bulgaria gli archeologi hanno individuato oltre 3.000 metri quadrati di una residenza monumentale che potrebbe essere il praetorium del legato della Legio I Italica: ma quali soldati vivevano a Novae e da quali province dell’Impero arrivavano?La fortezza sul Danubio, davanti…",
-      "url": "https://www.stilearte.it/novae-residenza-comandante-legio-i-italica/",
+      "id": "stilearte:https://www.stilearte.it/villa-romana-rossett-galles/",
+      "title": "Impero romano. Si scava nella villa dei terreni legionari. Ipocausti. Una fase precedente. A chi apparteneva, com’era fatta?",
+      "summary": "L’ultimo scavo nel Galles settentrionale ha rivelato pavimenti, ipocausto, intonaci dipinti e una possibile area termale. Poi, sotto la grande residenza romana, è comparsa una macina appartenente a una fase precedente: la storia di Rossett comincia prima della villa. La sorpresa…",
+      "url": "https://www.stilearte.it/villa-romana-rossett-galles/",
       "image": null,
-      "publishedAt": "2026-10-25T05:06:03.000Z",
+      "publishedAt": "2026-10-26T06:28:39.000Z",
       "source": {
         "id": "stilearte",
         "name": "Stile Arte — Archeologia"
