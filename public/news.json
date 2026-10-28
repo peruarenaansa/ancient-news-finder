@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T06:32:06.957Z",
+  "generatedAt": "2026-10-28T07:00:33.624Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5495
+      "elapsedMs": 4990
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 807
+      "elapsedMs": 500
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1385
+      "elapsedMs": 756
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1079
+      "elapsedMs": 441
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2866
+      "elapsedMs": 2153
     },
     {
       "id": "aranzadi-bsky",
@@ -72,10 +72,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 9,
-      "droppedOffTopic": 21,
+      "kept": 8,
+      "droppedOffTopic": 22,
       "droppedModern": 0,
-      "elapsedMs": 2809
+      "elapsedMs": 2148
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 2,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 1235
+      "elapsedMs": 855
     },
     {
       "id": "labrujulaverde",
@@ -98,10 +98,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 16,
+      "kept": 19,
       "droppedOffTopic": 0,
-      "droppedModern": 4,
-      "elapsedMs": 1903
+      "droppedModern": 1,
+      "elapsedMs": 1687
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 1698
+      "elapsedMs": 840
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1879
+      "elapsedMs": 543
     },
     {
       "id": "lemonde-sciences",
@@ -137,10 +137,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 0,
-      "droppedOffTopic": 20,
+      "kept": 1,
+      "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 988
+      "elapsedMs": 625
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 6,
       "droppedOffTopic": 11,
       "droppedModern": 3,
-      "elapsedMs": 1289
+      "elapsedMs": 1144
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +162,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 13,
+      "fetched": 14,
       "kept": 9,
-      "droppedOffTopic": 4,
+      "droppedOffTopic": 5,
       "droppedModern": 0,
-      "elapsedMs": 1461
+      "elapsedMs": 845
     },
     {
       "id": "inrap-bsky",
@@ -175,11 +175,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 23,
+      "fetched": 24,
       "kept": 6,
-      "droppedOffTopic": 13,
+      "droppedOffTopic": 14,
       "droppedModern": 4,
-      "elapsedMs": 2911
+      "elapsedMs": 2179
     },
     {
       "id": "sudouest-culture",
@@ -192,7 +192,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1699
+      "elapsedMs": 1017
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2215
+      "elapsedMs": 1689
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 2,
       "droppedOffTopic": 1,
       "droppedModern": 7,
-      "elapsedMs": 2247
+      "elapsedMs": 1696
     },
     {
       "id": "stilearte",
@@ -229,9 +229,9 @@
       "ok": true,
       "fetched": 10,
       "kept": 9,
-      "droppedOffTopic": 0,
-      "droppedModern": 1,
-      "elapsedMs": 2456
+      "droppedOffTopic": 1,
+      "droppedModern": 0,
+      "elapsedMs": 1945
     },
     {
       "id": "live-science-arch",
@@ -241,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 3,
-      "droppedOffTopic": 27,
+      "kept": 2,
+      "droppedOffTopic": 28,
       "droppedModern": 0,
-      "elapsedMs": 2571
+      "elapsedMs": 1936
     },
     {
       "id": "bbc-history",
@@ -257,7 +257,7 @@
       "kept": 1,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1775
+      "elapsedMs": 1270
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +270,7 @@
       "kept": 22,
       "droppedOffTopic": 8,
       "droppedModern": 0,
-      "elapsedMs": 2061
+      "elapsedMs": 1513
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 2051
+      "elapsedMs": 1528
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 7,
       "droppedOffTopic": 9,
       "droppedModern": 4,
-      "elapsedMs": 2233
+      "elapsedMs": 1609
     },
     {
       "id": "current-archaeology",
@@ -309,7 +309,7 @@
       "kept": 23,
       "droppedOffTopic": 2,
       "droppedModern": 5,
-      "elapsedMs": 1926
+      "elapsedMs": 1379
     },
     {
       "id": "jas-reports",
@@ -319,10 +319,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 6,
-      "droppedOffTopic": 0,
-      "droppedModern": 24,
-      "elapsedMs": 2045
+      "kept": 5,
+      "droppedOffTopic": 2,
+      "droppedModern": 23,
+      "elapsedMs": 1414
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +335,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2223
+      "elapsedMs": 1447
     },
     {
       "id": "pnas-arch",
@@ -345,10 +345,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 16,
-      "droppedOffTopic": 9,
+      "kept": 17,
+      "droppedOffTopic": 8,
       "droppedModern": 5,
-      "elapsedMs": 3077
+      "elapsedMs": 2276
     },
     {
       "id": "sciencedirect-jas",
@@ -357,11 +357,11 @@
       "region": "world",
       "kind": "research",
       "ok": true,
-      "fetched": 27,
+      "fetched": 28,
       "kept": 8,
       "droppedOffTopic": 0,
-      "droppedModern": 19,
-      "elapsedMs": 1999
+      "droppedModern": 20,
+      "elapsedMs": 1428
     },
     {
       "id": "spal-us",
@@ -374,7 +374,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 5,
-      "elapsedMs": 2907
+      "elapsedMs": 2205
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +387,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 4336
+      "elapsedMs": 3632
     },
     {
       "id": "archeoarte",
@@ -397,7 +397,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 8651
+      "elapsedMs": 7289
     },
     {
       "id": "cypsela",
@@ -407,7 +407,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 7015
+      "elapsedMs": 6475
     },
     {
       "id": "cambridge-antiquity",
@@ -420,7 +420,7 @@
       "kept": 19,
       "droppedOffTopic": 4,
       "droppedModern": 7,
-      "elapsedMs": 2770
+      "elapsedMs": 2126
     },
     {
       "id": "cambridge-caj",
@@ -433,7 +433,7 @@
       "kept": 18,
       "droppedOffTopic": 7,
       "droppedModern": 5,
-      "elapsedMs": 2901
+      "elapsedMs": 1985
     },
     {
       "id": "cambridge-ejarc",
@@ -446,7 +446,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 2809
+      "elapsedMs": 2022
     },
     {
       "id": "aquitania-persee",
@@ -459,7 +459,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3294
+      "elapsedMs": 2753
     },
     {
       "id": "cuadernos-arq-unav",
@@ -472,7 +472,7 @@
       "kept": 21,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 4050
+      "elapsedMs": 3136
     },
     {
       "id": "veleia-ehu",
@@ -485,7 +485,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3600
+      "elapsedMs": 3789
     },
     {
       "id": "flv-navarra",
@@ -498,7 +498,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2840
+      "elapsedMs": 2385
     },
     {
       "id": "munibe-aa",
@@ -511,7 +511,7 @@
       "kept": 17,
       "droppedOffTopic": 4,
       "droppedModern": 9,
-      "elapsedMs": 2855
+      "elapsedMs": 2036
     },
     {
       "id": "trabajos-prehistoria",
@@ -524,7 +524,7 @@
       "kept": 23,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 2880
+      "elapsedMs": 2002
     },
     {
       "id": "openalex-archaeology",
@@ -535,9 +535,9 @@
       "ok": true,
       "fetched": 30,
       "kept": 12,
-      "droppedOffTopic": 8,
-      "droppedModern": 10,
-      "elapsedMs": 2927
+      "droppedOffTopic": 9,
+      "droppedModern": 9,
+      "elapsedMs": 2096
     }
   ],
   "items": [
@@ -5845,21 +5845,6 @@
       "topics": []
     },
     {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/07/260729010732.htm",
-      "title": "A forgotten fossil just revealed a new Triassic predator from 210 million years ago",
-      "summary": "A fossil overlooked for nearly 80 years has revealed a previously unknown crocodile relative that lived 210 million years ago in what is now New Mexico. Named Eosphorosuchus lacrimosa, the jackal-sized predator had a reinforced skull, powerful jaw muscles, and a short snout…",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260729010732.htm",
-      "image": null,
-      "publishedAt": "2026-07-30T06:34:21.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
       "id": "cambridge-antiquity:https://openalex.org/W7171718882",
       "title": "Loess Highland societies during the Yinxu period (1300–1050 BC): new evidence from Zhaigou",
       "summary": "Recent research is highlighting the archaeological significance of the Loess Highland of north-central China. Here, the authors report on some of the findings from Zhaigou, in Shaanxi Province, where excavations have so far revealed monumental architecture, elite burials and…",
@@ -8877,29 +8862,31 @@
       "topics": []
     },
     {
-      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326002621?dgcid=rss_sd_all",
-      "title": "The fragmentation index as a 'cultural bite': Disentangling biological and chronological components of skeletal fragmentation in Bronze and Iron Age cremations from north-western Italy",
-      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science, Volume 196 Author(s): Omar Larentis, Annaluisa Pedrotti, Barbara Grassi, Stefano Grimaldi, Ilaria Gorini, Cristina Longhi",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326002621?dgcid=rss_sd_all",
+      "id": "openalex-archaeology:https://openalex.org/W7205183245",
+      "title": "Az edények szerepe a síron túl: A Vekerzug-kultúra sírkerámiája és temetkezési rítusai Békés megye területén",
+      "summary": "This dissertation presents the first comprehensive, standardised study of the accessible Middle Iron Age Vekerzug-type burials and grave pottery of Békés County. It examines 198 burials from 15 sites; object-level analysis covers 420 ceramic items from 13 sites. Direct…",
+      "url": "https://doktori.bibl.u-szeged.hu/id/eprint/13216/1/1._kotet_Sz%C3%B6vegk%C3%B6tet.pdf",
       "image": null,
-      "publishedAt": "2026-10-27T06:32:00.298Z",
+      "publishedAt": "2026-11-10T00:00:00.000Z",
       "source": {
-        "id": "sciencedirect-jas",
-        "name": "Journal of Archaeological Science (ScienceDirect)"
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
       },
       "lang": "en",
-      "region": "europe",
+      "region": "world",
       "topics": [
-        "prehistoria"
+        "prehistoria",
+        "museoak",
+        "aurkikuntza"
       ]
     },
     {
-      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326002633?dgcid=rss_sd_all",
-      "title": "Keeping cats for mummification in ancient Egypt: osteological evidence from Beni Hassan",
-      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science, Volume 196 Author(s): Wim Van Neer, Bea De Cupere, Claudio Ottoni",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326002633?dgcid=rss_sd_all",
+      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326002414?dgcid=rss_sd_all",
+      "title": "From ashes to mortuary rituals: Identifying cremation burials and exploring concepts of death in late Neolithic Southern China",
+      "summary": "Publication date: November 2026 Source: Journal of Archaeological Science, Volume 195 Author(s): Wuhong Luo, Tianci Sun, Dongyang Cao, Jia He, Youjin Wu, Fang Fang",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326002414?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-10-27T06:32:00.298Z",
+      "publishedAt": "2026-10-28T07:00:27.755Z",
       "source": {
         "id": "sciencedirect-jas",
         "name": "Journal of Archaeological Science (ScienceDirect)"
@@ -8907,40 +8894,56 @@
       "lang": "en",
       "region": "world",
       "topics": [
-        "egiptoarrak"
+        "prehistoria",
+        "asia"
       ]
     },
     {
-      "id": "stilearte:https://www.stilearte.it/tomba-weni-saqqara-strumenti-bronzo-medicina/",
-      "title": "Scoperta a Saqqara la tomba di Weni: strumenti di bronzo, statue lignee e una donna sacerdotessa riaprono il mistero della Medicina nell’Antico Regno",
-      "summary": "Nella necropoli a sud del Cairo è stata scoperta la sepoltura di un alto funzionario della VI dinastia. Il suo corredo comprende oggetti di possibile uso medico, forse “strumenti chirurgici”. Ne dà notizia ora il Ministero egiziano del Turismo e delle Antichità A circa 30…",
-      "url": "https://www.stilearte.it/tomba-weni-saqqara-strumenti-bronzo-medicina/",
+      "id": "stilearte:https://www.stilearte.it/polonia-130-denari-romani-deposito-votivo/",
+      "title": "Il prato dei miracoli, 130 denari romani affiorano in un campo. Poi altri e altri ancora. Arrivano gli archeologi. Cosa c’era in quel punto e perché tante anomalie? I risultati delle prime verifiche",
+      "summary": "130 monete d’argento dei primi secoli dell’Impero, trovate in un campo, riportano l’attenzione su un paesaggio scomparso della Polonia orientale. A Czemierniki, nel voivodato di Lublino, a circa 50 chilometri a nord di Lublino, gli archeologi sono tornati nel luogo del…",
+      "url": "https://www.stilearte.it/polonia-130-denari-romani-deposito-votivo/",
       "image": null,
-      "publishedAt": "2026-10-26T18:19:10.000Z",
+      "publishedAt": "2026-10-28T06:38:12.000Z",
       "source": {
         "id": "stilearte",
         "name": "Stile Arte — Archeologia"
       },
       "lang": "it",
       "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "lemonde-sciences:https://www.lemonde.fr/sciences/article/2026/10/27/la-queue-d-un-lezard-de-99-millions-d-annees-conservee-dans-de-l-ambre_6801310_1650684.html",
+      "title": "La queue d’un lézard de 99 millions d’années conservée dans de l’ambre",
+      "summary": "Grâce à la microtomographie à rayons X, des chercheurs de Tel-Aviv ont pu créer des images 3D détaillées du fossile, révélant son état de conservation exceptionnel.",
+      "url": "https://www.lemonde.fr/sciences/article/2026/10/27/la-queue-d-un-lezard-de-99-millions-d-annees-conservee-dans-de-l-ambre_6801310_1650684.html",
+      "image": "https://img.lemde.fr/2026/10/23/12/0/800/400/644/322/60/0/746449f_upload-1-byqewcklstdk-figure1.jpg",
+      "publishedAt": "2026-10-27T16:00:09.000Z",
+      "source": {
+        "id": "lemonde-sciences",
+        "name": "Le Monde — Sciences"
+      },
+      "lang": "fr",
+      "region": "europe",
       "topics": []
     },
     {
-      "id": "bbc-history:https://www.historyextra.com/period/general-history/the-ancient-egyptians-loved-pubic-wigs-and-now-theyre-making-a-comeback/",
-      "title": "The ancient Egyptians loved pubic wigs – and now they’re making a comeback",
-      "summary": "In the ever-changing world of fashion trends, this especially intimate accessory has lasted in one form or another since the 15th century",
-      "url": "https://www.historyextra.com/period/general-history/the-ancient-egyptians-loved-pubic-wigs-and-now-theyre-making-a-comeback/",
-      "image": "https://images.immediate.co.uk/production/volatile/sites/7/2026/10/MerkinStatue2web-ready-312041d-e1792507122807.jpg",
-      "publishedAt": "2026-10-26T15:00:56.000Z",
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/10/encuentran-huellas-de-perro-de-hace-4000-anos-en-una-ciudad-de-la-edad-del-bronce-anatolia-que-fue-arrasada-por-el-fuego",
+      "title": "Encuentran huellas de perro de hace 4.000 años en una ciudad de la Edad del Bronce anatolia que fue arrasada por el fuego",
+      "summary": "Un animal pisó un ladrillo de barro cuando aún estaba blando y dejó marcadas las patas. El ladrillo se usó después en el muro de una casa, la casa se incendió y se vino abajo, y unos 4.000 años más tarde los arqueólogos lo han recuperado entre los escombros con las huellas…",
+      "url": "https://www.labrujulaverde.com/2026/10/encuentran-huellas-de-perro-de-hace-4000-anos-en-una-ciudad-de-la-edad-del-bronce-anatolia-que-fue-arrasada-por-el-fuego",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/HVi5JA9WYAAdbwl.webp",
+      "publishedAt": "2026-10-27T11:24:51.000Z",
       "source": {
-        "id": "bbc-history",
-        "name": "BBC History Extra"
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
       },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "egiptoarrak"
-      ]
+      "lang": "es",
+      "region": "world",
+      "topics": []
     }
   ]
 }
