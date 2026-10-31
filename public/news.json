@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T07:25:23.617Z",
+  "generatedAt": "2026-10-31T07:13:20.647Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 4983
+      "elapsedMs": 6154
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 512
+      "elapsedMs": 795
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 664
+      "elapsedMs": 3613
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 458
+      "elapsedMs": 933
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1964
+      "elapsedMs": 3497
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 8,
       "droppedOffTopic": 22,
       "droppedModern": 0,
-      "elapsedMs": 1952
+      "elapsedMs": 3492
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 2,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 869
+      "elapsedMs": 1478
     },
     {
       "id": "labrujulaverde",
@@ -98,10 +98,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 16,
-      "droppedOffTopic": 0,
+      "kept": 15,
+      "droppedOffTopic": 1,
       "droppedModern": 4,
-      "elapsedMs": 1452
+      "elapsedMs": 2035
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 753
+      "elapsedMs": 1874
     },
     {
       "id": "elpais-cultura",
@@ -124,10 +124,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 2,
-      "droppedOffTopic": 28,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 566
+      "elapsedMs": 1935
     },
     {
       "id": "lemonde-sciences",
@@ -137,10 +137,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 1,
-      "droppedOffTopic": 19,
+      "kept": 2,
+      "droppedOffTopic": 18,
       "droppedModern": 0,
-      "elapsedMs": 626
+      "elapsedMs": 1247
     },
     {
       "id": "lemonde-archeo",
@@ -150,10 +150,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 6,
+      "kept": 7,
       "droppedOffTopic": 11,
-      "droppedModern": 3,
-      "elapsedMs": 1337
+      "droppedModern": 2,
+      "elapsedMs": 1676
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +162,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 14,
+      "fetched": 15,
       "kept": 8,
-      "droppedOffTopic": 6,
+      "droppedOffTopic": 7,
       "droppedModern": 0,
-      "elapsedMs": 1007
+      "elapsedMs": 1969
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +179,7 @@
       "kept": 6,
       "droppedOffTopic": 14,
       "droppedModern": 4,
-      "elapsedMs": 2083
+      "elapsedMs": 3453
     },
     {
       "id": "sudouest-culture",
@@ -192,7 +192,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 943
+      "elapsedMs": 1924
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1700
+      "elapsedMs": 2433
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 1,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 1559
+      "elapsedMs": 2466
     },
     {
       "id": "stilearte",
@@ -228,10 +228,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 8,
-      "droppedOffTopic": 2,
+      "kept": 9,
+      "droppedOffTopic": 1,
       "droppedModern": 0,
-      "elapsedMs": 1804
+      "elapsedMs": 2719
     },
     {
       "id": "live-science-arch",
@@ -241,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 4,
-      "droppedOffTopic": 26,
+      "kept": 3,
+      "droppedOffTopic": 27,
       "droppedModern": 0,
-      "elapsedMs": 1880
+      "elapsedMs": 3224
     },
     {
       "id": "bbc-history",
@@ -254,10 +254,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 2,
-      "droppedOffTopic": 8,
+      "kept": 1,
+      "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1169
+      "elapsedMs": 1977
     },
     {
       "id": "sciencedaily-arch",
@@ -267,10 +267,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 23,
-      "droppedOffTopic": 7,
+      "kept": 22,
+      "droppedOffTopic": 8,
       "droppedModern": 0,
-      "elapsedMs": 1366
+      "elapsedMs": 2133
     },
     {
       "id": "ancient-origins",
@@ -280,7 +280,7 @@
       "kind": "news",
       "ok": false,
       "error": "Unable to parse XML.",
-      "elapsedMs": 5899
+      "elapsedMs": 6987
     },
     {
       "id": "guardian-arch",
@@ -293,7 +293,7 @@
       "kept": 7,
       "droppedOffTopic": 9,
       "droppedModern": 4,
-      "elapsedMs": 1504
+      "elapsedMs": 2421
     },
     {
       "id": "current-archaeology",
@@ -306,7 +306,7 @@
       "kept": 23,
       "droppedOffTopic": 2,
       "droppedModern": 5,
-      "elapsedMs": 1231
+      "elapsedMs": 2106
     },
     {
       "id": "jas-reports",
@@ -316,10 +316,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 5,
+      "kept": 6,
       "droppedOffTopic": 2,
-      "droppedModern": 23,
-      "elapsedMs": 1235
+      "droppedModern": 22,
+      "elapsedMs": 2118
     },
     {
       "id": "plos-one-arch",
@@ -329,10 +329,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 2,
-      "droppedOffTopic": 28,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1415
+      "elapsedMs": 2456
     },
     {
       "id": "pnas-arch",
@@ -345,7 +345,7 @@
       "kept": 17,
       "droppedOffTopic": 7,
       "droppedModern": 6,
-      "elapsedMs": 1971
+      "elapsedMs": 3244
     },
     {
       "id": "sciencedirect-jas",
@@ -354,11 +354,11 @@
       "region": "world",
       "kind": "research",
       "ok": true,
-      "fetched": 29,
+      "fetched": 30,
       "kept": 8,
       "droppedOffTopic": 0,
-      "droppedModern": 21,
-      "elapsedMs": 1402
+      "droppedModern": 22,
+      "elapsedMs": 2339
     },
     {
       "id": "spal-us",
@@ -371,7 +371,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 5,
-      "elapsedMs": 2315
+      "elapsedMs": 3559
     },
     {
       "id": "complutum-ucm",
@@ -384,7 +384,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 3228
+      "elapsedMs": 4665
     },
     {
       "id": "archeoarte",
@@ -394,7 +394,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 7487
+      "elapsedMs": 9387
     },
     {
       "id": "cypsela",
@@ -404,7 +404,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 6466
+      "elapsedMs": 7827
     },
     {
       "id": "cambridge-antiquity",
@@ -417,7 +417,7 @@
       "kept": 19,
       "droppedOffTopic": 4,
       "droppedModern": 7,
-      "elapsedMs": 1737
+      "elapsedMs": 3024
     },
     {
       "id": "cambridge-caj",
@@ -430,7 +430,7 @@
       "kept": 18,
       "droppedOffTopic": 7,
       "droppedModern": 5,
-      "elapsedMs": 1752
+      "elapsedMs": 3231
     },
     {
       "id": "cambridge-ejarc",
@@ -443,7 +443,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 1711
+      "elapsedMs": 3144
     },
     {
       "id": "aquitania-persee",
@@ -456,7 +456,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2640
+      "elapsedMs": 3906
     },
     {
       "id": "cuadernos-arq-unav",
@@ -469,7 +469,7 @@
       "kept": 21,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 2862
+      "elapsedMs": 4302
     },
     {
       "id": "veleia-ehu",
@@ -482,7 +482,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 2802
+      "elapsedMs": 4329
     },
     {
       "id": "flv-navarra",
@@ -495,7 +495,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 1899
+      "elapsedMs": 3617
     },
     {
       "id": "munibe-aa",
@@ -508,7 +508,7 @@
       "kept": 17,
       "droppedOffTopic": 4,
       "droppedModern": 9,
-      "elapsedMs": 1885
+      "elapsedMs": 3513
     },
     {
       "id": "trabajos-prehistoria",
@@ -521,7 +521,7 @@
       "kept": 23,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 1873
+      "elapsedMs": 3490
     },
     {
       "id": "openalex-archaeology",
@@ -532,9 +532,9 @@
       "ok": true,
       "fetched": 30,
       "kept": 13,
-      "droppedOffTopic": 7,
-      "droppedModern": 10,
-      "elapsedMs": 2036
+      "droppedOffTopic": 8,
+      "droppedModern": 9,
+      "elapsedMs": 3523
     }
   ],
   "items": [
@@ -782,6 +782,23 @@
       "region": "world",
       "topics": [
         "ekialde-hurbila"
+      ]
+    },
+    {
+      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326002621?dgcid=rss_sd_all",
+      "title": "The fragmentation index as a 'cultural bite': Disentangling biological and chronological components of skeletal fragmentation in Bronze and Iron Age cremations from north-western Italy",
+      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science, Volume 196 Author(s): Omar Larentis, Annaluisa Pedrotti, Barbara Grassi, Stefano Grimaldi, Ilaria Gorini, Cristina Longhi",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326002621?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-10-31T07:13:13.590Z",
+      "source": {
+        "id": "sciencedirect-jas",
+        "name": "Journal of Archaeological Science (ScienceDirect)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
       ]
     },
     {
@@ -8845,12 +8862,12 @@
       ]
     },
     {
-      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326002414?dgcid=rss_sd_all",
-      "title": "From ashes to mortuary rituals: Identifying cremation burials and exploring concepts of death in late Neolithic Southern China",
-      "summary": "Publication date: November 2026 Source: Journal of Archaeological Science, Volume 195 Author(s): Wuhong Luo, Tianci Sun, Dongyang Cao, Jia He, Youjin Wu, Fang Fang",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326002414?dgcid=rss_sd_all",
+      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326002633?dgcid=rss_sd_all",
+      "title": "Keeping cats for mummification in ancient Egypt: osteological evidence from Beni Hassan",
+      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science, Volume 196 Author(s): Wim Van Neer, Bea De Cupere, Claudio Ottoni",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326002633?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-10-30T07:25:17.526Z",
+      "publishedAt": "2026-10-31T07:13:13.590Z",
       "source": {
         "id": "sciencedirect-jas",
         "name": "Journal of Archaeological Science (ScienceDirect)"
@@ -8858,17 +8875,34 @@
       "lang": "en",
       "region": "world",
       "topics": [
-        "prehistoria",
-        "asia"
+        "egiptoarrak"
       ]
     },
     {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X2600578X?dgcid=rss_sd_all",
-      "title": "Exploring the Neolithic food system through the lipid residue analysis of heat-altered stones",
-      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): Margherita Cantelli, Alice Di Muro, Krista McGrath, Nuria Moraleda-Cibrián, Joan Villanueva, Arnaud Mazuy, Léa Drieu, Miriam Cubas, Xavier Terradas, Didier Binder,…",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X2600578X?dgcid=rss_sd_all",
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26005833?dgcid=rss_sd_all",
+      "title": "Wielding the sword: metal, bone and ivory crafts in the Second Iron Age in the Iberian Peninsula",
+      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): Marta Blasco Martín, Lucía Soria Combadiera, Consuelo Mata Parreño, Pilar Mas Hurtuna, Gianni Gallello, José Antonio Madrid García",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26005833?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-10-30T07:25:17.327Z",
+      "publishedAt": "2026-10-31T07:13:13.342Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "iberia",
+      "topics": [
+        "prehistoria",
+        "iberiarrak"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26005985?dgcid=rss_sd_all",
+      "title": "Wood exploitation and vegetation dynamics in the middle Euphrates during the Chalcolithic and the Bronze Age: Initial results from Zeytinli Bahçe, Türkiye",
+      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): Tim M. Schroedter, Yasmin Dannath, Wiebke Kirleis, Marcella Frangipane, Andrea Ricci",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26005985?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-10-31T07:13:13.342Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -8880,12 +8914,12 @@
       ]
     },
     {
-      "id": "stilearte:https://www.stilearte.it/pompei-armadio-dei-ricordi-crepundia-amuleti-monete/",
-      "title": "Pompei, l’armadio rimasto chiuso dal 79 d.C. custodiva amuleti dell’infanzia, 38 monete e gli oggetti di una vita. Una giovane donna. I crepundia, Bes, le pinzette, il vasetto per i trucchi",
-      "summary": "Lungo via dell’Abbondanza, nella casa attribuita a Cornelius Maximus, un mobile ligneo restituisce una collana di 24 pendenti, strumenti per la cura del corpo, recipienti e una piccola riserva di denaro. Gli archeologi ricostruiscono un ambiente domestico nel quale si incontrano…",
-      "url": "https://www.stilearte.it/pompei-armadio-dei-ricordi-crepundia-amuleti-monete/",
+      "id": "stilearte:https://www.stilearte.it/mosaico-romano-vaison-la-romaine-sarcofagi/",
+      "title": "Impero romano, sarcofagi e un grande mosaico riemergono a due metri di profondità: cosa nascondeva questo quartiere?",
+      "summary": "A Vaison-la-Romaine, in Francia, gli scavi per il rifacimento della rete delle acque piovane portano alla luce un articolato pavimento romano del II secolo e sette sepolture, quattro delle quali in sarcofago. Le testimonianze appartengono a fasi differenti della storia urbana e…",
+      "url": "https://www.stilearte.it/mosaico-romano-vaison-la-romaine-sarcofagi/",
       "image": null,
-      "publishedAt": "2026-10-30T06:39:04.000Z",
+      "publishedAt": "2026-10-31T06:06:43.000Z",
       "source": {
         "id": "stilearte",
         "name": "Stile Arte — Archeologia"
@@ -8897,53 +8931,20 @@
       ]
     },
     {
-      "id": "elpais-cultura:https://elpais.com/cultura/2026-10-29/el-armario-que-nadie-volvio-a-abrir-en-pompeya-desvela-los-recuerdos-de-una-vida-sepultada-por-el-vesubio.html",
-      "title": "El armario que nadie volvió a abrir en Pompeya desvela los recuerdos de una vida sepultada por el Vesubio",
-      "summary": "Los arqueólogos descubren collares, utensilios de maquillaje y otros objetos personales de una familia que llevaban 2.000 años bajo las cenizas",
-      "url": "https://elpais.com/cultura/2026-10-29/el-armario-que-nadie-volvio-a-abrir-en-pompeya-desvela-los-recuerdos-de-una-vida-sepultada-por-el-vesubio.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/I6RO5SEV7VFUREC4REYCBSOKUM.jpg?auth=fc16a7a01213a1e2ef350f7cfef06e1c47514cf3c68362019b0a45c2e33a90c2",
-      "publishedAt": "2026-10-29T14:52:20.000Z",
-      "source": {
-        "id": "elpais-cultura",
-        "name": "El País — Cultura"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361889",
-      "title": "Changes in ware–decoration associations in ceramic assemblages from Wacheqsa, Chavín de Huántar, Peru",
-      "summary": "by Christian Mesía-Montenegro Ceramic differentiation can involve altered associations among continuing attributes without wholesale categorical replacement. At Wacheqsa, Chavín de Huántar, Peru, this study compares ware composition, decorative techniques, and their associations…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361889",
+      "id": "stilearte:https://www.stilearte.it/santuario-neolitico-cacciatori-deserto-giordania/",
+      "title": "Giordania, due figure umane in un santuario di 9.000 anni. Segni femminili trappole per animali?",
+      "summary": "Nel deserto sud-orientale, due stele antropomorfe erano collocate dentro una struttura rituale costruita come il modello in miniatura dei grandi sistemi di caccia neolitici. Fossili marini, animali scolpiti e un altare raccontano una società nella quale la cattura delle gazzelle…",
+      "url": "https://www.stilearte.it/santuario-neolitico-cacciatori-deserto-giordania/",
       "image": null,
-      "publishedAt": "2026-10-29T14:00:00.000Z",
+      "publishedAt": "2026-10-31T05:23:39.000Z",
       "source": {
-        "id": "plos-one-arch",
-        "name": "PLOS ONE — Archaeology"
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
       },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361817",
-      "title": "Gynecological malignancy signal triage: A two-dimensional framework integrating US-derived FAERS data with comparative US–China GBD trajectories",
-      "summary": "by Ying Ma, Dandan Li, Jieru Duan, Zhuowen Sun, Qirong Dou, Tao Wu, Na Gao Background Cancer-related adverse-event reports are difficult to interpret because statistical disproportionality, stimulated reporting, and background disease burden are distinct phenomena. To address…",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361817",
-      "image": null,
-      "publishedAt": "2026-10-29T14:00:00.000Z",
-      "source": {
-        "id": "plos-one-arch",
-        "name": "PLOS ONE — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
+      "lang": "it",
+      "region": "europe",
       "topics": [
-        "ekialde-hurbila",
-        "asia"
+        "prehistoria"
       ]
     }
   ]
