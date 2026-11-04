@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T08:10:53.020Z",
+  "generatedAt": "2026-11-04T07:42:31.626Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 6758
+      "elapsedMs": 6189
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 979
+      "elapsedMs": 947
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1393
+      "elapsedMs": 1163
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1169
+      "elapsedMs": 868
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3284
+      "elapsedMs": 3558
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 8,
       "droppedOffTopic": 22,
       "droppedModern": 0,
-      "elapsedMs": 3316
+      "elapsedMs": 3581
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 2,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 1483
+      "elapsedMs": 1389
     },
     {
       "id": "labrujulaverde",
@@ -98,10 +98,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 13,
+      "kept": 12,
       "droppedOffTopic": 2,
-      "droppedModern": 5,
-      "elapsedMs": 2095
+      "droppedModern": 6,
+      "elapsedMs": 1865
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 1916
+      "elapsedMs": 1928
     },
     {
       "id": "elpais-cultura",
@@ -124,10 +124,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1956
+      "elapsedMs": 1879
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 1,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1161
+      "elapsedMs": 1195
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 7,
       "droppedOffTopic": 11,
       "droppedModern": 2,
-      "elapsedMs": 2004
+      "elapsedMs": 1632
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +162,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 13,
+      "fetched": 14,
       "kept": 7,
       "droppedOffTopic": 6,
-      "droppedModern": 0,
-      "elapsedMs": 1608
+      "droppedModern": 1,
+      "elapsedMs": 1797
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +179,7 @@
       "kept": 6,
       "droppedOffTopic": 14,
       "droppedModern": 4,
-      "elapsedMs": 3302
+      "elapsedMs": 3583
     },
     {
       "id": "sudouest-culture",
@@ -189,10 +189,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 2,
-      "droppedOffTopic": 18,
+      "kept": 0,
+      "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1804
+      "elapsedMs": 1605
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2107
+      "elapsedMs": 2494
     },
     {
       "id": "archeologiaviva",
@@ -215,10 +215,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 1,
+      "kept": 0,
       "droppedOffTopic": 0,
-      "droppedModern": 9,
-      "elapsedMs": 2155
+      "droppedModern": 10,
+      "elapsedMs": 2483
     },
     {
       "id": "stilearte",
@@ -228,10 +228,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 7,
-      "droppedOffTopic": 2,
+      "kept": 6,
+      "droppedOffTopic": 3,
       "droppedModern": 1,
-      "elapsedMs": 2529
+      "elapsedMs": 2711
     },
     {
       "id": "live-science-arch",
@@ -244,7 +244,7 @@
       "kept": 6,
       "droppedOffTopic": 24,
       "droppedModern": 0,
-      "elapsedMs": 2987
+      "elapsedMs": 3224
     },
     {
       "id": "bbc-history",
@@ -257,7 +257,7 @@
       "kept": 1,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1958
+      "elapsedMs": 2042
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +270,7 @@
       "kept": 22,
       "droppedOffTopic": 8,
       "droppedModern": 0,
-      "elapsedMs": 1838
+      "elapsedMs": 2314
     },
     {
       "id": "ancient-origins",
@@ -278,12 +278,9 @@
       "lang": "en",
       "region": "world",
       "kind": "news",
-      "ok": true,
-      "fetched": 10,
-      "kept": 3,
-      "droppedOffTopic": 5,
-      "droppedModern": 2,
-      "elapsedMs": 2145
+      "ok": false,
+      "error": "Unable to parse XML.",
+      "elapsedMs": 6841
     },
     {
       "id": "guardian-arch",
@@ -306,10 +303,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 23,
+      "kept": 22,
       "droppedOffTopic": 6,
-      "droppedModern": 1,
-      "elapsedMs": 1934
+      "droppedModern": 2,
+      "elapsedMs": 2210
     },
     {
       "id": "jas-reports",
@@ -322,7 +319,7 @@
       "kept": 4,
       "droppedOffTopic": 2,
       "droppedModern": 24,
-      "elapsedMs": 1990
+      "elapsedMs": 2113
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +332,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2138
+      "elapsedMs": 2255
     },
     {
       "id": "pnas-arch",
@@ -345,10 +342,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 17,
+      "kept": 16,
       "droppedOffTopic": 7,
-      "droppedModern": 6,
-      "elapsedMs": 3008
+      "droppedModern": 7,
+      "elapsedMs": 2728
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +358,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 22,
-      "elapsedMs": 2035
+      "elapsedMs": 2158
     },
     {
       "id": "spal-us",
@@ -374,7 +371,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 5,
-      "elapsedMs": 3163
+      "elapsedMs": 3120
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +384,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 4428
+      "elapsedMs": 4793
     },
     {
       "id": "archeoarte",
@@ -397,7 +394,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 8992
+      "elapsedMs": 9605
     },
     {
       "id": "cypsela",
@@ -407,7 +404,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 7361
+      "elapsedMs": 7884
     },
     {
       "id": "cambridge-antiquity",
@@ -420,7 +417,7 @@
       "kept": 19,
       "droppedOffTopic": 4,
       "droppedModern": 7,
-      "elapsedMs": 3002
+      "elapsedMs": 3049
     },
     {
       "id": "cambridge-caj",
@@ -433,7 +430,7 @@
       "kept": 18,
       "droppedOffTopic": 7,
       "droppedModern": 5,
-      "elapsedMs": 3230
+      "elapsedMs": 3141
     },
     {
       "id": "cambridge-ejarc",
@@ -446,7 +443,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 2993
+      "elapsedMs": 3101
     },
     {
       "id": "aquitania-persee",
@@ -459,7 +456,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3829
+      "elapsedMs": 4219
     },
     {
       "id": "cuadernos-arq-unav",
@@ -472,7 +469,7 @@
       "kept": 22,
       "droppedOffTopic": 0,
       "droppedModern": 8,
-      "elapsedMs": 3834
+      "elapsedMs": 4537
     },
     {
       "id": "veleia-ehu",
@@ -485,7 +482,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 4181
+      "elapsedMs": 4602
     },
     {
       "id": "flv-navarra",
@@ -498,7 +495,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 3290
+      "elapsedMs": 3472
     },
     {
       "id": "munibe-aa",
@@ -511,7 +508,7 @@
       "kept": 17,
       "droppedOffTopic": 4,
       "droppedModern": 9,
-      "elapsedMs": 3303
+      "elapsedMs": 3541
     },
     {
       "id": "trabajos-prehistoria",
@@ -524,7 +521,7 @@
       "kept": 23,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 3095
+      "elapsedMs": 3523
     },
     {
       "id": "openalex-archaeology",
@@ -534,10 +531,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 14,
-      "droppedOffTopic": 10,
-      "droppedModern": 6,
-      "elapsedMs": 3342
+      "kept": 15,
+      "droppedOffTopic": 8,
+      "droppedModern": 7,
+      "elapsedMs": 3358
     }
   ],
   "items": [
@@ -815,6 +812,21 @@
       },
       "lang": "en",
       "region": "world",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/cerveteri-necropoli-monte-abatone-tombe-etrusche-olla-stamnoide/",
+      "title": "Cerveteri, aprono le tombe etrusche di Monte Abatone e scoprono troni scolpiti, pitture rosse e un vaso con animali. Che significato avevano?",
+      "summary": "Un intervento di messa in sicurezza restituisce nuove testimonianze dalla grande necropoli di Caere. Tra le camere funerarie recuperate emergono arredi intagliati nel tufo, decorazioni dipinte e un’olla stamnoide quasi integra, destinata a essere esposta dopo il restauro. A…",
+      "url": "https://www.stilearte.it/cerveteri-necropoli-monte-abatone-tombe-etrusche-olla-stamnoide/",
+      "image": null,
+      "publishedAt": "2026-11-04T07:10:21.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
       "topics": []
     },
     {
@@ -7763,103 +7775,6 @@
       ]
     },
     {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/08/260804034644.htm",
-      "title": "567-million-year-old fossils rewrite the dawn of animal life",
-      "summary": "A spectacular fossil site in Canada contains 567-million-year-old creatures that may represent some of the earliest animals to move, reproduce sexually, and develop recognizable body plans. The discovery pushes key evolutionary milestones back by up to 10 million years and…",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260804034644.htm",
-      "image": null,
-      "publishedAt": "2026-08-06T00:33:35.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/comment/excavating-the-ca-archive-great-sites-associated-with-the-early-church/",
-      "title": "Excavating the CA archive: Great sites associated with the early church",
-      "summary": "In my previous two columns I explored some of the great religious buildings of Britain; these are primarily known for their medieval and later histories, and for their towering urban architecture. This month, I will move back in time to explore some of the great sites associated…",
-      "url": "https://the-past.com/comment/excavating-the-ca-archive-great-sites-associated-with-the-early-church/",
-      "image": null,
-      "publishedAt": "2026-08-05T17:00:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "erdi-aroa",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/comment/major-oak-has-died/",
-      "title": "Major Oak has died",
-      "summary": "My recent ‘Odd Socs’ column on the Ancient Tree Forum (CA 436) proved to be unexpectedly topical when, on 18 June, it was announced that Sherwood Forest’s 1,200-year-old Major Oak had died. The expressions of sadness that followed showed that many people loved this tree and…",
-      "url": "https://the-past.com/comment/major-oak-has-died/",
-      "image": null,
-      "publishedAt": "2026-08-05T14:00:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/shorts/letters/ca-438-letters-august/",
-      "title": "CA 438 Letters – August",
-      "summary": "Archaeology has been ‘solved’! (or, how we shed some light on dark earth…) It was great to see Cotswold Archaeology’s research into the function of burnt mounds included in ‘Sherds’ (CA 435).",
-      "url": "https://the-past.com/shorts/letters/ca-438-letters-august/",
-      "image": null,
-      "publishedAt": "2026-08-05T13:00:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/08/260804034619.htm",
-      "title": "80-million-year-old snake brain reveals a surprising evolutionary secret",
-      "summary": "An exceptionally preserved snake fossil from Brazil reveals that early snakes were far more diverse than scientists once thought. Detailed brain reconstructions show that Tametara mirim was adapted for burrowing, while another ancient snake was suited to life above ground. Other…",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260804034619.htm",
-      "image": null,
-      "publishedAt": "2026-08-05T11:42:51.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/08/260801093740.htm",
-      "title": "This school-bus-sized “terror croc” ate dinosaurs. Now it’s back",
-      "summary": "A massive crocodilian capable of attacking dinosaurs has been brought back to life as the first scientifically accurate mounted skeleton of Deinosuchus schwimmeri. The 31-foot replica at Georgia’s Tellus Science Museum was built from detailed fossil scans and more than 40 years…",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260801093740.htm",
-      "image": null,
-      "publishedAt": "2026-08-05T10:50:56.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "museoak"
-      ]
-    },
-    {
       "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326001901?dgcid=rss_sd_all",
       "title": "Unpacking the burnt building: 3D spatial analysis challenges single-event interpretations of prehistoric house conflagration",
       "summary": "Publication date: September 2026 Source: Journal of Archaeological Science, Volume 193 Author(s): Victor Klinkenberg, Marina Gavryushkina, Maria Hadjigavriel",
@@ -8848,6 +8763,38 @@
       ]
     },
     {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/11/los-neandertales-ya-dividian-su-hogar-dormian-junto-a-la-pared-y-cocinaban-en-el-centro",
+      "title": "Los neandertales ya dividían su hogar: dormían junto a la pared y cocinaban en el centro",
+      "summary": "Si te alojas en un refugio de montaña, lo normal es que las literas estén pegadas a la pared y que la mesa y la cocina queden en medio. Nadie lo decide en una reunión, es lo que pide el espacio. Algo parecido ocurría hace unos 60.000 años en un abrigo rocoso de Capellades, a […]",
+      "url": "https://www.labrujulaverde.com/2026/11/los-neandertales-ya-dividian-su-hogar-dormian-junto-a-la-pared-y-cocinaban-en-el-centro",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/10/4255_medium-copia.webp",
+      "publishedAt": "2026-11-03T12:22:16.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/5-300-year-old-kidney-stone-the-size-of-a-grape-found-in-bronze-age-mans-burial-near-black-sea",
+      "title": "5,300-year-old kidney stone the size of a grape found in Bronze Age man's burial near Black Sea",
+      "summary": "Researchers identified a 5,300-year-old kidney stone in the burial of a Bronze Age cattle herder in Russia.",
+      "url": "https://www.livescience.com/archaeology/5-300-year-old-kidney-stone-the-size-of-a-grape-found-in-bronze-age-mans-burial-near-black-sea",
+      "image": "https://cdn.mos.cms.futurecdn.net/Ei8JmYB5euRjx7QRaoRvwe-1920-80.png",
+      "publishedAt": "2026-11-03T11:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
       "id": "sudouest-culture:https://www.sudouest.fr/culture/dordogne-saison-de-l-agora-de-boulazac-a-la-plaine-de-lamoura-toute-l-histoire-de-l-humanite-sous-le-chapiteau-d-akoreacro-31175652.php",
       "title": "Dordogne. Saison de l’Agora de Boulazac : à la plaine de Lamoura, toute l’histoire de l’humanité sous le chapiteau d‘Akoreacro",
       "summary": "Treize acrobates et musiciens présenteront « Ostinato », un spectacle qui retrace un parcours allant de la préhistoire à la conquête spatiale",
@@ -8898,6 +8845,38 @@
       "topics": []
     },
     {
+      "id": "cambridge-antiquity:https://openalex.org/W7225078296",
+      "title": "Toxicological studies on the Inca frozen mummies from volcanoes in Peru and Argentina",
+      "summary": "Individuals selected for the Inca capacocha ritual, sacrificed at high-altitude sites to act as messengers to the mountain deities, are occasionally found preserved as frozen mummies, providing key insights into Inca life and religious practices. Here, the authors present…",
+      "url": "https://doi.org/10.15184/aqy.2026.10439",
+      "image": null,
+      "publishedAt": "2026-11-03T00:00:00.000Z",
+      "source": {
+        "id": "cambridge-antiquity",
+        "name": "Antiquity (Cambridge)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "amerika"
+      ]
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7225094141",
+      "title": "A Multi-Sensory Value Perception Deep Map model for smell–sound heritage in historic districts",
+      "summary": "Abstract Historic districts embody heritage value beyond visual form, yet quantitative assessment has overlooked soundscape and smellscape. This study proposes a Multi-Sensory Value Perception Deep Map (MVC-DepthMap) model integrating soundscape, smellscape and Historic Land-Use…",
+      "url": "https://doi.org/10.21203/rs.3.rs-11258508/v1",
+      "image": null,
+      "publishedAt": "2026-11-03T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
       "id": "cuadernos-arq-unav:https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/55963",
       "title": "Conclusione: il «togado de Pompelo», figura maschile",
       "summary": "El examen de la bibliografía más reciente sobre el «togatus de Pompelo» pone de relieve los aspectos determinantes para interpretar la figura como masculina y destinada al ámbito público del foro de la ciudad antigua, en expansión durante la época flavia. Los datos apor tados…",
@@ -8927,6 +8906,24 @@
       "region": "basque",
       "topics": [
         "erromatarrak"
+      ]
+    },
+    {
+      "id": "cuadernos-arq-unav:https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/55957",
+      "title": "La estatua togada de Pamplona: en torno a la indumentaria de la representación",
+      "summary": "La estatua togada de Pompelo, hallada en el área del foro de la ciudad, constituye una pieza excepcional de la escultura romana en Hispania. El artículo analiza su indumentaria, iconografía y aspectos técnicos, cuestionando la interpretación que la identifica de forma…",
+      "url": "https://revistas.unav.edu/index.php/cuadernos-de-arqueologia/article/view/55957",
+      "image": null,
+      "publishedAt": "2026-11-02T23:00:00.000Z",
+      "source": {
+        "id": "cuadernos-arq-unav",
+        "name": "Cuadernos de Arqueología — Univ. de Navarra"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "erromatarrak",
+        "aurkikuntza"
       ]
     }
   ]
