@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T08:09:21.503Z",
+  "generatedAt": "2026-11-07T07:28:08.601Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 4953
+      "elapsedMs": 5463
     },
     {
       "id": "naiz",
@@ -20,10 +20,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 589
+      "elapsedMs": 650
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 690
+      "elapsedMs": 958
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 530
+      "elapsedMs": 710
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2123
+      "elapsedMs": 2560
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 8,
       "droppedOffTopic": 22,
       "droppedModern": 0,
-      "elapsedMs": 2190
+      "elapsedMs": 2565
     },
     {
       "id": "vianako-printzea",
@@ -83,9 +83,12 @@
       "lang": "es",
       "region": "basque",
       "kind": "research",
-      "ok": false,
-      "error": "socket hang up",
-      "elapsedMs": 6486
+      "ok": true,
+      "fetched": 10,
+      "kept": 2,
+      "droppedOffTopic": 3,
+      "droppedModern": 5,
+      "elapsedMs": 1158
     },
     {
       "id": "labrujulaverde",
@@ -96,9 +99,9 @@
       "ok": true,
       "fetched": 20,
       "kept": 12,
-      "droppedOffTopic": 3,
-      "droppedModern": 5,
-      "elapsedMs": 1606
+      "droppedOffTopic": 2,
+      "droppedModern": 6,
+      "elapsedMs": 1617
     },
     {
       "id": "desperta-ferro",
@@ -111,7 +114,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 1410
+      "elapsedMs": 1710
     },
     {
       "id": "elpais-cultura",
@@ -124,7 +127,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 613
+      "elapsedMs": 2132
     },
     {
       "id": "lemonde-sciences",
@@ -134,10 +137,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 2,
-      "droppedOffTopic": 18,
+      "kept": 1,
+      "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 654
+      "elapsedMs": 804
     },
     {
       "id": "lemonde-archeo",
@@ -150,7 +153,7 @@
       "kept": 7,
       "droppedOffTopic": 11,
       "droppedModern": 2,
-      "elapsedMs": 1565
+      "elapsedMs": 1295
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -163,7 +166,7 @@
       "kept": 6,
       "droppedOffTopic": 7,
       "droppedModern": 1,
-      "elapsedMs": 792
+      "elapsedMs": 1212
     },
     {
       "id": "inrap-bsky",
@@ -172,11 +175,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 24,
+      "fetched": 25,
       "kept": 5,
-      "droppedOffTopic": 15,
+      "droppedOffTopic": 16,
       "droppedModern": 4,
-      "elapsedMs": 2204
+      "elapsedMs": 2588
     },
     {
       "id": "sudouest-culture",
@@ -186,10 +189,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 0,
-      "droppedOffTopic": 20,
+      "kept": 1,
+      "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1031
+      "elapsedMs": 1522
     },
     {
       "id": "corriere-cultura",
@@ -202,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1425
+      "elapsedMs": 1631
     },
     {
       "id": "archeologiaviva",
@@ -215,7 +218,7 @@
       "kept": 0,
       "droppedOffTopic": 0,
       "droppedModern": 10,
-      "elapsedMs": 1742
+      "elapsedMs": 1818
     },
     {
       "id": "stilearte",
@@ -225,10 +228,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 5,
-      "droppedOffTopic": 2,
-      "droppedModern": 3,
-      "elapsedMs": 1891
+      "kept": 7,
+      "droppedOffTopic": 1,
+      "droppedModern": 2,
+      "elapsedMs": 1967
     },
     {
       "id": "live-science-arch",
@@ -241,7 +244,7 @@
       "kept": 6,
       "droppedOffTopic": 24,
       "droppedModern": 0,
-      "elapsedMs": 2000
+      "elapsedMs": 2448
     },
     {
       "id": "bbc-history",
@@ -251,10 +254,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 1,
-      "droppedOffTopic": 9,
+      "kept": 0,
+      "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1284
+      "elapsedMs": 1390
     },
     {
       "id": "sciencedaily-arch",
@@ -267,7 +270,7 @@
       "kept": 21,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1484
+      "elapsedMs": 1640
     },
     {
       "id": "ancient-origins",
@@ -280,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1391
+      "elapsedMs": 1614
     },
     {
       "id": "guardian-arch",
@@ -293,7 +296,7 @@
       "kept": 7,
       "droppedOffTopic": 10,
       "droppedModern": 3,
-      "elapsedMs": 1634
+      "elapsedMs": 1767
     },
     {
       "id": "current-archaeology",
@@ -306,7 +309,7 @@
       "kept": 19,
       "droppedOffTopic": 8,
       "droppedModern": 3,
-      "elapsedMs": 1435
+      "elapsedMs": 1492
     },
     {
       "id": "jas-reports",
@@ -319,7 +322,7 @@
       "kept": 4,
       "droppedOffTopic": 2,
       "droppedModern": 24,
-      "elapsedMs": 1369
+      "elapsedMs": 1501
     },
     {
       "id": "plos-one-arch",
@@ -332,7 +335,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1470
+      "elapsedMs": 1809
     },
     {
       "id": "pnas-arch",
@@ -345,7 +348,7 @@
       "kept": 16,
       "droppedOffTopic": 7,
       "droppedModern": 7,
-      "elapsedMs": 1729
+      "elapsedMs": 2212
     },
     {
       "id": "sciencedirect-jas",
@@ -358,7 +361,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 22,
-      "elapsedMs": 1408
+      "elapsedMs": 1667
     },
     {
       "id": "spal-us",
@@ -371,7 +374,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 5,
-      "elapsedMs": 2139
+      "elapsedMs": 2532
     },
     {
       "id": "complutum-ucm",
@@ -384,7 +387,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 3368
+      "elapsedMs": 3885
     },
     {
       "id": "archeoarte",
@@ -394,7 +397,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 7716
+      "elapsedMs": 8279
     },
     {
       "id": "cypsela",
@@ -404,7 +407,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 6461
+      "elapsedMs": 7128
     },
     {
       "id": "cambridge-antiquity",
@@ -414,10 +417,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 18,
+      "kept": 17,
       "droppedOffTopic": 4,
-      "droppedModern": 8,
-      "elapsedMs": 1653
+      "droppedModern": 9,
+      "elapsedMs": 2202
     },
     {
       "id": "cambridge-caj",
@@ -430,7 +433,7 @@
       "kept": 18,
       "droppedOffTopic": 7,
       "droppedModern": 5,
-      "elapsedMs": 1670
+      "elapsedMs": 2285
     },
     {
       "id": "cambridge-ejarc",
@@ -443,7 +446,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 1640
+      "elapsedMs": 2193
     },
     {
       "id": "aquitania-persee",
@@ -456,7 +459,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2620
+      "elapsedMs": 2953
     },
     {
       "id": "cuadernos-arq-unav",
@@ -466,7 +469,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 500",
-      "elapsedMs": 7499
+      "elapsedMs": 8449
     },
     {
       "id": "veleia-ehu",
@@ -479,7 +482,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 2965
+      "elapsedMs": 3314
     },
     {
       "id": "flv-navarra",
@@ -492,7 +495,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2019
+      "elapsedMs": 2443
     },
     {
       "id": "munibe-aa",
@@ -505,7 +508,7 @@
       "kept": 17,
       "droppedOffTopic": 4,
       "droppedModern": 9,
-      "elapsedMs": 2007
+      "elapsedMs": 2474
     },
     {
       "id": "trabajos-prehistoria",
@@ -518,7 +521,7 @@
       "kept": 23,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 2030
+      "elapsedMs": 2314
     },
     {
       "id": "openalex-archaeology",
@@ -528,10 +531,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 16,
-      "droppedOffTopic": 7,
-      "droppedModern": 7,
-      "elapsedMs": 1977
+      "kept": 12,
+      "droppedOffTopic": 9,
+      "droppedModern": 9,
+      "elapsedMs": 2328
     }
   ],
   "items": [
@@ -7629,43 +7632,6 @@
       "topics": []
     },
     {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/08/hallazgo-en-kom-el-khilgan-una-necropolis-que-abarca-desde-el-periodo-predinastico-hasta-las-epocas-grecorromana-y-un-area-residencial-del-segundo-periodo-intermedio",
-      "title": "Hallazgo en Kom el-Khilgan: una necrópolis que abarca desde el periodo predinástico hasta las épocas grecorromana y un área residencial del Segundo Periodo Intermedio",
-      "summary": "La misión arqueológica egipcia dependiente del Consejo Supremo de Antigüedades ha sacado a la luz, durante los trabajos de excavación desarrollados en la zona arqueológica de Kom el-Khilgan, en la gobernación de Dakahlia, una necrópolis cuyos orígenes se remontan al periodo…",
-      "url": "https://www.labrujulaverde.com/2026/08/hallazgo-en-kom-el-khilgan-una-necropolis-que-abarca-desde-el-periodo-predinastico-hasta-las-epocas-grecorromana-y-un-area-residencial-del-segundo-periodo-intermedio",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/08/Imagen-JPEG.webp",
-      "publishedAt": "2026-08-08T15:03:11.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "erromatarrak",
-        "greziarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/08/descubren-un-ingenioso-sistema-de-canales-de-drenaje-oculto-bajo-la-orchestra-del-teatro-romano-de-catania",
-      "title": "Descubren un ingenioso sistema de canales de drenaje oculto bajo la orchestra del teatro romano de Catania",
-      "summary": "Investigadores de la Universidad de Catania, en colaboración con el Parque Arqueológico de Catania y del Valle del Aci, han localizado bajo el escenario del Teatro Antico una red de canales subterráneos que en época romana servía para interceptar y evacuar hacia el mar las aguas…",
-      "url": "https://www.labrujulaverde.com/2026/08/descubren-un-ingenioso-sistema-de-canales-de-drenaje-oculto-bajo-la-orchestra-del-teatro-romano-de-catania",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/08/Foto-a_0.webp",
-      "publishedAt": "2026-08-08T10:00:00.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "erromatarrak",
-        "aurkikuntza"
-      ]
-    },
-    {
       "id": "cambridge-antiquity:https://openalex.org/W7201847137",
       "title": "Steve E. Falconer & Patricia L. Fall. 2025. An archaeological portrait of life in a Bronze Age Cypriot village: scientific explorations at Politiko-Troullia. Leiden: Sidestone; 978-94-6426-367-1 paperback €20 online OpenAccess https://doi.org/10.59641/d4g0a1b2c3",
       "summary": "Steve E. Falconer & Patricia L. Fall. 2025. An archaeological portrait of life in a Bronze Age Cypriot village: scientific explorations at Politiko-Troullia. Leiden: Sidestone; 978-94-6426-367-1 paperback €20 online OpenAccess https://doi.org/10.59641/d4g0a1b2c3",
@@ -8688,6 +8654,124 @@
       ]
     },
     {
+      "id": "openalex-archaeology:https://openalex.org/W7168063681",
+      "title": "Found then lost: excavating archaeology’s past",
+      "summary": "The narratives of discovery on which archaeology’s disciplinary identity depends are predicated on something first being lost. But what is truly lost, and to whom? Drawing on examples from Middle Eastern archaeological archives of the late Ottoman and early mandate period held…",
+      "url": "https://eprints.bbk.ac.uk/id/eprint/57664/1/ARC%207%20CE1%20-%2014%20J.%20A.%20Baird.pdf",
+      "image": null,
+      "publishedAt": "2026-12-01T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sudouest-culture:https://www.sudouest.fr/culture/histoire/anneau-viking-disparu-une-des-pistes-passe-par-la-rochelle-30870588.php",
+      "title": "Anneau viking disparu : une des pistes passe par La Rochelle",
+      "summary": "Maire de La Rochelle jusqu’à la Révolution puis ambassadeur de Napoléon Bonaparte, le baron Alquier reçut avant son retour en France en cadeau un joyau de l’époque viking de la part du roi du Danemark",
+      "url": "https://www.sudouest.fr/culture/histoire/anneau-viking-disparu-une-des-pistes-passe-par-la-rochelle-30870588.php",
+      "image": null,
+      "publishedAt": "2026-11-06T18:00:00.000Z",
+      "source": {
+        "id": "sudouest-culture",
+        "name": "Sud Ouest — Culture"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/scoperto-tesoro-sepolture-germaniche-horbourg-wihr-v-secolo/",
+      "title": "Meraviglioso. Scoperto ora un tesoro di spade, scudi e gioielli in un complesso funerario del V secolo. Chi erano questi guerrieri? E chi le distinte signore?",
+      "summary": "Due tombe maschili custodiscono armi, spade ancora in parte nel fodero ligneo, scudi e preziosi ornamenti in oro, argento e granati. Accanto a loro, sepolture femminili con fibule a forma di uccello, collane di vetro e oggetti personali. A Horbourg-Wihr, presso Colmar, in…",
+      "url": "https://www.stilearte.it/scoperto-tesoro-sepolture-germaniche-horbourg-wihr-v-secolo/",
+      "image": null,
+      "publishedAt": "2026-11-06T17:30:22.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/animals/birds/perfectly-preserved-owl-fossil-from-47-million-years-ago-could-help-to-solve-a-major-evolutionary-mystery",
+      "title": "Perfectly preserved owl fossil from 47 million years ago could help to solve a major evolutionary mystery",
+      "summary": "A stunning fossil owl from Germany that has its last meal preserved in its stomach helped researchers to narrow down the time when these birds mostly became active at night.",
+      "url": "https://www.livescience.com/animals/birds/perfectly-preserved-owl-fossil-from-47-million-years-ago-could-help-to-solve-a-major-evolutionary-mystery",
+      "image": "https://cdn.mos.cms.futurecdn.net/rdxWJJMC6b4ebt3GNnzcPU-1920-80.jpg",
+      "publishedAt": "2026-11-06T17:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/11/los-cubrian-una-y-otra-vez-de-roca-blanca-el-enigma-de-los-372-monticulos-de-nicaragua-levantados-al-mismo-tiempo-que-las-piramides-mayas",
+      "title": "Los cubrían una y otra vez de roca blanca: el enigma de los 372 montículos de Nicaragua levantados al mismo tiempo que las pirámides mayas",
+      "summary": "En el centro de Nicaragua, unos tres kilómetros al norte de la ciudad de Juigalpa, en el departamento de Chontales, hay 372 montículos de tierra y piedra repartidos por más de 30 hectáreas. Es el yacimiento de Aguas Buenas. Cuando se levanta su plano con GPS y estación…",
+      "url": "https://www.labrujulaverde.com/2026/11/los-cubrian-una-y-otra-vez-de-roca-blanca-el-enigma-de-los-372-monticulos-de-nicaragua-levantados-al-mismo-tiempo-que-las-piramides-mayas",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/11/urn-cambridge.org-id-binary-alt-20261103173631-62720-optimisedImage-png-S0003598X26104803_fig2.jpg.webp",
+      "publishedAt": "2026-11-06T11:52:11.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "egiptoarrak",
+        "ekialde-hurbila",
+        "amerika"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/11/el-rey-que-llevo-a-roma-a-invadir-britania-pudo-ser-una-reina-la-controvertida-hipotesis-de-un-arqueologo-britanico",
+      "title": "El «rey» que llevó a Roma a invadir Britania pudo ser una reina, la controvertida hipótesis de un arqueólogo británico",
+      "summary": "El historiador Dión Casio explicó con una frase por qué las legiones romanas cruzaron el canal de la Mancha en el año 43 d. C. La escribió casi dos siglos después de los hechos, en griego, y dice así: Mientras esto ocurría en la ciudad, Aulo Plaucio, senador de gran renombre,…",
+      "url": "https://www.labrujulaverde.com/2026/11/el-rey-que-llevo-a-roma-a-invadir-britania-pudo-ser-una-reina-la-controvertida-hipotesis-de-un-arqueologo-britanico",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/11/6B1ACCE6-7F2B-4FA0-B10A-479814E8EE4F.webp",
+      "publishedAt": "2026-11-06T10:09:18.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak",
+        "greziarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/scoperte-dna-batteri-necropoli-romana-neonati-auxerre/",
+      "title": "Antichi Romani. Un cimitero di neonati. Lo studio individua possibili agenti killer. Quali erano i maggiori pericoli per mamme e bambini? Le risposte arrivano dal DNA antico",
+      "summary": "Ad Auxerre, in Francia, gli archeologi studiano oltre 260 testimonianze funerarie di bambini morti intorno alla nascita, tra il II e il III secolo d.C. Le analisi genetiche individuano tre batteri associati oggi a infezioni e complicazioni ostetriche. La ceramica conserva tracce…",
+      "url": "https://www.stilearte.it/scoperte-dna-batteri-necropoli-romana-neonati-auxerre/",
+      "image": null,
+      "publishedAt": "2026-11-06T09:12:24.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
       "id": "elpais-cultura:https://elpais.com/cultura/2026-11-06/lloyd-llewellyn-jones-historiador-la-mala-reputacion-de-babilonia-es-totalmente-injusta.html",
       "title": "Lloyd Llewellyn-Jones, historiador: “La mala reputación de Babilonia es totalmente injusta”",
       "summary": "El estudioso galés dedica una monografía de seiscientas páginas a revivir y reivindicar la extraordinaria urbe de la antigüedad, denostada en la Biblia como “la gran ramera”",
@@ -8831,86 +8915,6 @@
       },
       "lang": "it",
       "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/11/thrihnukagigur-el-unico-volcan-del-mundo-al-que-puedes-bajar-en-ascensor-120-metros-de-descenso-hasta-su-camara-magmatica",
-      "title": "Thrihnukagigur, el único volcán del mundo al que puedes bajar en ascensor: 120 metros de descenso hasta su cámara magmática",
-      "summary": "Cada verano, siete u ocho personas se suben a una jaula metálica abierta, colgada de una grúa sobre un agujero de apenas cuatro metros de lado, y empiezan a descender. Durante 120 metros la estructura roza las paredes y el agua gotea sobre los cascos, hasta que por fin aparece…",
-      "url": "https://www.labrujulaverde.com/2026/11/thrihnukagigur-el-unico-volcan-del-mundo-al-que-puedes-bajar-en-ascensor-120-metros-de-descenso-hasta-su-camara-magmatica",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/11/21888738800_c99e6a8c72_k.webp",
-      "publishedAt": "2026-11-05T08:37:50.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "sudouest-culture:https://www.sudouest.fr/pyrenees-atlantiques/ascain/pays-basque-le-plus-ancien-objet-archeologique-qui-montre-la-presence-de-l-homme-a-la-rhune-est-un-silex-du-mesolithique-31207162.php",
-      "title": "Pays basque. « Le plus ancien objet archéologique qui montre la présence de l’Homme à la Rhune est un silex du mésolithique »",
-      "summary": "Une étude réalisée par le chargé de mission au CPIE Littoral basque, Imanol Amestoy, explore les traces d’occupation du célèbre massif par l’être humain depuis l’âge de la pierre",
-      "url": "https://www.sudouest.fr/pyrenees-atlantiques/ascain/pays-basque-le-plus-ancien-objet-archeologique-qui-montre-la-presence-de-l-homme-a-la-rhune-est-un-silex-du-mesolithique-31207162.php",
-      "image": null,
-      "publishedAt": "2026-11-05T06:34:00.000Z",
-      "source": {
-        "id": "sudouest-culture",
-        "name": "Sud Ouest — Culture"
-      },
-      "lang": "fr",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/uomo-cintura-romana-e-lebbra-sepolto-barca-germania-fallward/",
-      "title": "Un tronetto, una cintura romana e la lebbra: i risultati delle indagini di laboratorio su un uomo sepolto in barca 1.600 anni fa in Germania. Chi poteva essere?",
-      "summary": "Una barca di quercia lunga oltre quattro metri, una sedia intagliata che sembra un piccolo trono, uno sgabello decorato con una scena di caccia, una cintura militare romana. E, nei denti e nelle ossa del suo proprietario, il DNA di Mycobacterium leprae, il batterio responsabile…",
-      "url": "https://www.stilearte.it/uomo-cintura-romana-e-lebbra-sepolto-barca-germania-fallward/",
-      "image": null,
-      "publishedAt": "2026-11-05T06:14:54.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/current-archaeology/441/comment/excavating-the-ca-archive-the-remains-of-richard-iii/",
-      "title": "Excavating the CA archive: The remains of Richard III",
-      "summary": "In last month’s column, I touched on two medieval monasteries with known but lost royal burials: Hyde Abbey in Winchester and Reading Abbey in Berkshire, the purported resting places of Alfred the Great (849-899) and Henry I (1068-1135) respectively. Source",
-      "url": "https://the-past.com/current-archaeology/441/comment/excavating-the-ca-archive-the-remains-of-richard-iii/",
-      "image": null,
-      "publishedAt": "2026-11-05T05:00:21.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "erdi-aroa",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "openalex-archaeology:https://openalex.org/W7225224089",
-      "title": "Microwear analysis on Pinctada margaritifera tattooing combs from Central East Polynesia",
-      "summary": "Pearl shell tattooing combs form a small corpus in the material culture in Central East Polynesia, providing evidence for traditional methods of tattooing and body modification, and represent a significant form of cultural practice in ancient island communities. Three combs were…",
-      "url": "https://doi.org/10.70460/jpa.v16i1.410",
-      "image": null,
-      "publishedAt": "2026-11-05T00:00:00.000Z",
-      "source": {
-        "id": "openalex-archaeology",
-        "name": "OpenAlex — Arkeologia (mundua)"
-      },
-      "lang": "en",
-      "region": "world",
       "topics": []
     }
   ]
