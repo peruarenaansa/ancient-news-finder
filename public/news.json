@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T07:28:08.601Z",
+  "generatedAt": "2026-11-08T07:38:39.675Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5463
+      "elapsedMs": 6343
     },
     {
       "id": "naiz",
@@ -20,10 +20,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 0,
-      "droppedOffTopic": 30,
+      "kept": 1,
+      "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 650
+      "elapsedMs": 879
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 958
+      "elapsedMs": 1052
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 710
+      "elapsedMs": 859
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2560
+      "elapsedMs": 3499
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 8,
       "droppedOffTopic": 22,
       "droppedModern": 0,
-      "elapsedMs": 2565
+      "elapsedMs": 3494
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 2,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 1158
+      "elapsedMs": 1269
     },
     {
       "id": "labrujulaverde",
@@ -101,7 +101,7 @@
       "kept": 12,
       "droppedOffTopic": 2,
       "droppedModern": 6,
-      "elapsedMs": 1617
+      "elapsedMs": 1672
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 1710
+      "elapsedMs": 1658
     },
     {
       "id": "elpais-cultura",
@@ -124,10 +124,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2132
+      "elapsedMs": 926
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 1,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 804
+      "elapsedMs": 1063
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 7,
       "droppedOffTopic": 11,
       "droppedModern": 2,
-      "elapsedMs": 1295
+      "elapsedMs": 1787
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +162,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 14,
-      "kept": 6,
+      "fetched": 13,
+      "kept": 5,
       "droppedOffTopic": 7,
       "droppedModern": 1,
-      "elapsedMs": 1212
+      "elapsedMs": 1522
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +179,7 @@
       "kept": 5,
       "droppedOffTopic": 16,
       "droppedModern": 4,
-      "elapsedMs": 2588
+      "elapsedMs": 3498
     },
     {
       "id": "sudouest-culture",
@@ -192,7 +192,7 @@
       "kept": 1,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1522
+      "elapsedMs": 1955
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1631
+      "elapsedMs": 2021
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 0,
       "droppedOffTopic": 0,
       "droppedModern": 10,
-      "elapsedMs": 1818
+      "elapsedMs": 2428
     },
     {
       "id": "stilearte",
@@ -231,7 +231,7 @@
       "kept": 7,
       "droppedOffTopic": 1,
       "droppedModern": 2,
-      "elapsedMs": 1967
+      "elapsedMs": 2509
     },
     {
       "id": "live-science-arch",
@@ -241,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 6,
-      "droppedOffTopic": 24,
+      "kept": 4,
+      "droppedOffTopic": 26,
       "droppedModern": 0,
-      "elapsedMs": 2448
+      "elapsedMs": 3411
     },
     {
       "id": "bbc-history",
@@ -257,7 +257,7 @@
       "kept": 0,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1390
+      "elapsedMs": 1970
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +270,7 @@
       "kept": 21,
       "droppedOffTopic": 9,
       "droppedModern": 0,
-      "elapsedMs": 1640
+      "elapsedMs": 1943
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1614
+      "elapsedMs": 2034
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 7,
       "droppedOffTopic": 10,
       "droppedModern": 3,
-      "elapsedMs": 1767
+      "elapsedMs": 2309
     },
     {
       "id": "current-archaeology",
@@ -306,10 +306,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 19,
-      "droppedOffTopic": 8,
-      "droppedModern": 3,
-      "elapsedMs": 1492
+      "kept": 15,
+      "droppedOffTopic": 7,
+      "droppedModern": 8,
+      "elapsedMs": 2085
     },
     {
       "id": "jas-reports",
@@ -319,10 +319,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 4,
-      "droppedOffTopic": 2,
-      "droppedModern": 24,
-      "elapsedMs": 1501
+      "kept": 5,
+      "droppedOffTopic": 3,
+      "droppedModern": 22,
+      "elapsedMs": 2058
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +335,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1809
+      "elapsedMs": 2196
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 16,
       "droppedOffTopic": 7,
       "droppedModern": 7,
-      "elapsedMs": 2212
+      "elapsedMs": 2662
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +361,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 22,
-      "elapsedMs": 1667
+      "elapsedMs": 2123
     },
     {
       "id": "spal-us",
@@ -374,7 +374,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 5,
-      "elapsedMs": 2532
+      "elapsedMs": 3501
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +387,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 3885
+      "elapsedMs": 4757
     },
     {
       "id": "archeoarte",
@@ -397,7 +397,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 8279
+      "elapsedMs": 9408
     },
     {
       "id": "cypsela",
@@ -407,7 +407,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 7128
+      "elapsedMs": 8059
     },
     {
       "id": "cambridge-antiquity",
@@ -420,7 +420,7 @@
       "kept": 17,
       "droppedOffTopic": 4,
       "droppedModern": 9,
-      "elapsedMs": 2202
+      "elapsedMs": 3187
     },
     {
       "id": "cambridge-caj",
@@ -433,7 +433,7 @@
       "kept": 18,
       "droppedOffTopic": 7,
       "droppedModern": 5,
-      "elapsedMs": 2285
+      "elapsedMs": 3212
     },
     {
       "id": "cambridge-ejarc",
@@ -446,7 +446,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 2193
+      "elapsedMs": 3137
     },
     {
       "id": "aquitania-persee",
@@ -459,7 +459,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2953
+      "elapsedMs": 3954
     },
     {
       "id": "cuadernos-arq-unav",
@@ -469,7 +469,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 500",
-      "elapsedMs": 8449
+      "elapsedMs": 9475
     },
     {
       "id": "veleia-ehu",
@@ -482,7 +482,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3314
+      "elapsedMs": 4317
     },
     {
       "id": "flv-navarra",
@@ -495,7 +495,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2443
+      "elapsedMs": 3390
     },
     {
       "id": "munibe-aa",
@@ -508,7 +508,7 @@
       "kept": 17,
       "droppedOffTopic": 4,
       "droppedModern": 9,
-      "elapsedMs": 2474
+      "elapsedMs": 3513
     },
     {
       "id": "trabajos-prehistoria",
@@ -521,7 +521,7 @@
       "kept": 23,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 2314
+      "elapsedMs": 3552
     },
     {
       "id": "openalex-archaeology",
@@ -534,7 +534,7 @@
       "kept": 12,
       "droppedOffTopic": 9,
       "droppedModern": 9,
-      "elapsedMs": 2328
+      "elapsedMs": 3483
     }
   ],
   "items": [
@@ -7600,38 +7600,6 @@
       ]
     },
     {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/08/los-neandertales-de-una-cueva-del-norte-de-espana-ya-fabricaban-y-reutilizaban-herramientas-de-hueso-de-forma-estandarizada-y-planificada",
-      "title": "Los neandertales de una cueva del norte de España ya fabricaban y reutilizaban herramientas de hueso de forma estandarizada y planificada",
-      "summary": "Un equipo de investigadores de la Universidad de Burgos y la Fundación Atapuerca ha publicado el primer análisis detallado de los retocadores de hueso hallados en la cueva de Valdegoba, en el municipio de Huérmeces (Burgos). Este yacimiento, ocupado por neandertales durante el…",
-      "url": "https://www.labrujulaverde.com/2026/08/los-neandertales-de-una-cueva-del-norte-de-espana-ya-fabricaban-y-reutilizaban-herramientas-de-hueso-de-forma-estandarizada-y-planificada",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/08/36D785B6-3587-4181-9BF7-EE3BE72FB3AClabrujulaverde.com_.webp",
-      "publishedAt": "2026-08-09T14:19:39.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/08/se-han-encontrado-muchos-fosiles-de-dinosaurios-con-piedras-en-el-estomago-por-que-las-tragaban-voluntariamente",
-      "title": "Se han encontrado muchos fósiles de dinosaurios con piedras en el estómago, ¿por qué las tragaban voluntariamente?",
-      "summary": "Durante décadas, los paleontólogos han utilizado la presencia de piedras en el interior del esqueleto de los dinosaurios como un indicador de que el animal era herbívoro. Estas piedras, conocidas como gastrolitos, se han encontrado en numerosas especies y se asumía que servían…",
-      "url": "https://www.labrujulaverde.com/2026/08/se-han-encontrado-muchos-fosiles-de-dinosaurios-con-piedras-en-el-estomago-por-que-las-tragaban-voluntariamente",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/08/Caudipteryx_zoui_BPV_085_gastroliths.webp",
-      "publishedAt": "2026-08-09T09:09:20.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": []
-    },
-    {
       "id": "cambridge-antiquity:https://openalex.org/W7201847137",
       "title": "Steve E. Falconer & Patricia L. Fall. 2025. An archaeological portrait of life in a Bronze Age Cypriot village: scientific explorations at Politiko-Troullia. Leiden: Sidestone; 978-94-6426-367-1 paperback €20 online OpenAccess https://doi.org/10.59641/d4g0a1b2c3",
       "summary": "Steve E. Falconer & Patricia L. Fall. 2025. An archaeological portrait of life in a Bronze Age Cypriot village: scientific explorations at Politiko-Troullia. Leiden: Sidestone; 978-94-6426-367-1 paperback €20 online OpenAccess https://doi.org/10.59641/d4g0a1b2c3",
@@ -8671,6 +8639,121 @@
       ]
     },
     {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26006012?dgcid=rss_sd_all",
+      "title": "Changing functions of grinding stones across the Paleolithic–Neolithic transition in North China: a case study from Peiligang site",
+      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): Ran Chen, Yongqiang Li, Xingcan Chen, Wanfa Gu",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26006012?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-11-08T07:38:32.218Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "asia"
+      ]
+    },
+    {
+      "id": "sudouest-culture:https://www.sudouest.fr/culture/histoire/archeologie-en-charente-maritime-a-saint-agnant-un-site-vieux-de-vingt-siecles-rare-et-de-grand-luxe-31425075.php",
+      "title": "Archéologie en Charente-Maritime : à Saint-Agnant, un site vieux de vingt siècles, rare et de grand luxe",
+      "summary": "À Saint-Agnant, un ensemble monumental du Ier siècle avait été révélé et étudié dans les années 70. La Drac vient de le fouiller : l’état de conservation et l’ampleur du site sont exceptionnels",
+      "url": "https://www.sudouest.fr/culture/histoire/archeologie-en-charente-maritime-a-saint-agnant-un-site-vieux-de-vingt-siecles-rare-et-de-grand-luxe-31425075.php",
+      "image": null,
+      "publishedAt": "2026-11-08T05:00:00.000Z",
+      "source": {
+        "id": "sudouest-culture",
+        "name": "Sud Ouest — Culture"
+      },
+      "lang": "fr",
+      "region": "basque",
+      "topics": []
+    },
+    {
+      "id": "naiz:https://www.naiz.eus/info/noticia/20261108/sertorio-el-senor-de-la-guerra-romano-que-provoco-el-tragico-final-de-irulegi",
+      "title": "Sertorio, el señor de la guerra romano que provocó el trágico final de Irulegi",
+      "summary": "",
+      "url": "https://www.naiz.eus/info/noticia/20261108/sertorio-el-senor-de-la-guerra-romano-que-provoco-el-tragico-final-de-irulegi",
+      "image": "https://www.naiz.eus/media/asset_publics/resources/001/376/950/news_landscape/01_sertorio_principal.jpg",
+      "publishedAt": "2026-11-08T04:46:00.000Z",
+      "source": {
+        "id": "naiz",
+        "name": "Naiz"
+      },
+      "lang": "eu",
+      "region": "basque",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/11/alfonso-maria-de-borbon-y-borbon-el-aristocrata-espanol-que-tenia-88-nombres-entre-ellos-isabel-luis-rey-de-francia-alfacio-y-tereso",
+      "title": "Alfonso María de Borbón y Borbón, el aristócrata español que tenía 88 nombres, entre ellos Isabel, Luis-Rey-de-Francia, Alfacio y Tereso",
+      "summary": "Tataranieto de Carlos III, hijo de un matrimonio principesco carlista y primo del rey Alfonso XII, Alfonso María de Borbón y Borbón no recibió de la Corona el título de infante, aunque el pretendiente Carlista Alfonso Carlos I sí le nombró príncipe y además llegó a ser…",
+      "url": "https://www.labrujulaverde.com/2026/11/alfonso-maria-de-borbon-y-borbon-el-aristocrata-espanol-que-tenia-88-nombres-entre-ellos-isabel-luis-rey-de-francia-alfacio-y-tereso",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/11/Alfonso-Maria-Nombres-labrujulaverde.com_.webp",
+      "publishedAt": "2026-11-07T13:53:17.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/military-history/155/ideas/war-of-words-mutiny/",
+      "title": "War of Words – ‘Mutiny’",
+      "summary": "with Marc DeSantis Source",
+      "url": "https://the-past.com/military-history/155/ideas/war-of-words-mutiny/",
+      "image": null,
+      "publishedAt": "2026-11-07T12:30:00.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/11/un-puerto-romano-anterior-a-adriano-y-una-bodega-frente-al-mar-donde-se-preparaba-el-vino-para-embarcarlo-descubiertos-en-el-sur-de-italia",
+      "title": "Un puerto romano anterior a Adriano y una bodega frente al mar donde se preparaba el vino para embarcarlo, descubiertos en el sur de Italia",
+      "summary": "Quien busque el puerto romano de Lecce acabará en San Cataldo, un pequeño núcleo costero a unos diez kilómetros de la ciudad, donde todavía asoma sobre el agua el llamado muelle de Adriano, considerado la estructura portuaria romana mejor conservada de Apulia. Sin embargo, la…",
+      "url": "https://www.labrujulaverde.com/2026/11/un-puerto-romano-anterior-a-adriano-y-una-bodega-frente-al-mar-donde-se-preparaba-el-vino-para-embarcarlo-descubiertos-en-el-sur-de-italia",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/11/cesine-1.webp",
+      "publishedAt": "2026-11-07T10:45:26.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "basque",
+      "topics": [
+        "erromatarrak",
+        "iberiarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/affreschi-romani-huerta-de-otero-merida/",
+      "title": "Accanto al mosaico della Medusa scoperti affreschi romani straordinari: pavoni, cigni e banchetti di Dioniso in una domus aristocratica. La fondazione degli italici",
+      "summary": "Un cortile porticato restituisce decorazioni pittoriche dai colori ancora vividi, grandi alberi, animali e scene mitologiche. La scoperta amplia la conoscenza di una delle più ricche dimore romane della città spagnola, costruita tra il I e l’inizio del II secolo d.C. A Mérida,…",
+      "url": "https://www.stilearte.it/affreschi-romani-huerta-de-otero-merida/",
+      "image": null,
+      "publishedAt": "2026-11-07T07:37:25.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
       "id": "sudouest-culture:https://www.sudouest.fr/culture/histoire/anneau-viking-disparu-une-des-pistes-passe-par-la-rochelle-30870588.php",
       "title": "Anneau viking disparu : une des pistes passe par La Rochelle",
       "summary": "Maire de La Rochelle jusqu’à la Révolution puis ambassadeur de Napoléon Bonaparte, le baron Alquier reçut avant son retour en France en cadeau un joyau de l’époque viking de la part du roi du Danemark",
@@ -8833,88 +8916,6 @@
       },
       "lang": "es",
       "region": "world",
-      "topics": []
-    },
-    {
-      "id": "guardian-arch:https://www.theguardian.com/uk-news/2026/nov/05/origin-stonehenge-altar-remains-enigma-north-east-scotland-ruled-out",
-      "title": "Origin of Stonehenge’s altar remains enigma as north-east Scotland theory ruled out",
-      "summary": "Geologists say they are getting closer to solving mystery as tests suggest stone may have come from elsewhere in Scotland, northern England or even Ireland They spent countless hours on weather-battered Scottish hills, a hardy band of geologists searching for the origin of one…",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/05/origin-stonehenge-altar-remains-enigma-north-east-scotland-ruled-out",
-      "image": "https://i.guim.co.uk/img/media/5420f90edcae520cf428b04c87a177cbd7445fc8/95_0_3338_2671/master/3338.jpg?width=140&quality=85&auto=format&fit=max&s=8c40fc2b10fb36923702b1247403a50f",
-      "publishedAt": "2026-11-05T14:26:52.000Z",
-      "source": {
-        "id": "guardian-arch",
-        "name": "The Guardian — Archaeology"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/11/hallan-los-esqueletos-de-tres-ninos-bajo-el-suelo-del-templo-griego-mejor-conservado-de-sicilia-que-se-salvo-porque-se-convirtio-en-iglesia",
-      "title": "Hallan los esqueletos de tres niños bajo el suelo del templo griego mejor conservado de Sicilia, que se salvó porque se convirtió en iglesia",
-      "summary": "Hacia el 440-430 a. C. los habitantes de la colonia griega de Akragas levantaron en una loma de la costa sur de Sicilia un templo dórico de 39,42 metros de largo por 16,92 de ancho. Tiene seis columnas en cada fachada y trece a cada lado, y casi nueve metros de altura. Hoy lo…",
-      "url": "https://www.labrujulaverde.com/2026/11/hallan-los-esqueletos-de-tres-ninos-bajo-el-suelo-del-templo-griego-mejor-conservado-de-sicilia-que-se-salvo-porque-se-convirtio-en-iglesia",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/11/concordia-temple-1.webp",
-      "publishedAt": "2026-11-05T11:22:56.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "greziarrak",
-        "ekialde-hurbila"
-      ]
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/planet-earth/plants/a-tiny-chunk-of-australia-seeded-southeast-asias-tropical-forests-150-million-years-ago-plant-fossils-preserved-in-amber-reveal",
-      "title": "A tiny chunk of Australia seeded Southeast Asia's tropical forests 50 million years ago, plant fossils preserved in amber reveal",
-      "summary": "An analysis of plant fossils preserved in amber from Myanmar revealed that the West Burma Block, a chunk of crust that broke off of Australia, seeded Southeast Asia's lush tropical forests.",
-      "url": "https://www.livescience.com/planet-earth/plants/a-tiny-chunk-of-australia-seeded-southeast-asias-tropical-forests-150-million-years-ago-plant-fossils-preserved-in-amber-reveal",
-      "image": "https://cdn.mos.cms.futurecdn.net/L225zeeeuA9Cxu5snGuNjU-1920-80.jpg",
-      "publishedAt": "2026-11-05T09:41:45.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/11/descubren-tronos-de-piedra-tallados-en-la-roca-y-paredes-pintadas-de-rojo-en-la-necropolis-etrusca-de-cerveteri",
-      "title": "Descubren tronos de piedra tallados en la roca y paredes pintadas de rojo en la necrópolis etrusca de Cerveteri",
-      "summary": "Varias tumbas de la necrópolis de Monte Abatone, situada junto a Cerveteri y a unos 40 kilómetros al noroeste de Roma, habían sufrido derrumbes y no aguantaban mucho más, de modo que hubo que actuar deprisa: abrir de nuevo los accesos, retirar con cuidado la tierra que las…",
-      "url": "https://www.labrujulaverde.com/2026/11/descubren-tronos-de-piedra-tallados-en-la-roca-y-paredes-pintadas-de-rojo-en-la-necropolis-etrusca-de-cerveteri",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/11/885362345_977144188451283_6022250454021431622_n.png.webp",
-      "publishedAt": "2026-11-05T09:34:53.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/israele-studente-amuleto-egizio-3300-anni-tel-gezer/",
-      "title": "Studente di 17 anni trova un amuleto egizio di 3.300 anni durante una gita: era lì, per terra, davanti ai suoi piedi",
-      "summary": "Immaginate la scena. Una gita scolastica, una visita a un antico sito archeologico, la guida che racconta la storia di una città vissuta migliaia di anni fa. Gli studenti ascoltano, guardano le rovine, magari scattano qualche fotografia. Poi uno di loro abbassa gli occhi e nota…",
-      "url": "https://www.stilearte.it/israele-studente-amuleto-egizio-3300-anni-tel-gezer/",
-      "image": null,
-      "publishedAt": "2026-11-05T09:10:37.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
       "topics": []
     }
   ]
