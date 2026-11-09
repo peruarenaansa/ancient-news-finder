@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T07:38:39.675Z",
+  "generatedAt": "2026-11-09T08:16:48.772Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 6343
+      "elapsedMs": 5892
     },
     {
       "id": "naiz",
@@ -20,10 +20,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 879
+      "elapsedMs": 804
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1052
+      "elapsedMs": 3956
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 859
+      "elapsedMs": 1062
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3499
+      "elapsedMs": 3165
     },
     {
       "id": "aranzadi-bsky",
@@ -72,10 +72,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 8,
-      "droppedOffTopic": 22,
+      "kept": 7,
+      "droppedOffTopic": 23,
       "droppedModern": 0,
-      "elapsedMs": 3494
+      "elapsedMs": 3248
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 2,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 1269
+      "elapsedMs": 1326
     },
     {
       "id": "labrujulaverde",
@@ -98,10 +98,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 12,
+      "kept": 13,
       "droppedOffTopic": 2,
-      "droppedModern": 6,
-      "elapsedMs": 1672
+      "droppedModern": 5,
+      "elapsedMs": 1913
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 1658
+      "elapsedMs": 1231
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 926
+      "elapsedMs": 1874
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 1,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1063
+      "elapsedMs": 1152
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 7,
       "droppedOffTopic": 11,
       "droppedModern": 2,
-      "elapsedMs": 1787
+      "elapsedMs": 1157
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -166,7 +166,7 @@
       "kept": 5,
       "droppedOffTopic": 7,
       "droppedModern": 1,
-      "elapsedMs": 1522
+      "elapsedMs": 1682
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +179,7 @@
       "kept": 5,
       "droppedOffTopic": 16,
       "droppedModern": 4,
-      "elapsedMs": 3498
+      "elapsedMs": 3385
     },
     {
       "id": "sudouest-culture",
@@ -189,10 +189,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 1,
-      "droppedOffTopic": 19,
+      "kept": 0,
+      "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1955
+      "elapsedMs": 2070
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2021
+      "elapsedMs": 2245
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 0,
       "droppedOffTopic": 0,
       "droppedModern": 10,
-      "elapsedMs": 2428
+      "elapsedMs": 2552
     },
     {
       "id": "stilearte",
@@ -228,10 +228,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 7,
-      "droppedOffTopic": 1,
-      "droppedModern": 2,
-      "elapsedMs": 2509
+      "kept": 9,
+      "droppedOffTopic": 0,
+      "droppedModern": 1,
+      "elapsedMs": 2448
     },
     {
       "id": "live-science-arch",
@@ -241,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 4,
-      "droppedOffTopic": 26,
+      "kept": 6,
+      "droppedOffTopic": 24,
       "droppedModern": 0,
-      "elapsedMs": 3411
+      "elapsedMs": 2944
     },
     {
       "id": "bbc-history",
@@ -257,7 +257,7 @@
       "kept": 0,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1970
+      "elapsedMs": 1916
     },
     {
       "id": "sciencedaily-arch",
@@ -267,10 +267,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 21,
-      "droppedOffTopic": 9,
+      "kept": 22,
+      "droppedOffTopic": 8,
       "droppedModern": 0,
-      "elapsedMs": 1943
+      "elapsedMs": 1879
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 2034
+      "elapsedMs": 1984
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 7,
       "droppedOffTopic": 10,
       "droppedModern": 3,
-      "elapsedMs": 2309
+      "elapsedMs": 2258
     },
     {
       "id": "current-archaeology",
@@ -307,9 +307,9 @@
       "ok": true,
       "fetched": 30,
       "kept": 15,
-      "droppedOffTopic": 7,
-      "droppedModern": 8,
-      "elapsedMs": 2085
+      "droppedOffTopic": 5,
+      "droppedModern": 10,
+      "elapsedMs": 2911
     },
     {
       "id": "jas-reports",
@@ -322,7 +322,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 22,
-      "elapsedMs": 2058
+      "elapsedMs": 2003
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +335,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2196
+      "elapsedMs": 2302
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 16,
       "droppedOffTopic": 7,
       "droppedModern": 7,
-      "elapsedMs": 2662
+      "elapsedMs": 2865
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +361,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 22,
-      "elapsedMs": 2123
+      "elapsedMs": 2064
     },
     {
       "id": "spal-us",
@@ -374,7 +374,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 5,
-      "elapsedMs": 3501
+      "elapsedMs": 3096
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +387,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 4757
+      "elapsedMs": 4309
     },
     {
       "id": "archeoarte",
@@ -397,7 +397,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 9408
+      "elapsedMs": 9200
     },
     {
       "id": "cypsela",
@@ -407,7 +407,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 8059
+      "elapsedMs": 7809
     },
     {
       "id": "cambridge-antiquity",
@@ -420,7 +420,7 @@
       "kept": 17,
       "droppedOffTopic": 4,
       "droppedModern": 9,
-      "elapsedMs": 3187
+      "elapsedMs": 3017
     },
     {
       "id": "cambridge-caj",
@@ -433,7 +433,7 @@
       "kept": 18,
       "droppedOffTopic": 7,
       "droppedModern": 5,
-      "elapsedMs": 3212
+      "elapsedMs": 3155
     },
     {
       "id": "cambridge-ejarc",
@@ -446,7 +446,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 3137
+      "elapsedMs": 2708
     },
     {
       "id": "aquitania-persee",
@@ -459,7 +459,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3954
+      "elapsedMs": 3745
     },
     {
       "id": "cuadernos-arq-unav",
@@ -469,7 +469,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 500",
-      "elapsedMs": 9475
+      "elapsedMs": 9300
     },
     {
       "id": "veleia-ehu",
@@ -482,7 +482,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 4317
+      "elapsedMs": 4180
     },
     {
       "id": "flv-navarra",
@@ -495,7 +495,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 3390
+      "elapsedMs": 3209
     },
     {
       "id": "munibe-aa",
@@ -508,7 +508,7 @@
       "kept": 17,
       "droppedOffTopic": 4,
       "droppedModern": 9,
-      "elapsedMs": 3513
+      "elapsedMs": 3242
     },
     {
       "id": "trabajos-prehistoria",
@@ -521,7 +521,7 @@
       "kept": 23,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 3552
+      "elapsedMs": 3316
     },
     {
       "id": "openalex-archaeology",
@@ -534,7 +534,7 @@
       "kept": 12,
       "droppedOffTopic": 9,
       "droppedModern": 9,
-      "elapsedMs": 3483
+      "elapsedMs": 3252
     }
   ],
   "items": [
@@ -7548,41 +7548,6 @@
       ]
     },
     {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/08/encuentran-en-guadalupe-los-cimientos-de-la-desaparecida-hospederia-de-los-reyes-catolicos",
-      "title": "Encuentran en Guadalupe los cimientos de la desaparecida Hospedería de los Reyes Católicos",
-      "summary": "Las excavaciones realizadas durante el pasado mes de julio en el conjunto monumental de Guadalupe han sacado a la luz los restos cimentarios de la que fuera Hospedería de los Reyes Católicos, un edificio histórico desaparecido que nada tiene que ver con la actual Hospedería del…",
-      "url": "https://www.labrujulaverde.com/2026/08/encuentran-en-guadalupe-los-cimientos-de-la-desaparecida-hospederia-de-los-reyes-catolicos",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/08/Imagen-WebP-4.webp",
-      "publishedAt": "2026-08-11T07:00:00.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "erdi-aroa",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/08/260808234956.htm",
-      "title": "240-million-year-old reptile fossil reveals a lost chapter before dinosaurs and crocodiles",
-      "summary": "A 240-million-year-old reptile discovered in Brazil is revealing what evolution looked like just before the rise of dinosaurs and crocodiles. The small predator had unusually positioned legs that may have allowed it to move more efficiently than many earlier reptiles. Its close…",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260808234956.htm",
-      "image": null,
-      "publishedAt": "2026-08-10T11:40:02.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
       "id": "cambridge-antiquity:https://openalex.org/W7202074368",
       "title": "Koskarlı Cave: excavations at an Epipalaeolithic site in the eastern Black Sea region of Türkiye",
       "summary": "Excavations at Koskarlı Cave in Türkiye’s eastern Black Sea region (Trabzon) have identified in situ Epipalaeolithic ( c . 12 900–12 000 cal BC) occupation. As the first systematic investigation of this period in this region, Koskarlı provides a new reference point for exploring…",
@@ -8639,6 +8604,210 @@
       ]
     },
     {
+      "id": "stilearte:https://www.stilearte.it/la-cattedrale-nel-deserto-scoperta-una-gigantesca-chiesa-cristiana-medievale-in-sudan-e-il-doppio-della-casa-bianca-che-ci-faceva-in-quel-punto-che-funzione-aveva/",
+      "title": "La cattedrale nel deserto. Scoperta una gigantesca chiesa cristiana medievale in Sudan. E’ il doppio della Casa Bianca. Che ci faceva in quel punto? Che funzione aveva?",
+      "summary": "Era uno dei più importanti centri religiosi della Nubia cristiana. La monumentale costruzione, lunga 57 metri, potrebbe aver influenzato l’architettura sacra di un’intera regione africana. Accanto alla grande chiesa emerge un secondo edificio di culto, con pitture e frammenti di…",
+      "url": "https://www.stilearte.it/la-cattedrale-nel-deserto-scoperta-una-gigantesca-chiesa-cristiana-medievale-in-sudan-e-il-doppio-della-casa-bianca-che-ci-faceva-in-quel-punto-che-funzione-aveva/",
+      "image": null,
+      "publishedAt": "2026-11-09T07:52:33.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/scoperta-officina-romana-gioielli-spille-smaltate-mancot/",
+      "title": "Lavori per nuove case. Scoperto un quartiere romano e l’officina di un gioielliere. Trovate fibule e stampi. Soggetti femminili? Come si realizzavano questi prodotti e per chi.? Lo smalto e l’alveare",
+      "summary": "Nel Flintshire, a Mancot, gli archeologi hanno individuato un insediamento forse già frequentato nell’età del Ferro, con un’officina specializzata nella produzione di fibule.Matrici in piombo, gioielli policromi, ceramiche e monete imperiali documentano un’attività economica…",
+      "url": "https://www.stilearte.it/scoperta-officina-romana-gioielli-spille-smaltate-mancot/",
+      "image": null,
+      "publishedAt": "2026-11-09T07:09:27.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/11/261106174535.htm",
+      "title": "An ancient ocean full of giant predators reveals a surprising twist in evolution",
+      "summary": "A remarkable fossil discovery in Colombia is challenging how scientists understand major evolutionary changes in Earth's history. Researchers uncovered an incredibly diverse ancient marine ecosystem where giant reptiles, sharks, and other creatures thrived as older evolutionary…",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm",
+      "image": null,
+      "publishedAt": "2026-11-08T22:45:01.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/military-history/155/books/pasts-otherwise-an-archaeology-of-war/",
+      "title": "Pasts Otherwise: an archaeology of war",
+      "summary": "This intriguing and challenging book argues against a purely historical account of war and its aftermath. In that sense, it is part of the modern study of conflict archaeology rather than traditional battlefield or military investigations. It is also much more than this. The…",
+      "url": "https://the-past.com/military-history/155/books/pasts-otherwise-an-archaeology-of-war/",
+      "image": null,
+      "publishedAt": "2026-11-08T17:30:00.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/rare-fifth-century-burials-of-germanic-chieftains-with-dazzling-weapons-and-warhorses-discovered-in-france",
+      "title": "Rare fifth-century burials of Germanic chieftains with dazzling weapons and warhorses discovered in France",
+      "summary": "Archaeologists found a small cemetery full of high-status burials, two of which may be the graves of Germanic chieftains.",
+      "url": "https://www.livescience.com/archaeology/rare-fifth-century-burials-of-germanic-chieftains-with-dazzling-weapons-and-warhorses-discovered-in-france",
+      "image": "https://cdn.mos.cms.futurecdn.net/RcCBnjtjMcQa5A9fsFkht9-1920-80.png",
+      "publishedAt": "2026-11-08T13:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/space/astronomy/nasas-destroyed-swift-observatory-took-one-of-the-best-ever-photos-of-bright-andromeda-space-photo-of-the-week",
+      "title": "NASA's destroyed Swift Observatory took one of the best-ever photos of bright Andromeda",
+      "summary": "NASA's Swift Observatory went out in a blaze of glory this week, but it left behind millions of images of the universe that could fuel discoveries for decades.",
+      "url": "https://www.livescience.com/space/astronomy/nasas-destroyed-swift-observatory-took-one-of-the-best-ever-photos-of-bright-andromeda-space-photo-of-the-week",
+      "image": "https://cdn.mos.cms.futurecdn.net/rXxN2F9wNHHiivkuyJWMSh-1920-80.jpg",
+      "publishedAt": "2026-11-08T11:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/11/un-pueblo-de-cazadores-cruzo-el-norte-del-mediterraneo-hace-30000-anos-llevando-un-nuevo-tipo-de-herramienta-de-piedra-de-cantabria-al-sur-de-italia",
+      "title": "Un pueblo de cazadores cruzó el norte del Mediterráneo hace 30.000 años llevando un nuevo tipo de herramienta de piedra de Cantabria al sur de Italia",
+      "summary": "Los arqueólogos que excavaban en Riparo Mochi sabían exactamente qué querían cuando dieron con una hoguera prehistórica enterrada entre grandes bloques de roca: carbón para datarla. Pero las muestras de carbón se perdieron de la peor manera posible, porque alguien las robó antes…",
+      "url": "https://www.labrujulaverde.com/2026/11/un-pueblo-de-cazadores-cruzo-el-norte-del-mediterraneo-hace-30000-anos-llevando-un-nuevo-tipo-de-herramienta-de-piedra-de-cantabria-al-sur-de-italia",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/11/1280px-Balzi_Rossi_Cliffs.webp",
+      "publishedAt": "2026-11-08T10:44:26.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "europe",
+      "topics": [
+        "amerika",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/vikings/how-frequently-did-viking-women-fight-in-battle",
+      "title": "How frequently did Viking women fight in battle?",
+      "summary": "The Vikings are famous for being warriors, but how frequently did Viking women take part in battles?",
+      "url": "https://www.livescience.com/archaeology/vikings/how-frequently-did-viking-women-fight-in-battle",
+      "image": "https://cdn.mos.cms.futurecdn.net/qnWNCKrhrycz9ghhGRufGT-1920-80.jpg",
+      "publishedAt": "2026-11-08T10:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "erdi-aroa"
+      ]
+    },
+    {
+      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/un-mur-pourrait-reveler-l-emplacement-de-l-ancienne-cite-gauloise-de-paris_195884?xtor=RSS-4",
+      "title": "L’île de la Cité abritait-elle le cœur de la ville gauloise ?",
+      "summary": "Où se situait l'oppidum gaulois mentionné par Jules César dans ses récits de campagne ? Faute de preuves archéologiques, sa localisation était restée jusqu’ici à l’état d’hypothèse. Mais la découverte d’un mur en pierres sèches sur l’île de la Cité pourrait bien changer la donne.",
+      "url": "https://www.sciencesetavenir.fr/archeo-paleo/un-mur-pourrait-reveler-l-emplacement-de-l-ancienne-cite-gauloise-de-paris_195884?xtor=RSS-4",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/10/28/cover-r4x3w1200-6ae8ac14dfd79-ar-1751777-tf-68438367-1-notext-jpg.jpg",
+      "publishedAt": "2026-11-08T09:00:00.000Z",
+      "source": {
+        "id": "sciencesetavenir-archeo",
+        "name": "Sciences et Avenir — Archéo & Paléo"
+      },
+      "lang": "fr",
+      "region": "europe",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/11/261106174528.htm",
+      "title": "Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago",
+      "summary": "Scientists investigating a 2,800-year-old Siberian tomb discovered roughly 1,000 cannabis seeds and chemical evidence suggesting ancient Scythians used the plant for its intoxicating effects. The remarkable find, surrounded by evidence of elaborate burial rituals and animal…",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174528.htm",
+      "image": null,
+      "publishedAt": "2026-11-08T08:14:23.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "iberia",
+      "topics": [
+        "iberiarrak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/michetta-rosetta-pane-antico-gussago-angera-vindonissa/",
+      "title": "La michetta ha antenati di 5.000 anni? Dal pane dell’Età del Bronzo scoperto ora in Turchia alle rosette romane di Gussago e della Svizzera. Perché questa forma?",
+      "summary": "Otto pani carbonizzati, rimasti sepolti per circa cinque millenni in un insediamento dell’Anatolia, riaprono la storia delle forme della panificazione. In Lombardia e nell’antica Vindonissa, in Svizzera, sono emersi prodotti romani che richiamano, per alcuni caratteri, la…",
+      "url": "https://www.stilearte.it/michetta-rosetta-pane-antico-gussago-angera-vindonissa/",
+      "image": null,
+      "publishedAt": "2026-11-08T08:11:22.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/relitto-romano-aleria-commercio-mediterraneo/",
+      "title": "Splendore rosso e blu. A 350 metri di profondità, al largo della Corsica, una nave romana racconta il grande mercato di Roma. Migliaia di lucerne, anfore mediterranee e ceramiche per i “supermercati” provinciali. Da dove venivano le merci? La ricostruzione",
+      "summary": "Un carico eccezionale, assemblato con merci provenienti da diverse regioni del Mediterraneo, permette di ricostruire il funzionamento della distribuzione commerciale romana nel II secolo d.C. La nave, individuata dal sistema di ricerca subacquea del Daedalus e conosciuta nella…",
+      "url": "https://www.stilearte.it/relitto-romano-aleria-commercio-mediterraneo/",
+      "image": null,
+      "publishedAt": "2026-11-08T07:39:40.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26006012?dgcid=rss_sd_all",
       "title": "Changing functions of grinding stones across the Paleolithic–Neolithic transition in North China: a case study from Peiligang site",
       "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): Ran Chen, Yongqiang Li, Xingcan Chen, Wanfa Gu",
@@ -8752,171 +8921,6 @@
       "topics": [
         "erromatarrak"
       ]
-    },
-    {
-      "id": "sudouest-culture:https://www.sudouest.fr/culture/histoire/anneau-viking-disparu-une-des-pistes-passe-par-la-rochelle-30870588.php",
-      "title": "Anneau viking disparu : une des pistes passe par La Rochelle",
-      "summary": "Maire de La Rochelle jusqu’à la Révolution puis ambassadeur de Napoléon Bonaparte, le baron Alquier reçut avant son retour en France en cadeau un joyau de l’époque viking de la part du roi du Danemark",
-      "url": "https://www.sudouest.fr/culture/histoire/anneau-viking-disparu-une-des-pistes-passe-par-la-rochelle-30870588.php",
-      "image": null,
-      "publishedAt": "2026-11-06T18:00:00.000Z",
-      "source": {
-        "id": "sudouest-culture",
-        "name": "Sud Ouest — Culture"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": [
-        "erdi-aroa"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/scoperto-tesoro-sepolture-germaniche-horbourg-wihr-v-secolo/",
-      "title": "Meraviglioso. Scoperto ora un tesoro di spade, scudi e gioielli in un complesso funerario del V secolo. Chi erano questi guerrieri? E chi le distinte signore?",
-      "summary": "Due tombe maschili custodiscono armi, spade ancora in parte nel fodero ligneo, scudi e preziosi ornamenti in oro, argento e granati. Accanto a loro, sepolture femminili con fibule a forma di uccello, collane di vetro e oggetti personali. A Horbourg-Wihr, presso Colmar, in…",
-      "url": "https://www.stilearte.it/scoperto-tesoro-sepolture-germaniche-horbourg-wihr-v-secolo/",
-      "image": null,
-      "publishedAt": "2026-11-06T17:30:22.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/animals/birds/perfectly-preserved-owl-fossil-from-47-million-years-ago-could-help-to-solve-a-major-evolutionary-mystery",
-      "title": "Perfectly preserved owl fossil from 47 million years ago could help to solve a major evolutionary mystery",
-      "summary": "A stunning fossil owl from Germany that has its last meal preserved in its stomach helped researchers to narrow down the time when these birds mostly became active at night.",
-      "url": "https://www.livescience.com/animals/birds/perfectly-preserved-owl-fossil-from-47-million-years-ago-could-help-to-solve-a-major-evolutionary-mystery",
-      "image": "https://cdn.mos.cms.futurecdn.net/rdxWJJMC6b4ebt3GNnzcPU-1920-80.jpg",
-      "publishedAt": "2026-11-06T17:00:00.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/11/los-cubrian-una-y-otra-vez-de-roca-blanca-el-enigma-de-los-372-monticulos-de-nicaragua-levantados-al-mismo-tiempo-que-las-piramides-mayas",
-      "title": "Los cubrían una y otra vez de roca blanca: el enigma de los 372 montículos de Nicaragua levantados al mismo tiempo que las pirámides mayas",
-      "summary": "En el centro de Nicaragua, unos tres kilómetros al norte de la ciudad de Juigalpa, en el departamento de Chontales, hay 372 montículos de tierra y piedra repartidos por más de 30 hectáreas. Es el yacimiento de Aguas Buenas. Cuando se levanta su plano con GPS y estación…",
-      "url": "https://www.labrujulaverde.com/2026/11/los-cubrian-una-y-otra-vez-de-roca-blanca-el-enigma-de-los-372-monticulos-de-nicaragua-levantados-al-mismo-tiempo-que-las-piramides-mayas",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/11/urn-cambridge.org-id-binary-alt-20261103173631-62720-optimisedImage-png-S0003598X26104803_fig2.jpg.webp",
-      "publishedAt": "2026-11-06T11:52:11.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "egiptoarrak",
-        "ekialde-hurbila",
-        "amerika"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/11/el-rey-que-llevo-a-roma-a-invadir-britania-pudo-ser-una-reina-la-controvertida-hipotesis-de-un-arqueologo-britanico",
-      "title": "El «rey» que llevó a Roma a invadir Britania pudo ser una reina, la controvertida hipótesis de un arqueólogo británico",
-      "summary": "El historiador Dión Casio explicó con una frase por qué las legiones romanas cruzaron el canal de la Mancha en el año 43 d. C. La escribió casi dos siglos después de los hechos, en griego, y dice así: Mientras esto ocurría en la ciudad, Aulo Plaucio, senador de gran renombre,…",
-      "url": "https://www.labrujulaverde.com/2026/11/el-rey-que-llevo-a-roma-a-invadir-britania-pudo-ser-una-reina-la-controvertida-hipotesis-de-un-arqueologo-britanico",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/11/6B1ACCE6-7F2B-4FA0-B10A-479814E8EE4F.webp",
-      "publishedAt": "2026-11-06T10:09:18.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "erromatarrak",
-        "greziarrak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/scoperte-dna-batteri-necropoli-romana-neonati-auxerre/",
-      "title": "Antichi Romani. Un cimitero di neonati. Lo studio individua possibili agenti killer. Quali erano i maggiori pericoli per mamme e bambini? Le risposte arrivano dal DNA antico",
-      "summary": "Ad Auxerre, in Francia, gli archeologi studiano oltre 260 testimonianze funerarie di bambini morti intorno alla nascita, tra il II e il III secolo d.C. Le analisi genetiche individuano tre batteri associati oggi a infezioni e complicazioni ostetriche. La ceramica conserva tracce…",
-      "url": "https://www.stilearte.it/scoperte-dna-batteri-necropoli-romana-neonati-auxerre/",
-      "image": null,
-      "publishedAt": "2026-11-06T09:12:24.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "elpais-cultura:https://elpais.com/cultura/2026-11-06/lloyd-llewellyn-jones-historiador-la-mala-reputacion-de-babilonia-es-totalmente-injusta.html",
-      "title": "Lloyd Llewellyn-Jones, historiador: “La mala reputación de Babilonia es totalmente injusta”",
-      "summary": "El estudioso galés dedica una monografía de seiscientas páginas a revivir y reivindicar la extraordinaria urbe de la antigüedad, denostada en la Biblia como “la gran ramera”",
-      "url": "https://elpais.com/cultura/2026-11-06/lloyd-llewellyn-jones-historiador-la-mala-reputacion-de-babilonia-es-totalmente-injusta.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/UX2FEPCV2FGWTN2LGVXRWEJTBY.jpg?auth=538f9055c1a5ac6416460c42614f1b7dca57fe9e7f98a11861ab12cf40ed5226",
-      "publishedAt": "2026-11-06T04:30:01.000Z",
-      "source": {
-        "id": "elpais-cultura",
-        "name": "El País — Cultura"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "ekialde-hurbila"
-      ]
-    },
-    {
-      "id": "naiz:https://bidaiari.naiz.eus/info_bidaiari/especial/20261106/arkitektura-monumental-indigena",
-      "title": "AEBko tumulu-muinoak, arkitektura monumental indigena",
-      "summary": "",
-      "url": "https://bidaiari.naiz.eus/info_bidaiari/especial/20261106/arkitektura-monumental-indigena",
-      "image": "https://www.naiz.eus/media/asset_publics/resources/001/382/854/news_landscape/261106_natiboakona07.jpg",
-      "publishedAt": "2026-11-05T23:00:00.000Z",
-      "source": {
-        "id": "naiz",
-        "name": "Naiz"
-      },
-      "lang": "eu",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/archaeology/1-600-year-old-burial-holds-remains-of-man-infected-with-a-very-rare-strain-of-leprosy-in-germany",
-      "title": "1,600-year-old burial holds remains of man infected with a 'very rare' strain of leprosy in Germany",
-      "summary": "A high-status burial surprised archaeologists when they discovered leprosy in a man's bones from the fifth century.",
-      "url": "https://www.livescience.com/archaeology/1-600-year-old-burial-holds-remains-of-man-infected-with-a-very-rare-strain-of-leprosy-in-germany",
-      "image": "https://cdn.mos.cms.futurecdn.net/z8VioyzzvEHAbj68rzBuMN-1920-80.jpg",
-      "publishedAt": "2026-11-05T16:12:11.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/11/faltan-cientos-de-millones-de-anos-en-la-historia-geologica-de-la-tierra-y-los-cientificos-acaban-de-averiguar-por-que",
-      "title": "Faltan cientos de millones de años en la historia geológica de la Tierra, y los científicos acaban de averiguar por qué",
-      "summary": "En el Gran Cañón del Colorado, en Estados Unidos, las capas de roca se apilan como las páginas de un libro, con las más antiguas abajo y las más recientes arriba. Pero en un punto de esa pared el orden se rompe. Encima hay areniscas del Cámbrico, de hace unos 540 millones de…",
-      "url": "https://www.labrujulaverde.com/2026/11/faltan-cientos-de-millones-de-anos-en-la-historia-geologica-de-la-tierra-y-los-cientificos-acaban-de-averiguar-por-que",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/11/1280px-Great_Unconformity_-_Flickr_-_brewbooks_3.webp",
-      "publishedAt": "2026-11-05T16:01:37.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": []
     }
   ]
 }
