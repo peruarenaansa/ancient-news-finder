@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T07:56:32.720Z",
+  "generatedAt": "2026-11-12T08:34:48.413Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 4963
+      "elapsedMs": 5063
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 489
+      "elapsedMs": 564
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 748
+      "elapsedMs": 689
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 752
+      "elapsedMs": 489
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2140
+      "elapsedMs": 2248
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 7,
       "droppedOffTopic": 23,
       "droppedModern": 0,
-      "elapsedMs": 2145
+      "elapsedMs": 2251
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 2,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 906
+      "elapsedMs": 830
     },
     {
       "id": "labrujulaverde",
@@ -98,10 +98,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 13,
+      "kept": 12,
       "droppedOffTopic": 1,
-      "droppedModern": 6,
-      "elapsedMs": 1843
+      "droppedModern": 7,
+      "elapsedMs": 1517
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 713
+      "elapsedMs": 710
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 514
+      "elapsedMs": 521
     },
     {
       "id": "lemonde-sciences",
@@ -138,9 +138,9 @@
       "ok": true,
       "fetched": 20,
       "kept": 3,
-      "droppedOffTopic": 17,
-      "droppedModern": 0,
-      "elapsedMs": 581
+      "droppedOffTopic": 16,
+      "droppedModern": 1,
+      "elapsedMs": 473
     },
     {
       "id": "lemonde-archeo",
@@ -150,10 +150,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 8,
+      "kept": 7,
       "droppedOffTopic": 10,
-      "droppedModern": 2,
-      "elapsedMs": 1297
+      "droppedModern": 3,
+      "elapsedMs": 1027
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +162,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 13,
+      "fetched": 14,
       "kept": 5,
-      "droppedOffTopic": 7,
+      "droppedOffTopic": 8,
       "droppedModern": 1,
-      "elapsedMs": 616
+      "elapsedMs": 1003
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +179,7 @@
       "kept": 5,
       "droppedOffTopic": 16,
       "droppedModern": 4,
-      "elapsedMs": 2158
+      "elapsedMs": 2274
     },
     {
       "id": "sudouest-culture",
@@ -192,7 +192,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 931
+      "elapsedMs": 829
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1367
+      "elapsedMs": 1272
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 1,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 1606
+      "elapsedMs": 1686
     },
     {
       "id": "stilearte",
@@ -231,7 +231,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 2,
-      "elapsedMs": 1748
+      "elapsedMs": 1811
     },
     {
       "id": "live-science-arch",
@@ -241,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 6,
-      "droppedOffTopic": 24,
+      "kept": 5,
+      "droppedOffTopic": 25,
       "droppedModern": 0,
-      "elapsedMs": 2013
+      "elapsedMs": 2092
     },
     {
       "id": "bbc-history",
@@ -257,7 +257,7 @@
       "kept": 0,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1236
+      "elapsedMs": 1184
     },
     {
       "id": "sciencedaily-arch",
@@ -267,10 +267,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 22,
-      "droppedOffTopic": 8,
+      "kept": 20,
+      "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1209
+      "elapsedMs": 1385
     },
     {
       "id": "ancient-origins",
@@ -278,12 +278,9 @@
       "lang": "en",
       "region": "world",
       "kind": "news",
-      "ok": true,
-      "fetched": 10,
-      "kept": 3,
-      "droppedOffTopic": 5,
-      "droppedModern": 2,
-      "elapsedMs": 1299
+      "ok": false,
+      "error": "Unable to parse XML.",
+      "elapsedMs": 5837
     },
     {
       "id": "guardian-arch",
@@ -296,7 +293,7 @@
       "kept": 7,
       "droppedOffTopic": 10,
       "droppedModern": 3,
-      "elapsedMs": 1481
+      "elapsedMs": 1487
     },
     {
       "id": "current-archaeology",
@@ -309,7 +306,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 1252
+      "elapsedMs": 1969
     },
     {
       "id": "jas-reports",
@@ -322,7 +319,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 22,
-      "elapsedMs": 1244
+      "elapsedMs": 1280
     },
     {
       "id": "plos-one-arch",
@@ -332,10 +329,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 2,
-      "droppedOffTopic": 28,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1317
+      "elapsedMs": 1411
     },
     {
       "id": "pnas-arch",
@@ -345,10 +342,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 16,
+      "kept": 17,
       "droppedOffTopic": 7,
-      "droppedModern": 7,
-      "elapsedMs": 2114
+      "droppedModern": 6,
+      "elapsedMs": 1912
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +358,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 22,
-      "elapsedMs": 1249
+      "elapsedMs": 1347
     },
     {
       "id": "spal-us",
@@ -374,7 +371,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 5,
-      "elapsedMs": 2161
+      "elapsedMs": 2130
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +384,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 3345
+      "elapsedMs": 3163
     },
     {
       "id": "archeoarte",
@@ -397,7 +394,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 7948
+      "elapsedMs": 8199
     },
     {
       "id": "cypsela",
@@ -407,7 +404,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 6417
+      "elapsedMs": 6790
     },
     {
       "id": "cambridge-antiquity",
@@ -420,7 +417,7 @@
       "kept": 17,
       "droppedOffTopic": 4,
       "droppedModern": 9,
-      "elapsedMs": 1923
+      "elapsedMs": 1980
     },
     {
       "id": "cambridge-caj",
@@ -433,7 +430,7 @@
       "kept": 18,
       "droppedOffTopic": 7,
       "droppedModern": 5,
-      "elapsedMs": 2027
+      "elapsedMs": 1916
     },
     {
       "id": "cambridge-ejarc",
@@ -446,7 +443,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 1910
+      "elapsedMs": 1849
     },
     {
       "id": "aquitania-persee",
@@ -459,7 +456,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 2686
+      "elapsedMs": 2832
     },
     {
       "id": "cuadernos-arq-unav",
@@ -472,7 +469,7 @@
       "kept": 22,
       "droppedOffTopic": 0,
       "droppedModern": 8,
-      "elapsedMs": 3050
+      "elapsedMs": 2924
     },
     {
       "id": "veleia-ehu",
@@ -485,7 +482,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3090
+      "elapsedMs": 2936
     },
     {
       "id": "flv-navarra",
@@ -498,7 +495,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2007
+      "elapsedMs": 2154
     },
     {
       "id": "munibe-aa",
@@ -511,7 +508,7 @@
       "kept": 17,
       "droppedOffTopic": 4,
       "droppedModern": 9,
-      "elapsedMs": 2115
+      "elapsedMs": 2226
     },
     {
       "id": "trabajos-prehistoria",
@@ -524,7 +521,7 @@
       "kept": 23,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 2042
+      "elapsedMs": 2078
     },
     {
       "id": "openalex-archaeology",
@@ -537,7 +534,7 @@
       "kept": 11,
       "droppedOffTopic": 9,
       "droppedModern": 10,
-      "elapsedMs": 2056
+      "elapsedMs": 2090
     }
   ],
   "items": [
@@ -7293,55 +7290,6 @@
       ]
     },
     {
-      "id": "stilearte:https://www.stilearte.it/mummie-vendute-online-rischi-salute/",
-      "title": "La sindrome di Tutankhamon: mummie vendute online, possono nascondere funghi e sostanze tossiche. La scoperta. Cosa può accadere. Perché. Cosa fare. Pericoli anche nelle cripte e in luoghi chiusi, al di là delle antichità egizie?",
-      "summary": "Uno studio internazionale, uscito ora sulla stampa specializzata, analizza 128 annunci e lotti di resti mummificati apparsi sul web. Non una maledizione soprannaturale, ma un problema concreto di biodeterioramento, possibili residui chimici, manipolazione senza protezioni e…",
-      "url": "https://www.stilearte.it/mummie-vendute-online-rischi-salute/",
-      "image": null,
-      "publishedAt": "2026-08-13T18:10:00.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "egiptoarrak"
-      ]
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/archaeology/romans/they-basically-used-these-dried-up-wells-just-to-throw-people-in-43-skeletons-found-in-roman-era-well-may-be-evidence-of-deadly-plague",
-      "title": "'They basically used these dried-up wells just to throw people in': 43 skeletons found in Roman-era well may be evidence of deadly plague",
-      "summary": "Archaeologists have analyzed dozens of skeletons from a mass burial in a well. The lack of injuries suggests the people may have died from a plague rather than a battle.",
-      "url": "https://www.livescience.com/archaeology/romans/they-basically-used-these-dried-up-wells-just-to-throw-people-in-43-skeletons-found-in-roman-era-well-may-be-evidence-of-deadly-plague",
-      "image": "https://cdn.mos.cms.futurecdn.net/weieabkxuzXvoRUkrmN9t6-1280-80.png",
-      "publishedAt": "2026-08-13T17:30:16.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "berria-bsky:https://bsky.app/profile/berria.eus/post/3msxtygqqrz2b",
-      "title": "",
-      "summary": "Osasunak ezin izango du ligako lehen partida jokatu Celtaren aurka, Balaidosko zelaian agertutako onddo baten ondorioz. Kluba haserre dago La Ligak hartutako erabakiagatik. https://b.eus/48e8570aDL",
-      "url": "https://bsky.app/profile/berria.eus/post/3msxtygqqrz2b",
-      "image": null,
-      "publishedAt": "2026-08-13T14:26:00.000Z",
-      "source": {
-        "id": "berria-bsky",
-        "name": "Berria (Bluesky)"
-      },
-      "lang": "eu",
-      "region": "basque",
-      "topics": []
-    },
-    {
       "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355853",
       "title": "An efficient ranking deep neural network algorithm for the prediction of Ca 2+ binding sites of the protein",
       "summary": "by Pritee Parwekar, Samudrala Gourinath, Jaishree Jain, Shilpa Gundagatti, Jabir Ali, Punit Gupta, Asmir Butkovic The Ca2+ binding sites of proteins are critical for their function, particularly in processes such as signal transduction, enzyme regulation, and structural…",
@@ -7357,98 +7305,6 @@
       "topics": [
         "egiptoarrak"
       ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/bambini-gerusalemme-giochi-1300-anni-fa/",
-      "title": "A cosa giocavano i bambini 1.300 anni fa? Alla fine non erano molto diversi da noi. Piccoli animali, sonagli e miniature della vita degli adulti: cosa è stato riportato alla luce a Gerusalemme",
-      "summary": "Non sarà stato il piccolo cuoco, o quella cucina giocattolo con pentolini, mestoli e fornelli in miniatura che tanti di noi avrebbero voluto da bambini. Ma, a pensarci bene, ci andiamo sorprendentemente vicino. Perché anche 1.300 anni fa i bambini giocavano a fare i grandi. Lo…",
-      "url": "https://www.stilearte.it/bambini-gerusalemme-giochi-1300-anni-fa/",
-      "image": null,
-      "publishedAt": "2026-08-13T13:51:23.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/animals/land-mammals/mammal-ancestors-may-have-given-live-birth-90-million-years-earlier-than-we-thought-rewriting-evolutionary-timelines",
-      "title": "Mammal ancestors may have given live birth 90 million years earlier than we thought, rewriting evolutionary timelines",
-      "summary": "A distinctive growth ring in fossilized bones is revealing how an ancestral species in the mammalian family reproduced.",
-      "url": "https://www.livescience.com/animals/land-mammals/mammal-ancestors-may-have-given-live-birth-90-million-years-earlier-than-we-thought-rewriting-evolutionary-timelines",
-      "image": "https://cdn.mos.cms.futurecdn.net/gK3o2F6cLjUxjPhkUoVtPL-1280-80.png",
-      "publishedAt": "2026-08-13T13:44:48.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/sciabola-antica-ritrovata-lago-chiddingstone-castle/",
-      "title": "La siccità rivela un’antica spada nel lago dell’antiquario accusato di aver sparato per gelosia. Un leone sul pomolo e la lama ricurva. A chi apparteneva. Qual è la storia del luogo",
-      "summary": "Una sciabola ottocentesca decorata e cromaticamente intensa, tra il manico dorato e la lama bruna, è venuta alla luce, in queste ore, grazie all’abbassamento del livello di un laghetto scenografico, in un’antica proprietà inglese. L’arma era finita tra un groviglio di rami.…",
-      "url": "https://www.stilearte.it/sciabola-antica-ritrovata-lago-chiddingstone-castle/",
-      "image": null,
-      "publishedAt": "2026-08-13T13:40:15.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "berria-bsky:https://bsky.app/profile/berria.eus/post/3msxka6t57p2b",
-      "title": "",
-      "summary": "Osasuna haserre LaLigak hartutako erabakiarekin: «Ez da futbola, LaLiga baizik». Nafarroako taldeak igandean jokatu behar zuen ligako lehen partida, Celtaren aurka, baina Balaidoseko zelaian agertutako onddo baten ondorioz, ezin izango dute jokatu. Abuztuaren 27ra atzeratu dute…",
-      "url": "https://bsky.app/profile/berria.eus/post/3msxka6t57p2b",
-      "image": null,
-      "publishedAt": "2026-08-13T11:31:00.000Z",
-      "source": {
-        "id": "berria-bsky",
-        "name": "Berria (Bluesky)"
-      },
-      "lang": "eu",
-      "region": "basque",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/08/los-hijos-de-mile-la-ciencia-detras-de-la-leyenda-irlandesa-que-situa-el-origen-de-los-celtas-en-el-norte-de-espana",
-      "title": "Los Hijos de Milé, la ciencia detrás de la leyenda irlandesa que sitúa el origen de los celtas en el norte de España",
-      "summary": "En el año 2006, el genetista Bryan Sykes, catedrático de Genética Humana de la Universidad de Oxford, publicó los resultados de un estudio que le había llevado una década completar. Su equipo había recogido y analizado el ADN mitocondrial y el cromosoma Y de 10.000 voluntarios…",
-      "url": "https://www.labrujulaverde.com/2026/08/los-hijos-de-mile-la-ciencia-detras-de-la-leyenda-irlandesa-que-situa-el-origen-de-los-celtas-en-el-norte-de-espana",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/08/A52BA6EC-04F9-449E-B831-9D2423B26663-labrujulaverde.com_.webp",
-      "publishedAt": "2026-08-13T10:56:52.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "amerika"
-      ]
-    },
-    {
-      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/les-chasseurs-cueilleurs-europeens-ont-navigue-sur-de-longues-distances-en-mediterranee-pendant-au-moins-un-millenaire_194237?xtor=RSS-4",
-      "title": "Les chasseurs-cueilleurs européens ont navigué sur de longues distances en Méditerranée pendant au moins un millénaire",
-      "summary": "Malte était-elle une île où habiter au Mésolithique ? Pas si sûr. Et si c’était plutôt un lieu de passage, sur une voie de navigation reliant l’Europe à l’Afrique ?",
-      "url": "https://www.sciencesetavenir.fr/archeo-paleo/les-chasseurs-cueilleurs-europeens-ont-navigue-sur-de-longues-distances-en-mediterranee-pendant-au-moins-un-millenaire_194237?xtor=RSS-4",
-      "image": "https://www.sciencesetavenir.fr/assets/img/2025/04/09/cover-r4x3w1200-6a7ca5dc224a3-malte-latnija-grotte-chasseurs-cueilleurs-mesolithique.jpg",
-      "publishedAt": "2026-08-13T09:13:27.000Z",
-      "source": {
-        "id": "sciencesetavenir-archeo",
-        "name": "Sciences et Avenir — Archéo & Paléo"
-      },
-      "lang": "fr",
-      "region": "europe",
-      "topics": []
     },
     {
       "id": "cambridge-caj:https://openalex.org/W7202261337",
@@ -8524,6 +8380,158 @@
       ]
     },
     {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26006012?dgcid=rss_sd_all",
+      "title": "Changing functions of grinding stones across the Paleolithic–Neolithic transition in North China: a case study from Peiligang site",
+      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): Ran Chen, Yongqiang Li, Xingcan Chen, Wanfa Gu",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26006012?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-11-12T08:34:41.456Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "asia"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/statuette-argilla-natufiane-impronte-bambini/",
+      "title": "Tenerezza, scuola dei primordi. Le impronte dei bambini sulle statuette di 15.000 anni fa: prima dell’agricoltura, l’arte era già una scuola di conoscenza",
+      "summary": "Israele, 15.000-12.000 anni fa. Piccole figure di uccelli, gazzelle e uomini modellate nell’argilla conservano qualcosa di straordinario: le impronte digitali di chi le ha realizzate. Alcune appartengono a bambini di meno di dieci anni. Una scoperta che apre una finestra…",
+      "url": "https://www.stilearte.it/statuette-argilla-natufiane-impronte-bambini/",
+      "image": null,
+      "publishedAt": "2026-11-12T06:28:48.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/baviera-tesoro-bronzi-stampo-spada-eta-del-bronzo/",
+      "title": "Un artigiano di 3000 anni fa, una spada e un tesoro nascosto: le sorprendenti scoperte in Baviera",
+      "summary": "Da Großeibstadt, a circa 950 chilometri in linea d’aria da Roma, a Grabenstätt, nel Chiemgau, gli archeologi ricostruiscono due vicende della tarda Età del Bronzo: un laboratorio capace di produrre spade e un deposito di preziosi ornamenti finito in pezzi nel terreno. Al centro,…",
+      "url": "https://www.stilearte.it/baviera-tesoro-bronzi-stampo-spada-eta-del-bronzo/",
+      "image": null,
+      "publishedAt": "2026-11-12T05:50:44.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/coppa-romana-mongolia-tomba-xiongnu/",
+      "title": "Meraviglioso. Una coppa di vetro degli antichi Romani trovata a 7.200 chilometri da Roma: 413 tesori nella tomba dei signori della steppa in Mongolia",
+      "summary": "Una sepoltura monumentale, una camera funeraria sorprendentemente piccola e un corredo che attraversa l’Eurasia. A Duurlig Nars, nella Mongolia orientale, gli archeologi hanno recuperato 413 reperti, fra cui una coppa di vetro forse prodotta nei territori dell’Impero romano,…",
+      "url": "https://www.stilearte.it/coppa-romana-mongolia-tomba-xiongnu/",
+      "image": null,
+      "publishedAt": "2026-11-12T05:03:06.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak",
+        "asia"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/pesce-acqua-dolce-datazione-radiocarbonio-errore/",
+      "title": "Il pesce d’acqua dolce inganna il radiocarbonio: alcune tombe medievali risultano più antiche di 300 anni",
+      "summary": "Una sepoltura prestigiosa in un monastero francescano danese rivela un problema capace di cambiare la cronologia di interi siti archeologici.Il consumo di pesci vissuti in fiumi e laghi può trasferire nelle ossa carbonio antico, facendo apparire una persona morta secoli prima…",
+      "url": "https://www.stilearte.it/pesce-acqua-dolce-datazione-radiocarbonio-errore/",
+      "image": null,
+      "publishedAt": "2026-11-12T04:19:49.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/2-200-year-old-gold-bear-figurine-and-surprising-number-of-bones-found-in-massive-burial-mound-in-kazakhstan",
+      "title": "2,200-year-old gold bear figurine and surprising number of bones found in massive burial mound in Kazakhstan",
+      "summary": "Archaeologists have found a 2,200-year-old golden bear in an Iron Age burial in Kazakhstan that may have held seven people.",
+      "url": "https://www.livescience.com/archaeology/2-200-year-old-gold-bear-figurine-and-surprising-number-of-bones-found-in-massive-burial-mound-in-kazakhstan",
+      "image": "https://cdn.mos.cms.futurecdn.net/7UUkpDYrSSaQVnxYTcghR8-1920-80.jpg",
+      "publishedAt": "2026-11-11T21:44:30.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/11/arqueologos-encuentran-los-primeros-recipientes-de-arcilla-cocida-creados-en-oriente-proximo-2000-anos-anteriores-a-la-difusion-de-la-ceramica",
+      "title": "Arqueólogos encuentran los primeros recipientes de arcilla cocida creados en Oriente Próximo, 2.000 años anteriores a la difusión de la cerámica",
+      "summary": "Solemos imaginar el origen de la cerámica en las primeras aldeas de agricultores, con sus tinajas para guardar el grano. El valle del Alto Tigris cuenta otra historia. Hacia 9350 a. C., en un poblado de cazadores, pescadores y recolectores que ya empezaban a asentarse, alguien…",
+      "url": "https://www.labrujulaverde.com/2026/11/arqueologos-encuentran-los-primeros-recipientes-de-arcilla-cocida-creados-en-oriente-proximo-2000-anos-anteriores-a-la-difusion-de-la-ceramica",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/11/1-s2.0-S0003552124000645-gr2_lrg.webp",
+      "publishedAt": "2026-11-11T17:04:54.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/11/una-copa-romana-jade-chino-y-plata-de-corea-descubiertas-en-el-interior-de-la-mayor-tumba-xiongnu-de-mongolia",
+      "title": "Una copa de vidrio romana, jade chino y plata de Corea, descubiertos en el interior de la mayor tumba xiongnu de Mongolia",
+      "summary": "La tumba 160 de Duurlig Nars, en el este de Mongolia, mide unos 73 metros contando la rampa de acceso. Y sin embargo la cámara donde enterraron a su ocupante es pequeña y poco profunda, algo que descoloca en un monumento así. Tras cuatro años de trabajo, el Museo Nacional de…",
+      "url": "https://www.labrujulaverde.com/2026/11/una-copa-romana-jade-chino-y-plata-de-corea-descubiertas-en-el-interior-de-la-mayor-tumba-xiongnu-de-mongolia",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/11/Anexo-3-1-1_Vista-general-de-la-tumba-n160.webp",
+      "publishedAt": "2026-11-11T11:35:03.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak",
+        "asia",
+        "museoak",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/11/el-enigma-sin-resolver-de-los-sumerios-inventaron-la-escritura-pero-nadie-sabe-de-donde-salio-su-idioma-que-no-se-parece-a-ningun-otro-conocido",
+      "title": "El enigma sin resolver de los sumerios: inventaron la escritura, pero nadie sabe de dónde salió su idioma que no se parece a ningún otro conocido",
+      "summary": "En 1874 un orientalista de París, Joseph Halévy, empezó a defender algo que hoy suena a broma: que el sumerio nunca había sido una lengua hablada, sino un código secreto que los sacerdotes de Babilonia habían inventado para esconder sus textos. La idea tenía su lógica en aquel…",
+      "url": "https://www.labrujulaverde.com/2026/11/el-enigma-sin-resolver-de-los-sumerios-inventaron-la-escritura-pero-nadie-sabe-de-donde-salio-su-idioma-que-no-se-parece-a-ningun-otro-conocido",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/11/1280px-Cuneiform_inscription_on_a_statue_from_Adab_mentioning_the_name_of_Lugal-dalu_and_god_ESAR_of_Adab.webp",
+      "publishedAt": "2026-11-11T08:50:13.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "ekialde-hurbila"
+      ]
+    },
+    {
       "id": "stilearte:https://www.stilearte.it/veio-donne-non-locali-mobilita-etrusca-quattro-fontanili/",
       "title": "Etruschi, a Veio le ragazze da marito arrivavano spesso da fuori: gli isotopi rivelano la mobilità nella società etrusca delle origini. Ma le mogli “forestiere” erano per i ricchi o per i poveri?",
       "summary": "Le analisi di 44 individui sepolti nella necropoli di Quattro Fontanili, tra l’820 e il 730 a.C., individuano una presenza non locale soprattutto tra le donne di condizione medio-bassa. Le tombe più ricche appartengono invece a persone cresciute nel territorio. Un risultato che…",
@@ -8780,6 +8788,23 @@
       ]
     },
     {
+      "id": "cambridge-antiquity:https://openalex.org/W7225705092",
+      "title": "Debasement and the production of copper-alloy coins in ninth-century Northumbria",
+      "summary": "The production of copper-alloy coins in the kingdom of Northumbria during the ninth century AD represents a unique move away from silver coinage in early medieval western Europe. While differing explanations for this debasement have been proposed, few consider non-numismatic…",
+      "url": "https://doi.org/10.15184/aqy.2026.10454",
+      "image": null,
+      "publishedAt": "2026-11-10T00:00:00.000Z",
+      "source": {
+        "id": "cambridge-antiquity",
+        "name": "Antiquity (Cambridge)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "erdi-aroa"
+      ]
+    },
+    {
       "id": "aranzadi-bsky:https://bsky.app/profile/aranzadi.bsky.social/post/3mzvkowfror2m",
       "title": "",
       "summary": "⛏️ Asurtzuko indusketek aurrera jarraitzen dute! Brontze Aroko aztarnategi honetan labe baten aztarnak eta bestelako material arkeologikoak aurkitu dira. Izaro Quevedoren zuzendaritzapean, lantaldeak lanean jarraituko du hilak 14 arte. Ikusi bideo osoa:…",
@@ -8913,21 +8938,6 @@
       "topics": [
         "erromatarrak"
       ]
-    },
-    {
-      "id": "cambridge-antiquity:https://openalex.org/W7225653160",
-      "title": "Early metalworking in Europe and the emergence of lavish single-grave traditions (late third and early second millennium BCE)",
-      "summary": "Early metalworking in Europe and the emergence of lavish single-grave traditions (late third and early second millennium BCE)",
-      "url": "https://doi.org/10.15184/aqy.2026.10473",
-      "image": null,
-      "publishedAt": "2026-11-09T00:00:00.000Z",
-      "source": {
-        "id": "cambridge-antiquity",
-        "name": "Antiquity (Cambridge)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
     }
   ]
 }
