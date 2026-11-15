@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T07:45:56.370Z",
+  "generatedAt": "2026-11-15T08:03:30.826Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 6162
+      "elapsedMs": 5753
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 682
+      "elapsedMs": 883
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3993
+      "elapsedMs": 1085
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 754
+      "elapsedMs": 924
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3334
+      "elapsedMs": 2929
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 7,
       "droppedOffTopic": 23,
       "droppedModern": 0,
-      "elapsedMs": 3343
+      "elapsedMs": 3035
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 2,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 1131
+      "elapsedMs": 1104
     },
     {
       "id": "labrujulaverde",
@@ -98,10 +98,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 15,
+      "kept": 16,
       "droppedOffTopic": 1,
-      "droppedModern": 4,
-      "elapsedMs": 1146
+      "droppedModern": 3,
+      "elapsedMs": 1242
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 1037
+      "elapsedMs": 1133
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1638
+      "elapsedMs": 1887
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 2,
       "droppedOffTopic": 17,
       "droppedModern": 1,
-      "elapsedMs": 1009
+      "elapsedMs": 1040
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 7,
       "droppedOffTopic": 10,
       "droppedModern": 3,
-      "elapsedMs": 1017
+      "elapsedMs": 1047
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +162,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 14,
-      "kept": 4,
+      "fetched": 13,
+      "kept": 3,
       "droppedOffTopic": 9,
       "droppedModern": 1,
-      "elapsedMs": 1499
+      "elapsedMs": 1461
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +179,7 @@
       "kept": 4,
       "droppedOffTopic": 18,
       "droppedModern": 3,
-      "elapsedMs": 3319
+      "elapsedMs": 3038
     },
     {
       "id": "sudouest-culture",
@@ -190,9 +190,9 @@
       "ok": true,
       "fetched": 20,
       "kept": 0,
-      "droppedOffTopic": 20,
-      "droppedModern": 0,
-      "elapsedMs": 1523
+      "droppedOffTopic": 19,
+      "droppedModern": 1,
+      "elapsedMs": 1420
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2227
+      "elapsedMs": 1499
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 1,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 2321
+      "elapsedMs": 2252
     },
     {
       "id": "stilearte",
@@ -228,10 +228,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 10,
-      "kept": 10,
+      "kept": 9,
       "droppedOffTopic": 0,
-      "droppedModern": 0,
-      "elapsedMs": 2395
+      "droppedModern": 1,
+      "elapsedMs": 2214
     },
     {
       "id": "live-science-arch",
@@ -241,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 3,
-      "droppedOffTopic": 27,
+      "kept": 4,
+      "droppedOffTopic": 26,
       "droppedModern": 0,
-      "elapsedMs": 3183
+      "elapsedMs": 2837
     },
     {
       "id": "bbc-history",
@@ -257,7 +257,7 @@
       "kept": 0,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1866
+      "elapsedMs": 1658
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +270,7 @@
       "kept": 20,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1842
+      "elapsedMs": 1667
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1944
+      "elapsedMs": 1764
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 7,
       "droppedOffTopic": 10,
       "droppedModern": 3,
-      "elapsedMs": 2262
+      "elapsedMs": 2002
     },
     {
       "id": "current-archaeology",
@@ -309,7 +309,7 @@
       "kept": 12,
       "droppedOffTopic": 5,
       "droppedModern": 13,
-      "elapsedMs": 2069
+      "elapsedMs": 1734
     },
     {
       "id": "jas-reports",
@@ -322,7 +322,7 @@
       "kept": 8,
       "droppedOffTopic": 3,
       "droppedModern": 19,
-      "elapsedMs": 2042
+      "elapsedMs": 1787
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +335,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2113
+      "elapsedMs": 1833
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 17,
       "droppedOffTopic": 7,
       "droppedModern": 6,
-      "elapsedMs": 2466
+      "elapsedMs": 2358
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +361,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 22,
-      "elapsedMs": 2056
+      "elapsedMs": 1865
     },
     {
       "id": "spal-us",
@@ -374,7 +374,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 5,
-      "elapsedMs": 3344
+      "elapsedMs": 2987
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +387,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 4800
+      "elapsedMs": 4078
     },
     {
       "id": "archeoarte",
@@ -397,7 +397,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 9060
+      "elapsedMs": 8789
     },
     {
       "id": "cypsela",
@@ -407,7 +407,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 7987
+      "elapsedMs": 10947
     },
     {
       "id": "cambridge-antiquity",
@@ -420,7 +420,7 @@
       "kept": 17,
       "droppedOffTopic": 4,
       "droppedModern": 9,
-      "elapsedMs": 2874
+      "elapsedMs": 2646
     },
     {
       "id": "cambridge-caj",
@@ -433,7 +433,7 @@
       "kept": 18,
       "droppedOffTopic": 7,
       "droppedModern": 5,
-      "elapsedMs": 2844
+      "elapsedMs": 2689
     },
     {
       "id": "cambridge-ejarc",
@@ -446,7 +446,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 2862
+      "elapsedMs": 2544
     },
     {
       "id": "aquitania-persee",
@@ -459,7 +459,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3813
+      "elapsedMs": 3640
     },
     {
       "id": "cuadernos-arq-unav",
@@ -472,7 +472,7 @@
       "kept": 22,
       "droppedOffTopic": 0,
       "droppedModern": 8,
-      "elapsedMs": 4459
+      "elapsedMs": 4157
     },
     {
       "id": "veleia-ehu",
@@ -485,7 +485,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 4212
+      "elapsedMs": 3772
     },
     {
       "id": "flv-navarra",
@@ -498,7 +498,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 3227
+      "elapsedMs": 2900
     },
     {
       "id": "munibe-aa",
@@ -511,7 +511,7 @@
       "kept": 17,
       "droppedOffTopic": 4,
       "droppedModern": 9,
-      "elapsedMs": 3112
+      "elapsedMs": 2951
     },
     {
       "id": "trabajos-prehistoria",
@@ -524,7 +524,7 @@
       "kept": 23,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 3264
+      "elapsedMs": 2937
     },
     {
       "id": "openalex-archaeology",
@@ -534,10 +534,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 11,
+      "kept": 13,
       "droppedOffTopic": 9,
-      "droppedModern": 10,
-      "elapsedMs": 3239
+      "droppedModern": 8,
+      "elapsedMs": 2879
     }
   ],
   "items": [
@@ -8383,6 +8383,92 @@
       ]
     },
     {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26006012?dgcid=rss_sd_all",
+      "title": "Changing functions of grinding stones across the Paleolithic–Neolithic transition in North China: a case study from Peiligang site",
+      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): Ran Chen, Yongqiang Li, Xingcan Chen, Wanfa Gu",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26006012?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-11-15T08:03:21.633Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "asia"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/piscina-romana-isar-marvinci-macedonia-scoperta/",
+      "title": "A sette metri sotto terra scoperta in Macedonia una piscina romana rivestita con otto marmi diversi: sotto la vasca funzionava il riscaldamento. Che cosa c’era, lì attorno? La storia “latina” del luogo",
+      "summary": "A Isar–Marvinci, vicino a Valandovo, gli archeologi scoprono una monumentale piscina termale con rivestimento marmoreo, impermeabilizzazione e un impianto ad aria calda eccezionalmente conservato.La struttura appartiene a un complesso pubblico che, dopo il II secolo d.C.,…",
+      "url": "https://www.stilearte.it/piscina-romana-isar-marvinci-macedonia-scoperta/",
+      "image": null,
+      "publishedAt": "2026-11-15T07:07:29.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak",
+        "iberiarrak"
+      ]
+    },
+    {
+      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/11/261112230502.htm",
+      "title": "Dinosaurs may have been eating seaweed 100 million years ago",
+      "summary": "Dinosaurs may have been snacking on seaweed and other ocean foods more than 100 million years ago, according to surprising new evidence hidden in their fossilized teeth. Researchers discovered chemical signatures suggesting that coastal dinosaurs and other prehistoric animals…",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230502.htm",
+      "image": null,
+      "publishedAt": "2026-11-15T03:00:54.000Z",
+      "source": {
+        "id": "sciencedaily-arch",
+        "name": "ScienceDaily — Archaeology"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/11/la-piedra-de-africa-la-orina-fosilizada-con-la-que-se-hacen-perfumes-y-los-cientificos-usan-para-conocer-el-clima-de-hace-50000-anos",
+      "title": "La «piedra de África», la orina fosilizada con la que se hacen perfumes y los científicos usan para conocer el clima de hace 50.000 años",
+      "summary": "Entre las rocas de Namibia y los valles secos de Omán hay cuevas con las paredes manchadas de blanco y, pegada al suelo, una masa de color marrón oscuro, quebradiza y con brillo de resina. Parece alquitrán endurecido. En realidad es orina y excremento de un animal con aspecto de…",
+      "url": "https://www.labrujulaverde.com/2026/11/la-piedra-de-africa-la-orina-fosilizada-con-la-que-se-hacen-perfumes-y-los-cientificos-usan-para-conocer-el-clima-de-hace-50000-anos",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/11/1280px-PKF-1_site_11_01.webp",
+      "publishedAt": "2026-11-14T17:20:52.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/health/genetics/links-with-the-british-royal-family-would-eventually-prove-crucial-how-dna-solved-the-70-year-mystery-of-what-happened-to-the-executed-members-of-the-last-russian-imperial-family",
+      "title": "'Links with the British royal family would eventually prove crucial': How DNA solved the 70-year mystery of what happened to the executed members of the last Russian imperial family",
+      "summary": "In this excerpt from \"The Secrets of our DNA,\" geneticist Turi King examines how DNA was used to reveal the ultimate fate of the last members of the House of Romanov.",
+      "url": "https://www.livescience.com/health/genetics/links-with-the-british-royal-family-would-eventually-prove-crucial-how-dna-solved-the-70-year-mystery-of-what-happened-to-the-executed-members-of-the-last-russian-imperial-family",
+      "image": "https://cdn.mos.cms.futurecdn.net/eQJMmcSsNS3pe8Ek3VLP6J-1920-80.jpg",
+      "publishedAt": "2026-11-14T09:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
       "id": "stilearte:https://www.stilearte.it/sepolture-navali-antichita-navi-vichinghe/",
       "title": "Norvegia, i Vichinghi seppellirono una nave sopra una tomba di 3.000 anni prima: cosa nascondeva il tumulo di Grønhaug?",
       "summary": "Sotto una delle grandi sepolture navali dell’età vichinga gli archeologi hanno individuato una struttura funeraria probabilmente risalente all’età del Bronzo.Due monumenti costruiti a distanza di molti secoli si sovrappongono nello stesso luogo: una scoperta che riapre il…",
@@ -8465,6 +8551,53 @@
         "egiptoarrak",
         "aurkikuntza"
       ]
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7225982878",
+      "title": "Addressing the Contemporary Necessities and Desires of the Quapaw Nation",
+      "summary": "This thesis delves into the material and immaterial cultural heritage of the Quapaw Nation, located currently in Oklahoma. First, it provides a background of the people and the land that they currently occupy, as well as how they came to be there. The theoretical basis for…",
+      "url": "https://doi.org/10.7273/000008746",
+      "image": null,
+      "publishedAt": "2026-11-14T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7225994725",
+      "title": "Africa's unique domestic animal trajectory: Pastoralism preceding farming by millennia",
+      "summary": "Africa's unique domestic animal trajectory: Pastoralism preceding farming by millennia",
+      "url": "https://doi.org/10.1016/j.quascirev.2026.110356",
+      "image": null,
+      "publishedAt": "2026-11-14T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7226024077",
+      "title": "How to survive as mountain dwellers: palaeopathological study of European leopards",
+      "summary": "Abstract Previous morphofunctional analyses linked Pleistocene leopards from the eastern Pyrenees to rocky mountainous habitats, within a broader interpretation of European leopard ecology. Such environments are expected to increase exposure to falls, missteps and difficult…",
+      "url": "https://doi.org/10.21203/rs.3.rs-11577530/v1",
+      "image": null,
+      "publishedAt": "2026-11-14T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "iberia",
+      "topics": []
     },
     {
       "id": "labrujulaverde:https://www.labrujulaverde.com/2026/11/la-desigualdad-no-llego-con-los-pastores-de-la-estepa-fue-creciendo-durante-la-edad-del-bronce-hasta-que-la-herencia-fue-mas-importante-que-la-gloria",
@@ -8709,6 +8842,21 @@
       ]
     },
     {
+      "id": "pnas-arch:https://openalex.org/W7226004651",
+      "title": "Reply to Neogi: Reaffirming the ~3.5 Ga age of the Bhitar Dari carbonaceous chert",
+      "summary": "Reply to Neogi: Reaffirming the ~3.5 Ga age of the Bhitar Dari carbonaceous chert",
+      "url": "https://doi.org/10.1073/pnas.2631368123",
+      "image": null,
+      "publishedAt": "2026-11-13T00:00:00.000Z",
+      "source": {
+        "id": "pnas-arch",
+        "name": "PNAS — Arkeologia"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
       "id": "live-science-arch:https://www.livescience.com/archaeology/middle-east/125-000-year-old-poisoned-stone-points-discovered-on-shore-of-ancient-lake-in-saudi-arabia",
       "title": "125,000-year-old poisoned stone points discovered on shore of ancient lake in Saudi Arabia",
       "summary": "Archaeologists have discovered thousands of stone artifacts in Saudi Arabia, some of which suggest people were using poison-tipped stone tools to hunt large game 125,000 years ago.",
@@ -8770,150 +8918,6 @@
       "region": "world",
       "topics": [
         "aurkikuntza"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/11/polvo-cosmico-de-mas-alla-de-neptuno-contiene-un-agua-con-oxigeno-pesado-distinta-a-la-de-la-tierra",
-      "title": "Polvo cósmico de más allá de Neptuno contiene un agua con oxígeno pesado distinta a la de la Tierra",
-      "summary": "El oxígeno viene en tres versiones, llamadas isótopos: el oxígeno-16, con diferencia el más abundante, y dos variantes algo más pesadas, el oxígeno-17 y el oxígeno-18. Las proporciones entre ellas funcionan como una huella dactilar, porque cambian según dónde y cómo se formó un…",
-      "url": "https://www.labrujulaverde.com/2026/11/polvo-cosmico-de-mas-alla-de-neptuno-contiene-un-agua-con-oxigeno-pesado-distinta-a-la-de-la-tierra",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/11/1280px-Kuiper_Belts_ice_cores_28090044146.webp",
-      "publishedAt": "2026-11-12T12:01:32.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/11/261112025529.htm",
-      "title": "A new treasure map reveals where Earth's lost prehistoric life may be hiding",
-      "summary": "A sweeping analysis of 540 million years of marine fossils has revealed surprising gaps in our understanding of Earth's ancient life. Scientists discovered that some of the greatest opportunities for finding previously unknown species lie in relatively recent geological periods,…",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm",
-      "image": null,
-      "publishedAt": "2026-11-12T11:24:47.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/sepoltura-vichinga-isola-di-man-spada-gioielli/",
-      "title": "Una spada, gioielli e un mistero di 1.100 anni: riaffiora una sepoltura vichinga sull’Isola di Man",
-      "summary": "Una spada decorata con argento, tre spille di bronzo, un’ascia e gli strumenti utilizzati per pesare metalli preziosi. Sono gli oggetti che hanno riportato alla luce una storia rimasta nascosta per oltre undici secoli, nel terreno di un campo dell’Isola di Man. Un insieme di…",
-      "url": "https://www.stilearte.it/sepoltura-vichinga-isola-di-man-spada-gioielli/",
-      "image": null,
-      "publishedAt": "2026-11-12T10:45:12.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/archaeology/slave-payments-and-expensive-and-exclusive-shoe-discovered-on-17th-century-danish-ship-that-sank-after-deadly-mutiny",
-      "title": "'Slave payments' and 'expensive and exclusive shoe' discovered on 17th-century Danish ship that sank after deadly mutiny",
-      "summary": "Archaeologists have discovered the shoe of the first governor of the Danish West Indies, recovered from a 17th-century ship that was wrecked after one of the most violent mutinies in Denmark’s history.",
-      "url": "https://www.livescience.com/archaeology/slave-payments-and-expensive-and-exclusive-shoe-discovered-on-17th-century-danish-ship-that-sank-after-deadly-mutiny",
-      "image": "https://cdn.mos.cms.futurecdn.net/wpN77YV3ARZPMAHaHEGaWN-1920-80.png",
-      "publishedAt": "2026-11-12T10:00:00.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/military-history/155/feature/lancaster-versus-york/",
-      "title": "Lancaster versus York",
-      "summary": "The Wars of the Roses: a timeline of the decades-long fight for the English throne Source",
-      "url": "https://the-past.com/military-history/155/feature/lancaster-versus-york/",
-      "image": null,
-      "publishedAt": "2026-11-12T10:00:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/military-history/155/feature/kings-and-kingmakers-the-wars-of-the-roses-part-2-1461-1485/",
-      "title": "Kings and kingmakers – The Wars of the Roses: Part 2 – 1461-1485",
-      "summary": "In the second part of our special feature, Stephen Roberts examines a period of shifting fortunes following the bloody Battle of Towton. Source",
-      "url": "https://the-past.com/military-history/155/feature/kings-and-kingmakers-the-wars-of-the-roses-part-2-1461-1485/",
-      "image": null,
-      "publishedAt": "2026-11-12T10:00:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/military-history/155/feature/the-wars-of-the-roses-2/",
-      "title": "The Wars of the Roses",
-      "summary": "In the first part of our series, Stephen Roberts reveals how a dynastic feud between descendents of Edward III led to 30 years of bloodshed. Source",
-      "url": "https://the-past.com/military-history/155/feature/the-wars-of-the-roses-2/",
-      "image": null,
-      "publishedAt": "2026-11-12T10:00:00.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/11/las-ultimas-tumbas-megaliticas-de-iberia-aparecen-bajo-las-dunas-del-cabo-de-trafalgar-con-marfil-africano-oro-y-plata",
-      "title": "Las últimas tumbas megalíticas de Iberia aparecen bajo las dunas del cabo de Trafalgar, con marfil africano, oro y plata",
-      "summary": "Hacia 1790 a. C., cuando Hammurabi gobernaba Babilonia y mandaba grabar sus leyes en piedra, varias comunidades de la costa gaditana seguían enterrando a sus muertos de la manera más antigua que conocían: en cámaras de piedra donde cabía todo el grupo, generación tras…",
-      "url": "https://www.labrujulaverde.com/2026/11/las-ultimas-tumbas-megaliticas-de-iberia-aparecen-bajo-las-dunas-del-cabo-de-trafalgar-con-marfil-africano-oro-y-plata",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/11/journal.pone_.0359220.g009.webp",
-      "publishedAt": "2026-11-12T09:59:47.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "ekialde-hurbila"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/11/el-extrano-teatro-griego-cuadrado-de-calidon-que-no-se-parece-a-ningun-otro",
-      "title": "El extraño teatro griego cuadrado de Calidón que no se parece a ningún otro",
-      "summary": "Cuando alguien imagina un teatro griego piensa en el de Epidauro: gradas en semicírculo y, abajo, una pista circular. El de Calidón (en griego, Kalydon), en la región de Etolia, no sigue ese esquema. Sus gradas forman tres lados de un rectángulo, como una herradura de esquinas…",
-      "url": "https://www.labrujulaverde.com/2026/11/el-extrano-teatro-griego-cuadrado-de-calidon-que-no-se-parece-a-ningun-otro",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/11/d00517bcc4f9d3fe2c4cfdb624c6617cbde0aeda-1902x1861.jpg-copia.webp",
-      "publishedAt": "2026-11-12T08:53:08.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "greziarrak"
       ]
     }
   ]
