@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T08:03:30.826Z",
+  "generatedAt": "2026-11-16T08:12:18.447Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5753
+      "elapsedMs": 5422
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 883
+      "elapsedMs": 654
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1085
+      "elapsedMs": 977
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 924
+      "elapsedMs": 694
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2929
+      "elapsedMs": 2511
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 7,
       "droppedOffTopic": 23,
       "droppedModern": 0,
-      "elapsedMs": 3035
+      "elapsedMs": 2523
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 2,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 1104
+      "elapsedMs": 1127
     },
     {
       "id": "labrujulaverde",
@@ -101,7 +101,7 @@
       "kept": 16,
       "droppedOffTopic": 1,
       "droppedModern": 3,
-      "elapsedMs": 1242
+      "elapsedMs": 1052
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 1133
+      "elapsedMs": 1032
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1887
+      "elapsedMs": 1537
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 2,
       "droppedOffTopic": 17,
       "droppedModern": 1,
-      "elapsedMs": 1040
+      "elapsedMs": 928
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 7,
       "droppedOffTopic": 10,
       "droppedModern": 3,
-      "elapsedMs": 1047
+      "elapsedMs": 1398
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -166,7 +166,7 @@
       "kept": 3,
       "droppedOffTopic": 9,
       "droppedModern": 1,
-      "elapsedMs": 1461
+      "elapsedMs": 1321
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +179,7 @@
       "kept": 4,
       "droppedOffTopic": 18,
       "droppedModern": 3,
-      "elapsedMs": 3038
+      "elapsedMs": 2571
     },
     {
       "id": "sudouest-culture",
@@ -190,9 +190,9 @@
       "ok": true,
       "fetched": 20,
       "kept": 0,
-      "droppedOffTopic": 19,
-      "droppedModern": 1,
-      "elapsedMs": 1420
+      "droppedOffTopic": 20,
+      "droppedModern": 0,
+      "elapsedMs": 1332
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1499
+      "elapsedMs": 1873
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 1,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 2252
+      "elapsedMs": 2049
     },
     {
       "id": "stilearte",
@@ -231,7 +231,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 1,
-      "elapsedMs": 2214
+      "elapsedMs": 2208
     },
     {
       "id": "live-science-arch",
@@ -244,7 +244,7 @@
       "kept": 4,
       "droppedOffTopic": 26,
       "droppedModern": 0,
-      "elapsedMs": 2837
+      "elapsedMs": 2503
     },
     {
       "id": "bbc-history",
@@ -270,7 +270,7 @@
       "kept": 20,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1667
+      "elapsedMs": 1823
     },
     {
       "id": "ancient-origins",
@@ -278,12 +278,9 @@
       "lang": "en",
       "region": "world",
       "kind": "news",
-      "ok": true,
-      "fetched": 10,
-      "kept": 3,
-      "droppedOffTopic": 5,
-      "droppedModern": 2,
-      "elapsedMs": 1764
+      "ok": false,
+      "error": "Unable to parse XML.",
+      "elapsedMs": 6353
     },
     {
       "id": "guardian-arch",
@@ -296,7 +293,7 @@
       "kept": 7,
       "droppedOffTopic": 10,
       "droppedModern": 3,
-      "elapsedMs": 2002
+      "elapsedMs": 1986
     },
     {
       "id": "current-archaeology",
@@ -309,7 +306,7 @@
       "kept": 12,
       "droppedOffTopic": 5,
       "droppedModern": 13,
-      "elapsedMs": 1734
+      "elapsedMs": 1717
     },
     {
       "id": "jas-reports",
@@ -322,7 +319,7 @@
       "kept": 8,
       "droppedOffTopic": 3,
       "droppedModern": 19,
-      "elapsedMs": 1787
+      "elapsedMs": 1767
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +332,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1833
+      "elapsedMs": 1844
     },
     {
       "id": "pnas-arch",
@@ -348,7 +345,7 @@
       "kept": 17,
       "droppedOffTopic": 7,
       "droppedModern": 6,
-      "elapsedMs": 2358
+      "elapsedMs": 2336
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +358,7 @@
       "kept": 8,
       "droppedOffTopic": 0,
       "droppedModern": 22,
-      "elapsedMs": 1865
+      "elapsedMs": 1799
     },
     {
       "id": "spal-us",
@@ -374,7 +371,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 5,
-      "elapsedMs": 2987
+      "elapsedMs": 2678
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +384,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 4078
+      "elapsedMs": 3839
     },
     {
       "id": "archeoarte",
@@ -397,7 +394,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 8789
+      "elapsedMs": 8195
     },
     {
       "id": "cypsela",
@@ -407,7 +404,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 10947
+      "elapsedMs": 7121
     },
     {
       "id": "cambridge-antiquity",
@@ -420,7 +417,7 @@
       "kept": 17,
       "droppedOffTopic": 4,
       "droppedModern": 9,
-      "elapsedMs": 2646
+      "elapsedMs": 2336
     },
     {
       "id": "cambridge-caj",
@@ -433,7 +430,7 @@
       "kept": 18,
       "droppedOffTopic": 7,
       "droppedModern": 5,
-      "elapsedMs": 2689
+      "elapsedMs": 2398
     },
     {
       "id": "cambridge-ejarc",
@@ -446,7 +443,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 2544
+      "elapsedMs": 2351
     },
     {
       "id": "aquitania-persee",
@@ -459,7 +456,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3640
+      "elapsedMs": 3435
     },
     {
       "id": "cuadernos-arq-unav",
@@ -472,7 +469,7 @@
       "kept": 22,
       "droppedOffTopic": 0,
       "droppedModern": 8,
-      "elapsedMs": 4157
+      "elapsedMs": 3469
     },
     {
       "id": "veleia-ehu",
@@ -485,7 +482,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3772
+      "elapsedMs": 3750
     },
     {
       "id": "flv-navarra",
@@ -498,7 +495,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2900
+      "elapsedMs": 2426
     },
     {
       "id": "munibe-aa",
@@ -511,7 +508,7 @@
       "kept": 17,
       "droppedOffTopic": 4,
       "droppedModern": 9,
-      "elapsedMs": 2951
+      "elapsedMs": 2590
     },
     {
       "id": "trabajos-prehistoria",
@@ -524,7 +521,7 @@
       "kept": 23,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 2937
+      "elapsedMs": 2635
     },
     {
       "id": "openalex-archaeology",
@@ -534,10 +531,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 13,
-      "droppedOffTopic": 9,
-      "droppedModern": 8,
-      "elapsedMs": 2879
+      "kept": 11,
+      "droppedOffTopic": 10,
+      "droppedModern": 9,
+      "elapsedMs": 2580
     }
   ],
   "items": [
@@ -831,6 +828,23 @@
       "lang": "en",
       "region": "world",
       "topics": []
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/11/aparece-en-el-fuerte-romano-de-cuppae-junto-a-las-puertas-de-hierro-en-el-danubio-una-inscripcion-con-el-mismo-nombre-familiar-del-emperador-trajano",
+      "title": "Aparece en el fuerte romano de Cuppae junto a las Puertas de Hierro en el Danubio una inscripción con el mismo nombre familiar del emperador Trajano",
+      "summary": "En los itinerarios romanos, Cuppae era una parada del camino que seguía el Danubio, y en las listas militares de los últimos siglos del imperio, una fortaleza muy guarnecida. Lo que esos textos nunca ofrecieron es un nombre de persona. Esa laguna ha empezado a cerrarse este año:…",
+      "url": "https://www.labrujulaverde.com/2026/11/aparece-en-el-fuerte-romano-de-cuppae-junto-a-las-puertas-de-hierro-en-el-danubio-una-inscripcion-con-el-mismo-nombre-familiar-del-emperador-trajano",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/11/golubac_02-1024x576-1.webp",
+      "publishedAt": "2026-11-15T12:19:37.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak"
+      ]
     },
     {
       "id": "openalex-archaeology:https://openalex.org/W7212104278",
@@ -7188,40 +7202,6 @@
       ]
     },
     {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/08/en-el-monasterio-de-san-juan-de-la-pena-se-regulo-una-de-las-pruebas-mas-brutales-de-la-edad-media-caminar-nueve-pasos-con-un-hierro-al-rojo-vivo",
-      "title": "En el monasterio de San Juan de la Peña se reguló una de las pruebas más brutales de la Edad Media: caminar nueve pasos con un hierro al rojo vivo",
-      "summary": "Uno de los lugares de Huesca que hay que visitar sí o sí es el Real Monasterio de San Juan de la Peña. No sólo por su peculiar ubicación, encajado entre las pétreas paredes de una montaña de Botaya (Huesca), sino también porque fue el cenobio más importante de Aragón durante la…",
-      "url": "https://www.labrujulaverde.com/2026/08/en-el-monasterio-de-san-juan-de-la-pena-se-regulo-una-de-las-pruebas-mas-brutales-de-la-edad-media-caminar-nueve-pasos-con-un-hierro-al-rojo-vivo",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/08/1181AF95-C176-4B53-labrujulaverde.com-A52B-0E83C9A85FED.webp",
-      "publishedAt": "2026-08-18T06:39:43.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "erdi-aroa"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/iscrizione-romana-praetorium-magna-carvoran/",
-      "title": "Forte romano di 1800 anni fa, nuove scoperte a Magna. Si scava nella casa del comandante. Iscrizione misteriosa, figure infere, dadi e terme. Come si viveva ai margini della terra delle piogge, attendendo l’arrivo del nemico",
-      "summary": "Un frammento romano inciso, riutilizzato come elemento edilizio e finito dentro un terrazzamento post-romano, è stato scoperto nel praetorium, la dimora del comandante del presidio, in questi giorni, nei pressi del Vallo di Adriano, nell’Inghilterra settentrionale. L’iscrizione,…",
-      "url": "https://www.stilearte.it/iscrizione-romana-praetorium-magna-carvoran/",
-      "image": null,
-      "publishedAt": "2026-08-18T06:07:53.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26003470?dgcid=rss_sd_all",
       "title": "Changing systems? similarities and differences in settlement patterns and land use in the Early and Middle Neolithic in Saxony",
       "summary": "Publication date: October 2026 Source: Journal of Archaeological Science: Reports, Volume 74 Author(s): Saskia Kretschmer, Christoph Herbig, Harald Stäuble",
@@ -8435,6 +8415,21 @@
         "prehistoria",
         "aurkikuntza"
       ]
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7226837623",
+      "title": "Progradation of the Irrawaddy Delta: Shoreline Advance From the Gauged Load",
+      "summary": "This paper computes a fluvial sediment budget for the Irrawaddy (Ayeyarwady) delta front, Myanmar, using published gauging records as inputs and standard relations stated in full. The principal computed quantities are: mean concentration mg per L = 633.8; specific yield t per…",
+      "url": "https://doi.org/10.5281/zenodo.24234552",
+      "image": null,
+      "publishedAt": "2026-11-15T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
     },
     {
       "id": "labrujulaverde:https://www.labrujulaverde.com/2026/11/la-piedra-de-africa-la-orina-fosilizada-con-la-que-se-hacen-perfumes-y-los-cientificos-usan-para-conocer-el-clima-de-hace-50000-anos",
