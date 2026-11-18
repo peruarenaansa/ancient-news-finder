@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T09:27:20.268Z",
+  "generatedAt": "2026-11-18T08:45:13.924Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5163
+      "elapsedMs": 4929
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 968
+      "elapsedMs": 975
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1189
+      "elapsedMs": 4164
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 827
+      "elapsedMs": 857
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2493
+      "elapsedMs": 2149
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 6,
       "droppedOffTopic": 24,
       "droppedModern": 0,
-      "elapsedMs": 2480
+      "elapsedMs": 2225
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 2,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 1275
+      "elapsedMs": 1044
     },
     {
       "id": "labrujulaverde",
@@ -98,10 +98,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 16,
-      "droppedOffTopic": 0,
+      "kept": 15,
+      "droppedOffTopic": 1,
       "droppedModern": 4,
-      "elapsedMs": 1200
+      "elapsedMs": 1727
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 1757
+      "elapsedMs": 1639
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1818
+      "elapsedMs": 1804
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 890
+      "elapsedMs": 822
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 7,
       "droppedOffTopic": 10,
       "droppedModern": 3,
-      "elapsedMs": 885
+      "elapsedMs": 700
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +162,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 14,
+      "fetched": 13,
       "kept": 4,
-      "droppedOffTopic": 9,
+      "droppedOffTopic": 8,
       "droppedModern": 1,
-      "elapsedMs": 1316
+      "elapsedMs": 1097
     },
     {
       "id": "inrap-bsky",
@@ -179,7 +179,7 @@
       "kept": 4,
       "droppedOffTopic": 18,
       "droppedModern": 3,
-      "elapsedMs": 2504
+      "elapsedMs": 2173
     },
     {
       "id": "sudouest-culture",
@@ -189,10 +189,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 0,
-      "droppedOffTopic": 20,
+      "kept": 1,
+      "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1207
+      "elapsedMs": 971
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1865
+      "elapsedMs": 1425
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 1,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 2302
+      "elapsedMs": 2055
     },
     {
       "id": "stilearte",
@@ -231,7 +231,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 1,
-      "elapsedMs": 2173
+      "elapsedMs": 2388
     },
     {
       "id": "live-science-arch",
@@ -244,7 +244,7 @@
       "kept": 4,
       "droppedOffTopic": 26,
       "droppedModern": 0,
-      "elapsedMs": 2120
+      "elapsedMs": 1877
     },
     {
       "id": "bbc-history",
@@ -257,7 +257,7 @@
       "kept": 0,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1435
+      "elapsedMs": 1205
     },
     {
       "id": "sciencedaily-arch",
@@ -270,7 +270,7 @@
       "kept": 20,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1614
+      "elapsedMs": 1315
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1542
+      "elapsedMs": 1327
     },
     {
       "id": "guardian-arch",
@@ -293,10 +293,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 7,
-      "droppedOffTopic": 10,
+      "kept": 8,
+      "droppedOffTopic": 9,
       "droppedModern": 3,
-      "elapsedMs": 1878
+      "elapsedMs": 1572
     },
     {
       "id": "current-archaeology",
@@ -306,10 +306,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 12,
+      "kept": 13,
       "droppedOffTopic": 5,
-      "droppedModern": 13,
-      "elapsedMs": 1556
+      "droppedModern": 12,
+      "elapsedMs": 1301
     },
     {
       "id": "jas-reports",
@@ -319,10 +319,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 8,
+      "kept": 9,
       "droppedOffTopic": 3,
-      "droppedModern": 19,
-      "elapsedMs": 1519
+      "droppedModern": 18,
+      "elapsedMs": 1264
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +335,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1740
+      "elapsedMs": 1491
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 17,
       "droppedOffTopic": 7,
       "droppedModern": 6,
-      "elapsedMs": 2533
+      "elapsedMs": 2258
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +361,7 @@
       "kept": 9,
       "droppedOffTopic": 0,
       "droppedModern": 21,
-      "elapsedMs": 1500
+      "elapsedMs": 1255
     },
     {
       "id": "spal-us",
@@ -374,7 +374,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 5,
-      "elapsedMs": 2763
+      "elapsedMs": 2485
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +387,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 4504
+      "elapsedMs": 3881
     },
     {
       "id": "archeoarte",
@@ -397,7 +397,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 8349
+      "elapsedMs": 8006
     },
     {
       "id": "cypsela",
@@ -407,7 +407,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 6722
+      "elapsedMs": 6595
     },
     {
       "id": "cambridge-antiquity",
@@ -417,10 +417,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 17,
+      "kept": 18,
       "droppedOffTopic": 4,
-      "droppedModern": 9,
-      "elapsedMs": 2347
+      "droppedModern": 8,
+      "elapsedMs": 1809
     },
     {
       "id": "cambridge-caj",
@@ -433,7 +433,7 @@
       "kept": 18,
       "droppedOffTopic": 7,
       "droppedModern": 5,
-      "elapsedMs": 2335
+      "elapsedMs": 2327
     },
     {
       "id": "cambridge-ejarc",
@@ -446,7 +446,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 2385
+      "elapsedMs": 2260
     },
     {
       "id": "aquitania-persee",
@@ -459,7 +459,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3110
+      "elapsedMs": 2871
     },
     {
       "id": "cuadernos-arq-unav",
@@ -472,7 +472,7 @@
       "kept": 22,
       "droppedOffTopic": 0,
       "droppedModern": 8,
-      "elapsedMs": 3533
+      "elapsedMs": 3262
     },
     {
       "id": "veleia-ehu",
@@ -485,7 +485,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3463
+      "elapsedMs": 3248
     },
     {
       "id": "flv-navarra",
@@ -498,7 +498,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2476
+      "elapsedMs": 2243
     },
     {
       "id": "munibe-aa",
@@ -511,7 +511,7 @@
       "kept": 17,
       "droppedOffTopic": 4,
       "droppedModern": 9,
-      "elapsedMs": 2458
+      "elapsedMs": 2552
     },
     {
       "id": "trabajos-prehistoria",
@@ -524,7 +524,7 @@
       "kept": 23,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 2585
+      "elapsedMs": 2210
     },
     {
       "id": "openalex-archaeology",
@@ -534,10 +534,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 13,
+      "kept": 11,
       "droppedOffTopic": 9,
-      "droppedModern": 8,
-      "elapsedMs": 2518
+      "droppedModern": 10,
+      "elapsedMs": 2378
     }
   ],
   "items": [
@@ -7030,69 +7030,6 @@
       ]
     },
     {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/08/cientificos-crean-un-pequeno-big-bang-y-consiguen-reproducir-en-laboratorio-el-estado-de-materia-que-lleno-el-cosmos-durante-los-primeros-instantes-del-universo",
-      "title": "Científicos crean un ‘pequeño Big Bang’ y consiguen reproducir en laboratorio el estado de materia que llenó el cosmos durante los primeros instantes del universo",
-      "summary": "Investigadores del Instituto Niels Bohr, en la Universidad de Copenhague, han logrado reproducir en laboratorio el estado de materia que llenó el cosmos durante su primera millonésima de segundo tras el Big Bang, utilizando colisiones entre núcleos atómicos mucho más ligeros de…",
-      "url": "https://www.labrujulaverde.com/2026/08/cientificos-crean-un-pequeno-big-bang-y-consiguen-reproducir-en-laboratorio-el-estado-de-materia-que-lleno-el-cosmos-durante-los-primeros-instantes-del-universo",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/08/CERN_INSIDE_DETECTOR_1100x600.webp",
-      "publishedAt": "2026-08-20T07:57:53.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/lucone-polpenazze-scoperta-arma-bronzo-4000-anni/",
-      "title": "Lago di Garda. Al Lucone emerge ora dal terreno un’arma di bronzo nei pressi della tavoletta enigmatica di 4000 anni fa. Caccia, difesa, commerci. I crogiuoli casalinghi. Tracce di materiali provenienti da lontano. La bellissima storia del villaggio sulle palafitte",
-      "summary": "Dopo la tavoletta enigmatica, un nuovo reperto porta nel villaggio di 4.000 anni fa la tecnologia, il commercio e forse anche la dimensione guerriera dell’antica comunità gardesana Nel video gli archeologi parlano di “poignard”, cioè di un pugnale: la forma del reperto,…",
-      "url": "https://www.stilearte.it/lucone-polpenazze-scoperta-arma-bronzo-4000-anni/",
-      "image": null,
-      "publishedAt": "2026-08-20T07:05:42.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/08/arqueologos-demuestran-que-las-marcas-comerciales-existian-ya-hace-3200-anos-en-los-oasis-de-la-edad-del-bronce",
-      "title": "Arqueólogos demuestran que las marcas comerciales existían ya hace 3.200 años en los oasis de la Edad del Bronce",
-      "summary": "La pregunta de si las marcas comerciales son un invento exclusivo de las sociedades capitalistas modernas ha recibido una respuesta contundente por parte de un equipo internacional de investigadores: ya existían al menos 3.200 años atrás. Un estudio liderado por Marta Luciani,…",
-      "url": "https://www.labrujulaverde.com/2026/08/arqueologos-demuestran-que-las-marcas-comerciales-existian-ya-hace-3200-anos-en-los-oasis-de-la-edad-del-bronce",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/08/Fig1_PLOSOne.webp",
-      "publishedAt": "2026-08-20T06:56:06.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/review/travel/the-grand-egyptian-museum/",
-      "title": "The Grand Egyptian Museum",
-      "summary": "Geoffrey Lenox-Smith pays a return visit to the Grand Egyptian Museum to view the new galleries.",
-      "url": "https://the-past.com/review/travel/the-grand-egyptian-museum/",
-      "image": null,
-      "publishedAt": "2026-08-20T05:00:37.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "egiptoarrak",
-        "museoak"
-      ]
-    },
-    {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26004268?dgcid=rss_sd_all",
       "title": "Reflections on prehistoric cervids as baseline species in China: a stable isotope investigation from the Neolithic age to the Pre-Qin period (11500–2300 BP)",
       "summary": "Publication date: November 2026 Source: Journal of Archaeological Science: Reports, Volume 75 Author(s): Sisi Hong, Xianglong Chen, Taiping Liu, Jie Lou, Boya Yu, Shanshan Zhou, Shiyu Xie, Hui Peng, Yi Guo",
@@ -7128,23 +7065,6 @@
       ]
     },
     {
-      "id": "current-archaeology:https://the-past.com/feature/sir-john-gardner-wilkinson-the-other-founder-of-british-egyptology/",
-      "title": "Sir John Gardner Wilkinson: The ‘other founder’ of British Egyptology",
-      "summary": "Robert R Frost explores the life and legacy of the antiquary, traveller, and pioneer of British Egyptology.",
-      "url": "https://the-past.com/feature/sir-john-gardner-wilkinson-the-other-founder-of-british-egyptology/",
-      "image": null,
-      "publishedAt": "2026-08-19T16:00:19.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "egiptoarrak"
-      ]
-    },
-    {
       "id": "plos-one-arch:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356262",
       "title": "Effects of selected feed additives on rumen pH dynamics, physiological responses, and rumen and cecum morphometrics in feedlot beef cattle",
       "summary": "by Maria Betânia Niehues, Daniel Ioan Campos Gomes de Gouvêa, Alexandre Perdigão, Victor Valério Carvalho, Tiago Sabella Acedo, Luis Fernando Monteiro Tamassia, Cyntia Ludovico Martins, Mário De Beni Arrigoni The search for alternatives to ionophore antibiotics such as monensin…",
@@ -7160,74 +7080,6 @@
       "topics": [
         "ekialde-hurbila"
       ]
-    },
-    {
-      "id": "elpais-cultura:https://elpais.com/cultura/2026-08-19/el-monumento-al-emperador-que-no-valia-un-mojon.html",
-      "title": "El monumento al emperador que no valía un mojón",
-      "summary": "Un epigrafista desvela que un supuesto dintel romano de la sierra de Cazorla es, en realidad, una demarcación del siglo XX",
-      "url": "https://elpais.com/cultura/2026-08-19/el-monumento-al-emperador-que-no-valia-un-mojon.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/VA6IPCUKBRFVDOLFNDARY54WAA.png?auth=b6d6f950652d4b4f60d3ea25e9d4345ca47d0c9775055bf11fc95cfaf00878e7",
-      "publishedAt": "2026-08-19T13:15:04.000Z",
-      "source": {
-        "id": "elpais-cultura",
-        "name": "El País — Cultura"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "live-science-arch:https://www.livescience.com/archaeology/archeologists-used-to-think-women-in-prehistory-wielded-no-power-genetic-data-is-upending-that-idea",
-      "title": "Archeologists used to think women in prehistory wielded no power. Genetic data is upending that idea.",
-      "summary": "For more than 150 years, leading archaeologists have assumed that women of the past never assumed roles of power. New genetic data shows how flawed that interpretation is, says Dr. Rachel Pope.",
-      "url": "https://www.livescience.com/archaeology/archeologists-used-to-think-women-in-prehistory-wielded-no-power-genetic-data-is-upending-that-idea",
-      "image": "https://cdn.mos.cms.futurecdn.net/2f5KnbtoPgYYk5ZuskdrKC-1280-80.png",
-      "publishedAt": "2026-08-19T12:00:00.000Z",
-      "source": {
-        "id": "live-science-arch",
-        "name": "Live Science"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/08/descubren-en-suffolk-un-santuario-romano-construido-sobre-un-tumulo-funerario-de-la-edad-del-bronce-que-acabo-siendo-lugar-de-ejecuciones-en-la-edad-media",
-      "title": "Descubren en Suffolk un santuario romano construido sobre un túmulo funerario de la Edad del Bronce que acabó siendo lugar de ejecuciones en la Edad Media",
-      "summary": "Un equipo de arqueólogos de Archaeology South-East, perteneciente al University College London, ha desenterrado en Red Lodge, Suffolk, un fascinante yacimiento que abarca desde el Neolítico hasta la época medieval, con un hallazgo principal que está reescribiendo la historia de…",
-      "url": "https://www.labrujulaverde.com/2026/08/descubren-en-suffolk-un-santuario-romano-construido-sobre-un-tumulo-funerario-de-la-edad-del-bronce-que-acabo-siendo-lugar-de-ejecuciones-en-la-edad-media",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/08/urn-cambridge.org-id-binary-alt-20260811151109-66542-optimisedImage-png-S0068113X26100841_fig7.jpg.webp",
-      "publishedAt": "2026-08-19T10:03:48.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "erromatarrak",
-        "erdi-aroa",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "sciencedaily-arch:https://www.sciencedaily.com/releases/2026/08/260819041226.htm",
-      "title": "This 23-foot crocodylian may have ruled South America’s food chain",
-      "summary": "Miocene South America was packed with giant prey—and the predators hunting them were just as spectacular. Fossil bite marks suggest crocodylians, especially the enormous Purussaurus neivensis, were more important predators than mammals in this ancient tropical ecosystem. At…",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260819041226.htm",
-      "image": null,
-      "publishedAt": "2026-08-19T09:55:34.000Z",
-      "source": {
-        "id": "sciencedaily-arch",
-        "name": "ScienceDaily — Archaeology"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
     },
     {
       "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26004347?dgcid=rss_sd_all",
@@ -8406,6 +8258,153 @@
       "region": "europe",
       "topics": [
         "aurkikuntza"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26006188?dgcid=rss_sd_all",
+      "title": "Fragmented yet whole: Animals and burial rituals in Late Iron Age Åland",
+      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): Marcus Frid",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26006188?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-11-18T08:45:07.151Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26005973?dgcid=rss_sd_all",
+      "title": "Damyanitsa in the Struma Valley (Southwestern Bulgaria): Cultural interaction and transformation between the Vinča and Topolnica–Akropotamos traditions at the end of the sixth millennium BCE",
+      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): Ivan Vajsov, Małgorzata Grębska-Kulow, Galya Vandeva",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26005973?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-11-18T08:45:07.150Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/donna-ballymacombs-more-torbiera-irlanda-eta-ferro/",
+      "title": "Decapitata nell’età del Ferro, il suo corpo è rimasto nella torbiera per oltre 2.000 anni. Le nuove indagini ricostruiscono la morte di una giovane donna in Irlanda",
+      "summary": "Aveva probabilmente tra 15 e 22 anni quando qualcuno la uccise con un’arma da taglio, separandole la testa dal corpo. I suoi resti, conservati per oltre due millenni nella torba di Ballymacombs More, nell’Irlanda del Nord, hanno restituito anche capelli, pelle, unghie e un…",
+      "url": "https://www.stilearte.it/donna-ballymacombs-more-torbiera-irlanda-eta-ferro/",
+      "image": null,
+      "publishedAt": "2026-11-18T08:22:18.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "guardian-arch:https://www.theguardian.com/uk-news/2026/nov/18/ballymacombs-more-woman-derry-bog-decapitated-2000-years-ago",
+      "title": "Body found in Derry bog decapitated more than 2,000 years ago, coroner finds",
+      "summary": "Inquest-style inquiry concludes iron age remains are of 15- to 22-year-old female who may have been ritually sacrificed A coroner’s investigation into Northern Ireland’s most venerable cold case has concluded that the victim was decapitated more than 2,000 years ago. The…",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/18/ballymacombs-more-woman-derry-bog-decapitated-2000-years-ago",
+      "image": "https://i.guim.co.uk/img/media/1254c03014b10a8e18a804f40e4827cc74b580fe/96_0_3547_2837/master/3547.jpg?width=140&quality=85&auto=format&fit=max&s=553c991f0045f64135610c21c47ada0b",
+      "publishedAt": "2026-11-18T08:00:36.000Z",
+      "source": {
+        "id": "guardian-arch",
+        "name": "The Guardian — Archaeology"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "sudouest-culture:https://www.sudouest.fr/culture/cinema/le-cinema-britannique-peut-se-resumer-en-deux-mots-le-social-et-l-humour-observateur-privilegie-hussam-hindi-donnera-une-conference-a-saintes-pour-god-save-the-screen-31547233.php",
+      "title": "« Le cinéma britannique peut se résumer en deux mots, le social et l’humour » : observateur privilégié, Hussam Hindi donnera une conférence à Saintes pour God save the screen",
+      "summary": "Hussam Hindi, observateur reconnu du septième art britannique, revient sur quatre décennies de cinéma outre-Manche. Vendredi 20 novembre, dans le cadre de God save the screen, il donnera une conférence",
+      "url": "https://www.sudouest.fr/culture/cinema/le-cinema-britannique-peut-se-resumer-en-deux-mots-le-social-et-l-humour-observateur-privilegie-hussam-hindi-donnera-une-conference-a-saintes-pour-god-save-the-screen-31547233.php",
+      "image": null,
+      "publishedAt": "2026-11-17T20:00:00.000Z",
+      "source": {
+        "id": "sudouest-culture",
+        "name": "Sud Ouest — Culture"
+      },
+      "lang": "fr",
+      "region": "basque",
+      "topics": [
+        "ekialde-hurbila"
+      ]
+    },
+    {
+      "id": "current-archaeology:https://the-past.com/the-past/archive/whats-on/conference-current-archaeological-research-in-the-midlands-and-abroad/",
+      "title": "Conference – Current Archaeological Research in the Midlands and Abroad",
+      "summary": "The upcoming CARMA conference, hosted by Nottingham Trent University, will be on 21-22 November at NTU’s Clifton Campus. This two-day event spotlights the dynamic intersection of archaeological research conducted by Mercian Archaeological Services and NTU, covering…",
+      "url": "https://the-past.com/the-past/archive/whats-on/conference-current-archaeological-research-in-the-midlands-and-abroad/",
+      "image": null,
+      "publishedAt": "2026-11-17T12:44:45.000Z",
+      "source": {
+        "id": "current-archaeology",
+        "name": "Current Archaeology (UK)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "egiptoarrak"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/11/consiguen-fechar-con-exactitud-la-caida-de-babilonia-y-la-destruccion-de-hattusa-gracias-a-observaciones-de-venus-en-tablillas-cuneiformes-anillos-de-arboles-y-un-volcan-de-alaska",
+      "title": "Consiguen fechar con exactitud la caída de Babilonia y la destrucción de Hattusa, gracias a observaciones de Venus en tablillas cuneiformes, anillos de árboles y un volcán de Alaska",
+      "summary": "Preguntar cuándo reinó Hammurabi, el rey de Babilonia famoso por su código de leyes, tiene una respuesta incómoda: depende de a quién se pregunte. Los historiadores manejan varias cronologías (alta, media, baja) y las más alejadas entre sí se separan entre 150 y 230 años. Un…",
+      "url": "https://www.labrujulaverde.com/2026/11/consiguen-fechar-con-exactitud-la-caida-de-babilonia-y-la-destruccion-de-hattusa-gracias-a-observaciones-de-venus-en-tablillas-cuneiformes-anillos-de-arboles-y-un-volcan-de-alaska",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/11/Lion_Gate_Hattusa_01.webp",
+      "publishedAt": "2026-11-17T09:47:41.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "ekialde-hurbila"
+      ]
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7234460189",
+      "title": "Use of machine learning for the interpretation of modern and ancient marginal marine clastic sediments",
+      "summary": "Use of machine learning for the interpretation of modern and ancient marginal marine clastic sediments",
+      "url": "https://doi.org/10.17638/03190126",
+      "image": null,
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "cambridge-antiquity:https://openalex.org/W7234401971",
+      "title": "Rødhals Man: a life at the end of the Mesolithic world",
+      "summary": "Found buried within a shell midden on the Sejerø archipelago, the skeleton designated as Rødhals Man is here identified as belonging to the most recent individual in Denmark (who died c . 3800 cal BC) with unadmixed Mesolithic genetic ancestry and a marine-dependent diet.…",
+      "url": "https://doi.org/10.15184/aqy.2026.10476",
+      "image": null,
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "source": {
+        "id": "cambridge-antiquity",
+        "name": "Antiquity (Cambridge)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
       ]
     },
     {
