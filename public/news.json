@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T08:47:30.416Z",
+  "generatedAt": "2026-11-21T08:30:05.510Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5660
+      "elapsedMs": 5593
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 921
+      "elapsedMs": 684
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 8132
+      "elapsedMs": 986
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 1089
+      "elapsedMs": 791
     },
     {
       "id": "berria-bsky",
@@ -62,7 +62,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 3009
+      "elapsedMs": 2772
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 5,
       "droppedOffTopic": 25,
       "droppedModern": 0,
-      "elapsedMs": 2957
+      "elapsedMs": 2742
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 2,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 1424
+      "elapsedMs": 1180
     },
     {
       "id": "labrujulaverde",
@@ -101,7 +101,7 @@
       "kept": 14,
       "droppedOffTopic": 1,
       "droppedModern": 5,
-      "elapsedMs": 1354
+      "elapsedMs": 963
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 1179
+      "elapsedMs": 1479
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2038
+      "elapsedMs": 669
     },
     {
       "id": "lemonde-sciences",
@@ -140,7 +140,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1216
+      "elapsedMs": 816
     },
     {
       "id": "lemonde-archeo",
@@ -153,7 +153,7 @@
       "kept": 7,
       "droppedOffTopic": 10,
       "droppedModern": 3,
-      "elapsedMs": 1417
+      "elapsedMs": 829
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -166,7 +166,7 @@
       "kept": 4,
       "droppedOffTopic": 9,
       "droppedModern": 1,
-      "elapsedMs": 2990
+      "elapsedMs": 919
     },
     {
       "id": "inrap-bsky",
@@ -175,11 +175,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 24,
+      "fetched": 25,
       "kept": 5,
-      "droppedOffTopic": 16,
+      "droppedOffTopic": 17,
       "droppedModern": 3,
-      "elapsedMs": 3033
+      "elapsedMs": 2832
     },
     {
       "id": "sudouest-culture",
@@ -192,7 +192,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1423
+      "elapsedMs": 1218
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 2187
+      "elapsedMs": 1883
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 1,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 2335
+      "elapsedMs": 2063
     },
     {
       "id": "stilearte",
@@ -231,7 +231,7 @@
       "kept": 9,
       "droppedOffTopic": 1,
       "droppedModern": 0,
-      "elapsedMs": 2814
+      "elapsedMs": 2162
     },
     {
       "id": "live-science-arch",
@@ -244,7 +244,7 @@
       "kept": 2,
       "droppedOffTopic": 28,
       "droppedModern": 0,
-      "elapsedMs": 2722
+      "elapsedMs": 2574
     },
     {
       "id": "bbc-history",
@@ -257,7 +257,7 @@
       "kept": 0,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1659
+      "elapsedMs": 1535
     },
     {
       "id": "sciencedaily-arch",
@@ -267,10 +267,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 18,
-      "droppedOffTopic": 12,
+      "kept": 17,
+      "droppedOffTopic": 13,
       "droppedModern": 0,
-      "elapsedMs": 1781
+      "elapsedMs": 1653
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1804
+      "elapsedMs": 1601
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 7,
       "droppedOffTopic": 9,
       "droppedModern": 4,
-      "elapsedMs": 2076
+      "elapsedMs": 1869
     },
     {
       "id": "current-archaeology",
@@ -309,7 +309,7 @@
       "kept": 24,
       "droppedOffTopic": 5,
       "droppedModern": 1,
-      "elapsedMs": 1772
+      "elapsedMs": 1586
     },
     {
       "id": "jas-reports",
@@ -319,10 +319,10 @@
       "kind": "research",
       "ok": true,
       "fetched": 30,
-      "kept": 10,
-      "droppedOffTopic": 3,
-      "droppedModern": 17,
-      "elapsedMs": 1749
+      "kept": 11,
+      "droppedOffTopic": 1,
+      "droppedModern": 18,
+      "elapsedMs": 1618
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +335,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1956
+      "elapsedMs": 1843
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 17,
       "droppedOffTopic": 7,
       "droppedModern": 6,
-      "elapsedMs": 2417
+      "elapsedMs": 2232
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +361,7 @@
       "kept": 5,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 1758
+      "elapsedMs": 1643
     },
     {
       "id": "spal-us",
@@ -374,7 +374,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 5,
-      "elapsedMs": 2802
+      "elapsedMs": 2508
     },
     {
       "id": "complutum-ucm",
@@ -382,12 +382,9 @@
       "lang": "es",
       "region": "iberia",
       "kind": "research",
-      "ok": true,
-      "fetched": 30,
-      "kept": 19,
-      "droppedOffTopic": 1,
-      "droppedModern": 10,
-      "elapsedMs": 4451
+      "ok": false,
+      "error": "Request timed out after 15000ms",
+      "elapsedMs": 49505
     },
     {
       "id": "archeoarte",
@@ -397,7 +394,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 404",
-      "elapsedMs": 9024
+      "elapsedMs": 8797
     },
     {
       "id": "cypsela",
@@ -407,7 +404,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 7337
+      "elapsedMs": 7207
     },
     {
       "id": "cambridge-antiquity",
@@ -420,7 +417,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 2756
+      "elapsedMs": 2334
     },
     {
       "id": "cambridge-caj",
@@ -433,7 +430,7 @@
       "kept": 18,
       "droppedOffTopic": 7,
       "droppedModern": 5,
-      "elapsedMs": 2866
+      "elapsedMs": 2348
     },
     {
       "id": "cambridge-ejarc",
@@ -446,7 +443,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 2807
+      "elapsedMs": 2232
     },
     {
       "id": "aquitania-persee",
@@ -459,7 +456,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3742
+      "elapsedMs": 3037
     },
     {
       "id": "cuadernos-arq-unav",
@@ -467,12 +464,9 @@
       "lang": "es",
       "region": "basque",
       "kind": "research",
-      "ok": true,
-      "fetched": 30,
-      "kept": 22,
-      "droppedOffTopic": 0,
-      "droppedModern": 8,
-      "elapsedMs": 3914
+      "ok": false,
+      "error": "read ECONNRESET",
+      "elapsedMs": 37833
     },
     {
       "id": "veleia-ehu",
@@ -485,7 +479,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3817
+      "elapsedMs": 3559
     },
     {
       "id": "flv-navarra",
@@ -498,7 +492,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 2929
+      "elapsedMs": 2803
     },
     {
       "id": "munibe-aa",
@@ -511,7 +505,7 @@
       "kept": 17,
       "droppedOffTopic": 4,
       "droppedModern": 9,
-      "elapsedMs": 3056
+      "elapsedMs": 2710
     },
     {
       "id": "trabajos-prehistoria",
@@ -524,7 +518,7 @@
       "kept": 23,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 2816
+      "elapsedMs": 2739
     },
     {
       "id": "openalex-archaeology",
@@ -534,10 +528,10 @@
       "kind": "openalex",
       "ok": true,
       "fetched": 30,
-      "kept": 11,
-      "droppedOffTopic": 8,
-      "droppedModern": 11,
-      "elapsedMs": 2959
+      "kept": 16,
+      "droppedOffTopic": 7,
+      "droppedModern": 7,
+      "elapsedMs": 2794
     }
   ],
   "items": [
@@ -8396,6 +8390,232 @@
       ]
     },
     {
+      "id": "openalex-archaeology:https://openalex.org/W7224772578",
+      "title": "Conservation on the Front Lines: Forty Years of Florida Environmental Advocacy",
+      "summary": "A firsthand view of achievements and lessons learned in Florida’s environmental movement Florida is a leader in land conservation and environmental restoration, while simultaneously being one of the fastest growing states in the country. In Conservation on the Front Lines, Clay…",
+      "url": "https://doi.org/10.5744/9780813079882",
+      "image": null,
+      "publishedAt": "2027-06-15T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "asia"
+      ]
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7213405442",
+      "title": "The Sapelo Shell Rings: Ecology, Community, and Collective Action on the Atlantic Coast",
+      "summary": "Shell ring sites—curved mounds made from piles of oyster, clam, conch, and other shells—can be found across the North American Southeast and have long been studied by archaeologists. Drawing on extensive research at the Sapelo Shell Ring Complex on the Georgia coast, Victor…",
+      "url": "https://doi.org/10.5744/9780813079806",
+      "image": null,
+      "publishedAt": "2027-04-06T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7171424856",
+      "title": "Archaeological Approaches to Inequality, Political Organisation, and Social Complexity",
+      "summary": "Featuring internationally leading contributions on archaeological theories of inequality, political organisation, and social complexity, this concise collection explores alternative and complementary perspectives to dominant approaches to inequality. The book illustrates the…",
+      "url": "https://doi.org/10.59641/ddd456gp",
+      "image": null,
+      "publishedAt": "2027-03-01T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "ekialde-hurbila"
+      ]
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7214612177",
+      "title": "The southern area of Rome: mapping of underground cavities at Tor Marancia and evolution of the landscape",
+      "summary": "The study area, located in the southern sector of Rome, lies within the Appia Antica Park and includes some of the last non-urbanized zones that formerly belonged to the historic Tor Marancia and Grotta Perfetta estates. The area is characterized by high environmental and…",
+      "url": "https://doi.org/10.3301/rol.2026.35",
+      "image": null,
+      "publishedAt": "2027-03-01T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7214668422",
+      "title": "تأثير استخدام تدريبات الكرة الحديدية kettle bell علي بعض المتغيرات البدنية ودقة التصويب من المسافات القريبة والمتوسطة لدي ناشئات كرة السلة",
+      "summary": "تأثير استخدام تدريبات الكرة الحديدية kettle bell علي بعض المتغيرات البدنية ودقة التصويب من المسافات القريبة والمتوسطة لدي ناشئات كرة السلة",
+      "url": "https://doi.org/10.21608/pemas.2026.531617.1340",
+      "image": null,
+      "publishedAt": "2027-03-01T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7162757323",
+      "title": "West Coast Shell Middens: Place-Based Ontologies and Socially Constructed Landscapes",
+      "summary": "Through case studies from the Pacific Coast of North America, this volume highlights the underappreciated social significance of shell middens, discussing new interpretations and perspectives that have emerged from collaborative archaeology grounded in Indigenous perspectives.",
+      "url": "https://doi.org/10.5744/9780813079721",
+      "image": null,
+      "publishedAt": "2027-02-23T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7162767429",
+      "title": "An Archaeology of Social Transformations: Recreating Worlds After Collapse",
+      "summary": "This volume moves beyond the focus on the “collapse” of past communities and civilizations, using global case studies to show how societies actively navigated life after major social disruptions and transformations.",
+      "url": "https://doi.org/10.5744/9780813079745",
+      "image": null,
+      "publishedAt": "2027-02-23T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7162775005",
+      "title": "Maya Archaeology in Belize: Centering the Edge",
+      "summary": "A comprehensive overview of the archaeological research conducted on the ancient Maya in Belize, this volume demonstrates how Belize has proven to be central to interpretations of the Maya and to the trajectory of the broader field of archaeology.",
+      "url": "https://doi.org/10.5744/9780813079738",
+      "image": null,
+      "publishedAt": "2027-02-23T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "amerika"
+      ]
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7162803924",
+      "title": "Community Archaeology at Strawbery Banke Museum: Telling the Stories of New Hampshire Families",
+      "summary": "Tracing the research, preservation, and interpretation of three sites at a living history museum in Portsmouth, New Hampshire, this book displays the role of collaborative museum archaeology in sharing the stories of those who are underrepresented in history.",
+      "url": "https://doi.org/10.5744/9780813079752",
+      "image": null,
+      "publishedAt": "2027-02-23T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "museoak"
+      ]
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7162638069",
+      "title": "Trends and Traditions in Mississippian Iconography",
+      "summary": "This volume examines how scholarly methods and collaborative, multivocal analysis can generate new understandings of Mississippian period imagery and belief systems.",
+      "url": "https://doi.org/10.5744/9781683406655",
+      "image": null,
+      "publishedAt": "2027-02-16T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7225695379",
+      "title": "Field Guide to Wildlife of the Galápagos",
+      "summary": "Giant tortoises, marine iguanas, flightless cormorants and penguins at the Equator: few places on Earth offer such extraordinary wildlife so close to hand as the Galápagos. This book is a pocket-sized field guide to the animals of these ‘Enchanted Islands’, a volcanic…",
+      "url": "https://doi.org/10.53061/gnkt1244",
+      "image": null,
+      "publishedAt": "2027-02-02T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7225827836",
+      "title": "The Cemetery of the Future and the Dead Body as a Source of Energy for the City",
+      "summary": "The Cemetery of the Future and the Dead Body as a Source of Energy for the City",
+      "url": "https://doi.org/10.1007/978-3-032-32865-6_21",
+      "image": null,
+      "publishedAt": "2027-02-02T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": []
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7171467082",
+      "title": "Prehistoric Shore Settlements of the Southwestern Balkans: New Perspectives on Regional Chronology Through Underwater Archaeological Investigations in Lake Ohrid",
+      "summary": "This publication presents the first cross-border synthesis of data on prehistoric shore settlement sites in the southwestern Balkans. Archaeological settlement sites, located along lakeshores, rivers, and wetlands, are among the richest sources for prehistoric periods due to…",
+      "url": "https://doi.org/10.59641/t0w6q7r8s9",
+      "image": null,
+      "publishedAt": "2027-02-01T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "europe",
+      "topics": [
+        "prehistoria",
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "openalex-archaeology:https://openalex.org/W7222470800",
+      "title": "Neanderthals Among Us: The Making of a Prehistoric Human",
+      "summary": "Neanderthals Among Us: The Making of a Prehistoric Human",
+      "url": "https://doi.org/10.4159/9780674309043",
+      "image": null,
+      "publishedAt": "2027-01-12T00:00:00.000Z",
+      "source": {
+        "id": "openalex-archaeology",
+        "name": "OpenAlex — Arkeologia (mundua)"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
       "id": "openalex-archaeology:https://openalex.org/W7131340849",
       "title": "Roshan Lama and children: Jackal and Crow, reported speech",
       "summary": "Roshan Lama and children: Jackal and Crow, reported speech",
@@ -8540,12 +8760,12 @@
       ]
     },
     {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26006103?dgcid=rss_sd_all",
-      "title": "Vegetation cover and wood exploitation strategies in the Shahroud and Bastam plains, NE Iran during the emergence of the first Neolithic communities",
-      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): Elisa Brandstätt, Morteza Djamali, Kourosh Roustaei, Hasan Rezvani, Michel Lemoine, Marjan Mashkour, Margareta Tengberg",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26006103?dgcid=rss_sd_all",
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26006012?dgcid=rss_sd_all",
+      "title": "Changing functions of grinding stones across the Paleolithic–Neolithic transition in North China: a case study from Peiligang site",
+      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): Ran Chen, Yongqiang Li, Xingcan Chen, Wanfa Gu",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26006012?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-11-20T08:47:23.089Z",
+      "publishedAt": "2026-11-21T08:29:17.602Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -8553,248 +8773,34 @@
       "lang": "en",
       "region": "world",
       "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26006115?dgcid=rss_sd_all",
-      "title": "Refining mobility patterns at the early Neolithic cemetery of Nitra-Horné Krškany, western Slovakia: An integrated isotopic approach",
-      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): Miriam Vílchez-Suárez, Zdeněk Tvrdý, Leopoldo Pena, Derek Hamilton, Jarmila Bíšková, Berta Morell-Rovira",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26006115?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-11-20T08:47:23.089Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26006140?dgcid=rss_sd_all",
-      "title": "Archaeobotanical evidence for plant-based subsistence at a late Neolithic Craft Centre: A case study of the Huangshan site in the Nanyang Basin",
-      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): Mengwei Li, Yuzhang Yang, Wanli Lan, Juncai Ma, Juzhong Zhang",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26006140?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-11-20T08:47:23.089Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26006139?dgcid=rss_sd_all",
-      "title": "Sclerochronological analysis of mussel shells from a Neolithic near-coastal cave site in the eastern Adriatic Sea",
-      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): M. Peharda, M. Bodružić, M. Burchell, N.J. de Winter, N. Bujas, D.P. Gillikin, I. Hajdas, E.M. Harper, B.R. Schöne, H. Uvanović, A. Verheyden, D. Vujević",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26006139?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-11-20T08:47:23.088Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/palazzo-imperiale-glac-serbia-massimiliano-mosaici/",
-      "title": "Scoperto il palazzo segreto dell’imperatore Massimiano? Mosaici, porfidi imperiali e marmi preziosi riaffiorano sotto i campi agricoli. Il caso di Sirmiun e di Sirmione",
-      "summary": "A Glac, a pochi chilometri dall’antica Sirmium, gli archeologi stanno riportando alla luce un complesso residenziale di eccezionale prestigio, esteso per oltre sei ettari.Sale monumentali, pavimenti musivi e pietre provenienti da regioni lontane compongono l’immagine di una…",
-      "url": "https://www.stilearte.it/palazzo-imperiale-glac-serbia-massimiliano-mosaici/",
-      "image": null,
-      "publishedAt": "2026-11-20T08:11:09.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/villaggi-abbandonati-spagna-settentrionale-eta-ferro/",
-      "title": "La maledizione dei villaggi scomparsi: 2.400 anni fa intere comunità abbandonarono le loro case. Ma cos’era accaduto? Cosa stava accadendo? Uno studio cerca di capirne le cause",
-      "summary": "Un fenomeno rapido e ancora senza una spiegazione definitiva svuotò gli antichi insediamenti fortificati della Galizia, delle Asturie e della fascia cantabrica. Una ricerca basata sulle datazioni al radiocarbonio ricostruisce la sequenza degli abbandoni: in meno di un secolo un…",
-      "url": "https://www.stilearte.it/villaggi-abbandonati-spagna-settentrionale-eta-ferro/",
-      "image": null,
-      "publishedAt": "2026-11-20T06:59:25.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/sutton-hoo-corpo-fantasma-sabbia-sepoltura-anglosassone/",
-      "title": "Che impressione. Cos’é? Il mistero del fantasma sotto la sabbia: a Sutton Hoo riaffiora una sepoltura anglosassone e forse un secondo morto evanescente nascosto sotto la prima",
-      "summary": "In Inghilterra, nel cimitero di Garden Field, gli archeologi hanno trovato la sagoma di un individuo il cui corpo è scomparso, dissolto dalle particolari condizioni chimiche del terreno. Accanto all’impronta sono emersi oggetti personali, mentre sotto la deposizione si…",
-      "url": "https://www.stilearte.it/sutton-hoo-corpo-fantasma-sabbia-sepoltura-anglosassone/",
-      "image": null,
-      "publishedAt": "2026-11-20T06:33:16.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/11/arqueologos-creen-que-el-extrano-tunel-de-158-metros-excavado-en-la-roca-del-santuario-de-arsameia-era-una-trampa-sagrada-por-el-que-los-peregrinos-descendian-a-ninguna-parte",
-      "title": "Arqueólogos creen que el extraño túnel de 158 metros excavado en la roca del santuario de Arsameia era una trampa sagrada por el que los peregrinos descendían a ninguna parte",
-      "summary": "Hacia el año 40 a. C., dos peregrinos habrían salido de Doliche, en la frontera sur del reino de Comagene, rumbo a la tumba-santuario o Hierotesion del rey Mitrídates I Calínico. Eran unos siete días a pie, cruzando valles, atravesando el Éufrates y bordeando las estribaciones…",
-      "url": "https://www.labrujulaverde.com/2026/11/arqueologos-creen-que-el-extrano-tunel-de-158-metros-excavado-en-la-roca-del-santuario-de-arsameia-era-una-trampa-sagrada-por-el-que-los-peregrinos-descendian-a-ninguna-parte",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/11/urn-cambridge.org-id-binary-alt-20261114181324-74665-optimisedImage-png-S1047759426101196_fig3.jpg.webp",
-      "publishedAt": "2026-11-19T17:10:41.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/11/hace-67-anos-se-descubrio-una-ciudad-subterranea-romana-de-tuneles-de-mas-de-dos-kilometros-completamente-vacios-bajo-lyon-y-todavia-no-se-sabe-para-que-servia",
-      "title": "Hace 67 años se descubrió una ciudad subterránea romana de túneles de más de dos kilómetros completamente vacíos bajo Lyon, y todavía no se sabe para que servía",
-      "summary": "En 1959, al descubrirse un pozo profundo en la ladera oriental de la colina de la Croix-Rousse, en Lyon, salió a la luz uno de los monumentos subterráneos más raros del mundo romano. A más de 22 metros de profundidad, una red de galerías abovedadas y levantadas con sillares se…",
-      "url": "https://www.labrujulaverde.com/2026/11/hace-67-anos-se-descubrio-una-ciudad-subterranea-romana-de-tuneles-de-mas-de-dos-kilometros-completamente-vacios-bajo-lyon-y-todavia-no-se-sabe-para-que-servia",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/11/lyon-fish-bone-labrujulaverde.com-1.webp",
-      "publishedAt": "2026-11-19T13:37:37.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "erromatarrak",
-        "ekialde-hurbila",
-        "aurkikuntza"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/world-archaeology/140/travel/the-queens-altar/",
-      "title": "The Queen’s Altar",
-      "summary": "The Etruscan artist seems to have seen living things surging from their own centre to their surface. And the curving and the contour of the silhouette-edge suggests the whole movement of the modelling within. D H Lawrence, Etruscan Places We turned off the main road on to a…",
-      "url": "https://the-past.com/world-archaeology/140/travel/the-queens-altar/",
-      "image": null,
-      "publishedAt": "2026-11-19T11:50:20.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/world-archaeology/140/whats-on/aphrodite-the-making-of-a-goddess-2/",
-      "title": "Aphrodite: the making of a goddess",
-      "summary": "A new exhibition at the Ashmolean Museum explores the rich history of a legendary deity. Source",
-      "url": "https://the-past.com/world-archaeology/140/whats-on/aphrodite-the-making-of-a-goddess-2/",
-      "image": null,
-      "publishedAt": "2026-11-19T10:39:50.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "museoak"
-      ]
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/lione-gallerie-romane-lisca-di-pesce-piombo/",
-      "title": "Lione, il mistero delle gallerie romane a lisca di pesce. Cos’erano? Non acquedotti. Cosa? Scoperto un antico inquinamento da piombo. Le ipotesi",
-      "summary": "Sotto la collina della Croix-Rousse, oltre due chilometri di corridoi sotterranei raccontano una storia ancora da decifrare. Le analisi degli isotopi del piombo ricostruiscono la circolazione dei metalli nell’Europa romana e svelano come l’inquinamento prodotto dalle attività…",
-      "url": "https://www.stilearte.it/lione-gallerie-romane-lisca-di-pesce-piombo/",
-      "image": null,
-      "publishedAt": "2026-11-19T10:25:04.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/world-archaeology/140/books/empires-of-the-southern-ocean-early-civilizations-of-mainland-and-insular-southeast-asia/",
-      "title": "Empires of the Southern Ocean: Early Civilizations of Mainland and Insular Southeast Asia",
-      "summary": "The title Empires of the Southern Ocean initially seems an unusual one for a book about early Southeast Asia. Its origin lies in the Chinese term Nanyang (南洋), the ‘Southern Ocean’, historically used to refer to the lands and seas south of China. It is an evocative choice,…",
-      "url": "https://the-past.com/world-archaeology/140/books/empires-of-the-southern-ocean-early-civilizations-of-mainland-and-insular-southeast-asia/",
-      "image": null,
-      "publishedAt": "2026-11-19T10:20:42.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
+        "prehistoria",
         "asia"
       ]
     },
     {
-      "id": "current-archaeology:https://the-past.com/world-archaeology/140/books/the-sea-king-and-the-sorceress-life-and-death-in-the-viking-age/",
-      "title": "The Sea-King and the Sorceress: Life and Death in the Viking Age",
-      "summary": "The Sea-King and the Sorceress is an innovative work, looking at a wide cross-section of society, seen predominantly through the medium of burials. As Neil Price acknowledges, the dead do not bury themselves, and graves do not necessarily provide an accurate reflection of how…",
-      "url": "https://the-past.com/world-archaeology/140/books/the-sea-king-and-the-sorceress-life-and-death-in-the-viking-age/",
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26006206?dgcid=rss_sd_all",
+      "title": "Filling the gap: New evidence for Epipaleolithic to Chalcolithic occupation on the northern frontier of Central Anatolia",
+      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): Ozan Özbudak, Bogdana Milić, Sidar Gündüzalp",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26006206?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-11-19T10:17:26.000Z",
+      "publishedAt": "2026-11-21T08:29:17.601Z",
       "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
       },
       "lang": "en",
-      "region": "europe",
+      "region": "world",
       "topics": [
-        "erdi-aroa"
+        "prehistoria"
       ]
     },
     {
-      "id": "current-archaeology:https://the-past.com/world-archaeology/140/books/the-archaeology-of-ancient-colombia-the-earliest-south-americans/",
-      "title": "The Archaeology of Ancient Colombia: The Earliest South Americans",
-      "summary": "Francisco Javier Aceituno’s The Archaeology of Ancient Colombia has a rare virtue: specialists and non-specialists alike can sit down with this book and come away feeling they have read something deep, current, and worth their time. For archaeologists, the book offers a close…",
-      "url": "https://the-past.com/world-archaeology/140/books/the-archaeology-of-ancient-colombia-the-earliest-south-americans/",
+      "id": "stilearte:https://www.stilearte.it/accampamento-legio-x-fretensis-gerusalemme/",
+      "title": "Distruzione di Gerusalemme, emerge la pianta dell’accampamento della Legio X Fretensis: dopo la devastazione del 70 d.C. Roma costruì una fortezza di 8 ettari",
+      "summary": "Sotto le strade degli attuali quartieri armeno ed ebraico si nascondeva una delle più importanti installazioni militari della Roma imperiale in Oriente. Un nuovo studio archeologico ricostruisce le dimensioni della base della legione che occupò Gerusalemme dopo la caduta della…",
+      "url": "https://www.stilearte.it/accampamento-legio-x-fretensis-gerusalemme/",
       "image": null,
-      "publishedAt": "2026-11-19T10:14:40.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/migranti-britannia-romana-colchester-isotopi/",
-      "title": "Da Roma, dall’Italia, dalla Spagna e forse dal Libano: le ossa cremate svelano chi abitava nella Britannia romana. E il celebre Vaso di Colchester custodiva un uomo arrivato dal Mediterraneo",
-      "summary": "Quasi duemila anni fa, nella città di Camulodunum, l’odierna Colchester, venivano sepolte persone provenienti da territori lontanissimi della Britannia. Ora una ricerca condotta attraverso gli isotopi di stronzio e piombo, applicati a resti umani cremati, permette di riconoscere…",
-      "url": "https://www.stilearte.it/migranti-britannia-romana-colchester-isotopi/",
-      "image": null,
-      "publishedAt": "2026-11-19T09:10:48.000Z",
+      "publishedAt": "2026-11-21T06:44:22.000Z",
       "source": {
         "id": "stilearte",
         "name": "Stile Arte — Archeologia"
@@ -8806,110 +8812,12 @@
       ]
     },
     {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26006188?dgcid=rss_sd_all",
-      "title": "Fragmented yet whole: Animals and burial rituals in Late Iron Age Åland",
-      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): Marcus Frid",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26006188?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-11-18T08:45:07.151Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26005973?dgcid=rss_sd_all",
-      "title": "Damyanitsa in the Struma Valley (Southwestern Bulgaria): Cultural interaction and transformation between the Vinča and Topolnica–Akropotamos traditions at the end of the sixth millennium BCE",
-      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): Ivan Vajsov, Małgorzata Grębska-Kulow, Galya Vandeva",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26005973?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-11-18T08:45:07.150Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
-      "region": "world",
-      "topics": []
-    },
-    {
-      "id": "stilearte:https://www.stilearte.it/donna-ballymacombs-more-torbiera-irlanda-eta-ferro/",
-      "title": "Decapitata nell’età del Ferro, il suo corpo è rimasto nella torbiera per oltre 2.000 anni. Le nuove indagini ricostruiscono la morte di una giovane donna in Irlanda",
-      "summary": "Aveva probabilmente tra 15 e 22 anni quando qualcuno la uccise con un’arma da taglio, separandole la testa dal corpo. I suoi resti, conservati per oltre due millenni nella torba di Ballymacombs More, nell’Irlanda del Nord, hanno restituito anche capelli, pelle, unghie e un…",
-      "url": "https://www.stilearte.it/donna-ballymacombs-more-torbiera-irlanda-eta-ferro/",
-      "image": null,
-      "publishedAt": "2026-11-18T08:22:18.000Z",
-      "source": {
-        "id": "stilearte",
-        "name": "Stile Arte — Archeologia"
-      },
-      "lang": "it",
-      "region": "europe",
-      "topics": []
-    },
-    {
-      "id": "guardian-arch:https://www.theguardian.com/uk-news/2026/nov/18/ballymacombs-more-woman-derry-bog-decapitated-2000-years-ago",
-      "title": "Body found in Derry bog decapitated more than 2,000 years ago, coroner finds",
-      "summary": "Inquest-style inquiry concludes iron age remains are of 15- to 22-year-old female who may have been ritually sacrificed A coroner’s investigation into Northern Ireland’s most venerable cold case has concluded that the victim was decapitated more than 2,000 years ago. The…",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/18/ballymacombs-more-woman-derry-bog-decapitated-2000-years-ago",
-      "image": "https://i.guim.co.uk/img/media/1254c03014b10a8e18a804f40e4827cc74b580fe/96_0_3547_2837/master/3547.jpg?width=140&quality=85&auto=format&fit=max&s=553c991f0045f64135610c21c47ada0b",
-      "publishedAt": "2026-11-18T08:00:36.000Z",
-      "source": {
-        "id": "guardian-arch",
-        "name": "The Guardian — Archaeology"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "sudouest-culture:https://www.sudouest.fr/culture/cinema/le-cinema-britannique-peut-se-resumer-en-deux-mots-le-social-et-l-humour-observateur-privilegie-hussam-hindi-donnera-une-conference-a-saintes-pour-god-save-the-screen-31547233.php",
-      "title": "« Le cinéma britannique peut se résumer en deux mots, le social et l’humour » : observateur privilégié, Hussam Hindi donnera une conférence à Saintes pour God save the screen",
-      "summary": "Hussam Hindi, observateur reconnu du septième art britannique, revient sur quatre décennies de cinéma outre-Manche. Vendredi 20 novembre, dans le cadre de God save the screen, il donnera une conférence",
-      "url": "https://www.sudouest.fr/culture/cinema/le-cinema-britannique-peut-se-resumer-en-deux-mots-le-social-et-l-humour-observateur-privilegie-hussam-hindi-donnera-une-conference-a-saintes-pour-god-save-the-screen-31547233.php",
-      "image": null,
-      "publishedAt": "2026-11-17T20:00:00.000Z",
-      "source": {
-        "id": "sudouest-culture",
-        "name": "Sud Ouest — Culture"
-      },
-      "lang": "fr",
-      "region": "basque",
-      "topics": [
-        "ekialde-hurbila"
-      ]
-    },
-    {
-      "id": "current-archaeology:https://the-past.com/the-past/archive/whats-on/conference-current-archaeological-research-in-the-midlands-and-abroad/",
-      "title": "Conference – Current Archaeological Research in the Midlands and Abroad",
-      "summary": "The upcoming CARMA conference, hosted by Nottingham Trent University, will be on 21-22 November at NTU’s Clifton Campus. This two-day event spotlights the dynamic intersection of archaeological research conducted by Mercian Archaeological Services and NTU, covering…",
-      "url": "https://the-past.com/the-past/archive/whats-on/conference-current-archaeological-research-in-the-midlands-and-abroad/",
-      "image": null,
-      "publishedAt": "2026-11-17T12:44:45.000Z",
-      "source": {
-        "id": "current-archaeology",
-        "name": "Current Archaeology (UK)"
-      },
-      "lang": "en",
-      "region": "europe",
-      "topics": [
-        "egiptoarrak"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/11/consiguen-fechar-con-exactitud-la-caida-de-babilonia-y-la-destruccion-de-hattusa-gracias-a-observaciones-de-venus-en-tablillas-cuneiformes-anillos-de-arboles-y-un-volcan-de-alaska",
-      "title": "Consiguen fechar con exactitud la caída de Babilonia y la destrucción de Hattusa, gracias a observaciones de Venus en tablillas cuneiformes, anillos de árboles y un volcán de Alaska",
-      "summary": "Preguntar cuándo reinó Hammurabi, el rey de Babilonia famoso por su código de leyes, tiene una respuesta incómoda: depende de a quién se pregunte. Los historiadores manejan varias cronologías (alta, media, baja) y las más alejadas entre sí se separan entre 150 y 230 años. Un…",
-      "url": "https://www.labrujulaverde.com/2026/11/consiguen-fechar-con-exactitud-la-caida-de-babilonia-y-la-destruccion-de-hattusa-gracias-a-observaciones-de-venus-en-tablillas-cuneiformes-anillos-de-arboles-y-un-volcan-de-alaska",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/11/Lion_Gate_Hattusa_01.webp",
-      "publishedAt": "2026-11-17T09:47:41.000Z",
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/11/descubren-dos-asteroides-troyanos-de-neptuno-que-hasta-ahora-estaban-ocultos-por-la-via-lactea",
+      "title": "Descubren dos asteroides troyanos de Neptuno que hasta ahora estaban ocultos por la Vía Láctea",
+      "summary": "Durante más de quince años, una parte de la escolta de Neptuno ha estado escondida a plena vista. Los cuerpos helados que siguen al planeta por detrás se proyectaban sobre el centro de la Vía Láctea, la zona del cielo con más estrellas de fondo, y entre tantas luces resulta casi…",
+      "url": "https://www.labrujulaverde.com/2026/11/descubren-dos-asteroides-troyanos-de-neptuno-que-hasta-ahora-estaban-ocultos-por-la-via-lactea",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/11/1280px-Asteroides_troyens_de_Jupiter_vue_dartiste_697015main_pia16211_full.webp",
+      "publishedAt": "2026-11-20T16:29:56.000Z",
       "source": {
         "id": "labrujulaverde",
         "name": "La Brújula Verde"
@@ -8917,8 +8825,91 @@
       "lang": "es",
       "region": "world",
       "topics": [
-        "ekialde-hurbila"
+        "aurkikuntza"
       ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/11/un-arqueologo-afirma-haber-resuelto-el-misterio-de-la-localizacion-del-campamento-de-la-legio-x-fretensis-que-destruyo-jerusalen-en-el-ano-70-dc",
+      "title": "Un arqueólogo afirma haber resuelto el misterio de la localización del campamento de la Legio X Fretensis que destruyó Jerusalén en el año 70 d.C.",
+      "summary": "Cuando Tito dio por terminada la conquista de Jerusalén, en el año 70 d. C., el Templo estaba destruido y media ciudad ardía. Faltaba decidir qué hacer con lo que quedaba, y el general romano tomó una decisión que Flavio Josefo, que acompañaba al ejército, dejó por escrito: El…",
+      "url": "https://www.labrujulaverde.com/2026/11/un-arqueologo-afirma-haber-resuelto-el-misterio-de-la-localizacion-del-campamento-de-la-legio-x-fretensis-que-destruyo-jerusalen-en-el-ano-70-dc",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/11/urn-cambridge.org-id-binary-alt-20261119102231-92078-optimisedImage-png-S1047759426100944_fig6.jpg.webp",
+      "publishedAt": "2026-11-20T12:41:16.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/ghostly-sand-body-double-burial-unearthed-at-sutton-hoo",
+      "title": "Ghostly 'sand body' double burial unearthed at Sutton Hoo",
+      "summary": "During a month-long excavation with the documentary series \"Time Team,\" archaeologists unearthed another mysterious \"sand body\" at Sutton Hoo.",
+      "url": "https://www.livescience.com/archaeology/ghostly-sand-body-double-burial-unearthed-at-sutton-hoo",
+      "image": "https://cdn.mos.cms.futurecdn.net/9zveBhiML7gewe85rRDy2X-1920-80.png",
+      "publishedAt": "2026-11-20T12:00:00.000Z",
+      "source": {
+        "id": "live-science-arch",
+        "name": "Live Science"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/11/descubren-una-muralla-de-cinco-metros-de-grosor-y-una-posible-taberna-babilonica-en-la-ciudad-de-hammurabi-a-las-afueras-de-la-actual-bagdad",
+      "title": "Descubren una muralla de cinco metros de grosor y una posible taberna babilónica en la ciudad de Hammurabi a las afueras de la actual Bagdad",
+      "summary": "Hace unos 3.800 años, alguien pidió prestadas cebada y cerveza, y dos testigos presenciaron el trato. Quedó escrito en una tablilla de barro que ahora ha reaparecido sobre el suelo de lo que pudo ser un pequeño taller de comida, en un yacimiento de las afueras meridionales de la…",
+      "url": "https://www.labrujulaverde.com/2026/11/descubren-una-muralla-de-cinco-metros-de-grosor-y-una-posible-taberna-babilonica-en-la-ciudad-de-hammurabi-a-las-afueras-de-la-actual-bagdad",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/11/foto-4-DSC_3720.webp",
+      "publishedAt": "2026-11-20T10:04:35.000Z",
+      "source": {
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
+      },
+      "lang": "es",
+      "region": "world",
+      "topics": [
+        "aurkikuntza"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/santuario-tutela-vesunna-strada-romana-perigueux/",
+      "title": "Impero romano, scoperta la strada che costeggiava il santuario di una misteriosa divinità romana: chi era Tutela Vesunna, la protettrice della città?",
+      "summary": "Una strada romana con i solchi lasciati dalle ruote dei carri, una successione di pavimentazioni sovrapposte e, sullo sfondo, un santuario dedicato a una divinità dal nome insolito: Tutela Vesunna. A Périgueux, nel sud-ovest della Francia, una nuova indagine archeologica…",
+      "url": "https://www.stilearte.it/santuario-tutela-vesunna-strada-romana-perigueux/",
+      "image": null,
+      "publishedAt": "2026-11-20T09:52:07.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": [
+        "erromatarrak"
+      ]
+    },
+    {
+      "id": "stilearte:https://www.stilearte.it/collana-bronzo-4000-anni-scoperta-loetschenpass-alpi/",
+      "title": "Una collana di bronzo di 4.000 anni emerge dai ghiacci delle Alpi a 2.690 metri: forse era un’offerta agli dei? Una perdita? Un incidente? Si studia il contesto",
+      "summary": "Al Passo del Lötschen, in Svizzera, lo scioglimento di un antico nevaio restituisce un gioiello della prima età del Bronzo. Il ritrovamento apre una finestra sulla mobilità alpina, sui rituali dei viaggiatori preistorici e sulle antiche relazioni tra le comunità insediate sui…",
+      "url": "https://www.stilearte.it/collana-bronzo-4000-anni-scoperta-loetschenpass-alpi/",
+      "image": null,
+      "publishedAt": "2026-11-20T09:08:52.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
     }
   ]
 }
