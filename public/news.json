@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T11:16:57.919Z",
+  "generatedAt": "2026-11-25T10:02:07.429Z",
   "count": 500,
   "sources": [
     {
@@ -10,7 +10,7 @@
       "kind": "news",
       "ok": false,
       "error": "Status code 406",
-      "elapsedMs": 5896
+      "elapsedMs": 5648
     },
     {
       "id": "naiz",
@@ -23,7 +23,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 737
+      "elapsedMs": 1117
     },
     {
       "id": "argia-kultura",
@@ -36,7 +36,7 @@
       "kept": 0,
       "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 1119
+      "elapsedMs": 3682
     },
     {
       "id": "eitb-kultura",
@@ -49,7 +49,7 @@
       "kept": 0,
       "droppedOffTopic": 19,
       "droppedModern": 0,
-      "elapsedMs": 607
+      "elapsedMs": 732
     },
     {
       "id": "berria-bsky",
@@ -59,10 +59,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 1,
-      "droppedOffTopic": 29,
+      "kept": 0,
+      "droppedOffTopic": 30,
       "droppedModern": 0,
-      "elapsedMs": 2950
+      "elapsedMs": 2990
     },
     {
       "id": "aranzadi-bsky",
@@ -75,7 +75,7 @@
       "kept": 5,
       "droppedOffTopic": 25,
       "droppedModern": 0,
-      "elapsedMs": 3014
+      "elapsedMs": 2999
     },
     {
       "id": "vianako-printzea",
@@ -88,7 +88,7 @@
       "kept": 2,
       "droppedOffTopic": 3,
       "droppedModern": 5,
-      "elapsedMs": 1010
+      "elapsedMs": 1149
     },
     {
       "id": "labrujulaverde",
@@ -98,10 +98,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 14,
+      "kept": 16,
       "droppedOffTopic": 0,
-      "droppedModern": 6,
-      "elapsedMs": 987
+      "droppedModern": 4,
+      "elapsedMs": 1273
     },
     {
       "id": "desperta-ferro",
@@ -114,7 +114,7 @@
       "kept": 5,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 1006
+      "elapsedMs": 1295
     },
     {
       "id": "elpais-cultura",
@@ -127,7 +127,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1277
+      "elapsedMs": 2290
     },
     {
       "id": "lemonde-sciences",
@@ -137,10 +137,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 0,
-      "droppedOffTopic": 19,
+      "kept": 1,
+      "droppedOffTopic": 18,
       "droppedModern": 1,
-      "elapsedMs": 784
+      "elapsedMs": 779
     },
     {
       "id": "lemonde-archeo",
@@ -150,10 +150,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 20,
-      "kept": 6,
-      "droppedOffTopic": 10,
+      "kept": 7,
+      "droppedOffTopic": 9,
       "droppedModern": 4,
-      "elapsedMs": 797
+      "elapsedMs": 784
     },
     {
       "id": "sciencesetavenir-archeo",
@@ -162,11 +162,11 @@
       "region": "europe",
       "kind": "news",
       "ok": true,
-      "fetched": 15,
+      "fetched": 16,
       "kept": 5,
-      "droppedOffTopic": 9,
+      "droppedOffTopic": 10,
       "droppedModern": 1,
-      "elapsedMs": 1173
+      "elapsedMs": 908
     },
     {
       "id": "inrap-bsky",
@@ -176,10 +176,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 25,
-      "kept": 5,
-      "droppedOffTopic": 17,
+      "kept": 6,
+      "droppedOffTopic": 16,
       "droppedModern": 3,
-      "elapsedMs": 3009
+      "elapsedMs": 3015
     },
     {
       "id": "sudouest-culture",
@@ -192,7 +192,7 @@
       "kept": 0,
       "droppedOffTopic": 20,
       "droppedModern": 0,
-      "elapsedMs": 1068
+      "elapsedMs": 1148
     },
     {
       "id": "corriere-cultura",
@@ -205,7 +205,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1537
+      "elapsedMs": 1370
     },
     {
       "id": "archeologiaviva",
@@ -218,7 +218,7 @@
       "kept": 1,
       "droppedOffTopic": 0,
       "droppedModern": 9,
-      "elapsedMs": 2002
+      "elapsedMs": 2308
     },
     {
       "id": "stilearte",
@@ -231,7 +231,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 1,
-      "elapsedMs": 1828
+      "elapsedMs": 2280
     },
     {
       "id": "live-science-arch",
@@ -241,10 +241,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 5,
-      "droppedOffTopic": 25,
+      "kept": 6,
+      "droppedOffTopic": 24,
       "droppedModern": 0,
-      "elapsedMs": 2880
+      "elapsedMs": 2686
     },
     {
       "id": "bbc-history",
@@ -257,7 +257,7 @@
       "kept": 0,
       "droppedOffTopic": 10,
       "droppedModern": 0,
-      "elapsedMs": 1388
+      "elapsedMs": 1695
     },
     {
       "id": "sciencedaily-arch",
@@ -267,10 +267,10 @@
       "kind": "news",
       "ok": true,
       "fetched": 30,
-      "kept": 17,
-      "droppedOffTopic": 13,
+      "kept": 16,
+      "droppedOffTopic": 14,
       "droppedModern": 0,
-      "elapsedMs": 1425
+      "elapsedMs": 1700
     },
     {
       "id": "ancient-origins",
@@ -283,7 +283,7 @@
       "kept": 3,
       "droppedOffTopic": 5,
       "droppedModern": 2,
-      "elapsedMs": 1484
+      "elapsedMs": 1666
     },
     {
       "id": "guardian-arch",
@@ -296,7 +296,7 @@
       "kept": 7,
       "droppedOffTopic": 8,
       "droppedModern": 5,
-      "elapsedMs": 1763
+      "elapsedMs": 1713
     },
     {
       "id": "current-archaeology",
@@ -309,7 +309,7 @@
       "kept": 25,
       "droppedOffTopic": 5,
       "droppedModern": 0,
-      "elapsedMs": 1721
+      "elapsedMs": 1659
     },
     {
       "id": "jas-reports",
@@ -322,7 +322,7 @@
       "kept": 11,
       "droppedOffTopic": 1,
       "droppedModern": 18,
-      "elapsedMs": 1506
+      "elapsedMs": 1631
     },
     {
       "id": "plos-one-arch",
@@ -335,7 +335,7 @@
       "kept": 1,
       "droppedOffTopic": 29,
       "droppedModern": 0,
-      "elapsedMs": 1589
+      "elapsedMs": 1766
     },
     {
       "id": "pnas-arch",
@@ -348,7 +348,7 @@
       "kept": 17,
       "droppedOffTopic": 7,
       "droppedModern": 6,
-      "elapsedMs": 2307
+      "elapsedMs": 2069
     },
     {
       "id": "sciencedirect-jas",
@@ -361,7 +361,7 @@
       "kept": 6,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 1524
+      "elapsedMs": 1598
     },
     {
       "id": "spal-us",
@@ -374,7 +374,7 @@
       "kept": 8,
       "droppedOffTopic": 1,
       "droppedModern": 5,
-      "elapsedMs": 2521
+      "elapsedMs": 2664
     },
     {
       "id": "complutum-ucm",
@@ -387,7 +387,7 @@
       "kept": 19,
       "droppedOffTopic": 1,
       "droppedModern": 10,
-      "elapsedMs": 5026
+      "elapsedMs": 7747
     },
     {
       "id": "archeoarte",
@@ -400,7 +400,7 @@
       "kept": 3,
       "droppedOffTopic": 0,
       "droppedModern": 6,
-      "elapsedMs": 2694
+      "elapsedMs": 2910
     },
     {
       "id": "cypsela",
@@ -410,7 +410,7 @@
       "kind": "research",
       "ok": false,
       "error": "Status code 403",
-      "elapsedMs": 10731
+      "elapsedMs": 6945
     },
     {
       "id": "cambridge-antiquity",
@@ -423,7 +423,7 @@
       "kept": 18,
       "droppedOffTopic": 4,
       "droppedModern": 8,
-      "elapsedMs": 2443
+      "elapsedMs": 3046
     },
     {
       "id": "cambridge-caj",
@@ -436,7 +436,7 @@
       "kept": 18,
       "droppedOffTopic": 7,
       "droppedModern": 5,
-      "elapsedMs": 2607
+      "elapsedMs": 2956
     },
     {
       "id": "cambridge-ejarc",
@@ -449,7 +449,7 @@
       "kept": 15,
       "droppedOffTopic": 5,
       "droppedModern": 10,
-      "elapsedMs": 2552
+      "elapsedMs": 2889
     },
     {
       "id": "aquitania-persee",
@@ -462,7 +462,7 @@
       "kept": 10,
       "droppedOffTopic": 0,
       "droppedModern": 0,
-      "elapsedMs": 3301
+      "elapsedMs": 3530
     },
     {
       "id": "cuadernos-arq-unav",
@@ -475,7 +475,7 @@
       "kept": 22,
       "droppedOffTopic": 0,
       "droppedModern": 8,
-      "elapsedMs": 4008
+      "elapsedMs": 4226
     },
     {
       "id": "veleia-ehu",
@@ -488,7 +488,7 @@
       "kept": 25,
       "droppedOffTopic": 2,
       "droppedModern": 2,
-      "elapsedMs": 3919
+      "elapsedMs": 4483
     },
     {
       "id": "flv-navarra",
@@ -501,7 +501,7 @@
       "kept": 18,
       "droppedOffTopic": 2,
       "droppedModern": 10,
-      "elapsedMs": 3037
+      "elapsedMs": 3004
     },
     {
       "id": "munibe-aa",
@@ -514,7 +514,7 @@
       "kept": 17,
       "droppedOffTopic": 4,
       "droppedModern": 9,
-      "elapsedMs": 3100
+      "elapsedMs": 3120
     },
     {
       "id": "trabajos-prehistoria",
@@ -527,7 +527,7 @@
       "kept": 23,
       "droppedOffTopic": 3,
       "droppedModern": 4,
-      "elapsedMs": 3150
+      "elapsedMs": 3016
     },
     {
       "id": "openalex-archaeology",
@@ -540,7 +540,7 @@
       "kept": 16,
       "droppedOffTopic": 7,
       "droppedModern": 7,
-      "elapsedMs": 3174
+      "elapsedMs": 3051
     }
   ],
   "items": [
@@ -8769,12 +8769,47 @@
       ]
     },
     {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26006140?dgcid=rss_sd_all",
-      "title": "Archaeobotanical evidence for plant-based subsistence at a late Neolithic Craft Centre: A case study of the Huangshan site in the Nanyang Basin",
-      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): Mengwei Li, Yuzhang Yang, Wanli Lan, Juncai Ma, Juzhong Zhang",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26006140?dgcid=rss_sd_all",
+      "id": "sciencedirect-jas:https://www.sciencedirect.com/science/article/pii/S0305440326002682?dgcid=rss_sd_all",
+      "title": "Waste or tool? Combined use-wear analysis of Mesolithic knapped stone and shell tools in Asturias (northern Iberia)",
+      "summary": "Publication date: January 2027 Source: Journal of Archaeological Science, Volume 197 Author(s): Jorge Calvo-Gómez, David Cuenca-Solana, Diego Herrero-Alonso, Natividad Fuertes-Prieto, Igor Gutiérrez-Zugasti",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305440326002682?dgcid=rss_sd_all",
       "image": null,
-      "publishedAt": "2026-11-24T11:16:48.675Z",
+      "publishedAt": "2026-11-25T10:02:01.268Z",
+      "source": {
+        "id": "sciencedirect-jas",
+        "name": "Journal of Archaeological Science (ScienceDirect)"
+      },
+      "lang": "en",
+      "region": "iberia",
+      "topics": [
+        "prehistoria"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26006012?dgcid=rss_sd_all",
+      "title": "Changing functions of grinding stones across the Paleolithic–Neolithic transition in North China: a case study from Peiligang site",
+      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): Ran Chen, Yongqiang Li, Xingcan Chen, Wanfa Gu",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26006012?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-11-25T10:02:01.231Z",
+      "source": {
+        "id": "jas-reports",
+        "name": "Journal of Archaeological Science: Reports"
+      },
+      "lang": "en",
+      "region": "world",
+      "topics": [
+        "prehistoria",
+        "asia"
+      ]
+    },
+    {
+      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26006206?dgcid=rss_sd_all",
+      "title": "Filling the gap: New evidence for Epipaleolithic to Chalcolithic occupation on the northern frontier of Central Anatolia",
+      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): Ozan Özbudak, Bogdana Milić, Sidar Gündüzalp",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26006206?dgcid=rss_sd_all",
+      "image": null,
+      "publishedAt": "2026-11-25T10:02:01.230Z",
       "source": {
         "id": "jas-reports",
         "name": "Journal of Archaeological Science: Reports"
@@ -8786,95 +8821,94 @@
       ]
     },
     {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26006139?dgcid=rss_sd_all",
-      "title": "Sclerochronological analysis of mussel shells from a Neolithic near-coastal cave site in the eastern Adriatic Sea",
-      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): M. Peharda, M. Bodružić, M. Burchell, N.J. de Winter, N. Bujas, D.P. Gillikin, I. Hajdas, E.M. Harper, B.R. Schöne, H. Uvanović, A. Verheyden, D. Vujević",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26006139?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-11-24T11:16:48.674Z",
+      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/11/la-espectacular-gruta-de-fingal-la-catedral-de-pilares-de-lava-que-inspiro-a-mendelssohn",
+      "title": "La espectacular Gruta de Fingal, la catedral de pilares de lava que inspiró a Mendelssohn",
+      "summary": "Para llegar a la Gruta de Fingal hay que cruzar el mar. Se abre en la costa sur de Staffa, una isla deshabitada de las Hébridas Interiores, al oeste de Escocia, que ocupa unas 33 hectáreas y apenas se eleva 42 metros sobre el agua. Está a pocos kilómetros de la isla de Mull y […]",
+      "url": "https://www.labrujulaverde.com/2026/11/la-espectacular-gruta-de-fingal-la-catedral-de-pilares-de-lava-que-inspiro-a-mendelssohn",
+      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/11/columnar-jointed-volcanic-basalt-rocks-Depositphotos_383985976_L.webp",
+      "publishedAt": "2026-11-25T08:41:00.000Z",
       "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
+        "id": "labrujulaverde",
+        "name": "La Brújula Verde"
       },
-      "lang": "en",
-      "region": "world",
-      "topics": [
-        "prehistoria"
-      ]
-    },
-    {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26005973?dgcid=rss_sd_all",
-      "title": "Damyanitsa in the Struma Valley (Southwestern Bulgaria): Cultural interaction and transformation between the Vinča and Topolnica–Akropotamos traditions at the end of the sixth millennium BCE",
-      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): Ivan Vajsov, Małgorzata Grębska-Kulow, Galya Vandeva",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26005973?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-11-24T11:16:48.674Z",
-      "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
-      },
-      "lang": "en",
+      "lang": "es",
       "region": "world",
       "topics": []
     },
     {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26006188?dgcid=rss_sd_all",
-      "title": "Fragmented yet whole: Animals and burial rituals in Late Iron Age Åland",
-      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): Marcus Frid",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26006188?dgcid=rss_sd_all",
-      "image": null,
-      "publishedAt": "2026-11-24T11:16:48.674Z",
+      "id": "sciencesetavenir-archeo:https://www.sciencesetavenir.fr/archeo-paleo/une-decouverte-exceptionnelle-une-epave-vieille-de-plus-de-4-000-ans-retrouvee-en-mer_196263?xtor=RSS-4",
+      "title": "Elle dormait sous la mer depuis 4 000 ans : une épave exceptionnelle découverte",
+      "summary": "Une cargaison du début de l'âge du bronze a été identifiée au large de la Turquie. Il s'agirait de la plus vieille épave jamais découverte",
+      "url": "https://www.sciencesetavenir.fr/archeo-paleo/une-decouverte-exceptionnelle-une-epave-vieille-de-plus-de-4-000-ans-retrouvee-en-mer_196263?xtor=RSS-4",
+      "image": "https://www.sciencesetavenir.fr/assets/img/2026/11/19/cover-r4x3w1200-6aff080841b5b-ar-1790719-tf-70235977-1-notext-jpg.jpg",
+      "publishedAt": "2026-11-25T08:00:00.000Z",
       "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
+        "id": "sciencesetavenir-archeo",
+        "name": "Sciences et Avenir — Archéo & Paléo"
       },
-      "lang": "en",
-      "region": "world",
+      "lang": "fr",
+      "region": "europe",
       "topics": [
-        "prehistoria"
+        "prehistoria",
+        "aurkikuntza"
       ]
     },
     {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26006103?dgcid=rss_sd_all",
-      "title": "Vegetation cover and wood exploitation strategies in the Shahroud and Bastam plains, NE Iran during the emergence of the first Neolithic communities",
-      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): Elisa Brandstätt, Morteza Djamali, Kourosh Roustaei, Hasan Rezvani, Michel Lemoine, Marjan Mashkour, Margareta Tengberg",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26006103?dgcid=rss_sd_all",
+      "id": "stilearte:https://www.stilearte.it/tomba-romana-roccia-fungo-cappadocia-develi/",
+      "title": "C’è una tomba romana sopra questo fungo. Il sepolcro domina la valle. Duemila anni per cinque metri di altezza. Come sta in piedi? Cos’è successo? Come le piramidi di Zone sul lago d’Iseo?",
+      "summary": "Una struttura funeraria scavata nella sommità di una formazione rocciosa naturale, modellata dall’erosione e affacciata su un bacino artificiale. La scoperta, avvenuta a Develi, nella Turchia centrale, amplia il repertorio delle pratiche funerarie dell’Anatolia antica, nel…",
+      "url": "https://www.stilearte.it/tomba-romana-roccia-fungo-cappadocia-develi/",
       "image": null,
-      "publishedAt": "2026-11-24T11:16:48.674Z",
+      "publishedAt": "2026-11-25T07:29:21.000Z",
       "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
       },
-      "lang": "en",
-      "region": "world",
+      "lang": "it",
+      "region": "europe",
       "topics": [
-        "prehistoria"
+        "erromatarrak"
       ]
     },
     {
-      "id": "jas-reports:https://www.sciencedirect.com/science/article/pii/S2352409X26006115?dgcid=rss_sd_all",
-      "title": "Refining mobility patterns at the early Neolithic cemetery of Nitra-Horné Krškany, western Slovakia: An integrated isotopic approach",
-      "summary": "Publication date: December 2026 Source: Journal of Archaeological Science: Reports, Volume 76, Part B Author(s): Miriam Vílchez-Suárez, Zdeněk Tvrdý, Leopoldo Pena, Derek Hamilton, Jarmila Bíšková, Berta Morell-Rovira",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2352409X26006115?dgcid=rss_sd_all",
+      "id": "stilearte:https://www.stilearte.it/tomba-reale-tolemaica-alessandria-scoperta/",
+      "title": "Alessandria, scoperte ora grandi fondazioni in pietra nel quartiere reale: una traccia della tomba della famiglia di Cleopatra? Misteri e grandi muri spiegati",
+      "summary": "Nel sottosuolo della città fondata da Alessandro Magno, una nuova scoperta archeologica riporta al centro dell’attenzione uno dei luoghi più enigmatici dell’antichità: il quartiere reale, dove sorgevano i palazzi della dinastia tolemaica e dove le fonti collocano anche le…",
+      "url": "https://www.stilearte.it/tomba-reale-tolemaica-alessandria-scoperta/",
       "image": null,
-      "publishedAt": "2026-11-24T11:16:48.674Z",
+      "publishedAt": "2026-11-25T05:38:40.000Z",
       "source": {
-        "id": "jas-reports",
-        "name": "Journal of Archaeological Science: Reports"
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
       },
-      "lang": "en",
-      "region": "world",
+      "lang": "it",
+      "region": "europe",
       "topics": [
-        "prehistoria"
+        "greziarrak"
       ]
     },
     {
-      "id": "live-science-arch:https://www.livescience.com/archaeology/2-900-year-old-sanctuary-discovered-on-greek-mountaintop-may-have-been-a-destination-for-artemis-worship",
-      "title": "2,900-year-old sanctuary discovered on Greek mountaintop may have been a destination for Artemis worship",
-      "summary": "Archaeologists have found the remains of a 2,900-year-old sanctuary on an island mountaintop, where ancient Greeks may have worshipped the goddess Artemis.",
-      "url": "https://www.livescience.com/archaeology/2-900-year-old-sanctuary-discovered-on-greek-mountaintop-may-have-been-a-destination-for-artemis-worship",
-      "image": "https://cdn.mos.cms.futurecdn.net/ikB9LpGAXFzUbvZD8Nak2X-1920-80.jpg",
-      "publishedAt": "2026-11-24T11:00:00.000Z",
+      "id": "stilearte:https://www.stilearte.it/bracciali-oro-eta-bronzo-malmesbury-metal-detector/",
+      "title": "Tre bracciali d’oro di 3.000 anni fa, due ripiegati prima della sepoltura: il metal detector scopre un tesoro dell’età del Bronzo in Inghilterra. In Italia sarebbe possibile?",
+      "summary": "A Malmesbury, nel Wiltshire, tre gioielli in oro massiccio battuto, databili fra il 1150 e l’800 a.C., emergono dal terreno dopo quasi tre millenni. Due sono stati intenzionalmente ripiegati e schiacciati, mentre il terzo conserva ancora una forma indossabile. Il loro…",
+      "url": "https://www.stilearte.it/bracciali-oro-eta-bronzo-malmesbury-metal-detector/",
+      "image": null,
+      "publishedAt": "2026-11-25T05:13:58.000Z",
+      "source": {
+        "id": "stilearte",
+        "name": "Stile Arte — Archeologia"
+      },
+      "lang": "it",
+      "region": "europe",
+      "topics": []
+    },
+    {
+      "id": "live-science-arch:https://www.livescience.com/archaeology/medieval-chain-mail-discovered-during-underwater-excavation-of-15th-century-floating-castle-that-sank-off-sweden",
+      "title": "Medieval chain mail discovered during underwater excavation of 15th-century 'floating castle' that sank off Sweden",
+      "summary": "A 15th-century shipwreck is yielding clues to the medieval tragedy that destroyed Griffin, King Hans's \"floating castle.\"",
+      "url": "https://www.livescience.com/archaeology/medieval-chain-mail-discovered-during-underwater-excavation-of-15th-century-floating-castle-that-sank-off-sweden",
+      "image": "https://cdn.mos.cms.futurecdn.net/bARFsGsbLEwKXyDDGseoq8-1920-80.png",
+      "publishedAt": "2026-11-24T20:45:12.000Z",
       "source": {
         "id": "live-science-arch",
         "name": "Live Science"
@@ -8882,42 +8916,8 @@
       "lang": "en",
       "region": "world",
       "topics": [
-        "greziarrak",
+        "erdi-aroa",
         "aurkikuntza"
-      ]
-    },
-    {
-      "id": "elpais-cultura:https://elpais.com/cultura/2026-11-24/la-triste-historia-de-un-mosaico-romano-abandonado-en-mitad-del-campo.html",
-      "title": "La triste historia de un mosaico romano abandonado en mitad del campo",
-      "summary": "La obra fue desenterrada para un programa de televisión en 1969 y vuelta a tapar ante la perplejidad de los arqueólogos",
-      "url": "https://elpais.com/cultura/2026-11-24/la-triste-historia-de-un-mosaico-romano-abandonado-en-mitad-del-campo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/D5ODCYPK5ZES3PHLNFHFE2WIDE.png?auth=0fc39985fac2a3537583464f7cad153188bbd93e49c7670aa9dc0db7301e60b7",
-      "publishedAt": "2026-11-24T09:54:34.000Z",
-      "source": {
-        "id": "elpais-cultura",
-        "name": "El País — Cultura"
-      },
-      "lang": "es",
-      "region": "iberia",
-      "topics": [
-        "erromatarrak"
-      ]
-    },
-    {
-      "id": "labrujulaverde:https://www.labrujulaverde.com/2026/11/wanyan-liang-el-emperador-que-convirtio-a-pekin-en-la-capital-de-china-fue-degradado-a-la-condicion-de-plebeyo",
-      "title": "Wanyan Liang, el emperador que convirtió a Pekín en la capital de China, fue degradado a la condición de plebeyo",
-      "summary": "«Si un soldado deserta, su puliyan (jefe de escuadrón) será ejecutado; si un puliyan deserta, su mouke (comandante de compañía) será ejecutado; si un mouke deserta, su meng’an (comandante de regimiento) será ejecutado; si un meng’an deserta, su zongguan (comandante de ejército)…",
-      "url": "https://www.labrujulaverde.com/2026/11/wanyan-liang-el-emperador-que-convirtio-a-pekin-en-la-capital-de-china-fue-degradado-a-la-condicion-de-plebeyo",
-      "image": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/11/Wanyan_Digunai_cropped.webp",
-      "publishedAt": "2026-11-24T08:37:27.000Z",
-      "source": {
-        "id": "labrujulaverde",
-        "name": "La Brújula Verde"
-      },
-      "lang": "es",
-      "region": "world",
-      "topics": [
-        "asia"
       ]
     }
   ]
